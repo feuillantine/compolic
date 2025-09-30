@@ -1,0 +1,267 @@
+{
+  "name": "本田正樹",
+  "sortName": "ホンダマサキ",
+  "tracks": [
+    {
+      "id": "20e254ec-945c-4ec1-a89b-2a3833883295",
+      "title": "トレフル・ド・ノエル",
+      "artist": "菊地 真",
+      "isrc": "JPI102103271",
+      "releaseDate": "2021-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4fucPRyOOv2aA6G44JWy2Y",
+      "isFallback": false
+    },
+    {
+      "id": "aa36f1d2-7e37-4222-9cfb-09b857c75e50",
+      "title": "スバラシキセカイ",
+      "artist": "LAVILITH",
+      "isrc": "JPU901701324",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/0i71DNuAwapMUO6Az6RLuK",
+      "isFallback": true
+    },
+    {
+      "id": "4c93394e-e226-4fb7-a010-bd3ef1202343",
+      "title": "Kitty Cat Adventure",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01911322",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/5VnualTW7Is81noPO5X7VD",
+      "isFallback": true
+    },
+    {
+      "id": "fcaacfc6-8f9a-4d99-bba5-f57f7e6899a6",
+      "title": "ウルトラセオリー",
+      "artist": "内海将",
+      "isrc": "JPPC01802034",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/5vAFgkUg6Exml0ojCmDOIl",
+      "isFallback": true
+    },
+    {
+      "id": "0fe1357b-e120-4831-aba3-fdf38b5a3476",
+      "title": "アイツとキミ〜二度とない運命〜",
+      "artist": "中野二乃",
+      "isrc": "JPPC01900061",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0vAYoHRJdqWgkYopKgPrfb",
+      "isFallback": true
+    },
+    {
+      "id": "c9f79c0e-c48c-4e8f-8cc9-6fbe7af72a2b",
+      "title": "シトラスは片想い",
+      "artist": "Ci+LUS",
+      "isrc": "JPVI01819020",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3AQ4r95AjfmtOGufqqiVzN",
+      "isFallback": true
+    },
+    {
+      "id": "e6483008-8907-4d86-852f-befcb6a2a728",
+      "title": "TRIGGER (yukkunn's Remix)",
+      "artist": "The QUEEN of PURPLE",
+      "isrc": "",
+      "releaseDate": "2019-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9a274024-b925-48cb-a3f5-40dcda4ca3af",
+      "title": "SPARKLEscape",
+      "artist": "サラ",
+      "isrc": "JPD732300219",
+      "releaseDate": "2023-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/4R5pcMWI0dNF13uSao4auF",
+      "isFallback": false
+    },
+    {
+      "id": "e7515336-208b-4950-b8a7-c5120a92d097",
+      "title": "桜色ダイアリー",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPU901701318",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/00CKhdlukHLZCfEYlXJO1Z",
+      "isFallback": true
+    },
+    {
+      "id": "72c13a48-64bc-41af-aeab-337bf0c4acf4",
+      "title": "フルーツパンチ",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102501793",
+      "releaseDate": "2025-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/71ZkiWVksVjsB3qpBiNik0",
+      "isFallback": true
+    },
+    {
+      "id": "a28a2b8c-f9b7-4a09-8a45-ae18cb404e0d",
+      "title": "Very Merry Happy Christmas",
+      "artist": "小倉唯",
+      "isrc": "JPKI02015754",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/1g8xPbo2oniJc4Dj7L5lp3",
+      "isFallback": true
+    },
+    {
+      "id": "20affd72-6764-4e15-8c23-e1022d22085f",
+      "title": "星宙のVoyage",
+      "artist": "オペラセリア・煌輝座",
+      "isrc": "JPI102001055",
+      "releaseDate": "2020-09-23",
+      "spotifyUrl": "https://open.spotify.com/track/5e4D4vLyTt7QSfIuEuHakG",
+      "isFallback": false
+    },
+    {
+      "id": "72c3f60d-690a-4b58-88d7-3531859de13b",
+      "title": "Lovely Happily Shiny Days",
+      "artist": "小倉唯",
+      "isrc": "JPCO02429380",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/0F80404kP7zmKwlXsFw6Uw",
+      "isFallback": true
+    },
+    {
+      "id": "69b8785c-c31b-46e2-b182-25eaebb589cb",
+      "title": "Unknown Boxの開き方",
+      "artist": "MILLIONSTARS Team6th",
+      "isrc": "JPI102302183",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/60q9at6fb6fDTMy57pmrAJ",
+      "isFallback": false
+    },
+    {
+      "id": "9bf6d213-c8c6-4921-b9fc-6116d6696b2b",
+      "title": "So☆Lucky",
+      "artist": "小倉唯",
+      "isrc": "JPCO02505110",
+      "releaseDate": "2025-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/48ghe6QvpPzL1iP1CYDzvb",
+      "isFallback": false
+    },
+    {
+      "id": "a47a1262-69e9-44b1-8060-2a5a98f14e1d",
+      "title": "大げさに愛と呼ぶんだ",
+      "artist": "大室花子",
+      "isrc": "JPI102302589",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/3nDMv3YVppFMH6038TEcZf",
+      "isFallback": true
+    },
+    {
+      "id": "9a47bdd5-a29e-431e-898f-c5a96fe843da",
+      "title": "最っ高のエンタメだ!!",
+      "artist": "7EVENDAYS⇔HOLIDAYS",
+      "isrc": "JPD732100304",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/3yxJjpOAQuXCxWsVOmOPng",
+      "isFallback": true
+    },
+    {
+      "id": "dbd1599a-8b17-47ee-94e9-604fc3850bd9",
+      "title": "My Dear SiSTARS!",
+      "artist": "大室櫻子",
+      "isrc": "JPI102302588",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/0LlhkNZFGhKxjZwiDi3nT2",
+      "isFallback": true
+    },
+    {
+      "id": "6ad6c92f-57bf-4a0f-b6e1-cc13e3b6fed3",
+      "title": "Fight for Victory",
+      "artist": "彩音",
+      "isrc": "JPK632202302",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/0RC9chSsPDYzRnmYsJciV5",
+      "isFallback": true
+    },
+    {
+      "id": "99fd2267-9662-43e8-9d9d-91f731d80aa1",
+      "title": "フリースタイル・トップアイドル!",
+      "artist": "ARMooo",
+      "isrc": "JPI102100441",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/7DpjzwMD1nsdcIMyUR47ZQ",
+      "isFallback": false
+    },
+    {
+      "id": "ba5c8d34-970d-411a-b71c-0092632f8434",
+      "title": "ぎゅっと！",
+      "artist": "河西智美",
+      "isrc": "JPKI01716600",
+      "releaseDate": "2017-11-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "253b8a0e-fe37-4e43-a13d-e8027bd77893",
+      "title": "You & I",
+      "artist": "石原夏織",
+      "isrc": "JPPC02001232",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/4Dj60L3S9K3d4oBQa2s6Sk",
+      "isFallback": true
+    },
+    {
+      "id": "df057b02-b66d-44e4-9691-2711ac0d15c5",
+      "title": "Sing a World〜キミがくれた魔法〜",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632105301",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/5uKDWQBLmWzPFvXaxd2o2F",
+      "isFallback": true
+    },
+    {
+      "id": "b9bc762e-2cc1-4bea-8d1f-e503ae3bbb35",
+      "title": "Sparking light",
+      "artist": "鈴木このみ",
+      "isrc": "JPV731900001",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/4AhLV4Tg3g394IRLmyGeQg",
+      "isFallback": true
+    },
+    {
+      "id": "c53af91b-1891-4fde-af73-e240ff24946a",
+      "title": "Hop Step Jump!",
+      "artist": "小倉唯",
+      "isrc": "JPKI01910299",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/2EtmojXlujUfZSuZbG6YYr",
+      "isFallback": true
+    },
+    {
+      "id": "1ab0dd8d-b527-43dc-a092-5cd1d2f756c9",
+      "title": "無敵のフロンティア三銃士",
+      "artist": "三角 葵",
+      "isrc": "JPD732100305",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/5YdA48hqAJvY8gloRgGZiB",
+      "isFallback": true
+    },
+    {
+      "id": "00d21748-3bf6-40ca-9d82-febe084d5835",
+      "title": "アポイント・シグナル",
+      "artist": "月岡恋鐘",
+      "isrc": "JPI102002102",
+      "releaseDate": "2021-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/1tzdwmLDF6Uiazc80vN7KJ",
+      "isFallback": false
+    },
+    {
+      "id": "4f86ccc4-d097-49c9-a860-834ca7dca7c5",
+      "title": "放課後のリバティ",
+      "artist": "halca",
+      "isrc": "JPU901902435",
+      "releaseDate": "2019-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/44Opd02AZ2KRYM4JMb9RvM",
+      "isFallback": true
+    },
+    {
+      "id": "d9439aae-2998-41e5-bbfe-a576e6de23f0",
+      "title": "「ミタナ? ミタヨネ?? ミテルヨネ???」",
+      "artist": "四谷みこ",
+      "isrc": "JPD732100326",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/5gm3ROia1dHKL3yoE1rpYe",
+      "isFallback": true
+    }
+  ]
+}

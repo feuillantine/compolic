@@ -1,0 +1,24 @@
+{
+  "name": "りめな",
+  "sortName": "リメナ",
+  "tracks": [
+    {
+      "id": "87af6954-4a86-4aec-b45a-db493d89e716",
+      "title": "Candy Box",
+      "artist": "夏空のオリオン",
+      "isrc": "TCJPD2536100",
+      "releaseDate": "2025-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/0OoHR0k2f5LPuxQPRlYKZp",
+      "isFallback": true
+    },
+    {
+      "id": "340dde00-c18b-4b65-8012-7d8ac357c768",
+      "title": "アルタイル",
+      "artist": "SW!CH",
+      "isrc": "JPB622400381",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/2GQbCnETYWveso9Yln5akp",
+      "isFallback": true
+    }
+  ]
+}

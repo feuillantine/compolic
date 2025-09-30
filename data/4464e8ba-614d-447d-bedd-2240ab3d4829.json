@@ -1,0 +1,348 @@
+{
+  "name": "塚田耕平",
+  "sortName": "ツカダコウヘイ",
+  "tracks": [
+    {
+      "id": "b1b8ae5c-1552-456f-b3e7-63e5c37c7714",
+      "title": "青春“サブリミナル”",
+      "artist": "=LOVE",
+      "isrc": "JPU902002785",
+      "releaseDate": "2020-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/2lpHfe1D2HQIM2C4ASG7h9",
+      "isFallback": true
+    },
+    {
+      "id": "55f6822b-257e-4ffd-ba93-f9c78fe600cc",
+      "title": "夏祭り恋慕う",
+      "artist": "=LOVE",
+      "isrc": "JPU902101924",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/3ioOfUCna1YQNWZuIALTrM",
+      "isFallback": true
+    },
+    {
+      "id": "13f381af-4aa6-4ad3-80ed-53593ab6bb35",
+      "title": "「君と私の歌」",
+      "artist": "=LOVE",
+      "isrc": "JPU902000988",
+      "releaseDate": "2020-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/4bKDv3H7XigHrVYwUwCjiR",
+      "isFallback": true
+    },
+    {
+      "id": "35fef5a8-d455-49ee-b131-9b34a1563e93",
+      "title": "そばにいるよ",
+      "artist": "シャイ/紅葉山テル",
+      "isrc": "JPI102401607",
+      "releaseDate": "2024-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/108QDKVzyBowffDzU6RA66",
+      "isFallback": true
+    },
+    {
+      "id": "cfd4393f-3883-4b2c-afeb-b335f82ad098",
+      "title": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102401585",
+      "releaseDate": "2024-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/29vY6gIKRje259YNZ7FyDb",
+      "isFallback": true
+    },
+    {
+      "id": "0cae356a-2725-438c-b11b-cb5b1ae3e675",
+      "title": "あと、ちょっと",
+      "artist": "岡咲美保",
+      "isrc": "JPKI02315528",
+      "releaseDate": "2024-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/4jjNhKHFkGh3njT2SCpoCz",
+      "isFallback": false
+    },
+    {
+      "id": "8964e492-91fb-46e2-89b5-a116bedfee86",
+      "title": "僕のヒロイン",
+      "artist": "=LOVE",
+      "isrc": "JPU902201380",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/5wmUZFDrHXM5zY1Eyg4Vxq",
+      "isFallback": true
+    },
+    {
+      "id": "e5e87b33-c6a7-4751-b48c-b3ded4eff02e",
+      "title": "FIRST DROP",
+      "artist": "halca",
+      "isrc": "JPU902001748",
+      "releaseDate": "2020-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/6Rd0xz9xMD0lP6jVVY0NHX",
+      "isFallback": true
+    },
+    {
+      "id": "87995a3f-1c47-4297-9221-2bf61d714715",
+      "title": "Innocent Notes",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01802603",
+      "releaseDate": "2019-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/7dFA8JSwz6uGw9PKuUf9zy",
+      "isFallback": true
+    },
+    {
+      "id": "3b236ca4-8e0d-4e26-920a-4db429a2cee6",
+      "title": "おかえり、花便り",
+      "artist": "山本杏奈",
+      "isrc": "JPU902300993",
+      "releaseDate": "2023-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/32Hbk014rXam5hwNMX0Qnp",
+      "isFallback": true
+    },
+    {
+      "id": "1e68e4f0-3a9c-4546-9785-b9379ada9db1",
+      "title": "ゼッタイ！キミ宣言♡",
+      "artist": "女神寮生+α",
+      "isrc": "JPD732100256",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/5gszjh571HfTM2o2aJtVkO",
+      "isFallback": true
+    },
+    {
+      "id": "d701e92c-eb58-4de0-b7a4-26a268af41a7",
+      "title": "ねぇ、ねぇ、ねぇ",
+      "artist": "櫻木真乃",
+      "isrc": "JPI102402666",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2mVvj2WIspKFtSeLiq5rRX",
+      "isFallback": true
+    },
+    {
+      "id": "7b1f5eb4-d819-435b-ab9a-4ea4da52e6a5",
+      "title": "Hello, new dream!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102500777",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2yvbdK6QdPsNu572SDuz1G",
+      "isFallback": true
+    },
+    {
+      "id": "564e8aa1-2bd6-4943-8309-d96abfdd6e98",
+      "title": "ジワるDAYS",
+      "artist": "AKB48",
+      "isrc": "JPKI01910953",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/4YPSU4Z7HZcFb4Hpti04cR",
+      "isFallback": true
+    },
+    {
+      "id": "0a76908a-ef48-441c-9ac0-85c8c22d5407",
+      "title": "オモヒビト",
+      "artist": "なんキニ！",
+      "isrc": "JPVI02200203",
+      "releaseDate": "2022-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/5a88AXSvnUGB9eca6J2rGL",
+      "isFallback": true
+    },
+    {
+      "id": "1f25ec52-6da1-406c-bbd3-011fa3744d55",
+      "title": "Chu! Chocolate",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102500200",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/0b5BAuKB8xAe0CuTN08rcA",
+      "isFallback": true
+    },
+    {
+      "id": "41afb007-d646-4864-a861-fd5d4329be24",
+      "title": "涙のあとは",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01711251",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/6KmCope8ecb58H1a28A46t",
+      "isFallback": true
+    },
+    {
+      "id": "dce0c71f-98e6-4422-9a8a-1ad3caf8864f",
+      "title": "今すぐKiss Me!",
+      "artist": "あかせあかり",
+      "isrc": "JPU902401797",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/6eqlxxFAiOLMetyU1ZiOnt",
+      "isFallback": true
+    },
+    {
+      "id": "80e79b5e-5a5c-4028-8edf-1fb14b355468",
+      "title": "ユメワズライ",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102500199",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/1P81x2eE9T3ad6MZ5z638f",
+      "isFallback": true
+    },
+    {
+      "id": "855494f6-f071-4ae9-9d17-fea558d5ec0e",
+      "title": "恋の根拠",
+      "artist": "ハイウェイガールズ",
+      "isrc": "JPB602000187",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1YtnJKXcOSPKmcPPUV8gb0",
+      "isFallback": true
+    },
+    {
+      "id": "d34aa325-29a7-4cd7-ad0f-ab652ba6cc6a",
+      "title": "シリタイキモチ",
+      "artist": "紅葉山テル",
+      "isrc": "JPI102302014",
+      "releaseDate": "2023-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/3WhM7vBmnFtItH9ig53267",
+      "isFallback": true
+    },
+    {
+      "id": "94682bed-2c11-4074-bb1d-58b9c3e6ba3d",
+      "title": "よろしく九九組",
+      "artist": "スタァライト九九組",
+      "isrc": "JPPC01800879",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/5pksCp5DWnrO7vO1VFSxGn",
+      "isFallback": false
+    },
+    {
+      "id": "0eac1957-e4a5-43e5-af41-a7b1ba1e369c",
+      "title": "PRESENT MARCH♪",
+      "artist": "ハルウララ",
+      "isrc": "JPI102101930",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/0b8s9qS1zNnjLwmcvYWt8P",
+      "isFallback": true
+    },
+    {
+      "id": "0eae9d4a-ec3b-42e7-ac2a-02181296e20c",
+      "title": "好きって、言えなかった",
+      "artist": "=LOVE",
+      "isrc": "JPU902203163",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/44DNfb3YuvKyfVn7hBpgkR",
+      "isFallback": true
+    },
+    {
+      "id": "ee080d3d-f406-4817-a66c-805f5736d123",
+      "title": "真夏のDiary",
+      "artist": "ハニースパイスRe.",
+      "isrc": "TCJPS2267278",
+      "releaseDate": "2022-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/1txjELIqzl4acOmKcupzAl",
+      "isFallback": true
+    },
+    {
+      "id": "f494eb58-70e9-4d8b-86c6-48b7ddbce301",
+      "title": "この空がトリガー",
+      "artist": "=LOVE",
+      "isrc": "JPU902205331",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4arfSKKkXE9lbWSSipvfio",
+      "isFallback": true
+    },
+    {
+      "id": "a2aeab2a-5a5e-48f6-9bf5-143b221abb79",
+      "title": "Celebration!",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102500773",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/4gLeQMdhBO0K5odGQJZmYn",
+      "isFallback": true
+    },
+    {
+      "id": "ae2e6a81-9d17-404a-a72f-8c5575b6c082",
+      "title": "your words",
+      "artist": "内田雄馬",
+      "isrc": "JPKI02118361",
+      "releaseDate": "2022-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/5ca3h95YIKy9Bo6q5ME6fw",
+      "isFallback": true
+    },
+    {
+      "id": "21dcb7d8-2f1d-40af-b71e-3927bf4faebc",
+      "title": "扉を開けてベルを鳴らそう",
+      "artist": "あおい",
+      "isrc": "JPKI02213429",
+      "releaseDate": "2022-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/6n1RaJCTDpIeatXvsCDlZ0",
+      "isFallback": true
+    },
+    {
+      "id": "6c4e9f11-d88a-4506-bc36-10fd9f2c33cd",
+      "title": "Hang In There!",
+      "artist": "Jus-2-Mint",
+      "isrc": "JPI102000084",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/44MHmMmHmd7sJybFRaRtDp",
+      "isFallback": false
+    },
+    {
+      "id": "dcff0395-9a67-4db3-aab3-853fe2cbe49b",
+      "title": "輝け Make up! Shine☆",
+      "artist": "具志堅シュープ",
+      "isrc": "JPKI01816380",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/0tcb9aoo3Xhvl1YCdV01LX",
+      "isFallback": true
+    },
+    {
+      "id": "1d444824-b57f-49ba-8472-78dc7334ac45",
+      "title": "ラブソングが歌えない",
+      "artist": "結束バンド",
+      "isrc": "JPE302201062",
+      "releaseDate": "2022-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5e9Pocvg3lRkVAsAKeiNio",
+      "isFallback": false
+    },
+    {
+      "id": "ba2a99a5-a614-41cc-8903-5dc29286b6b7",
+      "title": "GOOD NEW MORNING",
+      "artist": "DRAMATIC STARS",
+      "isrc": "JPI102100337",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/3iuy5pmjX5igfneqNeE305",
+      "isFallback": false
+    },
+    {
+      "id": "6fbf7561-cade-46fb-b998-0355bf2bfb8b",
+      "title": "Bloom the smile, Bloom the dream!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102401581",
+      "releaseDate": "2024-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/2K5VPDehEvAmxg5f9PthxJ",
+      "isFallback": true
+    },
+    {
+      "id": "3ab0e709-da4f-44ae-aa8b-a0f8b7e11d47",
+      "title": "偽りない幸福を",
+      "artist": "グレーテ",
+      "isrc": "JPD732300220",
+      "releaseDate": "2023-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/39zR5plDd3qEYmTWxJkaU2",
+      "isFallback": false
+    },
+    {
+      "id": "297415f9-4e22-4162-b055-c3dc7f7e31ab",
+      "title": "ごめんね。のとなりで",
+      "artist": "SUPER☆GiRLS",
+      "isrc": "JPB601601048",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/7KvstQH8EgSEJfi7WW1glg",
+      "isFallback": true
+    },
+    {
+      "id": "af0ade6e-69a5-4676-996a-00426548edff",
+      "title": "赤いリボン",
+      "artist": "小倉唯",
+      "isrc": "JPKI01915827",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/4jSoPvkV82LyxplYNdnowd",
+      "isFallback": true
+    },
+    {
+      "id": "715d929f-8e6f-4bc5-9bc4-c7a029f53d82",
+      "title": "桜色ラビネス",
+      "artist": "小倉唯",
+      "isrc": "JPKI02210247",
+      "releaseDate": "2022-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/7dDG2osmHpfoNed8Fxeo5X",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "name": "なみぐる",
+  "sortName": "ナミクル",
+  "tracks": [
+    {
+      "id": "fa3d6e11-1ef6-4e51-b5ae-ef25cc83fd56",
+      "title": "ハリボテ",
+      "artist": "なみぐる",
+      "isrc": "JP92U2400179",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/14pHNvBUoM1y4UiDwjl0GJ",
+      "isFallback": true
+    },
+    {
+      "id": "ad72b2ed-d6b5-4348-b3c2-8f69ac9dac74",
+      "title": "わんぬ",
+      "artist": "なみぐる",
+      "isrc": "TCJPZ2451883",
+      "releaseDate": "2024-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/5Bep5gI27zXHarHK84qiN9",
+      "isFallback": true
+    },
+    {
+      "id": "96740a5f-8dce-4080-b97b-080abab9d336",
+      "title": "クソデカマジカルマジックマッシュルーム",
+      "artist": "なみぐる",
+      "isrc": "TCJPX2365494",
+      "releaseDate": "2023-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/5qes4jbJt7eTTOlEAul03m",
+      "isFallback": false
+    },
+    {
+      "id": "8e4c0ceb-2ed6-4d2b-905e-7193a9c894ba",
+      "title": "電脳眠眠猫",
+      "artist": "桃寝ちのい",
+      "isrc": "TCJPA2420605",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/1EEe3fqbkxjqZSv6f70iHG",
+      "isFallback": true
+    },
+    {
+      "id": "88a523fd-47d1-4d81-8531-26b314bc8bc2",
+      "title": "墨流し",
+      "artist": "なみぐる",
+      "isrc": "JPY392401757",
+      "releaseDate": "2024-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/2x7ZNptuN3e9sTdq3igMd8",
+      "isFallback": true
+    },
+    {
+      "id": "2f0808f4-4510-4b40-9dd1-e6a1132aea4d",
+      "title": "枯椿",
+      "artist": "なみぐる",
+      "isrc": "JP92U2400177",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1qkrXh5OZGRDBxZKsQPFhk",
+      "isFallback": true
+    },
+    {
+      "id": "1dd535ef-6731-459b-a29a-eea9dc5fb966",
+      "title": "太陽ポカポカで草",
+      "artist": "夢乃ゆき",
+      "isrc": "",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b92f496-13ec-451c-b141-e96911f31577",
+      "title": "ずんだタコヤーキ",
+      "artist": "なみぐる",
+      "isrc": "TCJPZ2443074",
+      "releaseDate": "2024-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/2MZiuVoViZgpoJ51UDsgQ9",
+      "isFallback": true
+    },
+    {
+      "id": "2772a834-a78f-4da8-ae3b-f8baffb4b816",
+      "title": "ホットダック！",
+      "artist": "大空スバル",
+      "isrc": "JPV752409178",
+      "releaseDate": "2024-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/7xG4Tfc7ORGirOWWA0wk6K",
+      "isFallback": true
+    },
+    {
+      "id": "fa4503c1-a380-44f5-bb47-e2c219e22f56",
+      "title": "ひみつのふふふ",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602500916",
+      "releaseDate": "2025-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/60wvcb9PbHlqhxeOAFKfwz",
+      "isFallback": true
+    },
+    {
+      "id": "caa4f5c6-2508-4822-8614-1b1c9cd819a2",
+      "title": "ずんだレンジャー",
+      "artist": "なみぐる",
+      "isrc": "TCJPD2588183",
+      "releaseDate": "2025-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4IaaK2F3nMJNrDTvaFoete",
+      "isFallback": true
+    },
+    {
+      "id": "46a44c9d-a3f1-40a5-bd58-a53489b2d174",
+      "title": "ずんだパーリナイ",
+      "artist": "なみぐる",
+      "isrc": "JPA652306312",
+      "releaseDate": "2023-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/5R1xmlRsHrf0xhkXCsDH3Z",
+      "isFallback": true
+    },
+    {
+      "id": "d6208d86-54b0-4d10-952f-efa616b6b393",
+      "title": "オツキミ超えてオツキアイ",
+      "artist": "をとは",
+      "isrc": "TCJPA2484231",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/7IzXqVDcyRNgh4z5taa0wZ",
+      "isFallback": true
+    }
+  ]
+}

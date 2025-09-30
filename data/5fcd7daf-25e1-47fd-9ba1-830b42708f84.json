@@ -1,0 +1,15 @@
+{
+  "name": "connie",
+  "sortName": "コニー",
+  "tracks": [
+    {
+      "id": "fdfa50bd-893b-4270-a86d-cb43515c1319",
+      "title": "Plenty Good Lovin",
+      "artist": "Connie Francis",
+      "isrc": "USF095925320",
+      "releaseDate": "2017-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/4tbBUvEBfOgi2ZTgsJbJTK",
+      "isFallback": true
+    }
+  ]
+}

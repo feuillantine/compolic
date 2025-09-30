@@ -1,0 +1,348 @@
+{
+  "name": "浅野尚志",
+  "sortName": "アサノタカシ",
+  "tracks": [
+    {
+      "id": "867df9e3-d3b7-4076-9b49-f237f14dc1a8",
+      "title": "∞リボンをギュッと∞ (ぐんまちゃんダンス)",
+      "artist": "内田彩",
+      "isrc": "JPCO02100940",
+      "releaseDate": "2021-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/508eJmmNooUIATgp6dMGrt",
+      "isFallback": false
+    },
+    {
+      "id": "83a97e12-bba9-4dfa-beb0-3cf71745c746",
+      "title": "ファンファーレは僕らのために",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01601201",
+      "releaseDate": "2016-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/2qfnlkBLtkv876jH4W6nA6",
+      "isFallback": true
+    },
+    {
+      "id": "706f9b72-1c56-465e-a069-5b66f92d8cef",
+      "title": "最Ψ最好調！",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01615801",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/1OWkxXIoqLbGCZ5gMYow3x",
+      "isFallback": true
+    },
+    {
+      "id": "1ddbd0a0-09fc-4929-a30b-eaa5c56568ab",
+      "title": "Sweet Memories",
+      "artist": "チームしゃちほこ",
+      "isrc": "JPWP01471447",
+      "releaseDate": "2014-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/34gWH49Vk7jtU3AOfTjPFj",
+      "isFallback": true
+    },
+    {
+      "id": "bd058eea-b413-4211-8ff9-c0e0a431384f",
+      "title": "アーティフィシャル・アイデンティティ",
+      "artist": "長瀬有花",
+      "isrc": "JPR502300898",
+      "releaseDate": "2023-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/6RO2Vb87ECY9MKMub0FLhw",
+      "isFallback": false
+    },
+    {
+      "id": "33853f44-b3c0-4eb1-ad53-f58535f97b1a",
+      "title": "エバーグリーン",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01812202",
+      "releaseDate": "2018-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/4oIkHK5e57dLvX9ewg8tqC",
+      "isFallback": true
+    },
+    {
+      "id": "1bf749ea-e3a9-40b6-90b2-a8cdbdbcefab",
+      "title": "ファミリーワールド",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02003501",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/0Fl9VSO1ixQ5P0qo9NDl0M",
+      "isFallback": true
+    },
+    {
+      "id": "6000255a-2531-4f8b-8d9a-4cb3ad0dcadf",
+      "title": "パーティーモンスター",
+      "artist": "Appare!",
+      "isrc": "TCJPV2338787",
+      "releaseDate": "2023-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5Qa1UA71bJvP0PHawd4dpD",
+      "isFallback": true
+    },
+    {
+      "id": "5fdeb043-0318-4285-9315-79ec9cddd84c",
+      "title": "僕はキミだけのおばけちゃん♡",
+      "artist": "虹のコンキスタドール",
+      "isrc": "TCJPT2248649",
+      "releaseDate": "2022-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/2U3kKIhidZSeklqfk8R8tV",
+      "isFallback": false
+    },
+    {
+      "id": "3edf536a-43db-4fe5-9034-25830ac506ba",
+      "title": "グレ☆サマ",
+      "artist": "根本凪",
+      "isrc": "JPZ922308460",
+      "releaseDate": "2023-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/0BBir5UcoEdKaAAb1eniG5",
+      "isFallback": false
+    },
+    {
+      "id": "88f6df12-cd63-482e-a309-5677eb5e21d3",
+      "title": "希望のヒカリ",
+      "artist": "Appare!",
+      "isrc": "TCJPZ2400365",
+      "releaseDate": "2024-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/3Zo32frqa6NamIMeGySApP",
+      "isFallback": false
+    },
+    {
+      "id": "7ef6a5cf-86ed-4169-9984-86ec5b37f8ae",
+      "title": "Miserable Rain",
+      "artist": "雪乃",
+      "isrc": "JPCO01255210",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/1zyqcxQiRGrFn4NXmLLsXi",
+      "isFallback": true
+    },
+    {
+      "id": "8fb85e21-0435-4619-b06b-9fc9f9d50daf",
+      "title": "なんてったってシャングリラ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01317206",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/5ApyEVc21p7BzAv0J0SRtu",
+      "isFallback": true
+    },
+    {
+      "id": "4a59ab83-7e07-4c0b-a3dd-b3c34b52ad8f",
+      "title": "Waiting Wedding",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01913553",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/4wXpgLH74ePLKODlGRu7Qi",
+      "isFallback": true
+    },
+    {
+      "id": "fe818aa0-66b2-4b53-bbbf-1b9cfb38c543",
+      "title": "やるっきゃない! 2015",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPR841300066",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5daabeed-9bfb-4760-a0cd-21f3343671d0",
+      "title": "あっぱれサマーっ!!",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPKI01914544",
+      "releaseDate": "2019-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1HGg3VPyizrrw8hU6K9rhb",
+      "isFallback": true
+    },
+    {
+      "id": "88927388-b583-43f9-8dd4-cbe98b099266",
+      "title": "ダンス ダンス ダンス",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01500102",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/3VbsgoXnRtQYOhePOd5uGB",
+      "isFallback": true
+    },
+    {
+      "id": "8715f3c9-33cd-41cc-89ee-89d207352466",
+      "title": "決勝戦はエブリデー",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPKI01918007",
+      "releaseDate": "2020-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/7bushbluAvRZ3gziGh5hKV",
+      "isFallback": true
+    },
+    {
+      "id": "13514cc4-17f0-4280-b262-ef2cdd524da7",
+      "title": "ガチ恋ですの♡あいうぉんちゅー！",
+      "artist": "虹のコンキスタドール",
+      "isrc": "TCJPZ2421678",
+      "releaseDate": "2024-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/0N4a2KhQAnRr0f9r5QgDmv",
+      "isFallback": false
+    },
+    {
+      "id": "caa88096-aa0d-40ed-bca7-66b23d339040",
+      "title": "再生▷ランダムランド",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02136910",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/0yJE31vLylnrY6pYrLUU4x",
+      "isFallback": true
+    },
+    {
+      "id": "aaaaaa09-97ea-4463-8afb-73b9b7c65950",
+      "title": "in(door) the Summer",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01817099",
+      "releaseDate": "2018-09-12",
+      "spotifyUrl": "https://open.spotify.com/track/1uRoienQz4M86CQv4GJvOt",
+      "isFallback": true
+    },
+    {
+      "id": "ccf34064-814e-49e5-b5b6-146dccdeea7d",
+      "title": "xoxo♡ソーダ",
+      "artist": "根本凪",
+      "isrc": "TCJPT2221895",
+      "releaseDate": "2022-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/3wLmfSsZTO2IkH5olHOrsL",
+      "isFallback": true
+    },
+    {
+      "id": "be171d7f-dce1-4eb1-8b21-beab687e74ae",
+      "title": "Ψ発見伝！",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01801203",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6nvDyXnSzhvFkHgnkPLM3i",
+      "isFallback": true
+    },
+    {
+      "id": "b24ea3f0-b30f-4af6-a5e2-bc4fd272fb75",
+      "title": "ときめき☆パラドックス",
+      "artist": "乙女新党",
+      "isrc": "JPVP01301702",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/4Clrzd1cz8WbABgObfKPap",
+      "isFallback": true
+    },
+    {
+      "id": "68da7664-872c-4ca6-9795-5ac4ce01e993",
+      "title": "夜更かしシンデレラ",
+      "artist": "さよならステイチューン",
+      "isrc": "JPC622301101",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/2mLifilXPyd380ySlHG0qs",
+      "isFallback": false
+    },
+    {
+      "id": "d1f8daf6-b6e5-4fb4-98e7-ef66df10428d",
+      "title": "WWDBEST",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01619801",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4ytKvlaGYQT4yo6tIb1iEa",
+      "isFallback": true
+    },
+    {
+      "id": "46adfdce-a308-4c8d-82c6-bf705b847690",
+      "title": "ユメ射す明日へ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01605106",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/0UmUaz3PsBZlQGXAstcIVH",
+      "isFallback": true
+    },
+    {
+      "id": "f77c2010-5680-4676-bcbb-164908df7701",
+      "title": "RanTiKi",
+      "artist": "雪乃",
+      "isrc": "JPCO01255200",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/7vxYMs1wKkOyLAPSzpeBR9",
+      "isFallback": true
+    },
+    {
+      "id": "ce22ad61-91b5-42c8-a43c-b5eb268d0a2c",
+      "title": "ギラメタスでんぱスターズ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01801202",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7npdKML1znhBVyhH1G5FMB",
+      "isFallback": true
+    },
+    {
+      "id": "d7b9311b-881f-429a-8720-6591d3d39c4f",
+      "title": "DEMPARK",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02215501",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1oAJ48ngJ1vKA5xfpa1UtY",
+      "isFallback": true
+    },
+    {
+      "id": "f88caa69-c962-4939-88cb-8c850714fd3f",
+      "title": "キョーリョク・パートナー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPZ922306575",
+      "releaseDate": "2023-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/2QBpWYKOEvCBms4zqq7PRa",
+      "isFallback": false
+    },
+    {
+      "id": "25d3a37f-f7ee-4d58-8fc4-691107710832",
+      "title": "愛が地球救うんさ！だってでんぱ組.incはファミリーでしょ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02003502",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/4uSP2P6XstviOb7pOqIhsT",
+      "isFallback": true
+    },
+    {
+      "id": "4c9c2913-3d6a-4f2e-92cb-2490dfc425a2",
+      "title": "でんぱでぱーちゃー",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02311603",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/4cGF6qbu54c6XlmSCs9mjH",
+      "isFallback": true
+    },
+    {
+      "id": "b7708576-7ee9-4d99-82c8-916a67e3c211",
+      "title": "バリ3共和国",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01415002",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/0QDj02GbKvWBfa6dheB3Nm",
+      "isFallback": true
+    },
+    {
+      "id": "9dd0aecf-efcb-4474-b82e-53eed69f0c04",
+      "title": "ニッポン饅頭",
+      "artist": "LADYBABY",
+      "isrc": "TCJPC1588265",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/4fUGBSUD4lYiJNwhBWYWcl",
+      "isFallback": true
+    },
+    {
+      "id": "ba1463ad-4cf0-4ae3-a458-ed7e16907458",
+      "title": "GOGO DEMPA",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01605101",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7ftWJe23CU3T4oJJTVfhx8",
+      "isFallback": true
+    },
+    {
+      "id": "8402a47d-fd4e-491d-84f5-b26e4392643a",
+      "title": "Dem Dem X'mas",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01521101",
+      "releaseDate": "2015-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/6WTRBeerwYna0xkDMVJ5Pp",
+      "isFallback": true
+    },
+    {
+      "id": "1994692c-a9f9-4a92-aa3c-5de499000d3d",
+      "title": "でんぱな世界 〜It's a dempa world〜",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01500101",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/6Rnboft1DlDJZLoN4OtHBn",
+      "isFallback": true
+    }
+  ]
+}

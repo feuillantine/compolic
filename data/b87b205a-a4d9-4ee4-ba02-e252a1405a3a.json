@@ -1,0 +1,492 @@
+{
+  "name": "利根川貴之",
+  "sortName": "トネガワタカユキ",
+  "tracks": [
+    {
+      "id": "69c0ac02-7e9f-4659-a51e-70b1f9ca4aa9",
+      "title": "手紙を書くの",
+      "artist": "八束由紀恵",
+      "isrc": "JPPC01700063",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/51GGCaHAavcNFsM3fce7rz",
+      "isFallback": false
+    },
+    {
+      "id": "2a2f1b48-e803-4186-9ad6-6d910a7ad458",
+      "title": "最愛よ君に届け",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402300129",
+      "releaseDate": "2023-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4FGlB7YiROYQhjfO6BOqTK",
+      "isFallback": false
+    },
+    {
+      "id": "a037b7e4-6395-4d4e-85bb-0d3e4f39b94c",
+      "title": "その時、Fantastic Girl!",
+      "artist": "見吉奈央",
+      "isrc": "JPPC01601311",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6iPTEJQclP2vTNFKDSeE4Y",
+      "isFallback": false
+    },
+    {
+      "id": "74758803-86a9-424c-9abe-54e8b0e79c94",
+      "title": "Baby Star",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401154",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/7xdhDi0P6lW3Dvm3BKvX3S",
+      "isFallback": true
+    },
+    {
+      "id": "cfa1133c-c594-47a7-b779-f05e92868615",
+      "title": "Stand 〜ここにいるよ〜",
+      "artist": "宇宙は11次元で出来ている",
+      "isrc": "JPTF01412001",
+      "releaseDate": "2014-09-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bff9bfe5-39d1-4537-8f2a-1f6d2db5cef8",
+      "title": "未来絶対",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401155",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/3uMJlpcawQ3rnhgD3IgFBz",
+      "isFallback": true
+    },
+    {
+      "id": "d31d5cf3-4440-4599-a81e-97c05d160842",
+      "title": "君の歌 僕の歌",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPU901700314",
+      "releaseDate": "2017-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/43DGGEBvNcDTDRQAmXLdAT",
+      "isFallback": true
+    },
+    {
+      "id": "dd508b2f-76c7-4259-95f5-2f1dd328c0a8",
+      "title": "つなぐもの",
+      "artist": "ユイ",
+      "isrc": "JPCO01721530",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/3X9Mn3P7bF9z4GswVYaVEF",
+      "isFallback": false
+    },
+    {
+      "id": "a46231da-856b-49e9-9a20-c3293b68142e",
+      "title": "YOUをちぇっくします!",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921502660",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/7zvefnTUsOyWZmJOJnNLFi",
+      "isFallback": true
+    },
+    {
+      "id": "fd2eb9b5-a404-44e6-a927-a9b04af4c8a9",
+      "title": "びゅーてぃふぉーでいず",
+      "artist": "ハニースパイスRe.",
+      "isrc": "TCJPZ2448290",
+      "releaseDate": "2024-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/5gk9KxFnoOoW5hfrl62znq",
+      "isFallback": true
+    },
+    {
+      "id": "b41fd7c3-8a94-4af1-8788-20f8486ae4dc",
+      "title": "Vana Scusa⊿",
+      "artist": "綺星★フィオレナード",
+      "isrc": "TCJPM2079394",
+      "releaseDate": "2020-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0j4mQ2mfeaQPakMELHoVAR",
+      "isFallback": true
+    },
+    {
+      "id": "428af29c-a083-4f72-b51a-f0f612aeb7fa",
+      "title": "はじまりがはじまる",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921413482",
+      "releaseDate": "2014-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/4UE90fl0xV9zmngpyk2RLA",
+      "isFallback": true
+    },
+    {
+      "id": "6c39546d-d965-4c10-8421-6e5556d2ccb0",
+      "title": "クリスマスには君と",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402200186",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/3PCdL2QfhQcFjZcUo1uiHI",
+      "isFallback": false
+    },
+    {
+      "id": "bdda4977-8ee0-4807-9b96-7ef3d0d7a7f7",
+      "title": "先生!次はバトルの時間です。",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01303001",
+      "releaseDate": "2013-05-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3518c695-92ca-4f74-8311-aab5b1911a3f",
+      "title": "Everybody Singin’ Singin’ Melody",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921514939",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/6c8ucVZeLBquA6cEDEdLEL",
+      "isFallback": true
+    },
+    {
+      "id": "29dc8a9e-be57-4cb6-ae95-84beb4e62dfb",
+      "title": "覚醒〜Alternative Heart〜",
+      "artist": "オルタナティブガールズ",
+      "isrc": "JPPC01602663",
+      "releaseDate": "2018-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1QHJlIuoVWKKl64SiOE0L1",
+      "isFallback": true
+    },
+    {
+      "id": "415115ff-b7e0-4ffe-9299-177dc34cca9e",
+      "title": "恋と花火",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402100102",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/5EMLvmz2wUoNk3hwwVdHoI",
+      "isFallback": false
+    },
+    {
+      "id": "32246fcd-0c6e-4f62-9fec-42e6f8ab0b00",
+      "title": "煌々◇ナミダ (2020ver.)",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02000950",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/7jKdbS6SwIEwYTWYmXttfM",
+      "isFallback": true
+    },
+    {
+      "id": "6e8a916e-0f65-4106-baad-54059244efa6",
+      "title": "初恋 A to Z",
+      "artist": "神楽坂砂夜",
+      "isrc": "JPPC01702955",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/1X8AQLqgdKRqyAWycSAfeg",
+      "isFallback": false
+    },
+    {
+      "id": "c7fb15eb-bdd1-4243-b9c3-7fa50dbfebf2",
+      "title": "The One and Only",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402000116",
+      "releaseDate": "2021-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/4peMyj40Ylr8KROXEqKhVH",
+      "isFallback": false
+    },
+    {
+      "id": "ec858d1e-0034-484d-9ff7-2198ba0f1f4e",
+      "title": "La mia adolescenza. 2020ver.",
+      "artist": "綺星★フィオレナード",
+      "isrc": "TCJPM2079445",
+      "releaseDate": "2020-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/2KrYQKOOxymUPd1ijRWxiu",
+      "isFallback": true
+    },
+    {
+      "id": "653602f3-6fd3-4884-b7d6-6942b2a8ec18",
+      "title": "はるかかなたで夢見ましょ",
+      "artist": "天都かなた",
+      "isrc": "JPVP01423303",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/38pDty34LXp1NFUTiJZsvo",
+      "isFallback": false
+    },
+    {
+      "id": "ed5a4126-06e8-4ffc-ac52-a3bb410e3ee3",
+      "title": "Fun! Fun! Christmas Party Night",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPU901603593",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/59MSBQkasn0GZ0TJkEuttU",
+      "isFallback": true
+    },
+    {
+      "id": "9102960a-02f7-4ad0-9117-305946643329",
+      "title": "月下儚美",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402000082",
+      "releaseDate": "2021-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/0VFa12ipa4qctveTMtZzu8",
+      "isFallback": false
+    },
+    {
+      "id": "1992d732-723a-4301-a911-73e105a9da54",
+      "title": "柑橘系のエトセトラ",
+      "artist": "葉月柚子",
+      "isrc": "JPVP01423105",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/2kx4JElwiqYdv1cJf3Ukad",
+      "isFallback": false
+    },
+    {
+      "id": "764b17f9-713d-47d0-a422-7a8a840451ab",
+      "title": "Honeys!!!",
+      "artist": "ハニースパイスRe.",
+      "isrc": "TCJPL2081256",
+      "releaseDate": "2020-06-08",
+      "spotifyUrl": "https://open.spotify.com/track/2vSF5OzuxLnR8FNCDvME0h",
+      "isFallback": true
+    },
+    {
+      "id": "ddbd7481-97ff-4932-a7c3-dcdba767afde",
+      "title": "天使と悪魔",
+      "artist": "赤崎こころ",
+      "isrc": "JPX402400098",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7267XfqrF1Za1CV55DjJlq",
+      "isFallback": true
+    },
+    {
+      "id": "54e6d695-2760-44d2-adab-62dc3ff9a893",
+      "title": "今輝く日々",
+      "artist": "ランチタイムデザート",
+      "isrc": "JPPC01700335",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/1hhb5axLN24jPC26MSFogJ",
+      "isFallback": false
+    },
+    {
+      "id": "6d80c93c-42d3-450f-a948-2c5cc0a265eb",
+      "title": "Daytime Moon",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402000081",
+      "releaseDate": "2021-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/0pqDFoBfFU2kp1vV1JWvqg",
+      "isFallback": false
+    },
+    {
+      "id": "4cc8b535-24c7-49e0-b4d0-841b3b105aea",
+      "title": "真っ白な未来",
+      "artist": "真白透子",
+      "isrc": "JPPC01700929",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/1F2gFa4ztxz9tZ1dEWjynD",
+      "isFallback": false
+    },
+    {
+      "id": "9ad21b48-ac7c-4077-b8ed-f51adaa8710f",
+      "title": "You’re My Sunshineのテーマ",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401157",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2xjHFAvdGIn62L7ESKGwXc",
+      "isFallback": true
+    },
+    {
+      "id": "3be481c2-979c-4786-accb-247f25c4d2cd",
+      "title": "ORANGE RIUM",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01302802",
+      "releaseDate": "2013-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/7hhyuf4pynfNcILfODBgcY",
+      "isFallback": true
+    },
+    {
+      "id": "4134e5ba-ef09-41a0-ad71-3b3beb0d5130",
+      "title": "儚恋‖セパレート",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02000910",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/7hp76tBeqraQvyfcaho6Rc",
+      "isFallback": true
+    },
+    {
+      "id": "3ffb9625-f355-41ef-94ff-1f059d3b7317",
+      "title": "月ノヒカリ",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402400063",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/3b2qFO1vL5c0DRchm2nj9J",
+      "isFallback": true
+    },
+    {
+      "id": "a5c56a86-1159-49ca-b106-754de00fba8d",
+      "title": "ココロ Distance",
+      "artist": "一ノ瀬怜",
+      "isrc": "JPX402100185",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/1nuyzMEOZrkPobW7Zjh96P",
+      "isFallback": false
+    },
+    {
+      "id": "75682558-484d-415e-80e8-58a1e8f63ad1",
+      "title": "君もClap Your Hands!",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921508137",
+      "releaseDate": "2015-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/66f1U3XVt7jHYdNcHCauAD",
+      "isFallback": true
+    },
+    {
+      "id": "ccc20671-ef3d-4cad-913a-ebbd60e465b2",
+      "title": "fiore d’amore* 2020ver.",
+      "artist": "綺星★フィオレナード",
+      "isrc": "TCJPM2079435",
+      "releaseDate": "2020-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0U6cJYR1SFKfLorzfq7aos",
+      "isFallback": true
+    },
+    {
+      "id": "559cbd24-e69a-4d01-8634-25d709b9588d",
+      "title": "You’re My Sunshine",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401152",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1FJD3IORQyw5AdJObOLNDY",
+      "isFallback": true
+    },
+    {
+      "id": "6cd442f6-2ab3-494f-9ad8-5639145c019f",
+      "title": "欲しいよ",
+      "artist": "伊吹渚",
+      "isrc": "JPX402300188",
+      "releaseDate": "2023-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0SNPqncdAtKhO96Dh9a42d",
+      "isFallback": false
+    },
+    {
+      "id": "06fa7ff4-dfd7-421a-917a-53f62bd89d45",
+      "title": "幸福結界",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921508140",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/0J0hRTSQcbWjjgYIhPMKIv",
+      "isFallback": true
+    },
+    {
+      "id": "3da7017e-954a-4a28-a71c-0088ed02e6f3",
+      "title": "Pa Passion",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401153",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1eF5gF5UEbmjwrJOIzRdoZ",
+      "isFallback": true
+    },
+    {
+      "id": "6860b7a1-1259-4260-ac54-d0fa6588134e",
+      "title": "You & Me Song",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401156",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1CjYtPD6O76PqJZfgZUZlD",
+      "isFallback": true
+    },
+    {
+      "id": "8ee0cc1b-fb98-48a8-8f4b-3e8a157506d7",
+      "title": "Hi! Hi! Hi!",
+      "artist": "メイビーME",
+      "isrc": "TCJPX2320161",
+      "releaseDate": "2023-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/6GPfPtcOxpcg08KCW0YBFW",
+      "isFallback": false
+    },
+    {
+      "id": "3935fccf-ca24-448c-a3cc-969d9a4406f2",
+      "title": "壊れそうな恋心",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921514938",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/6hvmrjN2sRJFtvykWCdVEl",
+      "isFallback": true
+    },
+    {
+      "id": "75d9bee0-9798-4860-9930-a48e9a4273e2",
+      "title": "Question",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402300171",
+      "releaseDate": "2023-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/1b0MZPSrP6oh2DMJrlaPfT",
+      "isFallback": false
+    },
+    {
+      "id": "237c0efa-8a2c-4879-9542-662c3ce09322",
+      "title": "悲しみキャリブレーション",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921413481",
+      "releaseDate": "2014-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/0zK1NTKtwESI1587P00xxC",
+      "isFallback": true
+    },
+    {
+      "id": "88197a30-932b-4baa-a8e8-18543c2a644b",
+      "title": "おもてなでしこ伝承中",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921514940",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2YhXokhQHcCJpBUEwPxgcB",
+      "isFallback": true
+    },
+    {
+      "id": "3da74ea8-2cbd-4a79-b507-155118460ab6",
+      "title": "未完成≠My Soul",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02000900",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/0R4pKArxgF4JRmkxJg15JZ",
+      "isFallback": true
+    },
+    {
+      "id": "ccadf271-9e36-4417-85cf-c3f913df79ce",
+      "title": "100%フレッシュ",
+      "artist": "小日向いちご",
+      "isrc": "JPPC01700825",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/45T3XP28GJ0YUqhmBTz6hO",
+      "isFallback": false
+    },
+    {
+      "id": "40b4f7c2-dc14-4278-94f3-def309a38953",
+      "title": "裏と表",
+      "artist": "月のテンペスト",
+      "isrc": "JPX402200190",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/0aOBwCTduUNHB07m6aR5V0",
+      "isFallback": false
+    },
+    {
+      "id": "67368bb3-ceba-4e52-88b6-3f6b2148f866",
+      "title": "Shine Purity〜輝きの純度〜",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402000058",
+      "releaseDate": "2020-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/1o7cqIooHseUmMZ1uYY8vM",
+      "isFallback": false
+    },
+    {
+      "id": "689626fe-5188-4460-a3ac-6cd246d93309",
+      "title": "能天気Days!",
+      "artist": "ハニースパイスRe.",
+      "isrc": "TCJPS2267680",
+      "releaseDate": "2022-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/1EiTjjnlF034Pkc3Lflpsx",
+      "isFallback": true
+    },
+    {
+      "id": "6861e6ac-4c1b-4027-947f-50c425615f36",
+      "title": "Play for Survival",
+      "artist": "メイビーME",
+      "isrc": "TCJPZ2467544",
+      "releaseDate": "2024-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/0I2UQa2s6Ct7UpcRYVJ4gz",
+      "isFallback": true
+    },
+    {
+      "id": "95f7a8e1-4f5e-44d5-ae74-bb4ee61b19e9",
+      "title": "解放感∫Be in Love",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02103260",
+      "releaseDate": "2021-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/59Gg8ekmaVuLJoD9u7pat4",
+      "isFallback": true
+    }
+  ]
+}

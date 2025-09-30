@@ -1,0 +1,5820 @@
+{
+  "name": "神前暁",
+  "sortName": "コウサキサトル",
+  "tracks": [
+    {
+      "id": "4443e618-8393-48a4-a08e-9609577617d2",
+      "title": "happy endings",
+      "artist": "花澤香菜",
+      "isrc": "JPE301202541",
+      "releaseDate": "2012-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/2XmWiwnuc9ha3IELRZjlzo",
+      "isFallback": true
+    },
+    {
+      "id": "99985c74-69a3-438f-b2e2-de2a3d41a9fd",
+      "title": "apple universe",
+      "artist": "中川翔子",
+      "isrc": "JPSR01201125",
+      "releaseDate": "2012-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/1NMkgGfvrW9P8RP36tOXYQ",
+      "isFallback": true
+    },
+    {
+      "id": "81843773-c738-4282-9c68-0031398180f6",
+      "title": "あと気分",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "69f5e545-4147-4005-91e3-b8a5b9c8c3cf",
+      "title": "Le zoo",
+      "artist": "YURiKA",
+      "isrc": "JPV431900202",
+      "releaseDate": "2019-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/4MD7NIoJrvqTveOK8yyBZ6",
+      "isFallback": true
+    },
+    {
+      "id": "f139981a-f152-4360-8ff7-44e67e28b832",
+      "title": "「約束……、絶対、描き直してあげるから」",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aeece908-5462-4c4b-95f1-71f517adae3b",
+      "title": "あとがきのようなもの",
+      "artist": "えすおーえす団",
+      "isrc": "JPI100900763",
+      "releaseDate": "2009-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/2bD91J9GGKehLuSctKJoUl",
+      "isFallback": false
+    },
+    {
+      "id": "4cff70f6-bdd2-465a-b2d6-eb4f6636bfaf",
+      "title": "motto☆派手にね!",
+      "artist": "戸松遥",
+      "isrc": "JPX400800221",
+      "releaseDate": "2008-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2b46b0twmENX66UgQdzz2J",
+      "isFallback": true
+    },
+    {
+      "id": "19a8a392-bc5d-415d-9983-917658ec0678",
+      "title": "7 Girls War",
+      "artist": "Wake Up, Girls!",
+      "isrc": "JPB601400073",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/3HKd9pH3TEMomnqVLhYqH3",
+      "isFallback": true
+    },
+    {
+      "id": "2ee7c9bf-457d-4f1a-8322-9ce879f430c3",
+      "title": "\"HELLO!!\" (M@STER VERSION)",
+      "artist": "水谷絵理",
+      "isrc": "JPCO00923340",
+      "releaseDate": "2009-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/27Ya3yl9ssUcSYHF9pzTXZ",
+      "isFallback": true
+    },
+    {
+      "id": "78036900-398d-4c7c-af64-92298feaff99",
+      "title": "『例外の方が多い規則』",
+      "artist": "神前暁",
+      "isrc": "JPE301202028",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/6ZsX9ym0IvzX0wDBsxqMd7",
+      "isFallback": true
+    },
+    {
+      "id": "c464e524-5ca9-4eba-8d4c-ba9e8367f000",
+      "title": "Under The Honey Shine",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01053230",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/7MfqqbUX4P1UnVmpYBkcYH",
+      "isFallback": true
+    },
+    {
+      "id": "7d8f2890-bbb7-4f63-a4fc-412dc3b6c762",
+      "title": "「兄ちゃん。あとは、任せた」",
+      "artist": "神前暁",
+      "isrc": "JPE301201664",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/4MUlGU5GmFOFIwk0jnLdJ6",
+      "isFallback": true
+    },
+    {
+      "id": "9d7d7407-508d-44b1-b450-08b844df48fe",
+      "title": "All Over The Word",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2bb9c79-a163-4cba-963d-f6c89a56161d",
+      "title": "「わたしは阿良々木さんと会えたんですから」",
+      "artist": "神前暁",
+      "isrc": "JPE301303019",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/4BmljPoSgUckq2muqinQFr",
+      "isFallback": true
+    },
+    {
+      "id": "0fb575d5-8d5d-4262-b157-63ba6cd75e8d",
+      "title": "Stand by...MUSIC!!!",
+      "artist": "仲村宗悟",
+      "isrc": "JPA652005063",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/6vlLp0eE3ZnZce73CTyzEH",
+      "isFallback": true
+    },
+    {
+      "id": "9a7a0413-f40b-43ea-b241-ef433e80d991",
+      "title": "my song",
+      "artist": "天海春香",
+      "isrc": "JPCO00645650",
+      "releaseDate": "2009-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/6X8Tc3B90bhkAgV6W34Sa7",
+      "isFallback": true
+    },
+    {
+      "id": "8dc88ccc-12dd-468c-8e8f-18ba1629f1c3",
+      "title": "A級不審人物",
+      "artist": "神前暁",
+      "isrc": "JPE301400157",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/3fF2lZ3Tof2cVLw220CpKW",
+      "isFallback": true
+    },
+    {
+      "id": "e0669c79-a21a-4585-ac45-ab552e846e91",
+      "title": "Super Driver",
+      "artist": "平野綾",
+      "isrc": "JPI100901459",
+      "releaseDate": "2009-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/5YBps2NB0fgTf79GJt0NAQ",
+      "isFallback": true
+    },
+    {
+      "id": "4effe4c4-8cd5-4e3f-a017-d4979b2b8db9",
+      "title": "fast love",
+      "artist": "戦場ヶ原ひたぎ",
+      "isrc": "JPE301400435",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/04s7BT5c8l9kNoWi0dIuKe",
+      "isFallback": true
+    },
+    {
+      "id": "e1770c5a-f970-4f51-bbe4-6d397f2013ba",
+      "title": "Gravity",
+      "artist": "m.o.e.v",
+      "isrc": "JPI100801973",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/58MnZAxJGZsAYr8KrWzaIx",
+      "isFallback": true
+    },
+    {
+      "id": "2b06a617-6bf9-4e70-9117-77a607745d5d",
+      "title": "on and on",
+      "artist": "神前暁",
+      "isrc": "JPV431900245",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/5hEigmsjAYS4YazwxitPTb",
+      "isFallback": true
+    },
+    {
+      "id": "e8b5d3f0-bf3e-4992-a176-a6221c400275",
+      "title": "SOMEONE ELSE",
+      "artist": "種島ぽぷら",
+      "isrc": "JPE301000261",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09f51c62-bf41-4158-a4e3-b82f81a50223",
+      "title": "étoile et toi",
+      "artist": "Clémentine",
+      "isrc": "JPE301600945",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7qgk4gJ4XfjTjxx1Nn5ceS",
+      "isFallback": true
+    },
+    {
+      "id": "c5b1db72-c1ba-4efc-844e-8f70f0ef93e0",
+      "title": "URGENT!!!",
+      "artist": "たかはし智秋",
+      "isrc": "JPCO00636050",
+      "releaseDate": "2006-09-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6eb60be3-2b0d-41a5-8c2c-b5f16e20796e",
+      "title": "「ようこそ暦お兄ちゃん。可愛がってあげるね。」",
+      "artist": "神前暁",
+      "isrc": "JPE301400168",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/7tWums2qiKfyj9xd0SJ8Sk",
+      "isFallback": true
+    },
+    {
+      "id": "cb5eefa9-1b37-4df8-b497-f597bfcebd8a",
+      "title": "First Good‐Bye",
+      "artist": "涼宮ハルヒ",
+      "isrc": "JPI100602818",
+      "releaseDate": "2007-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/4b9aAY3Tfs0AZZaKlo7JoI",
+      "isFallback": true
+    },
+    {
+      "id": "92101264-3d34-459d-87a4-cbf5a66e6ca9",
+      "title": "Morning Arch",
+      "artist": "河野マリナ",
+      "isrc": "JPE301100961",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/0wD4ItThJ4p2KIa5BCbz1D",
+      "isFallback": true
+    },
+    {
+      "id": "d21a298a-0f80-44f5-8b90-74e216e5fccf",
+      "title": "SOS団再び",
+      "artist": "多田彰文",
+      "isrc": "JPI100903455",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5JTCHKyNCGESNuBU14gT3g",
+      "isFallback": true
+    },
+    {
+      "id": "3323aae0-77c2-4fd7-b353-131518625656",
+      "title": "staple stable",
+      "artist": "戦場ヶ原ひたぎ",
+      "isrc": "JPE300901741",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/5Y5ogKERtztymte4p1Jc93",
+      "isFallback": true
+    },
+    {
+      "id": "17292dc7-f42b-4e9d-92b0-38e55a2d75db",
+      "title": "「普通の女の子」",
+      "artist": "神前暁",
+      "isrc": "JPE301300099",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/4dOSQZOLA0JmZ7vZl0tTeW",
+      "isFallback": true
+    },
+    {
+      "id": "c64e786c-7104-4cf5-a8d6-85b8886e0252",
+      "title": "perfect slumbers",
+      "artist": "羽川翼",
+      "isrc": "JPE301300181",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/53PjoywYL1EuvQRN28QsJo",
+      "isFallback": true
+    },
+    {
+      "id": "55577398-70a5-4f1a-895c-6d865484ad65",
+      "title": "too late for chocolate?",
+      "artist": "花澤香菜",
+      "isrc": "JPE301202603",
+      "releaseDate": "2012-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/7nhr9uyhvDyeMgdXqcrHsr",
+      "isFallback": true
+    },
+    {
+      "id": "af9321ef-b05a-4038-9804-da98251ebbaf",
+      "title": "reprise",
+      "artist": "神前暁",
+      "isrc": "JPV431900258",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/6xUIPZmxvR8q0yBPlZ64Ps",
+      "isFallback": true
+    },
+    {
+      "id": "91c2c9ff-50e7-402b-a764-f5ccd89da93a",
+      "title": "1974",
+      "artist": "神前暁",
+      "isrc": "JPI100702267",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/2fDm3ay7WaPPrlY7YU06nl",
+      "isFallback": true
+    },
+    {
+      "id": "b7db4451-3e6b-484b-890e-2305c5466310",
+      "title": "ageて行こう!",
+      "artist": "神前暁",
+      "isrc": "JPE301003445",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8785d993-e4b1-4528-8ffd-9547cd4a4077",
+      "title": "happy bite",
+      "artist": "八九寺真宵",
+      "isrc": "JPE301302929",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/51ymWMAUImFhRZAbQqfDXf",
+      "isFallback": true
+    },
+    {
+      "id": "45675b7d-0ec0-4b76-9d03-4d62322aa296",
+      "title": "Hello World",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0dab452e-2c0c-40fc-bcc5-c908dfd424c0",
+      "title": "terminal terminal",
+      "artist": "八九寺真宵",
+      "isrc": "JPE301701061",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/6i7jYL34hD6lfakOf8B4Em",
+      "isFallback": true
+    },
+    {
+      "id": "ff973350-e9d0-4529-baf6-9e180983e582",
+      "title": "あの日の記憶を追いかけて",
+      "artist": "松尾早人",
+      "isrc": "JPI100903457",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/34VMnBqLjR15E8obIrYBYS",
+      "isFallback": true
+    },
+    {
+      "id": "881b0c59-0eec-48aa-8356-17bb4da14152",
+      "title": "God knows…",
+      "artist": "Raon",
+      "isrc": "JPPO02301122",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/1cJ8poTlNZClU25109Ucjx",
+      "isFallback": true
+    },
+    {
+      "id": "36d35a21-f20e-4fea-83d5-43ddf5784e76",
+      "title": "Lost my music",
+      "artist": "涼宮ハルヒ",
+      "isrc": "JPI100601013",
+      "releaseDate": "2006-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/1Q4fw58shGMaMvXBhgaLtx",
+      "isFallback": true
+    },
+    {
+      "id": "21804f9b-4e8c-43ee-9ff5-6d1543e4377e",
+      "title": "「傷物語」制作発表PV BGM",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "52fc9ee1-4304-40ca-a860-c0e7671ad47e",
+      "title": "FO(U)R",
+      "artist": "you-i",
+      "isrc": "JPD602500294",
+      "releaseDate": "2008-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/58H0m8t40sskNIWV7lHhba",
+      "isFallback": true
+    },
+    {
+      "id": "aea0bbb8-4506-4630-8e25-df781d3811e8",
+      "title": "SOS団始動！～何かがおかしい",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901031",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/77KKpO8mrnhMMJYPXCLlZA",
+      "isFallback": true
+    },
+    {
+      "id": "ef0e7787-2aa1-48d5-9a53-3e98241e3cc1",
+      "title": "Dear sweet heart",
+      "artist": "結",
+      "isrc": "JPE300800902",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19baf070-9764-474d-bb29-cd70317d208e",
+      "title": "「プラチナむかつく」",
+      "artist": "神前暁",
+      "isrc": "JPE301202033",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/6nEimINJG2BwDof96XPCDL",
+      "isFallback": true
+    },
+    {
+      "id": "e982bc0b-c78f-403f-942f-c77388c0382a",
+      "title": "Congratulations!",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c6f0c79e-34ce-41bf-a4f4-ae17001cd081",
+      "title": "Bedtime Puzzler",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1ed38ff0-5889-4a15-b9fa-ccfc6d7777ec",
+      "title": "gdgd",
+      "artist": "神前暁",
+      "isrc": "JPE301003458",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "180052d7-b64e-4c6a-adb2-da4fbee03b45",
+      "title": "24時間",
+      "artist": "神前暁",
+      "isrc": "JPI100800041",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/74MDNDnqfU72YcqJVefX7V",
+      "isFallback": true
+    },
+    {
+      "id": "d32f6d21-164c-4f07-86da-6995568deef0",
+      "title": "＼(^o^)／",
+      "artist": "神前暁",
+      "isrc": "JPE301003449",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/612TOuGBMHSUhmFzqtasqM",
+      "isFallback": true
+    },
+    {
+      "id": "f35614f6-f49d-4a66-b4de-dd0de7024d83",
+      "title": "07734",
+      "artist": "阿良々木暦",
+      "isrc": "JPE301900115",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/7GLQxv2i2YZQD977w6M0PI",
+      "isFallback": true
+    },
+    {
+      "id": "fa8e118d-f524-4d70-81cf-335a4ccc3bc7",
+      "title": "trick or treat!",
+      "artist": "花澤香菜",
+      "isrc": "JPE301202604",
+      "releaseDate": "2012-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/5JLJ5pi3wMlCCxsxVgoRvb",
+      "isFallback": true
+    },
+    {
+      "id": "26b7a5a5-7e59-477f-bce1-7a7da6e2e391",
+      "title": "smile!smile!",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3dd99e9d-5092-4566-a769-9c0721a7dbc9",
+      "title": "ACE BATTLE",
+      "artist": "神前暁",
+      "isrc": "JPI100800791",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3onSORJHjCH1IMsFznufGB",
+      "isFallback": true
+    },
+    {
+      "id": "8370c590-b42c-458d-a297-4ba6e002f179",
+      "title": "Dear cocoa girls",
+      "artist": "初音ミク",
+      "isrc": "",
+      "releaseDate": "2009-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4c3ccf7-5e28-4310-a104-68c32a4962ac",
+      "title": "GR@TITUDE",
+      "artist": "プロジェクトルミナス",
+      "isrc": "JPCO02121740",
+      "releaseDate": "2021-10-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d686f0ba-fa15-4b3f-9208-cc02e92f234b",
+      "title": "「怒られるのは怖いですからね」",
+      "artist": "神前暁",
+      "isrc": "JPE301201214",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/46D3ilGQ1np8k6itzV6LQx",
+      "isFallback": true
+    },
+    {
+      "id": "c8d9969c-fc24-4566-a268-0ddd4abdd739",
+      "title": "February March",
+      "artist": "河野マリナ",
+      "isrc": "JPE301200104",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2nGtn2JetdG6xilT9rM2Nk",
+      "isFallback": true
+    },
+    {
+      "id": "44639a74-cf03-4918-a26c-6f5f3f29b6f4",
+      "title": "Name Entry",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2000-06-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "413476a7-48cc-4121-ae41-f9207220f17a",
+      "title": "GO MY WAY!!",
+      "artist": "天海春香",
+      "isrc": "JPCO00704230",
+      "releaseDate": "2007-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/6X8Tc3B90bhkAgV6W34Sa7",
+      "isFallback": true
+    },
+    {
+      "id": "9d15a050-0d54-4495-8685-63bd860ae89e",
+      "title": "READY!! (TV SIZE)",
+      "artist": "765PRO ALLSTARS",
+      "isrc": "JPCO01118800",
+      "releaseDate": "2011-09-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8a07621-54a5-447f-acec-264193803b32",
+      "title": "Okey-dokey",
+      "artist": "たかはし智秋",
+      "isrc": "",
+      "releaseDate": "2007-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b0c8aac6-368e-4f61-a1b1-26410cac063d",
+      "title": "ambivalent world",
+      "artist": "神原駿河",
+      "isrc": "JPE300902041",
+      "releaseDate": "2009-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/0S69HsaG6vp1QjrAN8deTw",
+      "isFallback": true
+    },
+    {
+      "id": "d2ef9092-f583-45a3-a301-88c1a7fe7b34",
+      "title": "Delicateにラブ・ミー・プリーズ",
+      "artist": "ざんげちゃん",
+      "isrc": "JPE300900567",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "828654e9-136b-4f91-8fde-428b550b8559",
+      "title": "wktk",
+      "artist": "神前暁",
+      "isrc": "JPE301003464",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed0476fa-6784-4b2d-bc43-064192218055",
+      "title": "JAMがもってった!セーラーふく",
+      "artist": "JAM Project",
+      "isrc": "JPI100702738",
+      "releaseDate": "2007-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/00PTdSBvVrc5LasKPnrlvc",
+      "isFallback": true
+    },
+    {
+      "id": "68fbcb6d-3951-4fb2-98ba-3394effbcd2b",
+      "title": "Sigh on Sunday",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "130aadc1-f4d6-41de-b62e-152df25c410b",
+      "title": "「ありがとうございます。助かりました」",
+      "artist": "神前暁",
+      "isrc": "JPE301400446",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5xAr4eFkWycHP1fmcDX0Im",
+      "isFallback": true
+    },
+    {
+      "id": "283aa94e-a59b-47ee-9a6d-83e9def321f1",
+      "title": "sugar sweet nightmare",
+      "artist": "羽川翼",
+      "isrc": "JPE301000041",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/5ZNrpBTJxGr1QbjQKEryIj",
+      "isFallback": true
+    },
+    {
+      "id": "df6dc2a3-ddbb-4065-8dc5-275f0ece96b6",
+      "title": "M@STERPIECE",
+      "artist": "765PRO ALLSTARS",
+      "isrc": "",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8c0b9d1-9b33-44c2-afec-40177f2c8e2c",
+      "title": "The secret garden",
+      "artist": "初音ミク",
+      "isrc": "",
+      "releaseDate": "2009-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d716c9de-8879-4432-958a-c9f262852cba",
+      "title": "Piacevole!",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2003-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "25b5a7e0-2327-4c34-b842-39e98b8e78a8",
+      "title": "SOS団クリスマスパーティ",
+      "artist": "神前暁",
+      "isrc": "JPI100903444",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5NHbdSyFaHY9rDnAVitbtA",
+      "isFallback": true
+    },
+    {
+      "id": "db5a49bf-47ab-4faa-b039-c74f8c857e50",
+      "title": "Bright Burning Shout",
+      "artist": "西川貴教",
+      "isrc": "JPU901704157",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1KcxMKcI0WqVwhL1NudggC",
+      "isFallback": true
+    },
+    {
+      "id": "68cdc54f-1928-4a82-aa75-02579755baef",
+      "title": "marshmallow justice",
+      "artist": "阿良々木火憐",
+      "isrc": "JPE301200701",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2hBpFb7UmBlCbSQJk2N7xG",
+      "isFallback": true
+    },
+    {
+      "id": "18ed814f-5ed2-4021-8e11-5816ebe0d8e9",
+      "title": "Chasing destiny",
+      "artist": "涼宮ハルヒ",
+      "isrc": "JPD732500814",
+      "releaseDate": "2025-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/2jePpIWARbuy860PvrJxui",
+      "isFallback": true
+    },
+    {
+      "id": "434bdfb2-66f5-462c-813a-0920f5a60e0c",
+      "title": "dreamy date drive",
+      "artist": "戦場ヶ原ひたぎ",
+      "isrc": "JPE301701200",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/7eSyuBlm0N1y9VGnit4XnB",
+      "isFallback": true
+    },
+    {
+      "id": "153f4ab8-37c2-417e-aa91-756ec5198c13",
+      "title": "アキハバラマーチ",
+      "artist": "神前暁",
+      "isrc": "JPE301003456",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0aa0963-34c1-45c9-bba0-d01083cf063b",
+      "title": "アイドルの祭典",
+      "artist": "田中秀和",
+      "isrc": "JPB601404978",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f558a496-463a-4aa7-8644-63de7037fbeb",
+      "title": "chocolate insomnia",
+      "artist": "羽川翼",
+      "isrc": "JPE301302699",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/6Vligr0EqIvedpjH5uAx4q",
+      "isFallback": true
+    },
+    {
+      "id": "8d6fee5c-5345-4044-a74c-f922876ee711",
+      "title": "1年生はフレッシュだねぇ",
+      "artist": "神前暁",
+      "isrc": "JPI100702791",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1qcReWrOIHyRmS6BV9CXAt",
+      "isFallback": true
+    },
+    {
+      "id": "672b296b-b78c-4f0c-aad6-05ab71c59158",
+      "title": "「ただいま」",
+      "artist": "神前暁",
+      "isrc": "JPE301302818",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/58GQLJAwHUPBQhX8l3t2rL",
+      "isFallback": true
+    },
+    {
+      "id": "4fafcf6b-9aae-42a9-aa47-2a6fc1ef44cc",
+      "title": "Sing My Pleasure",
+      "artist": "ヴィヴィ",
+      "isrc": "JPE302100677",
+      "releaseDate": "2021-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/4rvM8PuWr3ertelkK8KyV1",
+      "isFallback": true
+    },
+    {
+      "id": "78fc13e3-9d27-4f9e-be4b-c716ef9577c8",
+      "title": "LOST",
+      "artist": "萩原雪歩",
+      "isrc": "JPCO01036100",
+      "releaseDate": "2010-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8e6cc213-3351-469a-b138-a03a1cdcd30c",
+      "title": "Fluorite Eye's Song",
+      "artist": "ヴィヴィ",
+      "isrc": "JPE302100670",
+      "releaseDate": "2021-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/5PNDfkz1cslaAcC7fk9tGE",
+      "isFallback": true
+    },
+    {
+      "id": "02f1455e-3e88-47a7-8a2c-144ecfebd559",
+      "title": "awakening",
+      "artist": "西川貴教",
+      "isrc": "JPU901800416",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/54HUvlWHRKpleDXjGJGe0d",
+      "isFallback": true
+    },
+    {
+      "id": "5c922086-8790-49e0-ad18-cbbf59cdae6b",
+      "title": "Miss.Revolutionist",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01600989",
+      "releaseDate": "2016-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/0nukarIcCNm6g61QVYjWtf",
+      "isFallback": true
+    },
+    {
+      "id": "670a8d2a-5a76-4924-add6-a0067a5b6e1b",
+      "title": "Tiny Tiny",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01704890",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/1dy1h8G080m7AboVF8ZXle",
+      "isFallback": true
+    },
+    {
+      "id": "408bf5c9-2812-439e-86a2-2e1f06f74cf3",
+      "title": "wicked prince",
+      "artist": "princess à la mode",
+      "isrc": "JPE301800671",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/5dAWOxi5Hb9ETIG0FoXhJ4",
+      "isFallback": true
+    },
+    {
+      "id": "bf0bfecd-8b42-4690-8880-edb5cc2e5f4f",
+      "title": "タッチならぬキャッチ",
+      "artist": "神前暁",
+      "isrc": "JPE301300085",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5BayYXFe9GOc7ZJI6VAjzp",
+      "isFallback": true
+    },
+    {
+      "id": "f911c1c5-a5d7-4667-a6a8-66f565580221",
+      "title": "じゅもんをあげるよ",
+      "artist": "高槻やよい",
+      "isrc": "JPCO00900490",
+      "releaseDate": "2009-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49bf7239-6877-4708-8466-fd93828c1324",
+      "title": "キャラデザ",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ef46dc9-0c43-482a-83a7-c7df867a52a2",
+      "title": "そばかすの少女",
+      "artist": "神前暁",
+      "isrc": "JPV432500168",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/10jUaReMJGB6DflEQC8W5A",
+      "isFallback": false
+    },
+    {
+      "id": "2ba23c48-cbc6-4f40-ae0f-9f2fd18c09f6",
+      "title": "かがみだけ違うクラスになっちゃった…",
+      "artist": "神前暁",
+      "isrc": "JPI100702793",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/6n3dzqSChIq4Y7TG8JzEAz",
+      "isFallback": true
+    },
+    {
+      "id": "706bafe3-2628-4d34-948e-3be0dd44e1cc",
+      "title": "デート",
+      "artist": "神前暁",
+      "isrc": "JPE301103709",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2RVHIdckxnG9YuhEyY60iS",
+      "isFallback": true
+    },
+    {
+      "id": "f9e648b4-203c-4d09-9918-0fc299b9b86f",
+      "title": "オタクは辛いよ",
+      "artist": "神前暁",
+      "isrc": "JPE301003457",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c94251cc-7161-4a4f-b8f5-e90b632d549c",
+      "title": "いつもの風景で終わる物語",
+      "artist": "松尾早人",
+      "isrc": "JPI100903465",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5GKvgxPkfmpvZ29DAbb9si",
+      "isFallback": true
+    },
+    {
+      "id": "8b5dd878-0c43-494a-bfcd-85f4f701eb3a",
+      "title": "ドーナツ・ハイ",
+      "artist": "神前暁",
+      "isrc": "JPE301202027",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/2Me7TNDGtmrsvACa6o10jJ",
+      "isFallback": true
+    },
+    {
+      "id": "da3e8bae-db82-4478-b2a5-b15569f19dec",
+      "title": "いつもの風景～激烈で華麗なる日々",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901022",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/75xeECHwfMFQP2fsczXZEW",
+      "isFallback": true
+    },
+    {
+      "id": "2b7e503d-53bb-4d59-af1e-fc8359b684ee",
+      "title": "イライラかがみん",
+      "artist": "神前暁",
+      "isrc": "JPI100800039",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/7fp9OlKkwB1sxHVrRNp3gv",
+      "isFallback": true
+    },
+    {
+      "id": "ab7070d4-2db5-4492-afd8-6bf93550af82",
+      "title": "あまのじゃく",
+      "artist": "神前暁",
+      "isrc": "JPE301300083",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5IadjURdJDOkW6J5vCLanM",
+      "isFallback": true
+    },
+    {
+      "id": "1d8adb6a-904b-4329-9dba-d3a4bcc5e151",
+      "title": "タイムワープ",
+      "artist": "神前暁",
+      "isrc": "JPE301303010",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/6IfJFLs43bpskQGvEErAp7",
+      "isFallback": true
+    },
+    {
+      "id": "7bf1e94e-2fcb-489f-a2be-36fc1ae26ae4",
+      "title": "ギャルゲ〜ランチ食べよ〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800309",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/10EbU8zErTcSqY3IzLuOz2",
+      "isFallback": true
+    },
+    {
+      "id": "c77904a0-0d0b-4b4a-82b2-9be59a1a82ab",
+      "title": "カケル×カケル",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT551700955",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/4QwayGiHRRNq5yqiGHOTZH",
+      "isFallback": true
+    },
+    {
+      "id": "28353715-2634-4b16-9d04-98b82c56a60b",
+      "title": "ゴールデンウィーク",
+      "artist": "神前暁",
+      "isrc": "JPE301300088",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/2CZJsD4AqGM9fzmLRvCy7u",
+      "isFallback": true
+    },
+    {
+      "id": "225e4043-fc54-4414-a307-e10e0d21475c",
+      "title": "かがみキュン",
+      "artist": "神前暁",
+      "isrc": "JPI100702511",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2V2CR3yIkqO9mT47JnUUPY",
+      "isFallback": true
+    },
+    {
+      "id": "632ed2c9-7421-4984-88dd-336e05cdf444",
+      "title": "センチメンタル修学旅行〜ちょっと速い〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800548",
+      "releaseDate": "2008-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7npVM6I4NvSALzhumG8cip",
+      "isFallback": true
+    },
+    {
+      "id": "ecf3a7cc-89e6-489a-9779-cb48abb2285b",
+      "title": "これでエンヤ、暁の苦悩",
+      "artist": "神前暁",
+      "isrc": "JPI100701227",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2JrZ6eVUfaVl3GjNXIvrfY",
+      "isFallback": true
+    },
+    {
+      "id": "5c00f986-6ef9-46ad-9a14-aee1e81ec779",
+      "title": "ヴァンパイア・ハーフ",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "47390338-3c98-4087-90b7-11dde2745a00",
+      "title": "タッタタカターだよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100701555",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/6EQe7D9ND0OG9vOCbFlLlD",
+      "isFallback": true
+    },
+    {
+      "id": "7ff88f2e-5363-47bf-833e-310dea18ae02",
+      "title": "エナジードレイン",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71ff6d6c-0706-4cf4-a59a-c41ee1ed53a1",
+      "title": "サボテンとリボン",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01610352",
+      "releaseDate": "2016-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/0ywyxochxQk4h9ua042Yh1",
+      "isFallback": true
+    },
+    {
+      "id": "6d2326c0-42ae-4646-99c8-4de811973c92",
+      "title": "その布",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0bbf813d-36fb-41c2-a31c-a550cfb148d4",
+      "title": "すれ違い",
+      "artist": "神前暁",
+      "isrc": "JPE301003460",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ecbc04a4-79c7-4e85-95c0-8f0bc5005517",
+      "title": "おるごーる",
+      "artist": "神前暁",
+      "isrc": "JPE300900881",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3fUUal0xjp288otGrHQCKG",
+      "isFallback": true
+    },
+    {
+      "id": "bd67542e-d4bc-4acc-9cec-27173d890a43",
+      "title": "サトルと巨像",
+      "artist": "神前暁",
+      "isrc": "JPI100800789",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/7IkPwEU4sRdgYkZ3wyEo86",
+      "isFallback": true
+    },
+    {
+      "id": "538d075e-d7bd-4220-baae-d544e5248deb",
+      "title": "ソウルキャバリエ",
+      "artist": "神前暁",
+      "isrc": "JPI100800790",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3dwI2aGf0OtU40k3zpQ62N",
+      "isFallback": true
+    },
+    {
+      "id": "fdd44150-a831-45f5-ad45-7e25fcbb746f",
+      "title": "ぎゃああああああああ",
+      "artist": "神前暁",
+      "isrc": "JPI100701226",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/03E79jM3ESPZuNn7FOSRXM",
+      "isFallback": true
+    },
+    {
+      "id": "9db59c29-dca3-4f85-a60f-20c1f0def47d",
+      "title": "ジャンヌ・ダルク気取り",
+      "artist": "神前暁",
+      "isrc": "JPE301400170",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/2HISeaXFKVyLHs41KMdqnb",
+      "isFallback": true
+    },
+    {
+      "id": "c88d8254-e562-478d-816d-1dfc34e97a66",
+      "title": "お見通しの千里眼",
+      "artist": "神前暁",
+      "isrc": "JPE301400385",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/595eJj8TWeLZF3GIxlaPW7",
+      "isFallback": true
+    },
+    {
+      "id": "bcba9e04-883f-4de9-928b-f12c68a41dd6",
+      "title": "ザ・ミステリアス～朝倉涼子の真実～冬の足音",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901029",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/1AggwliB93y6rEVnDO8wXK",
+      "isFallback": true
+    },
+    {
+      "id": "f82653a4-4189-438e-ace5-6bbb2b8f8500",
+      "title": "うんちくだよ、らき☆すた?",
+      "artist": "神前暁",
+      "isrc": "JPI100700635",
+      "releaseDate": "2007-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/1rHjEgnXTyUi1ULbKV0faK",
+      "isFallback": true
+    },
+    {
+      "id": "88e04577-f1ce-47c6-acd8-7df572e13247",
+      "title": "こなたのテーマ、沖縄バージョン",
+      "artist": "神前暁",
+      "isrc": "JPI100702082",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/4cK3tYn4fuqAhnyHSTCMbB",
+      "isFallback": true
+    },
+    {
+      "id": "c40d06f8-6550-477e-8b70-0364524ec833",
+      "title": "お茶会",
+      "artist": "神前暁",
+      "isrc": "JPV432300483",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/4daThb6NUrMnM8pLDJcilK",
+      "isFallback": true
+    },
+    {
+      "id": "b42d83cb-6d56-4f0d-846a-3e818d716ad1",
+      "title": "オールドファッション",
+      "artist": "神前暁",
+      "isrc": "JPE301300096",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5eYOT4OSG6WRS3jTawwEz3",
+      "isFallback": true
+    },
+    {
+      "id": "afcf6bf0-c5b9-440c-99e2-f41c0e73398e",
+      "title": "ただのお願い",
+      "artist": "神前暁",
+      "isrc": "JPE301303018",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/6Diyhc4p8ZQPn14eOSjRzt",
+      "isFallback": true
+    },
+    {
+      "id": "30288232-8602-4438-8cbe-f31edc863271",
+      "title": "ギャルゲ〜一緒に帰ろう〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800310",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/5k0G04WlLmFthtNZPaa9U3",
+      "isFallback": true
+    },
+    {
+      "id": "904d70ca-d21a-4a4d-8e05-194dbd9dcb90",
+      "title": "お人よし",
+      "artist": "神前暁",
+      "isrc": "JPE301001710",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/0EW00TvRfvkGuRxfwR5YVy",
+      "isFallback": true
+    },
+    {
+      "id": "90da167a-7a3b-40c2-a3fb-255ae28dbf6a",
+      "title": "ギャルゲ〜好きにしていいよ〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800313",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/0d3t1KBFFHvBe6TD8aUu38",
+      "isFallback": true
+    },
+    {
+      "id": "cf16cc47-b657-4228-8607-33bfb96b421a",
+      "title": "いままでのあらすじ",
+      "artist": "えすおーえす団",
+      "isrc": "JPI100900762",
+      "releaseDate": "2009-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6YWUVdM3YTcTtHD6DGN8cs",
+      "isFallback": false
+    },
+    {
+      "id": "feca0629-77b7-448d-bb53-143a7f3ebe3f",
+      "title": "ただいま。",
+      "artist": "高坂桐乃",
+      "isrc": "",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5011c3e-0513-4b72-8619-d829120e9b8c",
+      "title": "ギャルゲ〜朝の風景〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800308",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/6mPWCvqbVywDFUTD2kJdn1",
+      "isFallback": true
+    },
+    {
+      "id": "28942ab7-96b4-4516-888e-e7cc0b75f65e",
+      "title": "ギャルゲ〜別にあんたの心配なんかしてないんだからね〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800312",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/5WBAR4uuKbjwBYUHNUWMiH",
+      "isFallback": true
+    },
+    {
+      "id": "3a53de26-1ba8-4c75-83a5-9e8c10164d31",
+      "title": "こねらぶ☆みっしょん",
+      "artist": "小神あきら",
+      "isrc": "JPI100701105",
+      "releaseDate": "2007-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/1gzyuX028vqnTb9yw2bt0k",
+      "isFallback": true
+    },
+    {
+      "id": "f125b90e-eb41-4ce0-bd69-d82ee26d5bd1",
+      "title": "ドタバタ・タイム",
+      "artist": "神前 暁",
+      "isrc": "JPI100903445",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/7LB1xDKB3g7PyLsOzA5Tcn",
+      "isFallback": true
+    },
+    {
+      "id": "5217e112-9748-4713-bbce-b619d647ce4e",
+      "title": "とある日常の背景音楽",
+      "artist": "神前暁",
+      "isrc": "JPE301003463",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cda8aac1-d5fe-4bdc-8fe8-69a1e1bb5f5b",
+      "title": "セキレイ",
+      "artist": "結",
+      "isrc": "JPE300800901",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a125fa19-36c6-4807-b196-697e782f1ffc",
+      "title": "ギャルゲ〜宿題やんなさい！〜",
+      "artist": "神前暁",
+      "isrc": "JPI100800311",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/1h28W34RoPURaqVueBD8o1",
+      "isFallback": true
+    },
+    {
+      "id": "eb498a3e-8a4e-4ed3-be03-e4203623d2db",
+      "title": "かがみの初恋",
+      "artist": "神前暁",
+      "isrc": "JPI100800551",
+      "releaseDate": "2008-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5Lepm1xrdk4S4LPqS50sd1",
+      "isFallback": true
+    },
+    {
+      "id": "fe313368-8fcc-4a17-b94c-3cdc528c6965",
+      "title": "スキップスキップだよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100702081",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/694sSvG8WhuHpwY5zwcB8z",
+      "isFallback": true
+    },
+    {
+      "id": "72059534-8abf-4ebb-b320-d1e49a448e14",
+      "title": "けだもの",
+      "artist": "神前暁",
+      "isrc": "JPE301103674",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4rmOKUb3vTINpQWOw0plsT",
+      "isFallback": true
+    },
+    {
+      "id": "e2ba4892-0da4-45ae-95c1-3737ca2871fa",
+      "title": "しっとり",
+      "artist": "神前暁",
+      "isrc": "JPE301003467",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7ad31b3-b393-438c-a157-f8f8cdc8bac8",
+      "title": "たからもの",
+      "artist": "河野マリナ",
+      "isrc": "JPE301104042",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/70RIgzUiSCMDeyUZv36Bxp",
+      "isFallback": true
+    },
+    {
+      "id": "3c7a2a4d-8dc9-4987-9eb4-6545739d86a6",
+      "title": "おかしらつき",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "24acf2ce-b039-4b09-afb3-da58ef6620a5",
+      "title": "かみ合わない",
+      "artist": "神前暁",
+      "isrc": "JPV432300476",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3fBypCsLJMtuBjq4XA0AW4",
+      "isFallback": true
+    },
+    {
+      "id": "6a78fbbf-eb7e-40d8-b269-f5ac032a788a",
+      "title": "いつもの風景",
+      "artist": "神前暁",
+      "isrc": "JPI100601277",
+      "releaseDate": "2006-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/7Hk0RTVrMyRzYc0eFVrniA",
+      "isFallback": true
+    },
+    {
+      "id": "13fb55ed-fe3d-4624-9eea-71d4e8f3a8e3",
+      "title": "ダウジング",
+      "artist": "神前暁",
+      "isrc": "JPE301400164",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/72QD50oPnTUGPO0A2bHO2U",
+      "isFallback": true
+    },
+    {
+      "id": "652a5b63-d0de-4105-baf9-9b20449d1777",
+      "title": "そうじろう変身!",
+      "artist": "神前暁",
+      "isrc": "JPI100702794",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/50k8O0tv0LoEc0C2wsmZdd",
+      "isFallback": true
+    },
+    {
+      "id": "2aa78394-65e9-40d4-955b-6538841e128c",
+      "title": "しでの鳥",
+      "artist": "神前暁",
+      "isrc": "JPE301202029",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/4D4S9LfxgIDbGhURaUiWT4",
+      "isFallback": true
+    },
+    {
+      "id": "8d1b2cf1-2f4c-4550-9fa4-b5b7e73b48c0",
+      "title": "ちゃかちゃか着火",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2b97e2e9-1423-4f91-8e40-7b4b180db627",
+      "title": "スパシーボ!",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "745c831d-2466-4b5b-b49b-5b4c7f8cf77d",
+      "title": "エルガムイ",
+      "artist": "神前暁",
+      "isrc": "JPI100702514",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5HqXwJhErOw4QtniN9TS1b",
+      "isFallback": true
+    },
+    {
+      "id": "6d6fea76-9a59-43d3-bd81-7887177f069b",
+      "title": "おんなじきもち",
+      "artist": "結",
+      "isrc": "JPE301001582",
+      "releaseDate": "2010-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "42c97ff4-4e6f-4531-974a-d0653b6b43f7",
+      "title": "お正月だよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100702270",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/41xet3eaiPUWvQZRIeTfqC",
+      "isFallback": true
+    },
+    {
+      "id": "027a96c1-bfce-41a8-9105-ef524e7b37bd",
+      "title": "かなたのテーマ",
+      "artist": "神前暁",
+      "isrc": "JPI100800553",
+      "releaseDate": "2008-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4zISFcgOQqfqIbSNBDg4Hf",
+      "isFallback": true
+    },
+    {
+      "id": "905564ab-7fd8-4f6f-8847-9fa464515492",
+      "title": "これがオタクの生きる道",
+      "artist": "神前暁",
+      "isrc": "JPE301003447",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "841c9c4c-831b-4683-a297-708a382f0823",
+      "title": "ゲーセンでキャッチだね、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100700991",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0PtP5BkdsreFKXucH8Dkk1",
+      "isFallback": true
+    },
+    {
+      "id": "f71d2c0e-cf20-4e48-80f6-3f4c0752b0d6",
+      "title": "つかさのヘッポコハードル競争",
+      "artist": "神前暁",
+      "isrc": "JPI100701560",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/3Jtt1bGjavvZuGyHbIw61D",
+      "isFallback": true
+    },
+    {
+      "id": "119cf675-76e5-47e3-aef2-c9c56dc8d534",
+      "title": "その声を覚えてる",
+      "artist": "河野マリナ",
+      "isrc": "JPE301302684",
+      "releaseDate": "2013-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/3DbYVf18dMVZNmtQTqJt1i",
+      "isFallback": true
+    },
+    {
+      "id": "4bfa55d6-34c5-4c24-ac4a-dca01b185c3b",
+      "title": "くらやみ",
+      "artist": "神前暁",
+      "isrc": "JPE301400374",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/0ghgTjngRs9qPxonKyuAEI",
+      "isFallback": true
+    },
+    {
+      "id": "4cafadbe-8900-44d4-865b-3ff1e433e5aa",
+      "title": "お役御免",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19fad8a7-6c38-4411-b1c5-43f3e2eba5d1",
+      "title": "コスって！オーマイハニー",
+      "artist": "こなたとパティ",
+      "isrc": "JPI100701324",
+      "releaseDate": "2007-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/4G7vEChlbEc4DMa9eohdgN",
+      "isFallback": true
+    },
+    {
+      "id": "c45869d5-71a5-4125-9eb6-938207038c67",
+      "title": "いつもの風景から始まる物語",
+      "artist": "神前暁",
+      "isrc": "JPI100903443",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0xbRTX9TLNxk4y5lfqoft5",
+      "isFallback": true
+    },
+    {
+      "id": "c2981514-4ace-4fff-9c3e-4e43da0962c5",
+      "title": "こなたのテーマ、中近東バージョン",
+      "artist": "神前暁",
+      "isrc": "JPI100701558",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/0EAEZmJqzWB57PRohtifEi",
+      "isFallback": true
+    },
+    {
+      "id": "c4d64c08-5bdc-4f00-a2ba-54f5d643aa14",
+      "title": "くぁwせdrftgyふじこlp",
+      "artist": "神前暁",
+      "isrc": "JPE301003473",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6922f4b5-c6c5-483e-b0a5-35ca4802c518",
+      "title": "ステージクリア",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1399d1c3-ad6d-4943-8d8c-1e3415f1852c",
+      "title": "こなたのテーマ、普通バージョン",
+      "artist": "神前暁",
+      "isrc": "JPI100700636",
+      "releaseDate": "2007-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/0apt5APMpayd73LtJwtkUF",
+      "isFallback": true
+    },
+    {
+      "id": "c95bc948-4ab1-40be-bcdb-f80c6c43fa07",
+      "title": "ジト目",
+      "artist": "神前暁",
+      "isrc": "JPE301003466",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "41dae573-fcd4-4663-9138-33d952fc5f73",
+      "title": "いけない悪戯",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "01c95b40-ef87-4455-9681-8534b6f06496",
+      "title": "いつもの感じ",
+      "artist": "神前暁",
+      "isrc": "JPI100800316",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/7Ah8yIPVOOkVzkSis4gEal",
+      "isFallback": true
+    },
+    {
+      "id": "14f0742f-5051-4b04-863e-d4f2dfeeec3a",
+      "title": "グラウンド",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "366da78c-65e5-43a8-8b35-d50bf92782ca",
+      "title": "いつでも帰っておいで",
+      "artist": "神前暁",
+      "isrc": "JPV432300482",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3YZ9JzzThDjJkaQoBWJjUv",
+      "isFallback": true
+    },
+    {
+      "id": "1571652b-a5e8-426f-90a7-9e81a57fee47",
+      "title": "ことの原因",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e0e9b09-1fd0-4d7f-ab02-27d9b93981ba",
+      "title": "この優しい世界のなか",
+      "artist": "河野マリナ",
+      "isrc": "JPE301302878",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/2frIZn7G2sAls0VNDZ2CFa",
+      "isFallback": true
+    },
+    {
+      "id": "561421e5-b8d0-48dc-8bdf-54a76519d2a2",
+      "title": "キラメキラリ",
+      "artist": "高槻やよい",
+      "isrc": "JPCO01036200",
+      "releaseDate": "2010-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5BY4b5w00vZvW5fbN75mLy",
+      "isFallback": true
+    },
+    {
+      "id": "ea5d005c-23ef-48c5-91be-7a398ce8090c",
+      "title": "つながった記憶",
+      "artist": "多田彰文",
+      "isrc": "JPI100903454",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/1hhDarfA2L0yD3Spl5XZci",
+      "isFallback": true
+    },
+    {
+      "id": "f07443d4-cde7-488e-a3cd-932b60a09fc7",
+      "title": "おっぱい",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51a71378-e037-4de0-9981-805aa3bac849",
+      "title": "キャラクターデザイン",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8fa38dc7-ba51-4d48-a8df-38cde21a2a9c",
+      "title": "ちいさくチェンジング",
+      "artist": "田中秀和",
+      "isrc": "JPB601404980",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77834e3b-12f5-4a63-aa0d-43870e38142f",
+      "title": "イノセント・ブルー",
+      "artist": "ヨウ・ミズノ",
+      "isrc": "JPE301100581",
+      "releaseDate": "2011-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f9bff606-6ecd-4b6f-abab-1272296691bd",
+      "title": "ずっと暁のターン",
+      "artist": "神前暁",
+      "isrc": "JPI100702510",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4hTmP4hshGE4EmhvHORbwk",
+      "isFallback": true
+    },
+    {
+      "id": "d80d6eb3-046e-4b5b-a6e8-4ebe6e45ea4d",
+      "title": "タチアガレ!",
+      "artist": "Wake Up, Girls!",
+      "isrc": "JPB601400071",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/5g8adh2982RbEMZT5s2MJH",
+      "isFallback": true
+    },
+    {
+      "id": "1a2ae626-c44d-4058-91ea-d34632c0b80c",
+      "title": "クチナワ",
+      "artist": "神前暁",
+      "isrc": "JPE301400160",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/4bXKKkQcTWfrxYT8xDQXLE",
+      "isFallback": true
+    },
+    {
+      "id": "ea0c500a-92a9-45b5-942f-023b2e607d17",
+      "title": "クラスメイト",
+      "artist": "神前暁",
+      "isrc": "JPE301103665",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4nLKgqcGZ2JZkabzO1Uqe9",
+      "isFallback": true
+    },
+    {
+      "id": "14908621-60df-4c07-a72e-12fca883cd2b",
+      "title": "お後がよろしくって…よ!",
+      "artist": "極♨落女会",
+      "isrc": "JPKI01214335",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b1784326-48e6-4381-b807-2697c556e66a",
+      "title": "おやじ",
+      "artist": "神前暁",
+      "isrc": "JPV432500175",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/1tJOw9E4gW3GBSpVAViEVO",
+      "isFallback": false
+    },
+    {
+      "id": "5e5dbb0a-dede-4af4-9c49-5940c9cc93bc",
+      "title": "アラタなるセカイ",
+      "artist": "河野マリナ",
+      "isrc": "JPE301202455",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/6775bukzEfYLZDoBWVnBEq",
+      "isFallback": true
+    },
+    {
+      "id": "8a8612ad-2b5a-4140-b221-07f3b47739d5",
+      "title": "りある_りあるが_あんりある",
+      "artist": "蝶伝寺さすけ",
+      "isrc": "",
+      "releaseDate": "2010-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4651e46-c3f2-406c-b6db-d96f577c12bf",
+      "title": "二言目",
+      "artist": "戦場ヶ原ひたぎ",
+      "isrc": "JPE301201201",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/0ndoqXhjQx87F5L4yCuz0h",
+      "isFallback": true
+    },
+    {
+      "id": "3ad15ce7-fb04-421f-98bf-0f991890cff1",
+      "title": "バカロリート",
+      "artist": "神前暁",
+      "isrc": "JPE301001706",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2PMQP7cKNsRFIHq47L2ok8",
+      "isFallback": true
+    },
+    {
+      "id": "a387625d-e764-489e-a0ac-fbc7d139bd13",
+      "title": "ブラック羽川",
+      "artist": "神前暁",
+      "isrc": "JPE301300095",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/7Hk3Ir4X27c9oaA1gGBUnB",
+      "isFallback": true
+    },
+    {
+      "id": "e08b34a5-def2-41ef-84f2-eb4301b7312e",
+      "title": "はやる心と前に出ない足",
+      "artist": "多田彰文",
+      "isrc": "JPI100903453",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5nUfDdVzmUFA3uwwA7Dk6K",
+      "isFallback": true
+    },
+    {
+      "id": "d1db4183-7f4e-420b-a553-2f5a6378f45a",
+      "title": "二つ目のほう",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3de9a3fc-7125-4c06-b60d-5fd0701b20b8",
+      "title": "レクチャー",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ea5b0d3e-7678-47af-a4dd-3151d689c065",
+      "title": "ミッション",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19662c41-c673-4cc3-b1d6-e9d8920795ec",
+      "title": "やり手婆",
+      "artist": "神前暁",
+      "isrc": "JPV432300471",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1CVcvXiWw1hpwfMVgwSpQu",
+      "isFallback": true
+    },
+    {
+      "id": "44565308-1bdc-4ff7-83df-99257348b6f3",
+      "title": "ランランラン♪だよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100700634",
+      "releaseDate": "2007-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/0c6gzghHJxhZsZyyaVBCQD",
+      "isFallback": true
+    },
+    {
+      "id": "2efb50a0-fcd0-465c-829f-8b65cd05c455",
+      "title": "ホトトギス",
+      "artist": "神前暁",
+      "isrc": "JPV432300489",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/63ppnnxSbSz7Uhg0JuZRLA",
+      "isFallback": true
+    },
+    {
+      "id": "45fb59bb-6ad0-4398-a40c-21adad24e999",
+      "title": "三人がかり",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e2c05c4-7e27-483c-ad99-f5d8a5b62231",
+      "title": "よかったね",
+      "artist": "神前暁",
+      "isrc": "JPE301003462",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05cfc32d-6396-45cc-9294-fcfcc0773c2b",
+      "title": "フルネーム",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13f87899-2347-4f10-a4ce-452e6135e8e6",
+      "title": "パラノイア",
+      "artist": "Ceui",
+      "isrc": "JPI100900522",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5gjg9wzfGCniCHwsgmSXMq",
+      "isFallback": true
+    },
+    {
+      "id": "235438cf-f354-4c18-8756-1ee8aa5dee81",
+      "title": "マッシー＆マーロー",
+      "artist": "神前暁",
+      "isrc": "JPI100700989",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/5lqX4bQGXF0uyVI8lTKp2V",
+      "isFallback": true
+    },
+    {
+      "id": "2a776cf4-d739-44b2-8d75-e9dac8286550",
+      "title": "ふたりのぜのぴったん",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2006-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9ddeb47-4382-42c5-a8d6-adcd6061602d",
+      "title": "人生相談",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ebb7867f-9384-4fbf-b4dc-5b4eee078eec",
+      "title": "ファーストタッチ",
+      "artist": "神前暁",
+      "isrc": "JPE301103688",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4xjtAqZtst9kinjt0vuOkH",
+      "isFallback": true
+    },
+    {
+      "id": "c76e2de5-0929-432c-9e7d-277e235ac248",
+      "title": "ぶっぶぶっぶぶーだね、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100702265",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/3O2F9BbhVckNPRYKyqjbO7",
+      "isFallback": true
+    },
+    {
+      "id": "0115d286-c4b6-42d4-b864-d569089ac1ba",
+      "title": "ぽかーん",
+      "artist": "神前暁",
+      "isrc": "JPE301003451",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/70DKm0DjmYVmuq8vwV5d34",
+      "isFallback": true
+    },
+    {
+      "id": "8fba62b2-2d4f-4f21-b526-23194b4ffed7",
+      "title": "ファイルナファタンジー",
+      "artist": "神前暁",
+      "isrc": "JPI100702084",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7Bu4g58X5VxoI4gOQ3Thq7",
+      "isFallback": true
+    },
+    {
+      "id": "da8f6050-8a84-448c-8238-7f1d7a4a8ca7",
+      "title": "わかっていたつもり",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9727fc4d-7e9e-4995-8934-efd41428c905",
+      "title": "バカ兄貴!",
+      "artist": "神前暁",
+      "isrc": "JPE301003443",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1305a0fb-d354-4a8d-8139-1a966d9f6f51",
+      "title": "ヤンデレ",
+      "artist": "神前暁",
+      "isrc": "JPE301300081",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/4J7X2tV9bqmz4Bdf2JEZLR",
+      "isFallback": true
+    },
+    {
+      "id": "345a2f6b-7eff-49dd-ad7e-f0d3758c75bc",
+      "title": "モノクローム",
+      "artist": "気多の巫女",
+      "isrc": "JPE301003725",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31708e90-fef3-4a6a-9b40-6d4d161c8609",
+      "title": "めぐりあうかもしれない",
+      "artist": "神前暁",
+      "isrc": "JPI102302637",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/1MWTEOOTkWJmVuQFQPFg1p",
+      "isFallback": true
+    },
+    {
+      "id": "0dc5172e-63a0-4f92-8c1d-3bb1a7edcf0e",
+      "title": "一日のはじまり",
+      "artist": "神前暁",
+      "isrc": "JPE301003441",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2da793b-89ea-4960-a5dc-85c0b82c6310",
+      "title": "交渉人",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a60f2907-e395-4870-b47a-b30458e79f33",
+      "title": "のどかな商店街～ユキ登場～ピンチっぽい！～ミクル変身！そして戦闘！～大団円",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901033",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/0nt9O1Q2TDcOm5H2nnWOwa",
+      "isFallback": true
+    },
+    {
+      "id": "b103f7d7-2e3a-4cec-baa0-6d6eed7993e8",
+      "title": "人外",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "619fa746-9155-4fbf-85b4-b1d755628b55",
+      "title": "ひとり…",
+      "artist": "神前暁",
+      "isrc": "JPE300900885",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/2mhBLE7VdxgkMery54dNIk",
+      "isFallback": true
+    },
+    {
+      "id": "c4ee5e93-1488-4680-920c-c172e8a8e5f1",
+      "title": "ぷらねっと☆ばーすと (Full Version)",
+      "artist": "メルル",
+      "isrc": "JPE301700298",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8bf1abf1-f5f2-437f-8fe4-fda251bb190c",
+      "title": "らっきー☆ちゃんねるのテーマ",
+      "artist": "神前暁",
+      "isrc": "JPI100700987",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/3knpX2EAobhePMSMiNFkKJ",
+      "isFallback": true
+    },
+    {
+      "id": "e651531a-058d-4788-8acb-61c8b0bc391e",
+      "title": "まがいものそのものの女",
+      "artist": "神前暁",
+      "isrc": "JPE301303005",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/2zgksHCmCZbiR3UbWy2zq6",
+      "isFallback": true
+    },
+    {
+      "id": "eb111d51-9db9-4f63-af06-2f338856bfb9",
+      "title": "パティのテーマ",
+      "artist": "神前暁",
+      "isrc": "JPI100800037",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/66KoVYLbc73qybvtC06SIg",
+      "isFallback": true
+    },
+    {
+      "id": "22c4736e-94d2-46b9-9b72-e1e440f5ba95",
+      "title": "三月二十六日",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19f507bf-43cb-48bd-a3e5-97f1294212ad",
+      "title": "ふたりのもじぴったん",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2003-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e893afab-1739-4421-882f-03c0dddedcee",
+      "title": "ハミングガール",
+      "artist": "るん",
+      "isrc": "",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49480ad0-cbf7-4bbb-b164-5036ce163e11",
+      "title": "れんあいこわい",
+      "artist": "極♨落女会",
+      "isrc": "JPKI01214336",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d96d764-e273-46e7-ae19-2ea727df7cc4",
+      "title": "みなみのテーマ",
+      "artist": "神前暁",
+      "isrc": "JPI100702789",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/45QjdONTxUmxKc69y14k75",
+      "isFallback": true
+    },
+    {
+      "id": "037cc838-7e79-46c8-a96d-a1ecdb2c4925",
+      "title": "人畜",
+      "artist": "神前暁",
+      "isrc": "JPE301000047",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3OHkbCVbtJGjlZ3850qXHm",
+      "isFallback": true
+    },
+    {
+      "id": "0e9c798e-5860-4a1e-9768-c05553c50477",
+      "title": "みんなが不幸になる方法",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e15772c6-4f82-4cfa-83d9-2ff74765b193",
+      "title": "ゆたかのテーマ",
+      "artist": "神前暁",
+      "isrc": "JPI100702509",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3VogMnuWWxGwJxBw3rc7vU",
+      "isFallback": true
+    },
+    {
+      "id": "246195c2-8f4c-41fb-972f-2a1f27cb19f0",
+      "title": "ハマってサボっておーまいがっ!",
+      "artist": "泉こなた",
+      "isrc": "JPI100800122",
+      "releaseDate": "2008-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/4H2il1FW8f1aGE3N7P3zNd",
+      "isFallback": true
+    },
+    {
+      "id": "a52531e9-1176-475b-a49e-ac48c8fbdd8e",
+      "title": "ろくでもないガキ",
+      "artist": "神前暁",
+      "isrc": "JPV432500186",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/2ChRYnOwuQfZK5QE3lru5d",
+      "isFallback": false
+    },
+    {
+      "id": "ed7d8482-901c-4ffd-96bd-85b51b92deed",
+      "title": "トリビア",
+      "artist": "神前暁",
+      "isrc": "JPE301303006",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/297E1xgr7FITOf6keCQS1B",
+      "isFallback": true
+    },
+    {
+      "id": "7b769c4f-868c-4dfb-b2f6-4ab3f1889585",
+      "title": "ぬくもり",
+      "artist": "神前暁",
+      "isrc": "JPE300900870",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b3551804-0265-4dd4-982a-5a32d513412d",
+      "title": "みんなで5じぴったん",
+      "artist": "胸ぺったんガールズ",
+      "isrc": "JPI100702250",
+      "releaseDate": "2007-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/6yl4U49LRKOaHmvjh6Wv9p",
+      "isFallback": true
+    },
+    {
+      "id": "ba0d9a8c-f3df-421e-ae46-3947d4811fc3",
+      "title": "一万時間の法则",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f31948d-25ce-4fd3-80cf-4b0d09b5e41d",
+      "title": "二年二組",
+      "artist": "神前暁",
+      "isrc": "JPE301400158",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/1gHudqOYGJbhzIsHGg7cLC",
+      "isFallback": true
+    },
+    {
+      "id": "2dd7fa82-795e-463a-bb06-d86dd8a48d7e",
+      "title": "不吉",
+      "artist": "神前暁",
+      "isrc": "JPE301201486",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/33td4Ib7DJUGhdWLP0HzEQ",
+      "isFallback": true
+    },
+    {
+      "id": "83cba083-30e9-4d35-859e-5a5d4108920e",
+      "title": "ハナズオウ",
+      "artist": "神前暁",
+      "isrc": "JPV432300494",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1spK3UnmszLUVQHD9SeW2q",
+      "isFallback": true
+    },
+    {
+      "id": "2a9f9b04-643b-4e8b-9bb9-1abedc699f94",
+      "title": "人為",
+      "artist": "神前暁",
+      "isrc": "JPE301202032",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/6KipQvZ5GSgbB0Mx6i1DAr",
+      "isFallback": true
+    },
+    {
+      "id": "5271aa27-83ca-4835-a7bf-cc08cbb0a64b",
+      "title": "ユーモア",
+      "artist": "神前暁",
+      "isrc": "JPV432500191",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/4koD7Hianye8UIahhY6piI",
+      "isFallback": false
+    },
+    {
+      "id": "4363ad65-f673-4dc6-a62a-62c16d7fda54",
+      "title": "中学生ライフ",
+      "artist": "神前暁",
+      "isrc": "JPE301400162",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/1Pwi0zWtlQKsCJwocdgIwJ",
+      "isFallback": true
+    },
+    {
+      "id": "fed5a73c-01bf-4ea6-b48a-a66a4122c8ba",
+      "title": "三十路岬",
+      "artist": "小神あきら",
+      "isrc": "JPI100701320",
+      "releaseDate": "2007-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/3TpeZvGwmZalLnfwgDsX66",
+      "isFallback": true
+    },
+    {
+      "id": "d00af695-8eab-414b-98c3-2a6ce96c60c9",
+      "title": "人間の振り",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "99385704-caf0-450f-8d48-8a76af9c7610",
+      "title": "めてお☆いんぱくと",
+      "artist": "メルル",
+      "isrc": "JPE301003477",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a7ed3565-7e20-4aaf-8591-3718b1aaefea",
+      "title": "バンガスター",
+      "artist": "神前暁",
+      "isrc": "JPI100702079",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/3CHkkSH8YTnc1AYxq47FdJ",
+      "isFallback": true
+    },
+    {
+      "id": "8bcb305b-e9ea-40a1-bc4e-0035f6c99508",
+      "title": "ロケット作り",
+      "artist": "神前暁",
+      "isrc": "JPE301300084",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5J7GGLcLhZjnr8uXOH2ogi",
+      "isFallback": true
+    },
+    {
+      "id": "bc2e0ee2-14ec-4cee-90c7-379678e4a410",
+      "title": "らき☆すたBGM",
+      "artist": "Black Man",
+      "isrc": "JPC230704014",
+      "releaseDate": "2015-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/2nsfoUBk5IxWRtrIQWzSyu",
+      "isFallback": true
+    },
+    {
+      "id": "4fe359ed-b782-4c89-a7e1-7e43a56c0134",
+      "title": "フェイント",
+      "artist": "神前暁",
+      "isrc": "JPE301400442",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/6HSqAR8v2wsDmlltWc3Oxy",
+      "isFallback": true
+    },
+    {
+      "id": "b18172ce-5ad2-4be2-9f3b-a6b296bf9cbb",
+      "title": "もってけ！セーラーふく",
+      "artist": "泉こなた",
+      "isrc": "JPI100700590",
+      "releaseDate": "2007-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3n4TCwKfovQ3Nk69xHtckX",
+      "isFallback": true
+    },
+    {
+      "id": "67bb7126-6ea6-4567-bb91-db1f618477c8",
+      "title": "レイニー・デヴィル",
+      "artist": "神前暁",
+      "isrc": "JPE301103695",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6SRxIy0CwOf96fDrzHIquv",
+      "isFallback": true
+    },
+    {
+      "id": "1c715739-03f5-4d8c-a4be-ca5853a4467c",
+      "title": "一陣の風",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19cef848-1eb6-45eb-aefe-0813b672ed38",
+      "title": "一般常識",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "955bc4b3-1d6f-4437-a461-e155a1249824",
+      "title": "バルーンシアター",
+      "artist": "河野マリナ",
+      "isrc": "JPE301200421",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/01y83efyJu5I0WDQLFHJ45",
+      "isFallback": true
+    },
+    {
+      "id": "65f26411-8a8a-4bae-8354-720a74fc18a5",
+      "title": "フンフンギターだよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100702080",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6NdMzdLhCrGqLwomKEvFZz",
+      "isFallback": true
+    },
+    {
+      "id": "26d8e89b-b09c-4a76-8dda-c40d276748bb",
+      "title": "モンタローのうた",
+      "artist": "rino",
+      "isrc": "JPI100900526",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1T7VDCUaKqSdULPmHrIq12",
+      "isFallback": true
+    },
+    {
+      "id": "bfa0d0b5-ddc1-4ec6-8e87-8b7786f58eec",
+      "title": "七つの海よりキミの海",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01311971",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3f5Lj1DNihK99qlK0zkiU7",
+      "isFallback": true
+    },
+    {
+      "id": "287362ce-a90c-43a4-8965-5a1f2a70e695",
+      "title": "一件落着",
+      "artist": "神前暁",
+      "isrc": "JPE301003476",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f512275-35e3-4f28-a8cc-b144e61db58a",
+      "title": "ロリィタ帝国ビショージョ大帝",
+      "artist": "胸ぺったんガールズ",
+      "isrc": "JPI100702251",
+      "releaseDate": "2007-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/3RV5lU8D10ZSWT5yOMytRM",
+      "isFallback": true
+    },
+    {
+      "id": "fbee7de1-1d12-43d1-b7fc-300c2a47764c",
+      "title": "ライジレーサー",
+      "artist": "神前暁",
+      "isrc": "JPI100800787",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3rJhpv6mUG81eD0yTHzRhn",
+      "isFallback": true
+    },
+    {
+      "id": "63cc02f3-a2d3-40bd-a268-e95ecdb42ec4",
+      "title": "三十路坂",
+      "artist": "小神あきら",
+      "isrc": "JPI100801975",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/713xy2jN8BgyMiR4zkhBgF",
+      "isFallback": true
+    },
+    {
+      "id": "c9879cd3-4fcd-4516-ad74-166e819ff212",
+      "title": "ハートアンダーブレード",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75fce1be-7ed4-477f-a037-aca2dfe854b7",
+      "title": "ルマ撫子",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16809c50-e3d5-4255-896d-44228ef22a18",
+      "title": "はなむけ",
+      "artist": "神前暁",
+      "isrc": "JPE301400390",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/71atB08elOxzrPZ2zbjVWu",
+      "isFallback": true
+    },
+    {
+      "id": "1f403875-0bd9-4172-869b-53b75589418a",
+      "title": "ビールのCMっぽい曲を作ってみた",
+      "artist": "神前暁",
+      "isrc": "JPI100702513",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/39fYRqC1Rmsz6c8bStpn8N",
+      "isFallback": true
+    },
+    {
+      "id": "fa919af2-f8b8-4938-ba7f-d759c22bb6f9",
+      "title": "もうそう♡えくすぷれす",
+      "artist": "千石撫子",
+      "isrc": "JPE301400020",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/655c1jo3bhSiKhewPzqdN8",
+      "isFallback": true
+    },
+    {
+      "id": "b35b77c7-90b6-4472-a3ea-3f7061cc88e0",
+      "title": "らき☆すたMush! ～DustFunk☆Lozik～",
+      "artist": "r-midwest",
+      "isrc": "JPI100801976",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/4UWareXzTxsg5TWiovLAos",
+      "isFallback": true
+    },
+    {
+      "id": "b4b15ea2-45d6-4692-b241-0ae4919d7fd1",
+      "title": "ハートのエッジに挑もう Go to Heart Edge",
+      "artist": "小鳥遊宗太",
+      "isrc": "JPE301000262",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a601df9-c890-4231-968b-f4d0963b8a5f",
+      "title": "モソハソ",
+      "artist": "神前暁",
+      "isrc": "JPI100800792",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/1u7lCiI2ZwE3aIWQeqQ76W",
+      "isFallback": true
+    },
+    {
+      "id": "0e25dc26-0ae2-4ca8-9481-c3dde4dc7273",
+      "title": "下心",
+      "artist": "神前暁",
+      "isrc": "JPE301302809",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3BMacS4EgJrOXd3UZorxo7",
+      "isFallback": true
+    },
+    {
+      "id": "7e8667dc-c5c0-4522-8fe0-7dd53e186313",
+      "title": "わーずわーずの魔法",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2003-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ba6c064-665e-4678-b38f-e1bee3ab94dd",
+      "title": "ハマギク",
+      "artist": "神前暁",
+      "isrc": "JPV432300487",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1TWSbuaHs0XOKNiYQDj5c5",
+      "isFallback": true
+    },
+    {
+      "id": "fd83d7d5-33a0-4736-b7e0-a1a2f9845e75",
+      "title": "ドライブだよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100701222",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/7EbSSxxclzDl5YNvryLjPb",
+      "isFallback": true
+    },
+    {
+      "id": "7da94306-2444-4680-b7ac-b5f4edcca428",
+      "title": "ブレスレット",
+      "artist": "神前暁",
+      "isrc": "JPE301201484",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/4e5UV7eGiTOn6tn5AyKOgY",
+      "isFallback": true
+    },
+    {
+      "id": "608f3383-da0d-4d4b-b90b-d6cf4a7ab6e2",
+      "title": "むすひの",
+      "artist": "神前暁",
+      "isrc": "JPE300900880",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "934c03fc-f9f1-4e20-a2a5-79d47238a5f9",
+      "title": "やらねば",
+      "artist": "神前暁",
+      "isrc": "JPV432500190",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/3nUCGz0iEGS33FgS3R3L2D",
+      "isFallback": false
+    },
+    {
+      "id": "48ce6073-3452-41a7-a7cc-f9bfb1af3eb5",
+      "title": "ひよりの妄想",
+      "artist": "神前暁",
+      "isrc": "JPI100702790",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1fl1nVC40SsLaDE3AOosp5",
+      "isFallback": true
+    },
+    {
+      "id": "d37905fb-b792-45f6-831b-aa549c33cac4",
+      "title": "不意打ち",
+      "artist": "神前暁",
+      "isrc": "JPE301400378",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/5iknBISW0i5B4h6S7HAsaK",
+      "isFallback": true
+    },
+    {
+      "id": "9f71569f-6222-4798-b985-7452425f6495",
+      "title": "ひととき",
+      "artist": "神前暁",
+      "isrc": "JPE301003452",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/612TOuGBMHSUhmFzqtasqM",
+      "isFallback": true
+    },
+    {
+      "id": "e264488e-3e15-4549-beb6-e0bad0635ec1",
+      "title": "マリヤ様がみてるかもしれない",
+      "artist": "神前暁",
+      "isrc": "JPI100702083",
+      "releaseDate": "2007-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2CAfKr6acx7eYl8NsJjTTm",
+      "isFallback": true
+    },
+    {
+      "id": "16ad3f2d-497e-4963-a8ca-3d6b34ac816d",
+      "title": "三月二十八日",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e09548f-eeed-4f85-ba2b-5a3242d2cb88",
+      "title": "レオタード3姉妹美人泥棒",
+      "artist": "神前暁",
+      "isrc": "JPI100800042",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/0LSmkdMasFe23c7eenyfas",
+      "isFallback": true
+    },
+    {
+      "id": "742ae382-4359-4b67-a23c-cd5c6d8a5940",
+      "title": "ピンチ!",
+      "artist": "神前暁",
+      "isrc": "JPE301003472",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/5W5ZgAZatixIjGr2TiQWN9",
+      "isFallback": true
+    },
+    {
+      "id": "be077f59-dfde-42c6-bcb0-7d4c5316fb29",
+      "title": "下らない理由",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4e2a3d4-ea0a-47f5-a68a-0bc6a7fceac7",
+      "title": "兄貴の日常",
+      "artist": "神前暁",
+      "isrc": "JPE301003444",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17f05218-1b63-4c5d-aa48-cf4387250036",
+      "title": "嫌悪感",
+      "artist": "神前暁",
+      "isrc": "JPE301003469",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d21fc07a-a05e-470c-a6b3-526eb12db459",
+      "title": "八つ当たり",
+      "artist": "神前暁",
+      "isrc": "JPE301303012",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/64KkkDYvEJgctLGfpwruSs",
+      "isFallback": true
+    },
+    {
+      "id": "4428efee-6d60-42b5-9021-5cf67d2e1f6f",
+      "title": "住所不定の自由人",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "756461c2-c7fc-41f8-95fd-9357fa26a242",
+      "title": "優等生",
+      "artist": "神前暁",
+      "isrc": "JPE301201672",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/6XgYvzIsMgjBJAQl6BZC9w",
+      "isFallback": true
+    },
+    {
+      "id": "2e0c091a-5e38-4ee2-8028-0fd6eac28e1f",
+      "title": "俺の妹が(ry",
+      "artist": "神前暁",
+      "isrc": "JPE301003442",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9667e686-540f-4183-8d75-53b2ee584581",
+      "title": "尊大",
+      "artist": "神前暁",
+      "isrc": "JPE301201489",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/6hQJIHQnvYEfLv9qDF4i10",
+      "isFallback": true
+    },
+    {
+      "id": "74aa9980-77e9-4d3f-ad03-69dbe3e95d19",
+      "title": "囲い火蜂",
+      "artist": "神前暁",
+      "isrc": "JPE301201491",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/60JCS25hrtCgwxCcHvkn8Z",
+      "isFallback": true
+    },
+    {
+      "id": "cda7ab8b-6094-40b6-a149-f9470b569e2d",
+      "title": "学園異能バトルIII",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "81d13b4e-d8ac-436c-a6b2-daa0162760ea",
+      "title": "体育祭ですよ",
+      "artist": "神前暁",
+      "isrc": "JPI100701559",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1Qe8WsH3lJvkJ4hr2ngTjQ",
+      "isFallback": true
+    },
+    {
+      "id": "350497bf-13ff-4f70-affa-c7bbbcaf3f80",
+      "title": "噂",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f05ffcb-e64b-4d07-b04d-6e00783d0647",
+      "title": "四月五日",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b4538ecf-ab36-4c08-a6ae-76d46c576020",
+      "title": "女子同士",
+      "artist": "神前暁",
+      "isrc": "JPE301302811",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1pu52vIKGP6lnVpFToxz2L",
+      "isFallback": true
+    },
+    {
+      "id": "73d4663c-b52b-45e5-ae06-17ddee89aee3",
+      "title": "妃教育",
+      "artist": "神前暁",
+      "isrc": "JPV432300480",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3KSX5xTpobuiLineTkDLbs",
+      "isFallback": true
+    },
+    {
+      "id": "978f80f8-b90d-4e82-8112-03e0c859fa49",
+      "title": "喧嘩",
+      "artist": "神前暁",
+      "isrc": "JPE301201663",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/36uRqmISvrN1qEUVR3z3KL",
+      "isFallback": true
+    },
+    {
+      "id": "91e178d9-43a9-4269-82a4-fecea169496b",
+      "title": "夏休み",
+      "artist": "神前暁",
+      "isrc": "JPE301202026",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/4cKOPiPR5qNBYZ2Lq8KEpE",
+      "isFallback": true
+    },
+    {
+      "id": "d7ae5237-75b2-4b7f-aba6-e274963f93eb",
+      "title": "再び出逢えた団員たち",
+      "artist": "多田彰文",
+      "isrc": "JPI100903464",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5Ac7TGZeDC6WnmuyMCbp6Q",
+      "isFallback": true
+    },
+    {
+      "id": "53d4964d-4246-4e53-9a0c-88c7a3dc7d9d",
+      "title": "前振り",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22f118c5-d50e-4d57-be59-42747b9e2cfc",
+      "title": "始まりのモノローグ",
+      "artist": "広川恵一",
+      "isrc": "JPB601404957",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2934f9b7-7135-4d8f-a8f3-3b055880de33",
+      "title": "孤独感",
+      "artist": "神前暁",
+      "isrc": "JPE301400383",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/1CQieUmFj5dzn2vJFeWXAk",
+      "isFallback": true
+    },
+    {
+      "id": "40e269c1-a852-4244-8b0b-82b727697d04",
+      "title": "初対面",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cfbf1ce8-512f-45bf-bc6e-01eadad57067",
+      "title": "冷たい眼",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "28d7bedb-6f15-40d9-85c7-76c41a9e119d",
+      "title": "今日のお犬様",
+      "artist": "神前暁",
+      "isrc": "JPI100800784",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/7KhJQh2FtrpEtxAIQLDLye",
+      "isFallback": true
+    },
+    {
+      "id": "458d7375-a600-4b76-906e-a2b21cb84af6",
+      "title": "千石撫子、十四歳。",
+      "artist": "神前暁",
+      "isrc": "JPE301400155",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/76V0wpcgOQr6oRFZxCDDI8",
+      "isFallback": true
+    },
+    {
+      "id": "44fa7587-fad7-4bc6-9614-d4fa0f78a3c6",
+      "title": "家族会議",
+      "artist": "神前暁",
+      "isrc": "JPE301302806",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1mVTgt8gj14zvox2UrQrsL",
+      "isFallback": true
+    },
+    {
+      "id": "1caadbb7-3b17-4e80-9c6c-273ef88be338",
+      "title": "妹達",
+      "artist": "神前暁",
+      "isrc": "JPE301201206",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2Mgj0WcdzibcxIe0qjJ9ck",
+      "isFallback": true
+    },
+    {
+      "id": "4290a5b4-f9df-412a-afaa-b7aa2a398bbe",
+      "title": "四散",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85448945-7aa5-457d-8291-9109d3a8d20e",
+      "title": "寡聞",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2159998a-f1b0-4a34-9dbd-61a05fedac48",
+      "title": "幼なじみ",
+      "artist": "神前暁",
+      "isrc": "JPE301003450",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef5c24b2-d440-45dc-bf15-eecd20b70f53",
+      "title": "外法",
+      "artist": "神前暁",
+      "isrc": "JPE301103667",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5WpzN0eE0h6GZGlcqUx9Qp",
+      "isFallback": true
+    },
+    {
+      "id": "97fef7ed-3eb1-496c-aa16-9a14b126bba3",
+      "title": "夢結びの雨",
+      "artist": "小神あきら",
+      "isrc": "JPI100701321",
+      "releaseDate": "2007-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/0pOLJ1xMb33c2obFJuAbG7",
+      "isFallback": true
+    },
+    {
+      "id": "555f95f8-d115-41a1-bff3-7a07889bbc5f",
+      "title": "南国風ですが、何か",
+      "artist": "神前暁",
+      "isrc": "JPI100701224",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2d0pFeXkAwS8ZryYZBcgfc",
+      "isFallback": true
+    },
+    {
+      "id": "fc6bcb09-c2ec-4261-b642-8e19f22268f3",
+      "title": "天罰",
+      "artist": "神前暁",
+      "isrc": "JPE301400384",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/0fDPkkmf6BqJLpuKjfXIyY",
+      "isFallback": true
+    },
+    {
+      "id": "d083bc48-a600-4903-b8d7-34f4fac36846",
+      "title": "四月八日",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ab09b1b-41c5-4cc1-bd23-f5d5272e1af3",
+      "title": "傷物達の物語",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71f8a29e-02ff-4579-b215-af5e1d09e2cc",
+      "title": "友達。の、つもり",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef811e48-be66-47de-8894-5ae26dd08fea",
+      "title": "吹き溜まり",
+      "artist": "神前暁",
+      "isrc": "JPE301103673",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7AhC5CDGYA7GRN50ygaypC",
+      "isFallback": true
+    },
+    {
+      "id": "e1e11398-9d44-4dc3-aa5c-63fdae2bbdf3",
+      "title": "同情",
+      "artist": "神前暁",
+      "isrc": "JPV432300477",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6qixvVd6LaNB1HpE420Si9",
+      "isFallback": true
+    },
+    {
+      "id": "89b9318b-4121-4b77-b73f-3962ae4c5feb",
+      "title": "屋根の上で",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ecb96d1-7508-4813-8bb8-a0516bda1ffe",
+      "title": "劣情に近い感情",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f8d64ad-c4ee-4557-8f82-3b48c6c327c5",
+      "title": "八九寺真宵の場合",
+      "artist": "神前暁",
+      "isrc": "JPE301103684",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1fplYUk6jljrYV4vhPH8oQ",
+      "isFallback": true
+    },
+    {
+      "id": "efeb0b6f-6fb0-4a51-8b1e-e8e730606042",
+      "title": "千石撫子の場合",
+      "artist": "神前暁",
+      "isrc": "JPE301103698",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5xK8JUbW4WIKw1f0hlBHrn",
+      "isFallback": true
+    },
+    {
+      "id": "ae11bda2-1da6-435e-9ea8-fbc5b4540dfb",
+      "title": "僕達の戦い",
+      "artist": "神前暁",
+      "isrc": "JPE301303016",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/5sHQbIptPwuw3pk2Mb3fhP",
+      "isFallback": true
+    },
+    {
+      "id": "469f5773-a3c8-4de9-8f3b-84a34e93a4dd",
+      "title": "最低の男",
+      "artist": "神前暁",
+      "isrc": "JPE301300091",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/4Xo6BHytWTRbmubjyWWxJb",
+      "isFallback": true
+    },
+    {
+      "id": "3b4c0594-deff-4d0e-a07c-edd676774770",
+      "title": "右往左往",
+      "artist": "神前暁",
+      "isrc": "JPE301003454",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b30b07a3-1adb-46f8-b777-3d681d6a6e74",
+      "title": "前髪",
+      "artist": "神前暁",
+      "isrc": "JPE301201481",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/0l9gxMb72yMKX5HntqjnS9",
+      "isFallback": true
+    },
+    {
+      "id": "8f612d33-0adb-4e04-bd1f-498ff73eec04",
+      "title": "兄妹",
+      "artist": "神前暁",
+      "isrc": "JPE301202030",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/3IIbcjn8Nexj9XWrOd0t98",
+      "isFallback": true
+    },
+    {
+      "id": "1cee7840-00c6-4dfa-89dd-fb22f0c26010",
+      "title": "学園異能バトルII",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "72d425e3-ef7b-4212-957f-89d5b2c53050",
+      "title": "最後の答えで良いですか?",
+      "artist": "神前暁",
+      "isrc": "JPI100702512",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1GjmXsPcpyJ3ECA3IE1SZN",
+      "isFallback": true
+    },
+    {
+      "id": "5a9ef3b9-c5ee-417f-96e6-a8a1fa9d4531",
+      "title": "女の子のお届物",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9aa3fba-ebe3-4531-930f-634acd599e1d",
+      "title": "十一年後の姿",
+      "artist": "神前暁",
+      "isrc": "JPE301303013",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/4EGrDZd8AAUkqb92je0ipl",
+      "isFallback": true
+    },
+    {
+      "id": "c73779c5-6889-47fb-b034-a03f91fe6291",
+      "title": "友達",
+      "artist": "神前暁",
+      "isrc": "JPD732000427",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/2hjLXmtVHpxSvAhbLrsDdC",
+      "isFallback": true
+    },
+    {
+      "id": "bd9a404d-e1d9-4442-941a-9667764985b0",
+      "title": "分析",
+      "artist": "神前暁",
+      "isrc": "JPV432300488",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/7tvZrZznTZncmfwG5Q53az",
+      "isFallback": true
+    },
+    {
+      "id": "00a1f1e3-a26c-4e70-b2ce-7939510c5528",
+      "title": "地獄の沙汰も金次第",
+      "artist": "神前暁",
+      "isrc": "JPE301400447",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/3eqAyWkIa0Q0wCe9LEtbun",
+      "isFallback": true
+    },
+    {
+      "id": "1cb80ad1-bb08-41cd-9d85-b04e67348cb6",
+      "title": "告白",
+      "artist": "神前暁",
+      "isrc": "JPE301302817",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/5XLK3ec8YcqUAD2nF6T5qR",
+      "isFallback": true
+    },
+    {
+      "id": "731ff809-6816-450a-a407-5b24c5161b06",
+      "title": "大人",
+      "artist": "神前暁",
+      "isrc": "JPE301201208",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/1Q2JR2CRliujjhCvQyCYSX",
+      "isFallback": true
+    },
+    {
+      "id": "948075fe-9cd1-483f-9dea-f8cd284486f9",
+      "title": "光に向かって",
+      "artist": "高田龍一",
+      "isrc": "JPCO01331630",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "edca3195-69ce-48ff-b454-bf1df3d8a988",
+      "title": "勝手な話",
+      "artist": "神前暁",
+      "isrc": "JPE301400165",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/3PBCz6gKQD3QlJSbFbRAlq",
+      "isFallback": true
+    },
+    {
+      "id": "0c7a9158-2f79-4cb5-bbdd-13747b79b805",
+      "title": "切なき時間",
+      "artist": "神前暁",
+      "isrc": "JPI100702266",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/2v9UizojLCufH9qjA4O5rF",
+      "isFallback": true
+    },
+    {
+      "id": "156eda83-d3ab-4bd2-8b1b-80dc3f3f3255",
+      "title": "侍女",
+      "artist": "神前暁",
+      "isrc": "JPV432300472",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/77hkAzSzcrPMTeum8S10Qj",
+      "isFallback": true
+    },
+    {
+      "id": "f9b528df-6604-4304-9c98-7a1378ebd731",
+      "title": "全裸",
+      "artist": "神前暁",
+      "isrc": "JPE301201482",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/59SABuWQMzoxKdBYxQSWq0",
+      "isFallback": true
+    },
+    {
+      "id": "b87d6d9a-2748-4da1-abf6-802bb96eb8ca",
+      "title": "失言",
+      "artist": "神前暁",
+      "isrc": "JPE301400159",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/7cbxTdnTpto5CmcmyuuTjp",
+      "isFallback": true
+    },
+    {
+      "id": "0b993318-4c0a-4ef1-ba01-2c50d970fe57",
+      "title": "吾輩は虎である",
+      "artist": "神前暁",
+      "isrc": "JPE301302815",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/4C6c159xywHKlyWNqgvKc5",
+      "isFallback": true
+    },
+    {
+      "id": "7555de3f-2f99-4ee7-8f12-1d55f2f1ad38",
+      "title": "取引",
+      "artist": "神前暁",
+      "isrc": "JPE301400167",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/1ZbK1JvIsXfuCjq8wErjqS",
+      "isFallback": true
+    },
+    {
+      "id": "97794852-5735-4588-897a-7d6b97c931d2",
+      "title": "人間強度",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b9f1674b-8cd6-4e31-8144-5f9e3c3b49ce",
+      "title": "女の子の届け物",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "20afdacb-016e-484f-bb02-c086b69c83c8",
+      "title": "光のオクターブ",
+      "artist": "アゲマキ・ワコ",
+      "isrc": "JPE301203483",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d3aa7ce-893a-4508-a0d9-a7b08e8a68c1",
+      "title": "学園異能バトルI",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34d15aba-b1e3-4103-a7b1-1cb36867144a",
+      "title": "唐突な問い",
+      "artist": "神前暁",
+      "isrc": "JPE301302805",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/6HLFyncpgLoAHuryKYY4mG",
+      "isFallback": true
+    },
+    {
+      "id": "44cbae26-ce42-45d5-8e84-d7818a949a30",
+      "title": "千年樹",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1bd57ff-92f5-4b32-aa3c-c314c42132a4",
+      "title": "以下、回想",
+      "artist": "神前暁",
+      "isrc": "JPE301000052",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/47f77HlUomvZyf8fGCyYvJ",
+      "isFallback": true
+    },
+    {
+      "id": "917ee7e4-4727-4a63-a7b6-2a7f9487e25d",
+      "title": "幽霊の幽霊",
+      "artist": "神前暁",
+      "isrc": "JPE301400388",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4HKZCJRdxBmNN4Uad0y0iD",
+      "isFallback": true
+    },
+    {
+      "id": "19a75562-c0e1-47ac-b7a6-cd04566ce274",
+      "title": "力ずく",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "89ef2bed-d23b-4d58-9808-af1459a79484",
+      "title": "午後のティータイム",
+      "artist": "神前暁",
+      "isrc": "JPE301003465",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7976595-55f7-440d-b41a-1790a69f5d0b",
+      "title": "偽物",
+      "artist": "神前暁",
+      "isrc": "JPE301201665",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/2CkHqk8ySLCvOeY4uJf06j",
+      "isFallback": true
+    },
+    {
+      "id": "fc8a6087-8344-499c-b568-01d096a9700d",
+      "title": "友達面",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "70f9d74d-5b66-4da0-9ba0-08433bf8e21d",
+      "title": "午前二時過ぎ",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2cd8b871-b3d1-4e7c-9c1f-a3891b7e5cea",
+      "title": "最大聖地カーニバル",
+      "artist": "パトリシア・マーティン",
+      "isrc": "JPI100701850",
+      "releaseDate": "2007-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/3YJ3E93oOO2VzbrydRkeJj",
+      "isFallback": true
+    },
+    {
+      "id": "ec50c15b-ae8c-4c2d-a21c-3c01b65c7bf8",
+      "title": "妖刀『心渡』",
+      "artist": "神前暁",
+      "isrc": "JPE301300100",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/1pUuseBfh4XAb4TGHh7mts",
+      "isFallback": true
+    },
+    {
+      "id": "8bfb7c0f-a06e-48ae-8c76-5e18eaaf7c2a",
+      "title": "修験道",
+      "artist": "神前暁",
+      "isrc": "JPE301000050",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/7rP3ZGYibOZeHS2xwTY91d",
+      "isFallback": true
+    },
+    {
+      "id": "cdf2927e-dd80-4533-9e94-494d7f873d82",
+      "title": "園遊会",
+      "artist": "神前暁",
+      "isrc": "JPV432300484",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5PLZfe3dSP6dIUl4WHH5lV",
+      "isFallback": true
+    },
+    {
+      "id": "47bd313d-4182-4aa7-9048-50eddb03d7e7",
+      "title": "天敵",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "38145f76-bcf7-4c7b-9ef0-0a25a93ab992",
+      "title": "好調好調～みくるのこころ～小さくても素敵な幸せ～おいおい～コミカルハッスル",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901025",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/3lpbYctbiddrsK9NZby0H0",
+      "isFallback": true
+    },
+    {
+      "id": "f00d7540-1c70-4819-9c94-c1a5aad490c9",
+      "title": "帰り道",
+      "artist": "神前暁",
+      "isrc": "JPE301003475",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8de29a3-0c7b-439e-b616-87e1d5df084e",
+      "title": "四月六日",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "08d01d26-ff54-43cf-818c-cc0f3071e5c0",
+      "title": "名残",
+      "artist": "神前暁",
+      "isrc": "JPE301300092",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/3Y7q1D10ndzNCl7t7Agwx1",
+      "isFallback": true
+    },
+    {
+      "id": "70ac4e83-0d68-4f0e-bb4c-bf2b35558eed",
+      "title": "奴隷根性",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba405306-5f22-406f-965a-fcc6ffe0a2eb",
+      "title": "八方美人",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87709e22-036e-43bf-bc25-02dce01a2f46",
+      "title": "平和だな、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100800038",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/5DCQi8YtpJOkHG3lM3hU0E",
+      "isFallback": true
+    },
+    {
+      "id": "88e17350-ebe9-4184-8a8c-3738db1759ec",
+      "title": "勇気",
+      "artist": "神前暁",
+      "isrc": "JPE301201213",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/6ucu7nsK4c5h8p4sQwUQdA",
+      "isFallback": true
+    },
+    {
+      "id": "7103c46d-eca4-4aa0-bc07-c9318484140c",
+      "title": "命の恩人",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9e6b923a-e0bc-4d7d-b458-cd4b972eebe1",
+      "title": "別れの余韻",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "478a93ca-834a-4384-a135-b5d5a0eb28e9",
+      "title": "帰り道",
+      "artist": "八九寺真宵",
+      "isrc": "JPE300901941",
+      "releaseDate": "2009-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/0xvgkFHZV5odJFYOrRpAUO",
+      "isFallback": true
+    },
+    {
+      "id": "0a42e630-f6fd-48f1-8a0b-d5b4e9504b4c",
+      "title": "嘘",
+      "artist": "神前暁",
+      "isrc": "JPE301201666",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/3yIwnNIPEBKmvq8E1b5Tty",
+      "isFallback": true
+    },
+    {
+      "id": "778111a6-62f2-4790-9e58-ebaf0ab50fea",
+      "title": "動揺",
+      "artist": "神前暁",
+      "isrc": "JPE301201488",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/5dOjoBE8eY2XJ9Nz6SdYJ9",
+      "isFallback": true
+    },
+    {
+      "id": "575f5c1b-3971-4f63-b59f-e82cab8d1e71",
+      "title": "幸せ願う彼方から",
+      "artist": "泉かなた",
+      "isrc": "JPI100702397",
+      "releaseDate": "2007-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/31CFyNSCFgqjDMa5ifQsya",
+      "isFallback": true
+    },
+    {
+      "id": "f5c3c91f-9663-4680-bc33-1aa414df6b3f",
+      "title": "千石撫子、十五歳",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2d8d2da0-4f45-4174-af05-04a3f06a7330",
+      "title": "怠け者の節句働き",
+      "artist": "神前暁",
+      "isrc": "JPE301400437",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5CD0Pbtqc6vmjBPSd3YITR",
+      "isFallback": true
+    },
+    {
+      "id": "80e0f4bb-ee99-4a09-b885-cd25a82f68a0",
+      "title": "木漏れ日のコンタクト",
+      "artist": "アゲマキ・ワコ",
+      "isrc": "JPE301102581",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d7dc805b-437e-45a4-83a7-ef29a34127bc",
+      "title": "有頂天がとまらない",
+      "artist": "有頂天",
+      "isrc": "JPI100801971",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/44WoslpdwCf4tY4NMJz24B",
+      "isFallback": true
+    },
+    {
+      "id": "00b95a3e-8430-4e2a-a2d5-477567f8993b",
+      "title": "従僕",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9dd160e5-4be2-4581-8577-4c09e007baa4",
+      "title": "普通最高",
+      "artist": "神前暁",
+      "isrc": "JPE301103710",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3SjSY4NHiqiFINOQZawaGi",
+      "isFallback": true
+    },
+    {
+      "id": "8774e7f2-7730-49e9-9762-906f2b265b23",
+      "title": "死体感",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61c94f48-d157-4196-8f74-209d0f67b975",
+      "title": "愉快だね、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100700990",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0dj8RevNQWVcJqR1HSR1na",
+      "isFallback": true
+    },
+    {
+      "id": "5750365b-70bb-4a95-8d70-570d3d00acb0",
+      "title": "次回、つばさタイガー",
+      "artist": "神前暁",
+      "isrc": "JPE301302819",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3xe6hHnQ8BifFzkS0wrQsA",
+      "isFallback": true
+    },
+    {
+      "id": "36c41040-e98d-480d-bb75-9d15fa624aa4",
+      "title": "星の彼方へ",
+      "artist": "シャルロット",
+      "isrc": "JPI102400935",
+      "releaseDate": "2024-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/0vXMzmIGexUBMw34J1FO1n",
+      "isFallback": true
+    },
+    {
+      "id": "ca266cb9-5080-4d73-9452-767da357c721",
+      "title": "次回、ひたぎエンド",
+      "artist": "神前暁",
+      "isrc": "JPE301400448",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/2d7MoYxszL3NJ9X12F9SmA",
+      "isFallback": true
+    },
+    {
+      "id": "525b7e81-b5bc-4387-a275-c4bf11c72e18",
+      "title": "月火ちゃん",
+      "artist": "神前暁",
+      "isrc": "JPE301300086",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0yxDd6sjJrLbrYQXlfMdyz",
+      "isFallback": true
+    },
+    {
+      "id": "26be076d-b492-4f04-9794-379572a2c200",
+      "title": "恋のチルノ伝説",
+      "artist": "愛空アキハ",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2f9b12a1-c597-480f-af3c-c878aa786acf",
+      "title": "条件",
+      "artist": "神前暁",
+      "isrc": "JPE301201667",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/46cFDb5vgdReeDzArHNLdT",
+      "isFallback": true
+    },
+    {
+      "id": "bfcaca7f-0bd9-4b1c-916f-53b4b92dc1b4",
+      "title": "愛人関係",
+      "artist": "神前暁",
+      "isrc": "JPE301201485",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/5qoxrIN4PktM8LiRJGhvRn",
+      "isFallback": true
+    },
+    {
+      "id": "fc5bba05-89da-4212-9542-474c2ff2778e",
+      "title": "恋かもしれない何かの話",
+      "artist": "神前暁",
+      "isrc": "JPE301300082",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0u4p1TfLu2S7UH72kV7zul",
+      "isFallback": true
+    },
+    {
+      "id": "a4e325be-3141-40e1-9b0b-85025d97b8b6",
+      "title": "東の狐",
+      "artist": "神前暁",
+      "isrc": "JPV432500178",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/3eAbAVq3QM4ojvFIZv7AsP",
+      "isFallback": false
+    },
+    {
+      "id": "0eb794fb-84c7-4723-84e6-cb37817b3859",
+      "title": "楽しく元気の良い曲を暁先生が作りました",
+      "artist": "神前暁",
+      "isrc": "JPI100701557",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1LBbo9MH66IwdbwmsKGQFj",
+      "isFallback": true
+    },
+    {
+      "id": "32860fef-6bd7-4e72-af8a-ddbf58eb47e5",
+      "title": "検証",
+      "artist": "神前暁",
+      "isrc": "JPV432300486",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6YgWQbRBnjBqkTFEa3fHwv",
+      "isFallback": true
+    },
+    {
+      "id": "e2b830e0-37db-4e9b-8df9-089bb3944a7a",
+      "title": "懇願",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8f34bd86-15f5-4daf-98e0-a6d420011e3d",
+      "title": "怪異退治",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4f8a19f1-0727-4789-9e06-0bc901d04d9d",
+      "title": "星空",
+      "artist": "神前暁",
+      "isrc": "JPE301103703",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3OvS8hOgGfhebTN2x2QMPl",
+      "isFallback": true
+    },
+    {
+      "id": "ad57126b-8fd2-4ed1-b36e-0cafc13df338",
+      "title": "戦場ヶ原ひたぎの場合",
+      "artist": "神前暁",
+      "isrc": "JPE301103689",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6cqrnpzwPQqE5yhi6DxUyK",
+      "isFallback": true
+    },
+    {
+      "id": "9396102e-af1c-4ba4-b6c4-d7f8fd6a4d7e",
+      "title": "怪異の王",
+      "artist": "神前暁",
+      "isrc": "JPE301201490",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/1NXk8OiB2iHbdwA5jCCfSV",
+      "isFallback": true
+    },
+    {
+      "id": "d7cb6cc6-f917-4f0d-bce7-d25154997406",
+      "title": "昔語り",
+      "artist": "神前暁",
+      "isrc": "JPE301400379",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4iX0T4k6uzpeeO3kwABUvn",
+      "isFallback": true
+    },
+    {
+      "id": "626b094e-4d39-4edf-a80f-38e04d781397",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "isrc": "JPE300902581",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/7l3eyDvvjQxLI5ChGGnkgB",
+      "isFallback": true
+    },
+    {
+      "id": "c1f01bf2-6330-4eca-aee2-b67e06a57384",
+      "title": "怪訝",
+      "artist": "神前暁",
+      "isrc": "JPE301302812",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2R0w74VZmLtvA3Pm066xps",
+      "isFallback": true
+    },
+    {
+      "id": "54d28b4e-43bb-481f-9215-3209efb80502",
+      "title": "悲痛",
+      "artist": "神前暁",
+      "isrc": "JPE301201487",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/05nw2eCkBPVNESrHrGTu20",
+      "isFallback": true
+    },
+    {
+      "id": "d278f63b-62c2-4f15-b063-ff3a70737256",
+      "title": "戯言",
+      "artist": "神前暁",
+      "isrc": "JPE301000048",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3j40QIgTPagaug2IZTgOrS",
+      "isFallback": true
+    },
+    {
+      "id": "b845a487-5c48-4aaf-8181-990024226a48",
+      "title": "悪くない春休み",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "94aabfe7-90de-4f50-84d2-2f5d50376a59",
+      "title": "愛だぜ、店長！",
+      "artist": "兄沢命斗",
+      "isrc": "JPI100801977",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/51lOxjzzHEw4GkRvzsuC6X",
+      "isFallback": true
+    },
+    {
+      "id": "4c5c6151-29fe-4dbe-98e6-64498a0c25ce",
+      "title": "未来志向",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4048c424-7b3d-4fdd-ab93-2239aafaa9db",
+      "title": "曖昧ネットだーりん",
+      "artist": "小神あきら",
+      "isrc": "JPI100701104",
+      "releaseDate": "2007-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/0MT64GHGnQr702WYoeq1kc",
+      "isFallback": true
+    },
+    {
+      "id": "188d5ae6-a759-4538-af25-36bca3e14604",
+      "title": "憧れ",
+      "artist": "高田龍一",
+      "isrc": "JPCO01331650",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c38ff358-cf75-46ef-9146-42c9d3f25f9f",
+      "title": "把握",
+      "artist": "神前暁",
+      "isrc": "JPE301400443",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5VyhYpKoSXC6SdukVS7Spy",
+      "isFallback": true
+    },
+    {
+      "id": "3048ed3f-b1cb-4617-bde8-be319bacc430",
+      "title": "木枯らしセンティメント (TV size)",
+      "artist": "戦場ヶ原ひたぎ",
+      "isrc": "",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d594a06-53be-4967-b2ae-768856b46628",
+      "title": "悲劇のヒロイン～非日常への誘い～ビーチバカンス",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901024",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/0JZrlB6yLp9N3q8Gxhqg7p",
+      "isFallback": true
+    },
+    {
+      "id": "e42a154b-f4a6-417c-9321-7ae8183cdfd3",
+      "title": "廃墟の町",
+      "artist": "神前暁",
+      "isrc": "JPE301303011",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/6W5iOCvrVkjytlvIeDxpqi",
+      "isFallback": true
+    },
+    {
+      "id": "282fc9f3-0541-49f3-8534-d07e5dbd232e",
+      "title": "次回、つきひフェニックス",
+      "artist": "神前暁",
+      "isrc": "JPE301202034",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/4uDPBiO1v127lDRpv6ZbfF",
+      "isFallback": true
+    },
+    {
+      "id": "534f3e9c-abbd-41b1-a3fe-d9426758e893",
+      "title": "敗因",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77f5f15e-d688-432d-acc5-abaca7a04ee0",
+      "title": "悪い冗談",
+      "artist": "神前暁",
+      "isrc": "JPE301400441",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/15377wpyDOGT5ol2xEDvlk",
+      "isFallback": true
+    },
+    {
+      "id": "5b959431-2c09-44a5-9fd3-6b0568825f86",
+      "title": "暁拳5",
+      "artist": "神前暁",
+      "isrc": "JPI100800793",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3zq8VVJ6cTK4ubbx5lOsPi",
+      "isFallback": true
+    },
+    {
+      "id": "22d0fe59-45fb-4b71-ba19-7c228c550a38",
+      "title": "次回予告だよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100700988",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/4kTPAb576sCymkk4uOJayT",
+      "isFallback": true
+    },
+    {
+      "id": "726dc58c-9f35-46e1-8147-84a5732fe97e",
+      "title": "成長期",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f952c60-f5e7-49fd-9dbf-06b903d83bf6",
+      "title": "明日からの前途",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61b0ef7a-f3dd-4731-841c-36b1017e09ee",
+      "title": "恋愛自由少女♀",
+      "artist": "PNGN6",
+      "isrc": "JPA650800278",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c320a54-507b-4d9a-b5cb-33f8b013f890",
+      "title": "序章",
+      "artist": "神前暁",
+      "isrc": "JPE301000043",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/0QejE1hdcODVd36r4JgzoB",
+      "isFallback": true
+    },
+    {
+      "id": "c36b7db8-2b59-47ce-8e42-e38bf98577b5",
+      "title": "本当に怖い家庭の医学",
+      "artist": "神前暁",
+      "isrc": "JPI100702795",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/6DQN10m8AEswHWFD2e0y0R",
+      "isFallback": true
+    },
+    {
+      "id": "394b7d18-6c5f-488e-b396-cc39399ded2f",
+      "title": "死に場所",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "758f26cf-58ca-4d8a-8ea6-a6dbc59ec700",
+      "title": "普通の飲み物には興味ありません!以上!",
+      "artist": "神前暁",
+      "isrc": "JPI100800314",
+      "releaseDate": "2008-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/2RUdKQjaTFNZnnGcrwKXVX",
+      "isFallback": true
+    },
+    {
+      "id": "2c504ff1-ad58-43d4-8029-152896404764",
+      "title": "月に浮かぶ物語",
+      "artist": "YURiKA",
+      "isrc": "JPV431900360",
+      "releaseDate": "2019-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/1n1RtW2V8PKoOhO2p1cTth",
+      "isFallback": true
+    },
+    {
+      "id": "aa3ce6cd-2580-4acb-a20b-6551ea0def87",
+      "title": "日曜日",
+      "artist": "神前暁",
+      "isrc": "JPE301103682",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7zUSAJDOASbenOePWslrRG",
+      "isFallback": true
+    },
+    {
+      "id": "8a746cfe-3110-42b2-80ba-7427215ffe04",
+      "title": "敵か味方か",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1cc16ad1-a8a0-4307-805a-f42235c9ceb8",
+      "title": "枯れた薔薇",
+      "artist": "神前暁",
+      "isrc": "JPV432300495",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1bw1sBp2Ae06Mi4D1HDJI5",
+      "isFallback": true
+    },
+    {
+      "id": "7251e787-e44f-4aee-a570-0a2af35e208a",
+      "title": "恋のミノル伝説 -完全版-",
+      "artist": "白石みのる",
+      "isrc": "JPI100701915",
+      "releaseDate": "2007-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/3kZDHAtGsbFL8ibDDvTqQk",
+      "isFallback": true
+    },
+    {
+      "id": "ee4d5dfa-4c41-433b-aa3d-deb8a32ea27e",
+      "title": "次回、かれんビー (阿良々木火憐ver.)",
+      "artist": "神前暁",
+      "isrc": "JPE301201493",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/04PlrZpgYVZj6yHcU4XfIX",
+      "isFallback": true
+    },
+    {
+      "id": "c868a48f-a4b6-4eff-a55e-20c7ef96b915",
+      "title": "悪い者いじめ",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80e38f06-f531-458c-aab7-ad628688930d",
+      "title": "暗雲",
+      "artist": "神前暁",
+      "isrc": "JPE301003459",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5c96727-ce93-47da-953a-d175cd954f2e",
+      "title": "手紙",
+      "artist": "神前暁",
+      "isrc": "JPE301303014",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/5aDiZ95HNJ9SSC6jkKvtEi",
+      "isFallback": true
+    },
+    {
+      "id": "a4328832-7eeb-42c1-8010-a18966839346",
+      "title": "式神と自分",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd994b2c-b14c-4999-aed8-abf3a00c5435",
+      "title": "格好いい台詞",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2ccb7b2-99bd-4a96-80f4-b21c9c7be37c",
+      "title": "式神",
+      "artist": "神前暁",
+      "isrc": "JPE301201673",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/03POwedCm6CF2mnpY7RQWW",
+      "isFallback": true
+    },
+    {
+      "id": "e725c89a-a23e-4a53-9743-c6d8b41d3c34",
+      "title": "怪談の恐怖",
+      "artist": "神前暁",
+      "isrc": "JPI100701225",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/5a1pnK0CrLAeFTiNqkeO8F",
+      "isFallback": true
+    },
+    {
+      "id": "71b22085-e425-45a3-b927-2f48264c52b2",
+      "title": "手紙",
+      "artist": "神前暁",
+      "isrc": "JPE301302813",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1UfYtZehNoexWc50j7VnFI",
+      "isFallback": true
+    },
+    {
+      "id": "6e3a21f6-cb79-4cc8-816a-4fbc1c71083c",
+      "title": "憔悴",
+      "artist": "神前暁",
+      "isrc": "JPE301300097",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0fY3y07XrjPgKdSNEGkTjY",
+      "isFallback": true
+    },
+    {
+      "id": "80a79438-e5e5-423e-a16c-d18ca87ff8e2",
+      "title": "悠長戦隊ダラレンジャー",
+      "artist": "こなたとパティ",
+      "isrc": "JPI100701325",
+      "releaseDate": "2007-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/5TsWb15fxzVBQcIwOby3i4",
+      "isFallback": true
+    },
+    {
+      "id": "f8c2e605-cc2c-4e03-be1e-9baf803d46ec",
+      "title": "後宮",
+      "artist": "神前暁",
+      "isrc": "JPV432300473",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/28Tinhg7aQNGt53C4m1aqy",
+      "isFallback": true
+    },
+    {
+      "id": "2905aaa4-a782-472c-8188-bf6f9e3f074a",
+      "title": "文化祭は準備が一番楽しい",
+      "artist": "神前暁",
+      "isrc": "JPI100800785",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/6wcSsaHpaSgWX21X0ZLtRz",
+      "isFallback": true
+    },
+    {
+      "id": "aec567b8-ebcf-4464-8e3d-a81b5a27b4ae",
+      "title": "放浪者",
+      "artist": "神前暁",
+      "isrc": "JPE301001703",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/1quRyfWLwswYgCs6TgyyP6",
+      "isFallback": true
+    },
+    {
+      "id": "c932d12b-9947-4168-b36f-d6e6709cbf0d",
+      "title": "掲載、それは感動",
+      "artist": "神前暁",
+      "isrc": "JPI100702268",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/1f7DljWcPH3ejamqng0q93",
+      "isFallback": true
+    },
+    {
+      "id": "3b91ad46-8995-4cbe-91e9-23ab70098b20",
+      "title": "朴念仁",
+      "artist": "神前暁",
+      "isrc": "JPE301300093",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/795JYQRohN1lfPlIdTpqqm",
+      "isFallback": true
+    },
+    {
+      "id": "90472a07-ccac-47a8-a8d4-ef9359fa5b26",
+      "title": "次回、まよいキョンシー",
+      "artist": "神前暁",
+      "isrc": "JPE301303020",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/0tMF7ZkLwYdfwrU7pNcrDj",
+      "isFallback": true
+    },
+    {
+      "id": "699aea0e-ee43-48cf-ba45-c00fdde2c737",
+      "title": "次回、つばさファミリー",
+      "artist": "神前暁",
+      "isrc": "JPE301300104",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/571iOpDM6NSL9X5aQAoWIS",
+      "isFallback": true
+    },
+    {
+      "id": "fe4c390b-5c5f-4795-b951-4a1e9fcb995c",
+      "title": "断言",
+      "artist": "神前暁",
+      "isrc": "JPE301400386",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/0sy6vqGuI19RKlc61Cgfpm",
+      "isFallback": true
+    },
+    {
+      "id": "d1d1c7ff-6bb7-43f6-aa45-009092ae3186",
+      "title": "後日談",
+      "artist": "神前暁",
+      "isrc": "JPE301300102",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/42SNM0jri2jF0ZAAardS8L",
+      "isFallback": true
+    },
+    {
+      "id": "4a22f9af-8631-42c9-8d9b-7449263e98f0",
+      "title": "新しい風",
+      "artist": "神前暁",
+      "isrc": "JPI100800315",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/7DdNWqU9FV4XjKbn47ZnIL",
+      "isFallback": true
+    },
+    {
+      "id": "98062e9b-d032-4be7-9e93-91fcbc9ca126",
+      "title": "恫喝",
+      "artist": "神前暁",
+      "isrc": "JPV432300481",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/59MKG9dFZoHc3fdmnyfezj",
+      "isFallback": true
+    },
+    {
+      "id": "2eff050b-5204-4ae4-803d-3ce14ac4755e",
+      "title": "柊四姉妹",
+      "artist": "神前暁",
+      "isrc": "JPI100800040",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/1SbsLApWGljs7sTTUCNVqR",
+      "isFallback": true
+    },
+    {
+      "id": "9746c998-2ee4-4c32-9385-58561fb4fa4a",
+      "title": "次回、かれんビー (戦場ヶ原ひたぎver.)",
+      "artist": "神前暁",
+      "isrc": "JPE301201215",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/0tqLCjsijLvBStgtBTmJE6",
+      "isFallback": true
+    },
+    {
+      "id": "46d9e3e2-ab37-4225-8838-1dec437316ec",
+      "title": "快楽",
+      "artist": "神前暁",
+      "isrc": "JPE301201668",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/7JrfiqEmze2LK0AyL3NZ9r",
+      "isFallback": true
+    },
+    {
+      "id": "456cdaa7-d566-4472-bebb-196f1c078078",
+      "title": "恋人同士",
+      "artist": "神前暁",
+      "isrc": "JPE301201204",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/7oykmHbXYtSSGkQG9lNdn6",
+      "isFallback": true
+    },
+    {
+      "id": "be16bd03-3597-470a-acfd-27da198348ef",
+      "title": "思案中",
+      "artist": "神前暁",
+      "isrc": "JPE301001705",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/6qFhTQ7kSJX4asTRCF3omP",
+      "isFallback": true
+    },
+    {
+      "id": "4ae10276-2a2a-46e6-a27c-56f1a18c9d38",
+      "title": "散歩",
+      "artist": "神前暁",
+      "isrc": "JPE301001701",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/1HPj9Z2CMtrWrVQJNkkBuW",
+      "isFallback": true
+    },
+    {
+      "id": "87db44f1-8328-4527-9810-094c248d51a4",
+      "title": "憂さ晴らし",
+      "artist": "神前暁",
+      "isrc": "JPE301300098",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/20Y2ryGRxLP7x1lDQZKKSO",
+      "isFallback": true
+    },
+    {
+      "id": "93437fcd-9f17-409b-bfbb-c9d459fd0d3f",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる",
+      "isrc": "JPI100601014",
+      "releaseDate": "2006-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/1SQ0z3rAndqnUjImZxFaB4",
+      "isFallback": true
+    },
+    {
+      "id": "773bb6b5-9337-4855-bfd7-7dfbb530f51e",
+      "title": "明日を訪ねて",
+      "artist": "XAI",
+      "isrc": "JPV432300307",
+      "releaseDate": "2023-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/6YCUh8Q8ZF6cjiYbKnJtST",
+      "isFallback": true
+    },
+    {
+      "id": "3162c22e-d13c-4e3e-a31c-30ce4270b541",
+      "title": "次回、冷血篇",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e266a2f9-0c16-42e7-9dfe-a8b849f19f45",
+      "title": "必勝法",
+      "artist": "神前暁",
+      "isrc": "JPE301201669",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/2Mqmry0Nz82sgapxM5jY63",
+      "isFallback": true
+    },
+    {
+      "id": "6bbfecbc-3d01-433c-819d-c323051d43bd",
+      "title": "戦場の有明",
+      "artist": "神前暁",
+      "isrc": "JPI100702269",
+      "releaseDate": "2007-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/4j7PCTcZJZXiN5NhzJcOq9",
+      "isFallback": true
+    },
+    {
+      "id": "2d9761fd-d1cf-4cbc-a914-6b3d45b97e3c",
+      "title": "服従の証",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d070cf9-8d23-48b2-8bb1-799c525d88c9",
+      "title": "戦争",
+      "artist": "神前暁",
+      "isrc": "JPE301000046",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/1IvVhKDMLzdhFt9aVbDfU4",
+      "isFallback": true
+    },
+    {
+      "id": "10d24938-d487-4ebd-bd3a-0f827f80f4ca",
+      "title": "廃墟",
+      "artist": "神前暁",
+      "isrc": "JPE301000049",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/28xCJM7KrBHvWHpGFwJ3yW",
+      "isFallback": true
+    },
+    {
+      "id": "fb009996-237c-44c5-b8a4-eea039c47383",
+      "title": "次回、なでこメドゥーサ",
+      "artist": "神前暁",
+      "isrc": "JPE301400169",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/4bMX1tqaAyHWI8JlviZBe5",
+      "isFallback": true
+    },
+    {
+      "id": "4d3532e2-af5e-4853-96a6-fe16bf386504",
+      "title": "恋",
+      "artist": "神前暁",
+      "isrc": "JPE301300103",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/27YVJO4HGYB1fAIyqhj6KP",
+      "isFallback": true
+    },
+    {
+      "id": "17865671-6b8d-40a0-ab1e-0e95f2acbd50",
+      "title": "想い咲く時",
+      "artist": "アオイエマ。",
+      "isrc": "JPV432300468",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/612TOuGBMHSUhmFzqtasqM",
+      "isFallback": true
+    },
+    {
+      "id": "5ff3f27b-aa19-48db-8bf1-6aed24b48dff",
+      "title": "歯医者をねらえ!、暁ふんばった",
+      "artist": "神前暁",
+      "isrc": "JPI100700992",
+      "releaseDate": "2007-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/70wiiH7lMLmOYOebivp0uo",
+      "isFallback": true
+    },
+    {
+      "id": "5600dabc-653f-4e44-ba80-882fa15876a8",
+      "title": "沈痛",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c1ab1720-b43b-4709-a735-503ded3a7254",
+      "title": "決戦の地",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2d91965-8ab2-4182-bf20-70dda0a10762",
+      "title": "相槌",
+      "artist": "神前暁",
+      "isrc": "JPE301201211",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/22np4sNmgzYm0UE0PUorJe",
+      "isFallback": true
+    },
+    {
+      "id": "3d6a8e87-c0b9-4adc-88d3-5248d4b204da",
+      "title": "翌朝",
+      "artist": "神前暁",
+      "isrc": "JPE301103707",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6wNgfBnem0VLXRnyleTmRQ",
+      "isFallback": true
+    },
+    {
+      "id": "bcafec9a-0e94-41c5-83f2-1f158a1ec760",
+      "title": "素直な気持ち～ある雨の日～ハルヒの想い",
+      "artist": "東京フィルハーモニー交響楽団",
+      "isrc": "JPI100901028",
+      "releaseDate": "2009-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/6OYq7hMay3l38z4DJW8i5c",
+      "isFallback": true
+    },
+    {
+      "id": "3c5e3752-b61f-42b4-b31a-e51eccabf51e",
+      "title": "私の物語",
+      "artist": "神前暁",
+      "isrc": "JPE301302803",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2Dp4h5jCP1P0XN0nOmR3Ot",
+      "isFallback": true
+    },
+    {
+      "id": "464c7055-aea7-4e80-bc4e-512393ddabfd",
+      "title": "秋色のアリア",
+      "artist": "ニチ・ケイト",
+      "isrc": "JPE301101721",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a7520a3e-3886-47be-8b9f-b4ad899faee0",
+      "title": "白金ディスコ",
+      "artist": "阿良々木月火",
+      "isrc": "JPE301201661",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/24OQcVtprM1PLCeNQ1eOlF",
+      "isFallback": true
+    },
+    {
+      "id": "82d1198e-5451-4173-87f0-abb7157f08da",
+      "title": "自業自得",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76b8d9dc-02c7-4cab-8538-7d3f6948e5f5",
+      "title": "滑稽譚",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "723a04ea-fab7-42a2-b4c6-404992fc0a6a",
+      "title": "物語",
+      "artist": "神前暁",
+      "isrc": "JPE301201205",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/1uJTCwEBFYwXCa6XEHbGmv",
+      "isFallback": true
+    },
+    {
+      "id": "f9878f54-8c58-4b93-92b1-8c397bb78c88",
+      "title": "渦",
+      "artist": "神前暁",
+      "isrc": "JPE301103687",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/181cm231ty49i6Wz0kgOhb",
+      "isFallback": true
+    },
+    {
+      "id": "f95fca5b-d888-49ac-ab63-cdb08baea26c",
+      "title": "白紙撤回",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0301467-42dd-4120-ace8-3a8426a7832f",
+      "title": "火達磨",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d423d35a-0c46-4b2b-ba93-5f875e2823ca",
+      "title": "熱血篇 特報 BGM",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d9d5a35-836d-40c1-81f5-5f368125854d",
+      "title": "緊迫",
+      "artist": "神前暁",
+      "isrc": "JPE301003471",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2e1745db-f300-429a-bbf5-c1d818d5bf4c",
+      "title": "理不尽",
+      "artist": "神前暁",
+      "isrc": "JPE301400377",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/7wsirXPQOOfY4PWejsuet9",
+      "isFallback": true
+    },
+    {
+      "id": "ddec03f7-5173-4a9b-b679-170ec15c6637",
+      "title": "純情接近STORY",
+      "artist": "島村卯月",
+      "isrc": "JPCO02203220",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/5BuR9eNJheBPZjN3WOi2iA",
+      "isFallback": true
+    },
+    {
+      "id": "abb8a9df-446f-4a5e-ab4a-c6e9c58d0234",
+      "title": "私はただの女官",
+      "artist": "神前暁",
+      "isrc": "JPV432300492",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0iKC4aP0IDyykc992q7ZxE",
+      "isFallback": true
+    },
+    {
+      "id": "6a1b8acb-8391-4444-a8aa-d544c1f88552",
+      "title": "決意",
+      "artist": "神前暁",
+      "isrc": "JPE301003470",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "af15acb2-9954-4a16-bae8-39743c761a81",
+      "title": "続きは新学期",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3fd931cc-7960-496d-828b-395b34212120",
+      "title": "環境変化の是非",
+      "artist": "浜口史郎",
+      "isrc": "JPI100903451",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/4C0tcXw4Y6sUqhV3hLo9Ro",
+      "isFallback": true
+    },
+    {
+      "id": "9f06289a-be98-4a26-96f8-757c39a3a1fd",
+      "title": "興奮トラック",
+      "artist": "神前暁",
+      "isrc": "JPI100800043",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/3rAf0Qw2nVgAGerpG5A7U4",
+      "isFallback": true
+    },
+    {
+      "id": "25e4d50e-72e5-4305-ac3b-2a24ae288e7c",
+      "title": "簪",
+      "artist": "神前暁",
+      "isrc": "JPV432500173",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/4w6X4MrQeiAwS0IvqaUbFi",
+      "isFallback": false
+    },
+    {
+      "id": "951dcd59-f4be-49b1-b9b9-9ce05d073961",
+      "title": "等活地獄 〜Soundtrack Version〜",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e672f015-2b46-4e63-b57f-57503ab8f161",
+      "title": "気まぐれ",
+      "artist": "神前暁",
+      "isrc": "JPE301400373",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/486QHEzS72gLcdzRIOoCZk",
+      "isFallback": true
+    },
+    {
+      "id": "295b2429-1ade-408c-afba-7844635224e2",
+      "title": "真実からは 程遠い存在",
+      "artist": "神前暁",
+      "isrc": "JPE301302804",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3biOzah7LvlIpPCYUG2uOn",
+      "isFallback": true
+    },
+    {
+      "id": "c1e67528-b380-4b7d-9486-36729e12e318",
+      "title": "素敵滅法",
+      "artist": "神前暁",
+      "isrc": "JPE301001702",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/3xeMLDV353WqSpxN5g1d7t",
+      "isFallback": true
+    },
+    {
+      "id": "6b071f84-83b1-4cf0-b7f3-681759ffb3cf",
+      "title": "自分の言葉",
+      "artist": "神前暁",
+      "isrc": "JPE301400389",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/64iPnGsMqWEgOfcE8jLILK",
+      "isFallback": true
+    },
+    {
+      "id": "0c26aaee-8840-448f-97ad-7a4e9f5c33b3",
+      "title": "消えるdaydream",
+      "artist": "河野マリナ",
+      "isrc": "JPE301300801",
+      "releaseDate": "2013-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/6WUtQ7SUKPUoXp5n7p4ehu",
+      "isFallback": true
+    },
+    {
+      "id": "bfe1eb5c-7b25-472d-a9de-2ad349afe4cd",
+      "title": "羽川翼は－否定する。",
+      "artist": "神前暁",
+      "isrc": "JPE301302816",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/0h18JE6y3fCxpraUs9PZ0H",
+      "isFallback": true
+    },
+    {
+      "id": "e655e194-ce97-4186-9c6b-10993d969f08",
+      "title": "滑り込みセーフ!?",
+      "artist": "神前暁",
+      "isrc": "JPE301003455",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3de2007e-920c-4a1f-a94b-50cfc87a6cc4",
+      "title": "破壊",
+      "artist": "神前暁",
+      "isrc": "JPE301202031",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/51hXWaoiavmBElVK6KgIjG",
+      "isFallback": true
+    },
+    {
+      "id": "081b00f5-015a-4ea3-aaff-c5bd8ab7b15d",
+      "title": "海ですなぁ、海ですねぇ",
+      "artist": "神前暁",
+      "isrc": "JPI100701223",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/4B6l7WsvUtoF6N7NGk7WPO",
+      "isFallback": true
+    },
+    {
+      "id": "60a35b06-f2b6-4f40-b345-3f53298ee730",
+      "title": "産巣日の時",
+      "artist": "戸松遥",
+      "isrc": "JPX400800261",
+      "releaseDate": "2008-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/3G5ObRai8XTbV4IQ0gONHi",
+      "isFallback": true
+    },
+    {
+      "id": "fcf9abf4-02f9-4fe3-906a-ad3ce9a69009",
+      "title": "罰ゲーム",
+      "artist": "神前暁",
+      "isrc": "JPE301201670",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/0bdfzPETDjrb2UYSbACgqq",
+      "isFallback": true
+    },
+    {
+      "id": "ca32e29d-7682-4c4c-a143-6d3b02da4038",
+      "title": "燃焼",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8c32266-a4c6-4dad-a848-f99c70a57387",
+      "title": "私のせい",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ca9620b-e4ce-42c8-8402-1b77776d61d3",
+      "title": "眷属",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ef88d19-bfc6-443d-9c1c-b588f6125440",
+      "title": "神原駿河の場合〜全裸",
+      "artist": "神前暁",
+      "isrc": "JPE301103693",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3qYqRWN8ePysI5IzxQoRZ3",
+      "isFallback": true
+    },
+    {
+      "id": "9d08820f-f4e1-4b6b-9313-8cec2050da8c",
+      "title": "神扱い",
+      "artist": "神前暁",
+      "isrc": "JPE301400380",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/28dBN40WMEyZJVjULguz8Q",
+      "isFallback": true
+    },
+    {
+      "id": "91d2660b-f437-4883-aa92-8cfcc1450db7",
+      "title": "私がいる場所",
+      "artist": "高橋邦幸",
+      "isrc": "JPB601404979",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "abbc83e9-d4d6-4efc-be24-928c7555540c",
+      "title": "民倉荘",
+      "artist": "神前暁",
+      "isrc": "JPE301302808",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/11sDZqVs3wLyvrFow1ZenD",
+      "isFallback": true
+    },
+    {
+      "id": "e3153128-0f87-4d8d-8482-0fb4f55b9814",
+      "title": "毒",
+      "artist": "神前暁",
+      "isrc": "JPE301201203",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/6jHMESN2ZwM5tVsLRAkWNR",
+      "isFallback": true
+    },
+    {
+      "id": "4722a0ac-6285-4a98-85fe-2652b5936439",
+      "title": "義を見てせざるは勇なきなり",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c5a8b31d-b612-40e0-a2c3-0207a86326a7",
+      "title": "猫猫の日常",
+      "artist": "神前暁",
+      "isrc": "JPV432300478",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0DrKC2QQvK8x7EjSZWCKLQ",
+      "isFallback": true
+    },
+    {
+      "id": "e2f64c45-f946-44cf-9bf6-6af85c0bc1bd",
+      "title": "毒舌",
+      "artist": "神前暁",
+      "isrc": "JPE301001704",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/31hxpRksNoJMGokGy7ehOj",
+      "isFallback": true
+    },
+    {
+      "id": "82572d6a-9a1f-4109-9c5f-77dd1e178991",
+      "title": "竜頭蛇尾",
+      "artist": "神前暁",
+      "isrc": "JPE301400166",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6JCBxvLDREzmAcTNbTjtSW",
+      "isFallback": true
+    },
+    {
+      "id": "8d974566-ff3d-4466-90ae-8cf79f73bf5e",
+      "title": "理解できない感情",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "edddc118-ec54-4749-85e2-af6f011d6bfe",
+      "title": "浄化",
+      "artist": "神前暁",
+      "isrc": "JPE301103668",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4utpv8cXhu6uZBwSCwJp6m",
+      "isFallback": true
+    },
+    {
+      "id": "24a618c0-1b62-473b-be6e-ba6854e2f9f6",
+      "title": "無理な相談",
+      "artist": "神前暁",
+      "isrc": "JPE301400161",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/0M1IddqhGqieAkdBLa5L8Z",
+      "isFallback": true
+    },
+    {
+      "id": "40540c1c-96a1-43ec-bc23-a2e46af8d151",
+      "title": "満身創痍",
+      "artist": "神前暁",
+      "isrc": "JPE301400444",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/287stCSPhPmJyLPqMJBZBJ",
+      "isFallback": true
+    },
+    {
+      "id": "c9de6e03-c353-4d2a-af7a-1b27a9676881",
+      "title": "育お姉ちゃん",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "88f6b3e8-4b1a-4f70-822f-5019de53bf2f",
+      "title": "氷菓",
+      "artist": "神前暁",
+      "isrc": "JPV432500174",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/2fbOX9VT5UFZVxfqtjVB3E",
+      "isFallback": false
+    },
+    {
+      "id": "b6f92f59-9275-4f8e-8c52-469f2690a67a",
+      "title": "腹芸",
+      "artist": "神前暁",
+      "isrc": "JPE301400438",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/2hFsglsajabC5URUfQwfn7",
+      "isFallback": true
+    },
+    {
+      "id": "182217b4-979d-4665-bb84-3f2398783ff9",
+      "title": "色ボケ猫",
+      "artist": "神前暁",
+      "isrc": "JPE301001708",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/5viVmJmM7IXn2Ugr2u3E5w",
+      "isFallback": true
+    },
+    {
+      "id": "f4fd367f-24ea-4038-aae7-64541ca172e7",
+      "title": "自画像",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8de2e705-f283-4472-a6ed-376f3669be50",
+      "title": "白けた反応",
+      "artist": "神前暁",
+      "isrc": "JPE301400440",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/1CcU2zeIytlfyae2KZFtje",
+      "isFallback": true
+    },
+    {
+      "id": "b9c17014-cd57-492b-9917-b85ac9dde366",
+      "title": "臥煙家の血統",
+      "artist": "神前暁",
+      "isrc": "JPE301400387",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/5MBAr8IcOI4ILrCInU2n8V",
+      "isFallback": true
+    },
+    {
+      "id": "849b1ef2-fb7b-4474-953d-d93a2962f798",
+      "title": "羽川翼の場合",
+      "artist": "神前暁",
+      "isrc": "JPE301103664",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4OHpxDoMCt6yWCQBGib06L",
+      "isFallback": true
+    },
+    {
+      "id": "17e49ca6-4f79-46bd-ae8b-a2334fe8f524",
+      "title": "絆",
+      "artist": "神前暁",
+      "isrc": "JPE301201492",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/1SmOmx9ANKElmtNWRwcclL",
+      "isFallback": true
+    },
+    {
+      "id": "f50a2426-39b6-4963-8373-33dc4d0f4cdd",
+      "title": "現象",
+      "artist": "神前暁",
+      "isrc": "JPE301400376",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4NaPM3Ycq6cyHalNOLMgX2",
+      "isFallback": true
+    },
+    {
+      "id": "3b4d8967-25b3-4454-b1a2-584c74294974",
+      "title": "瀕死",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83e5d71f-e63a-4f97-b255-ab9e8abdde59",
+      "title": "眼鏡の委員長特集",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a51a645c-1055-4b42-87cc-be1ad786c96d",
+      "title": "爆弾くんランド",
+      "artist": "神前暁",
+      "isrc": "JPI100800788",
+      "releaseDate": "2008-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/4lirUbXyjyUiEzNEZq9Dmh",
+      "isFallback": true
+    },
+    {
+      "id": "99555607-5727-4d5a-a5bd-66e70749d0a8",
+      "title": "状況把握",
+      "artist": "神前暁",
+      "isrc": "JPV432300479",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3OAc9CISqXIREn8NnAx4Q0",
+      "isFallback": true
+    },
+    {
+      "id": "5edfc6e0-6c79-4cfb-98a9-53a63c84124a",
+      "title": "痛み",
+      "artist": "神前暁",
+      "isrc": "JPE301003461",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b8a87a4-0c78-4d39-9e09-6997fdb8c017",
+      "title": "秘めた意思",
+      "artist": "神前暁",
+      "isrc": "JPV432300490",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5jYIzHUV1OD3pVqq8h6Bqq",
+      "isFallback": true
+    },
+    {
+      "id": "a9da74f0-0c86-4938-8bfd-2cb24a9fdab1",
+      "title": "翼",
+      "artist": "音無小鳥",
+      "isrc": "JPCO02202970",
+      "releaseDate": "2022-03-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d79999d-1236-42c6-abb6-a675ea6ac4b8",
+      "title": "殺風景",
+      "artist": "神前暁",
+      "isrc": "JPE301103686",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3OpyHnvgpfxPhqBaod0FWu",
+      "isFallback": true
+    },
+    {
+      "id": "2a451798-756f-427d-bf9d-3ee6b5e6a16f",
+      "title": "神原駿河の場合〜着衣",
+      "artist": "神前暁",
+      "isrc": "JPE301103694",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/38XnCAxw3ubqDaKM6dZdxf",
+      "isFallback": true
+    },
+    {
+      "id": "8d3042d9-192c-4b23-9c35-b018c4ebc247",
+      "title": "熱血篇タイトルバック",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80b91824-936a-48b9-8139-a71983178e99",
+      "title": "罪滅ぼし",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "deec7034-6ee5-4911-8bd1-78721fcfcb20",
+      "title": "知的欲求",
+      "artist": "神前暁",
+      "isrc": "JPV432300475",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6wrdPB4WFPNNZoDAvzaPsE",
+      "isFallback": true
+    },
+    {
+      "id": "ec65e23e-f178-43e2-ade8-fb5501f9985f",
+      "title": "結界",
+      "artist": "神前暁",
+      "isrc": "JPE301103666",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5jF8L8XXDQ9lLAwjPJZ2cp",
+      "isFallback": true
+    },
+    {
+      "id": "0a5da4a4-1fc4-4c3e-bea6-f9229be8af34",
+      "title": "神撫子",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "41f61ba5-0cf6-4d08-a108-e63e10d8e814",
+      "title": "空",
+      "artist": "音無小鳥",
+      "isrc": "JPCO00722300",
+      "releaseDate": "2007-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/0OWtcuqA9LbpiLmJA1dhRS",
+      "isFallback": false
+    },
+    {
+      "id": "20efad11-ac93-4451-88a6-46b4edb1537e",
+      "title": "深窓の令嬢",
+      "artist": "神前暁",
+      "isrc": "JPE301003446",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "018ef4f2-bf56-4dd3-8517-585a1f71497a",
+      "title": "自戒",
+      "artist": "神前暁",
+      "isrc": "JPI100700988",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/4kTPAb576sCymkk4uOJayT",
+      "isFallback": true
+    },
+    {
+      "id": "0f824aed-db56-41fa-932a-1e1eea9533c9",
+      "title": "約束",
+      "artist": "神前暁",
+      "isrc": "JPE301300090",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/70sK5pcISNpA29UAWtk3nQ",
+      "isFallback": true
+    },
+    {
+      "id": "531dd46e-3c19-4d2a-8c6d-ba9fc958c4fc",
+      "title": "毒見役",
+      "artist": "神前暁",
+      "isrc": "JPV432300474",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/78PoU8M1hg54sFKXV1Jz7s",
+      "isFallback": true
+    },
+    {
+      "id": "63ed2711-9b3b-4adb-987d-da1b5b924f68",
+      "title": "深窓の令嬢",
+      "artist": "神前暁",
+      "isrc": "JPE301103662",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3IVhhUp5IRBUYSdeISl9gX",
+      "isFallback": true
+    },
+    {
+      "id": "4c5a9192-103f-4327-843f-f065bd9447f3",
+      "title": "生まれ変わり",
+      "artist": "神前暁",
+      "isrc": "JPE301303008",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/4rfs8B7UMm4W5XKBzrjZOc",
+      "isFallback": true
+    },
+    {
+      "id": "301faf5e-cebc-493b-bb15-e76f73277b8e",
+      "title": "片喰",
+      "artist": "神前暁",
+      "isrc": "JPV432300493",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6P8oPHKNj8St7rCDHB4aeD",
+      "isFallback": true
+    },
+    {
+      "id": "bfd36ec6-0823-4087-abdd-8f4c9d081a8f",
+      "title": "神隠しの正体",
+      "artist": "神前暁",
+      "isrc": "JPE301400382",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/2DgoXe9UVGOpAcFYx4yjnR",
+      "isFallback": true
+    },
+    {
+      "id": "b5486ac5-9f6f-4441-8b63-9ff8e785bfc5",
+      "title": "気に障ること",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4bf11e3a-7678-4e79-a3a7-05e5400ce4af",
+      "title": "燃える女",
+      "artist": "神前暁",
+      "isrc": "JPE301201483",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/5gO855OanVAGVprIs4sB5H",
+      "isFallback": true
+    },
+    {
+      "id": "0369fff3-7c78-4ad4-9088-a3246722a875",
+      "title": "瀕死の吸血鬼",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "685e8b03-ede5-4c9a-af4a-a47a87fdfe10",
+      "title": "父親",
+      "artist": "神前暁",
+      "isrc": "JPE301103702",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6XbasFl6tGQGaUJYgUezos",
+      "isFallback": true
+    },
+    {
+      "id": "4affe8c6-4382-4c9a-8390-495d9c6fe0a8",
+      "title": "答え合わせ",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fde8b667-10a3-4d6d-bef4-8a7fdd0ae766",
+      "title": "苛虎",
+      "artist": "神前暁",
+      "isrc": "JPE301302810",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/4SRVj5emd2L6auBYqopTE9",
+      "isFallback": true
+    },
+    {
+      "id": "929a2cce-c704-434a-bc78-92f329ce6a91",
+      "title": "決意",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "221f37d5-2c54-4648-b58b-16bd4fa4a9fd",
+      "title": "火憐ちゃん",
+      "artist": "神前暁",
+      "isrc": "JPE301300087",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/7DfQg0Nn840LTM1rkjsYDF",
+      "isFallback": true
+    },
+    {
+      "id": "b1f6f31c-ee36-4a35-a6d3-eb3cfcd18750",
+      "title": "神域",
+      "artist": "神前暁",
+      "isrc": "JPE301000051",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/0yRGtyfg9T83LCL5O0q4hW",
+      "isFallback": true
+    },
+    {
+      "id": "202b79b8-0ec8-49a5-a5b7-57b971b26684",
+      "title": "異常事態",
+      "artist": "神前暁",
+      "isrc": "JPE301400381",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/1S8e132cCwCLx66h8vaRod",
+      "isFallback": true
+    },
+    {
+      "id": "dc2df967-e584-48e3-b036-417188699536",
+      "title": "老婆心",
+      "artist": "神前暁",
+      "isrc": "JPE301400439",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/3G2RhBrqZu0YH3lEcbfHIr",
+      "isFallback": true
+    },
+    {
+      "id": "8bd91b53-0f7c-4df0-be93-dddc3f4b70c3",
+      "title": "死体探し",
+      "artist": "神前暁",
+      "isrc": "JPE301400163",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/2ST3cLkcWoRO4bRpgY3JsA",
+      "isFallback": true
+    },
+    {
+      "id": "0c0066dd-64e0-4f23-b51d-a0314f877807",
+      "title": "爽やかな友情",
+      "artist": "神前暁",
+      "isrc": "JPI100702792",
+      "releaseDate": "2008-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/4AN5Mu8ntIVL4v5SX4utFc",
+      "isFallback": true
+    },
+    {
+      "id": "729e4712-2425-4b77-a712-dfe796b1cccd",
+      "title": "苺色のきもち",
+      "artist": "Umika as Yamako",
+      "isrc": "JPE301000762",
+      "releaseDate": "2010-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/6MnJB6socOupvDM9UlMALi",
+      "isFallback": true
+    },
+    {
+      "id": "0a7ae2a3-8b1f-4555-9194-c0a57bfc9ab6",
+      "title": "蛇切縄",
+      "artist": "神前暁",
+      "isrc": "JPE301103700",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5shGHhkN1OfsiHxcEwPMeN",
+      "isFallback": true
+    },
+    {
+      "id": "5c06df55-c5b7-462b-b8f2-d9908f2b9009",
+      "title": "鋼拳バトル、暁がんばった",
+      "artist": "神前暁",
+      "isrc": "JPI100700637",
+      "releaseDate": "2007-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/7DWMnNAzQgSo9X0QMXrNBf",
+      "isFallback": true
+    },
+    {
+      "id": "52805790-f47a-4452-a552-c82f0d7bd0ff",
+      "title": "適材適所",
+      "artist": "神前暁",
+      "isrc": "JPE301400445",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/4YiFHoBml1Sf2E80RBwItc",
+      "isFallback": true
+    },
+    {
+      "id": "6428559e-6d4a-4c7d-adff-e67b8e76c5c1",
+      "title": "辛辣",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "016ccbcf-fa7a-4a9a-93c3-48e55ae3adb3",
+      "title": "鉄血篇 タイトルバック",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "378a65b0-9252-4ada-b43a-8132f87d33a6",
+      "title": "骨折り損",
+      "artist": "神前暁",
+      "isrc": "JPE301003453",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a0730bfb-ae00-4e0c-972d-e3da062da0de",
+      "title": "赤の他人",
+      "artist": "神前暁",
+      "isrc": "JPE301300089",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/1dDWf3cjLqNI6zaF1LzRIG",
+      "isFallback": true
+    },
+    {
+      "id": "e8b914ae-0fc5-4ddf-a8bc-e4275bec1380",
+      "title": "迷い牛",
+      "artist": "神前暁",
+      "isrc": "JPE301103690",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1oTIxP3RLBYfaB7cdkgwTT",
+      "isFallback": true
+    },
+    {
+      "id": "45a8d926-269a-4d06-aa7a-1a4e824ad300",
+      "title": "雪中花",
+      "artist": "きしかな子",
+      "isrc": "JPV432300308",
+      "releaseDate": "2023-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/2mhBLE7VdxgkMery54dNIk",
+      "isFallback": true
+    },
+    {
+      "id": "08ea48fd-0658-42b6-b12d-445a2a003296",
+      "title": "蒼空の炎",
+      "artist": "竹中だいち",
+      "isrc": "JPV432300309",
+      "releaseDate": "2024-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/7bTM7TaAIsk39uvNLj3ceU",
+      "isFallback": true
+    },
+    {
+      "id": "9489f37e-e40f-4f99-ba10-c0d2b22e29a3",
+      "title": "逆子",
+      "artist": "神前暁",
+      "isrc": "JPV432500169",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/3TkeMiwxjhOR41OF2g3xDU",
+      "isFallback": false
+    },
+    {
+      "id": "86dd353f-3b2b-4c45-9502-5604c63c9d03",
+      "title": "魔法をかけて！",
+      "artist": "秋月律子",
+      "isrc": "JPCO00528800",
+      "releaseDate": "2005-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/5t6N8SSOOoS87oEJbTZ9xp",
+      "isFallback": true
+    },
+    {
+      "id": "ee929efd-c495-4d47-9b4c-0b4c62c578b6",
+      "title": "観念",
+      "artist": "神前暁",
+      "isrc": "JPE301000045",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/5gJ1gm8ErFuVk9zjUWBouU",
+      "isFallback": true
+    },
+    {
+      "id": "9b8dd8f4-cbf9-4b60-9a41-55fdef2633f2",
+      "title": "観察報告",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf6b2f65-1137-458a-a7ef-8eae90be775b",
+      "title": "陰陽師",
+      "artist": "神前暁",
+      "isrc": "JPE301201671",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/2SNExuxa8gWSPzvrr9yUwZ",
+      "isFallback": false
+    },
+    {
+      "id": "b31bb5b8-3406-4d5c-be3c-e1d86145ee60",
+      "title": "薬屋",
+      "artist": "神前暁",
+      "isrc": "JPV432300469",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/4arlrl6pL2C1lfYN9E4rKd",
+      "isFallback": true
+    },
+    {
+      "id": "927e39c7-1c9c-4b8f-8492-624097ec2d97",
+      "title": "襲来",
+      "artist": "神前暁",
+      "isrc": "JPE301303017",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/2zX9vqRyqLfUKrJigiXRlL",
+      "isFallback": true
+    },
+    {
+      "id": "95ca9547-9529-4aa0-8740-4e6a548d733e",
+      "title": "障り猫",
+      "artist": "神前暁",
+      "isrc": "JPE301103705",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/36HrkECTT4qt12guEncn0u",
+      "isFallback": true
+    },
+    {
+      "id": "085b9e0b-3829-4df8-8792-e14aca7c6dd1",
+      "title": "言い訳",
+      "artist": "神前暁",
+      "isrc": "JPE301103683",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/05vDAT5E6hMqykCqKDOywV",
+      "isFallback": true
+    },
+    {
+      "id": "c9311cf3-6224-4071-a2e8-cff52e55a0cf",
+      "title": "重し蟹",
+      "artist": "神前暁",
+      "isrc": "JPE301103669",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7N1rCviT8cZAAh2lVbfKvR",
+      "isFallback": true
+    },
+    {
+      "id": "d0fae95f-3298-4034-9b77-75b6c5d5dd6f",
+      "title": "頭痛",
+      "artist": "神前暁",
+      "isrc": "JPE301103704",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/0tjz1IMNHXTbuBdpaHStj1",
+      "isFallback": true
+    },
+    {
+      "id": "c666a8c4-9bc7-4226-af26-0eaa1f0977a1",
+      "title": "蛇髪娘",
+      "artist": "神前暁",
+      "isrc": "JPE301400156",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/3PIiKZXEqYJJ5kbVgF4eZb",
+      "isFallback": true
+    },
+    {
+      "id": "ff2825b3-cb2b-4460-9809-2da23e3fa116",
+      "title": "雨上がりのアイリス",
+      "artist": "初星学園",
+      "isrc": "JPX832500447",
+      "releaseDate": "2025-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/4ZuVc6O8aRj5hlqBmEeqwJ",
+      "isFallback": false
+    },
+    {
+      "id": "d301e740-8284-4fab-96c4-b9ae46d9d8f1",
+      "title": "雨上がりのミライ",
+      "artist": "ミルキィホームズ",
+      "isrc": "JPI101000869",
+      "releaseDate": "2010-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/18Y0MSmWmXp4kj07uGxTFp",
+      "isFallback": true
+    },
+    {
+      "id": "caa1ba89-0360-4007-b836-85c9f7608430",
+      "title": "鬼出鬼没",
+      "artist": "神前暁",
+      "isrc": "JPE301300101",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/2jP1KEiL18JTKpuLkP42mM",
+      "isFallback": true
+    },
+    {
+      "id": "985fc574-5830-4313-a8cc-2e87db085971",
+      "title": "魔手",
+      "artist": "神前暁",
+      "isrc": "JPE301201210",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2VOk2ibvLrA7tQ5AmRP1Yi",
+      "isFallback": true
+    },
+    {
+      "id": "f5e6c190-d6b3-428d-aac0-06e70fcefc95",
+      "title": "響け!太鼓の達人",
+      "artist": "水木一郎",
+      "isrc": "",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6c1adbec-efee-4213-8144-1cb4c1722cbc",
+      "title": "道徳塗説",
+      "artist": "神前暁",
+      "isrc": "JPE301103663",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4S5AUuGIzqhW2xDSygRwat",
+      "isFallback": true
+    },
+    {
+      "id": "1ccee74a-deca-4e00-b4eb-2d35b29ec25a",
+      "title": "街談巷説",
+      "artist": "神前暁",
+      "isrc": "JPE301000044",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4julTNUvHXyXafMHin7cdL",
+      "isFallback": true
+    },
+    {
+      "id": "0bdf840a-6146-4ab9-9d44-ecc1a13b2bbe",
+      "title": "言葉の暴力",
+      "artist": "神前暁",
+      "isrc": "JPE301103672",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/0oYW445FXJlfYRBzAryWBy",
+      "isFallback": true
+    },
+    {
+      "id": "c267d612-72ca-4765-b207-925b02e43b45",
+      "title": "頬ずり",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1287afb1-3592-4985-95a8-adbc753df8a2",
+      "title": "食事中",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bec25a99-8b3a-4eca-815c-754c8df55cc4",
+      "title": "観察",
+      "artist": "神前暁",
+      "isrc": "JPV432300491",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0ZgbpAyy441QMoMBC2WpS2",
+      "isFallback": true
+    },
+    {
+      "id": "6c252c30-e84c-4174-ba73-128043445eb7",
+      "title": "軽やかだよ、らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI100701556",
+      "releaseDate": "2007-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/2DF96t1mr49u7xkFjDnBtM",
+      "isFallback": true
+    },
+    {
+      "id": "31f1cda8-7384-4de1-b7a0-ea2c2c0dd0e9",
+      "title": "鳳仙花",
+      "artist": "神前暁",
+      "isrc": "JPV432300496",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/4Cn1OqfHsW9cAlsDQ3dqFR",
+      "isFallback": true
+    },
+    {
+      "id": "853ccbc5-d4f8-4699-8261-443af9c8faa1",
+      "title": "鉄血篇 エンドロール",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8f31e3ca-80b9-452d-9164-1632406ab34f",
+      "title": "違和感",
+      "artist": "神前暁",
+      "isrc": "JPE301303007",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/00JgyytfV8ddViwZWreauC",
+      "isFallback": true
+    },
+    {
+      "id": "6e74abcc-bef9-45db-81ad-d5ef08ab1e2d",
+      "title": "表裏",
+      "artist": "神前暁",
+      "isrc": "JPE301001709",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/4EERUHQbUPt6bK61nNQSIG",
+      "isFallback": true
+    },
+    {
+      "id": "da41ea5b-91c2-436b-b4ce-820b118f6cf7",
+      "title": "輝く心",
+      "artist": "神前暁",
+      "isrc": "JPV432300470",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0K4GKJHd12hXWNZtQhhHvo",
+      "isFallback": true
+    },
+    {
+      "id": "2dce45cf-d904-40e3-b770-b929e6d5b3e2",
+      "title": "誘惑",
+      "artist": "神前暁",
+      "isrc": "JPE301201207",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2XZz51Z3O8mIn6rzd3UQtx",
+      "isFallback": true
+    },
+    {
+      "id": "5f490442-3182-46e4-88ea-2cef61129cbb",
+      "title": "鉄仮面",
+      "artist": "神前暁",
+      "isrc": "JPE301201212",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3CmB6lls6tgzlZPAE5VH4g",
+      "isFallback": true
+    },
+    {
+      "id": "c343ca7c-15c6-4d20-9d7e-74abb1cc3175",
+      "title": "親切",
+      "artist": "神前暁",
+      "isrc": "JPE301303015",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/4xgVJgndtL3XrYao5tJqMB",
+      "isFallback": true
+    },
+    {
+      "id": "92c332bb-a48b-4996-a839-66bc41b2c785",
+      "title": "里の子供たち",
+      "artist": "神前暁",
+      "isrc": "JPV432500179",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/1yp34TbvLzYOeNjwDhSGyQ",
+      "isFallback": false
+    },
+    {
+      "id": "1e1a700f-ee65-4775-8886-3235ed738358",
+      "title": "詠唱",
+      "artist": "神前暁",
+      "isrc": "JPE301303009",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/3BbjS5hmsrwbaDLNSSIfs6",
+      "isFallback": true
+    },
+    {
+      "id": "3979bc53-401e-4cea-9320-ae7759d5f226",
+      "title": "逢う魔が刻",
+      "artist": "神前暁",
+      "isrc": "JPE301103685",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6GRSw1egeHkY35hIEiTkzI",
+      "isFallback": true
+    },
+    {
+      "id": "d558e964-68cc-41f4-8924-f66697806039",
+      "title": "記憶",
+      "artist": "神前暁",
+      "isrc": "JPI101601072",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/1azPc63hcbBdG9YBe3GGdQ",
+      "isFallback": true
+    },
+    {
+      "id": "bd0548d1-322a-47ee-8e63-ef5fbe63f0ed",
+      "title": "言えないこと以外のこと",
+      "artist": "神前暁",
+      "isrc": "JPE301300094",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/3hlXVU970ZJehBCGJbq5rr",
+      "isFallback": true
+    },
+    {
+      "id": "d58b83c3-10d4-42af-a36c-15b2e20f17b5",
+      "title": "見られたくないもの",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fd5361cb-a85f-4c12-94a7-bedf3ffdca98",
+      "title": "都市伝説",
+      "artist": "神前暁",
+      "isrc": "JPE301201209",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/7Bxn1nxOKg4J8PKFHiZAod",
+      "isFallback": true
+    },
+    {
+      "id": "8fd7e5d5-84cf-4a01-9161-7d63ddf26e20",
+      "title": "貴重種",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "20e584fb-cc2f-4c1f-a66a-ef21bc8278ff",
+      "title": "草々不一",
+      "artist": "神前暁",
+      "isrc": "JPE301302814",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3PeHNZumhskCf7cO7nGiG1",
+      "isFallback": true
+    },
+    {
+      "id": "d51ab7b9-8117-4673-a301-c3a7dba3ae90",
+      "title": "血",
+      "artist": "神前暁",
+      "isrc": "JPV432500180",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/1Rq4oPwUanEfanA3pJPJrd",
+      "isFallback": true
+    },
+    {
+      "id": "82c810ba-7b39-44eb-b62b-4d195b2a04c0",
+      "title": "通じ合えた心",
+      "artist": "神前暁",
+      "isrc": "JPE301003474",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e307825-ea47-4cea-9905-4ba979ceb57f",
+      "title": "身請け",
+      "artist": "神前暁",
+      "isrc": "JPV432300497",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6dq1aowXuWyNi4xl0NdufG",
+      "isFallback": true
+    },
+    {
+      "id": "ff7c313f-9c0b-434a-b818-6cfe34c010bb",
+      "title": "赤信号",
+      "artist": "神前暁",
+      "isrc": "JPE301400375",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/7eGJW7EDHZthD4w6K6p79e",
+      "isFallback": true
+    },
+    {
+      "id": "61ca8453-9b3d-4fc6-b3b9-ec2021a32562",
+      "title": "銀河鉄道らき☆すた",
+      "artist": "神前暁",
+      "isrc": "JPI102302638",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/0kaJkUlVTXPuB7X758syao",
+      "isFallback": true
+    },
+    {
+      "id": "96a7fc4b-845a-45ae-90f1-91cdac3f4752",
+      "title": "蜂蜜",
+      "artist": "神前暁",
+      "isrc": "JPV432300485",
+      "releaseDate": "2024-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6J0NIfWha91ZidkTSe2g8I",
+      "isFallback": true
+    },
+    {
+      "id": "e743a2c6-b023-4578-b2d5-bf507c3dd1b9",
+      "title": "輔翼",
+      "artist": "神前暁",
+      "isrc": "JPE301001707",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2w6czH50cB3LqB5mF89yN9",
+      "isFallback": true
+    },
+    {
+      "id": "66f81949-691e-4dcc-82e2-3e875d39fccf",
+      "title": "豫告",
+      "artist": "神前暁",
+      "isrc": "JPE301103661",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1nrXyNQXQiUrndQOABvpLc",
+      "isFallback": true
+    },
+    {
+      "id": "71b08204-8196-4552-891a-8ef04b8cf9d3",
+      "title": "食物連鎖",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "646ba0d2-227b-4bb8-b8ec-2b7d9eb838f4",
+      "title": "輝きの向こう側へ",
+      "artist": "高田龍一",
+      "isrc": "JPCO01331670",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f4766cf0-33ca-47ab-8605-83e7374ce4c6",
+      "title": "雑多坩堝",
+      "artist": "神前暁",
+      "isrc": "JPE301103681",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1WK3Q2ReJVVsKE8Vh8PAx7",
+      "isFallback": true
+    },
+    {
+      "id": "a15d7f3f-75a8-419b-bd24-e232e1fa6f8e",
+      "title": "黒猫はタンゴ",
+      "artist": "神前暁",
+      "isrc": "JPE301003448",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36abbcc4-41ff-4462-9b1d-a5eadacbdd40",
+      "title": "落胆",
+      "artist": "神前暁",
+      "isrc": "JPE301003468",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2dab0433-f808-4eb8-9f33-6141272dbb13",
+      "title": "裏目",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dc2d16ea-caca-4dfb-8c2c-ec9249d34a1c",
+      "title": "覚悟を決める時",
+      "artist": "神前暁",
+      "isrc": "JPV432500189",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/4N181WtM3il4mJZu2dPmuP",
+      "isFallback": false
+    },
+    {
+      "id": "cc919a53-377d-4e73-bfe2-1f4c2dd16e72",
+      "title": "貫徹",
+      "artist": "神前暁",
+      "isrc": "JPE301302807",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/7qUae8pdr1VB3i1IL63FsG",
+      "isFallback": true
+    },
+    {
+      "id": "1f94d387-edb7-4923-822b-c13192e7d5fb",
+      "title": "責任",
+      "artist": "神前暁",
+      "isrc": "",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "68f3feb9-7539-447c-92ce-bad2249f5b22",
+      "title": "子供たちの未来",
+      "artist": "神前暁",
+      "isrc": "JPV432500180",
+      "releaseDate": "2025-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/0PYzfWWjbBmvKxW89Lf1Vg",
+      "isFallback": false
+    }
+  ]
+}

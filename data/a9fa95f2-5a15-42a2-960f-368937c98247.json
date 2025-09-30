@@ -1,0 +1,1563 @@
+{
+  "name": "藤田淳平",
+  "sortName": "フジタジュンペイ",
+  "tracks": [
+    {
+      "id": "da933695-afe4-46fc-aa8b-74a90594546d",
+      "title": "Never Slash!!",
+      "artist": "飛蘭",
+      "isrc": "JPKI00814266",
+      "releaseDate": "2008-08-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae46a7fd-3219-4817-971c-39608dd80547",
+      "title": "Dawn walker",
+      "artist": "NANA",
+      "isrc": "",
+      "releaseDate": "2006-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0008949-c026-436b-9519-ed47192bc918",
+      "title": "－HEROIC ADVENT－",
+      "artist": "Roselia",
+      "isrc": "JPR561700173",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/2afnAxLonvpNTTrITbHyD5",
+      "isFallback": true
+    },
+    {
+      "id": "e053bd7b-4062-491e-8778-ea5c7ae7c18b",
+      "title": "Aqua Voice",
+      "artist": "榊原ゆい",
+      "isrc": "JPU500900129",
+      "releaseDate": "2008-09-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2c8837bc-38cf-411e-a532-9f36febb497f",
+      "title": "これは——未来を奪還する物語",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915874",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/14SwNFmkWUevLgTYWX2bWt",
+      "isFallback": true
+    },
+    {
+      "id": "352a033e-21e4-463f-8d11-3b6b83a2c281",
+      "title": "LIFE",
+      "artist": "遠藤正明",
+      "isrc": "JPI100900751",
+      "releaseDate": "2009-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/6M63nWlB2EdxFS57R9JbvM",
+      "isFallback": true
+    },
+    {
+      "id": "1fee33e2-b681-4642-8a7d-2232e5eefd79",
+      "title": "いつもそこに微笑みが",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01211891",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4PzwE9TExOvjBCcePlX2ZU",
+      "isFallback": true
+    },
+    {
+      "id": "83f0bdd1-f7ef-4116-a0a8-1f156fab93d5",
+      "title": "Hey-day狂騒曲",
+      "artist": "Afterglow",
+      "isrc": "JPR561700223",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/0Y48sMfXqttI0dJJ3NsuXJ",
+      "isFallback": true
+    },
+    {
+      "id": "25926f5a-0158-43ec-a56e-55533107c62b",
+      "title": "Nobody knows, Oh yeah!",
+      "artist": "安藤寿来",
+      "isrc": "",
+      "releaseDate": "2014-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba8c81a7-2741-43fa-82fa-1dc047b77379",
+      "title": "wield a Disrupt Hammer",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01313930",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/20ArZmyRNQggGk6VvhMrvV",
+      "isFallback": true
+    },
+    {
+      "id": "3cc1d8b6-75b9-4fcf-b9e7-135c9987a51b",
+      "title": "Ever Never",
+      "artist": "明智光理",
+      "isrc": "",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2fe563e0-14b8-4e58-be1e-325c1839abcf",
+      "title": "SAKURA☆風味 (DJ Shimamura Remix)",
+      "artist": "宮部るい",
+      "isrc": "",
+      "releaseDate": "2010-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d4aaee8-e901-45b6-bff5-7e637f3d21fb",
+      "title": "いつも通りのBrand new days",
+      "artist": "Afterglow",
+      "isrc": "JPR561900141",
+      "releaseDate": "2020-03-11",
+      "spotifyUrl": "https://open.spotify.com/track/2efrhHJEAWIutp2geJ6O86",
+      "isFallback": true
+    },
+    {
+      "id": "339cca59-df0c-4b0d-993f-f560dad8b5af",
+      "title": "おかえりを言う為に",
+      "artist": "小日向未来",
+      "isrc": "JPKI02311942",
+      "releaseDate": "2023-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/6YZbR6jRa1W26S4bs2cnm1",
+      "isFallback": true
+    },
+    {
+      "id": "839778db-7f86-435c-895f-d966ccd92fd8",
+      "title": "Nobody knows, Oh yeah! -五帝-",
+      "artist": "安藤寿来",
+      "isrc": "",
+      "releaseDate": "2015-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3b261db-dfc0-4bb4-b76b-84cb72b01b33",
+      "title": "Remodeling surgery",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915877",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/5IFMdFjQvWq9O3azfA6ah9",
+      "isFallback": true
+    },
+    {
+      "id": "f17779d4-afc6-42b4-9eea-cc916f222a2c",
+      "title": "Jamboree! Journey!",
+      "artist": "Afterglow",
+      "isrc": "JPR561700366",
+      "releaseDate": "2018-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/1xzYWbGP29IL2dxPQoKeCi",
+      "isFallback": true
+    },
+    {
+      "id": "b91843b9-cba8-4d63-961c-8718296f8d24",
+      "title": "オレンジ色のひまわり",
+      "artist": "富田麻帆",
+      "isrc": "JPU500500049",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/6Z9RnmKgDTxqKfuzwh7k5D",
+      "isFallback": true
+    },
+    {
+      "id": "b54718db-da76-4f50-9311-6c39500abeeb",
+      "title": "Rebirth-day",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401500064",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/4dzRh3D8MfAU3tvIAdZn8c",
+      "isFallback": true
+    },
+    {
+      "id": "c292229c-9830-4d6c-a814-205eb63f515e",
+      "title": "Meteor Light",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401100361",
+      "releaseDate": "2012-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/3JEuZrltbcs7iHQAw8fXLv",
+      "isFallback": true
+    },
+    {
+      "id": "74c3f78e-66b3-4fbe-a64d-7f64553c29d7",
+      "title": "ここから先は歌にならない",
+      "artist": "Poppin'Party",
+      "isrc": "JPR562100203",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/3ykrUvyLAEPDtoDomlRYeX",
+      "isFallback": true
+    },
+    {
+      "id": "4fe2070f-0b7b-4fe3-bd47-742adfe8901c",
+      "title": "ゼッタイ宣言〜Recital〜",
+      "artist": "Pastel＊Palettes",
+      "isrc": "JPR561900018",
+      "releaseDate": "2019-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/2aIqOgzj8z66aYQDrl7Byd",
+      "isFallback": true
+    },
+    {
+      "id": "d7c90cad-60a0-4ac6-89a6-3c7473afefa2",
+      "title": "Beyond the BLADE",
+      "artist": "風鳴翼",
+      "isrc": "JPKI01515812",
+      "releaseDate": "2015-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5q2I4nxMOr6p01bIP4fEGp",
+      "isFallback": true
+    },
+    {
+      "id": "5fa5a75e-2aeb-4e1c-bb10-99ccfb3f1975",
+      "title": "Traveler's tale",
+      "artist": "riya",
+      "isrc": "JPT931600007",
+      "releaseDate": "2016-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/3w5sfU93SVco9BL8y6c2Nv",
+      "isFallback": true
+    },
+    {
+      "id": "27abb910-e4da-4c5c-b649-f9b65b6f5a14",
+      "title": "アイスキャンディー",
+      "artist": "MAKO",
+      "isrc": "JPU500500052",
+      "releaseDate": "2005-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ac500225-fe66-498f-883e-2bac67137912",
+      "title": "Dancing in the Moment",
+      "artist": "佐藤ひろ美",
+      "isrc": "",
+      "releaseDate": "2011-07-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "11044667-55a2-4bb9-ae52-cdac6c82c1e4",
+      "title": "そこはかとなくロマンセ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201600992",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/6k2PdRhGJ2rIxQV0YLu2UV",
+      "isFallback": true
+    },
+    {
+      "id": "a92713ee-7d86-4d93-90d5-b9d087cfd856",
+      "title": "A ray of sunshine!!",
+      "artist": "アニエス・ブーランジュ",
+      "isrc": "",
+      "releaseDate": "2008-11-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05ffa755-7a72-415c-b7c5-b3e894a54a80",
+      "title": "SURVIVOR ねばーぎぶあっぷ！",
+      "artist": "Pastel＊Palettes",
+      "isrc": "JPR561700319",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/5QjebeWvnqfjPwL80Nu1Ci",
+      "isFallback": true
+    },
+    {
+      "id": "eaa3ff26-477c-423c-804a-1cded6345edd",
+      "title": "NEXT PHASE",
+      "artist": "新田恵海",
+      "isrc": "JPR561400085",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2BDSqixfTBgXaGJ2fL3Wbc",
+      "isFallback": true
+    },
+    {
+      "id": "6cb73ac6-f3b9-4ab2-982a-1debc741bd39",
+      "title": "アン・ティキ・ティラ",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716869",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/1CxBx9T5qHz98WsJ4qQWPf",
+      "isFallback": true
+    },
+    {
+      "id": "4888d41d-0af6-4ce0-aff9-5a9f1bdc742b",
+      "title": "Blitzkrieg",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518111",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/1LVXTRyoJNhWk8JEZ9LfWY",
+      "isFallback": true
+    },
+    {
+      "id": "dd258637-733d-4b49-95e0-81b2d0a29804",
+      "title": "Futurism",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401700050",
+      "releaseDate": "2017-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/67gRrMciksa7kB1yfzTPp9",
+      "isFallback": true
+    },
+    {
+      "id": "b525a7c9-4b6c-4b2c-bbbd-83d563f940dd",
+      "title": "Y.O.L.O！！！！！",
+      "artist": "Afterglow",
+      "isrc": "JPR561700453",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/1SAFQsp5wveMqQm016F9tx",
+      "isFallback": true
+    },
+    {
+      "id": "5a983a2b-eec9-4c84-b25e-afaac3376f03",
+      "title": "Happy Dive",
+      "artist": "水樹奈々",
+      "isrc": "JPKI00707464",
+      "releaseDate": "2007-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/0lhH2XPNfxMuIAny091iJ2",
+      "isFallback": true
+    },
+    {
+      "id": "2a1d2c60-b626-45be-be5a-0ea3188f8ee4",
+      "title": "Checkmate!?",
+      "artist": "MICHI",
+      "isrc": "JPPC01502933",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2XxsO0hJfZjwuyiXyy0666",
+      "isFallback": true
+    },
+    {
+      "id": "95c7dd1f-eb77-44ea-885f-e045a67e1ce3",
+      "title": "GUN BULLET XXX",
+      "artist": "雪音クリス",
+      "isrc": "JPKI01714132",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/4OlDJxQvF4s8YSy4Gbjfy1",
+      "isFallback": true
+    },
+    {
+      "id": "3717a71b-b07a-4517-bec7-f9af38bc03e9",
+      "title": "Safe and Sound",
+      "artist": "Roselia",
+      "isrc": "JPR561700445",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/5YUSc1pF9DNPxeB4Q7PO6r",
+      "isFallback": true
+    },
+    {
+      "id": "a664b5da-c275-43b9-829c-ccc241b62537",
+      "title": "スピカ",
+      "artist": "新田恵海",
+      "isrc": "JPR561500121",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/4XHGKXsX2WoaxfjtpNkPZ6",
+      "isFallback": true
+    },
+    {
+      "id": "79b52d86-277e-4431-94dd-7159b6b07c26",
+      "title": "Delight",
+      "artist": "IRyS",
+      "isrc": "JPV752206154",
+      "releaseDate": "2022-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/3OYFNbBXs2fmYprskbNjue",
+      "isFallback": true
+    },
+    {
+      "id": "b0d4d409-a8a0-4449-94b5-a7ad7fe985fd",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "isrc": "JPI101103147",
+      "releaseDate": "2012-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3SHVIElMMsgTRfmrbOJ4wP",
+      "isFallback": true
+    },
+    {
+      "id": "b3dc776c-fdcc-4723-8feb-4d96fbbc7476",
+      "title": "Sacred world",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561900325",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0WpDulmFSKKXr0Qfk5PDZD",
+      "isFallback": true
+    },
+    {
+      "id": "ba9b7a2c-2198-47e4-8105-662f3bc0cb02",
+      "title": "Nobody knows, Oh yeah! -強欲-",
+      "artist": "安藤寿来",
+      "isrc": "",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "edf74b5a-60e9-46fd-ad8e-68637bb8e279",
+      "title": "アンクルサムは、かく語りき",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212533",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/19UMs6nqMtxd74Pt0v7qUH",
+      "isFallback": true
+    },
+    {
+      "id": "76325318-6f0d-4014-b158-90cf6fcff97e",
+      "title": "アヴァロンの王冠",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01217502",
+      "releaseDate": "2012-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/0r2f48y3FCPFnXULwLsKLB",
+      "isFallback": true
+    },
+    {
+      "id": "f25959d8-822b-4f7f-94f7-0044a37eac6c",
+      "title": "カモもネギもないデスよ!",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01316096",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2R3xk13vkvO8hWq5BBEqxl",
+      "isFallback": true
+    },
+    {
+      "id": "06bf5643-a7d2-4970-88d4-20f977f4d3f7",
+      "title": "PERFECT SYMPHONY",
+      "artist": "立花響",
+      "isrc": "JPKI01916174",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/7lgtctytqj7oQHdYRLSfwL",
+      "isFallback": true
+    },
+    {
+      "id": "6596de6c-2e1a-414f-8b01-a97b09f7b1b3",
+      "title": "コンチェルトノート (DJ SHIMAMURA's 5AM Remix)",
+      "artist": "NANA",
+      "isrc": "",
+      "releaseDate": "2009-11-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84abb72d-340f-46fb-8fd5-08a65a4cfdd8",
+      "title": "Process",
+      "artist": "宮部紅葉",
+      "isrc": "JPCO00834810",
+      "releaseDate": "2008-10-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "985be249-04b5-4f55-bf8c-262242598145",
+      "title": "Next Destination",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401300161",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/6ijvhaTbzRMGHbaDZ9GSh7",
+      "isFallback": true
+    },
+    {
+      "id": "6e0a86e6-52fc-45c3-9e35-7fdbbd694287",
+      "title": "あの日、バルベルデにて",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716868",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/3C9l8Hfp0evVk4oWMl0ILx",
+      "isFallback": true
+    },
+    {
+      "id": "730c4e7a-fdd0-4ca2-a2d8-f45567138108",
+      "title": "Cry for the Truth",
+      "artist": "MICHI",
+      "isrc": "JPPC01501453",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/7sxbJ9a20zZr8X4d25oAaq",
+      "isFallback": true
+    },
+    {
+      "id": "96b28f8d-4693-47e3-b22f-30c8b793e20d",
+      "title": "キラキラスター！",
+      "artist": "Poppin'Party",
+      "isrc": "JPR561900249",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/60a2PcMZjnPMnjF5amTlPU",
+      "isFallback": true
+    },
+    {
+      "id": "ee77bbb1-67fe-4d2d-a81c-ba85ef2f7075",
+      "title": "Angel’s Ladder",
+      "artist": "Morfonica",
+      "isrc": "JPR562300383",
+      "releaseDate": "2023-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/6giRJDjXHqss7dHzbnnEF4",
+      "isFallback": true
+    },
+    {
+      "id": "c1ceebf1-ade8-4997-ba16-b09b88e5aede",
+      "title": "Little☆Date",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01214023",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/2OyGtwlVHPBbeVtuNRJneZ",
+      "isFallback": true
+    },
+    {
+      "id": "9dfc1383-5392-497a-8ce4-0b626e95b4d8",
+      "title": "ウルトラブラスト",
+      "artist": "ST☆RISH",
+      "isrc": "JPKI01810144",
+      "releaseDate": "2018-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/4bQuSwYZx7qnFHpctHHH45",
+      "isFallback": true
+    },
+    {
+      "id": "c3ad8eba-2a7a-4c9a-b603-53ba5b21a4f8",
+      "title": "サンキュ",
+      "artist": "ST☆RISH",
+      "isrc": "JPKI01512078",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/1cc07pk3xUY4phH2S13BIi",
+      "isFallback": true
+    },
+    {
+      "id": "2df25dd7-a00f-4957-8594-0addbeb8ab75",
+      "title": "Takin’ my Heart",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561900002",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/4Ad14uh7yvANfg2yLpzwyX",
+      "isFallback": true
+    },
+    {
+      "id": "b7f0fd6c-2af5-45f9-b63b-928c038f0ca4",
+      "title": "Blue Horizon",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "41b7a8f1-ac14-415d-8380-526c4195df38",
+      "title": "くだらなくて、取るに足らなくて",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915866",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/6ElOUbdOoPUdIQNdREGeIi",
+      "isFallback": true
+    },
+    {
+      "id": "b67747aa-32eb-4f60-b286-2da063bb1973",
+      "title": "!NVADE SHOW!",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561900277",
+      "releaseDate": "2020-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/44xIUjjL8EOPzJRjaZbETP",
+      "isFallback": true
+    },
+    {
+      "id": "7b543d67-ee25-4ab3-9401-15bbe1aa7f3d",
+      "title": "JUST TUNE",
+      "artist": "savage genius",
+      "isrc": "JPG750800442",
+      "releaseDate": "2008-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/60rDRlRTVl1v9jAQcy8PkZ",
+      "isFallback": true
+    },
+    {
+      "id": "de139462-3ed5-4528-b6d1-27b4db52976b",
+      "title": "Love Trippin'",
+      "artist": "水樹奈々",
+      "isrc": "JPKI00603186",
+      "releaseDate": "2006-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/5TW68f6L3dvgPSCSQnthaH",
+      "isFallback": true
+    },
+    {
+      "id": "59a07273-ea39-47de-b722-b749451be227",
+      "title": "Sense of Life",
+      "artist": "鳶沢みさき",
+      "isrc": "",
+      "releaseDate": "2014-11-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fa096994-b179-4553-8e9e-d94728347424",
+      "title": "シークレットカオス",
+      "artist": "松山めのう",
+      "isrc": "JPKI01011116",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b923c67-3ca8-4ce4-aef6-6ec0e2c8ade9",
+      "title": "Uncanny Valley",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518119",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/3ddB9AQc7geOLfRmCMbU95",
+      "isFallback": true
+    },
+    {
+      "id": "32086e2b-bef2-4069-80bf-49f04b41a35d",
+      "title": "MIRACLE WAY～強く優しく護られて～",
+      "artist": "コウ",
+      "isrc": "JPCO00814860",
+      "releaseDate": "2008-05-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "60b64442-1865-4853-8477-51f48ebb0abb",
+      "title": "カザハネ",
+      "artist": "霜月はるか",
+      "isrc": "JPU500800001",
+      "releaseDate": "2008-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/7p4RTGbY8bEn6E0SdI7KAi",
+      "isFallback": true
+    },
+    {
+      "id": "239c0934-c5da-489b-b455-faa41054f542",
+      "title": "クインティプル☆すまいる",
+      "artist": "香澄",
+      "isrc": "JPR561700316",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/2gcnI16UM8AlCjiLeyo23B",
+      "isFallback": false
+    },
+    {
+      "id": "195eeb9b-de6a-4089-b958-a91ac2b12fdd",
+      "title": "カタルシスの月",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201300563",
+      "releaseDate": "2013-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/2vRVTx2hJOvUlZXJ7Tlj9f",
+      "isFallback": true
+    },
+    {
+      "id": "9c20a8fa-9f15-48ca-ac27-77b86abe82a2",
+      "title": "Princess Blood",
+      "artist": "Rita",
+      "isrc": "JPI100802834",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae96cd23-a4a9-4033-9205-890c58ac9f1e",
+      "title": "Answer",
+      "artist": "片霧烈火",
+      "isrc": "JPKI00814268",
+      "releaseDate": "2008-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/54uU8nklvaRmGw0duNBnaf",
+      "isFallback": true
+    },
+    {
+      "id": "a4988924-e416-4b38-93f2-2414058bdf50",
+      "title": "UNSTOPPABLE",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561700398",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/2KMfzgcvbYaHAPI2XHhReA",
+      "isFallback": true
+    },
+    {
+      "id": "b3908279-161b-4abb-94ab-fd9aa373c2c8",
+      "title": "SOUL SOLDIER",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561900275",
+      "releaseDate": "2020-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/6Bjy6hq3ODvm3nRTPTl9QB",
+      "isFallback": true
+    },
+    {
+      "id": "0599a822-4595-44ae-afc2-d24f43b195ff",
+      "title": "FG式回天特機装束",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212535",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/3MCGFMGd7PPCorne3MFjAt",
+      "isFallback": true
+    },
+    {
+      "id": "b4960748-129d-405f-8d0d-4f116a0108b7",
+      "title": "イブの時代っ!",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201200508",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/7sP7cB2wOoz0iQHvp8BFcl",
+      "isFallback": true
+    },
+    {
+      "id": "c35630e1-ebb2-4c86-bd7e-ac53fe072e30",
+      "title": "ウィングストラグル",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915865",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/0AnAH6OyOHbBOxssByRwkY",
+      "isFallback": true
+    },
+    {
+      "id": "64e2f4e6-e275-4535-a847-7ceca283a2d3",
+      "title": "Avant-garde HISTORY",
+      "artist": "Roselia",
+      "isrc": "JPR561900270",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/1eV5LUtHRTwrsBkpU8CbGT",
+      "isFallback": true
+    },
+    {
+      "id": "bb610183-9a1b-46e9-8b90-35bafd7196a3",
+      "title": "Blue eyes",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2008-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "547f8d51-788d-4a60-9e39-8995946de6d3",
+      "title": "スマイルブーケで た〜まや〜！",
+      "artist": "ハロー、ハッピーワールド！",
+      "isrc": "JPR562000069",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/2rqBLsPHeLpJtKQAJhBBlH",
+      "isFallback": true
+    },
+    {
+      "id": "b353aae5-3093-4650-afff-55351c733884",
+      "title": "Silent Snow",
+      "artist": "Rita",
+      "isrc": "JPI100802839",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "63120757-a788-4c9b-8dcb-8234db80f15b",
+      "title": "Milky Ice",
+      "artist": "雪村涼乃",
+      "isrc": "",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c05e106c-b4b9-4e61-bd6f-6115156662b1",
+      "title": "HAPPY SOUL DANCE",
+      "artist": "Faylan",
+      "isrc": "JPI101002667",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/74zdItRopwVWVXy9l6TWl6",
+      "isFallback": true
+    },
+    {
+      "id": "7a26bcf1-684e-4c77-9f55-7b2ced5b2280",
+      "title": "COSMIC LOVE",
+      "artist": "水樹奈々",
+      "isrc": "JPKI00810109",
+      "releaseDate": "2008-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/6gOz3Iy7Ue6t9Ja3dj7RSb",
+      "isFallback": true
+    },
+    {
+      "id": "866fca1f-9844-41fe-81a0-e7e5c2a420b0",
+      "title": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR561900120",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/0XKe6ptxwy1yjusyER0ZTi",
+      "isFallback": true
+    },
+    {
+      "id": "b90c1705-2425-4f43-b6d1-daa4f75aa3aa",
+      "title": "Art as",
+      "artist": "KOTOKO",
+      "isrc": "JPT931500006",
+      "releaseDate": "2014-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/7HdgnMASQqUsR0glIm53wC",
+      "isFallback": true
+    },
+    {
+      "id": "2ea7de78-e6b0-4e41-948f-8712c6e7dcab",
+      "title": "JUST THE WAY I AM",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR562000042",
+      "releaseDate": "2021-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2YJX5ahjDsCaFy00h32JHJ",
+      "isFallback": true
+    },
+    {
+      "id": "4d415732-e937-4ef2-b7a8-392a602f24e9",
+      "title": "Lasting Song",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401900046",
+      "releaseDate": "2019-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/39zpWzmP0uewN7ymH1WvJQ",
+      "isFallback": true
+    },
+    {
+      "id": "3ddfcac2-6e51-4fce-aca8-3042254fb92d",
+      "title": "BAYONET CHARGE",
+      "artist": "風鳴翼",
+      "isrc": "JPKI01518788",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/7aJdNKVzeJFTILdO74uhii",
+      "isFallback": true
+    },
+    {
+      "id": "5f4ecdaf-7aff-4dc4-a956-acfe0ab18aca",
+      "title": "コウヤニケモノドウコクス",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01214030",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/094BBf8pRnihjYmLDNmkPl",
+      "isFallback": true
+    },
+    {
+      "id": "0d468a2d-3379-43ad-b744-1d03f4c9e4f7",
+      "title": "ALL LOVES BLAZING",
+      "artist": "立花響",
+      "isrc": "JPKI01913600",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/3Pced00l41M7Z8Z3c9IfXB",
+      "isFallback": true
+    },
+    {
+      "id": "b005ffe8-edb6-4293-b3eb-4c009deedbcc",
+      "title": "DISTORTION ZONE",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212534",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/1AWO1UmR5zL3t9tutN44jE",
+      "isFallback": true
+    },
+    {
+      "id": "d71fe9e8-71da-433a-a94c-58f6cfcda30d",
+      "title": "START UP",
+      "artist": "天音かなた",
+      "isrc": "JPV752408195",
+      "releaseDate": "2024-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/58P6YAXH9JGJuTXQQzhqMr",
+      "isFallback": false
+    },
+    {
+      "id": "d1843758-7d24-4704-9789-93ab8f80b4ac",
+      "title": "Secret!",
+      "artist": "NANA",
+      "isrc": "JPKI00703174",
+      "releaseDate": "2014-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki",
+      "isFallback": true
+    },
+    {
+      "id": "c5bd1b34-3d8a-4d12-a412-b73f92dd4871",
+      "title": "Walking On Sunshine",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401500098",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/6AP3ABYMSoF7H4xc72CoPn",
+      "isFallback": true
+    },
+    {
+      "id": "3934c86e-4c14-48f1-87fe-09317d6a4216",
+      "title": "ENGAGE LINKS",
+      "artist": "真理絵",
+      "isrc": "JPB951314279",
+      "releaseDate": "2008-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/611vJvr6lonYDaQ4vHeaRB",
+      "isFallback": true
+    },
+    {
+      "id": "b9e72ca7-f58f-4b69-a72a-b07428721aaf",
+      "title": "遠く、遠くに逆巻く炎",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01313932",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/3QHA9vOTj9oaCloQ2T6D7K",
+      "isFallback": true
+    },
+    {
+      "id": "e3f48b3e-0867-48a3-9bdf-0502f2247cfd",
+      "title": "強がりは、キミを孤独に苛む毒",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01316094",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/691OTM6NHm2lWPkCuwPofR",
+      "isFallback": true
+    },
+    {
+      "id": "d0059140-4cdc-4615-8e1b-391f7360515c",
+      "title": "人間になりたいうた",
+      "artist": "CRYCHIC",
+      "isrc": "",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "01910ff9-fb4e-46c5-9c3a-8a11ee2af0f9",
+      "title": "私の心はチョココロネ",
+      "artist": "Poppin'Party",
+      "isrc": "JPR561700283",
+      "releaseDate": "2018-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/2ea3tldzlH2d506LDufj0g",
+      "isFallback": true
+    },
+    {
+      "id": "d8105c11-d324-4129-8787-a2c017711404",
+      "title": "哀の十界",
+      "artist": "IRyS",
+      "isrc": "JPV752206156",
+      "releaseDate": "2022-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/4eCTEjNpmnDevHTLPc3ivl",
+      "isFallback": true
+    },
+    {
+      "id": "673630f9-a0e6-4cfa-baf9-bff79943bc4f",
+      "title": "帳は静かに幾重にも",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212529",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/2oAsVG0YH6qfXTkDiI2xo0",
+      "isFallback": true
+    },
+    {
+      "id": "4a594982-2fb0-41d4-9b73-31571e1045e7",
+      "title": "暁ノ空ヲ翔ル(テレビサイズ)",
+      "artist": "佐藤ひろ美",
+      "isrc": "",
+      "releaseDate": "2004-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d45905b3-e555-42b9-8626-4a578e42ebad",
+      "title": "遠い日々、それは——尊い日々",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518128",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/4jM8NbZKVjo7hcAjR6Zp0p",
+      "isFallback": true
+    },
+    {
+      "id": "abb485e2-9f27-4f0c-9c82-e2f65c07eb64",
+      "title": "大江戸小町",
+      "artist": "榊原ゆい",
+      "isrc": "JPD731200942",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "14632119-8aa6-4096-868c-c12c7ed80a16",
+      "title": "至らぬからこそ、手を伸ばす",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716875",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/3V7Rm5rfYwVyA6zUj76ey4",
+      "isFallback": true
+    },
+    {
+      "id": "34ed2451-85a1-4bdd-b0c9-b9f1c0caecbe",
+      "title": "栞",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562300272",
+      "releaseDate": "2023-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR",
+      "isFallback": false
+    },
+    {
+      "id": "9759cb7b-5f27-4cb7-969b-f7a366dbd5db",
+      "title": "ラテラリティ",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01252920",
+      "releaseDate": "2012-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/2Ibg2KZggYcUi40mwn79YI",
+      "isFallback": true
+    },
+    {
+      "id": "375a0263-8387-4378-a0eb-13d058dd6f98",
+      "title": "日常を、君と一緒に",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01211890",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3yqHqp3azcL7kmfMo6QWRP",
+      "isFallback": true
+    },
+    {
+      "id": "4d431cdc-8948-421a-adcc-b47f129f3824",
+      "title": "大盛り一丁！ガルパ☆ピコ",
+      "artist": "香澄",
+      "isrc": "JPR561900292",
+      "releaseDate": "2020-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5Qv78DitYCPp4Oa3qTrNaI",
+      "isFallback": true
+    },
+    {
+      "id": "61db4f45-c773-4358-9541-6765d987446c",
+      "title": "乙女繚乱 舞い咲き誇れ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500017",
+      "releaseDate": "2015-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/6NVdzKMZU8zztXK74ltsup",
+      "isFallback": true
+    },
+    {
+      "id": "ef3d17c6-6dc8-4847-9039-97fd73892b27",
+      "title": "大スキ！のち大スキ！",
+      "artist": "佐藤ひろ美",
+      "isrc": "",
+      "releaseDate": "2014-12-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a28c5749-6aa8-4242-b6b5-3af5764b7461",
+      "title": "君は自分を守る為に",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915867",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2eIbSRTQJlN7ljD5FMvf8A",
+      "isFallback": true
+    },
+    {
+      "id": "364e3e74-f811-4490-8bf2-ade3541a317c",
+      "title": "銀の雪が舞う夜に",
+      "artist": "トウカ",
+      "isrc": "JPKI01211875",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9577256-74aa-4d18-9eb4-6659f8ad48a4",
+      "title": "撃槍・ガングニール",
+      "artist": "立花響",
+      "isrc": "JPKI01210313",
+      "releaseDate": "2012-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/0A45Z0MQbD5EI1l4uJA44Y",
+      "isFallback": true
+    },
+    {
+      "id": "0dc07d8a-cb8a-49ac-b27f-0ea5c31f47d6",
+      "title": "迷いの森",
+      "artist": "佐藤ひろ美",
+      "isrc": "JPT931400003",
+      "releaseDate": "2012-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/0Qf75vZl5HIokPUVKxvObB",
+      "isFallback": true
+    },
+    {
+      "id": "1b8a1551-af24-4f2c-8493-3ac4e54e44cb",
+      "title": "またねの魔法",
+      "artist": "南條愛乃",
+      "isrc": "JPPI02303620",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/0Fsqa7Mb3JBAT0fHzjyjeZ",
+      "isFallback": true
+    },
+    {
+      "id": "e6d150c5-e778-4507-8b47-e490b0353687",
+      "title": "扉の向こうを垣間見て",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212532",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/0ie0ciJo8z7hrAmbkIs18T",
+      "isFallback": true
+    },
+    {
+      "id": "80d68d8f-50aa-47b8-a6f3-c6607ec40144",
+      "title": "琥珀色の黄昏",
+      "artist": "トウカ",
+      "isrc": "JPKI01211868",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "07cd05de-354f-4cdf-b265-5843411024ed",
+      "title": "ドヴェルグ・ダインの遺産",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518120",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/5Ds9hzGvJW974cDFJfL4XH",
+      "isFallback": true
+    },
+    {
+      "id": "f18239d3-c415-4d28-9cf4-d370effec91f",
+      "title": "叛逆のディスパレート",
+      "artist": "Vanitas Lacrimosa",
+      "isrc": "JPM202000726",
+      "releaseDate": "2020-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/3ndIuz2EmCNSKXjQTB6DcI",
+      "isFallback": false
+    },
+    {
+      "id": "77066cd4-e1bd-4fd7-af76-17c84dbd6043",
+      "title": "風月ノ疾双",
+      "artist": "風鳴翼",
+      "isrc": "JPKI01715837",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/27p7g61ObVzTRH7ynceXpn",
+      "isFallback": true
+    },
+    {
+      "id": "a232d171-38ad-4713-b1c8-3434be97ef73",
+      "title": "忘れない夢の丘",
+      "artist": "のみこ",
+      "isrc": "JPPC01100703",
+      "releaseDate": "2011-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/0TDYxLlSvuex4jE3anvXAJ",
+      "isFallback": true
+    },
+    {
+      "id": "bfe3e37f-282c-484f-93bf-4ce51a28b11a",
+      "title": "ファーストカレンダー",
+      "artist": "水樹奈々",
+      "isrc": "JPKI00709351",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/75lU09trczBJalKCJgSufM",
+      "isFallback": true
+    },
+    {
+      "id": "4f52e676-f148-46d4-953f-9d855ffc0402",
+      "title": "前へススメ！",
+      "artist": "Poppin'Party",
+      "isrc": "JPR561700115",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2GP0PeV4rJ5Llgm5u4Qi1j",
+      "isFallback": true
+    },
+    {
+      "id": "679de84a-5cf9-41ad-af80-738b2587e6e3",
+      "title": "金色へのプレリュード",
+      "artist": "Morfonica",
+      "isrc": "JPR561900208",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3yhz0g7DgegbRCVQD8dUcA",
+      "isFallback": true
+    },
+    {
+      "id": "91db8b41-66ad-43fc-a82f-dd7be903c900",
+      "title": "人知れず、影が行く",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01211893",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4eCx0cM61iAJHU1i9L1gty",
+      "isFallback": true
+    },
+    {
+      "id": "d17289f9-f062-4884-b506-cfa93fe3bb2a",
+      "title": "至上のラトゥーリア",
+      "artist": "Vanitas Lacrimosa",
+      "isrc": "JPM202000455",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/0XeaeCV0T2OBQGJohcF3Fc",
+      "isFallback": false
+    },
+    {
+      "id": "8ffa8dcf-694f-4538-b399-5b6de70c4a4b",
+      "title": "夢のつづき",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518123",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/3nqX6K55uiau0KQfiLEyjK",
+      "isFallback": true
+    },
+    {
+      "id": "24d3e7c2-71cb-46e4-bfb1-d1a935298a3f",
+      "title": "ランナーズハイ",
+      "artist": "遠藤正明",
+      "isrc": "JPI101101106",
+      "releaseDate": "2011-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/17rDxy61qBLzPzYiPWNR01",
+      "isFallback": true
+    },
+    {
+      "id": "202c56a0-a4bb-4fcc-bdeb-9b059ae13307",
+      "title": "リアリ・スティック",
+      "artist": "MICHI",
+      "isrc": "JPPC01600722",
+      "releaseDate": "2016-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/1etWCljknc5xJvnEXyD9Zn",
+      "isFallback": true
+    },
+    {
+      "id": "6977b831-57e2-4c3b-b760-59832cfa05e8",
+      "title": "最愛",
+      "artist": "霜月はるか",
+      "isrc": "JPV201500443",
+      "releaseDate": "2010-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7548866e-d17b-436a-8a8d-9be37abb4245",
+      "title": "春日影",
+      "artist": "CRYCHIC",
+      "isrc": "JPR562500141",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/3PxmdWrDzOQLgUftBQkcMf",
+      "isFallback": true
+    },
+    {
+      "id": "77b11a75-81f4-4192-b7fd-bbb7406bd181",
+      "title": "折り砕かれて、歌尽きて",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01212536",
+      "releaseDate": "2012-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/2TOT1zVHpOrReukukFdKcq",
+      "isFallback": true
+    },
+    {
+      "id": "f4337865-41ba-4812-ac44-bc4772007151",
+      "title": "輝きを放つ腕輪",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915863",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/0Qwwmk65Zt5vrY2qSJhFqt",
+      "isFallback": true
+    },
+    {
+      "id": "b9423af3-bc30-4bbd-9d3a-fb82ffd37b6d",
+      "title": "ハレハレ☆フォーチュン",
+      "artist": "Pastel＊Palettes",
+      "isrc": "JPR562300178",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/1ZFrMm5NFeX6euJDWipWAq",
+      "isFallback": true
+    },
+    {
+      "id": "444611b7-5bf6-4d8f-829d-f3308c7d08cb",
+      "title": "その極致は、異端にして先端",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01316093",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/34FfH9ATWVs22lBQF5ItP5",
+      "isFallback": true
+    },
+    {
+      "id": "99308d4d-86fe-40bf-bffb-7e27aac204e8",
+      "title": "風のように、空のように。",
+      "artist": "明智光理",
+      "isrc": "",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb85e277-2eed-4c76-aa86-740cfecc42dc",
+      "title": "雨上がりの夢",
+      "artist": "湊 友希那",
+      "isrc": "JPR562100141",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/7M0UFJIWdShnWvPjIBYY6A",
+      "isFallback": true
+    },
+    {
+      "id": "4f035572-aa75-4f9d-bc2e-35fe8dcabde7",
+      "title": "闇の奥、Apocalypse Now",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01211896",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7lkalGw5Yar1O3EuqOnoRa",
+      "isFallback": true
+    },
+    {
+      "id": "4ad9226d-e089-421e-98c7-b417ecf0392b",
+      "title": "砕かれて、刻は動き出す",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01315426",
+      "releaseDate": "2013-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/7D5ZsFA1K0jZJZ3CKFjkvC",
+      "isFallback": true
+    },
+    {
+      "id": "e8a9e546-706e-4890-a409-2b8fed95a413",
+      "title": "乙女の純潔",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01316095",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/22N2SqYB5k7rkS8CatZru1",
+      "isFallback": true
+    },
+    {
+      "id": "d2c15cca-ac25-4132-9917-31b904f473d7",
+      "title": "通信終わり→突撃開始",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01915868",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2PMUIYLHQZ20BCPmTO4b0G",
+      "isFallback": true
+    },
+    {
+      "id": "43cf01ca-dd41-49fa-9170-8a2409ff0bd9",
+      "title": "フォルテシモBELL",
+      "artist": "天王洲なずな",
+      "isrc": "JPX301607050",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/1BGLGBg38bFtmylEYPyEtq",
+      "isFallback": true
+    },
+    {
+      "id": "f0fe8c97-1106-4fe6-81c9-092ee6d83874",
+      "title": "どうして。。",
+      "artist": "富田麻帆",
+      "isrc": "JPU500700069",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1NnStk1aPjjQqaVvlb58Ye",
+      "isFallback": true
+    },
+    {
+      "id": "facd63c8-35b9-4d1c-96f6-1c3dabb8b2e1",
+      "title": "爪痕",
+      "artist": "hibiku",
+      "isrc": "JPG750900878",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0IHzPgoMQCj12owM5XM7xJ",
+      "isFallback": true
+    },
+    {
+      "id": "85f020a7-5f60-4674-a7c4-74a75d9caae8",
+      "title": "ピアノソナタ第7番「憂愁」",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518117",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7CFguE8y5Gf9bxzDvGWxNH",
+      "isFallback": true
+    },
+    {
+      "id": "d42e6de9-dd96-4f50-ace7-d72de4c1c0bd",
+      "title": "体育会系でいこう!",
+      "artist": "能登麻美子",
+      "isrc": "",
+      "releaseDate": "2010-05-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "be45de03-e231-4109-97a7-5beb858d7db0",
+      "title": "霧周途",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400336",
+      "releaseDate": "2024-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/6AHMK9skdTYYswNoZ4OIfu",
+      "isFallback": true
+    },
+    {
+      "id": "180bbcce-498b-47d8-b010-38a9e5ff7a28",
+      "title": "メランコリックララバイ",
+      "artist": "Morfonica",
+      "isrc": "JPR562300002",
+      "releaseDate": "2023-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/3oQcZVYK3jH1U6uXBSU7wV",
+      "isFallback": true
+    },
+    {
+      "id": "3991b56b-ec64-40f6-a03a-3f72e127d7fd",
+      "title": "明日に繋がる左腕",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01313931",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/6DggQVKuxOBziPAfS2FJm8",
+      "isFallback": true
+    },
+    {
+      "id": "f0007aa4-3365-4db1-82b6-c84ea2fe69d5",
+      "title": "メロディータイム",
+      "artist": "榊原ゆい",
+      "isrc": "JPU500900137",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5834378-2d42-4801-bc18-a4538935446e",
+      "title": "ブルームブルーム",
+      "artist": "Morfonica",
+      "isrc": "JPR562000033",
+      "releaseDate": "2021-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/49XQWc1rErFjX4IOZE7vjP",
+      "isFallback": true
+    },
+    {
+      "id": "a7270f4e-4552-410b-9c53-dfcf8ef83e57",
+      "title": "浪漫繃子師と堕落先導者",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716870",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/41602MHq9EUqNYcmTn8JQV",
+      "isFallback": true
+    },
+    {
+      "id": "84d40090-7e25-4e7c-9f0c-fce668a2b69e",
+      "title": "パラレルDays",
+      "artist": "涼宮ハルヒ",
+      "isrc": "JPI100601232",
+      "releaseDate": "2006-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/0DsApJwyhV9sQZERD2wFZl",
+      "isFallback": true
+    },
+    {
+      "id": "8e418017-477f-4540-938b-46fde61ca62c",
+      "title": "囚われのBabel",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01013472",
+      "releaseDate": "2010-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO",
+      "isFallback": true
+    },
+    {
+      "id": "eab9b018-326a-45d0-a125-91a0bcd0b577",
+      "title": "永遠のトライスター",
+      "artist": "一十木音也",
+      "isrc": "JPU500900152",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3JjhNENyg3Wbk0Qt2qePpA",
+      "isFallback": true
+    },
+    {
+      "id": "b8317e1d-28be-430e-83c7-8d331f8e23d7",
+      "title": "君がいる場所",
+      "artist": "高垣彩陽",
+      "isrc": "JPX401000081",
+      "releaseDate": "2010-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/6xIwdzLmsLTMD4aUFUci0y",
+      "isFallback": true
+    },
+    {
+      "id": "375ca9a6-d333-43cd-9588-ad4dc1644167",
+      "title": "抜剣——ダインスレイフ",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518127",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/4bsJ8PhHjlE6K6j8tCbgC9",
+      "isFallback": true
+    },
+    {
+      "id": "5ee2732b-1d35-4ddf-9310-0a8e720a348d",
+      "title": "最高(さあ行こう)！",
+      "artist": "Poppin'Party",
+      "isrc": "JPR561700311",
+      "releaseDate": "2018-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/15wynxwM2wIh5viZ6BNVld",
+      "isFallback": true
+    },
+    {
+      "id": "241da9b4-c482-4eb7-b83e-6a7f8b381ae8",
+      "title": "終末の四騎士",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01518112",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/4Ltx7VYvgmLv4zrtAQkYgw",
+      "isFallback": true
+    },
+    {
+      "id": "616c14cd-64fb-404b-97b0-432210144fd8",
+      "title": "風とキミの足跡",
+      "artist": "NANA",
+      "isrc": "",
+      "releaseDate": "2012-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "879a8045-54ed-4ddd-8e53-963df4cd1fdf",
+      "title": "正義を信じて、握り締めて",
+      "artist": "立花響",
+      "isrc": "JPKI01313751",
+      "releaseDate": "2013-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/2AqkyGvMHy0bWIaUwvjrUU",
+      "isFallback": true
+    },
+    {
+      "id": "6c605083-626d-4e4a-8bae-3608d18da0b4",
+      "title": "煌めき一閃",
+      "artist": "榊原ゆい",
+      "isrc": "JPD731200948",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef378e4c-c154-4893-9391-4100207abc11",
+      "title": "神がかりクロスハート!",
+      "artist": "NANA",
+      "isrc": "",
+      "releaseDate": "2012-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f3a7aa78-e660-4bee-abcd-3c9f8992801b",
+      "title": "覚醒のAir",
+      "artist": "羽多野渉",
+      "isrc": "JPT551800837",
+      "releaseDate": "2015-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/6YlrlomU9PMMGXsIvVQXF9",
+      "isFallback": true
+    },
+    {
+      "id": "1113a250-d666-473b-b3b7-a6c6628d8fa4",
+      "title": "裸になって…夏",
+      "artist": "マリア・カデンツァヴナ・イヴ",
+      "isrc": "JPKI01817293",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/4i4dzAYDK2QdRxNXm8iLOx",
+      "isFallback": true
+    },
+    {
+      "id": "c0801633-1303-4507-8f44-76313548a9ba",
+      "title": "星の支配者アヌンナキ",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716877",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5Ir3xuy7rLiK1ERE2cBaHW",
+      "isFallback": true
+    },
+    {
+      "id": "c1355aa3-1207-414a-a1a8-71fcf14569e1",
+      "title": "パヴァリア光明結社",
+      "artist": "藤田淳平",
+      "isrc": "JPKI01716865",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/0T9Wxns2qJ5ld9JLL3dh8G",
+      "isFallback": true
+    },
+    {
+      "id": "7f5d580c-9827-4d34-83d8-ed539ff64ae2",
+      "title": "夢みるSunflower",
+      "artist": "Poppin'Party",
+      "isrc": "JPR561700116",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/22gNpFMGtvph36givDKCHy",
+      "isFallback": true
+    },
+    {
+      "id": "ff20bad3-f42d-445e-b7c8-b0b89cdc3d01",
+      "title": "ナツメグ~Precious last summer~",
+      "artist": "YURIA",
+      "isrc": "JPI100702342",
+      "releaseDate": "2007-02-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d903a4a2-ebe8-4aeb-92b6-34f205fcb23f",
+      "title": "天国ト地獄ノ譚詩曲",
+      "artist": "飛蘭",
+      "isrc": "",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "68638a1a-1968-4d31-bfea-ecfd470dd3ca",
+      "title": "革命パッショネイト",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201800644",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

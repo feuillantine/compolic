@@ -1,0 +1,411 @@
+{
+  "name": "PandaBoY",
+  "sortName": "パンダボーイ",
+  "tracks": [
+    {
+      "id": "b1c47bce-0186-4f2a-977c-324645d505f1",
+      "title": "Kira・pata・shining",
+      "artist": "すなお",
+      "isrc": "JPI101400101",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2FnIKQYAVX0xtcoZgvMxd3",
+      "isFallback": true
+    },
+    {
+      "id": "74449be5-ff12-4193-8201-754db6ac9e44",
+      "title": "Born to be “BAU\"DOL☆★",
+      "artist": "FUWAMOCO",
+      "isrc": "JPV752408982",
+      "releaseDate": "2024-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/4ZQzHdsOllH3RYR6U7jFZl",
+      "isFallback": false
+    },
+    {
+      "id": "5f059550-c1be-462e-bf78-032f711c5bce",
+      "title": "予感のぴんぽん聞こえたら",
+      "artist": "Petit Rabbit’s",
+      "isrc": "",
+      "releaseDate": "2021-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c14709f1-c880-49b9-9487-1a451df3d09c",
+      "title": "BLUE CLAPPER",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752003751",
+      "releaseDate": "2020-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/1EONfP99BgdGCImzYVIoL0",
+      "isFallback": true
+    },
+    {
+      "id": "47787058-6350-4e4d-9069-8be56ed443c8",
+      "title": "PINK♡BABY♡KISS♡",
+      "artist": "三森すずこ",
+      "isrc": "JPPC02311268",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/4EBF81ITAcbjC81fGYvy8I",
+      "isFallback": false
+    },
+    {
+      "id": "dd6c49da-7aaf-448f-b9fa-4e2325f4ac35",
+      "title": "シュガーレス・キッス",
+      "artist": "三森すずこ",
+      "isrc": "JPPC02100711",
+      "releaseDate": "2021-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/4aWxivMQoUJjxt2XSU3ufv",
+      "isFallback": true
+    },
+    {
+      "id": "cd68c325-cd07-4768-a974-4cd34dd7ec20",
+      "title": "ぎぶみーAwesome!!!!",
+      "artist": "Happy Around!",
+      "isrc": "JPR562300531",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/5PNoo7zw8deuztrwXZJRpI",
+      "isFallback": true
+    },
+    {
+      "id": "b25e41d6-dcd9-4c59-b424-bfe649744eaa",
+      "title": "バチャリアラブ",
+      "artist": "ときのそら",
+      "isrc": "JPVI02502255",
+      "releaseDate": "2025-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/14pU5eHKWTlQ3zfCdsWHRn",
+      "isFallback": false
+    },
+    {
+      "id": "e4dd24b0-9cbc-4535-ab09-758781fcadf3",
+      "title": "マーブルヒーロー",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601200374",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/1WGmFEdmIGybcSFNsgvBc9",
+      "isFallback": true
+    },
+    {
+      "id": "09389d14-0ca0-4bb8-af6e-eda939376807",
+      "title": "Honey Drop",
+      "artist": "harmoe",
+      "isrc": "JPPC02312739",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/0HGQ4gRZhShLKk9xZN1W59",
+      "isFallback": false
+    },
+    {
+      "id": "2f18c1cc-d013-4698-86ea-ea22a956099e",
+      "title": "Colorful Girl",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01702001",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/5FKF8tirxprwxFCAwrZR0l",
+      "isFallback": true
+    },
+    {
+      "id": "8d691768-5aec-413a-8b69-50037cd52c0e",
+      "title": "ハッピーポー",
+      "artist": "Hop Step Sing!",
+      "isrc": "JPW672000084",
+      "releaseDate": "2021-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/3tOAvyX4P0k0clPVVL52O9",
+      "isFallback": false
+    },
+    {
+      "id": "c19c9c09-c14a-4d93-9ef5-56046626a322",
+      "title": "CANDY COLOR DAYS",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01653100",
+      "releaseDate": "2016-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/7CL24v1ssxDzVidmGWaxua",
+      "isFallback": true
+    },
+    {
+      "id": "024781f2-cf3d-4174-bc14-2fc84d41ccf4",
+      "title": "SAMURIDER",
+      "artist": "シクラメン",
+      "isrc": "JPTF01420502",
+      "releaseDate": "2015-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/1vpA9rbLTfRvrud0Fsckq3",
+      "isFallback": true
+    },
+    {
+      "id": "15d4716b-b679-4e9b-97ef-cdd499cedea6",
+      "title": "ミステリーハート",
+      "artist": "宮本フレデリカ",
+      "isrc": "JPCO02400750",
+      "releaseDate": "2024-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/15Pp8E0Qg9hNS8B04eFgq7",
+      "isFallback": true
+    },
+    {
+      "id": "a7d940ed-9e31-4c46-8882-0ad888c9d5cc",
+      "title": "Steppin' Girl",
+      "artist": "AiRBLUE Wind",
+      "isrc": "JPPC01901330",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/3bg0WH01WBED1Mzv7hTCxJ",
+      "isFallback": true
+    },
+    {
+      "id": "f4b25dc9-0760-4670-a0d0-b6eed58ac47c",
+      "title": "ドキドキトキドキトキメキス♡",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01601558",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1gQIXZJTFymgqtUKWDaXXZ",
+      "isFallback": true
+    },
+    {
+      "id": "96259a8b-3082-493b-95ce-e883efa2fd8f",
+      "title": "We are GAMERS !!!!",
+      "artist": "ホロライブゲーマーズ",
+      "isrc": "JPV752408630",
+      "releaseDate": "2024-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/3IgD5OrP3MykwMgASZ0wHN",
+      "isFallback": true
+    },
+    {
+      "id": "c93e72e4-87a1-4b94-85cf-fd041a4aa4bf",
+      "title": "にじいろフィロソフィー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPR841300063",
+      "releaseDate": "2014-12-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "600d5569-b053-4de0-a4b7-cba80b7ece0a",
+      "title": "おにけもだんす",
+      "artist": "いろはにほへっと あやふぶみ",
+      "isrc": "JPV752205411",
+      "releaseDate": "2022-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2Jl8QDonwxjmKHvoBePD05",
+      "isFallback": true
+    },
+    {
+      "id": "8526d047-1ad5-424d-8e70-a4c8561ec4d3",
+      "title": "ジャンパー!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400080",
+      "releaseDate": "2014-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/7xlcBrVERIyeZ9rS9iH1qk",
+      "isFallback": true
+    },
+    {
+      "id": "b8b31c94-3d36-4c9c-bc50-22b473faad92",
+      "title": "ワイズマンの休日",
+      "artist": "ワイズマン",
+      "isrc": "JPPI01850790",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7HXEWqgy7ZsNUF4T6F0Lsf",
+      "isFallback": true
+    },
+    {
+      "id": "7275c51f-c110-429e-9b20-9d34788f6669",
+      "title": "夢みがちBride",
+      "artist": "我那覇響",
+      "isrc": "JPI102301250",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/5KEmiCMSUe4GLkGJS9MSSQ",
+      "isFallback": false
+    },
+    {
+      "id": "6c544485-7f32-4473-89d7-52ce26caca46",
+      "title": "FANCY SWEET TIME",
+      "artist": "千マメ隊",
+      "isrc": "JPPI01752560",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/0huH7pssEKmEc8xz1aYEow",
+      "isFallback": true
+    },
+    {
+      "id": "16c4c66c-4891-4a3b-9c59-b968837d8826",
+      "title": "Eを探す日常",
+      "artist": "リゼ",
+      "isrc": "JPPI01451780",
+      "releaseDate": "2014-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/33jK6MziVQ0VLZcRwC3VqH",
+      "isFallback": true
+    },
+    {
+      "id": "d5f6400e-a7c7-45e0-8fcc-f3a8803f40bd",
+      "title": "チョッパー☆チョッパー",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601200485",
+      "releaseDate": "2012-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/080c6DF2X9W6W32oXw3eeX",
+      "isFallback": true
+    },
+    {
+      "id": "f9084d63-b35f-4cdf-b15b-e2d2c346e8b7",
+      "title": "SAKURA DRIVE",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601300073",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/3wLpfyMl3Se3Th58hOh9rJ",
+      "isFallback": true
+    },
+    {
+      "id": "89a28a22-61ec-4360-b688-d745c9e985b9",
+      "title": "ぷちょへんざ☆ゆにばーす",
+      "artist": "マヤ",
+      "isrc": "JPPI01852910",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8853e4b-4861-4581-ae47-36a2e866f5e2",
+      "title": "奇跡≒スターチューン",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "TCJPI1985914",
+      "releaseDate": "2019-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1d8tNvvn9rSeJx6VMQ1T8O",
+      "isFallback": true
+    },
+    {
+      "id": "41362eb7-ee6d-4df8-a984-ff9a678883fb",
+      "title": "Warp to You",
+      "artist": "Liyuu",
+      "isrc": "JPI102302829",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/1K99NgVTfHhGpeXvFUB02P",
+      "isFallback": true
+    },
+    {
+      "id": "07afde93-8bf3-49f4-b898-ffa2716b8655",
+      "title": "P and A",
+      "artist": "藤咲彩音",
+      "isrc": "JPTF01400501",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b9560841-710e-46eb-b56d-aaa1c4672282",
+      "title": "お菓子な夢をおひとつどうぞ♪",
+      "artist": "チノ",
+      "isrc": "JPPI01651540",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/34V4rVCVuUKvpYx8ZmTJqO",
+      "isFallback": true
+    },
+    {
+      "id": "945ff369-a426-4795-aecd-048baa7c111c",
+      "title": "Happy Music♪",
+      "artist": "Happy Around!",
+      "isrc": "JPR561900335",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/7LbT82YvPzHbUXEBis3VMC",
+      "isFallback": true
+    },
+    {
+      "id": "56ef8e33-0026-4b9f-864b-1d3f90af271a",
+      "title": "無敵のMidnight crew",
+      "artist": "リゼ",
+      "isrc": "JPPI01852560",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/258vPoAx0w9z7vnKJOUzMY",
+      "isFallback": true
+    },
+    {
+      "id": "567ffae4-513b-46b1-8dfd-cfcfa784353e",
+      "title": "セブン☆ピース",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601600063",
+      "releaseDate": "2016-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/7wojpLXlz7IEqt4jkqGN5q",
+      "isFallback": true
+    },
+    {
+      "id": "e02c38c8-a82e-4bea-9c8f-20255375ab0b",
+      "title": "コズミックメロンソーダマジックラブ",
+      "artist": "夢眠ねむ",
+      "isrc": "JPTF01218501",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/0TfBFJioQqODwR21ic9nkB",
+      "isFallback": true
+    },
+    {
+      "id": "d172ce9c-9b60-4ffc-a804-21f65cb87064",
+      "title": "ぷっちみくパーチナィ!",
+      "artist": "D4DJ ALL STARS",
+      "isrc": "JPR562100236",
+      "releaseDate": "2021-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1FmcFG9NjpPimahnxffr02",
+      "isFallback": true
+    },
+    {
+      "id": "5fba6e21-8446-4811-919d-62d42d687e7d",
+      "title": "虹色モザイク",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601300348",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/3LnwA2RWG2K1PbYXtiyGLX",
+      "isFallback": true
+    },
+    {
+      "id": "deecb51f-03fd-4d63-bbc1-2437d847b95a",
+      "title": "新作のしあわせはこちら!",
+      "artist": "チノ",
+      "isrc": "JPPI01553660",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/3dgZ2u7pQmiVSy4jVaRSTC",
+      "isFallback": true
+    },
+    {
+      "id": "205d44e4-2bdc-4544-8283-63f2b6ec8d4f",
+      "title": "デンジャラス♡ポリシー",
+      "artist": "RO-KYU-BU!",
+      "isrc": "",
+      "releaseDate": "2013-09-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "42de8c2e-4453-4cd0-963b-41a73828f71e",
+      "title": "Secret Star",
+      "artist": "ユイ",
+      "isrc": "JPCO02219870",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/7bWpcMUaASXGpDN9F2Lr5z",
+      "isFallback": false
+    },
+    {
+      "id": "a385ccee-16e8-4ae8-98f8-50eb3cff2951",
+      "title": "うららか日和の四重奏",
+      "artist": "らびりんず",
+      "isrc": "JPPI01750120",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2gw1RyYDz3tpp4WIFZ616u",
+      "isFallback": true
+    },
+    {
+      "id": "4477c492-39c7-41ae-a7cc-1b78c395287f",
+      "title": "PINKY☆STAR",
+      "artist": "ニァピン",
+      "isrc": "JPU901701320",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/44AFr0z4F0vzoRaQbGO5ZP",
+      "isFallback": true
+    },
+    {
+      "id": "6996e14d-0eb8-40c9-8291-6cab1051ed8f",
+      "title": "アッパーカット!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601300032",
+      "releaseDate": "2012-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/3jWb6SKJa1lZkVaygyYgR6",
+      "isFallback": true
+    },
+    {
+      "id": "5e293fea-10df-4e79-b57f-80c060020c03",
+      "title": "ダンシング・デッド (M@STER VERSION)",
+      "artist": "及川雫",
+      "isrc": "JPCO02229740",
+      "releaseDate": "2022-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/1s0cTyGvxrVlxYY1PHziaA",
+      "isFallback": true
+    }
+  ]
+}

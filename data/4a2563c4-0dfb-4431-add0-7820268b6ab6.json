@@ -1,0 +1,321 @@
+{
+  "name": "Kijibato",
+  "sortName": "キジバト",
+  "tracks": [
+    {
+      "id": "2e4074ab-3bf6-4def-81eb-d8d308dc1b08",
+      "title": "ピーマン体操",
+      "artist": "有馬かな",
+      "isrc": "JPD732300607",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/1l1vWK6quArlImdGz5ROF1",
+      "isFallback": false
+    },
+    {
+      "id": "a6fbfa05-9dea-4a5f-8ee9-06970b4552bd",
+      "title": "そらを超えて",
+      "artist": "ときのそら",
+      "isrc": "JPVI02201009",
+      "releaseDate": "2022-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/7LQOiWLaZbRdsD4fDvsEED",
+      "isFallback": true
+    },
+    {
+      "id": "94c91b20-58b2-40a9-94f7-a9d69e618e98",
+      "title": "Conversation Logic",
+      "artist": "キジバト",
+      "isrc": "TCJPV2384304",
+      "releaseDate": "2023-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/2wyKmXhmoc1mJqvd9ArI7K",
+      "isFallback": true
+    },
+    {
+      "id": "d049a1a4-9c59-4ead-9a14-b25709332bb0",
+      "title": "惜別",
+      "artist": "叶",
+      "isrc": "JPI102202729",
+      "releaseDate": "2022-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6uXVwQwwIjD66dIUGUxbgg",
+      "isFallback": true
+    },
+    {
+      "id": "08299bc3-3e55-4151-a163-9e061a7a6f49",
+      "title": "ナイトキューブパラドクス",
+      "artist": "ときのそら",
+      "isrc": "JPVI02400181",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/6mF6mhd1rVTKerBXxDP89U",
+      "isFallback": false
+    },
+    {
+      "id": "a3643575-fb86-40e3-85bc-763626256b3e",
+      "title": "りしゅぱに♡ふろんてぃあ",
+      "artist": "Lily♡Syu",
+      "isrc": "TCJPZ2483392",
+      "releaseDate": "2024-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Y7mnQL1sdiICoofwd6yfv",
+      "isFallback": true
+    },
+    {
+      "id": "14756264-86e1-4bfc-bf9d-7d4bce86ed27",
+      "title": "アイドル的なことをしたい！",
+      "artist": "USAGI Production",
+      "isrc": "TCJPY2343798",
+      "releaseDate": "2023-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/3t6HF7RAKPSOXcgKUnUMMB",
+      "isFallback": true
+    },
+    {
+      "id": "73cce530-9eed-4997-b850-ca57996de25d",
+      "title": "Try it now",
+      "artist": "初星学園",
+      "isrc": "JPX832004901",
+      "releaseDate": "2025-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/2HQyz7s5TZmhXIyvljce0b",
+      "isFallback": true
+    },
+    {
+      "id": "826606f0-f2a9-4cad-a3a6-e2f655d63dc7",
+      "title": "パケットロス",
+      "artist": "ちょこ",
+      "isrc": "TCJPC2417362",
+      "releaseDate": "2024-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/14z4TUkVy46KdIzogvJlat",
+      "isFallback": true
+    },
+    {
+      "id": "90e94148-1cd8-4eb9-b885-85049c0854fa",
+      "title": "以心☆電信",
+      "artist": "みらくらぱーく!",
+      "isrc": "JPI102400584",
+      "releaseDate": "2024-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/6Rhb8uh8v5tbn6ScXbhWNp",
+      "isFallback": true
+    },
+    {
+      "id": "519bca54-47f1-4c58-813c-fb3815ffe8c9",
+      "title": "でんにゃん",
+      "artist": "LilyMone",
+      "isrc": "TCJPV2302318",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3qbUkHv5ZGoCH71fU3bzhO",
+      "isFallback": true
+    },
+    {
+      "id": "dea48539-18ef-4fb8-be4c-5321698eb6ac",
+      "title": "再発見!アキバ探訪☆",
+      "artist": "電音部",
+      "isrc": "JPR502301198",
+      "releaseDate": "2023-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/6WFOry0dsqj1mK522aZ8vv",
+      "isFallback": true
+    },
+    {
+      "id": "dbcd05de-15c3-4361-aef7-c17e610495d2",
+      "title": "Pureness×Careless",
+      "artist": "アネット",
+      "isrc": "JPD732301250",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/1AziL4Yf8DCKshQGP79oGW",
+      "isFallback": false
+    },
+    {
+      "id": "488c4ed2-78af-445b-94f0-904a066611d5",
+      "title": "MY GLORY WANTED!!!",
+      "artist": "R.B.P.",
+      "isrc": "JPD732500308",
+      "releaseDate": "2025-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/24GTeOTQ8rmwdnsGZXyzCH",
+      "isFallback": true
+    },
+    {
+      "id": "c0edd61f-8d2b-4358-b48f-54db9e0bb626",
+      "title": "パッチワーク・エトセトラ！",
+      "artist": "大室撫子",
+      "isrc": "JPI102401645",
+      "releaseDate": "2024-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/2ZMMqQC4DQX7KdLKpjqZuM",
+      "isFallback": true
+    },
+    {
+      "id": "24ec7ba1-d0f0-4ab8-881b-3f8e3dfc7310",
+      "title": "Fool on the secret",
+      "artist": "エルナ",
+      "isrc": "JPD732300001",
+      "releaseDate": "2023-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/4CiNwmMX1sxlB67Nk1mDwd",
+      "isFallback": false
+    },
+    {
+      "id": "3432b85d-a150-4baf-bc71-010ceefcce14",
+      "title": "EGO",
+      "artist": "初星学園",
+      "isrc": "JPX832005859",
+      "releaseDate": "2025-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/7lOM4KiKnpbGOp4gMcPbAT",
+      "isFallback": true
+    },
+    {
+      "id": "9dc178ab-a922-4ad2-abbc-769f16fef1a8",
+      "title": "ウェルカム・トゥ・レインボーワンダーランド!",
+      "artist": "東山奈央",
+      "isrc": "JPVI02202580",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d",
+      "isFallback": true
+    },
+    {
+      "id": "bf413e41-61da-4bfa-94dc-c5e01f8c2a8e",
+      "title": "ファンファーレ!!!",
+      "artist": "みらくらぱーく!",
+      "isrc": "JPI102402192",
+      "releaseDate": "2024-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/09IoeMbEmvqMV2HkFrv4aX",
+      "isFallback": true
+    },
+    {
+      "id": "5ea08345-a638-41e9-96f3-67a1f33f840f",
+      "title": "Tricky Treat!!!",
+      "artist": "逢坂茜",
+      "isrc": "JPD732400925",
+      "releaseDate": "2024-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/1waoufKZIbT073SfbuH2eb",
+      "isFallback": true
+    },
+    {
+      "id": "a0cf791d-a4fc-4e48-a0ac-f9ada5a530ec",
+      "title": "Tragedy-Wall",
+      "artist": "ちょこ",
+      "isrc": "TCJPA2471191",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3h7aeHP4CajND3vI479mPA",
+      "isFallback": true
+    },
+    {
+      "id": "e6151cf6-2d22-4e74-bf85-c71803bd0e2a",
+      "title": "社会不適合者☆",
+      "artist": "LilyMone",
+      "isrc": "TCJPV2302310",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/4BjhRwKv4i31kVyLvXHreu",
+      "isFallback": true
+    },
+    {
+      "id": "f698996d-707d-4b4b-b7b4-4130ab2d147f",
+      "title": "へるぷ!",
+      "artist": "キジバト",
+      "isrc": "TCJPV2384303",
+      "releaseDate": "2023-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/48CSyn7jKElJkpsxpSqjfR",
+      "isFallback": true
+    },
+    {
+      "id": "e19a9dfc-310f-4151-9922-754b7e285f8c",
+      "title": "寝台列車に乗りた〜〜い！！",
+      "artist": "Kijibato",
+      "isrc": "TCJPU2210647",
+      "releaseDate": "2022-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/0LUoK8RB41tvRccnEnGVQ4",
+      "isFallback": false
+    },
+    {
+      "id": "07d3a1ab-ec81-42a0-86ee-1c0d9a1b6bda",
+      "title": "進め！アイドル道！",
+      "artist": "柚子花",
+      "isrc": "TCJPV2361267",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0irnLt9vUKN9MDR8IVnS4h",
+      "isFallback": true
+    },
+    {
+      "id": "b8ff2040-0e45-4888-8589-1c2177b48052",
+      "title": "Excellent Condition",
+      "artist": "イクノディクタス",
+      "isrc": "JPZ252300132",
+      "releaseDate": "2023-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/216Mn18XhaD6QDduWcWOsF",
+      "isFallback": false
+    },
+    {
+      "id": "328b0e75-5814-4931-bd61-5d0bc1139113",
+      "title": "Winter Magic Opening Track",
+      "artist": "電音部",
+      "isrc": "JPR502204713",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/2M80dJlfzzVQUr2yX049vW",
+      "isFallback": true
+    },
+    {
+      "id": "9b7f0564-b541-4a55-93cc-d510d2755846",
+      "title": "ニャオシグニャル",
+      "artist": "みらくらぱーく!",
+      "isrc": "",
+      "releaseDate": "2025-10-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3cbdd541-f3bd-4fcb-bd78-6f83d78e7c13",
+      "title": "Take your hand",
+      "artist": "アニスフィア・ウィン・パレッティア",
+      "isrc": "JPD732200481",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/2H4NB26rOEnyeJjORLWxxQ",
+      "isFallback": true
+    },
+    {
+      "id": "55a054c6-fe47-4fc3-9357-656bd281f815",
+      "title": "USO式エクササイズ",
+      "artist": "LilyMone",
+      "isrc": "TCJPV2302316",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7gcFPcYvFlCuFdLwBec8BA",
+      "isFallback": true
+    },
+    {
+      "id": "07365994-e4b9-48bf-8505-e77941a4ac64",
+      "title": "魔法少女引退宣言（仮）",
+      "artist": "Kijibato",
+      "isrc": "TCJPN2197856",
+      "releaseDate": "2021-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/16QwUs7tYohwPpHZkYgFe8",
+      "isFallback": false
+    },
+    {
+      "id": "c4cda49d-2a90-4792-9091-da81fbf592da",
+      "title": "抱きまくら☆抱きまくり",
+      "artist": "あおぎり高校",
+      "isrc": "TCJPX2390893",
+      "releaseDate": "2023-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/6wSy5OiqDTFvGtqxIAmvES",
+      "isFallback": true
+    },
+    {
+      "id": "d6718d4d-86ac-49b3-b633-896d177d865d",
+      "title": "ずっとアトラクト",
+      "artist": "Kijibato",
+      "isrc": "TCJPY2359416",
+      "releaseDate": "2023-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/58zwMZ1qXkuvAheACInmyp",
+      "isFallback": false
+    },
+    {
+      "id": "4d997446-752b-4bc5-9666-4f38bb3b7513",
+      "title": "完全無欠 (?) 委員長!",
+      "artist": "LilyMone",
+      "isrc": "TCJPV2302315",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/5VBXYo63TREbmRZsrYIbo6",
+      "isFallback": true
+    },
+    {
+      "id": "acdbc9ac-7bef-4538-aa87-d0512ce66309",
+      "title": "ますか♡ほりっく",
+      "artist": "バーチャルメイド喫茶『ますかれーど』",
+      "isrc": "TCJPR2238612",
+      "releaseDate": "2022-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/234BadtJsKm4olPxx5TZin",
+      "isFallback": true
+    }
+  ]
+}

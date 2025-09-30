@@ -1,0 +1,33 @@
+{
+  "name": "フレネシ",
+  "sortName": "フレネシ",
+  "tracks": [
+    {
+      "id": "afdc2034-6b1c-4f3f-9c2a-03258eafe3a2",
+      "title": "おやすみルナモス",
+      "artist": "ねうちゃん",
+      "isrc": "TCJPZ2469685",
+      "releaseDate": "2017-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/76HdEEAISl1B0BUrcjKNkI",
+      "isFallback": true
+    },
+    {
+      "id": "9482d81a-04eb-4fb8-9edc-5ae6b9f72b9b",
+      "title": "アナクロ少女",
+      "artist": "SOLEIL",
+      "isrc": "JPVI01901878",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/2ETTn6UZ6Ix4dPRdk8xjxa",
+      "isFallback": true
+    },
+    {
+      "id": "da923cd8-7460-4b15-98b9-8fd98d90d4aa",
+      "title": "転校生は飛び級生",
+      "artist": "ねうちゃん",
+      "isrc": "TCJPZ2469686",
+      "releaseDate": "2017-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/1d36aeSubboBBpspeZHjVv",
+      "isFallback": true
+    }
+  ]
+}

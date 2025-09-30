@@ -1,0 +1,177 @@
+{
+  "name": "星銀乃丈",
+  "sortName": "ホシギンノジョウ",
+  "tracks": [
+    {
+      "id": "c9b860c3-660f-4143-bae2-c953bf4d3ef4",
+      "title": "Red-Stella",
+      "artist": "太陽と踊れ",
+      "isrc": "JPPC02311192",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/5AGyBYpn64kz71itQMfW6K",
+      "isFallback": false
+    },
+    {
+      "id": "26ddec3f-1236-4700-918a-5168534bf670",
+      "title": "Every Day, Every Night",
+      "artist": "大隅空乃",
+      "isrc": "TCJPW2311867",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3IORRsrLH8lXmlwuQLrJQz",
+      "isFallback": false
+    },
+    {
+      "id": "69a18d00-1048-4725-90e6-2e259da925c1",
+      "title": "Cosmic CoaSTAR",
+      "artist": "Happy Around!",
+      "isrc": "JPR561900279",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/3OjXFazBsc20p4tPNJKnjR",
+      "isFallback": true
+    },
+    {
+      "id": "0754abe8-dee8-48d4-8ec8-a4b59d80e90b",
+      "title": "LIKE YOU o(>< = ><)o LOVE YOU?",
+      "artist": "紫雲寺家の子供たち",
+      "isrc": "JPI102500635",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1bGfMSLJBVVmkGVUWUCCrL",
+      "isFallback": false
+    },
+    {
+      "id": "87b1257c-d324-4131-8d43-7f1225caac42",
+      "title": "イシュカン♥リレーションシップ",
+      "artist": "トール",
+      "isrc": "JPI102102367",
+      "releaseDate": "2021-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1XHo2uxKcku5LTsbLF99yc",
+      "isFallback": true
+    },
+    {
+      "id": "2d313135-2ae8-48c1-a50d-7fcb31baa06d",
+      "title": "愛My距離感",
+      "artist": "叶",
+      "isrc": "JPI102403651",
+      "releaseDate": "2025-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/0EXksndrLA4u6E4rew3KgN",
+      "isFallback": true
+    },
+    {
+      "id": "4d381de8-fa0d-4cd8-b8d9-f4bba08f4c44",
+      "title": "モアドキッ",
+      "artist": "Happy Around!",
+      "isrc": "JPR562300571",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/71ZVv5vBwumc3TmLxwWRiI",
+      "isFallback": false
+    },
+    {
+      "id": "b16dab43-03fc-413b-be1c-124a6c7546fc",
+      "title": "朱色のプロムナード",
+      "artist": "イルル",
+      "isrc": "JPI102102372",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/3vd4D9VTKsRsnMyYouf3Ip",
+      "isFallback": true
+    },
+    {
+      "id": "cc6d2dca-f1e5-444b-8ab6-147cd09124a9",
+      "title": "LEADER!!",
+      "artist": "765PRO ALLSTARS",
+      "isrc": "JPI101900889",
+      "releaseDate": "2019-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/2dFMkZPku9YBkvPMNK5TiQ",
+      "isFallback": false
+    },
+    {
+      "id": "b4f4c154-a1f5-4596-9691-9161ce6eb028",
+      "title": "アンダーカレント",
+      "artist": "mono palette.",
+      "isrc": "JPCO01830230",
+      "releaseDate": "2018-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/3v4JpdABVIAgnSoQit9PgG",
+      "isFallback": true
+    },
+    {
+      "id": "b0d45022-1474-45fc-92c9-8b57bc5c48ed",
+      "title": "purple and cycle",
+      "artist": "Liyuu",
+      "isrc": "JPI102302834",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/1BbgDNZsMx1GqwWm4V6deQ",
+      "isFallback": true
+    },
+    {
+      "id": "15382b57-34e9-495b-987f-0c342d5b8447",
+      "title": "Hey, lad !",
+      "artist": "ルコア",
+      "isrc": "JPI102102371",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/21GB2EaPirdnc0x51BTJ2O",
+      "isFallback": true
+    },
+    {
+      "id": "fe2f764e-aaab-4f8b-a54a-88322e89056f",
+      "title": "Cream Dream Parfait",
+      "artist": "花奏すず",
+      "isrc": "JPE302300886",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/0fbF47LPJCHABWmBUj4mnC",
+      "isFallback": true
+    },
+    {
+      "id": "9939a79a-d5d5-4529-94bb-1b19672f85e4",
+      "title": "Huckleberry",
+      "artist": "tiny baby",
+      "isrc": "TCJPX2388603",
+      "releaseDate": "2023-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/5JFyI7YcQ5kZO5PQBS5aDK",
+      "isFallback": false
+    },
+    {
+      "id": "b7fe0072-1b52-4e33-9c23-fca83153afd8",
+      "title": "離れないで",
+      "artist": "斉藤朱夏",
+      "isrc": "JPU902401231",
+      "releaseDate": "2024-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec",
+      "isFallback": true
+    },
+    {
+      "id": "1ac6bb68-2920-4391-a7ec-65437bf806d3",
+      "title": "Always be here for you",
+      "artist": "叶",
+      "isrc": "JPI102203287",
+      "releaseDate": "2023-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/1waHrRmohp3kcmTj36l5Qb",
+      "isFallback": true
+    },
+    {
+      "id": "b4b0e2f8-e4df-4c4e-bc72-2a7a31299fca",
+      "title": "めいど・うぃず・どらごんず♥",
+      "artist": "スーパーちょろゴンず",
+      "isrc": "JPI102101584",
+      "releaseDate": "2021-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/7KLul0zkaFfnC72TCsGgmd",
+      "isFallback": true
+    },
+    {
+      "id": "40a78383-d2f4-4d58-a9d9-6994e95c01aa",
+      "title": "I love your love, my love",
+      "artist": "トール",
+      "isrc": "JPI102102376",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/5DcQPWkgcixyo0Ae424t2p",
+      "isFallback": true
+    },
+    {
+      "id": "70b43508-24a3-48b7-90a4-db452b7cec2f",
+      "title": "たびのとちゅ",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02412120",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1GnnEFNlMC2HiuCEyAhJE1",
+      "isFallback": true
+    }
+  ]
+}

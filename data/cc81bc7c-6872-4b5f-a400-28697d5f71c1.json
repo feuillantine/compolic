@@ -1,0 +1,222 @@
+{
+  "name": "江並哲志",
+  "sortName": "エナミテツシ",
+  "tracks": [
+    {
+      "id": "da4ee6e5-03fc-4987-80a0-dcdc26e7a0e4",
+      "title": "やさしいひと",
+      "artist": "文坂なの",
+      "isrc": "JPS802352984",
+      "releaseDate": "2023-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2uvjKUuepwx6oHcEd53Pl1",
+      "isFallback": false
+    },
+    {
+      "id": "be46a977-3ba1-492f-8315-840c78fb8078",
+      "title": "絶対love×love宣言!!",
+      "artist": "ザ・チルドレン",
+      "isrc": "JPPI00855650",
+      "releaseDate": "2008-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/6uVXSlpxChMIjp8N76Lblw",
+      "isFallback": true
+    },
+    {
+      "id": "20b4ea79-323f-47d1-a0e0-c41a071238cc",
+      "title": "ゴクラク・ワールド",
+      "artist": "オオフウチョウ",
+      "isrc": "JPVI02002397",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/68bKIJVsxkBKvPYsNBPf3S",
+      "isFallback": false
+    },
+    {
+      "id": "e4204d9c-a965-4551-88b8-89e60ad2db91",
+      "title": "Friendship Birthday〜あらしのよるに〜 English ver.",
+      "artist": "Sea☆A",
+      "isrc": "JPI101200631",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "892f3668-c9f5-44db-93c0-c4d7773ef7f4",
+      "title": "Wonderfulな世界",
+      "artist": "エリス",
+      "isrc": "JPI101001091",
+      "releaseDate": "2010-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "becaa9bb-5d4c-418d-ab3a-340e1bfbcfd8",
+      "title": "Non stop road",
+      "artist": "スフィア",
+      "isrc": "JPI101200499",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2SofsPairW0DeRyPmV3v63",
+      "isFallback": true
+    },
+    {
+      "id": "7a1c72df-ea90-43de-94c9-54c8d686dc53",
+      "title": "にこぷり♡女子道",
+      "artist": "矢澤にこ",
+      "isrc": "JPI101301505",
+      "releaseDate": "2013-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/1J9oSzJ4VenJNc5bYaIAj4",
+      "isFallback": true
+    },
+    {
+      "id": "b0a15363-4fc3-4ce2-9daf-34c2d7dabb1d",
+      "title": "ボウリング願望",
+      "artist": "SKE48",
+      "isrc": "JPB601207214",
+      "releaseDate": "2012-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/7voNowuXIG5TYd7Nd72vZZ",
+      "isFallback": true
+    },
+    {
+      "id": "cfcba160-9552-4d0f-be20-267f1fef83bf",
+      "title": "God only knows -Secrets of the Goddess-",
+      "artist": "Oratorio The World God Only Knows",
+      "isrc": "JPPI01353230",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/5bosEYtm3S3ffaWBU72mAx",
+      "isFallback": true
+    },
+    {
+      "id": "b40ca2d4-2388-4d18-a3a5-4d5ff77ebca0",
+      "title": "トキメキの星屑",
+      "artist": "三宮紫穂",
+      "isrc": "JPPI00952110",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/7vjDseEqzVNFo2Dy25zao4",
+      "isFallback": true
+    },
+    {
+      "id": "e472813f-4ca8-4253-a7c9-54c6bf266436",
+      "title": "和風堂々！〜WAnderful NIPPON!〜",
+      "artist": "彩",
+      "isrc": "JPI101502527",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/55bPC6T4Leq5MDMgjDGlN3",
+      "isFallback": false
+    },
+    {
+      "id": "f1c2abc3-b490-4089-9cc8-67fffe8ada96",
+      "title": "アリガト。だけじゃない",
+      "artist": "シャルロット・デュノア",
+      "isrc": "JPI101200321",
+      "releaseDate": "2012-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3151d7c6-b6d7-4dbf-9061-64aacfea4017",
+      "title": "慈しみカンパニュラ",
+      "artist": "小倉唯",
+      "isrc": "JPKI02210244",
+      "releaseDate": "2022-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/10uPKi693Kx1e4gIXnl0tb",
+      "isFallback": true
+    },
+    {
+      "id": "61c8e2d5-7772-4103-8aad-23315c9ce29c",
+      "title": "Nonstop!! Hunters",
+      "artist": "駆け魂隊",
+      "isrc": "JPPI01152260",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/4KJf8Fmxis7vjOdKXHOV9p",
+      "isFallback": true
+    },
+    {
+      "id": "3c0f5638-fb2a-4e2e-a700-4b70e46f7074",
+      "title": "ハッピー☆ラッキー☆ジェットマシーン",
+      "artist": "横山奈緒",
+      "isrc": "JPI101301333",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4NdgJgaPYF2Vzz9upH1XzV",
+      "isFallback": false
+    },
+    {
+      "id": "e09dc34f-715d-4037-a1f8-c33181bf5d47",
+      "title": "たいむいずらぶ!",
+      "artist": "凰鈴音",
+      "isrc": "JPI101200320",
+      "releaseDate": "2012-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e71377a3-7f09-4f4f-a8a4-1ee318da2c20",
+      "title": "御石様のキセキ",
+      "artist": "虹音",
+      "isrc": "JPI101201222",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/0nrfPK7Da85isswVTNn9yZ",
+      "isFallback": true
+    },
+    {
+      "id": "9d713025-b346-4837-a4ee-7ead67938e6b",
+      "title": "だってだって噫無情",
+      "artist": "μ’s",
+      "isrc": "JPI101400782",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/1o7AxFAP1YsAimDfXfMCI8",
+      "isFallback": true
+    },
+    {
+      "id": "3cc5db78-f557-4f86-8caf-5d7c090612ce",
+      "title": "À La Carte FREEDOM♪",
+      "artist": "Café Parade",
+      "isrc": "JPI101600461",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/0BuEquD7ftojKONu8kHGjv",
+      "isFallback": false
+    },
+    {
+      "id": "10f70ea3-0a10-469f-9d9d-bfebd9498919",
+      "title": "狂想レクイエム",
+      "artist": "ヒソカ",
+      "isrc": "JPVP01201302",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/4jK3rXwtYtVKidRsI86ty1",
+      "isFallback": true
+    },
+    {
+      "id": "3be1f770-727b-475c-ad8a-0a5c2399d6a5",
+      "title": "INNOCENT BIRD",
+      "artist": "AZALEA",
+      "isrc": "JPI101700780",
+      "releaseDate": "2017-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR",
+      "isFallback": true
+    },
+    {
+      "id": "60d89201-8a9c-4cc4-9698-3d844e713790",
+      "title": "センチメンタルレモネード",
+      "artist": "松浦果南",
+      "isrc": "JPI102203133",
+      "releaseDate": "2023-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/1nr3uCYr3nOTjqy6pvXNDB",
+      "isFallback": true
+    },
+    {
+      "id": "d8bb609f-7bff-4eff-a0a5-8fc901830278",
+      "title": "Friendship Birthday〜あらしのよるに〜",
+      "artist": "Sea☆A",
+      "isrc": "JPI101200629",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "594d12e7-f89a-446f-9a5a-4d230791f406",
+      "title": "Wishes Hypocrites",
+      "artist": "織部まふゆ",
+      "isrc": "JPI101000579",
+      "releaseDate": "2010-05-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

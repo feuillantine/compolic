@@ -1,0 +1,222 @@
+{
+  "name": "中塚武",
+  "sortName": "ナカツカタケシ",
+  "tracks": [
+    {
+      "id": "78ea2f3a-2fbf-4783-a544-d4bb6becee00",
+      "title": "Your Voice",
+      "artist": "中塚武",
+      "isrc": "JPVI00648110",
+      "releaseDate": "2006-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/3DBL7Pywkmm0FyLHABopgw",
+      "isFallback": true
+    },
+    {
+      "id": "4c79e1e0-bb4c-4b7d-837e-73faa9625a05",
+      "title": "君のままで (春香ソロ・リミックス)",
+      "artist": "天海春香",
+      "isrc": "",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b1422e6f-b449-4ab4-8ebe-dfcc477db7f6",
+      "title": "素顔のままでいて",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252300190",
+      "releaseDate": "2024-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/4BqZXfjpY8hF9e4vFZWriB",
+      "isFallback": true
+    },
+    {
+      "id": "fecd1a69-1e73-4f23-8e34-cc922fe44dc2",
+      "title": "正六面惑星パンドラ",
+      "artist": "森中花咲",
+      "isrc": "JPPI02100300",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/1dN7dus1RaG8UYs4lQl8Xv",
+      "isFallback": true
+    },
+    {
+      "id": "2bdb0184-57fe-4e65-82bc-3caba9089e26",
+      "title": "初恋ノオト",
+      "artist": "花澤香菜",
+      "isrc": "JPE301201674",
+      "releaseDate": "2012-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/5j3QUqH9nnS56dx8R4VVPw",
+      "isFallback": true
+    },
+    {
+      "id": "71d52d91-96f8-4e4c-a493-5cd0bb41b989",
+      "title": "マジカル・ファンタジー・ツアー",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500285",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/5VOpxtJ2sTamigP6Dbsh45",
+      "isFallback": true
+    },
+    {
+      "id": "2cbde817-026f-4980-8ad5-e56f76618993",
+      "title": "ナナイロ⇔モノクロ",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01602113",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/7gDkVQuzSZZgkv2t3rgQHj",
+      "isFallback": true
+    },
+    {
+      "id": "21f5e24f-edec-4cf5-bdce-4601a0f5fa66",
+      "title": "シロツメクサの約束",
+      "artist": "Rhodanthe*",
+      "isrc": "JPVI01524020",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/3elnyPRUgmhpFj76W08AeQ",
+      "isFallback": true
+    },
+    {
+      "id": "4f88980b-dd43-4735-8fbc-84bf46f801ff",
+      "title": "Magic Colors",
+      "artist": "中塚武",
+      "isrc": "JPVI00526780",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2g8vwt3hYqHnRAdmwgybBD",
+      "isFallback": true
+    },
+    {
+      "id": "38f121cb-d979-49a2-8f08-68d1553225bc",
+      "title": "夕凪LOOP",
+      "artist": "坂本真綾",
+      "isrc": "JPVI00532190",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/1vIOWkuEDBQ92VLXsUqO9I",
+      "isFallback": true
+    },
+    {
+      "id": "856f30f1-a730-4b15-8455-6b893e35ec84",
+      "title": "ニッポンは興味深いのです。",
+      "artist": "エトワール",
+      "isrc": "JPPC01602126",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3Ci2ICbcRFI84w3KpsPJUo",
+      "isFallback": false
+    },
+    {
+      "id": "f5e2828e-a34e-4f01-b31c-942e4becbe85",
+      "title": "Thank You for Your Smile",
+      "artist": "Rhodanthe*",
+      "isrc": "JPVI02100931",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/1uY4FNmAUGWl5OykflwSRO",
+      "isFallback": true
+    },
+    {
+      "id": "da727b5f-b5f1-495b-a4d9-dc014a45e2f0",
+      "title": "Dreaming of the Future",
+      "artist": "中塚武",
+      "isrc": "JPPS02300011",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/6jMBy7bJ19bRqh37gu6zb3",
+      "isFallback": false
+    },
+    {
+      "id": "14fcbf3d-3139-46a4-a3f2-076fdf337b27",
+      "title": "パプリカ",
+      "artist": "坂本真綾",
+      "isrc": "JPVI00532130",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/42T4btVVZqeVnra7YT1UFr",
+      "isFallback": true
+    },
+    {
+      "id": "ede1311d-f87f-40da-bceb-3f2486ce230e",
+      "title": "We took each other's hand",
+      "artist": "澤田かおり",
+      "isrc": "JPPI01554460",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c2290cd-2253-4d51-a071-9540fd7006d9",
+      "title": "Shining Star",
+      "artist": "Rhodanthe*",
+      "isrc": "JPVI01630570",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/4tRluQ3OVRGDE9CMTALg3t",
+      "isFallback": true
+    },
+    {
+      "id": "5aeb69db-1db7-4a44-a552-93455df2bf0d",
+      "title": "無邪気なキミと真夏のメロディ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400027",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6DgxRFymxpTxdpbZL4TD04",
+      "isFallback": true
+    },
+    {
+      "id": "add1cbce-3609-4e13-abad-a102d5077186",
+      "title": "ハイタッチ",
+      "artist": "坂本真綾",
+      "isrc": "JPVI00506920",
+      "releaseDate": "2005-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/0IR52kI7i1vsCJRh5ZFgtf",
+      "isFallback": true
+    },
+    {
+      "id": "e321c018-c69d-4c8d-8043-50ffb3c27081",
+      "title": "Theme of 017",
+      "artist": "SMAP",
+      "isrc": "JPVI00525180",
+      "releaseDate": "2005-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0255726c-d24f-4bb1-859a-18526a7e7d99",
+      "title": "ほしいろサザンクロス",
+      "artist": "Rhodanthe*",
+      "isrc": "JPVI01524040",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/0taYncwjaSsaW8gBgmCYNX",
+      "isFallback": true
+    },
+    {
+      "id": "cbcb6668-5407-4779-801d-aa202c39bf7b",
+      "title": "Theme of 018",
+      "artist": "SMAP",
+      "isrc": "JPVI00633620",
+      "releaseDate": "2006-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2edcc7d2-3ed9-4180-a82c-733448ac3216",
+      "title": "恋のハッピーアイスクリーム",
+      "artist": "折原みか",
+      "isrc": "JPC360700272",
+      "releaseDate": "2007-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/5FKs96A1AGfAJJWVnyVNts",
+      "isFallback": true
+    },
+    {
+      "id": "d6dc03ca-45ba-4e80-91d7-e80e5486569c",
+      "title": "Girl!Girl!Girl!",
+      "artist": "HALCALI",
+      "isrc": "JPES01004041",
+      "releaseDate": "2008-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/7BBcqABAog3sHUb491T6om",
+      "isFallback": true
+    },
+    {
+      "id": "a2e3cb8a-ab8a-4a8b-bb67-e3a1be13d21e",
+      "title": "My Best Friends",
+      "artist": "Rhodanthe*",
+      "isrc": "JPVI01432100",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/4Kjyh8zQIfBsK1msrkmQOF",
+      "isFallback": true
+    }
+  ]
+}

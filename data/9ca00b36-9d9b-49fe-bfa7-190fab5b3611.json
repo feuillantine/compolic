@@ -1,0 +1,609 @@
+{
+  "name": "伊藤翼",
+  "sortName": "イトウツバサ",
+  "tracks": [
+    {
+      "id": "cc656f8e-9965-4d15-bb26-9a031cd768aa",
+      "title": "Startin' My Re:STAGE!!",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01503149",
+      "releaseDate": "2016-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/7yAY7aPHAzR9R0tttCBm37",
+      "isFallback": true
+    },
+    {
+      "id": "361d2f23-aa6f-4bcc-b93d-c3219b6686b0",
+      "title": "ハートエイド",
+      "artist": "佐伯鞠香",
+      "isrc": "JPPC01701217",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/3oRnQUmPZevxl8USgUIBUh",
+      "isFallback": false
+    },
+    {
+      "id": "28742783-82db-4416-aa02-a51a6d463e07",
+      "title": "Colorful Starting Line",
+      "artist": "涼宮ハルヒ",
+      "isrc": "JPD732500816",
+      "releaseDate": "2025-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0kjazZj9Tt4G4pUGp1KDQn",
+      "isFallback": true
+    },
+    {
+      "id": "4f104303-88b6-4491-ac9e-a2be9915ef90",
+      "title": "200キロの旅",
+      "artist": "コウテイペンギン",
+      "isrc": "JPVI01823750",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/40mjfTlGW8tRQSO6L6XwIe",
+      "isFallback": true
+    },
+    {
+      "id": "4b120b0a-92cd-43b7-826a-d70dd061a814",
+      "title": "世界に一つのどこにもない物語",
+      "artist": "チーム・シンデレラ",
+      "isrc": "JPPC01602129",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4lr59xwwFAVscVDP3mqip3",
+      "isFallback": false
+    },
+    {
+      "id": "33562d42-6d14-4954-b2ad-2d2e55d3fcf0",
+      "title": "ぶつかり合う闘志",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01905770",
+      "releaseDate": "2019-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/32uSBDvJMgSOuaG6BqxGOa",
+      "isFallback": true
+    },
+    {
+      "id": "85fb5ea3-6cbe-496e-8862-041aa627817d",
+      "title": "厳烈なる荒地",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01934490",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/0vwaWj8BmJO79J6DTc1edx",
+      "isFallback": true
+    },
+    {
+      "id": "9909a8d1-0c84-49de-bcd1-f96bdb5009ca",
+      "title": "Heart Cleaning",
+      "artist": "有村詩音",
+      "isrc": "JPPC01701958",
+      "releaseDate": "2018-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/65pwBERRhJR0de4WxRtS8n",
+      "isFallback": true
+    },
+    {
+      "id": "037cb4e6-1a1f-4298-a8c4-4c3406f17a2b",
+      "title": "ウルトラSing!!",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC01800938",
+      "releaseDate": "2018-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/2SEEfa7I7k9tDjMeZfFzSb",
+      "isFallback": true
+    },
+    {
+      "id": "29bcfbe3-bf2f-4394-b203-38ba1a73d942",
+      "title": "WINTER JEWELS",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01702265",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/1ZNpU1AKdgdZbbY4zZhfQf",
+      "isFallback": true
+    },
+    {
+      "id": "820c9574-d57a-4bee-9ce2-79efbc1b9e05",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "isrc": "JPX401400049",
+      "releaseDate": "2014-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT",
+      "isFallback": true
+    },
+    {
+      "id": "68038967-1e4e-4294-b500-82749f7a0ede",
+      "title": "火山の麓",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01934420",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/76C0PsQcZj2WL0Ub5lG7wN",
+      "isFallback": true
+    },
+    {
+      "id": "5b1400e1-ee57-40ad-9bb4-efec9709f439",
+      "title": "Asymmetric World",
+      "artist": "ペコリーヌ",
+      "isrc": "JPCO02205250",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0zVLnhWf3NLlOgmTnFR95B",
+      "isFallback": false
+    },
+    {
+      "id": "5b6db4b1-8c4c-47dc-91f4-8a81fb975e32",
+      "title": "ミライKeyノート",
+      "artist": "ここぱんな",
+      "isrc": "JPPC01901443",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/7cepSegnOVBCm3eFtYYjUl",
+      "isFallback": true
+    },
+    {
+      "id": "478c078b-2718-405a-94ab-748e00840230",
+      "title": "Chant de Vérité",
+      "artist": "霜月はるか",
+      "isrc": "JPV201700072",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/4cEjxUmYzCdy8qVjdH250A",
+      "isFallback": true
+    },
+    {
+      "id": "e213ffd1-858b-4ec9-9488-de32c988a98b",
+      "title": "十六夜ゐ雪洞唄",
+      "artist": "徒然なる操り霧幻庵",
+      "isrc": "JPPC01602204",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/40GlQfHC44VYdPfmC6YaZg",
+      "isFallback": true
+    },
+    {
+      "id": "db45fa9e-3a5e-4ff0-a815-f7ff4c0c44c9",
+      "title": "Anniversary",
+      "artist": "楠田亜衣奈",
+      "isrc": "JPVP01610109",
+      "releaseDate": "2017-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/5nk00KbXMyBVnKPm7jZXW9",
+      "isFallback": true
+    },
+    {
+      "id": "9c1cc44e-17b2-4057-8839-103ad6da0d7b",
+      "title": "キラメキFuture",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01901441",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/0JRtInlRaRjWiYmhw5WeHY",
+      "isFallback": true
+    },
+    {
+      "id": "79647581-ba9d-459b-8d39-13cdc926f2c2",
+      "title": "ここから、かなたから",
+      "artist": "fragments",
+      "isrc": "JPQ461500178",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/41SSVEtAZ9syEClcXunaAt",
+      "isFallback": true
+    },
+    {
+      "id": "e6c186c7-bdf8-4425-8a93-750b78407b7a",
+      "title": "これってデート？",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01905840",
+      "releaseDate": "2019-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/2o73RDGNUWEGsFU08zfROi",
+      "isFallback": true
+    },
+    {
+      "id": "6038d8d6-45c4-4ae2-bbf2-c4fac90baa80",
+      "title": "夏の約束",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01601818",
+      "releaseDate": "2016-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/5DWFArtaXoZO0B35KwhrU9",
+      "isFallback": true
+    },
+    {
+      "id": "11598b57-26a9-46a5-a708-7056b5fa5a05",
+      "title": "未来Episode",
+      "artist": "夏目真尋",
+      "isrc": "JPVP01423106",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/0Dk7uBcGNPgJ7GVkA2wy5y",
+      "isFallback": false
+    },
+    {
+      "id": "1166d78f-f6cd-436b-9915-3d98109b8eb6",
+      "title": "GROWING!!",
+      "artist": "式宮舞菜",
+      "isrc": "JPPC01700810",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/278EV0wsMnqqCkdOUbEGgi",
+      "isFallback": true
+    },
+    {
+      "id": "45c039c8-0111-4672-a978-8834e6b2d5b0",
+      "title": "リメンバーズ!",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01601214",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/36YsLSglGKoThBnoTd5GZD",
+      "isFallback": true
+    },
+    {
+      "id": "8e2dc901-e5c4-4a09-8816-3e58010f570a",
+      "title": "憧れFuture Sign",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01602650",
+      "releaseDate": "2017-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/300PXDnlyhkBkgrfsnpw9t",
+      "isFallback": true
+    },
+    {
+      "id": "25a6c367-68fd-41e2-a7f7-91c19d44c21d",
+      "title": "モラトリアム",
+      "artist": "叶",
+      "isrc": "JPI102201375",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/3hODosvmVaTmSGD9ThQbe1",
+      "isFallback": true
+    },
+    {
+      "id": "84603c92-a968-486b-91e3-7c16c5c8c90b",
+      "title": "ク・ルリラビー",
+      "artist": "柊かえ",
+      "isrc": "JPPC01700811",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/4ijVNcMnIZrDXiXZP1eCEK",
+      "isFallback": true
+    },
+    {
+      "id": "0016810f-ed7e-4333-aa22-343e047d30b6",
+      "title": "魔法がなくちゃはじまらないでしょ?",
+      "artist": "スイープトウショウ",
+      "isrc": "JPZ252400859",
+      "releaseDate": "2025-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/074DoAVxZR3nLViyTBlWTX",
+      "isFallback": true
+    },
+    {
+      "id": "3fa00add-6f09-420e-b5f1-a92eecb59949",
+      "title": "Fin[e]〜美しき終焉〜 (M@STER VERSION)",
+      "artist": "一ノ瀬志希",
+      "isrc": "JPCO02430920",
+      "releaseDate": "2025-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/0hipnHIhBLx8ansQXWpz4K",
+      "isFallback": true
+    },
+    {
+      "id": "30745cfd-23ab-43f8-883c-b09dc101a949",
+      "title": "Prayer",
+      "artist": "エリス",
+      "isrc": "JPCO02411710",
+      "releaseDate": "2024-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/6TUBW6L1FYpwuxnlM9lvSc",
+      "isFallback": true
+    },
+    {
+      "id": "79b99d47-13a2-45c5-8481-9568c28c2569",
+      "title": "Esquisse",
+      "artist": "鬼頭明里",
+      "isrc": "JPPC02212248",
+      "releaseDate": "2022-09-14",
+      "spotifyUrl": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P",
+      "isFallback": true
+    },
+    {
+      "id": "ed497d80-9416-49e8-813f-5f28e9c79c58",
+      "title": "とっても賢いじゅるり“れしぴ”",
+      "artist": "コノハ博士",
+      "isrc": "JPVI01743560",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/7o0XgXUb2mIiperHOfyPL7",
+      "isFallback": false
+    },
+    {
+      "id": "63fc3f0e-767f-4e70-95e5-b8dbe5a35375",
+      "title": "宣誓センセーション",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01702264",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4cntK5on77cm3wvil3ivrN",
+      "isFallback": true
+    },
+    {
+      "id": "19b9a556-e709-4e8d-b26c-92cd63e181f9",
+      "title": "秘密結社",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01905880",
+      "releaseDate": "2019-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/1zPXJJHoLmZgx3thutKY5S",
+      "isFallback": true
+    },
+    {
+      "id": "c8f51140-adca-4580-a13d-d295cde31088",
+      "title": "Dears...",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01901742",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/3dYb9Y37wzVCIEsc1gKnBh",
+      "isFallback": true
+    },
+    {
+      "id": "bdbf6d4b-f0e2-4c27-8246-89236e302cf4",
+      "title": "君に贈るAngel Yell",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01601215",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1TP7S99FFYc8UJ1WHR9ARX",
+      "isFallback": true
+    },
+    {
+      "id": "1fba3ee4-74bb-4653-9ae9-de18ac88b504",
+      "title": "Sewing My MODE",
+      "artist": "時谷小瑠璃",
+      "isrc": "JPVP01423306",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/3NYDuPlLqEE30EZ6uY2D1g",
+      "isFallback": false
+    },
+    {
+      "id": "8efffa7e-9027-4fa3-939c-256267f0a863",
+      "title": "セラセラヴィ。",
+      "artist": "わーすた",
+      "isrc": "JPB602303168",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/1QEo5jtcpzR4HdvqBGfaBK",
+      "isFallback": false
+    },
+    {
+      "id": "213e993f-bc0a-4627-825e-fa2120a85686",
+      "title": "夢色ダイアリー",
+      "artist": "夢色ダイアリー",
+      "isrc": "JPPC01602705",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/1xFYiuCq55XPjd5HiVicFN",
+      "isFallback": false
+    },
+    {
+      "id": "fed7ae01-572a-4c83-819e-36e6b7c803b4",
+      "title": "キライキライCЯY",
+      "artist": "市杵島瑞葉",
+      "isrc": "JPPC01700812",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/4pDRIk66a1FA68tb9YlUsD",
+      "isFallback": true
+    },
+    {
+      "id": "c61638c1-1779-4753-8cf1-03119854ad56",
+      "title": "Don't think, スマイル!!",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01901163",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/0p8WOuGhj45dNCxjP1jWqS",
+      "isFallback": true
+    },
+    {
+      "id": "6816c01f-1370-4dd3-89ab-7d4e8b319149",
+      "title": "衝天",
+      "artist": "雨宮天",
+      "isrc": "JPX402300193",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/0SCkjW735cTNn8HM1CZEod",
+      "isFallback": false
+    },
+    {
+      "id": "f10b3ae6-ec05-4203-ac55-cfa5f1d7519d",
+      "title": "旅路宵酔ゐ夢花火",
+      "artist": "徒然なる操り霧幻庵",
+      "isrc": "JPPC01500851",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/4V8tGBsRMLVQOrioWJt6TE",
+      "isFallback": true
+    },
+    {
+      "id": "2af78952-f913-4be2-b27c-0804b4457d32",
+      "title": "夢みるプリンセス",
+      "artist": "ロイヤルペンギン",
+      "isrc": "JPVI01823720",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6hytwYRTIZF3skK8dRaWik",
+      "isFallback": true
+    },
+    {
+      "id": "cb2f5c45-c08b-4f31-85ef-e12d21fb59e6",
+      "title": "ステレオライフ",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01900400",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/11QKNfqpzWbwm3FLHBBCwB",
+      "isFallback": true
+    },
+    {
+      "id": "b43b0bcc-dcac-4f3e-8c94-c3a5b721e3fc",
+      "title": "ハッピータイフーン",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01900399",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/5VcQo3g6xzBAY9qe8k0Wa8",
+      "isFallback": true
+    },
+    {
+      "id": "046af8f7-8d1b-4bb4-977d-dbef005a2c19",
+      "title": "シャーベットマーメイド",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02211355",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2wvwY1L2CupRW2ttDprXz9",
+      "isFallback": false
+    },
+    {
+      "id": "73fa4a9a-9ecc-4f01-8890-8cfad9e08e15",
+      "title": "Velvet Rays",
+      "artist": "雨宮天",
+      "isrc": "JPX401500038",
+      "releaseDate": "2015-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/0mjqpjMVFM17FOCOZgfjls",
+      "isFallback": true
+    },
+    {
+      "id": "94997ea7-1bdd-4913-807f-b127b8456662",
+      "title": "Brand New Days♪",
+      "artist": "パステルマカロン",
+      "isrc": "JPPC01701295",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/5y0kCTMMRnVNSu4DwrzHQl",
+      "isFallback": false
+    },
+    {
+      "id": "dbf7f135-b9c0-4af4-be14-692a5e1de362",
+      "title": "俺の心が燃えているのさ…!～宮内のテーマ～",
+      "artist": "宮内希",
+      "isrc": "JPPC01700827",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/1onP9YHdoEHpPQg7SrrvQv",
+      "isFallback": false
+    },
+    {
+      "id": "1095e783-58ae-4caa-bc66-b783649e0ed1",
+      "title": "冒険トラベラー",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01801104",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/1bpffcYJTQJU6CYUY6VGXI",
+      "isFallback": true
+    },
+    {
+      "id": "5634445c-d87b-4373-bb21-1d37b0fc2267",
+      "title": "367Days",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01801103",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/1WTBFq2xhShh3d6UeE4cLI",
+      "isFallback": true
+    },
+    {
+      "id": "ce63faa2-0069-483f-86ec-f92cd69670e3",
+      "title": "Rotate the World",
+      "artist": "篠宮りさ",
+      "isrc": "JPPC01602524",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/0JQWwM3MAYSVolxMAhQX9x",
+      "isFallback": false
+    },
+    {
+      "id": "c9181074-a75c-4908-9f8c-4ba3c4e491a6",
+      "title": "L'Arc de gloire",
+      "artist": "ゴールドシップ",
+      "isrc": "JPZ252300137",
+      "releaseDate": "2023-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/7LmV9DGyIljagnPnFqXDPz",
+      "isFallback": false
+    },
+    {
+      "id": "4add36bc-9855-45f7-b4be-8e353aba15cc",
+      "title": "Hands",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC01800937",
+      "releaseDate": "2018-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/5FZajvwwwvNWlir4tRGJm2",
+      "isFallback": true
+    },
+    {
+      "id": "0ecbe533-b973-4a59-b1ed-9e96404f5d05",
+      "title": "OvertuRe:",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01901442",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/5p9iuO6cDbEACq36ZyNow3",
+      "isFallback": true
+    },
+    {
+      "id": "98513961-502a-419c-9150-1cc080800d11",
+      "title": "ワクセイラボ",
+      "artist": "をとは",
+      "isrc": "TCJPA2484255",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/19yUTlxj4yeV7H7wCZWywe",
+      "isFallback": true
+    },
+    {
+      "id": "d049b5f9-cd24-4a5d-be17-0df3c34012bd",
+      "title": "キミのとなりで",
+      "artist": "鬼頭明里",
+      "isrc": "JPPC02001324",
+      "releaseDate": "2020-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/0AAo5CaHyBNoLDVYCEEikx",
+      "isFallback": true
+    },
+    {
+      "id": "4bb43444-07a6-487d-b4b9-5c4aeaf3c479",
+      "title": "クリスティーナ",
+      "artist": "伊藤翼",
+      "isrc": "JPCO01906030",
+      "releaseDate": "2019-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/0MfPBdUR7E9X3cscOu5g68",
+      "isFallback": true
+    },
+    {
+      "id": "9151e2c0-e8f8-4968-8630-b4d7637c68cf",
+      "title": "ジェリービーンズ・ダイアリー(Like Cover Girl)",
+      "artist": "StylipS",
+      "isrc": "JPI101400914",
+      "releaseDate": "2014-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/1Im6Gxs0Bm9VzKvMUTlIjC",
+      "isFallback": true
+    },
+    {
+      "id": "db562a7a-598b-4693-bff2-e2dff69523c7",
+      "title": "Do it!! PARTY!!",
+      "artist": "KiRaRe",
+      "isrc": "JPPC01700809",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/7F9PTwD5dloNgS5LSaMLg5",
+      "isFallback": true
+    },
+    {
+      "id": "a0911c0a-bf1d-4c85-9771-69e3312515a0",
+      "title": "36℃ U・B・U",
+      "artist": "初星学園",
+      "isrc": "JPX832500506",
+      "releaseDate": "2025-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1fVu5ft2usMZaGcuQ9bDLI",
+      "isFallback": true
+    },
+    {
+      "id": "93860bbb-16a2-4f1f-b245-9e365076fa03",
+      "title": "ワタクシ・オリジナル",
+      "artist": "藍沢みんと",
+      "isrc": "JPPC02310620",
+      "releaseDate": "2023-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1XluFw9GrGc7mdwmoHbRsD",
+      "isFallback": false
+    },
+    {
+      "id": "fa26b4d1-bc6b-4faf-af78-ca32c8e5e8e8",
+      "title": "Strike my soul",
+      "artist": "井口裕香",
+      "isrc": "JPQ461300236",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/7tAh14pFiFrtOAMizyeNtm",
+      "isFallback": true
+    },
+    {
+      "id": "5200a22f-9ecb-492a-b6ce-1999afea4739",
+      "title": "THE WANTED CRIMINAL",
+      "artist": "マーゲイ",
+      "isrc": "JPVI01743600",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/3DfKYnmBbf26onRXk4h7Cm",
+      "isFallback": false
+    },
+    {
+      "id": "7eb5eae9-26d3-4137-87c9-e99432e5a84d",
+      "title": "骸骨騎士様、只今異世界へお出掛け中",
+      "artist": "eba",
+      "isrc": "JPPC02210806",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/1MXa38DAOzuZ41bfwKHIjn",
+      "isFallback": true
+    },
+    {
+      "id": "61d9f62c-3326-40ee-b850-1926fe10dcbb",
+      "title": "We Remember",
+      "artist": "KiRaRe",
+      "isrc": "JPPC02001452",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/3ctAJocla2lHhLOAFt9erC",
+      "isFallback": true
+    }
+  ]
+}

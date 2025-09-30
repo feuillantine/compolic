@@ -1,0 +1,774 @@
+{
+  "name": "sky_delta",
+  "sortName": "スカイデルタ",
+  "otherNames": [
+    "Endorfin."
+  ],
+  "tracks": [
+    {
+      "id": "573b7f3e-31f2-4d1d-9562-a347c159c4f2",
+      "title": "Spring for you",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704855",
+      "releaseDate": "2017-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/28sENg0MgP1CGX0HxD6BO8",
+      "isFallback": false
+    },
+    {
+      "id": "f39b7299-755c-48f4-8a25-323986f686ab",
+      "title": "Four Leaves",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db7cf223-e546-44d4-9afb-c39a2751fc66",
+      "title": "Luminous Rage",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704421",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1h0KWIJKQoDm71oiGHWdAH",
+      "isFallback": false
+    },
+    {
+      "id": "17349cad-5875-46de-a0f7-40b37bb74db5",
+      "title": "ドラマチックを君と",
+      "artist": "久海菜々美",
+      "isrc": "JPT551701058",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/12CpXYnAG3Iu8T0hraRUYz",
+      "isFallback": true
+    },
+    {
+      "id": "afc8393c-8901-4e94-997a-613ea86a056b",
+      "title": "薄明が告げる明日に",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059158",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/30SlPjWy4bq5hlrKgKBCuG",
+      "isFallback": false
+    },
+    {
+      "id": "37c4a7ae-d318-491b-a45a-ea318a85855a",
+      "title": "Round & Round",
+      "artist": "Endorfin.",
+      "isrc": "TCJPO2156738",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2vTmJr4jy8EK8VzGI44lso",
+      "isFallback": false
+    },
+    {
+      "id": "a61e68b6-9b8c-448d-b8ec-8f85f3120a5c",
+      "title": "泡沫の灯",
+      "artist": "Endorfin.",
+      "isrc": "TCJPH1861068",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/3pC3OHuBCE8JtEXc3i1Crs",
+      "isFallback": false
+    },
+    {
+      "id": "3ac25a6a-568e-4753-8d18-4dca89189840",
+      "title": "Fatalism",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058057",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/6JyfFjEV8ENAjGeXQO0fdn",
+      "isFallback": false
+    },
+    {
+      "id": "f11d5f63-1e3c-4fba-b922-c339ca22c683",
+      "title": "ストレンジレッド",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306052",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2PmM13IcL2RrqzFoU0PE5d",
+      "isFallback": false
+    },
+    {
+      "id": "664abd51-6959-4737-ace8-b3d9e130ffc4",
+      "title": "雷花",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306054",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4XAaiT4IeShoHb7s1ECSJy",
+      "isFallback": false
+    },
+    {
+      "id": "5a2dff55-f00d-4072-b260-3e830a237cc2",
+      "title": "コトノハ",
+      "artist": "藍月なくる",
+      "isrc": "",
+      "releaseDate": "2015-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "97bf1809-1c32-4970-93cf-1d59785aa49c",
+      "title": "タイニーソング",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509855",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5vhnnRSiMLYzq3N7QWRLBw",
+      "isFallback": true
+    },
+    {
+      "id": "46f77927-e26c-4e21-ae49-7666a07ff242",
+      "title": "Horizon Claire",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058062",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/5Wc9qTPEqfIC6NhNrKCTNg",
+      "isFallback": false
+    },
+    {
+      "id": "7adb68f4-7638-4bdf-9960-e555c9a501a1",
+      "title": "うつろいと君",
+      "artist": "中島由貴",
+      "isrc": "JPPI02201110",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/55HfWHxqm0nv77gYffkvCX",
+      "isFallback": true
+    },
+    {
+      "id": "cf2db9a7-6b8c-475a-b0a3-1c2028784aa6",
+      "title": "空白少女",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509851",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7yxV1guFBpG4wEPMAseHEA",
+      "isFallback": true
+    },
+    {
+      "id": "39ffb983-5fb7-4e98-8ad4-bd6e31ef95dc",
+      "title": "▲MEW▲△MEW△CAKE",
+      "artist": "KOTOKO",
+      "isrc": "TCJPG1743300",
+      "releaseDate": "2017-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5tDZbxaGvlH9XYIA1jjPw3",
+      "isFallback": true
+    },
+    {
+      "id": "8bf3595e-90fa-41e8-8863-377e198b51bc",
+      "title": "アンダーマリン",
+      "artist": "Endorfin.",
+      "isrc": "TCJPO2156734",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3fauh8Qbf4Jt2cz3AfPqVC",
+      "isFallback": false
+    },
+    {
+      "id": "e0a0e3bf-ab97-484b-8c53-f2931cddd859",
+      "title": "サニーサイド・クローバー",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203451",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/70nWhe1NEndL3l9l9JFnnc",
+      "isFallback": false
+    },
+    {
+      "id": "4a62ce3e-772c-4d8e-8908-02676241c102",
+      "title": "Jewelry days (Full Ver.)",
+      "artist": "ときめきアイドル project",
+      "isrc": "JPM201701332",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/0fqy77pxP1ELdrcrpVkA22",
+      "isFallback": true
+    },
+    {
+      "id": "51012298-2728-4c14-bbc4-f29d3f27e89e",
+      "title": "百歌繚乱",
+      "artist": "棗いつき",
+      "isrc": "JPR502509842",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/27WEIbPW9zG0tHKdv6DXm2",
+      "isFallback": false
+    },
+    {
+      "id": "84b96498-c10f-49cf-910e-54cc5c7a74f5",
+      "title": "Deep End",
+      "artist": "Sennzai",
+      "isrc": "TCJPL2076069",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/0dDEwHc4muaMHhMb3gQxGT",
+      "isFallback": true
+    },
+    {
+      "id": "aa89ec7e-9415-49a2-a1c6-5408ce7f904f",
+      "title": "無言の鳥籠",
+      "artist": "Endorfin.",
+      "isrc": "JPR502206836",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/16rvMFlzZP4fv1qY9RCqLL",
+      "isFallback": false
+    },
+    {
+      "id": "0db22530-0074-4452-af06-bb042d159d21",
+      "title": "Alice's Suitcase",
+      "artist": "Endorfin.",
+      "isrc": "TCJPO2156751",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3XN5Yd8h8DeQCsqlyFaVzq",
+      "isFallback": false
+    },
+    {
+      "id": "3d8f7e7d-e2d8-42db-8f11-1ab486e1635a",
+      "title": "After Dream",
+      "artist": "藍月なくる",
+      "isrc": "GBKQU2006129",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/6sGEUHug96X0D8pZlpqCaz",
+      "isFallback": true
+    },
+    {
+      "id": "74c9e586-75b0-41c3-88b9-ed45cb9ca179",
+      "title": "百歌繚乱",
+      "artist": "棗いつき",
+      "isrc": "JPR502409231",
+      "releaseDate": "2024-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/1aJTzYNn6Jc0sYsLqB5DyU",
+      "isFallback": false
+    },
+    {
+      "id": "6db74fb5-df1a-4eb3-a559-e755816e0cdb",
+      "title": "花残り、蕾ひとつ",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203450",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0fFaTtNyaNvc8vnEPQZkO8",
+      "isFallback": false
+    },
+    {
+      "id": "8d3dfc2d-58d2-4d62-b752-135f4d807034",
+      "title": "ガラスアゲハ",
+      "artist": "藍月なくる",
+      "isrc": "TCJPK2051622",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5cf2SWvzUxAK2k2G9iam64",
+      "isFallback": false
+    },
+    {
+      "id": "75f7f24f-3e8a-4b12-99c0-ac314d28ff60",
+      "title": "惑星トリップ",
+      "artist": "Endorfin.",
+      "isrc": "TCJPO2156750",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1YGBhIdGd25uMacgy7sFXh",
+      "isFallback": false
+    },
+    {
+      "id": "f6fff06b-4b70-4719-9cd4-90c884d55ceb",
+      "title": "Draw World!",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509854",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5AKREQREf7ljRBp8oEiCnC",
+      "isFallback": true
+    },
+    {
+      "id": "4bb01897-6e57-4363-9f58-8c54c4e8b0f3",
+      "title": "ココロメソッド",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64598762-8802-428d-a07d-dc9d60327631",
+      "title": "ゴースト・マキアート",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509853",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4ejAavvMxzGgEfMK6ejcNP",
+      "isFallback": true
+    },
+    {
+      "id": "952d2a6c-fed3-4f1b-aeac-eb49827aba9f",
+      "title": "残光",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058030",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/0mGBEmWHQhkFfBK7IHM9MB",
+      "isFallback": false
+    },
+    {
+      "id": "cd33d4e7-a743-42e9-b56a-63b896227116",
+      "title": "Cornus Florida",
+      "artist": "Endorfin.",
+      "isrc": "TCJPH1860703",
+      "releaseDate": "2016-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/4gV5rFsPyZb44yIxwB3d0z",
+      "isFallback": false
+    },
+    {
+      "id": "27e9fd9c-789c-418f-a7f0-688c33c0bc31",
+      "title": "Sincuvate",
+      "artist": "Endorfin.",
+      "isrc": "GBLFP1617117",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/1D1wSeqYNMRENdOc4VjSXW",
+      "isFallback": false
+    },
+    {
+      "id": "c9644371-4ed1-4e8f-9584-6d71680a3998",
+      "title": "一粒ノ今",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704422",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7eNuRcmuNWeaDRZuhRQqdr",
+      "isFallback": false
+    },
+    {
+      "id": "511447a6-3903-45ed-ad5b-f992f6d7b130",
+      "title": "Raindrop Caffé Latte",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704854",
+      "releaseDate": "2017-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2ZQV3Mp9ue978VpEunebGY",
+      "isFallback": false
+    },
+    {
+      "id": "5bea32af-890d-46a5-a158-f8959716d44b",
+      "title": "桜色プリズム",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704420",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1YQVLogibsvC4sHxg1dutL",
+      "isFallback": false
+    },
+    {
+      "id": "25dba182-ad31-4a3a-a690-9da4b2fde055",
+      "title": "アンチテール",
+      "artist": "藍月なくる",
+      "isrc": "TCJPH2504193",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/424TlPweEUOfvx1ERqdrOP",
+      "isFallback": true
+    },
+    {
+      "id": "d1b1cf3d-331f-4ceb-aa1f-6cde78ec9926",
+      "title": "ユリシス",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059150",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/2rkJQCbofIMNEXw314hl4w",
+      "isFallback": false
+    },
+    {
+      "id": "6e1581e1-7c32-46c8-9998-1cdd1fd19ba8",
+      "title": "Apricot",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306049",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3RQAqTZhbht7zlxWZEaUCf",
+      "isFallback": false
+    },
+    {
+      "id": "8a1901ea-5616-488b-880c-b3952f4cfba2",
+      "title": "リフレクション",
+      "artist": "Endorfin.",
+      "isrc": "TCJPH1860706",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/3YpuBqdJ3ArS9fShFU6Vzt",
+      "isFallback": false
+    },
+    {
+      "id": "2f098342-a6f7-48a3-bae3-0e82fe66b188",
+      "title": "片翼のディザイア",
+      "artist": "藍月なくる",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ddabd328-9f32-4141-9525-9210a2a63c39",
+      "title": "Innocent Truth[Long Version]",
+      "artist": "Endorfin.",
+      "isrc": "TCJPS2248566",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/2UPjpgXwLNuW4f7ApqBD2U",
+      "isFallback": true
+    },
+    {
+      "id": "a2c36716-bea3-4279-8559-03ddd37810c5",
+      "title": "Horizon Note",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704415",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0sK64u7wNODVvog1iYu6jT",
+      "isFallback": false
+    },
+    {
+      "id": "ea9c60b9-cff9-4d53-9775-aaff3371d7db",
+      "title": "ミントブルー・ガール",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058051",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/4rlWmkGFevlhHIJ750OGqZ",
+      "isFallback": false
+    },
+    {
+      "id": "aa46f2a9-1d08-4eb9-80ba-8ad3b052d881",
+      "title": "floating outsider",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058053",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/0dhWIgdVkLWQ5fXQZzlxa0",
+      "isFallback": false
+    },
+    {
+      "id": "a51d8ca0-6c01-46eb-a28f-4f0b1fc624b9",
+      "title": "white night story",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d767f547-3ee5-4c7a-89ed-801ef01b27e9",
+      "title": "春風ファンタジア",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704857",
+      "releaseDate": "2017-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0OsuyK1f56qToQQih7dfPz",
+      "isFallback": false
+    },
+    {
+      "id": "0cb96292-fc87-435b-a885-18850ee9720c",
+      "title": "ペトリコール",
+      "artist": "Endorfin.",
+      "isrc": "JPR502206833",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2KZVeWoQFin4skKaSWceDc",
+      "isFallback": false
+    },
+    {
+      "id": "0926ae5b-fc57-49f5-a654-ed91e0190a2f",
+      "title": "Dreamy Dream",
+      "artist": "夢乃ゆき",
+      "isrc": "TCJPK2060768",
+      "releaseDate": "2019-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/0oPpaHQ2EqMXXys45xCNSd",
+      "isFallback": true
+    },
+    {
+      "id": "340d066d-43cd-45c7-8193-3547612094ee",
+      "title": "Focus on",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509852",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/3mYVN9xr5NSLbLfZ2e1fNW",
+      "isFallback": true
+    },
+    {
+      "id": "6f475452-4c94-48ed-99ff-be10d026bfd8",
+      "title": "Transistor",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203452",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5sXNGSS9Ar4XzLFQ3UkOLm",
+      "isFallback": false
+    },
+    {
+      "id": "f62c7035-56f3-4a16-93ed-6754677f7e43",
+      "title": "終点前",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059029",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4HohupcGNMIS9AFLIB9zi4",
+      "isFallback": false
+    },
+    {
+      "id": "82a57e5d-ec2b-4550-a8c2-7728430b3ed6",
+      "title": "秒針とソーダフロート",
+      "artist": "Endorfin.",
+      "isrc": "JPR502206835",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/1CC2sZXU34ZE7e3ViKdocc",
+      "isFallback": false
+    },
+    {
+      "id": "3b4750cc-353b-427b-9a1c-e19178876363",
+      "title": "鏡像のカノン",
+      "artist": "La prière",
+      "isrc": "TCJPK2051934",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/0lxXbiiJKbQbCxDUt7SbvA",
+      "isFallback": false
+    },
+    {
+      "id": "f8315117-88ab-4898-9743-f0f8e6cdf469",
+      "title": "純情ティータイム",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059180",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/0jQd3ftpYh4Ov1eyd9oglH",
+      "isFallback": false
+    },
+    {
+      "id": "80f3d6d7-c6ef-42d0-a265-fa1625d11c7c",
+      "title": "Spica",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704423",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0Igmusuq1fYT6XnESfLiOv",
+      "isFallback": false
+    },
+    {
+      "id": "cbcd4086-a8fc-4d5b-9638-c366d7ca2ed4",
+      "title": "a fairy with you",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203449",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4zId8dtPkHIz1d4192ORoz",
+      "isFallback": false
+    },
+    {
+      "id": "5cd2d8f3-9541-46c2-8a5b-72e4732f3041",
+      "title": "LØST-IDEA",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059154",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/0wgNDXFnJOGfiI491wDrtN",
+      "isFallback": false
+    },
+    {
+      "id": "4cf4c212-1db7-4e56-804f-f5d43b7a7bc0",
+      "title": "dispel",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ecf2c6e8-ad24-4fc9-9a92-0949dfbca5e3",
+      "title": "Othello syndrome",
+      "artist": "藍月なくる",
+      "isrc": "TCJPO2165409",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3j6oUy3KlkVFTvKFzXwP08",
+      "isFallback": false
+    },
+    {
+      "id": "41e773f5-f5c8-43b8-b1ee-a389459f1363",
+      "title": "海月",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704425",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0ABxexhfKiJdvoK1qwSL49",
+      "isFallback": false
+    },
+    {
+      "id": "e3429c9c-32a2-441a-ba15-3985ba575889",
+      "title": "彗星のパラソル",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2058060",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/5JPtiRZORk0UBoSwNYYqYt",
+      "isFallback": false
+    },
+    {
+      "id": "d744d228-e672-482b-a4ef-570a7e63fade",
+      "title": "Untitled Sky",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306053",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/6drNmnZhII1UfSCUd8haZy",
+      "isFallback": false
+    },
+    {
+      "id": "5340e9f9-a361-4679-926a-d410e312ad77",
+      "title": "M:routine",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059023",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6StPg2G3GQNrBubO0YztcV",
+      "isFallback": false
+    },
+    {
+      "id": "a970f953-d3ea-4044-acf1-2654002ec8b4",
+      "title": "カラフルモーメント",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059146",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/6xLQVdBl0VzamUPaIRP8gC",
+      "isFallback": false
+    },
+    {
+      "id": "f8b66cc5-76dc-4cd3-a20b-f51f9121c227",
+      "title": "[Kaleidoscope]",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059148",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/3lr4d7jEbEK7cCScpWr9fw",
+      "isFallback": false
+    },
+    {
+      "id": "a2728169-c380-4a95-af2b-aab531809c57",
+      "title": "絵空",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059142",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/5vIMDzZ23T5oaQ6eXh02u5",
+      "isFallback": false
+    },
+    {
+      "id": "edd6d76a-d105-4d52-bcba-e7abf14878c2",
+      "title": "ペンと林檎とわたし",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306050",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/0SdxJUVwKyWgaCNQfecGZS",
+      "isFallback": false
+    },
+    {
+      "id": "c363763f-a137-426d-bd0b-dbd6c165fb7e",
+      "title": "ハートレス・トリコロール",
+      "artist": "Endorfin.",
+      "isrc": "JPR502306051",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3BrLlr9BAGdWMjHUhzyYCL",
+      "isFallback": false
+    },
+    {
+      "id": "37a2ffa5-555f-4d78-84c0-62a414c49278",
+      "title": "双星のテスタメント",
+      "artist": "棗いつき",
+      "isrc": "TCJPN2173209",
+      "releaseDate": "2020-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/7j9vDycsZKKzeHtqteakw4",
+      "isFallback": false
+    },
+    {
+      "id": "977d9ba7-e260-4063-a98f-36ad7a823b1d",
+      "title": "ドリームブルー",
+      "artist": "Endorfin.",
+      "isrc": "JPR502509856",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/07FORBLjn0K8ElAShLQNzc",
+      "isFallback": true
+    },
+    {
+      "id": "91bf7724-20d6-4177-9a2a-53cf2863cd0d",
+      "title": "アンチグレーズ",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203454",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/30yLAPfHxvBiMNYFVMjY1c",
+      "isFallback": false
+    },
+    {
+      "id": "8ec91649-0d17-49eb-97a1-b4dfb86f70da",
+      "title": "Introduction",
+      "artist": "Endorfin.",
+      "isrc": "TCJPH1860581",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/5cBeLtllf4yeOWOMQUjlLR",
+      "isFallback": false
+    },
+    {
+      "id": "ce53587f-bda8-4a1f-af88-24c61a3a8cb4",
+      "title": "route signal",
+      "artist": "Endorfin.",
+      "isrc": "JPR502203453",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1bi74sOhp2yHNf3oPIJ1T0",
+      "isFallback": false
+    },
+    {
+      "id": "d6f0a418-1aa1-4f14-9e0c-6ec8f254fd02",
+      "title": "Alt.Strato",
+      "artist": "Endorfin.",
+      "isrc": "TCJPH1861070",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/747wT5vGRu2Y0SE7HqfiOt",
+      "isFallback": false
+    },
+    {
+      "id": "7b9a031b-1117-429d-831c-4e66c5773ef7",
+      "title": "クラリムステラ",
+      "artist": "藍月なくる",
+      "isrc": "JPR502402841",
+      "releaseDate": "2024-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/6B9rBvHIfTAYrJaBMA8Isy",
+      "isFallback": false
+    },
+    {
+      "id": "7e64b099-354e-466a-a8e5-ecd9600492db",
+      "title": "モノローグ・オフ",
+      "artist": "Endorfin.",
+      "isrc": "TCJPO2156761",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Dj1WPzkHFnGG1Zh1gH8SX",
+      "isFallback": false
+    },
+    {
+      "id": "4c980773-2c9e-46f9-93f4-4746cc914535",
+      "title": "Protostar",
+      "artist": "藍月なくる",
+      "isrc": "TCJPK2051574",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/7phsIeX960J16kAosDZnj6",
+      "isFallback": false
+    },
+    {
+      "id": "2ea1fb6c-8b83-4dff-b351-2b6c16ffa810",
+      "title": "Hypnotic Marmalade Jam",
+      "artist": "Endorfin.",
+      "isrc": "TCJPK2059181",
+      "releaseDate": "2017-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/5ygK9dudDrTe3amzyjU3hq",
+      "isFallback": false
+    },
+    {
+      "id": "a803c0ab-e6ed-4e43-95c6-f2d73029ba62",
+      "title": "天ツ墨染",
+      "artist": "Risa Yuzuki",
+      "isrc": "TCJPK2098789",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/2kMEfAwzLoIdw2ptqUzRQ0",
+      "isFallback": true
+    },
+    {
+      "id": "87bf87c7-8a87-4c06-b4b7-a9b72f77d8d4",
+      "title": "コトノハ",
+      "artist": "Endorfin.",
+      "isrc": "TCJPG1704424",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/34laYCbtS9qXDui23wca5W",
+      "isFallback": false
+    },
+    {
+      "id": "d6975aaa-f168-4cb2-bb19-5b2c8d7d12ff",
+      "title": "Route BLUE",
+      "artist": "中島由貴",
+      "isrc": "JPPI02200820",
+      "releaseDate": "2022-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/5T0UpyctIbV2rBhmWcesnb",
+      "isFallback": true
+    },
+    {
+      "id": "cb4e4a5e-2e9d-4106-927e-c829beed933b",
+      "title": "シュガーレス・レイン",
+      "artist": "Endorfin.",
+      "isrc": "JPR502206837",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3TQ5dMkT9b7E9hkVD8mQtf",
+      "isFallback": false
+    },
+    {
+      "id": "30052242-90fe-4528-b366-71eb99f99509",
+      "title": "Filament flow",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "周防パトラ",
+  "sortName": "スオウパトラ",
+  "tracks": [
+    {
+      "id": "451b2b88-f604-4d70-8fe7-7558f73a6681",
+      "title": "ぶいちゅっばの歌",
+      "artist": "周防パトラ",
+      "isrc": "TCJPI1954750",
+      "releaseDate": "2019-02-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d4ed64c-0784-43ec-ad5c-488aa3ddf3ef",
+      "title": "電脳ロリポップ",
+      "artist": "電音部",
+      "isrc": "JPR502038629",
+      "releaseDate": "2021-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/0CkqJe269P2KrqRywK1hPO",
+      "isFallback": true
+    },
+    {
+      "id": "063664b2-ec3a-44aa-b563-79cdfd1ccd21",
+      "title": "ちょこせんせーしょん",
+      "artist": "癒月ちょこ",
+      "isrc": "JPV752409102",
+      "releaseDate": "2024-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/7Mp0kReZ4fPKDx7pzkFxhf",
+      "isFallback": true
+    },
+    {
+      "id": "c1e8f515-523c-41c2-b390-cbe9953250c2",
+      "title": "わ〜るどぴくにっく",
+      "artist": "日ノ隈らん",
+      "isrc": "TCJPJ1992937",
+      "releaseDate": "2019-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/2SSZ1lHTmAzCqPm6as4wmz",
+      "isFallback": true
+    },
+    {
+      "id": "1a328702-7e43-4699-a473-148a8637ba43",
+      "title": "ミドリなリンゴ",
+      "artist": "堰代ミコ",
+      "isrc": "TCJPK1903997",
+      "releaseDate": "2019-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/6zAucZjHsYByenaIxtUB1O",
+      "isFallback": true
+    },
+    {
+      "id": "4b905ab5-1ab6-4a77-b867-03cebd29e12a",
+      "title": "蒼い蝶",
+      "artist": "蒼月エリ",
+      "isrc": "TCJPI1963486",
+      "releaseDate": "2019-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/79DBhPmWdL8jxu0nRK4lCw",
+      "isFallback": true
+    },
+    {
+      "id": "805fe5c2-cf1a-4ead-846b-b05fb5820b55",
+      "title": "シュガーホリック",
+      "artist": "周防パトラ",
+      "isrc": "TCJPJ1977656",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/55jDm6UHZc0kSl7wSwDOFb",
+      "isFallback": true
+    },
+    {
+      "id": "95d2822b-39da-4a18-8fb9-7148220fcbe4",
+      "title": "メアリサンバ",
+      "artist": "西園寺メアリ",
+      "isrc": "TCJPJ1993327",
+      "releaseDate": "2019-11-17",
+      "spotifyUrl": "https://open.spotify.com/track/4UgtqvgkLe2jWy7iFHwusD",
+      "isFallback": true
+    }
+  ]
+}

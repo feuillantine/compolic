@@ -1,0 +1,420 @@
+{
+  "name": "サクライケンタ",
+  "sortName": "サクライケンタ",
+  "tracks": [
+    {
+      "id": "2e6aa760-1750-4980-91d3-bd1d1086508e",
+      "title": "fake town",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440023",
+      "releaseDate": "2012-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/7zeOVfoKAKQWvkKQTfHp18",
+      "isFallback": true
+    },
+    {
+      "id": "875e940b-0f14-4091-9e7c-c0bc2aa7da93",
+      "title": "blue light",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702980",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/3hGjofeKf14UOhK7s8IjnV",
+      "isFallback": true
+    },
+    {
+      "id": "fb617c7e-2cba-4246-8a58-020d88fdbf5a",
+      "title": "極LOVE浄土",
+      "artist": "クマリデパート",
+      "isrc": "JPE871903914",
+      "releaseDate": "2021-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/7iuYtnFxyWztuSWc9WHo6N",
+      "isFallback": true
+    },
+    {
+      "id": "38034153-7e93-4137-8d07-cf93957b0952",
+      "title": "inori",
+      "artist": "ilie",
+      "isrc": "TCJPS2226999",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/60w8IXq1frR6FEFiMw7mOs",
+      "isFallback": true
+    },
+    {
+      "id": "1279d948-9e8c-4840-9e00-1a6575a1160e",
+      "title": "faithlessness",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01700980",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/3yEDQG5vlGHmbtt9mv4zrs",
+      "isFallback": true
+    },
+    {
+      "id": "e28801d8-6f75-45e4-92f3-2f9842330b19",
+      "title": "yoru",
+      "artist": "ilie",
+      "isrc": "TCJPS2227008",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2J6nz6MqdtahVv4mnIbO7S",
+      "isFallback": true
+    },
+    {
+      "id": "9ad1c6c5-dea9-4f36-915f-03b3fee86ada",
+      "title": "おいでよ!クマリデパート(世界ver)",
+      "artist": "クマリデパート",
+      "isrc": "JPE871903908",
+      "releaseDate": "2021-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/5yNcecGMG01h6ol3T0ytBH",
+      "isFallback": true
+    },
+    {
+      "id": "94293580-ed73-4699-86fd-a7f60cf8cd59",
+      "title": "motel",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440037",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/3AcAKAoc53a26UpLykCNrX",
+      "isFallback": true
+    },
+    {
+      "id": "d19e56de-0abe-4a19-9cf5-f1d63108b09d",
+      "title": "ちきゅらぶレイディオ",
+      "artist": "クマリデパート",
+      "isrc": "JPE871903916",
+      "releaseDate": "2021-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/7JcOsLgjekpKQYXq1RsNxV",
+      "isFallback": true
+    },
+    {
+      "id": "9a189d6a-df49-45d2-a33d-46f370c074ee",
+      "title": "waku2@dreamer",
+      "artist": "Mary Angel",
+      "isrc": "",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51d0e311-97ec-411a-9456-b807c0bf7d7a",
+      "title": "syukufuku",
+      "artist": "ilie",
+      "isrc": "TCJPS2227003",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/5FgyVDiUsroWEzXOFT2QHL",
+      "isFallback": true
+    },
+    {
+      "id": "943ccc74-3bed-46b2-9f77-54f195bc2d08",
+      "title": "hair cat dance",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440027",
+      "releaseDate": "2012-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/7G99tZAOA67R77T17EvNqv",
+      "isFallback": true
+    },
+    {
+      "id": "6d62b145-a6c1-4ab0-8279-5a0afefca4b8",
+      "title": "サクラになっちゃうよ!",
+      "artist": "クマリデパート",
+      "isrc": "JPE871903911",
+      "releaseDate": "2021-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/56C9AvBOrKfjD7okl3mn5D",
+      "isFallback": true
+    },
+    {
+      "id": "4e922fe1-1cbd-4dae-bef2-8f5335d24e54",
+      "title": "Wonder Book",
+      "artist": "珠洲島有栖",
+      "isrc": "",
+      "releaseDate": "2025-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3258e2e8-6f33-485a-8fe4-3fa7883f0811",
+      "title": "告白",
+      "artist": "Maison book girl",
+      "isrc": "JPPC01900990",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4mFILs3RBD4KYOZCvqld6m",
+      "isFallback": true
+    },
+    {
+      "id": "de594aab-8342-4057-8137-7ad66703b01c",
+      "title": "veranda",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702930",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/4YHtvX8mV0JXzSVWUbOQOX",
+      "isFallback": true
+    },
+    {
+      "id": "de82388a-38ad-4383-92dd-68b9507d3de0",
+      "title": "karma",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01609270",
+      "releaseDate": "2016-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/0MWf984CxPoeVx5pemq2tt",
+      "isFallback": true
+    },
+    {
+      "id": "c9695f04-1d5e-494b-972d-4cefa925f982",
+      "title": "kamishibai",
+      "artist": "ilie",
+      "isrc": "TCJPS2227006",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/5dtH7hWHwUum3Di019iGSy",
+      "isFallback": true
+    },
+    {
+      "id": "1010e8d1-acd1-48d9-b7ed-fff3ecbb89bc",
+      "title": "小さな花",
+      "artist": "Mary Angel",
+      "isrc": "",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1deb13a1-9391-44d1-bc9a-03ba71d9181a",
+      "title": "jyuuryokuno-niji",
+      "artist": "ilie",
+      "isrc": "TCJPS2227007",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/6jTQI3C63mGipTQcDfD0mi",
+      "isFallback": true
+    },
+    {
+      "id": "74dc4743-f51a-485f-aec4-5fe2841fdfc5",
+      "title": "last cat factory",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440028",
+      "releaseDate": "2012-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/3lsG3x6QHk7XDMPgTOsmXq",
+      "isFallback": true
+    },
+    {
+      "id": "608d30d4-81ee-46d3-96f1-67f8b01cf363",
+      "title": "fukashigi",
+      "artist": "ilie",
+      "isrc": "TCJPS2227001",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2mjIGGpcl1c82tSIsUHb8q",
+      "isFallback": true
+    },
+    {
+      "id": "92c940ec-07da-4828-b125-8c6d2c18b3a4",
+      "title": "アメクミゾレ",
+      "artist": "Es",
+      "isrc": "TCJPB2488170",
+      "releaseDate": "2024-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/1Wy9lVAyplvzp2Psrwt0nb",
+      "isFallback": true
+    },
+    {
+      "id": "a85e7b90-a711-4855-b3d2-4117f6812cc1",
+      "title": "white clock",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440022",
+      "releaseDate": "2012-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/2ohA5da8Bxn5ocKNBdjulj",
+      "isFallback": true
+    },
+    {
+      "id": "12c6f786-75e3-4e60-a057-f2b08dc99af9",
+      "title": "drop",
+      "artist": "兵藤雫",
+      "isrc": "JPX402200193",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/7FPTeyaq2xzQFWDqSQRj6A",
+      "isFallback": false
+    },
+    {
+      "id": "50329580-70b8-4cc6-93d7-66cebfcf1586",
+      "title": "闇色の朝",
+      "artist": "Maison book girl",
+      "isrc": "JPPC01900988",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/62e835JWNSYwBvjBYLGPug",
+      "isFallback": true
+    },
+    {
+      "id": "db0af6b1-a141-46f2-b9f1-7ca75449a44c",
+      "title": "sin morning",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702920",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/5l5moIN0WNX7x1lhZ35stk",
+      "isFallback": true
+    },
+    {
+      "id": "0412b9b6-661e-4f0a-a9e2-963c66520026",
+      "title": "screen",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702970",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/08UnfN0tZ8l9tR0ZylJG57",
+      "isFallback": true
+    },
+    {
+      "id": "f32482a7-e0fe-4dd4-86ab-31f958388de7",
+      "title": "omajinai",
+      "artist": "ilie",
+      "isrc": "TCJPS2227004",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2gttvMA0wKYwLSsteqGANM",
+      "isFallback": true
+    },
+    {
+      "id": "d525cd53-51ab-4578-a829-2a5a39d9020d",
+      "title": "rainy irony",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440025",
+      "releaseDate": "2011-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/454QoesWOemvqVpTbboa9T",
+      "isFallback": true
+    },
+    {
+      "id": "9991d18e-5725-4985-9f2f-8ba801fecd79",
+      "title": "シルエット",
+      "artist": "Maison book girl",
+      "isrc": "JPPC01900989",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/6sE1yvc2gWJFXF8FYWHUsw",
+      "isFallback": true
+    },
+    {
+      "id": "c0efac4d-3619-4faf-841e-8189af160d2b",
+      "title": "opening",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702990",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/0keL5RKMo5IttBve0k0dml",
+      "isFallback": true
+    },
+    {
+      "id": "3629b929-c704-48f6-89b3-35d61e307f6b",
+      "title": "end of Summer dream",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702940",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/6pzgn41iUJrYy90DbltYjj",
+      "isFallback": true
+    },
+    {
+      "id": "e1219185-df95-488b-94a6-379c49b520ac",
+      "title": "カスタムラブドール",
+      "artist": "星川サラ",
+      "isrc": "",
+      "releaseDate": "2025-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "65447ee7-cec7-462a-9083-69249769b280",
+      "title": "SUN百6じゅ〜GO!日ッチ☆",
+      "artist": "クマリデパート",
+      "isrc": "JPE871903909",
+      "releaseDate": "2021-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/0fux7UlGkvKPuKZVtmoHwY",
+      "isFallback": true
+    },
+    {
+      "id": "aa8ec261-9dde-4edd-a05b-25bd6d87470a",
+      "title": "nostalgie el",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440032",
+      "releaseDate": "2012-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/7GXi1RSDCfi0pVPCRLnQLr",
+      "isFallback": true
+    },
+    {
+      "id": "a4f7d598-bc7b-45d4-8eb6-a1cbec12a472",
+      "title": "int",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702950",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/2T4Ni468fy3NYLHfBjTAyV",
+      "isFallback": true
+    },
+    {
+      "id": "9163efe1-b622-4514-9730-f87e260bcfb2",
+      "title": "瞬間 -shine heart-",
+      "artist": "Mary Angel",
+      "isrc": "",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a87641df-ecd1-4936-a23d-238454c6ef11",
+      "title": "心斎橋 (アメリカ経由) NANKAI",
+      "artist": "OKINI☆PARTY’S",
+      "isrc": "JPH492418020",
+      "releaseDate": "2024-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/2AcV7NCZ2JzdELiKQXBmkZ",
+      "isFallback": true
+    },
+    {
+      "id": "bd15466d-df89-42ff-b30c-d1e132e7435f",
+      "title": "townscape",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702960",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/3OUapSpZRRbmheBAu0aFCZ",
+      "isFallback": true
+    },
+    {
+      "id": "c7af7c33-a52e-4b97-90e5-cc852baafd30",
+      "title": "uragaeshi",
+      "artist": "ilie",
+      "isrc": "TCJPS2227005",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/7g4bY7cvUAYw3lBUMfNz1T",
+      "isFallback": true
+    },
+    {
+      "id": "6895a40e-a7ab-41d3-b260-4d526a43596d",
+      "title": "aimai",
+      "artist": "ilie",
+      "isrc": "TCJPS2227000",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/44v2B318kyaAEi9tlZkIc4",
+      "isFallback": true
+    },
+    {
+      "id": "0357c42e-eda9-4b80-bcb7-676820597d84",
+      "title": "夏へのとびら",
+      "artist": "クマリデパート",
+      "isrc": "JPE872304685",
+      "releaseDate": "2023-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1klK1FdBzpY8Tb7F0t5nAk",
+      "isFallback": true
+    },
+    {
+      "id": "dd6ffbf6-9456-4abf-b09b-e5c02c6ffe03",
+      "title": "asa",
+      "artist": "ilie",
+      "isrc": "TCJPS2226998",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/52l7DeEg8nwHRzVLtPwEVI",
+      "isFallback": true
+    },
+    {
+      "id": "c5913a41-1493-4e0c-83e1-30707250f25d",
+      "title": "ending",
+      "artist": "Maison book girl",
+      "isrc": "JPTK01702910",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/6uDOOVUYlh64goMmj8k8mk",
+      "isFallback": true
+    },
+    {
+      "id": "85b561f6-f0e8-4844-aa47-01e4f49bd35f",
+      "title": "jupiter girl",
+      "artist": "いずこねこ",
+      "isrc": "TCJPB1440026",
+      "releaseDate": "2012-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/0KroQ9pkOhXwAUsgfjozef",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "松浦雄太",
+  "sortName": "マツウラユウタ",
+  "tracks": [
+    {
+      "id": "82da4f62-fb14-4717-802d-a71b43c2e341",
+      "title": "Amorallyに口付けて",
+      "artist": "Alleles Project",
+      "isrc": "TCJPX2385044",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/4NFYYwaGKwpLx7Y8ptocm5",
+      "isFallback": false
+    },
+    {
+      "id": "5f7b3619-6d27-4e7b-894d-5fd4fa9647fd",
+      "title": "おもちゃ箱ハピズム♪",
+      "artist": "メグ",
+      "isrc": "JPPI01651510",
+      "releaseDate": "2016-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/3CWZwaytpxqtxco6wfFYck",
+      "isFallback": true
+    },
+    {
+      "id": "eb9323e7-250a-455d-966b-841c42307924",
+      "title": "ワタシと踊りなさい！",
+      "artist": "SeasoningS",
+      "isrc": "JPA602100014",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21eded9b-588b-4c7d-ba13-e0339f565b90",
+      "title": "ミカヅキドロップ",
+      "artist": "リゼ",
+      "isrc": "JPPI01551970",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/6seppw3MzQQjrsotedawBb",
+      "isFallback": true
+    },
+    {
+      "id": "7945d222-4b81-4840-bb4a-07107ae23fd7",
+      "title": "とびきりsummer time",
+      "artist": "シャロ",
+      "isrc": "JPPI01951280",
+      "releaseDate": "2019-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/5k9uVH3IY5XvoeKViE42n7",
+      "isFallback": true
+    }
+  ]
+}

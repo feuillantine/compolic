@@ -1,0 +1,375 @@
+{
+  "name": "矢吹香那",
+  "sortName": "ヤブキカナ",
+  "tracks": [
+    {
+      "id": "ee6ce78c-1dd6-4131-9e0f-8ebbeeb75227",
+      "title": "Page",
+      "artist": "青山吉能",
+      "isrc": "JPTE02201100",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/5EtA095vZSSWEedZEdMnrz",
+      "isFallback": false
+    },
+    {
+      "id": "715a87cf-91bf-4e48-a3d0-2e477700342c",
+      "title": "Snow Rain",
+      "artist": "福田沙紀",
+      "isrc": "JPTO01001585",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/5bUx9xLNSdkELu19OxYQpj",
+      "isFallback": true
+    },
+    {
+      "id": "c8a2e1a6-d112-447c-96a8-a801e97ff160",
+      "title": "little forest",
+      "artist": "早見沙織",
+      "isrc": "JPQ461800635",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/7c9rEzIFvseTZVymbKfnUu",
+      "isFallback": true
+    },
+    {
+      "id": "05eb3cb2-8707-4589-ac19-328b66b135a4",
+      "title": "Enter Enter MISSION!",
+      "artist": "あんこうチーム",
+      "isrc": "JPI101202398",
+      "releaseDate": "2012-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/7cmX1cBE5n0RWjOJ6dWAEQ",
+      "isFallback": true
+    },
+    {
+      "id": "35d551dc-877d-4523-8d55-1acba597f73b",
+      "title": "To years letter",
+      "artist": "早見沙織",
+      "isrc": "JPQ461600187",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/7zztMHj5UzWLWpdg5d1V8Y",
+      "isFallback": true
+    },
+    {
+      "id": "e7e6aa95-febf-40de-81b5-633241738da8",
+      "title": "Bright Hopes",
+      "artist": "早見沙織",
+      "isrc": "JPQ461500232",
+      "releaseDate": "2015-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3yR07CSJECOyOvamgjfZ8J",
+      "isFallback": true
+    },
+    {
+      "id": "968d5eb8-e927-4f7b-9de6-1284a78fd81e",
+      "title": "はじまりの絆",
+      "artist": "ピュアリーモンスター",
+      "isrc": "JPK632402702",
+      "releaseDate": "2024-06-11",
+      "spotifyUrl": "https://open.spotify.com/track/5G1jzfy2qsRmUume1lamT4",
+      "isFallback": true
+    },
+    {
+      "id": "9fc9e60d-2b35-4429-8fe4-f086a8207da2",
+      "title": "Installation",
+      "artist": "早見沙織",
+      "isrc": "JPQ461500526",
+      "releaseDate": "2016-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/2RrcVcXXe8bG3P70njwuXv",
+      "isFallback": true
+    },
+    {
+      "id": "a520c4f0-ee7c-4eb7-8e15-b932b035f960",
+      "title": "Mandala",
+      "artist": "青山吉能",
+      "isrc": "JPTE02300580",
+      "releaseDate": "2023-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/12QKYpAOVjDMgJo0XnyjC5",
+      "isFallback": false
+    },
+    {
+      "id": "3e4a82e5-defc-44c7-b816-ab36bad97193",
+      "title": "水槽",
+      "artist": "中島愛",
+      "isrc": "JPVI01902745",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/4BPegBTKIorWndePrVSCge",
+      "isFallback": true
+    },
+    {
+      "id": "471e4454-f7f4-45c4-80c4-c822e31ba252",
+      "title": "続く道",
+      "artist": "クリス・ハート",
+      "isrc": "JPPO01503987",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/7fxRpBeRB7dN6G1zPxRYEW",
+      "isFallback": true
+    },
+    {
+      "id": "c4bbd267-1b9b-4554-993a-1da43e7f4146",
+      "title": "Higher",
+      "artist": "Doll☆Elements",
+      "isrc": "JPN901600760",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5b9b3a4f-6917-42e5-8bc4-91fbaaca71a3",
+      "title": "Room",
+      "artist": "井口裕香",
+      "isrc": "JPQ461800299",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/0ekWJgt7o7yq95pEbkPDsV",
+      "isFallback": true
+    },
+    {
+      "id": "8ee371e9-f444-4018-9886-5cdd3611fd28",
+      "title": "ENDLESS PARADE",
+      "artist": "μ’s",
+      "isrc": "JPI101400067",
+      "releaseDate": "2014-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/50fUJov0ZgQAyv1XpZWiki",
+      "isFallback": true
+    },
+    {
+      "id": "c7d12d73-a630-4b3c-b33f-1c854fe4179c",
+      "title": "パンプキンケーキ",
+      "artist": "中島愛",
+      "isrc": "JPG751100634",
+      "releaseDate": "2012-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/64dY1SQN9fi23SleXzLPFB",
+      "isFallback": true
+    },
+    {
+      "id": "c60d6aaf-f438-47af-b9d1-a0f9a8cfef51",
+      "title": "お花畑に連れてって",
+      "artist": "黒神めだか",
+      "isrc": "JPI101200634",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3dab1d57-3bd7-46ee-9c5f-8bd60179549c",
+      "title": "アイスのくちづけ",
+      "artist": "AKB48",
+      "isrc": "JPKI01114818",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/5U0dlmWkHg76a0Fkfys6hP",
+      "isFallback": true
+    },
+    {
+      "id": "ad5afe49-eee6-4c11-b679-f2ad88e50281",
+      "title": "kiss! kiss! kiss!",
+      "artist": "安野希世乃",
+      "isrc": "JPVI01901850",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/73KBoH127hsgtJ5Zr2y6vB",
+      "isFallback": true
+    },
+    {
+      "id": "08eb2ae1-608f-41ec-a9e0-ca7c629079f0",
+      "title": "愛や恋や",
+      "artist": "稲垣吾郎",
+      "isrc": "JPVI01019390",
+      "releaseDate": "2010-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "78328dd4-c485-46df-8283-8272c5fc382c",
+      "title": "ゆうやけハナビ",
+      "artist": "東京女子流",
+      "isrc": "JPB601118604",
+      "releaseDate": "2011-05-04",
+      "spotifyUrl": "https://open.spotify.com/track/4s3Cie2VU3UBLxTkZvvlhX",
+      "isFallback": true
+    },
+    {
+      "id": "0de8ed67-9e53-49cf-b51e-3c4fe67a6b5d",
+      "title": "for us",
+      "artist": "ELISA",
+      "isrc": "JPU901300543",
+      "releaseDate": "2013-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/5Qtx2Yw9T831aBhaKnoA8G",
+      "isFallback": true
+    },
+    {
+      "id": "b57fda13-c666-4455-85a8-83586a400d51",
+      "title": "トピア",
+      "artist": "坂本真綾",
+      "isrc": "JPG751000867",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/1xRejsD5w5GJb2NGknz7rP",
+      "isFallback": true
+    },
+    {
+      "id": "2ba8682a-4774-45f1-9bc0-67e42791bbec",
+      "title": "プラスチック・アンブレラ",
+      "artist": "三峰結華",
+      "isrc": "JPI102100037",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4QPAFFcoNeC0RyvqmRe1Wk",
+      "isFallback": true
+    },
+    {
+      "id": "891dd8fa-55a4-495a-9815-9987d30bec64",
+      "title": "ワンスモア",
+      "artist": "早見沙織",
+      "isrc": "JPQ462000136",
+      "releaseDate": "2020-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/2S1eI8GaljY2SVTmjE3S6q",
+      "isFallback": true
+    },
+    {
+      "id": "ef262e38-30dc-462f-80e3-381d9874c10a",
+      "title": "ヒトツニナリタイ",
+      "artist": "大橋彩香",
+      "isrc": "JPI101502074",
+      "releaseDate": "2015-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/3g1Ou3ceP70G0iQHGV8eCY",
+      "isFallback": true
+    },
+    {
+      "id": "c527a9f2-7970-475c-807d-f49c1b01cb6c",
+      "title": "いつか碧",
+      "artist": "五桐玲",
+      "isrc": "JPI102501743",
+      "releaseDate": "2025-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/3l8Y7bmPiy8eQZpI8RXKVG",
+      "isFallback": true
+    },
+    {
+      "id": "4675be26-8a89-4c4d-8c52-171ee223ef18",
+      "title": "木漏れ日色の記憶",
+      "artist": "ChouCho",
+      "isrc": "JPI101200601",
+      "releaseDate": "2012-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/1qraGzPRfrgR6gjXAg7BvG",
+      "isFallback": true
+    },
+    {
+      "id": "938e3486-46bc-4531-bcb9-47d8b3a5f9cc",
+      "title": "花火",
+      "artist": "清浦夏実",
+      "isrc": "JPG751100586",
+      "releaseDate": "2011-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/537f2wNWQoRDr9AUyj7fUD",
+      "isFallback": true
+    },
+    {
+      "id": "5fe918d0-909a-47f0-9424-6b499fd56020",
+      "title": "忘れないよ。",
+      "artist": "中島愛",
+      "isrc": "JPG751200175",
+      "releaseDate": "2012-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/2DtHAYQcaoykcJvgg6xEbT",
+      "isFallback": true
+    },
+    {
+      "id": "8fd3d0ef-7c3b-4a77-b4d4-c9213d1c6042",
+      "title": "二十歳",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02415029",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/1Wlo2deqdRIRkuO0XCPsnr",
+      "isFallback": true
+    },
+    {
+      "id": "a35d0868-84cb-46a0-9c59-fc1ea5a4ec28",
+      "title": "空とキミのメッセージ",
+      "artist": "ChouCho",
+      "isrc": "JPI101300855",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/53zoOeKpFAXxYPzgmZSUUy",
+      "isFallback": true
+    },
+    {
+      "id": "8c5e6a5f-482d-4a36-8939-094316d353ca",
+      "title": "カーテンコールの向こうへ",
+      "artist": "田村ゆかり",
+      "isrc": "JPTE02502090",
+      "releaseDate": "2025-06-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d9b049a-48da-4f86-8884-c7aacc4bface",
+      "title": "NOTE",
+      "artist": "早見沙織",
+      "isrc": "JPQ461600182",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/6hWNhvE7FpXL4Z8ni2uIEu",
+      "isFallback": true
+    },
+    {
+      "id": "51bcd321-7f47-4b3d-8003-dcbaf4ae9b1e",
+      "title": "やさしい希望",
+      "artist": "早見沙織",
+      "isrc": "JPQ461500230",
+      "releaseDate": "2015-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4WnTdIWhQlqPNb7ItkxRVn",
+      "isFallback": true
+    },
+    {
+      "id": "f0da368a-a60b-4ac7-b533-f6460d67d645",
+      "title": "Being",
+      "artist": "いぎなり東北産",
+      "isrc": "JPX952100050",
+      "releaseDate": "2021-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/3AOxwZnHWgWkpBib9N2Wdl",
+      "isFallback": true
+    },
+    {
+      "id": "b65b8103-e9e7-4edb-bd9e-5b2821c4ec17",
+      "title": "光",
+      "artist": "ChouCho",
+      "isrc": "JPI101302271",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/0xVqQNsgShf9CK4DjDy3IY",
+      "isFallback": true
+    },
+    {
+      "id": "d7cba74d-4b56-4c6d-bc83-91adf03549d0",
+      "title": "咲いたはな",
+      "artist": "五十鈴華",
+      "isrc": "JPI101202782",
+      "releaseDate": "2012-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/4s6ZlFZ16RC0bTWyuSz3mb",
+      "isFallback": true
+    },
+    {
+      "id": "2be4260d-7e2b-40b3-b964-630929bbb077",
+      "title": "Mine",
+      "artist": "東京女子流",
+      "isrc": "JPB601304491",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/38QNpJKe98IrHkD2iZ73xu",
+      "isFallback": true
+    },
+    {
+      "id": "0ee69ac1-2b71-4498-8f2c-74421401c3ee",
+      "title": "透過",
+      "artist": "TRUE",
+      "isrc": "JPI102103325",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/743ukCsEEDVvkDzOFSyAIm",
+      "isFallback": true
+    },
+    {
+      "id": "1aa3638a-4d46-43b7-98c9-acf328cd92b2",
+      "title": "ソラノスミカ",
+      "artist": "JUNNA",
+      "isrc": "JPVI01729830",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/346sh6QxLztDtLyyRoLOXK",
+      "isFallback": true
+    },
+    {
+      "id": "681d089b-2712-4d7b-86d8-d65f81c4c6f6",
+      "title": "その声が地図になる",
+      "artist": "早見沙織",
+      "isrc": "JPQ461500527",
+      "releaseDate": "2016-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/6ZSVXLOQV31RY9BE4gwHne",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Ym1024",
+  "sortName": "ワイエム1024",
+  "tracks": [
+    {
+      "id": "8341f496-64d1-4fe6-8232-518f76408ee0",
+      "title": "Fate-Repulser",
+      "artist": "Helden Mädchen",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dfff9e09-ab83-43e8-8098-7d1f439b8431",
+      "title": "little mice's cafe",
+      "artist": "ななひら",
+      "isrc": "TCJPO2168586",
+      "releaseDate": "2016",
+      "spotifyUrl": "https://open.spotify.com/track/1A8fa4KnbCyUOB85UEZ6cI",
+      "isFallback": true
+    },
+    {
+      "id": "0dea2671-466e-43b3-a760-14923fe824aa",
+      "title": "コーヒーカップラビリンス",
+      "artist": "Maple Sugar",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "471321a2-c839-48d3-8dad-509bd1d3f5e8",
+      "title": "ももいろモーメント",
+      "artist": "yuayua",
+      "isrc": "",
+      "releaseDate": "2017-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4b1554f-338a-4b2b-ad3d-c47f7225b108",
+      "title": "灼熱のエッダ",
+      "artist": "BΣretta Crossrain",
+      "isrc": "TCJPA2496527",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/7BAhdXymhBMyj7MDlyB5Ip",
+      "isFallback": true
+    }
+  ]
+}

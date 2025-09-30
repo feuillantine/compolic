@@ -1,0 +1,168 @@
+{
+  "name": "やぎぬまかな",
+  "sortName": "ヤギヌマカナ",
+  "tracks": [
+    {
+      "id": "e9e320c0-8fda-4dd6-af7c-8a2f82112743",
+      "title": "漂白脱兎",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900017",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4b16d098-1da8-46fa-ad43-f25c38418af6",
+      "title": "おにぎりディスコ",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900001",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/20JjaEk9ybpufPMqMpjwon",
+      "isFallback": false
+    },
+    {
+      "id": "275047e2-065d-4f37-8009-3651a38479a0",
+      "title": "OUR JOURNEY",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202000253",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/5yc9MK3hPc8wGcUGzyn4q9",
+      "isFallback": false
+    },
+    {
+      "id": "cc906143-c94a-432a-a385-83511f0e95ba",
+      "title": "新世界ライオット",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202000255",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/1TBPqVOZ5XTC2mdb9X3CHD",
+      "isFallback": false
+    },
+    {
+      "id": "d1de9f8e-2358-4b3d-9fc7-822ef5fc2b33",
+      "title": "天体図",
+      "artist": "サンドリオン",
+      "isrc": "JPCO02329890",
+      "releaseDate": "2023-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/0CYTJBYF97soijmPEsPeps",
+      "isFallback": false
+    },
+    {
+      "id": "2d78ca38-7e0c-4b36-be67-3d5b0fb8eafe",
+      "title": "待機セヨ",
+      "artist": "白兎団音楽部",
+      "isrc": "JPM201900023",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12f327d5-de0b-4b24-8d81-03aef9bbf0f6",
+      "title": "ビター・エスケープ",
+      "artist": "やぎぬまかな",
+      "isrc": "JPM201800547",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7c3982da-b290-47ec-804e-e5cd60fa1276",
+      "title": "シンクロフィッシュ",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201800458",
+      "releaseDate": "2018-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/0rytM7oWQdtNpaDVVObKaQ",
+      "isFallback": false
+    },
+    {
+      "id": "1a942d5a-54cf-45bf-bd93-9d77c6f90a96",
+      "title": "もなかのクッキングソング",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202000001",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/4CjY9ZK3Yi3DxowfC3M0aK",
+      "isFallback": false
+    },
+    {
+      "id": "5fafe64a-90aa-4b37-b4cf-a33f0d34db25",
+      "title": "消えないメランコリー",
+      "artist": "夏川椎菜",
+      "isrc": "JPX402300149",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/6MQUn1z1y6WuZ9ktYNZs0R",
+      "isFallback": false
+    },
+    {
+      "id": "ac052f0f-7788-4773-97c2-82e935f3884f",
+      "title": "タイムカプセル",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI02215073",
+      "releaseDate": "2022-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/6fsKzjb1hsU4c0fk8cA4TP",
+      "isFallback": false
+    },
+    {
+      "id": "50101552-eb63-4e9b-9b6d-2ac5dc8abdeb",
+      "title": "共鳴性白染自由主義",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900967",
+      "releaseDate": "2019-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/11wSgKgB2v9Mg3W7KBPsui",
+      "isFallback": false
+    },
+    {
+      "id": "1710ef24-4cc3-498f-8599-5c5e344a1b96",
+      "title": "ぐるぐるコンティニュー",
+      "artist": "Machico",
+      "isrc": "JPCO02405910",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/2zh10VYMvqXpPCJrWcATra",
+      "isFallback": true
+    },
+    {
+      "id": "4fe727f7-a301-402e-bc5e-ac8ef351b70e",
+      "title": "Breakfast",
+      "artist": "清浦夏実",
+      "isrc": "JPR502402855",
+      "releaseDate": "2024-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/5yKBbndmb2fJh5NpYuGDL4",
+      "isFallback": false
+    },
+    {
+      "id": "29a9f76e-e9e4-44ff-9006-7a492d664214",
+      "title": "翠緑と紅蓮",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202000254",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/5eJRsAbcJ94igK9SJ5Q8cZ",
+      "isFallback": false
+    },
+    {
+      "id": "f1f35d2f-bfdc-468f-8dea-5af09b6fa1f2",
+      "title": "ROOM",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202000458",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/3aa1tGDZ2IplyOUH4ZOUwW",
+      "isFallback": false
+    },
+    {
+      "id": "7bfefaa1-bcd5-426b-87e4-8a3ef0e4899a",
+      "title": "砂漠を泳ぐ",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201901119",
+      "releaseDate": "2019-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0e7rZ0tRaYnRe5jsXqmdnh",
+      "isFallback": false
+    },
+    {
+      "id": "fd8fb4fe-9ad3-43ef-bd2b-29c6378e2cf3",
+      "title": "ひふみで湯〜とぴあ♨",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900020",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "錦織孝宏",
+  "sortName": "ニシコオリタカヒロ",
+  "tracks": [
+    {
+      "id": "e46d0d40-45a2-408a-a6fb-f51fb0a0d4c5",
+      "title": "Narcistration♡",
+      "artist": "ユキ",
+      "isrc": "JPCO02127810",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/3KJVhAjOdR1WTm4IaTohNo",
+      "isFallback": false
+    },
+    {
+      "id": "56a97cbc-b99a-4736-aa62-8192ce099da4",
+      "title": "drowning in deep love",
+      "artist": "花園羽々里",
+      "isrc": "JPI102403447",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/1BZFeVcfubiAaYini6KxS9",
+      "isFallback": true
+    }
+  ]
+}

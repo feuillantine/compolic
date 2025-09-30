@@ -1,0 +1,306 @@
+{
+  "name": "平田博信",
+  "sortName": "ヒラタヒロノブ",
+  "otherNames": [
+    "Swinging Popsicle"
+  ],
+  "tracks": [
+    {
+      "id": "e182abc0-c5e3-4c24-b868-c7917417a3ff",
+      "title": "Yesterday",
+      "artist": "타루",
+      "isrc": "KRA340920667",
+      "releaseDate": "2008-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/6dSZZeGZ73hzL6IDclThNr",
+      "isFallback": true
+    },
+    {
+      "id": "0031cc0a-4a3f-45b1-853a-19b0c693a349",
+      "title": "セブンスター",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPK2089980",
+      "releaseDate": "2020-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/0ClEodZTt9IVZZBNmdTYwj",
+      "isFallback": true
+    },
+    {
+      "id": "6cd510df-3cd7-4c50-9beb-e5a215f2bc85",
+      "title": "ベランダ猫",
+      "artist": "Swinging Popsicle",
+      "isrc": "JPY600300011",
+      "releaseDate": "2004-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1z1T8lU7KvGMtq00uROLqR",
+      "isFallback": true
+    },
+    {
+      "id": "f64e3fc1-0576-43f1-b6dd-fab05186cebe",
+      "title": "ハロー・メロウ Short Ver.",
+      "artist": "第一宇宙速度",
+      "isrc": "",
+      "releaseDate": "2013-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0923f3c7-8f8e-4c27-8dad-e001d1cdaed0",
+      "title": "Daydreaming",
+      "artist": "타루",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7e55e796-b6b2-4f0c-8fdd-8aed6212f611",
+      "title": "Welcome to the ミライ",
+      "artist": "みらサプ！",
+      "isrc": "TCJPB2498308",
+      "releaseDate": "2024-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/5zj9hRu0kgEvbEIj2TyNMx",
+      "isFallback": true
+    },
+    {
+      "id": "3be51fbb-533e-413a-83c7-416b8d6595bb",
+      "title": "僕らは",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPM2077289",
+      "releaseDate": "2020-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/6h5pgwXDvvo3fOzi3Kwaj0",
+      "isFallback": true
+    },
+    {
+      "id": "90a9f98e-4d8a-46b9-9e46-f8a83400f127",
+      "title": "연애의 방식",
+      "artist": "타루",
+      "isrc": "KRA340920680",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/0YXoXD757xQbXXl7RWEQGZ",
+      "isFallback": true
+    },
+    {
+      "id": "e7b91855-3169-4bd4-a27d-b7b238416eed",
+      "title": "One day…",
+      "artist": "有栖川小枝子",
+      "isrc": "JPPC01701294",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/3A8ASAw4HsD7PdwaTlT8MA",
+      "isFallback": false
+    },
+    {
+      "id": "8e9def6f-ef58-4f5d-aec3-497604363a47",
+      "title": "Slow Star",
+      "artist": "타루",
+      "isrc": "KRA340920687",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/0m2aecovkyTQayUmdV8Hmv",
+      "isFallback": true
+    },
+    {
+      "id": "86bb973b-eb69-4f57-9c32-ec6e66219e90",
+      "title": "星のメリーゴーランド",
+      "artist": "多田葵",
+      "isrc": "",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8973535d-2ab4-4a0e-85ac-7e467a98d994",
+      "title": "箱庭ラビリンス",
+      "artist": "栢嶋乙女",
+      "isrc": "JPPC01701292",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/7pWyXPs3ynzwuzvBIfmhVt",
+      "isFallback": false
+    },
+    {
+      "id": "ca512deb-d2c6-43ed-a367-2508fff4c815",
+      "title": "輝かしき日常",
+      "artist": "Swinging Popsicle",
+      "isrc": "JPR502203760",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/4KutTQUjyfieDnZdujkioZ",
+      "isFallback": true
+    },
+    {
+      "id": "cb5b9979-43ac-4316-95b4-87ad46e57b86",
+      "title": "I just wanna kiss you",
+      "artist": "Swinging Popsicle",
+      "isrc": "JPY600300001",
+      "releaseDate": "2004-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1to5tFDVTgD4CAXdIEQTAo",
+      "isFallback": true
+    },
+    {
+      "id": "104df87b-e1e7-4679-b90b-bca5451e5378",
+      "title": "ベリメリ",
+      "artist": "すーぱーそに子",
+      "isrc": "JPR502151884",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/1EmYu9t3PMSmPvgpGp0bGr",
+      "isFallback": true
+    },
+    {
+      "id": "9216f447-f269-4a71-b528-be23b208fa00",
+      "title": "果実の恋",
+      "artist": "フルーツバスケット",
+      "isrc": "",
+      "releaseDate": "2017-11-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c183843-62cb-4969-8f9b-0a383ce44334",
+      "title": "人間合格!!!!",
+      "artist": "Lyrical Lily",
+      "isrc": "JPR562200158",
+      "releaseDate": "2022-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/7dMFhEq0MR9CCnrryXx7fz",
+      "isFallback": true
+    },
+    {
+      "id": "e5d2a681-fab4-439e-8cef-904b0286b3ab",
+      "title": "Night Flying",
+      "artist": "타루",
+      "isrc": "KRA340920678",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/5nKLRxuXt4HezV4U6YfBXE",
+      "isFallback": true
+    },
+    {
+      "id": "03b9ceea-7d03-4581-a6db-3f26c7ff2f2f",
+      "title": "Don't Let Me Down",
+      "artist": "타루",
+      "isrc": "KRA340920688",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/1Lj5cS4Osi15pR6nrhFGEZ",
+      "isFallback": true
+    },
+    {
+      "id": "4d2bffd0-982c-43a1-b12a-861bdba04c06",
+      "title": "情熱の分子が一度揺れたら",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPK2089979",
+      "releaseDate": "2020-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/5NfkMjCwgUIdsY1sL5ndr8",
+      "isFallback": true
+    },
+    {
+      "id": "2440ed94-6b42-460d-a99f-1bcab17e9078",
+      "title": "Just Go",
+      "artist": "타루",
+      "isrc": "KRA340920683",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/1HsrDdyxxgw8wxH0s3Mqwo",
+      "isFallback": true
+    },
+    {
+      "id": "980b51ae-3459-4d5d-8053-9063bee22783",
+      "title": "感動ナミダ",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPK2089987",
+      "releaseDate": "2020-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/3j9hpCyFaRXMHlrfb5Ozrp",
+      "isFallback": true
+    },
+    {
+      "id": "0e0348f7-8dc4-4d59-968a-f064b96bf469",
+      "title": "キンカクジ (DJ Shimamura's D'N'B Remix)",
+      "artist": "威闘華鳴乎(ゲンツキ)",
+      "isrc": "",
+      "releaseDate": "2012-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "73d55505-2906-418c-affc-e50414ef337f",
+      "title": "(a)SLOW STAR (DJ SHIMAMURA Remix)",
+      "artist": "Swinging Popsicle",
+      "isrc": "TCJPC1560367",
+      "releaseDate": "2010-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12c64735-ed80-497d-97aa-e943a172f684",
+      "title": "蛇行する",
+      "artist": "Swinging Popsicle",
+      "isrc": "JPY600300010",
+      "releaseDate": "2004-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/0JVnlC7mMj2MCTxC8ekbfw",
+      "isFallback": true
+    },
+    {
+      "id": "94c07c8f-ee0c-431b-b25d-c417a95c8bb4",
+      "title": "コースアウト",
+      "artist": "Swinging Popsicle",
+      "isrc": "JPY600300007",
+      "releaseDate": "2004-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/4g626SEApYuXKn1DCGiTqp",
+      "isFallback": true
+    },
+    {
+      "id": "a2b0a378-00f2-42a2-8785-806534ef9968",
+      "title": "ドンド レット ミー ダウン",
+      "artist": "Swinging Popsicle",
+      "isrc": "",
+      "releaseDate": "2004-03-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ce356be-3d27-4f5d-b003-74fb3fba41e5",
+      "title": "永遠の終わりに",
+      "artist": "いとうかなこ",
+      "isrc": "",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "394e5597-7331-4269-b963-73cb18a5b41b",
+      "title": "ハロー・メロー",
+      "artist": "第一宇宙速度",
+      "isrc": "JPR502151863",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/05jv1Fx3CSmcAQa0RX0uGW",
+      "isFallback": true
+    },
+    {
+      "id": "6f38368a-46b0-4677-8699-82226ebd4024",
+      "title": "모닝스타",
+      "artist": "Yozoh",
+      "isrc": "",
+      "releaseDate": "2008-10-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17d0a085-ad73-4f39-bf50-b0c4b4eab4a7",
+      "title": "モノクロ",
+      "artist": "岩瀬敬吾",
+      "isrc": "JPR502203759",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/4WiuKtyWB0xAXPRctd2GSt",
+      "isFallback": true
+    },
+    {
+      "id": "db966518-746a-494d-a555-ce8b7c43075f",
+      "title": "蒼の向こう",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPL2004705",
+      "releaseDate": "2018-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/5LABjkB9bbNKOXCzzuT2xU",
+      "isFallback": true
+    },
+    {
+      "id": "bcf06e0f-66ab-4398-a6b9-3f2f03bef801",
+      "title": "哀しい調べ (Sad Melody)",
+      "artist": "Swinging Popsicle",
+      "isrc": "",
+      "releaseDate": "2006-03-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "木村孝明",
+  "sortName": "キムラタカアキ",
+  "tracks": [
+    {
+      "id": "adb12b60-c2d1-4ca0-8913-b3f28b08a577",
+      "title": "キミは夜のポラリス",
+      "artist": "此花輝夜",
+      "isrc": "JPI102502101",
+      "releaseDate": "2025-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1V4xMKE8BPcMXRnTujX63r",
+      "isFallback": true
+    },
+    {
+      "id": "b9677b2a-9a04-4cce-aaf9-f58b69ba3c1d",
+      "title": "カリソメアワー",
+      "artist": "高野麻里佳",
+      "isrc": "JPCO02134710",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/7fhFwmPu9TrPE2RbLgnYlH",
+      "isFallback": true
+    },
+    {
+      "id": "4bb36aa5-1141-4e26-9dce-d61fdbb02861",
+      "title": "指先ハート",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02329350",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/3vwoUh3UV9y5IqDSb5D6Us",
+      "isFallback": false
+    },
+    {
+      "id": "35ea71f9-7c35-42b2-992f-1b4cda5b7eb7",
+      "title": "君のそーゆーとこ",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU902500431",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/2oh9QdkIvy5IK8uXEzrE9B",
+      "isFallback": true
+    },
+    {
+      "id": "91504a25-7c46-409b-b670-2f372c09966d",
+      "title": "恋よりずっと Only you",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02335920",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/6uQPDtNvh2bx3fbF8l18Gh",
+      "isFallback": false
+    },
+    {
+      "id": "76816192-2a6e-47ca-947d-e19da3bb93e0",
+      "title": "真っ赤。",
+      "artist": "Liella!",
+      "isrc": "JPI102403065",
+      "releaseDate": "2024-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/5SUFkTfaqjo6bk3eGogzqu",
+      "isFallback": true
+    },
+    {
+      "id": "8b17cf02-0cd7-489b-b012-5756066258fd",
+      "title": "Go my way",
+      "artist": "角巻わため",
+      "isrc": "JPV752307974",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/0yfGt4UtmApKyvdU6L8wxF",
+      "isFallback": true
+    }
+  ]
+}

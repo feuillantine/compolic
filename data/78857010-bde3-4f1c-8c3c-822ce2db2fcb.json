@@ -1,0 +1,4236 @@
+{
+  "name": "橋本由香利",
+  "sortName": "ハシモトユカリ",
+  "tracks": [
+    {
+      "id": "ecc870a5-db45-4d1f-b897-c3f21d0afaa3",
+      "title": "Drivin' my life",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450340",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/5O7LikTZIvi7eMSYh5Hlvs",
+      "isFallback": true
+    },
+    {
+      "id": "fb79d246-3587-4372-ac28-1b5bb0b82435",
+      "title": "Nonfiction family",
+      "artist": "斑鳩ちはや",
+      "isrc": "",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2d4b345-c383-4a9e-a209-7d2824784c11",
+      "title": "Monochrome echoes",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450210",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/73VhkxFfNDDDC1YPWPUzBe",
+      "isFallback": true
+    },
+    {
+      "id": "577c13d7-1234-4e94-beb2-52ed46f9b160",
+      "title": "Nowhere else to go",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450390",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0u2uD0zkLVxHkQbByAsdJa",
+      "isFallback": true
+    },
+    {
+      "id": "eccfbefd-9f0b-46f0-ad97-0790f6785ea2",
+      "title": "Road Home",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "98cc7ce5-78bd-4d71-a1a5-7008e2576730",
+      "title": "Battle -九死-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800067",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5q35iyUuo5fDyy9TvTEZlC",
+      "isFallback": true
+    },
+    {
+      "id": "f2a29668-8930-4074-82b5-29b4d0e6c0ae",
+      "title": "「まぜるな! キケン」が基本ッス",
+      "artist": "斑鳩ちはや",
+      "isrc": "",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd8f9571-2f92-4d26-8228-d6172718d23a",
+      "title": "Sleeping beauty",
+      "artist": "姉原美鎖",
+      "isrc": "",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cb14d7e8-eaf9-4246-9e6d-6871d4627147",
+      "title": "livE",
+      "artist": "秋月律子",
+      "isrc": "JPCO01115040",
+      "releaseDate": "2011-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/3HmSDq2t1m1a5v29MyaHmK",
+      "isFallback": true
+    },
+    {
+      "id": "bf0ec85c-532f-4110-a3e2-96b2169f5e3e",
+      "title": "Battle -疾風-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800064",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/0GjRdqCKQBL7qxeqveQaCa",
+      "isFallback": true
+    },
+    {
+      "id": "59f1c022-29d4-4456-8945-fc762cb198f7",
+      "title": "Overture 〜bloom〜",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600503",
+      "releaseDate": "2006-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/38ZZU8dMH7rl7gbt68YAYy",
+      "isFallback": true
+    },
+    {
+      "id": "6bba33ec-060d-401c-9724-80dbbd519e7c",
+      "title": "Battle of KATANA",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800061",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5NA0sFF46dfgguXvwomwqP",
+      "isFallback": true
+    },
+    {
+      "id": "023a230f-1fd4-466b-8cde-d2042d6bfe85",
+      "title": "KisS",
+      "artist": "星井美希",
+      "isrc": "JPCO00843400",
+      "releaseDate": "2008-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/1U4Y2QtOvcn7UmgsJYs9aS",
+      "isFallback": false
+    },
+    {
+      "id": "75b46c7d-9be5-44f8-8429-55d32ec5477c",
+      "title": "100%ヒーロー",
+      "artist": "キュアピース",
+      "isrc": "JPD601200090",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/2XJzYc2V2vWNHrShUhak6H",
+      "isFallback": true
+    },
+    {
+      "id": "6c62d8c8-3561-4560-b897-9a977b0375b0",
+      "title": "Subetitle B",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a8f1a15-93a2-460b-b344-211ef71e486c",
+      "title": "Changing days",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450230",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/4DfquRpQ9ANZjnmobFLNfx",
+      "isFallback": true
+    },
+    {
+      "id": "599d403a-dc43-4304-8eb1-4dfcf58765d4",
+      "title": "Back to the 18matsu",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900735",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f13846b-5ae7-4642-9d7d-ccbbb77f9113",
+      "title": "18歳の部屋",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900759",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f63a146-70fe-4a67-877e-5437ad802bb3",
+      "title": "Love Potion No.7",
+      "artist": "クローバー",
+      "isrc": "JPI100602326",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f410ce12-2667-45c2-b5ea-78ad50f7e46a",
+      "title": "Pure happiness",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450360",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3aMt098dovCd0hVPzL1P5x",
+      "isFallback": true
+    },
+    {
+      "id": "4ac9ebfc-8f84-4d82-a934-e0783d6e4b82",
+      "title": "｢Du bist süß｣",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450180",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/7bfWXtANx5CwbmUmYsgzZA",
+      "isFallback": true
+    },
+    {
+      "id": "5e80f4c9-2044-45cb-8206-6ba091ee5a22",
+      "title": "Happy day, Happy time",
+      "artist": "あこりこ",
+      "isrc": "",
+      "releaseDate": "2010-05-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0dd8a627-4b62-4f2a-8885-6a91f7e6fb99",
+      "title": "18歳の6つ子・おそ松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900737",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc7efc60-7725-4f3c-bba6-42a409847cc3",
+      "title": "Brand new day",
+      "artist": "Aice⁵",
+      "isrc": "JPKI00703550",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5tuPQDRboq0O4Ukk2ZS3SM",
+      "isFallback": true
+    },
+    {
+      "id": "f2c6d2af-ede2-4a51-976c-c3a869bd50c6",
+      "title": "Calm",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f98045e2-3a6d-4366-99dc-a20a1d7a0e30",
+      "title": "18歳の6つ子・カラ松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900738",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "72621254-94ec-4486-b700-c5d4c1b667cb",
+      "title": "Enjoy the NOW!",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800040",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/4KecDIu4eloL7GQxgf2aCt",
+      "isFallback": true
+    },
+    {
+      "id": "a27c05f4-b4ec-48bf-81ba-6e08f842c5f1",
+      "title": "18歳の6つ子・トド松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900742",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f55cdd5d-3c0f-43a6-8a7a-39aa8c25aab5",
+      "title": "PRINCESS CODE",
+      "artist": "スフィア",
+      "isrc": "JPI100903183",
+      "releaseDate": "2009-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/2eRV04Ylo6ld2wWydLs4fI",
+      "isFallback": true
+    },
+    {
+      "id": "e1f2c90b-7a9f-46bf-aed3-754d8e13d057",
+      "title": "Classical mode",
+      "artist": "一ノ瀬弓子クリスティーナ",
+      "isrc": "",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71c3abb9-2a24-482b-a50b-d4a70e96d5f1",
+      "title": "Notice me now",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450120",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2ZNmZGT7laZxIzXHctXQjK",
+      "isFallback": true
+    },
+    {
+      "id": "59d3ace6-e83c-431f-86b2-6c4036be4556",
+      "title": "18歳の6つ子・一松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900740",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c02fe57-7d1e-4e45-8b94-180e49d17ac1",
+      "title": "I'm A Butler!",
+      "artist": "近衛スバル",
+      "isrc": "JPKI01115723",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61539546-d51c-41d7-904b-889c93be6e16",
+      "title": "Subetitle A",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f12d8a95-3e5e-4819-a9dd-76182d0f51d2",
+      "title": "Adrenaline",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f1baae0-9b48-40ef-b5c5-becfee76cec1",
+      "title": "How Heavy Are the Dumbbells You Lift?",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51b18b5b-9c39-47d2-ba42-17ed8511d333",
+      "title": "Sprout of Reflection",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450380",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3j2Foiq0gKF6qWLT8bS3en",
+      "isFallback": true
+    },
+    {
+      "id": "574f8f3f-9100-4d80-aebf-a3f53349faeb",
+      "title": "Purple Energy",
+      "artist": "ネプテューヌ",
+      "isrc": "",
+      "releaseDate": "2012-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0ab23cc-e18f-4a65-a7eb-c7f740741efd",
+      "title": "Princess Rose",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200601114",
+      "releaseDate": "2006-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/5DdEd5abwrL7ZzaVxkyClQ",
+      "isFallback": true
+    },
+    {
+      "id": "03ca457f-8cb6-4839-b18f-2950a45809e7",
+      "title": "Battle -渾然-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800066",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/4jFjxYjMIGouNiVMeFMWII",
+      "isFallback": true
+    },
+    {
+      "id": "700a04bc-c2da-463b-87e4-c513f01df2c6",
+      "title": "Snowflakes",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450090",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/55VaZgYjyL1o6awAbuzAYQ",
+      "isFallback": true
+    },
+    {
+      "id": "17551ef4-a7fd-4cd9-bd9c-63379ac4242e",
+      "title": "Falling in Love",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8e892be2-16a9-4875-b2a1-b0006127bf39",
+      "title": "Face to Face",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450330",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3E9F4efHjDhk1ADQyF7FGc",
+      "isFallback": true
+    },
+    {
+      "id": "5cdbdeea-2a39-4c8b-9b7b-431b3937eedd",
+      "title": "Love Countdown",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00818172",
+      "releaseDate": "2009-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/2y4BwUEzlfiNXvY1KJZwNj",
+      "isFallback": true
+    },
+    {
+      "id": "538272e7-fa14-4eee-9178-bc4f7eddf234",
+      "title": "Heaven 17 girl",
+      "artist": "野中藍",
+      "isrc": "",
+      "releaseDate": "2006-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1ffe006-a4c1-4996-909f-783dc3c7429e",
+      "title": "Le ciel bleu",
+      "artist": "ペリーヌ・クロステルマン",
+      "isrc": "JPCO00908660",
+      "releaseDate": "2009-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/7nS8AUHIfr2ldTEOn4mOWD",
+      "isFallback": true
+    },
+    {
+      "id": "eac360ae-ca87-4b21-a7e5-884e09e7aa74",
+      "title": "Rain~てのひらのアンブレラ~",
+      "artist": "今井麻美",
+      "isrc": "JPK631305103",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/4OofPEvRlr8HCr6vYnlqRr",
+      "isFallback": true
+    },
+    {
+      "id": "2a971619-8a1d-4955-a30d-dfecf13150df",
+      "title": "Let's Workout",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4c54989-b3b3-41c2-830f-aa19f2958910",
+      "title": "lilac time",
+      "artist": "相葉夕美",
+      "isrc": "JPCO01603830",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/0bjBg0eb8RZFrL1UfaPHTq",
+      "isFallback": true
+    },
+    {
+      "id": "1b3889d6-de98-43ed-9b0c-83ec6648e918",
+      "title": "Theme of City Girl",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "99db9ec6-2fc6-4eef-89ec-b9ce288e9ac7",
+      "title": "Nocturne",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450150",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6AnAmjCS5ftauEsjcaX6EY",
+      "isFallback": true
+    },
+    {
+      "id": "68f57f0f-883c-4ef5-ad34-95289fa75ba7",
+      "title": "Crystals",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450240",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3v4ARfVycfixWbBGaiDbuf",
+      "isFallback": true
+    },
+    {
+      "id": "0cba4f38-19c5-4f00-b3fb-715b18aa56a5",
+      "title": "Bittersweet",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450250",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3hjYnyPgfZigif81sRo9fT",
+      "isFallback": true
+    },
+    {
+      "id": "8f217526-2dcd-4229-b3dd-b93a2a3b4277",
+      "title": "So Tired",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "52e0712e-e372-4bcb-a1ab-de9a562ba711",
+      "title": "Disappointment",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34e9d429-422e-4c26-aff9-c6cae5b3d210",
+      "title": "Journeying from the past to the future",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450400",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6KqV7B2L4dUZ2eMVZUQRM1",
+      "isFallback": true
+    },
+    {
+      "id": "0d601122-35c2-491b-b50c-a512a42aa1b5",
+      "title": "12人の決意",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900751",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aead834f-d7dc-4437-804c-b18ae124f2d8",
+      "title": "experiment",
+      "artist": "三郷雫",
+      "isrc": "JPI100903395",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f6d6382-94e9-43f6-ab63-4893de999fc9",
+      "title": "Subetitle C",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77fcf9bf-14d9-4056-a0e0-c6c3326a2743",
+      "title": "Quiet",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450140",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6UckIDAKIsQKMdeJHC3i4C",
+      "isFallback": true
+    },
+    {
+      "id": "16faeaab-36dd-4b27-a03a-e67158018900",
+      "title": "Tension",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d2404ad-5e72-4f4f-a243-7c6ef2f0961a",
+      "title": "Love Power",
+      "artist": "Aice⁵",
+      "isrc": "JPKI00607297",
+      "releaseDate": "2006-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/3bFCBeJ378tPHmJOj6rcoT",
+      "isFallback": true
+    },
+    {
+      "id": "23844ed3-c1cb-42d8-9899-060035dda6a8",
+      "title": "Sense of Distance",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450110",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6tt1xvEGBmZjhsHn0GmD4w",
+      "isFallback": true
+    },
+    {
+      "id": "4ba5dec5-c38c-4200-bef6-84eec60a5730",
+      "title": "Battle -動地-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800065",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2qOnJJx5S2zztXBj58eFaq",
+      "isFallback": true
+    },
+    {
+      "id": "c16d7ea5-b2c9-482e-aaa5-c87a251303ee",
+      "title": "18歳の6つ子・十四松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900741",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c524ccf-e2e9-45fd-8aee-844f5aa5c008",
+      "title": "Conversation",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450310",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/4yDtQKaMZ2hBKR4ZVQsDWv",
+      "isFallback": true
+    },
+    {
+      "id": "45689f01-c6b6-4bf8-9b35-f12e373d2c31",
+      "title": "A Sign of Affection",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450080",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/12X1BTTGAO3HM4hPyVYQXR",
+      "isFallback": true
+    },
+    {
+      "id": "06b793a7-cc05-49ee-971f-259a2799444d",
+      "title": "falcon eyes",
+      "artist": "坂本美緒",
+      "isrc": "JPCO00905670",
+      "releaseDate": "2009-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/7dWHlqN5FcQWfXHva3Ob5G",
+      "isFallback": true
+    },
+    {
+      "id": "ec578fcd-73ea-4437-b0a5-e93ab4b42f6d",
+      "title": "love and peace",
+      "artist": "小清水亜美",
+      "isrc": "JPCO01001460",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6e3c4792-e7c5-4d29-a61d-05b901bc1185",
+      "title": "Battle -荒魂-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800069",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/66B6Q6eUzd2WJeOojHe39r",
+      "isFallback": true
+    },
+    {
+      "id": "5fb8ef98-745f-41bb-85e2-8b7f58eff1ea",
+      "title": "Melty time ~やさしい場所で",
+      "artist": "早見沙織",
+      "isrc": "",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a03f446e-d74f-4b62-8dbe-948eeaa51aeb",
+      "title": "Silence",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450100",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6zRua6KI9RN1NwTVpYQMrw",
+      "isFallback": true
+    },
+    {
+      "id": "37db015e-54e7-41c2-83c1-087dc5542a59",
+      "title": "Daily Conversation",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e030c36c-a849-418a-aa01-4131e1ea5086",
+      "title": "Ring My Bell (TVサイズ)",
+      "artist": "blue drops",
+      "isrc": "",
+      "releaseDate": "2009-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a44f2dab-adbd-41bb-9a93-0007ec381b95",
+      "title": "POKER POKER",
+      "artist": "真壁瑞希",
+      "isrc": "JPI101301754",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/45cht7zlNsUh21IDnuZ1uO",
+      "isFallback": false
+    },
+    {
+      "id": "d195849c-cdc9-43eb-98ab-f7aa82bf0ec7",
+      "title": "Cutie♡Cutie",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200500965",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0p8g7CdIzegAsfAybh3Cdb",
+      "isFallback": true
+    },
+    {
+      "id": "4c71c1b1-3237-4b14-9cc3-e7796d1b2920",
+      "title": "Fly High!",
+      "artist": "ネプテューヌ",
+      "isrc": "",
+      "releaseDate": "2012-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b8b81cf-7629-44dd-aea0-4b74c01ba932",
+      "title": "Theme of Akemi",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6cde6844-9467-4242-a4c4-e92b1cb02ece",
+      "title": "Battle -激戦-",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800068",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/0G65wG5bfLHDlL9SjVmjgO",
+      "isFallback": true
+    },
+    {
+      "id": "4804418d-c24c-4c47-9695-0ccfc9e87bbd",
+      "title": "18歳の6つ子・チョロ松",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900739",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3aeaac9-80af-4f3f-8124-81c275ad9149",
+      "title": "Machio's Muscle Lesson",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5bf18fe8-7add-450d-afb0-861809080957",
+      "title": "I'll be there",
+      "artist": "中川翔子",
+      "isrc": "JPCO01329580",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6b1af65e-79b2-4658-a96c-112ba683b847",
+      "title": "falcon(たか) eyes(のめ)",
+      "artist": "ジーナ・プレディ",
+      "isrc": "JPCO01921120",
+      "releaseDate": "2019-09-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f58426ca-6ef2-4a63-b6eb-d3b42fe1c619",
+      "title": "Impression",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7636c00e-14ed-4df8-bbff-c62b10bd5a4d",
+      "title": "For you , For you !!",
+      "artist": "神代縁",
+      "isrc": "",
+      "releaseDate": "2006-12-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3ae8bfcb-bb86-43b2-a3a1-a9b670eaa143",
+      "title": "Rose on the breast",
+      "artist": "原由実",
+      "isrc": "",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "92fe735f-20cb-45d8-98f1-cc6b4cc8f346",
+      "title": "Friend-Ship",
+      "artist": "リネット・ビショップ",
+      "isrc": "JPCO00908650",
+      "releaseDate": "2009-04-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6220eb74-ce09-4ced-9f80-ed878acc5571",
+      "title": "On my way home",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450350",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/1lRp9aBSA73UAdHbI2AJ9P",
+      "isFallback": true
+    },
+    {
+      "id": "9720beef-8da3-4a0a-a12c-904b168d1b0d",
+      "title": "「Have a Breaktime!」",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800045",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6d4rZ3ynU63K4pAIzPQe0E",
+      "isFallback": true
+    },
+    {
+      "id": "c31ede40-308d-4a62-9710-408b47b2e6f0",
+      "title": "Step by Step",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450280",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2WmHuHiY1cc5Y9QnF3fIAV",
+      "isFallback": true
+    },
+    {
+      "id": "a8b296e3-c053-4eb2-ac7b-002c7c5cfe7f",
+      "title": "Flower",
+      "artist": "M.Tommy",
+      "isrc": "JPKI01115730",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/6V7aMnPrGSa8IKwOXSJ3Ol",
+      "isFallback": true
+    },
+    {
+      "id": "be0c9715-8866-4ddb-b5d4-3e4dcf23857b",
+      "title": "BUST UP DREAM",
+      "artist": "シャーロット・E・イェーガー",
+      "isrc": "JPCO01253440",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f504c1da-41fc-43b6-a29c-d091f4a3290b",
+      "title": "Crescent",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450160",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3m3fALvl99qOMt9azscPe7",
+      "isFallback": true
+    },
+    {
+      "id": "fb3365bf-0654-4394-8e61-69036167a1f9",
+      "title": "「仰げば尊し」",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900749",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "89000bc3-337c-4e3d-9297-c60a7da5341d",
+      "title": "Hit the Gym",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87b72aa7-6fc8-46cf-b5c1-f31b8b0e9962",
+      "title": "クマミステリー",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500291",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/571JEnAnXoKoKVApgNEMdV",
+      "isFallback": true
+    },
+    {
+      "id": "27b31e26-2b3c-498a-b524-3a9096226a44",
+      "title": "きらめくカラフル",
+      "artist": "福原遥",
+      "isrc": "JPKI00917179",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "54f45013-d9a9-4f73-a470-538dfa1edf31",
+      "title": "いろいろ大好き",
+      "artist": "福原遥",
+      "isrc": "JPKI00917186",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "317e45c8-e74b-4938-9e81-b41acc542e10",
+      "title": "トッティのライン",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600752",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/13WwoRlNmOpr3H2KHT1EI0",
+      "isFallback": true
+    },
+    {
+      "id": "5efda9f8-c7d4-4c34-83ab-6ab46fc657eb",
+      "title": "かくしごと〜メインテーマ〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100361",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5v4becdITdPK5sUdDaWhbs",
+      "isFallback": true
+    },
+    {
+      "id": "1dee3f4f-19ec-49ad-b4c7-1cef75a30bf8",
+      "title": "A thorn in one's side",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450200",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/53IgNZyc1RA4bvULV49Aft",
+      "isFallback": true
+    },
+    {
+      "id": "d52bf214-4486-40cc-854e-701deba81653",
+      "title": "トロピカル・バケーション",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800038",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6GncLE3go9bAiBAHZGQP3y",
+      "isFallback": true
+    },
+    {
+      "id": "46df4389-7619-41da-97f9-7b997b7f5e0a",
+      "title": "さあ炒めよう",
+      "artist": "福原遥",
+      "isrc": "JPKI00917184",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9689b66c-a003-4cbb-9541-245b22b95b97",
+      "title": "クマリア",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500308",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1GOw11j3B3fAOzkW6uoxkV",
+      "isFallback": true
+    },
+    {
+      "id": "c42d5b00-e23a-4f08-937a-7845f6febd73",
+      "title": "ですめたるなピアノ",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100418",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2IUlzvIGjDZNWS8H7jiTvZ",
+      "isFallback": true
+    },
+    {
+      "id": "62ec7ca0-1588-40e8-8162-a90046d0f138",
+      "title": "チアルーガ!",
+      "artist": "野中藍",
+      "isrc": "JPKI00706742",
+      "releaseDate": "2007-08-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6ca6371-c6f3-466f-8288-018a2a137ede",
+      "title": "チワワ注意報!? その1",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a090b65-ca97-46c5-831c-26ccd556feba",
+      "title": "いたずらを仕掛けて",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203660",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2iO87HgYE3mrUPkpNqGGFc",
+      "isFallback": true
+    },
+    {
+      "id": "3b7fa6a2-3652-42c6-9e37-81c7dff1164b",
+      "title": "ゴージャスメル",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500300",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0ATWiaxI9i13YeMImI6YhX",
+      "isFallback": true
+    },
+    {
+      "id": "a046aa99-64a4-443b-8c0c-10b8efd8ba5a",
+      "title": "いい熱ね",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203750",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/6pL3tp5QnLuB9QaMYjyVNa",
+      "isFallback": true
+    },
+    {
+      "id": "debaacae-2da5-48f8-a10c-bb57049a996a",
+      "title": "あなたへ捧ぐ夜想曲",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800054",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2XbwGQMDDKmEH2Y74yAJq7",
+      "isFallback": true
+    },
+    {
+      "id": "22cafe56-9196-4d5a-853f-b10c874fd6f8",
+      "title": "デザイアー",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500298",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5VKmq0m195aUeyqNI29azk",
+      "isFallback": true
+    },
+    {
+      "id": "0aac7fe0-82d3-4991-b6cd-5bf619faa48b",
+      "title": "さよならは水の国",
+      "artist": "清水愛",
+      "isrc": "JPI100702560",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "946295fd-bd2b-4f55-923e-4e73ae801104",
+      "title": "WE LOVE YOU",
+      "artist": "宮崎羽衣",
+      "isrc": "JPI100700042",
+      "releaseDate": "2007-02-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fe7920ab-a4c2-4350-a5a2-0e4a20df806c",
+      "title": "いいよ",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450530",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/35wloKBzeCrH8SOSiNzOmv",
+      "isFallback": true
+    },
+    {
+      "id": "57e1f8b2-41f8-4b3b-ac19-23a3a6859f12",
+      "title": "おしゃれ大好き♡",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203690",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/31T20o5jeVnzqyNYCJqAq4",
+      "isFallback": true
+    },
+    {
+      "id": "fe50c20e-16df-445c-9a0c-af379b3fdee6",
+      "title": "とらベビ!",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bac29091-a170-4e30-b784-5ab8d6893328",
+      "title": "かくしごと 〜acoustic guitar〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100363",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2DyMXA8ZHsXQV4MsNvL6KF",
+      "isFallback": true
+    },
+    {
+      "id": "5560fe75-00bd-4ccf-b2b7-95bb06f33dfd",
+      "title": "つるぺた",
+      "artist": "琴浦春香",
+      "isrc": "JPG751300019",
+      "releaseDate": "2013-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/1IRmCv8RiOsa2tj4ZwkVpG",
+      "isFallback": true
+    },
+    {
+      "id": "0228b873-d3d4-4a6f-b23d-3c8e32e93e36",
+      "title": "Wild Wind",
+      "artist": "水野理紗",
+      "isrc": "JPM200400666",
+      "releaseDate": "2005-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa21ba4e-fe7b-42cd-8234-75ba3ddfda05",
+      "title": "たのしいね",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100407",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4JzLzorVMobJm0mO4d0JT1",
+      "isFallback": true
+    },
+    {
+      "id": "2d3c27c3-5524-4791-a390-fe2f662d537d",
+      "title": "Your own way",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450320",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/7umZ0TtDc12oQeKfa3dS9T",
+      "isFallback": true
+    },
+    {
+      "id": "bb92161e-9f31-477e-ac79-65a83b57f040",
+      "title": "Theme of Hibiki",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db9d378b-9bf2-4ca9-91bc-69d9bb82c3f2",
+      "title": "かわいそうな人だから",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100402",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3MLCirmbka1O5zi0jlvN9M",
+      "isFallback": true
+    },
+    {
+      "id": "a93b755a-aae2-484a-97d9-dbf9326285e7",
+      "title": "スイート・エイティーン・ブギ",
+      "artist": "佐々木彩夏",
+      "isrc": "JPKI02012987",
+      "releaseDate": "2020-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/1fYZfzq0MsJvKhdzyXP2dN",
+      "isFallback": true
+    },
+    {
+      "id": "0ae098b5-8764-49b7-a442-1e6c40bc0138",
+      "title": "イヤなものはイヤ",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100397",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6DyEHgBGFSteT9zrdA9LRB",
+      "isFallback": true
+    },
+    {
+      "id": "40880b88-a5fe-4d87-a29e-cc04b533350b",
+      "title": "たいへんだ〜MAX!!",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100383",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5KirMObtD5syExYlhTNASO",
+      "isFallback": true
+    },
+    {
+      "id": "a6156ebf-a82c-450d-b442-09a861e23925",
+      "title": "デッド・ラインダンス、デス",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00709687",
+      "releaseDate": "2007-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/1s0A892sN90TAQCPet5slq",
+      "isFallback": true
+    },
+    {
+      "id": "dfc2dca9-59ce-459e-a340-ee2f1546ff70",
+      "title": "トト子、18歳",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900762",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26716c34-1740-450c-aa9d-27eec70e7294",
+      "title": "クマタギギギギ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500319",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3tYfSPDo36JJj3C7VnCk3Z",
+      "isFallback": true
+    },
+    {
+      "id": "26d30156-fa23-4772-8922-5a83b7bcf944",
+      "title": "あなたがいるから",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201880",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3700fe1-564d-41da-b75c-a57e6ab8c81c",
+      "title": "ダンケシェン・ウィッチーズ",
+      "artist": "エーリカ・ハルトマン",
+      "isrc": "JPCO00907560",
+      "releaseDate": "2009-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/2sSuDnU2wNpg7ClucCzOnC",
+      "isFallback": true
+    },
+    {
+      "id": "f5fe8a41-2708-41ee-8ed0-f3cfa331c716",
+      "title": "あしたの三十路",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d4e9e89d-c632-45d2-9e86-ef1eb01f9247",
+      "title": "アルの旅立ち",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201970",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6c70b4da-ff01-4065-ae26-889125bfad03",
+      "title": "ゼロイチキセキ",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01600580",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/0UtenPOTLeL7UuY51opcGB",
+      "isFallback": true
+    },
+    {
+      "id": "8d0459e1-9e49-42d6-9670-023eb429a87f",
+      "title": "おイモ音頭",
+      "artist": "福原遥",
+      "isrc": "JPKI00917190",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3cf0cb0-172a-4426-8c22-07cbf2f8b704",
+      "title": "うわさの真相",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201820",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3ca79806-0e42-4e90-b09c-4736295d06eb",
+      "title": "White again",
+      "artist": "小早川紗枝",
+      "isrc": "JPCO01731960",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/0yScfEUhlYep3hB8JUQ8DI",
+      "isFallback": true
+    },
+    {
+      "id": "601f62a0-ec47-4486-984e-eed45f308440",
+      "title": "Uneasy",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450260",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3dbF8NGx8zrszvxebcUQUr",
+      "isFallback": true
+    },
+    {
+      "id": "01bba17b-445f-4734-8cc8-52c1b84344e8",
+      "title": "シナプスの鏡",
+      "artist": "邪神かがみ",
+      "isrc": "",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "214e03f5-7f62-436d-9177-f470912d75d1",
+      "title": "それぞれの夢",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201730",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e56d21fa-59c5-41fa-92c4-5e54ba756bbc",
+      "title": "エトワール",
+      "artist": "新谷良子",
+      "isrc": "JPI101301681",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "627bd2b9-bb88-4a5e-8f66-2def9d757103",
+      "title": "ときめきデコレーション",
+      "artist": "福原遥",
+      "isrc": "JPKI00917192",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9232201e-0929-47e7-a217-865ff01be0c0",
+      "title": "さらざんまいのうた",
+      "artist": "矢逆一稀",
+      "isrc": "",
+      "releaseDate": "2019-06-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2d45932f-7051-4ef3-8f36-19a4f2408902",
+      "title": "トロイメライ",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100420",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/51sOO2v8yZjnGGWEfAfugt",
+      "isFallback": true
+    },
+    {
+      "id": "2e39e183-c2fb-42d9-a031-cafbbe97a2f5",
+      "title": "テンション高っ!!",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100394",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6KC6JzYSB4SMytWbXeYAlG",
+      "isFallback": true
+    },
+    {
+      "id": "18e49ff4-7deb-49cf-bee3-c8716d84899b",
+      "title": "つ、辛い、、",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100368",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5PLne2hNEujWbSMtUbORYd",
+      "isFallback": true
+    },
+    {
+      "id": "f86fe350-b8af-47b7-8e8b-1b28b5ed412d",
+      "title": "シーソー",
+      "artist": "田所あずさ",
+      "isrc": "JPI101501421",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/2qyXlk4PiPPiBN8mF8Vfpz",
+      "isFallback": true
+    },
+    {
+      "id": "eb3d979d-ffaa-498a-8e33-58b8386f5470",
+      "title": "クマテール (むかしむかし)",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500297",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/64UXEgpFGRoFuYN3YiEUwG",
+      "isFallback": true
+    },
+    {
+      "id": "38183088-81b2-4e10-9621-2812e904ca51",
+      "title": "ちぎれた夢",
+      "artist": "福原遥",
+      "isrc": "JPKI00917177",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17759978-c818-4200-a8f8-7690b3287f72",
+      "title": "たのしいね 〜Instrumental〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100406",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/40h36dVqu0bGWXQUMDyK55",
+      "isFallback": true
+    },
+    {
+      "id": "b1606b37-0b61-4f38-a66c-b11b30d383f5",
+      "title": "かくしごと〜記憶〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100362",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3NDXLGRMM8m4jX3W88mSV5",
+      "isFallback": true
+    },
+    {
+      "id": "a5b0dd3d-b56f-4eaa-8a7b-f71a6e362f6b",
+      "title": "スキだから",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500302",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5ll4OKGvmHYA2Cza7Uum3F",
+      "isFallback": true
+    },
+    {
+      "id": "8a19f4e0-b0aa-4286-8dec-b050af62919b",
+      "title": "ごちゃまぜ片思い",
+      "artist": "福原遥",
+      "isrc": "JPKI00917180",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6cca7440-e8f1-4038-af2e-cc785819e98e",
+      "title": "Treasure",
+      "artist": "碧陽学園生徒会",
+      "isrc": "JPK270900145",
+      "releaseDate": "2009-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/1hYoGrQWj6uDUenT9SYgEi",
+      "isFallback": true
+    },
+    {
+      "id": "b227fde0-11f2-4fb9-a3c6-c113b31f939a",
+      "title": "デカパンによる説明",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900760",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "95af7f56-2e52-49a5-80c4-714a0f9d321a",
+      "title": "カフェモカ・サイド",
+      "artist": "StylipS",
+      "isrc": "JPI101500076",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/2QiVQyDalZTAuOERRoSNsR",
+      "isFallback": true
+    },
+    {
+      "id": "5afdc8c9-940e-42cc-aea5-12689ac44554",
+      "title": "ゾンビサンタ",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600755",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/5lktrLzWM0c8FCwplcFrtS",
+      "isFallback": true
+    },
+    {
+      "id": "7f2eb93a-3519-4770-acad-987cdcb89c10",
+      "title": "ドキドキが止まらない",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201610",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b2fe86bd-3f32-4d23-831e-0984c7ffd7e3",
+      "title": "チビ太のオデン",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600772",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/3X7yonBcG7hrfRbMWEnI5l",
+      "isFallback": true
+    },
+    {
+      "id": "79259b25-6617-4f35-aaf6-db9344902093",
+      "title": "いざ、神降ろしへ挑め",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800070",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7zrg5llvKCaKkoK1RHYp6e",
+      "isFallback": true
+    },
+    {
+      "id": "7c93b60a-c3ae-4c31-8dcf-3c63e2904a65",
+      "title": "キャストトーク",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae899537-feed-4201-9bc0-ceacb8dbfa0a",
+      "title": "きみあけ",
+      "artist": "野川さくら",
+      "isrc": "JPI100701192",
+      "releaseDate": "2007-08-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f7ead70f-6565-4dd1-ab11-43fe47074eb2",
+      "title": "それだLove!!",
+      "artist": "クローバー",
+      "isrc": "JPI100500690",
+      "releaseDate": "2005-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36296e33-610c-40e9-8860-74840e65dcfa",
+      "title": "Two hearts as one",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450370",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0gRd3NKFaS6eFrPYr15CO8",
+      "isFallback": true
+    },
+    {
+      "id": "301c169f-bc71-48ca-89ef-60ec20c72313",
+      "title": "True feelings",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450220",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/1hmhQIcgsfpXUlgzk3p4nF",
+      "isFallback": true
+    },
+    {
+      "id": "eb37a081-497f-4986-9388-e643b70c6611",
+      "title": "とある三十路の開幕寸劇",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3aa2f55-c026-4446-bf5a-731094b42451",
+      "title": "ウォールルルル",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4c45296-96d6-423d-a159-208e3650d7b1",
+      "title": "あたたかい幸せ",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100400",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/22zeNjv3GokXKLloOY0Y4z",
+      "isFallback": true
+    },
+    {
+      "id": "38e49f7a-7fc7-44c4-898e-176641f9457e",
+      "title": "つないで、つないで",
+      "artist": "野中藍",
+      "isrc": "JPKI00817962",
+      "releaseDate": "2009-01-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3a75491b-3ec8-4fa4-a95c-d20114dc73ba",
+      "title": "これまでの私",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203570",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/4EkPq7RZ6qQGeir0trWnWq",
+      "isFallback": true
+    },
+    {
+      "id": "c7fe3a09-3a3c-4b22-916c-7dce2acec094",
+      "title": "スローライフを始めよう",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201590",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "df8697c1-972a-432a-a462-a5af5f22dc31",
+      "title": "チワワ注意報!? その2",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7eb1a509-8b68-4867-81c1-52302fe83700",
+      "title": "ウォールルルル2",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83ae33bd-caa5-4905-89a3-d1b7fa86ae0b",
+      "title": "Yellow heart",
+      "artist": "ミオ",
+      "isrc": "JPCO01418420",
+      "releaseDate": "2014-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/2MMU47e20bpAdARfwbiTVZ",
+      "isFallback": true
+    },
+    {
+      "id": "f20fce70-1552-4df1-9e3c-f67d12217b67",
+      "title": "ガールズトーク",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800039",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7JOHh62NZBLBcnXnr4vFhY",
+      "isFallback": true
+    },
+    {
+      "id": "c5c1d40e-2d27-43d7-b92d-f56011d65568",
+      "title": "た、たいへんだ〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100382",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6DBkHAPB7WEzTN4alIXnod",
+      "isFallback": true
+    },
+    {
+      "id": "30b28572-b417-4736-a742-2e12cdd31889",
+      "title": "カワウソイヤァ",
+      "artist": "新星玲央",
+      "isrc": "",
+      "releaseDate": "2019-06-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c0a09cd-5ca7-4dc6-8d80-c7e71c5fd628",
+      "title": "たまごのワルツ",
+      "artist": "福原遥",
+      "isrc": "JPKI00917178",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d7e7177-304e-4abd-90f6-673b4d35aa79",
+      "title": "ダヨーン百面相",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900761",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82368493-a625-42cd-8180-f81358f022d8",
+      "title": "どんだけファンファーレ",
+      "artist": "泉こなた",
+      "isrc": "JPI100701535",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/1fOcdgZqihXwUPMfW7lKok",
+      "isFallback": true
+    },
+    {
+      "id": "b36d5d94-5b80-4dbe-8ea5-b2f40d545d98",
+      "title": "カラ松の懺悔",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900747",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9bd4a65-1d05-4937-95a9-8f070c0ae8c8",
+      "title": "どういうことか説明しろよ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201840",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "07cfad19-a3ec-48b3-8f4d-7699e4343865",
+      "title": "キスして",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500301",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7hgHoxSTlpGDESzX1TOFXm",
+      "isFallback": true
+    },
+    {
+      "id": "017450f3-2724-47b0-b929-84cf2487f83c",
+      "title": "Treasure 2010",
+      "artist": "杉崎鍵",
+      "isrc": "JPK271000027",
+      "releaseDate": "2010-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/1HNhdJWAsij7BQREQ2v0Fl",
+      "isFallback": true
+    },
+    {
+      "id": "a4677b65-db61-40c9-a6a5-b97618abbf52",
+      "title": "コミュ力おばけ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203650",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2oE64lsFENHoXsIPQyTq3g",
+      "isFallback": true
+    },
+    {
+      "id": "c5f645b9-2e25-4355-9acf-0a6f9460731d",
+      "title": "うまくいかないことだって (Komi-28A)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203920",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4PK24zaJj4qzZ47x19szbg",
+      "isFallback": true
+    },
+    {
+      "id": "4553bd37-40e8-4cd3-a741-96c72bdfd677",
+      "title": "チワワ注意報!? その3",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7c83af7f-49dd-4ff4-9e01-57e270bbcdf5",
+      "title": "クマショック!",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500314",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1A3x9ImW7S4VSBJ0eCc4Sx",
+      "isFallback": true
+    },
+    {
+      "id": "3188aa12-3468-417c-8644-599de5c4bb6b",
+      "title": "いざ、勝負! (Komi-50)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204230",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6XY7WDc1rdTbWrrmfiLXkj",
+      "isFallback": true
+    },
+    {
+      "id": "da0aaeb2-1794-412b-8417-3c6c9c05813f",
+      "title": "Theme of Machio",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "48f59fbf-df60-4e48-9458-85f8360010f7",
+      "title": "イライラ",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100366",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/0XQEKEb1LSqGElEsrI2ja4",
+      "isFallback": true
+    },
+    {
+      "id": "c6ff72de-d204-42d3-9549-4ccb18ecdd4e",
+      "title": "デイジー・ブルー",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600504",
+      "releaseDate": "2006-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/3a4Uj0cPdm8msWgwthBDy0",
+      "isFallback": true
+    },
+    {
+      "id": "de22f0a2-dc56-410c-863d-d440226eed3b",
+      "title": "ブリッジその10 (Komi-40B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204110",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/2TuclYaScu9axCb8Be4vo7",
+      "isFallback": true
+    },
+    {
+      "id": "6b436785-77e3-4c8c-a1e2-782f4542713c",
+      "title": "レッド、雷光のごとく",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201580",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e35a2ef0-cc46-4f3c-8797-cfb160d58284",
+      "title": "マリオネットの心 (M@STER VERSION)",
+      "artist": "星井美希",
+      "isrc": "JPCO01133960",
+      "releaseDate": "2011-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/6FO9SUFNboDIJ1gl83LaLh",
+      "isFallback": false
+    },
+    {
+      "id": "de1e1df9-6734-46d0-937f-f5fb3e211928",
+      "title": "不可思議な出来事",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100404",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5lLK8eEi6Z1BaeEn5R9THn",
+      "isFallback": true
+    },
+    {
+      "id": "a779db41-8e37-4cef-bf22-bbbbe3ed55ec",
+      "title": "ニュース番組",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800037",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/0618NT16yhR9MsIAFV4mCj",
+      "isFallback": true
+    },
+    {
+      "id": "9ef33563-698d-49da-ad22-f894a3621557",
+      "title": "パレード",
+      "artist": "9nine",
+      "isrc": "JPVI00702490",
+      "releaseDate": "2007-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/7vXdpkAKGWoFElxNEhcmMw",
+      "isFallback": true
+    },
+    {
+      "id": "fda71d9a-9ac6-4712-aeef-cf74434ed46c",
+      "title": "ピッコロ",
+      "artist": "風浦可符香",
+      "isrc": "JPKI00915811",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7EnZ2TKXw7DdSikMi9r2s9",
+      "isFallback": true
+    },
+    {
+      "id": "a8fc68f3-fdff-41af-8e5d-70ca3a1af399",
+      "title": "ひめごと",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100416",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6PObtI7OahK7dtLZklGwVi",
+      "isFallback": true
+    },
+    {
+      "id": "bea976fc-54ba-4320-b8a4-d5bef120e8a9",
+      "title": "ブックマーク ア・ヘッド",
+      "artist": "服部静夏",
+      "isrc": "JPCO02026600",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f487975a-c24b-4ef9-a084-63600badb883",
+      "title": "今日こそ、勇気を出して…",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203620",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/6XNGZe48PVR5AUsbA2OLJp",
+      "isFallback": true
+    },
+    {
+      "id": "08842b13-968e-4e03-8fd5-8bd65027407b",
+      "title": "何かいいことありそう",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100390",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5crIAy8qEucdYfkQtPJiHU",
+      "isFallback": true
+    },
+    {
+      "id": "ad495d51-36c9-4c1d-bd47-3d39168778fe",
+      "title": "三十路からのメッセージ",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b77b5e8f-9a10-4a9c-9582-d573c9b173b6",
+      "title": "ユリラビリンス",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500292",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/76Fwd0u0w73PqKHlZvaAYM",
+      "isFallback": true
+    },
+    {
+      "id": "21087e1b-f471-4dc2-9769-b097c04ca8ef",
+      "title": "ブリッジその4",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204040",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2C3hJDnStWQUXdYNJ6qOAg",
+      "isFallback": true
+    },
+    {
+      "id": "c69b8731-0734-427a-abe7-52cbb8d05a48",
+      "title": "初戀は柘榴色",
+      "artist": "西王母桃",
+      "isrc": "JPI101001807",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b9fdbfb0-d890-48b4-a7a5-432669dc6c2c",
+      "title": "ブリッジその3",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204080",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/1oCN0ndjfU7aQnDUwVozh3",
+      "isFallback": true
+    },
+    {
+      "id": "42472a0c-3480-4b40-824f-b5eda3259a66",
+      "title": "仲間の輪が広がって",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201640",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49006420-6c3f-449b-8836-6d9c323947b2",
+      "title": "俺様の出番だぜ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201690",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "06855f8d-7444-4c20-9500-c3c14654a2bf",
+      "title": "ユナユナ デイドリーム",
+      "artist": "ユナ",
+      "isrc": "JPCO01420250",
+      "releaseDate": "2014-08-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f307865d-e1bb-4f54-a682-d003404b2a06",
+      "title": "ユリフレンズ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500304",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/51fsehQintNsqkiCQNtiQY",
+      "isFallback": true
+    },
+    {
+      "id": "48b546af-4756-4e21-9646-ecc3c1978300",
+      "title": "パリパリパリジェンヌ",
+      "artist": "福原遥",
+      "isrc": "JPKI00917187",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "675b59e5-b5ef-409f-b322-77dcf07c5999",
+      "title": "古いけど新築の家",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100405",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4ZiLpVF91U5RL1Hb47K2h0",
+      "isFallback": true
+    },
+    {
+      "id": "fd7fa8c8-52b9-47a5-981e-918f0284d269",
+      "title": "ヤムヤム☆キャベツアー",
+      "artist": "福原遥",
+      "isrc": "JPKI00914202",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f44c3ea9-7504-4a59-a048-81d7f1b49750",
+      "title": "ハイテンション・ブラザーズ",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900748",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "464e6aec-7812-4154-b7c3-b8b20c780dd7",
+      "title": "冒険者は引退する",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201780",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b837bef8-0433-46b3-93e8-29cc09310f8e",
+      "title": "マッチ売りのイヤミ",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600785",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4uMr4FMNGL8M5519Ew67jM",
+      "isFallback": true
+    },
+    {
+      "id": "6003de4d-e976-4a97-b0bb-eebb0c55883f",
+      "title": "友人帳の名前を数えて (Komi-06C)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203640",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5WhwKQD75cbmAuZKdHNB06",
+      "isFallback": true
+    },
+    {
+      "id": "5f621862-2a4b-4f8b-9d8a-3dc1f4159864",
+      "title": "モノクローム",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100423",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4jhoTQmstEQYQ5VWRYqWbR",
+      "isFallback": true
+    },
+    {
+      "id": "2017990d-d691-486b-9744-22483cb2b9b7",
+      "title": "バランスKISS",
+      "artist": "あこりこ",
+      "isrc": "JPKI01011582",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9a944a30-d1c3-442e-a199-886aa68f496b",
+      "title": "ユリクマ・TO BE CONTINUED",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500312",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3tJ89nsX9QVH2AbB6IaCyy",
+      "isFallback": true
+    },
+    {
+      "id": "860a7a24-ea9a-4299-a4dd-40365d90c3ac",
+      "title": "ブリッジその2",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204100",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/6u5m5jmJpnweSvqM8FLYHB",
+      "isFallback": true
+    },
+    {
+      "id": "c092f9ae-471d-4817-bedf-481da61529ef",
+      "title": "りん",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450270",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/7uXH5Gf7Q00S37MoJ88iqE",
+      "isFallback": true
+    },
+    {
+      "id": "5ea42f5b-abe3-42af-91b8-b375cafe4579",
+      "title": "まだまだやれそうだ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201860",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5309660-f605-45e4-9433-d018ce165d26",
+      "title": "ブックマーク ア・ヘッド",
+      "artist": "宮藤芳佳",
+      "isrc": "JPCO00827770",
+      "releaseDate": "2008-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/4dqgZvHVe3P0LB3LNa38jR",
+      "isFallback": true
+    },
+    {
+      "id": "1890cf4e-f402-469e-a841-59bd10efb8b5",
+      "title": "まだまだまだまだすれ違いが?",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800044",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5uEMWVlwzot9UCyRu4lVxC",
+      "isFallback": true
+    },
+    {
+      "id": "8cb1ed34-59d1-46d0-95f7-a76d41307b9d",
+      "title": "ぶつかり合うそれぞれの主張 (Komi-36)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204010",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1ZLp4lFnRsD0QuAUARuith",
+      "isFallback": true
+    },
+    {
+      "id": "0783b479-727b-453c-8a65-4d582648ce3a",
+      "title": "事件の予兆",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800053",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/57ilbiSXUWfylDXzHlKJ7S",
+      "isFallback": true
+    },
+    {
+      "id": "e9d22b0e-a0fd-46f4-8d37-9949d4572840",
+      "title": "ニャー将棋音頭",
+      "artist": "川本あかり",
+      "isrc": "",
+      "releaseDate": "2016-12-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9dc811bd-eb94-482a-a50a-0957622e9e02",
+      "title": "ユリクマ・絶体絶命",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500313",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/09oIYg5gSQaB3hadL56utE",
+      "isFallback": true
+    },
+    {
+      "id": "8dcf5ae8-fbac-49d2-be60-e2f50d388d92",
+      "title": "みんな集まろう! (TP Melo)",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d92d1787-a955-4a48-a356-b1d0bc1d0b80",
+      "title": "何故?",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450550",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Nc8gVHtwqNDOuIBoxUOIW",
+      "isFallback": true
+    },
+    {
+      "id": "3545e5cb-9b74-4e39-aa1a-3429c9520551",
+      "title": "ほれっ・ぽい",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00812375",
+      "releaseDate": "2008-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/5FDyeeV3iORkP8U3lDIV0G",
+      "isFallback": true
+    },
+    {
+      "id": "bcd34dfe-9d80-4831-9dc7-8ff3dc2fec20",
+      "title": "なかなか伝わらない",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100410",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5TASwAvaTYqWXvaWraq6Ll",
+      "isFallback": true
+    },
+    {
+      "id": "efe60824-981b-4d36-930a-b95ada14ee3f",
+      "title": "ふれあい",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500284",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4eYpH6rYvwW4yefMhkUXht",
+      "isFallback": true
+    },
+    {
+      "id": "d516e130-80d7-4033-9d0c-594ca3b4b25a",
+      "title": "加護",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201600",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/76BQqREn2oepTo9TNzf3FL",
+      "isFallback": true
+    },
+    {
+      "id": "50b423f1-2b2a-4ea7-b945-e977541b8f21",
+      "title": "二人静",
+      "artist": "薄蛍",
+      "isrc": "JPI101001808",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "502156ad-6024-431a-9c51-ac41846356c3",
+      "title": "何を企んでいるんだ? (Komi-34A)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203980",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4sVaTTJ2BreCDh610OIb8g",
+      "isFallback": true
+    },
+    {
+      "id": "d4fc836b-55e3-4b49-9cfc-7df7641848c6",
+      "title": "ふたりの未来",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500305",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4Rp8MsRFxQ0XG49qsj9MAf",
+      "isFallback": true
+    },
+    {
+      "id": "a92bc57e-ab0d-454d-85c4-bb225b1e9141",
+      "title": "優美なる英雄リット",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201560",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05f710cb-f520-43bd-b7c1-96a15980245c",
+      "title": "ルーティの孤独",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201510",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "98477a97-cc73-4877-b5d1-fafb4a0a9f35",
+      "title": "ユリエレジー",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500293",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5n62E9hknac2AeHf1u8QtL",
+      "isFallback": true
+    },
+    {
+      "id": "5186a5bc-35bd-42ec-8def-c03499f63c46",
+      "title": "マドンナの隣を狙って",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203900",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/6l0CRYs2BjLJ49dDVy0vCC",
+      "isFallback": true
+    },
+    {
+      "id": "5aca22d1-ff95-48de-8700-e1006562a27c",
+      "title": "初代勇者の剣",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02202000",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "269e57b6-181e-4918-be13-ba5ad106e1ba",
+      "title": "切ない悲しみ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201760",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "89a0f7da-d3a0-4d99-a6b2-3f5384c903cc",
+      "title": "ポジティブな夢",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100380",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4K1qshCjO6VwSAKj4A3HCI",
+      "isFallback": true
+    },
+    {
+      "id": "1583a9ae-2a2f-4740-b88d-d8e341c51db4",
+      "title": "まるごとれにちゃん",
+      "artist": "高城れに",
+      "isrc": "JPKI01711096",
+      "releaseDate": "2017-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/0WaIgyRxjFPAx00yNsXu4q",
+      "isFallback": true
+    },
+    {
+      "id": "5814e273-3791-4172-ab9b-e0f19ae6d78f",
+      "title": "刺客、出現",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800058",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5Vy7HbLS8tMCBPSzqytYAJ",
+      "isFallback": true
+    },
+    {
+      "id": "45498f49-c9ac-4311-8da3-794fe475181f",
+      "title": "ユリ、承認!",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500287",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2Tj6poOqJeyuiPbytLkgVV",
+      "isFallback": true
+    },
+    {
+      "id": "561657d2-00ef-43a2-91b6-608abf67e573",
+      "title": "ミステリアストワイライト",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500289",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/34nRnRftgX73C1yP40LqjP",
+      "isFallback": true
+    },
+    {
+      "id": "256ee53e-aaee-4281-b781-b6dcf903b512",
+      "title": "一歩ずつ、一歩ずつ (Komi-34B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203990",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6jIMBedFodeZFsQPr9cg56",
+      "isFallback": true
+    },
+    {
+      "id": "13ac90c2-46ca-4b03-ab63-0c4431331720",
+      "title": "勇者ルーティ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201500",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4cc952c5-96b9-48dc-aebb-3a11425eb5f3",
+      "title": "二人の距離はどれくらい? (Komi-03B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203590",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7iqxJyqHbmpIxdAao4gB4v",
+      "isFallback": true
+    },
+    {
+      "id": "d580e715-8a64-4b02-8225-9a380348db6e",
+      "title": "初めての修学旅行 (Komi-43)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204150",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6YgpA2KoDGR326oioJKpyw",
+      "isFallback": true
+    },
+    {
+      "id": "d6d3d72b-4d78-4441-bcd1-1e4f456efa1d",
+      "title": "俺を雪の世界に入れて",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450170",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2I4ZSmsumEZGzHsxOVQbaB",
+      "isFallback": true
+    },
+    {
+      "id": "4a911220-d763-4aa3-931e-ef635e396b36",
+      "title": "仕事場は通常営業",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100369",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3ydJIOxgbs3cKDRx6L4z7C",
+      "isFallback": true
+    },
+    {
+      "id": "01039ad8-bdf0-4c89-8dc5-a072423ca371",
+      "title": "ブリッジその8 (Komi-38B-2)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204050",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/3g8nyQz5r4Rbd7mg9Lzr0T",
+      "isFallback": true
+    },
+    {
+      "id": "68118f49-1fac-4913-8b4e-24aebf6f1c16",
+      "title": "ミラノ天国",
+      "artist": "高須泰子",
+      "isrc": "JPKI00911708",
+      "releaseDate": "2009-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/10b69gVJnrlSgyCHsq5Sc3",
+      "isFallback": true
+    },
+    {
+      "id": "5c7df5cb-1dd3-48f1-8b48-c99f087136da",
+      "title": "不安",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450540",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/48Ckz6kVei4Q5kyCwd6XzX",
+      "isFallback": true
+    },
+    {
+      "id": "dec15668-89c8-48cf-aee1-cdfe6308e1f1",
+      "title": "ホーリーナイト",
+      "artist": "逢坂大河",
+      "isrc": "JPKI00911714",
+      "releaseDate": "2009-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/5ddIxPpqLDN5KgzbdwvBKk",
+      "isFallback": true
+    },
+    {
+      "id": "34886204-585d-4b34-9e1b-44908c5f4378",
+      "title": "ヒトリとキミと",
+      "artist": "南條愛乃",
+      "isrc": "JPPI02200020",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/4OMYpusWgx6NSLbrJASU4R",
+      "isFallback": true
+    },
+    {
+      "id": "b18534a8-6c86-4132-83ec-1facd51826c8",
+      "title": "俺たち付き合おっか?",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450190",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/15dFfyz7Iq70ajZeyAzCBv",
+      "isFallback": true
+    },
+    {
+      "id": "c740d028-0949-4d41-bcc4-476943960b9e",
+      "title": "ブリッジその1",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204070",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/3LW05A8m92oryv09ECWa6A",
+      "isFallback": true
+    },
+    {
+      "id": "e4bdfaa9-dfdc-4e7a-b29f-8027fb47708f",
+      "title": "フンス! (Komi-23B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203860",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/3xlUgBMVlypAANE1jonUIz",
+      "isFallback": true
+    },
+    {
+      "id": "87f68367-9bdb-49ec-8dab-2b2373afb37a",
+      "title": "主人公は、この俺だ! (Komi-49)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204220",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7fjC02GDRbPQ4AWse4Y5Xf",
+      "isFallback": true
+    },
+    {
+      "id": "75053f78-f8a5-4349-ae1f-63ad16d2dbc6",
+      "title": "友達100人できるかな (Komi-01 Inst)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203540",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/3SPQu5yhN9EO1MBXnJbDiU",
+      "isFallback": true
+    },
+    {
+      "id": "0768cc5e-4c80-4259-b687-1ef3b5bf7b74",
+      "title": "ブリッジその9 (Komi-40C)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204120",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5JAOhRkyrI7c4iNprDnDBb",
+      "isFallback": true
+    },
+    {
+      "id": "3cbf7785-978d-4cd2-9661-ff28a7eee033",
+      "title": "なんちゃって?",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800042",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/36Ur6CciDmzTardloqO41k",
+      "isFallback": true
+    },
+    {
+      "id": "de1dbd78-bc82-4602-8bdb-68415529be37",
+      "title": "一生懸命",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100392",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5D9UDHhzHlQuEUK5Aq6XSb",
+      "isFallback": true
+    },
+    {
+      "id": "e28186bc-7315-42c1-ae76-3595bcef1b32",
+      "title": "マジカルオーブン",
+      "artist": "福原遥",
+      "isrc": "JPKI00917191",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f59268c5-e836-4a0e-9c3c-293f95be9463",
+      "title": "原罪のAperitif",
+      "artist": "姫",
+      "isrc": "JPI100701306",
+      "releaseDate": "2007-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fe6c8b3-86d8-4378-9262-8bd09c7b6695",
+      "title": "わけがわからない",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100388",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4vWbT8qPUHYrSUtJSFvYur",
+      "isFallback": true
+    },
+    {
+      "id": "bac09a91-4ef7-47ec-88e1-6ff390d2879d",
+      "title": "ユリクマ・PRELUDE",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500311",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3G6YeeU5J2Fsm3CAEpHTby",
+      "isFallback": true
+    },
+    {
+      "id": "0d32b99c-24e7-4367-ab2a-c82cce2807cd",
+      "title": "みんなと過ごすクリスマス (Komi-44)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204160",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5aLHAlwBwVI1WGWpXyhnk7",
+      "isFallback": true
+    },
+    {
+      "id": "552f7651-ec1f-4deb-b193-71227261e242",
+      "title": "ブリッジその6 (Komi-39B-2)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204090",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/2WUiL8FPaRamOMJ6KXbU6Y",
+      "isFallback": true
+    },
+    {
+      "id": "d2c1539f-969b-4590-99af-951ff90d2152",
+      "title": "パパは本当はカッコいい",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100376",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3EKiMEC88WAcnrVGVCxb3C",
+      "isFallback": true
+    },
+    {
+      "id": "3f562d5d-ac47-4676-957c-eeb7fec76762",
+      "title": "ヒートアップする学級会議 (Komi-41)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204130",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1seXX2lHrZpb4pd4RjgFaJ",
+      "isFallback": true
+    },
+    {
+      "id": "d5239cf5-8f4a-4bef-9f27-dbd54b76b426",
+      "title": "ニート達の喧嘩",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600743",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/1YjtPrFlPaFzolZDBozVFb",
+      "isFallback": true
+    },
+    {
+      "id": "e2729578-fc07-4a99-bce9-d97e753b28d0",
+      "title": "ブリッジその5 (Komi-38A)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204030",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/3xVIKy3RMdHUYxv6MVbhbp",
+      "isFallback": true
+    },
+    {
+      "id": "f57d31e1-7273-4e93-ac7e-5f37b26f2bc4",
+      "title": "ほっとした",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100409",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5izQPuhXn8hnWYDcSrLsOr",
+      "isFallback": true
+    },
+    {
+      "id": "b848211e-c9a8-4a69-838c-71173f0e9cdc",
+      "title": "ユリアムール",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500316",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1mw9b60zcaK89Shqby8G8V",
+      "isFallback": true
+    },
+    {
+      "id": "51b77d7a-2e4b-4a12-bc3f-041b3650977c",
+      "title": "ユリダーク",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500315",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4lDuN4TUdUK8vtMgj3I0Ur",
+      "isFallback": true
+    },
+    {
+      "id": "1dfadbe6-2ddc-4596-9058-29a61044acc5",
+      "title": "ゆっくりでいいですよ～ (Komi-16)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203760",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5WgufoZSCanDsr5CETYmgr",
+      "isFallback": true
+    },
+    {
+      "id": "bf3936c4-9aae-4e62-9ae4-39709057b50f",
+      "title": "事件発生",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100399",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/1mdBab17Cf7T9Ux4nN9NkR",
+      "isFallback": true
+    },
+    {
+      "id": "2362233e-513c-4c48-88c5-bc07dfac1211",
+      "title": "ブリッジその7 (Komi-39A-1)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204060",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7Flqa2MdpR9qZOyHkNoPZL",
+      "isFallback": true
+    },
+    {
+      "id": "3a8b168a-4751-4071-a2a6-e778f87c4689",
+      "title": "一人目の友達に",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203580",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/1cI0S7CYFwWMKs9P2DsoGc",
+      "isFallback": true
+    },
+    {
+      "id": "ee1797f9-f9a2-4ad8-808a-354372fb8ce7",
+      "title": "ネコとディスコとサカナ",
+      "artist": "弱井トト子",
+      "isrc": "JPT551900733",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/2BiuXxRPjUfFqgDvtvHBis",
+      "isFallback": true
+    },
+    {
+      "id": "68efd6ae-cae0-4ea0-a5a6-77bfed1226eb",
+      "title": "作戦会議",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800062",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2oIsZd3yPHdwJDbIugh7T4",
+      "isFallback": true
+    },
+    {
+      "id": "686e11c6-471f-4440-b64b-bf6d04b95851",
+      "title": "姫と可久士 〜オルゴール〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100419",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3w5qo5YDEYvnjfgl9J395K",
+      "isFallback": true
+    },
+    {
+      "id": "546aa3a3-13ac-4d31-8a5b-9693ebaf7a06",
+      "title": "暗躍",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800056",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7dftxaMnkwCTLZOLOBwgWw",
+      "isFallback": true
+    },
+    {
+      "id": "7f965085-0938-4df6-b209-52238f9b5329",
+      "title": "小学生の姫 〜Instrumental〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100370",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6bBHtJqsEe3EdRCUm19Ley",
+      "isFallback": true
+    },
+    {
+      "id": "aff05632-3071-40f3-a609-08e4a8aaddd4",
+      "title": "大パニック! (Komi-35)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204000",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6JXSmQODsuvdZwjJ4w4W6O",
+      "isFallback": true
+    },
+    {
+      "id": "54e5aaaf-5288-4020-8492-02062bbbbafa",
+      "title": "失恋サンバ",
+      "artist": "北村祐作",
+      "isrc": "JPKI00911702",
+      "releaseDate": "2009-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/7trUJE7tNR0DxJRNtpAkL8",
+      "isFallback": true
+    },
+    {
+      "id": "cc24bf50-b724-476d-84c3-fc429256f535",
+      "title": "教室に残るチョークの香り (Komi-46)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204180",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7pdqrwFuVIBo2esqfEA6hA",
+      "isFallback": true
+    },
+    {
+      "id": "cb9a632e-c2ac-4889-8ea1-a4d7ad7f2336",
+      "title": "君を想う時 (Komi-30)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203950",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/0EVuMDo7izzkOT5Mffc1PA",
+      "isFallback": true
+    },
+    {
+      "id": "adbd0192-3eed-4f23-9b5b-ee9b9a55b0ac",
+      "title": "天空の炎～miragem～",
+      "artist": "今井麻美",
+      "isrc": "JPK631204806",
+      "releaseDate": "2012-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/32W1ScviOjBmZnh2MOvazg",
+      "isFallback": true
+    },
+    {
+      "id": "3e1b8a85-3d58-4a7d-a5b9-9d99a5be6a58",
+      "title": "暴走する狂気",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201740",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6e285525-b30c-49d8-b27f-47f21cf684e2",
+      "title": "怪談",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100381",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/7qOkF81m6NPkcXBeylau0E",
+      "isFallback": true
+    },
+    {
+      "id": "6541e89d-1f19-41d3-a214-96da30a504df",
+      "title": "息を潜めて......",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800052",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2rDbEYmh5Gb1LXjNrbqa9S",
+      "isFallback": true
+    },
+    {
+      "id": "be9f55b4-f039-4c36-b59e-8bd8618e3168",
+      "title": "思い出の中のイヤミ・増幅",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900744",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb80af89-9cab-4ca8-b3f2-955fc0f7864a",
+      "title": "旅立ち",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500310",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2ztoEgsjOYpPuSpoOiK2Xl",
+      "isFallback": true
+    },
+    {
+      "id": "c3d968e8-b226-49ce-90d6-1d7491640956",
+      "title": "多忙な高校生 (Komi-08B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203670",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5N55kCZTmhRZC6HpZK7ZhL",
+      "isFallback": true
+    },
+    {
+      "id": "dadd9111-462d-4bbd-9997-40d2489463a6",
+      "title": "待ち遠しいの",
+      "artist": "福原遥",
+      "isrc": "JPKI00917176",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fa1a5f3-d8fd-44af-a99d-b7b79af043d4",
+      "title": "旅の左手、最果ての右手",
+      "artist": "リコ",
+      "isrc": "JPD731700280",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6fbdaa8b-a109-46e2-94fa-e5aea679ae10",
+      "title": "心配事",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100385",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2FupcWz23kd78m8v0l56Sk",
+      "isFallback": true
+    },
+    {
+      "id": "f42513cd-fd2f-4ee6-9180-e4140e24310a",
+      "title": "恋バナ",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450290",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/27i5XJkgkYHnJAKbdMU4Ay",
+      "isFallback": true
+    },
+    {
+      "id": "345e71f2-34fa-4bd4-aded-814820ac5d1e",
+      "title": "四つ葉物語",
+      "artist": "クローバー",
+      "isrc": "JPI100600096",
+      "releaseDate": "2006-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50531906-fa3d-48f5-8a56-fef17b7c8bc2",
+      "title": "戦闘開始",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800063",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6kCAXzhLar1gjU2WhEv6q6",
+      "isFallback": true
+    },
+    {
+      "id": "e97bf2fe-40ec-4618-97cb-6f8047f016d4",
+      "title": "少女よ、何も恐れるな",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800072",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/23hTbynAyftbmSJ1Ti6VF1",
+      "isFallback": true
+    },
+    {
+      "id": "5b581c9c-46b8-46e3-8b68-cb2d40aea299",
+      "title": "明日に希望を",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800036",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/02uNY3BbNC2jl7694FiIL4",
+      "isFallback": true
+    },
+    {
+      "id": "51dfac73-61c6-4d0a-870a-3024a08549f8",
+      "title": "夢の中の出会い",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800033",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6NaR0gMrf8RbI2iojACOZ8",
+      "isFallback": true
+    },
+    {
+      "id": "dd9a621a-72c0-439f-8af2-9e181813e530",
+      "title": "夢見るスタイル",
+      "artist": "福原遥",
+      "isrc": "JPKI00917188",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eebc6d5e-ca5d-4ede-a0b6-8e42fa75424f",
+      "title": "月の娘と森の娘",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500281",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2OYWU0OLfoXBXTCeWACK7I",
+      "isFallback": true
+    },
+    {
+      "id": "7c6cade2-f71d-4fe4-b7e6-846e576bacca",
+      "title": "少女よ、決意を燃やせ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800071",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2ZMcjXj1cMyuK5j292S6iw",
+      "isFallback": true
+    },
+    {
+      "id": "38f9fabc-d246-4c5d-8221-583cdc199f56",
+      "title": "夕焼けに伸びる影",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203820",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2XyHriYpIVY2i1xmpRPuhS",
+      "isFallback": true
+    },
+    {
+      "id": "e8902206-cf75-4887-8459-790508e9a2aa",
+      "title": "対峙の時",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800057",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/6kwkiuYQ7k5swwpDYqxzEE",
+      "isFallback": true
+    },
+    {
+      "id": "7f30b036-3e61-4f4a-b2c7-96bab06a0bae",
+      "title": "思い出の中の世界〜異変",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900745",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5223a339-c26e-48db-8048-49dc7dc921c9",
+      "title": "小学生、姫",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100371",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/0HmtEzj1XY5OJL9D8kU8FG",
+      "isFallback": true
+    },
+    {
+      "id": "fff63faa-4488-49ff-b624-240634776948",
+      "title": "夜空にまたたく星座たち (Komi-22 Vocal)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203840",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1NwobES8ghQpebTtn6678h",
+      "isFallback": true
+    },
+    {
+      "id": "3086a063-8784-40a1-b6bf-a0f08eb62838",
+      "title": "怪しいな",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100384",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3x4bfllXWUV3DqcEtkdtJK",
+      "isFallback": true
+    },
+    {
+      "id": "b7ed128e-8f40-4132-a5b9-2d064439e689",
+      "title": "明日はもっといい日に",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203830",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/63bjQFWel9VIZOf8VSBX7Q",
+      "isFallback": true
+    },
+    {
+      "id": "026337e4-add7-45ab-80d7-feb0b64e57ca",
+      "title": "姫と可久士 〜Instrumental〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100364",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/1Qkna0AMwmiMl734kgA2qa",
+      "isFallback": true
+    },
+    {
+      "id": "7b6f4cb8-1ccf-468d-b24e-181e1470c9eb",
+      "title": "嬉しい出来事",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100396",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4eyDz6TVcUKDp6V6xXwhBp",
+      "isFallback": true
+    },
+    {
+      "id": "6e288610-c452-4e27-b123-dc6cd19f4481",
+      "title": "思い出の中の世界〜崩壊の始まり",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900746",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "286484ab-e073-4292-8476-141b3a5058cb",
+      "title": "寝る前にちょっとピアノを弾こうか",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100378",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/7Czb5GWfGfjmesMNB6HsYw",
+      "isFallback": true
+    },
+    {
+      "id": "b102bdaa-7ad4-4c38-acf5-f8de47459688",
+      "title": "春、新たな出逢い",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203850",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/3qJFXJH25i1iA373Bk1yHq",
+      "isFallback": true
+    },
+    {
+      "id": "4226d3da-37ab-4bd0-a67c-d985dfa47d02",
+      "title": "新学期、波乱の幕開け (Komi-42)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204140",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4Sv0HjaLgylFXbpThyKbSh",
+      "isFallback": true
+    },
+    {
+      "id": "9dc80606-ca31-4dae-93cc-4e85165ca8df",
+      "title": "妄想デートの行き着く先 (Komi-29)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203940",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5kO6EGnbBbEcz6Jym7lkpW",
+      "isFallback": true
+    },
+    {
+      "id": "af026d5a-fad8-4c98-bf71-aad75636290b",
+      "title": "寝る前に何を話そうか",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100377",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/6kFfMyT20nuoqdiI7EXn38",
+      "isFallback": true
+    },
+    {
+      "id": "ac813e22-c7ad-4094-b5c5-e5c7683f05cb",
+      "title": "恋人たち・ときめき",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500282",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0fA9s6OBQL446FcD8wrvCh",
+      "isFallback": true
+    },
+    {
+      "id": "5b0e94ae-2c94-4bb4-8169-0fdf77479277",
+      "title": "新しい旅の始まり",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02202010",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bce03ae8-d462-4378-8123-5db64a132f4c",
+      "title": "姫と可久士",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100365",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5DAOw9gV9p4sjWeNsNnCDs",
+      "isFallback": true
+    },
+    {
+      "id": "2f410e68-c4a5-4e00-a47a-2225797cfa09",
+      "title": "恋する旅行少女",
+      "artist": "清水愛",
+      "isrc": "JPI100702559",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aaa4da9f-8c6e-4955-9c5b-303f3feb6996",
+      "title": "御前にて",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800032",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7xBLC9RPWUC2kKCz7yfjjr",
+      "isFallback": true
+    },
+    {
+      "id": "31dc611c-20ce-4360-8747-d847f84da322",
+      "title": "土下座",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600771",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/0DLgG0LMWWaSsnrJiCs5kH",
+      "isFallback": true
+    },
+    {
+      "id": "76b613c8-2319-4dcc-96c9-022842ac4805",
+      "title": "悪の華・戦い",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500295",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/70C2n9CnMc2sZYwl6cSuSR",
+      "isFallback": true
+    },
+    {
+      "id": "e19bc237-48fb-422c-b8b6-8f8c2b8bc8b6",
+      "title": "懐古 (Piano ver.)",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86fe8707-bab1-41be-9040-595a8325c4a6",
+      "title": "可久士、ピンチ!!",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100389",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4mViFnm7sMPZysLh3cCDuI",
+      "isFallback": true
+    },
+    {
+      "id": "5fb7c0d7-3a38-4127-ae1b-e033c4b7d724",
+      "title": "悪魔の加護",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201800",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "00a12bb0-7d8c-473e-9192-c4aad249daa2",
+      "title": "承認フィールド・逆転",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500296",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3mc1jUraeNq5kqbDryW1uL",
+      "isFallback": true
+    },
+    {
+      "id": "5c03750c-43b0-4ad4-825e-734817c37044",
+      "title": "懐かしい思い出",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100422",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/0LoFRfSUyrZDYoTNJEIfmf",
+      "isFallback": true
+    },
+    {
+      "id": "ee11e623-9f11-42af-a5e6-a2ff604eee15",
+      "title": "悲しい予感",
+      "artist": "marianne Amplifier",
+      "isrc": "JPVI00444330",
+      "releaseDate": "2004-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/23QBW0MfQDNg5NQpFThyH5",
+      "isFallback": true
+    },
+    {
+      "id": "ac008fe5-9a3a-4aef-881f-aa97f36edf64",
+      "title": "旅の途中で希望の歌を歌おう",
+      "artist": "菊地美香",
+      "isrc": "JPVI00603070",
+      "releaseDate": "2006-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/5xj6I4aFNQIURURasudR6I",
+      "isFallback": true
+    },
+    {
+      "id": "94a50ea3-7754-4d38-8915-285b48e6f33a",
+      "title": "排除の儀・透明な嵐",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500294",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5DczfMawSyPZA7ab3IjMog",
+      "isFallback": true
+    },
+    {
+      "id": "72122b27-2f7d-4fbc-b68a-6f01a4a63c43",
+      "title": "恋路ロマネスク",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00710791",
+      "releaseDate": "2008-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/6eYDrZ0hEvFF0qUZvAcBg3",
+      "isFallback": true
+    },
+    {
+      "id": "d6039c46-1811-49c4-bde7-2dd59319e988",
+      "title": "困惑",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100395",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/1eAldoba4wEPLCpEIGB8kl",
+      "isFallback": true
+    },
+    {
+      "id": "619fe71e-3b22-4a17-9cab-71c16499ef87",
+      "title": "完全体おそ松さん",
+      "artist": "五阿弥ルナ",
+      "isrc": "JPT551900753",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "98f2bfa0-3dc2-40f5-9a20-ac1eb888b2d5",
+      "title": "怪しい来訪者",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201810",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "964d99bb-da2f-4c51-8ed3-e0eaff3dca2d",
+      "title": "承認の戦場",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500307",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/6NZ1g4rDkJgWcJaOesIbVH",
+      "isFallback": true
+    },
+    {
+      "id": "0656a021-93e1-4f77-92d1-b10be59e4fa0",
+      "title": "安らぎの瞬間",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800035",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2roHQ3lGdac718VXBb6knd",
+      "isFallback": true
+    },
+    {
+      "id": "c92f5371-879f-4d5d-ba9e-a3fc9bf3125e",
+      "title": "対決のプログレッシブ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500285",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3tYTtkKLgTeIjcuJVh43uc",
+      "isFallback": true
+    },
+    {
+      "id": "f9e7e7c1-4344-4288-b3f9-54fadc5a9f3a",
+      "title": "断絶のコート",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500286",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4S0bUVGGkCc6XgxxiI5Twc",
+      "isFallback": true
+    },
+    {
+      "id": "fa513d64-0b95-495f-8ec2-a8ee77ca8d04",
+      "title": "未来を紡ぐ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800051",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2wphbeNmfhsKN90pnfi8w5",
+      "isFallback": true
+    },
+    {
+      "id": "4aac102e-4691-40bf-a806-8330a12abecc",
+      "title": "未だニート",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900758",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7d607882-97eb-462e-ba5e-b6262d15e6a0",
+      "title": "可久士、暴走",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100373",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/1DHMK1HnfKqhnmCQfpvJZy",
+      "isFallback": true
+    },
+    {
+      "id": "4d4a2693-eb15-4185-9630-4ac598c8665b",
+      "title": "商売繁盛",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201830",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2776ddc8-756d-415c-8e39-3e89b9933073",
+      "title": "未来は明るい",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100411",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2IE9oTy6a0HhPdTKqxWBWp",
+      "isFallback": true
+    },
+    {
+      "id": "305f46e9-783f-4568-a2a2-c0003a461325",
+      "title": "怒りMAX",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100367",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/1qGBTIgoveIQ6s0ePbzSPn",
+      "isFallback": true
+    },
+    {
+      "id": "601d7b20-290e-4198-a759-3dab8aedf94c",
+      "title": "楽しいイベント!!",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100386",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4fA2I4KMmd78RSqhxyqQza",
+      "isFallback": true
+    },
+    {
+      "id": "9a45ae76-81d2-4951-9662-32ddff64738b",
+      "title": "帰ってきた三十路",
+      "artist": "あおしまたかし",
+      "isrc": "",
+      "releaseDate": "2011-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3acc4231-f8be-4d13-bcf7-3003d24c0227",
+      "title": "恋シテル!",
+      "artist": "9nine",
+      "isrc": "",
+      "releaseDate": "2006-02-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6f105e5-6e61-4d0b-b0db-6574b2c8734a",
+      "title": "排除の儀・予兆",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500283",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7MMpzFv776PijUF1TB3vJ4",
+      "isFallback": true
+    },
+    {
+      "id": "5213be35-ddce-4d4e-86e5-00eed4ac322a",
+      "title": "広がっていくクラスメイトの輪",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203800",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/6aLtSl8Jw5XII3kYEDa23j",
+      "isFallback": true
+    },
+    {
+      "id": "579ceb6c-c39e-45fe-913b-fdc1c47076c8",
+      "title": "寄り道して帰ろう",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203810",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5fIprcVRsUVoQMtu3e2YKK",
+      "isFallback": true
+    },
+    {
+      "id": "d27679cf-8ba3-4d53-b3a0-bbe807783f3a",
+      "title": "姫の悩み",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100391",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3ffykTvyBnzf4DFvlvXCTN",
+      "isFallback": true
+    },
+    {
+      "id": "79554ce6-b00e-424e-973f-70cb8401d6fb",
+      "title": "断絶の壁",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500280",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7yaXbaRuYqR6S3g3pYb8Va",
+      "isFallback": true
+    },
+    {
+      "id": "73b54f27-9c34-430a-82f9-8adca4f92824",
+      "title": "思い出の中のイヤミ",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900743",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d3a8d7fc-a171-4b13-aad4-671a5e583725",
+      "title": "思春期バスターズ",
+      "artist": "佐伯ユウスケ",
+      "isrc": "JPT551900750",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "af732c2f-752f-49fc-bdbc-1716e356817f",
+      "title": "変わらない毎日",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800048",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/1PiUvWQu7a5J1AQWDKgeGy",
+      "isFallback": true
+    },
+    {
+      "id": "051b150b-d8c5-437d-9bdc-789ca461d058",
+      "title": "巨大チビ太、巨大トト子",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900752",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d251564e-cad7-466a-b437-a594b638de3b",
+      "title": "安らげる場所",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203870",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/07ewdfvm5fka0OAE0gyVL7",
+      "isFallback": true
+    },
+    {
+      "id": "1759b5e6-2583-4ba2-85a8-0d3639a99eda",
+      "title": "姫は天然",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100375",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5Lnp4XQOnsoVaDyCOlnTZg",
+      "isFallback": true
+    },
+    {
+      "id": "f3cc071a-e8fa-45bc-9414-9c0888d08600",
+      "title": "思わくちがい",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201770",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f20b091-69e4-4de0-8ece-9a6ef53dce93",
+      "title": "思い出の世界〜予兆",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900736",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21a9465e-8880-4161-a661-05a18031af56",
+      "title": "小さな恋",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203700",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5kERcvcPLTSc6ld08L4mZw",
+      "isFallback": true
+    },
+    {
+      "id": "f9eef3a9-864b-4b27-94cd-f5e1235273c8",
+      "title": "恋の予感",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100393",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3bW6zrFCQHVpLKTtm894DW",
+      "isFallback": true
+    },
+    {
+      "id": "a52c72ac-484f-4121-9844-691e5e982493",
+      "title": "彼とフライパン",
+      "artist": "福原遥",
+      "isrc": "JPKI00917181",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d1d7f3f2-650d-4b55-8896-502d100a1104",
+      "title": "失った思い出",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100414",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4NZLt5jxicSVLXrxtAYK78",
+      "isFallback": true
+    },
+    {
+      "id": "553306cd-d4ba-434a-81aa-23badf86c902",
+      "title": "可憐な少女",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203610",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0fPqekuuM5yiWOMdR2z28T",
+      "isFallback": true
+    },
+    {
+      "id": "a1373f70-9709-4672-99b5-7d43b687cce3",
+      "title": "君へとつなぐココロ",
+      "artist": "中町かな",
+      "isrc": "JPKI00912839",
+      "releaseDate": "2009-08-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ea784df-ba23-496a-99c8-6812ebe2fae2",
+      "title": "定点観測",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204020",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5NpECBZ0IECaw2o4jzP5vo",
+      "isFallback": true
+    },
+    {
+      "id": "f3feac22-f567-4f90-94bc-98fb3515eaf3",
+      "title": "悪の華・カーニバル",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500306",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4NQPcmSx7xjWuLWqL3VL60",
+      "isFallback": true
+    },
+    {
+      "id": "d7be4123-9d3b-4c6e-83cd-23e86064646d",
+      "title": "失敗は成功のもと (Komi-28B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203930",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/495sYW9TSJzdI7iE2Kn2TW",
+      "isFallback": true
+    },
+    {
+      "id": "61a2fae1-f3b3-44ee-a3d8-60db6712e5a8",
+      "title": "放課後、何する?",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203780",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2yvpbpTyqkKJFkvr65DUYn",
+      "isFallback": true
+    },
+    {
+      "id": "6dc20bf0-5e3c-41b6-b683-b120c7b37e0d",
+      "title": "大切な想い",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800047",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/7byZ4ZETAD3zXvzS6LvqmD",
+      "isFallback": true
+    },
+    {
+      "id": "d8b38f98-1da6-433c-b99c-fb556f273616",
+      "title": "承認フィールド・紅羽",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500288",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3mK6lDMTBAhJcF9XIAVJi9",
+      "isFallback": true
+    },
+    {
+      "id": "21bbbb99-8728-464d-9288-dc6a23c36b7b",
+      "title": "始まりアンダンテ",
+      "artist": "虹原いんく",
+      "isrc": "",
+      "releaseDate": "2007-10-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "771f1b0d-ea18-4805-a5a6-d19151910c26",
+      "title": "折神紫の真実",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800073",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/1B0wxjypY2CQGeMtzkqI1n",
+      "isFallback": true
+    },
+    {
+      "id": "2802df81-4c0f-49c5-b226-83463d42702e",
+      "title": "焦りのカラオケ",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900757",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "552d7e24-ab7a-4f0d-8130-84d618b5cb6d",
+      "title": "赤面",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201900",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ef3d094-b1d7-4d0b-9fb2-999188fa8e5b",
+      "title": "淡く光る",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800046",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/1wUIEYBy1ntfJTdk6ir9sf",
+      "isFallback": true
+    },
+    {
+      "id": "78db5e55-1c07-4d4e-8233-cf897814a07e",
+      "title": "酔っ払い登場",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450300",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/04AZWutB71GDPMIemz4PpQ",
+      "isFallback": true
+    },
+    {
+      "id": "d9384a73-2622-4ca9-bbdf-39bf81dbe348",
+      "title": "湯気の中のガマン大会",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201680",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "accfaf4f-24a3-4636-897e-b2345994f4b1",
+      "title": "結ばれる思い",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201750",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7be2413-b197-4bf6-931f-2f6e9b00ac83",
+      "title": "過ぎし日の思い出",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201710",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3a039e5-048e-4b2e-be07-c1b8a02d688e",
+      "title": "説明しよう",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100374",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5pbBDYkmXyToYi8CuhhxzU",
+      "isFallback": true
+    },
+    {
+      "id": "8090ebd4-c09a-4389-8d02-41967c9516f7",
+      "title": "騒動勃発",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800043",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5mRdnpPQSJy6fNiie2cybB",
+      "isFallback": true
+    },
+    {
+      "id": "05a00796-a970-4e30-bf1f-231f58f1a1b8",
+      "title": "狂信的崇拝",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203710",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0TrGXNMk4hzpFbkWAC6qbw",
+      "isFallback": true
+    },
+    {
+      "id": "d27cf138-1d93-4021-adff-8ad37555cb5c",
+      "title": "通学路にて",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203770",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0k34Tu5qTra9XEj9a19amG",
+      "isFallback": true
+    },
+    {
+      "id": "d5ab7dbf-1bbd-4602-8195-6e903fb14f43",
+      "title": "螺旋の春",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01700850",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/1issN7RYru2eyVyZYNzTbr",
+      "isFallback": true
+    },
+    {
+      "id": "35ba22b1-1a18-4062-89bf-1ba9e4d74833",
+      "title": "胸いっぱいの幸せ-Piano ver.-",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201670",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3a20b51f-fc34-40c5-a078-6c3c48686c22",
+      "title": "漠然とした不安",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201790",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "914677c7-18c0-4ea2-8226-d72ce5e9e03c",
+      "title": "高橋さんからの手紙",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900755",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b1d0d2e5-937e-46f8-80b1-aec117b3ec6c",
+      "title": "父への想い 〜Instrumental〜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100412",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/59J7LfFwEFjvbA89CvBk39",
+      "isFallback": true
+    },
+    {
+      "id": "093bf032-2777-4772-a081-7b5867ce044a",
+      "title": "胸の痛み (A. Piano)",
+      "artist": "橋本由香利",
+      "isrc": "",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "23027007-477d-4022-a5bd-a924bab2a52b",
+      "title": "鎌倉の家",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100421",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2D2QSUGe7AGAAI9xwTVMDc",
+      "isFallback": true
+    },
+    {
+      "id": "eac4e519-3586-4c7d-acc6-d63c5fe96398",
+      "title": "煮込んでスマイル",
+      "artist": "福原遥",
+      "isrc": "JPKI00917185",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "983872c2-05e9-43ec-af79-f6850fb6ece4",
+      "title": "赤塚ホテル",
+      "artist": "松野カラ松",
+      "isrc": "JPT551900734",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b660ca59-22ec-41f7-bf30-9739f14273f5",
+      "title": "面貸せや。 (Komi-48)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204210",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7wQxrrulb3II9K0o6ECPXh",
+      "isFallback": true
+    },
+    {
+      "id": "45ab1e18-4567-4837-9cf2-1098e8954ab2",
+      "title": "青い空の下で",
+      "artist": "福原遥",
+      "isrc": "JPKI00917189",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "265b536d-ff09-464c-89c2-9c91e3c83eae",
+      "title": "隣の席に咲く高嶺の花",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203550",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5qETPQ1kQ3Kz9S37xE73Fx",
+      "isFallback": true
+    },
+    {
+      "id": "87abcbb2-0362-4407-9505-f2da5b7291c9",
+      "title": "純情マスカレイド",
+      "artist": "雪洞",
+      "isrc": "JPI101001809",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ff294a6-8b70-41c3-8930-a05cfe11ed85",
+      "title": "蕾がひらくとき (フルサイズ)",
+      "artist": "夜刀神十香",
+      "isrc": "JPCO01311190",
+      "releaseDate": "2013-06-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a6a2e150-76a0-46c5-ac71-6e46c4fbdd46",
+      "title": "絶望レストラン",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00913974",
+      "releaseDate": "2009-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4WIsJHVCRTCiuXOHYIOFFk",
+      "isFallback": true
+    },
+    {
+      "id": "87441988-4633-4d81-b6ef-1b64f02d8717",
+      "title": "華やいだ街で (Komi-27B)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203910",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/25J1T6DQ8tm7MVvjhk7AGg",
+      "isFallback": true
+    },
+    {
+      "id": "ca8922fc-a818-4bfb-8594-6d8b2bcbec66",
+      "title": "青空の真下へ駆け出して",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203790",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/1dduwDb4NrNDdkAVMVjdYK",
+      "isFallback": true
+    },
+    {
+      "id": "843eca03-1b04-4af6-bccd-4ac7e92ca573",
+      "title": "競馬",
+      "artist": "橋本由香利",
+      "isrc": "JPT551600793",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/2qjdGDsIZ17EvsuZLye8kL",
+      "isFallback": true
+    },
+    {
+      "id": "1d90806e-1e17-4765-80ef-cb8b40919c7a",
+      "title": "胸いっぱいの幸せ-Violin ver.-",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201660",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e9242e1-3707-42c5-b282-540631fe0ad2",
+      "title": "芽生えていく初めての感情",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203960",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5sn9wRJ1c9cAQPhQhaWixz",
+      "isFallback": true
+    },
+    {
+      "id": "1bf5dabd-abcd-4c69-a1fa-84bf414e8cfb",
+      "title": "記念写真",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900756",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "02eb0278-bf34-420c-87d0-a8656d82f0a2",
+      "title": "突然",
+      "artist": "橋本由香利",
+      "isrc": "JPPI02450560",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6bLbwwbX7qf9hwh0wtT3jq",
+      "isFallback": true
+    },
+    {
+      "id": "9b763eb7-a675-43d5-8cac-16066707b13a",
+      "title": "素顔のリット",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201570",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bbb7d923-7a78-49cc-8b19-ff0cd9b66335",
+      "title": "眼帯奥の邪眼",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203740",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/2W9FDKiWj0RYhTkJX3yy9q",
+      "isFallback": true
+    },
+    {
+      "id": "53d1a15c-57a8-4196-a236-c22f9df61487",
+      "title": "病室から鎌倉まで",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100415",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5pA2du7EdeX3fuWNULwnRV",
+      "isFallback": true
+    },
+    {
+      "id": "3616c76c-8560-4703-9e8d-0e6a618c4c89",
+      "title": "鎮魂曲",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500290",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4kw7K4n0awMaQ7Ir0aYqQs",
+      "isFallback": true
+    },
+    {
+      "id": "02f2505f-af92-4304-a23a-b33516df27f5",
+      "title": "約束のキス",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500309",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7AKXH8jLH2qwtzUjs8CAGj",
+      "isFallback": true
+    },
+    {
+      "id": "7a54f645-b477-4a09-9626-0afa14fd3fe6",
+      "title": "進め、進め、科学を信じて!",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800041",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/3T7scPoO56jn9tt1gv87Mj",
+      "isFallback": true
+    },
+    {
+      "id": "e9b9e003-eeb8-4f4c-97b7-38c41538a2aa",
+      "title": "犬を飼うこと",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100417",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/4hkT0Bg0wljQgTwstFKDPN",
+      "isFallback": true
+    },
+    {
+      "id": "acfb9e62-845c-4417-9b63-493765155fc6",
+      "title": "高橋さん",
+      "artist": "橋本由香利",
+      "isrc": "JPT551900754",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b13725cc-a884-4530-beb7-53f14b1780fb",
+      "title": "橋の上の騎士",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201960",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53514a46-f458-4bc7-9733-1cce102f54e5",
+      "title": "窓から差し込む月の光 (Komi-33)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203970",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4QY1wvaOQepdZ5wMgVK5Th",
+      "isFallback": true
+    },
+    {
+      "id": "8d17ec0f-a762-47db-ae81-573e18c760e4",
+      "title": "黒く染まる心",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201950",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a17d20e6-fb08-4cd6-a0e1-6476bc1a2df2",
+      "title": "関係≧方程式",
+      "artist": "古橋文乃",
+      "isrc": "JPE301901144",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dbbccadc-bab0-4c9a-8686-c0f27f0be0bc",
+      "title": "風花",
+      "artist": "四条貴音",
+      "isrc": "JPCO01034190",
+      "releaseDate": "2010-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/27ej4fhzNvQ6CFMEU1Hc7k",
+      "isFallback": false
+    },
+    {
+      "id": "4e824300-c588-4d0b-a330-5859be66db37",
+      "title": "次回予告",
+      "artist": "橋本由香利",
+      "isrc": "JPE301601098",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/4pnQY18UpZ0bPBChFuhc6p",
+      "isFallback": true
+    },
+    {
+      "id": "a8ad208e-7c68-4055-80b9-e24754f14e3f",
+      "title": "通い合う心",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203630",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5sHStpT1JsWJPfbTSBV8mE",
+      "isFallback": true
+    },
+    {
+      "id": "84eb15b7-3cfa-4f59-8812-bb356df3c765",
+      "title": "清廉な朝",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800034",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/0BkUbByBX2mlKDjPns1lOr",
+      "isFallback": true
+    },
+    {
+      "id": "d4abf3ed-7856-4bd1-8f4a-9f8caa9f694e",
+      "title": "沈痛の魂",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800050",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/1prCnpEuCP4uDLh51GUY8W",
+      "isFallback": true
+    },
+    {
+      "id": "b16e93d6-98ff-43f8-9982-f1b8c9733b9c",
+      "title": "波風の立たない高校生活を",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203560",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0kCalUaHOxrn3GXJtzfAbm",
+      "isFallback": true
+    },
+    {
+      "id": "d6bf5baf-4206-4a22-9ef8-1583ab89c65f",
+      "title": "負けるのやだ!",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203730",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Xcp8XOacc3OjGjRKC8i0l",
+      "isFallback": true
+    },
+    {
+      "id": "1a2b35d4-217c-4d35-b472-60aa1c8e7520",
+      "title": "素直な心で",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201910",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "93e121f2-8133-494a-a749-582f57003c8f",
+      "title": "踏み出せない一歩",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203600",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/4w99YSPfFVJWoICQwKTny7",
+      "isFallback": true
+    },
+    {
+      "id": "53822bb8-b471-4560-8355-ba33fd4c6e50",
+      "title": "甘くて苦い季節 (Komi-45)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02204170",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/0GiMksDUrwAjOE6TEI1gy9",
+      "isFallback": true
+    },
+    {
+      "id": "38d98e71-10cb-4dba-b3e2-12685d26fa75",
+      "title": "電話帳を見つめて",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203890",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0U3DJRAOJpIcycPEq18oEy",
+      "isFallback": true
+    },
+    {
+      "id": "a1db9773-30b9-450c-94dd-8f600c957fac",
+      "title": "運命の系譜",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100408",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/5HY9laLGpQ04rkvDpMqAPp",
+      "isFallback": true
+    },
+    {
+      "id": "e6c6d0ba-fcf9-41a8-a420-4f00b0309537",
+      "title": "衝撃的な出来事",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100372",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/3Y4gtrsa4qkwvLQ7fdXFOB",
+      "isFallback": true
+    },
+    {
+      "id": "15922eba-368f-428b-b15a-e6b514e5cd8b",
+      "title": "沈黙の理由",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100403",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/2F6emKFqTBb9oRI6016YFs",
+      "isFallback": true
+    },
+    {
+      "id": "9f33afbb-cbf1-4c4b-905e-d390407e0075",
+      "title": "飛空艇、空へ",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201930",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4962b204-1a36-49c6-870d-3f3fd1e4196d",
+      "title": "覚悟のらんらんガール",
+      "artist": "柳生十兵衛",
+      "isrc": "",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22d342b3-604c-4615-988f-67bb671d778c",
+      "title": "蜂蜜酒の味",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201650",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "99be913c-0556-4f53-a908-fa340dd5391b",
+      "title": "真実の元へ",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800060",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/32gZBevLSXOI1jWgDZuXtE",
+      "isFallback": true
+    },
+    {
+      "id": "d604065e-fcb0-44ee-ad8b-322ebe8d24c1",
+      "title": "絶世美人",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00707964",
+      "releaseDate": "2007-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/15pl3qrW4aLNTmLAtdsUIw",
+      "isFallback": true
+    },
+    {
+      "id": "bf788f57-4fdf-4aa3-bf12-72b1ea995b6f",
+      "title": "絶体絶命",
+      "artist": "橋本由香利",
+      "isrc": "JPKI01914335",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/3zakyHVnUliRlCahb3ogVu",
+      "isFallback": true
+    },
+    {
+      "id": "f9352adf-c9f6-4222-acd8-e14725cd33f2",
+      "title": "見つけてHappy Life",
+      "artist": "朝比奈みくる",
+      "isrc": "JPI100601244",
+      "releaseDate": "2006-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/4c0bbqg3sIMu9wq24D4puJ",
+      "isFallback": true
+    },
+    {
+      "id": "7a7377c1-f99c-4370-8838-6eb8a5b937ab",
+      "title": "父への想い",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100413",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/0kvQYpdjwirs65fo6vUts2",
+      "isFallback": true
+    },
+    {
+      "id": "e8948782-84f5-4176-9b89-ea49f3f7d5d6",
+      "title": "謎めいた痕跡",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800055",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/5SYCvYih0aq3lHiLfzquOD",
+      "isFallback": true
+    },
+    {
+      "id": "880559db-5e02-4c45-8401-f9adc03f00e6",
+      "title": "賑やかな帰り道 (Komi-09 Inst)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203680",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/0mKKAf5ktDtge998UJDWCD",
+      "isFallback": true
+    },
+    {
+      "id": "87790eb7-99db-40e3-a631-7bf938c68383",
+      "title": "約束の場所",
+      "artist": "橋本由香利",
+      "isrc": "JPD731500299",
+      "releaseDate": "2015-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2IMFaTQjqSY8lLEc7SBD3N",
+      "isFallback": true
+    },
+    {
+      "id": "229d66a5-88ed-4561-8283-65440eae8a9f",
+      "title": "覚醒ビスク・ドール",
+      "artist": "清水愛",
+      "isrc": "JPA450700167",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d79da7f-a89a-483d-8398-9812565a4e9f",
+      "title": "理想のシチュエーション (Komi-12)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203720",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6niYrca5UWEYz8qKFpp1Vr",
+      "isFallback": true
+    },
+    {
+      "id": "dceb991b-7e68-4a4d-b0ca-74d7220da6c7",
+      "title": "考えてもどうしようもないこと",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100387",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/0pUHzG0vY0f67RvR5vdWcs",
+      "isFallback": true
+    },
+    {
+      "id": "81118825-3086-44e4-9ddc-b90196a64929",
+      "title": "黄昏を追いかけて",
+      "artist": "橋本由香利",
+      "isrc": "JPD731800049",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/4CxT7D7XLXwxA3ocVLflOh",
+      "isFallback": true
+    },
+    {
+      "id": "94de26ca-8940-47fd-abcc-5dd1c6aef37b",
+      "title": "盗賊ギルドの危ないやつら",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02201720",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cf94f71f-c71a-4b46-bc66-e36333f532c6",
+      "title": "次こそはきっと… (Komi-25)",
+      "artist": "橋本由香利",
+      "isrc": "JPCO02203880",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/0LMqNqOlk9fVGHAWqvJvhp",
+      "isFallback": true
+    },
+    {
+      "id": "930e201a-5972-4abe-8a10-cb539755f7f6",
+      "title": "楽しいね",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100398",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/43IEP7KPPEYc23UYOCtnt6",
+      "isFallback": true
+    },
+    {
+      "id": "f4e5fe11-757b-43ab-bd88-0d52aa4ff026",
+      "title": "聞けないこと、話せないこと",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100379",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/531cW3VLONhxajToJVlWLP",
+      "isFallback": true
+    },
+    {
+      "id": "bc589ca1-18b1-4c15-8ace-93c8611f0ab3",
+      "title": "虹のむこうへ",
+      "artist": "福原遥",
+      "isrc": "JPKI00917182",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "486bf277-28ed-467f-80d8-9db0f2c5d74d",
+      "title": "確執",
+      "artist": "橋本由香利",
+      "isrc": "JPT552100401",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/69hRusF60MVoDMCZ9SqrVQ",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,1464 @@
+{
+  "name": "かめりあ",
+  "sortName": "カメリア",
+  "tracks": [
+    {
+      "id": "05547a8b-b6a0-4ea0-8fee-a0c69f0bfe80",
+      "title": "Dream Again",
+      "artist": "Mei Ayakura",
+      "isrc": "JPW561805162",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ULq5hnG9NP1xC3CeNvkmk",
+      "isFallback": true
+    },
+    {
+      "id": "a288b518-2efb-4aa7-a5fa-60afdd401d38",
+      "title": "Circles of Death",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943264",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0vZSJoAGufWMYA0eGQgSR0",
+      "isFallback": true
+    },
+    {
+      "id": "ace05b13-962b-40b6-8804-6548950764a3",
+      "title": "ECCENTRICITY",
+      "artist": "Camellia",
+      "isrc": "JPW562104516",
+      "releaseDate": "2014-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/5PwMxnVR9TvY6FpJMrYMHN",
+      "isFallback": true
+    },
+    {
+      "id": "68155a71-0c2e-4a9c-98ee-360f518a56e8",
+      "title": "MESS",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752307403",
+      "releaseDate": "2023-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/1XLsnuGpQJnsoLgJc8JvvZ",
+      "isFallback": true
+    },
+    {
+      "id": "a705d33b-b6fb-43b5-bd31-766d087c1581",
+      "title": "Seashore on the moon",
+      "artist": "ななひら",
+      "isrc": "JPW561805101",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/72YqoGVJq1g1V9xlBImQFl",
+      "isFallback": true
+    },
+    {
+      "id": "71de268c-7179-45f1-9b53-99f74c0d7ba8",
+      "title": "Play Dice!",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752205594",
+      "releaseDate": "2022-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/1OqSo4mjYjiGRVOCHYZw0x",
+      "isFallback": true
+    },
+    {
+      "id": "547075d4-c6cc-49c3-9e8e-dcbb7788d3dc",
+      "title": "Kanalumi",
+      "artist": "Ninomae Ina’nis",
+      "isrc": "JPV752104194",
+      "releaseDate": "2021-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/2MNHXl3V9GeHwJpzTsvVHi",
+      "isFallback": true
+    },
+    {
+      "id": "b16e81f3-abad-452e-a839-263f192198e7",
+      "title": "NEKO*CHEF",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198061",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1AlhgjiCsmupdTmIiosE8l",
+      "isFallback": true
+    },
+    {
+      "id": "74caf81f-fdcf-4079-9efc-9d3d990ce146",
+      "title": "(The) Red * Room",
+      "artist": "かめりあ",
+      "isrc": "TCJPO2190871",
+      "releaseDate": "2021-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/3ptpWITrbGoyycNPDG6hnd",
+      "isFallback": true
+    },
+    {
+      "id": "7b01a482-dc0f-47e6-be71-a480f1b7d385",
+      "title": "Cha Cha Cha (Camellia remix)",
+      "artist": "Käärijä",
+      "isrc": "",
+      "releaseDate": "2023-07-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5549f59c-48fa-4a63-b67c-4c0fe333a3bc",
+      "title": "Night Raid with a Dragon",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943267",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4e1OHWXoVg3RdfDIn1mDdR",
+      "isFallback": true
+    },
+    {
+      "id": "79c59850-f406-4037-bece-4171e1642ed4",
+      "title": "IoT(※Internet of Things)の女神☆モノノン☆",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182129",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/32IWNXzV7p2c1MSBgRliYS",
+      "isFallback": true
+    },
+    {
+      "id": "84b90ef7-f5e5-4df2-88f5-1ed2c5242763",
+      "title": "PAPAYAPA BASS",
+      "artist": "かめりあ",
+      "isrc": "JPM201700036",
+      "releaseDate": "2017-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a0609f44-9681-41cc-89a2-a105fabbde10",
+      "title": "Rampage☆Rag",
+      "artist": "かめりあ",
+      "isrc": "JPM202000475",
+      "releaseDate": "2020-07-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d12674d-fa7a-4698-8966-d3fc7f8d0393",
+      "title": "Drenched in Air",
+      "artist": "Camellia",
+      "isrc": "JPPC02310148",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/7brON9Fhgk6Kyx1R7puaiq",
+      "isFallback": true
+    },
+    {
+      "id": "43405d44-bb78-4258-8fd4-64fa19b46caa",
+      "title": "HUGE W",
+      "artist": "Mori Calliope",
+      "isrc": "JPV752205661",
+      "releaseDate": "2022-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/3v28Meo8cBnnfDUzpF6Art",
+      "isFallback": true
+    },
+    {
+      "id": "e457a404-3455-464e-a2e9-16d8b1a4a42d",
+      "title": "Looking For A New Adventure (The 4th remix)",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182141",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0qkUHnUM24CeGsscTzRxob",
+      "isFallback": true
+    },
+    {
+      "id": "06babc8e-1521-4f50-bad3-a808748ca786",
+      "title": "SECRET BOSS",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943272",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/6PbWsafeoUcNaRVHgwWron",
+      "isFallback": true
+    },
+    {
+      "id": "a3e1f895-11a3-41c3-8f6f-1c08eb300b03",
+      "title": "【高音質】魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！.mp4 (128kbps)",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947533",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/70aty4gXCB3508oryzoukY",
+      "isFallback": true
+    },
+    {
+      "id": "b49a8c13-954f-442e-8f27-a210d3f641ed",
+      "title": "senpai, notice me!",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182127",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4xy4HFc7eH39420ietJCCU",
+      "isFallback": true
+    },
+    {
+      "id": "b1ec1c62-4154-481c-8cd7-c47b0f62d637",
+      "title": "Pink Panik!!",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184257",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/23SXaPCMD2hEU2d2zfcvLn",
+      "isFallback": true
+    },
+    {
+      "id": "8930debc-6bcb-462b-9177-76ad261fa360",
+      "title": "Blackmagik Blazing",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943270",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0yqPr6KFazzqYM8tci0T5J",
+      "isFallback": true
+    },
+    {
+      "id": "cef31b12-e966-4c20-98de-01273c03b04c",
+      "title": "Nasty * Nasty * Spell",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943265",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/43IXMcgH8IEuTU1zEsyLiA",
+      "isFallback": true
+    },
+    {
+      "id": "32bb0fe0-4b97-4fa4-b82f-768e294609cc",
+      "title": "Lúin øf Celtchaя",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943268",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5lGjnwcOnLpbrPevt9D3wL",
+      "isFallback": true
+    },
+    {
+      "id": "d45cb16f-8012-49df-8062-83abf0831e43",
+      "title": "「はい」って言ったら常軌を逸して速くなる曲",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947537",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5GBRdca7XyjU57ERekDohX",
+      "isFallback": true
+    },
+    {
+      "id": "ccc7cc05-69be-473e-a520-96e21f5862e5",
+      "title": "LET’S TOAST!!",
+      "artist": "ころねぽち",
+      "isrc": "TCJPX2398937",
+      "releaseDate": "2023-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/6jNjtCzmCd8p46O4kRtVTp",
+      "isFallback": false
+    },
+    {
+      "id": "2faeee64-9473-4201-a48e-ef923a52e3ee",
+      "title": "INSECTICIDE",
+      "artist": "かめりあ",
+      "isrc": "JPM201400711",
+      "releaseDate": "2014-08-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9edd15e0-6807-4cba-96dc-14806ab43f17",
+      "title": "あままま叶えてここんこん",
+      "artist": "天満ニア",
+      "isrc": "TCJPT2208015",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/7850fbgXZQna5ERtWbmbcc",
+      "isFallback": true
+    },
+    {
+      "id": "8ab3f37e-82fe-45b5-9f24-8c4fe43409a8",
+      "title": "Lioness’ Pride (Remix ver.)",
+      "artist": "獅白ぼたん",
+      "isrc": "JPV752308059",
+      "releaseDate": "2023-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/1C5MEKRxbilHyY3K1e53O7",
+      "isFallback": true
+    },
+    {
+      "id": "c1f07701-db2f-4d27-8b9f-b385e5a28ff0",
+      "title": "B L A C K - R A Y",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943262",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/12B2SCBtlAZm5VavTeIxn1",
+      "isFallback": true
+    },
+    {
+      "id": "cdfe0483-e07b-4421-ab2f-1a32d95c3716",
+      "title": "Cleopatrysm",
+      "artist": "ピラミッ℃",
+      "isrc": "JPM201500248",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e858d417-8203-4438-8cf1-cc31932b1c8b",
+      "title": "700,000,000,000,000,000,000,000の空で",
+      "artist": "LiGHTs",
+      "isrc": "JPVI02002228",
+      "releaseDate": "2020-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/0Ihb9yQWwBo42pCoyVmNoa",
+      "isFallback": false
+    },
+    {
+      "id": "694711c3-cdb2-431f-a699-1eb53577387d",
+      "title": "AREA 52",
+      "artist": "かめりあ",
+      "isrc": "TCJPO2190881",
+      "releaseDate": "2021-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/0Kel5wzHX85zvJTIRqpUnI",
+      "isFallback": true
+    },
+    {
+      "id": "2ee0f4cd-576d-40a5-ad8c-4d26fdceab7b",
+      "title": "BRACE FOR FRICKING IMPACT",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943263",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5OAs4kvctCIOk4ieE5YajC",
+      "isFallback": true
+    },
+    {
+      "id": "1070570a-703e-4aa9-b49c-b965abcc7263",
+      "title": "Be Wild",
+      "artist": "かめるかめりあ",
+      "isrc": "",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d9b915f-1f37-4704-aeab-8ccce2c86436",
+      "title": "NANI THE FUCK!!",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947538",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/6Ft9SgoMufsLhlyqe0uKd0",
+      "isFallback": true
+    },
+    {
+      "id": "abc0eb95-68b7-48f2-ac35-8949686ac557",
+      "title": "Midnight Showcase",
+      "artist": "叶",
+      "isrc": "JPI102202727",
+      "releaseDate": "2022-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2Nsyz3A3SsAmTW4ErbnhRV",
+      "isFallback": true
+    },
+    {
+      "id": "8530fca2-8537-4e69-8adb-c9497e45e8ea",
+      "title": "KillerBeast",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943269",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0ijanlX5xYvh9r8IU49H2h",
+      "isFallback": true
+    },
+    {
+      "id": "c1f2bbe6-9c23-434c-965a-b64799224c8b",
+      "title": "Dead On Arrival",
+      "artist": "Mori Calliope",
+      "isrc": "JPV752205658",
+      "releaseDate": "2022-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/4Ri7HgYsTqCoNqHI2S7wVB",
+      "isFallback": true
+    },
+    {
+      "id": "44327c22-f1fd-4a14-97c2-67ff7fc0568c",
+      "title": "Jump Over!生物種 -Hang Over!PHQ remix-",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198063",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/2ACcrmZn1s6CFsi3ndz7P2",
+      "isFallback": true
+    },
+    {
+      "id": "dcfce8ec-b129-4e7a-b054-fe69af352e4d",
+      "title": "Burning Aquamarine",
+      "artist": "かめりあ",
+      "isrc": "TCJPQ2135109",
+      "releaseDate": "2021-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/6bMkZV9IObTBnmLGS4GyI4",
+      "isFallback": true
+    },
+    {
+      "id": "4b683a99-5f61-418f-bfca-95ba36ee3fdf",
+      "title": "Krispy Fry‐fry Party",
+      "artist": "Takanashi Kiara",
+      "isrc": "JPV752104193",
+      "releaseDate": "2021-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/4XF880SewA3IC1i7h9CIeP",
+      "isFallback": true
+    },
+    {
+      "id": "8a55d9b3-724f-4f7e-87e8-6c7735c81a7d",
+      "title": "Myths You Forgot",
+      "artist": "かめりあ",
+      "isrc": "TCJPO2190896",
+      "releaseDate": "2021-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/5q4GumBBp5670CNKEs365w",
+      "isFallback": true
+    },
+    {
+      "id": "a9f3c7a9-e1de-47f9-9e42-b0fbde430ef2",
+      "title": "Lioness’ Pride",
+      "artist": "獅白ぼたん",
+      "isrc": "JPV752104883",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/3uUqVWJfaRpaj3b0EgrOsS",
+      "isFallback": true
+    },
+    {
+      "id": "004612d0-20d4-43b5-8a6f-31b95491decf",
+      "title": "I want you ♥ 焼酎... ～ 情熱の熱燗とランデヴー ～",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2014-09-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8d381be-f438-4aec-bfe6-dcbc8810c661",
+      "title": "LOUDERR",
+      "artist": "Axelight",
+      "isrc": "TCJPR2284186",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/491kRZMT8vUkwwB0poJ34N",
+      "isFallback": true
+    },
+    {
+      "id": "03de0749-1c64-4441-9dd2-e8df65611f14",
+      "title": "Nyan loves you♡",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947540",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0StnFQgZkN6eSqLd6w5MWx",
+      "isFallback": true
+    },
+    {
+      "id": "bb583a86-18da-4189-b6ab-3e8e5332111d",
+      "title": "Scuffed Up Age",
+      "artist": "Mori Calliope",
+      "isrc": "JPV752205663",
+      "releaseDate": "2022-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/6at1OnNumlOOQMc6Nb1sbU",
+      "isFallback": true
+    },
+    {
+      "id": "f96d1c86-5c12-48d2-8bbb-43b2c77a5260",
+      "title": "Integration under the moon of codes",
+      "artist": "Camellia",
+      "isrc": "JPW562104486",
+      "releaseDate": "2012-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/4FfC8fRt8UMBrztN5RT1C0",
+      "isFallback": true
+    },
+    {
+      "id": "7f0050b0-3559-4476-83da-630e45d5d296",
+      "title": "Arche",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943266",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0woNbrXbhGLaHcIvpoLIi7",
+      "isFallback": true
+    },
+    {
+      "id": "fa145cde-c423-41dd-935c-4f64827bf2dd",
+      "title": "[ ⫖⌊∄∄◗ ⫖⌊⦰⦰ꗐ ]",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943271",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0rL6JGNAIer9IjAkXP256x",
+      "isFallback": true
+    },
+    {
+      "id": "9c656ce3-2765-433f-8d69-aac94e3b39bc",
+      "title": "Lively Bopping to Death’s Knocking",
+      "artist": "Mori Calliope",
+      "isrc": "JPV752104192",
+      "releaseDate": "2021-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/5FNTCdB75khaBJcaMqdohc",
+      "isFallback": true
+    },
+    {
+      "id": "ce8370a4-19ca-43b9-9e31-f79bb0ebea9b",
+      "title": "GEKIRIN",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752408318",
+      "releaseDate": "2024-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/6udX5pQML73Ar8zdpL3jxA",
+      "isFallback": true
+    },
+    {
+      "id": "af75fd8b-25e4-4506-a8b9-6d3c9676c3f0",
+      "title": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+      "artist": "かめりあ",
+      "isrc": "JPM202102839",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ab075fa-54d5-478c-a011-6a68fe0c1869",
+      "title": "Ohayo-EST Gozai-MASTER ♡",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752408323",
+      "releaseDate": "2024-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/0FWdOTlYpTDhFmgJCVEgSs",
+      "isFallback": true
+    },
+    {
+      "id": "a01d18c1-7e81-4e23-a34c-e6e0e4649096",
+      "title": "Deep Vibration",
+      "artist": "Axelight",
+      "isrc": "TCJPR2284139",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/6pxymnQzoAT3iMa4JsdHes",
+      "isFallback": true
+    },
+    {
+      "id": "a1309de6-069d-402a-ad97-24b454b38c34",
+      "title": "Misteavous Myth‐buster",
+      "artist": "Watson Amelia",
+      "isrc": "JPV752104196",
+      "releaseDate": "2021-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/4DOn2rVGWjv2cludaoNnLD",
+      "isFallback": true
+    },
+    {
+      "id": "feaf1c40-257e-4063-a580-b3a155e969db",
+      "title": "⫻Under Construxion⫻",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943274",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/6fqShCAasZSmJaJMD1Wdm1",
+      "isFallback": true
+    },
+    {
+      "id": "2c7f73d1-e4fc-4485-97eb-a8ffd299ddf8",
+      "title": "Final-Boss-Chan",
+      "artist": "かめりあ",
+      "isrc": "QZDA52257712",
+      "releaseDate": "2022-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/3gFExqKMgK02cgBKxrB4SM",
+      "isFallback": true
+    },
+    {
+      "id": "c17dd0cd-4c59-4755-99da-a134fb57cbd8",
+      "title": "Petals",
+      "artist": "ななひら",
+      "isrc": "TCJPO2168590",
+      "releaseDate": "2016",
+      "spotifyUrl": "https://open.spotify.com/track/1mlIHmR28ATV3QKyKxbuXW",
+      "isFallback": true
+    },
+    {
+      "id": "3a0800d0-a197-4c01-8d96-462e76b5611d",
+      "title": "PAINLESS EXCITE",
+      "artist": "めらみぽっぷ",
+      "isrc": "",
+      "releaseDate": "2013-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f526738d-06b3-412c-8590-10bd84c310c9",
+      "title": "FIRST DAWN, AMBER WIND",
+      "artist": "タカナシトリコ",
+      "isrc": "JPW562104556",
+      "releaseDate": "2013-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/2mYR1soZqMGiQNOw6rzfva",
+      "isFallback": true
+    },
+    {
+      "id": "8ac8ced2-46c8-444c-96b9-50fbff7747db",
+      "title": "Rainbow",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198064",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6E17wYqdgUHHHko7zFSH5p",
+      "isFallback": true
+    },
+    {
+      "id": "2a364ef4-a52b-42ad-ab35-f242447b0cb6",
+      "title": "🧀🧀世界をチーズで食べちゃって！🧀🧀",
+      "artist": "ころねぽち",
+      "isrc": "TCJPQ2116676",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/09yUCYlFlm0F931LvNHZtt",
+      "isFallback": true
+    },
+    {
+      "id": "c388dd87-dc94-4cfe-b193-801a6fd9f74b",
+      "title": "Are you LADY!?",
+      "artist": "ふぉれすとぴれお",
+      "isrc": "",
+      "releaseDate": "2011-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ad853f2-5487-4385-9ac7-ed36808e6c93",
+      "title": "Purple Disease",
+      "artist": "常闇トワ",
+      "isrc": "JPV752307597",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/2GkMkEhcc6O4RSzDzUAIcX",
+      "isFallback": true
+    },
+    {
+      "id": "28230cae-432b-4cb8-8415-c62f5f83cc2d",
+      "title": "NIGHTMARE † CITY",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943275",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/2QaW7JuToxZxpfZRuT1vwg",
+      "isFallback": true
+    },
+    {
+      "id": "dff5bde6-41f0-4bc8-bbf0-0ed21447f6c7",
+      "title": "K.K. ElectroSwing (けけエレクトロスウィング)",
+      "artist": "Camellia",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "254eb17b-bb0f-4314-bf1c-08d4517a1b0b",
+      "title": "世界征服!ちょうこうしゅつりょくでんぱそうしんきちきょく",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184256",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/6OGneJtNdyZxBrcDLphwFG",
+      "isFallback": true
+    },
+    {
+      "id": "52a3faff-1f37-4f57-8ee6-30206fa4200d",
+      "title": "エナジー*ドリン娘◎ふぇいんちゃん！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184265",
+      "releaseDate": "2013-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/592hr61JhX4IVXQyoWgMdg",
+      "isFallback": true
+    },
+    {
+      "id": "185e0ad9-8f1c-44cf-9398-8dbcf04b0df8",
+      "title": "Triぴーす✌ひふみふフリーダム",
+      "artist": "電音部",
+      "isrc": "JPR502402879",
+      "releaseDate": "2024-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/6RiEF2atv8l610ce9hMVyu",
+      "isFallback": true
+    },
+    {
+      "id": "d3153120-aa36-4420-b986-fb009ae32cb5",
+      "title": "ちっちぇえいきもの監視観察健康法",
+      "artist": "épeler",
+      "isrc": "TCJPQ2125491",
+      "releaseDate": "2021-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/25TzjZmzrAA8ghh4wKDsL4",
+      "isFallback": true
+    },
+    {
+      "id": "71d67e50-fbc2-46c5-aa22-a83f6a3b50b2",
+      "title": "ゾンビー・サーカス (ZOMBIE CIRCUS)",
+      "artist": "かめりあ",
+      "isrc": "TCJPO2190892",
+      "releaseDate": "2021-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/2Vr9wWBydl98yApTGOnZMy",
+      "isFallback": true
+    },
+    {
+      "id": "7b88bc3b-96b1-4e2e-80a1-05c203c96f36",
+      "title": "Tuliparfeit",
+      "artist": "かめりあ",
+      "isrc": "JPR502301650",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3i57yCmA5L7P8wS5Oy8cli",
+      "isFallback": false
+    },
+    {
+      "id": "9adec005-7efc-4ecd-9210-044bd87658f0",
+      "title": "TOUR ON THE 未確認飛行物体<UFO>2216",
+      "artist": "ポヤッチオ",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77c243b0-7246-4ac7-9de4-cf09e998a5b0",
+      "title": "インターネットが遅いさん (Super-Slow-Internet-san)",
+      "artist": "かめりあ",
+      "isrc": "TCJPC2474026",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5Z0x4LOOWys2nvwhvabkd6",
+      "isFallback": true
+    },
+    {
+      "id": "312663b3-6f1d-43fb-a11e-2a774d34245f",
+      "title": "ヒアソビ",
+      "artist": "かめりあ",
+      "isrc": "JP92Q2200187",
+      "releaseDate": "2022-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/0NJzEqg5ltRj3Ci3ZG9gvd",
+      "isFallback": false
+    },
+    {
+      "id": "326e67d9-dfcd-4e49-9c98-2c1ab3df3757",
+      "title": "エマージェンシー・イン・ア・クラブ",
+      "artist": "Axelight",
+      "isrc": "TCJPR2284020",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/4pd7IKD4KuUiaUG4FGzKpg",
+      "isFallback": true
+    },
+    {
+      "id": "3657508a-be8d-4b90-8403-64bfb5d01e91",
+      "title": "Wait for you",
+      "artist": "kradness",
+      "isrc": "",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d0afde54-fcea-4cca-997a-cc7545f10003",
+      "title": "Spin Eternally",
+      "artist": "Camellia",
+      "isrc": "QZDA72192120",
+      "releaseDate": "2021-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/1eXjWnz7I5y7Cek7bro07s",
+      "isFallback": true
+    },
+    {
+      "id": "bdfee83e-1d58-427f-8c10-6d4b353b5638",
+      "title": "君の声は",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198092",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/5ONxpvPdHIt7qz29fASGLn",
+      "isFallback": true
+    },
+    {
+      "id": "427747e4-c003-4f0b-bb3c-be5ad2c416fc",
+      "title": "のーばでぃーくりすます!",
+      "artist": "癒月ちょこ",
+      "isrc": "JPV752307942",
+      "releaseDate": "2023-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/7uUaWOy0UVdtJd4WLk4A7e",
+      "isFallback": true
+    },
+    {
+      "id": "beb33b81-3e0a-420b-b69a-40dc1616d6a9",
+      "title": "カフェモカしゅがー",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2186641",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/514rRgnUAB7cBXPx99YeR2",
+      "isFallback": true
+    },
+    {
+      "id": "975e92b2-3a0b-4a93-baae-5c32de2fa2d7",
+      "title": "ほしにねがいを",
+      "artist": "ななひら",
+      "isrc": "JPJ931500290",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/7joNWjqPJa9xm66FGoI6ED",
+      "isFallback": true
+    },
+    {
+      "id": "f41cc3ec-d6a3-45ab-a4ca-d0b92f62f191",
+      "title": "Towards The Horizon",
+      "artist": "かめりあ",
+      "isrc": "JPM201700633",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c97bdc9-291d-453f-bb75-7e6da06fed84",
+      "title": "とりぷるx3ゴキゲン中飛車⇒OHTE & DASH!!!",
+      "artist": "SHAKING PINK",
+      "isrc": "",
+      "releaseDate": "2013-08-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49a6e789-d4b6-4a42-85d7-fb23cba655e1",
+      "title": "プレゼント",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182138",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5f7LPfx4GlCCS8qk3XNvGP",
+      "isFallback": true
+    },
+    {
+      "id": "d87fdbea-6abb-4734-abf1-128012c2d825",
+      "title": "ぼくの夢、メチャクソ無限湧き",
+      "artist": "ARuFa",
+      "isrc": "TCJPK2065844",
+      "releaseDate": "2020-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/0wRhJT2NLy638hhTsdmef3",
+      "isFallback": true
+    },
+    {
+      "id": "b29f7671-37aa-4994-b8bb-4de04f6d9fac",
+      "title": "在らず朱色と迷い路の夢",
+      "artist": "ななひら",
+      "isrc": "TCJPO2186612",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0P6jNiWN3ltfsSmXlFhn2G",
+      "isFallback": true
+    },
+    {
+      "id": "f523dd8a-98c9-4d9f-b01f-c5007cf24560",
+      "title": "チ・ー・ズ・バ・ク・ダ・ン",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947534",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/2jhKEc1eOFrG5PnUjPUziZ",
+      "isFallback": true
+    },
+    {
+      "id": "2d1af292-591c-4c22-aff6-7009856be8e5",
+      "title": "Thank You!",
+      "artist": "ラブリコット",
+      "isrc": "TCJPN2187186",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3U8X30ZkiOmNb4diRqhv4d",
+      "isFallback": true
+    },
+    {
+      "id": "af6655bd-a83c-4797-9e62-fa495c35de9c",
+      "title": "さいきょう虫歯工事師 掘削Chu☆",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184264",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/2IbInNfsa1wULmeFVySodY",
+      "isFallback": true
+    },
+    {
+      "id": "f531dfe8-da3b-4395-874e-2678a7433300",
+      "title": "シャッタースピード",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184263",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/3YSouknNEjsm7uAQGIQ8OA",
+      "isFallback": true
+    },
+    {
+      "id": "d3222a6f-6496-4a26-9b54-06890a9b25fa",
+      "title": "Trick star",
+      "artist": "るなっち☆ほし",
+      "isrc": "JPS802352793",
+      "releaseDate": "2023-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/46cDAZR1LMzvgVMN6u30TM",
+      "isFallback": true
+    },
+    {
+      "id": "758f21f9-d952-43d0-9c4f-4df4b882f01c",
+      "title": "Sharkventure!!",
+      "artist": "Gawr Gura",
+      "isrc": "JPV752104195",
+      "releaseDate": "2021-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/4tX8tHJxTOZ0Dd9At2UIs8",
+      "isFallback": true
+    },
+    {
+      "id": "797d5506-8da0-4983-a55f-9d3c522f590a",
+      "title": "人間 vs. 球投げロボットたまちゃんのキャッチボール対決",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182133",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4qDDzV9w9Gh4bRUvfajy7n",
+      "isFallback": true
+    },
+    {
+      "id": "20e82a3c-ff5a-4bbc-9e49-b6607125598b",
+      "title": "おやすみ、おやすみ",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3eb790b-3dcf-4ed3-9482-77d9eaeb9bd6",
+      "title": "WI[RE/ER]D PUZZLE",
+      "artist": "Camellia",
+      "isrc": "JPW562104590",
+      "releaseDate": "2012-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/0RW5YEe4vEeHIjccXFbv08",
+      "isFallback": true
+    },
+    {
+      "id": "1f5ad6d0-c363-4e68-ac44-7af71678100b",
+      "title": "ベースラインやってる？笑",
+      "artist": "かめりあ",
+      "isrc": "TCJPC2474021",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5hjk0zdu1QdmX5dBpiVwB3",
+      "isFallback": true
+    },
+    {
+      "id": "e6a61f50-1d01-4f0b-9e3a-5e429f17e634",
+      "title": "Splatter Party",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2013-08-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f86c8947-2749-45ab-ad22-924387b6720c",
+      "title": "コンベア速度 Max!? しゃいにん☆廻転ズシ“Sushi & Peace” (Very Very Long Hosomaki Zushi Ver.)",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "adf8e648-e0e6-47aa-a064-51ac9cd1d571",
+      "title": "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d35f4cc-0a9e-4bdd-82ec-203f1e3bab88",
+      "title": "りぷれい!",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184266",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/5Xy75ghEdSfwqvAlNgVGyQ",
+      "isFallback": true
+    },
+    {
+      "id": "f73439ff-7da6-46b2-a04f-0c784468a0eb",
+      "title": "すごいInvincible。",
+      "artist": "パン野実々美",
+      "isrc": "JPVI02304723",
+      "releaseDate": "2023-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/7lX8VksigSfvzIAtsgEQcF",
+      "isFallback": false
+    },
+    {
+      "id": "9bebe560-497a-42bc-b00c-657e041fdb43",
+      "title": "りゅーーっときてきゅーーっ!!!",
+      "artist": "湊あくあ",
+      "isrc": "JPV752206385",
+      "releaseDate": "2022-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/71Hql0UnvmdkjRKUJKtlUZ",
+      "isFallback": true
+    },
+    {
+      "id": "07389f98-df1c-4154-a5d6-38260968ce51",
+      "title": "ふぉーす！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182136",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/29QDRUQRyE0XFPcHVUrcjM",
+      "isFallback": true
+    },
+    {
+      "id": "059cb754-2145-4ac2-b693-d22799a8680c",
+      "title": "We are 花粉フェアリー☆ぽりのーしす!",
+      "artist": "ココ",
+      "isrc": "TCJPN2199733",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2GLKbseuElCzPVWnAtFgpE",
+      "isFallback": true
+    },
+    {
+      "id": "b81d7edd-defe-410c-b985-3994a2f35c44",
+      "title": "全日本お風呂化計画",
+      "artist": "かめりあ",
+      "isrc": "JPC231501213",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4UjF8UyLHa8C3owT5Cqwu4",
+      "isFallback": true
+    },
+    {
+      "id": "fe73cba9-1742-4956-b70f-5759465561d3",
+      "title": "ハードベース・フェスタ",
+      "artist": "かめりあ",
+      "isrc": "JPM201900072",
+      "releaseDate": "2019-06-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84ee69de-dfbb-4d7e-995b-625ce06ab97c",
+      "title": "アメリカ語 Supar Lectyaa",
+      "artist": "ココ",
+      "isrc": "TCJPN2199125",
+      "releaseDate": "2014-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0PjWuJksaOxmjLrj3PMMfY",
+      "isFallback": true
+    },
+    {
+      "id": "fcd988ad-552d-42f5-90de-b1aa39105ce1",
+      "title": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1943273",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/1woQ43oXkgzzhIFi14V2xy",
+      "isFallback": true
+    },
+    {
+      "id": "7ff4ba0d-b99e-441d-be6b-d6cded56f9c1",
+      "title": "アニマルらんど",
+      "artist": "かめりあ",
+      "isrc": "TCJPC2474008",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/3joHn1IipP0KkXJlGXiyjy",
+      "isFallback": true
+    },
+    {
+      "id": "913daa12-a589-4d31-bf0c-35bc32dbdc39",
+      "title": "ウサキック！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2186639",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/3b8a11twfcsvUJiOyX7FUU",
+      "isFallback": true
+    },
+    {
+      "id": "4cf539ac-55b9-466a-a589-e4db408d453c",
+      "title": "You Make My Life 1UP",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182126",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/1bQUMufZrwBg4QvJmPo7cA",
+      "isFallback": true
+    },
+    {
+      "id": "2e0559b5-76ff-4aa8-aec1-ddf1e5d7c2c4",
+      "title": "バッド・スイーツ、バッド・ドリーム",
+      "artist": "かめりあ",
+      "isrc": "JPM202102812",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a232098e-ce35-47e1-8c26-30115e317a5b",
+      "title": "あめふり天気をGET AWAY!",
+      "artist": "ココ",
+      "isrc": "TCJPN2199737",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0rsWH1scJF0X2C63azJthd",
+      "isFallback": true
+    },
+    {
+      "id": "050f7c92-3b0e-46ed-ba3f-2904c6c9e211",
+      "title": "ハジメテタヨリ☆",
+      "artist": "金魚鉢たより",
+      "isrc": "JPPO02105260",
+      "releaseDate": "2022-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/5f7t7XkVy9sCQL5UpFudDM",
+      "isFallback": false
+    },
+    {
+      "id": "775c3b72-1192-4da8-abf6-6d686d8a9b48",
+      "title": "Tougue☆★Twi(n)-stars!!",
+      "artist": "ラブリコット",
+      "isrc": "TCJPH1857177",
+      "releaseDate": "2018-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/6OP2XLWoRCd4Cls3TyeCVr",
+      "isFallback": false
+    },
+    {
+      "id": "3a167edd-2c9b-46da-8baf-0f20203e7cba",
+      "title": "Your Lights",
+      "artist": "LiGHTs",
+      "isrc": "JPVI01904439",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/7tT6KvlTABz6uaN5ancILx",
+      "isFallback": true
+    },
+    {
+      "id": "c853eac7-0b0e-4a2e-82ce-9701c3d2a268",
+      "title": "ベィスドロップ・フリークス",
+      "artist": "かめりあ",
+      "isrc": "JPM201500193",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b53ae30-9d4d-436a-8b47-2362f173f333",
+      "title": "クリスマスなんて興味ないけど",
+      "artist": "かめりあ",
+      "isrc": "TCJPC2474035",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/6HlD1ZkMxGxhQAxRlmgpuD",
+      "isFallback": true
+    },
+    {
+      "id": "b6872e63-2084-4e52-b997-afcf7f22fb96",
+      "title": "いろは七不思議探訪記",
+      "artist": "ななひら",
+      "isrc": "TCJPO2186590",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6dzwMLg8FEpIAOLUbdN318",
+      "isFallback": true
+    },
+    {
+      "id": "c6aa7997-5277-48e0-8aae-b024093411fb",
+      "title": "ませまてぃっく♥ま+ま=まじっく！(L×o÷n＝g♥V±e∽r!)",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1382c19b-bc76-4f4a-b82d-ab7a302213df",
+      "title": "そろばん♡De♥ビックバン",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8aa86163-0a8e-482e-ac0a-ffd0ec667a0a",
+      "title": "システマティック・ラヴ",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2015-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9830556f-b906-4bc2-ac0d-053d1349fc5e",
+      "title": "は～とび～と♥お～ば～ひ～～～～と！！！！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182121",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0lXN0BgrjWj0hE7PkC9LDI",
+      "isFallback": true
+    },
+    {
+      "id": "da4cc6af-c96f-41a2-b628-3dddb9a09ed5",
+      "title": "くっちゃね ♡ HOLIDAY",
+      "artist": "ななひら",
+      "isrc": "JPJ931700003",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/4spzMBilV442hgCN1t5H47",
+      "isFallback": true
+    },
+    {
+      "id": "9de99ec8-c1ad-4ef3-8527-1320a74029f1",
+      "title": "イーディーエム・ジャンパーズ",
+      "artist": "かめりあ",
+      "isrc": "JPC231500859",
+      "releaseDate": "2015-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/31wi0aQrA5luv10DhSIbIw",
+      "isFallback": true
+    },
+    {
+      "id": "358bde10-ee34-4e9b-84b7-62228c634390",
+      "title": "Ta-Ti-Tu-Teatime!",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182124",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/30xeIZBWYcYxKb0hQfpz80",
+      "isFallback": true
+    },
+    {
+      "id": "a566b6c2-2bf0-4bb1-8508-774408442828",
+      "title": "レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆",
+      "artist": "ななひら",
+      "isrc": "TCJPI1995938",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/1xWf4wVV79hMRAt0qRBShB",
+      "isFallback": true
+    },
+    {
+      "id": "f4558b5d-1b39-4f7a-8728-3474d09b0618",
+      "title": "一対半の狂爭曲《カプリシオ》 〜絶対に渡さない〜",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e11c03c-58d1-461b-a99f-d39fe5fccdfb",
+      "title": "サンダンジャンプ",
+      "artist": "pomme'tto",
+      "isrc": "JPJ931700148",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/7s6wQp66Al3YWgxzESQqv2",
+      "isFallback": true
+    },
+    {
+      "id": "d60e80d3-b93b-4b39-8552-052fc9fd32cb",
+      "title": "堕天ダンス",
+      "artist": "天ノ譜ステラ",
+      "isrc": "TCJPZ2404526",
+      "releaseDate": "2024-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/30Z1O4GMW9M9oaTlUhQpKt",
+      "isFallback": false
+    },
+    {
+      "id": "d9215090-88cc-4820-92a7-2e6f33dcae75",
+      "title": "スタートライン",
+      "artist": "ラブリコット",
+      "isrc": "TCJPN2182081",
+      "releaseDate": "2015-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/1PoabBasSV03LKuTSrAP4F",
+      "isFallback": false
+    },
+    {
+      "id": "810c9eaa-fa24-4dbd-a591-25205388e2d3",
+      "title": "びっくりさせたらおこるよ！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198059",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4TWX5MJ1R6IzYAXGQOHLzm",
+      "isFallback": true
+    },
+    {
+      "id": "16608bdc-3b55-4e89-becd-7b613f8a02e0",
+      "title": "めいら～だえもん☆だもん",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198058",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/3feRMVskaWg6KASgpu7Wvf",
+      "isFallback": true
+    },
+    {
+      "id": "95d9b745-5d24-4b61-9276-754a5cc60e6d",
+      "title": "オリガミカル・スウィートラヴ (Long ver.)",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5072b6ee-583a-4541-87e2-376d00b5952f",
+      "title": "もふっちゃって☆さま〜!さま〜!!さま〜!!!",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1982060",
+      "releaseDate": "2018-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/09rlHNXfAudXgI86aDEnDS",
+      "isFallback": true
+    },
+    {
+      "id": "4b5ebc99-8c0b-4766-9a5c-b91d6ac098ce",
+      "title": "うにゃうにゃ＊ぱっぱ",
+      "artist": "かめりあ",
+      "isrc": "JPC231501218",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/6eij553DlBfKuS84TyY3td",
+      "isFallback": true
+    },
+    {
+      "id": "06d895fd-c8aa-4c8d-affb-0da85326b96a",
+      "title": "W嫁♥はっぴーうぇでぃんぐ",
+      "artist": "ななひら",
+      "isrc": "JPC231501223",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/4t2YiriWRCcsb5TNeOpApq",
+      "isFallback": true
+    },
+    {
+      "id": "08975f86-6d38-4343-83ea-97ed6f87efa7",
+      "title": "ごーいん！",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947542",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0HOQYMEdr11VLRsiUvntFC",
+      "isFallback": true
+    },
+    {
+      "id": "c8156791-5648-4a80-b74f-d580250ed4b3",
+      "title": "おさんぽ♥らう゛",
+      "artist": "かめりあ",
+      "isrc": "TCJPC2474014",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/3h0FQIoELk9AYMZE4z3EbT",
+      "isFallback": true
+    },
+    {
+      "id": "e075e389-086f-46d4-84d9-1fb463dc7aa4",
+      "title": "まんなかちてん",
+      "artist": "姫森ルーナ",
+      "isrc": "JPV752307696",
+      "releaseDate": "2023-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/3AyqaLZaECIKyzyMDTVqhK",
+      "isFallback": true
+    },
+    {
+      "id": "1954b4ed-b8b0-4e45-a84a-e5b10234e37a",
+      "title": "SKY FULL of MAGIC",
+      "artist": "かめりあ",
+      "isrc": "JPVI02002592",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/5JThFoZuPnvxuktVZi9HkR",
+      "isFallback": false
+    },
+    {
+      "id": "f224110c-376f-4ab2-82b5-88cda8208d0e",
+      "title": "ばーさす！",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198066",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/3vh31ZFyzuJvpb58dvN20p",
+      "isFallback": true
+    },
+    {
+      "id": "915d0436-9640-4d91-ae70-37c3d1a63e98",
+      "title": "がおってこ！",
+      "artist": "獅白ぼたん",
+      "isrc": "JPV752510882",
+      "releaseDate": "2025-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/6O3e2sEdBpwx4vEjQW3KTK",
+      "isFallback": false
+    },
+    {
+      "id": "0e65d6c3-392c-48f8-b60f-e12d2b75079c",
+      "title": "気づいたら春夏秋冬",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2198068",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4lnqz4diyzVO0K4GUqqNLq",
+      "isFallback": true
+    },
+    {
+      "id": "ebbcf037-30c5-4ee1-833d-6ab4a6696c54",
+      "title": "大地の閾を探して",
+      "artist": "かめりあ",
+      "isrc": "TCJPO2190912",
+      "releaseDate": "2020-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/0T2e81s4q6HPJ6yvASXDd7",
+      "isFallback": true
+    },
+    {
+      "id": "80b5970e-6d82-40b7-8060-aaac76a2dbeb",
+      "title": "水底游歩道",
+      "artist": "れをる",
+      "isrc": "JPVI01522700",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/2Y8MpEW37sCOqJjSUTaSCu",
+      "isFallback": true
+    },
+    {
+      "id": "25c0eb79-dd0b-4c7f-a4c1-0d2a40aa9640",
+      "title": "透靈蕐",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947539",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4mV9gazwp2LCYUMI8BdpcO",
+      "isFallback": true
+    },
+    {
+      "id": "39effbc4-e698-4f21-98d5-f6dec4e34ade",
+      "title": "恋感♥キミイロDelight!",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184260",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/0lexgSp3eT3osMnP9xltHI",
+      "isFallback": true
+    },
+    {
+      "id": "045edca9-94ac-448d-a298-c1ca537cc757",
+      "title": "鉄道迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182122",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/3bXWWgWI5BQzntAoFgjBPF",
+      "isFallback": true
+    },
+    {
+      "id": "200de369-50c7-4df2-a641-4c4c320a6ec6",
+      "title": "月燈籠",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182140",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/1NGAgUej2EpKNDkHI4yFyy",
+      "isFallback": true
+    },
+    {
+      "id": "f2220317-e590-40c2-86bd-6f976a9bffe5",
+      "title": "混乱少女♥そふらんちゃん!!",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "02008e94-6c09-4a19-a7cc-3b6c2c86788d",
+      "title": "觀測衞曐",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2182128",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/02NxxFfM5GYuIOReSkD4PB",
+      "isFallback": true
+    },
+    {
+      "id": "6d66caf8-c562-4e20-bf6c-6b2b8cf9c953",
+      "title": "警察警察 ~THE POLICE POLICE~",
+      "artist": "ななひら",
+      "isrc": "TCJPK2070595",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/5CJNe2ZXXNDkhckUSCDtoD",
+      "isFallback": true
+    },
+    {
+      "id": "56b39dbd-48c2-4647-bfb7-3362edfe6c11",
+      "title": "闇鍋《ﾀﾞｰｸﾈｽ･ｲﾝﾌｪﾙﾉ》降臨 ──煮よ、我が魂──",
+      "artist": "かめりあ",
+      "isrc": "TCJPJ1947535",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/7Eo5yT3aSRuK4eniYIPzQg",
+      "isFallback": true
+    },
+    {
+      "id": "21e026c5-7019-4399-9efa-ca5fed34e8ce",
+      "title": "早速ですがSHAKING PINKはインベーダーだったようです",
+      "artist": "ココ",
+      "isrc": "",
+      "releaseDate": "2012-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "587eeacf-9684-4cfc-b664-83c7bef59c6e",
+      "title": "神よ、ニャンコを与えたまえ!",
+      "artist": "かめりあ",
+      "isrc": "JPM201700599",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7d5a9c00-e18d-4755-b8ae-1912b3534c0d",
+      "title": "灼熱🔥キャンドルマスター🔥ともしぃ",
+      "artist": "かめりあ",
+      "isrc": "TCJPN2184261",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/0I7NhTYONCwQsqfRaXHsAP",
+      "isFallback": true
+    },
+    {
+      "id": "a9d1ccf0-db5a-4c2f-a366-fc21b164207b",
+      "title": "雹落",
+      "artist": "かめりあ",
+      "isrc": "JPC231501215",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/3mbNoOFQjUV69ND4OhkG33",
+      "isFallback": true
+    },
+    {
+      "id": "39eb9545-2e30-4d83-94fe-6470e954c43d",
+      "title": "浸食!! 地球全域全おーしゃん",
+      "artist": "湊あくあ",
+      "isrc": "JPV752105028",
+      "releaseDate": "2021-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/0518dysM27SLsdUuP4kNrJ",
+      "isFallback": true
+    }
+  ]
+}

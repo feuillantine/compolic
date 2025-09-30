@@ -1,0 +1,150 @@
+{
+  "name": "ハヤシベトモノリ",
+  "sortName": "ハヤシベトモノリ",
+  "tracks": [
+    {
+      "id": "c1168b67-6314-459a-9db8-5764ced68a73",
+      "title": "迷宮なラビリンス",
+      "artist": "ラプラス・ダークネス",
+      "isrc": "JPV752307559",
+      "releaseDate": "2023-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/7GRGA0KeJAb2vw7IFoJUJ1",
+      "isFallback": true
+    },
+    {
+      "id": "1e9c8540-eae1-4387-8780-566a9bac61da",
+      "title": "SWEETS is CIRCUS",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01602108",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/6Q0rNZVet9wgbpSpvVqsRH",
+      "isFallback": true
+    },
+    {
+      "id": "d207b9f4-682e-4d19-89be-719d8a32e5d0",
+      "title": "Night Pool",
+      "artist": "ⅢX",
+      "isrc": "JPX402400099",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/5UyGGkyIA3yWQPLvy6rmk9",
+      "isFallback": true
+    },
+    {
+      "id": "c4ed6282-16d3-453e-aced-410df75f0b52",
+      "title": "Bittersweet Echo",
+      "artist": "ⅢX",
+      "isrc": "JPX402500158",
+      "releaseDate": "2025-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/64xJH8rj4JQB5w4csXIQaZ",
+      "isFallback": true
+    },
+    {
+      "id": "60672267-b9d4-4b9e-92cd-8b1abcc73d41",
+      "title": "Opening SE",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401145",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2z6Y1IoI6gQJnQ45LPv1Cw",
+      "isFallback": true
+    },
+    {
+      "id": "1ecf306b-b803-4e3a-a422-f77f11eb877e",
+      "title": "そこ・どこ・ここ・きのこ",
+      "artist": "姫島木乃子",
+      "isrc": "JPPC01701216",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/0lPbGuvK4cVfiBmwTejH1U",
+      "isFallback": false
+    },
+    {
+      "id": "f30e25f4-6e68-43a5-b3bc-8ee1287550fc",
+      "title": "So What?",
+      "artist": "ⅢX",
+      "isrc": "JPX402300117",
+      "releaseDate": "2023-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/3hjlWuqCo3QZKW3tRaWzmq",
+      "isFallback": false
+    },
+    {
+      "id": "11821192-7789-4cf1-94a1-91ef4dc784ac",
+      "title": "Bang Bang",
+      "artist": "ⅢX",
+      "isrc": "JPX402200050",
+      "releaseDate": "2022-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/3jXbvDh3InIg9VR65bfNX3",
+      "isFallback": false
+    },
+    {
+      "id": "d710f4dc-aacb-4d56-aaf2-ad3aec72b788",
+      "title": "コスモランデヴー",
+      "artist": "ここなつ2.0",
+      "isrc": "JPM202100018",
+      "releaseDate": "2021-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/2jEhWUm9fHGXB0Jkaj8mQS",
+      "isFallback": true
+    },
+    {
+      "id": "fef7e613-ca01-4a19-ae4c-64a1a6f4ade7",
+      "title": "#くりすますふぁんたじー",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401149",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1bh722JMJrnAndTqP8fDuW",
+      "isFallback": true
+    },
+    {
+      "id": "47bae08f-0f0d-47b6-83d8-9d2008948464",
+      "title": "Top of the Tops",
+      "artist": "ⅢX",
+      "isrc": "JPX402200192",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/2GhhEYIgDSlxwGC8D670xf",
+      "isFallback": false
+    },
+    {
+      "id": "1a1e10a2-e8ed-476b-bd69-fd31f1dd8284",
+      "title": "Tori To Re:TreaT",
+      "artist": "鷹嶺ルイ",
+      "isrc": "JPV752408705",
+      "releaseDate": "2024-06-11",
+      "spotifyUrl": "https://open.spotify.com/track/2T6uWpfw6zAXHwK4RKZKkx",
+      "isFallback": true
+    },
+    {
+      "id": "f3da83c1-cc56-4bd3-83c7-b0faf1bf3534",
+      "title": "Blow Up",
+      "artist": "ⅢX",
+      "isrc": "JPX402400025",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/43GnMgpMsuosZsq2P4AQNN",
+      "isFallback": true
+    },
+    {
+      "id": "6c6e8e42-70b5-4c79-84eb-60c5444032c1",
+      "title": "Haikara Flamingo (instrumental)",
+      "artist": "sumika",
+      "isrc": "JPU902500103",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/3Oo1vO8LTSnz3qcjIVzclR",
+      "isFallback": true
+    },
+    {
+      "id": "5fac96de-723d-484e-9c06-66ff2074d714",
+      "title": "Mad POPCORN World!",
+      "artist": "戌神ころね",
+      "isrc": "JPV752409268",
+      "releaseDate": "2024-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/7I70OekQ4HtfWMLpUTwFh9",
+      "isFallback": true
+    },
+    {
+      "id": "7087bce2-d357-4d79-b532-afcfd42d0791",
+      "title": "ベルベル モルモル パヤミント",
+      "artist": "ベルル",
+      "isrc": "JPPC01602664",
+      "releaseDate": "2018-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1qa59iSx7wpBh97mZ1juU5",
+      "isFallback": true
+    }
+  ]
+}

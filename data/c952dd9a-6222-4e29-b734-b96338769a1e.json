@@ -1,0 +1,141 @@
+{
+  "name": "けんたあろは",
+  "sortName": "ケンタアロハ",
+  "tracks": [
+    {
+      "id": "cd965823-6fd4-4d36-8f1e-818e4aacef55",
+      "title": "飲酒@セーラー服",
+      "artist": "アンスリューム",
+      "isrc": "TCJPX2332546",
+      "releaseDate": "2023-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/3Sx1u0YhQloWNUdsIJ6Y8x",
+      "isFallback": true
+    },
+    {
+      "id": "6d9a8491-5158-41c3-bd58-22243ec81d73",
+      "title": "CHOOSE ME CHOOSE ME",
+      "artist": "fran",
+      "isrc": "JPX402300132",
+      "releaseDate": "2023-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/61SywKlBoAo0JfMmvvY4S7",
+      "isFallback": false
+    },
+    {
+      "id": "1ee137c7-ff4f-456a-b490-145fa5b60bbf",
+      "title": "疑似恋愛させたげるっ！",
+      "artist": "アンスリューム",
+      "isrc": "TCJPX2332521",
+      "releaseDate": "2023-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/3daX3TdLFDC40QlFQoa30h",
+      "isFallback": true
+    },
+    {
+      "id": "ee993dbb-3216-4c5a-84cf-a83ffdcd9015",
+      "title": "さよなら秘密基地",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU902200634",
+      "releaseDate": "2022-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/0BEkmbZtuVZj8LWgw56d0S",
+      "isFallback": true
+    },
+    {
+      "id": "4d0fceb3-85be-4dd9-9caf-f3964bb904bf",
+      "title": "ポジティブ・アテンションプリーズ！",
+      "artist": "高城れに",
+      "isrc": "JPKI02412382",
+      "releaseDate": "2024-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/0lO2lgc4bABJTNCDYpN0Jr",
+      "isFallback": true
+    },
+    {
+      "id": "671a6e7e-d130-46d5-a2b2-b049d1d23072",
+      "title": "アクマデモ",
+      "artist": "i‐COL",
+      "isrc": "JPW462314264",
+      "releaseDate": "2023-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/7uauGoQPrarSJdCUGRejfv",
+      "isFallback": true
+    },
+    {
+      "id": "b0d8cff8-c2c3-4523-abc3-bf254712dc3d",
+      "title": "スイーツ・オペラ",
+      "artist": "こみっきゅおん！",
+      "isrc": "TCJPD2557021",
+      "releaseDate": "2025-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/7qQkWIzjvLa1Im6VJ3RryF",
+      "isFallback": true
+    },
+    {
+      "id": "acd991e1-f2a9-4220-93c7-183889e6024d",
+      "title": "新未来センセーション",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU902201918",
+      "releaseDate": "2022-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/1tfTPKHBWZvjBlAwo95WyC",
+      "isFallback": true
+    },
+    {
+      "id": "8a21f21a-1c24-4f3c-91ae-31f8ff9c43d7",
+      "title": "フラワーズ",
+      "artist": "麻倉もも",
+      "isrc": "JPX402200053",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/1E1vtlANGkCfGdoO4UbaAl",
+      "isFallback": true
+    },
+    {
+      "id": "7dda589c-78a8-46e2-9a00-30e84c69410e",
+      "title": "どたばたんきゅー！",
+      "artist": "アンスリューム",
+      "isrc": "TCJPB2495398",
+      "releaseDate": "2024-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/7x778uT7r3Yi1P8v58HGSj",
+      "isFallback": true
+    },
+    {
+      "id": "0faf1c41-836b-4b88-9a4a-9ff66e7f6af1",
+      "title": "MELODIES",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402400008",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/6KpXCuAMLbUkO5EzPUGmCz",
+      "isFallback": true
+    },
+    {
+      "id": "26f9df7b-8738-4a2b-9dac-638ca4753f8b",
+      "title": "おとぎましょう",
+      "artist": "高城れに",
+      "isrc": "JPKI02516385",
+      "releaseDate": "2025-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/1vnvlKhz7GKFVKPsTigRTp",
+      "isFallback": true
+    },
+    {
+      "id": "ebf45c5a-7325-4bab-ba28-db5a3aba7370",
+      "title": "MIKATAせずにはいられないっ!",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02201603",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/7naJ2IXF4DSumJrV5kR1jm",
+      "isFallback": true
+    },
+    {
+      "id": "70f64803-dcd4-4b7e-a82a-e906efd70282",
+      "title": "異世界協奏曲",
+      "artist": "清野研太朗",
+      "isrc": "JPPC02510013",
+      "releaseDate": "2025-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/1HOquS8L5MUXYoArwla467",
+      "isFallback": true
+    },
+    {
+      "id": "4688d290-1bb0-4fbf-9aa6-20ea8d1511bd",
+      "title": "さよならタイガー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "TCJPS2253222",
+      "releaseDate": "2022-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/6FU3XP6WzSdk3Ye0B1cjv3",
+      "isFallback": false
+    }
+  ]
+}

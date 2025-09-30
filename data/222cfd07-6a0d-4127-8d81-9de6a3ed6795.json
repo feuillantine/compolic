@@ -1,0 +1,456 @@
+{
+  "name": "川田瑠夏",
+  "sortName": "カワダルカ",
+  "tracks": [
+    {
+      "id": "578c2b8d-e021-479c-bb0b-2098123a436d",
+      "title": "モノクローム",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01119144",
+      "releaseDate": "2012-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/5VCW33Oeu97oX5jQ5haMqD",
+      "isFallback": true
+    },
+    {
+      "id": "69be64ae-05c2-4224-bac9-15a602cf85ec",
+      "title": "イマカラキミノモトヘ",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01210427",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/7nWq9YceAAl7tRyCqCKpVk",
+      "isFallback": true
+    },
+    {
+      "id": "9b089856-ca52-4edd-a977-3b292da2574e",
+      "title": "ダンスはホットに",
+      "artist": "福原遥",
+      "isrc": "JPKI00917183",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17d84d16-815e-47c7-a38b-fa069dcefa7a",
+      "title": "フラジール・ガール",
+      "artist": "木村カエレ",
+      "isrc": "JPKI00915814",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7paYOMUwmIFAP0kkj6kIfL",
+      "isFallback": true
+    },
+    {
+      "id": "b629661c-b319-4f16-95a3-99e08b47cff1",
+      "title": "押しちゃうぞ!!",
+      "artist": "Aya",
+      "isrc": "JPCO01001410",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "502df0bb-655a-4287-b391-ed182d644de6",
+      "title": "36.7℃(主人公 その似)",
+      "artist": "日塔奈美",
+      "isrc": "JPKI00915813",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/2AXui7JUbUOHAJOA41Uta7",
+      "isFallback": true
+    },
+    {
+      "id": "16317392-8783-48e5-92a7-42bd9a148cf9",
+      "title": "命の花",
+      "artist": "パラス",
+      "isrc": "JPCO01329550",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8176430-86b5-4c56-b59c-ca39c053623f",
+      "title": "Baby Dolly Alice",
+      "artist": "悠木碧",
+      "isrc": "JPG751100678",
+      "releaseDate": "2012-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/4CsPwN0vxuWtN91JLbEIlj",
+      "isFallback": true
+    },
+    {
+      "id": "23b8e66f-a99b-4832-a832-a73abd71b82e",
+      "title": "キッチンはマイステージ",
+      "artist": "福原遥",
+      "isrc": "JPKI00914201",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "40b712be-382f-4bd4-ad36-12380fd3e392",
+      "title": "雨のちカモミール",
+      "artist": "アメリー・プランシャール",
+      "isrc": "JPCO01321020",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "08873ec6-55f3-4e64-a6b6-d53a597e28ed",
+      "title": "Automatic analyzer",
+      "artist": "坂崎嘉穂",
+      "isrc": "",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d997d7f1-8aa7-4709-bbe7-15a383aadcb4",
+      "title": "Blooming Days",
+      "artist": "安部菜々",
+      "isrc": "JPCO01725640",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/0Bxe39t0qevRmqoSg6kN6M",
+      "isFallback": true
+    },
+    {
+      "id": "568270ff-db8a-431a-b76e-efd8d5e3c055",
+      "title": "Hatsukoi Winding Road (フルサイズ)",
+      "artist": "リリコ",
+      "isrc": "JPCO01311200",
+      "releaseDate": "2013-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/6EGXgRWEX9hqHwDlyQjfyz",
+      "isFallback": true
+    },
+    {
+      "id": "8ea1d931-e240-43dc-8519-569fba167bcc",
+      "title": "シャララ",
+      "artist": "三浦あずさ",
+      "isrc": "JPCO00838070",
+      "releaseDate": "2010-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/2DayhcyaiIBdTBMiR3bJSo",
+      "isFallback": false
+    },
+    {
+      "id": "1c16018d-cf1d-4d49-b03f-d31dc056fe1b",
+      "title": "Theme of Phantom Thief Lapin",
+      "artist": "川田瑠夏",
+      "isrc": "JPPI01651270",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/7u46qwFJYig1vy5M1bd9ZG",
+      "isFallback": true
+    },
+    {
+      "id": "364c3b4a-dab9-4d95-a339-03c1a12bd315",
+      "title": "夜間飛行",
+      "artist": "ハイデマリー・W・シュナウファー",
+      "isrc": "JPCO01253470",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dfcdb80d-8160-45b2-bf31-24f6582cf680",
+      "title": "明日の笑顔",
+      "artist": "アメリー・プランシャール",
+      "isrc": "JPCO01519080",
+      "releaseDate": "2015-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d4d256d-32cd-4936-8723-b2d5274e6fd5",
+      "title": "消えない最後の夢よ",
+      "artist": "後藤又兵衛",
+      "isrc": "",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9b71ad3-ba64-448d-8c5f-23ae0dd76cd4",
+      "title": "何度も言えるよ",
+      "artist": "萩原雪歩",
+      "isrc": "JPCO01036060",
+      "releaseDate": "2010-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0Z75uHSZh5ha3lR0kW9Mls",
+      "isFallback": false
+    },
+    {
+      "id": "c0a223db-c4fd-4584-9a5d-4960862eeef3",
+      "title": "sky fish",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01210431",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/03jc0hyJBs6wkpp0wa9lqY",
+      "isFallback": true
+    },
+    {
+      "id": "9b759f76-6442-4e33-82fd-24958a7f9374",
+      "title": "KentAi to Konton",
+      "artist": "ヴィクトリカ・ド・ブロワ",
+      "isrc": "JPCO01123720",
+      "releaseDate": "2011-08-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "928acaa0-18d1-4034-9566-b58c55160739",
+      "title": "強引niマイYeah～",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00707416",
+      "releaseDate": "2007-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/6HZYPjUgxTZEDcRUoAuLl4",
+      "isFallback": true
+    },
+    {
+      "id": "e697b61a-0d25-4b3c-a3d0-61c9cda7ec59",
+      "title": "ミラクル☆メロディハーモニー",
+      "artist": "Mami",
+      "isrc": "JPP751101125",
+      "releaseDate": "2010-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3rqcdNlfT97Z1irhvrrduH",
+      "isFallback": true
+    },
+    {
+      "id": "139aeb61-321c-454b-b2d9-8b9ce2023b42",
+      "title": "ほんのちょっと",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01419516",
+      "releaseDate": "2015-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/4egBYEnUPVXCp8UmjGZAau",
+      "isFallback": true
+    },
+    {
+      "id": "72adb869-1aa8-4c28-932d-0c9495fb0b9c",
+      "title": "GOOD MORNING!!",
+      "artist": "エイラ・イルマタル・ユーティライネン",
+      "isrc": "JPCO00905710",
+      "releaseDate": "2009-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/2Z73BUvczuaYkSTXKTYYav",
+      "isFallback": true
+    },
+    {
+      "id": "3cfdb236-1c6a-4769-a1ca-99344aab78e8",
+      "title": "魅惑のラヴィアンローズ",
+      "artist": "MiKA",
+      "isrc": "",
+      "releaseDate": "2008-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27e4687b-83ad-4d9d-afd1-55ab3d2b07af",
+      "title": "Yes!",
+      "artist": "川嶋亜美",
+      "isrc": "JPKI00911705",
+      "releaseDate": "2009-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3MRiLSKYmS4P9ykxetQ271",
+      "isFallback": true
+    },
+    {
+      "id": "718a7803-dc93-4f66-81b1-482b4ed0363a",
+      "title": "ひだまり",
+      "artist": "Aya",
+      "isrc": "JPCO01001420",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3YJvITWbRREbDbZgYea26l",
+      "isFallback": true
+    },
+    {
+      "id": "84e8d275-af4f-4c6b-b2e2-87ceda12a902",
+      "title": "銀のスプーン",
+      "artist": "サキ",
+      "isrc": "",
+      "releaseDate": "2019-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c61d004-1810-4fba-90d5-99e1f992e85d",
+      "title": "囁きは\"Crescendo\"",
+      "artist": "牧野由依",
+      "isrc": "JPTE01401250",
+      "releaseDate": "2014-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/505QvN9LerDruoTA9YTEmd",
+      "isFallback": true
+    },
+    {
+      "id": "4f6317e5-e8a6-4bcb-a827-aa2acdfb0c5e",
+      "title": "ゆめのはな (独唱)",
+      "artist": "澤田真里愛",
+      "isrc": "JPD602000217",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/5ytHkGzEquzn4UABZTuYNj",
+      "isFallback": true
+    },
+    {
+      "id": "16cd09d3-5a13-4a79-bd12-dd5c001a218c",
+      "title": "怪盗ラパン -The Phantom Thief Lapin-",
+      "artist": "シャロ",
+      "isrc": "JPPI01651260",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4aXG8jyxaxgiDNWKCJIpzS",
+      "isFallback": true
+    },
+    {
+      "id": "cccf232b-6261-43ed-b0bd-c5dbf4b3b248",
+      "title": "Fantastic Rabbit House",
+      "artist": "青山ブルーマウンテン",
+      "isrc": "JPPI01753160",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/5GSySDpNCmfhY09UNKVOBO",
+      "isFallback": true
+    },
+    {
+      "id": "e8d34969-dc2a-4418-808b-d50745ae10e8",
+      "title": "twinkle star",
+      "artist": "サーニャ・V・リトヴャク",
+      "isrc": "JPCO00905700",
+      "releaseDate": "2009-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/6GlIrZvlFE66psSWHfxj9c",
+      "isFallback": true
+    },
+    {
+      "id": "a6c1483e-edaf-4dec-b327-5f42b50d1fd8",
+      "title": "Joyride",
+      "artist": "佐久間貴生",
+      "isrc": "JPI102202685",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4D9QpaZLxiBXSpt8rdMIGC",
+      "isFallback": true
+    },
+    {
+      "id": "3a69d235-fd1f-4335-8db4-3d673e17a601",
+      "title": "ワクワク・キッチンカーニバル",
+      "artist": "Mami",
+      "isrc": "JPP751100039",
+      "releaseDate": "2011-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/1u177nOVzzjg4zHEHMrzME",
+      "isFallback": true
+    },
+    {
+      "id": "40413ca6-f3ac-449b-a781-3c33efcef888",
+      "title": "ロマンスはエチュード",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02415028",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/5N9iRdneieYqw0NPpUUTnY",
+      "isFallback": true
+    },
+    {
+      "id": "1d771d59-5d0f-469a-ad8e-c09d6136d7ca",
+      "title": "まけへんで",
+      "artist": "アイドリング!!!",
+      "isrc": "JPPC01100238",
+      "releaseDate": "2011-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/4GRtEkNrOUs6XLWVN91hPY",
+      "isFallback": true
+    },
+    {
+      "id": "f5cf7750-2748-435a-a2bf-3da6931e20dd",
+      "title": "WEDDING BELL",
+      "artist": "秋月律子 & ちっちゃん",
+      "isrc": "JPD641300007",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/1OVWWTGDYXHvYq5or1F8W1",
+      "isFallback": false
+    },
+    {
+      "id": "1faa0241-b9e2-4c95-a9f0-4548b69477c6",
+      "title": "No One Knows M",
+      "artist": "シャーロット・E・イェーガー",
+      "isrc": "JPCO00908710",
+      "releaseDate": "2009-04-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b5e5ddee-f035-4531-8a26-6e42136b369e",
+      "title": "FLOWER GARDEN",
+      "artist": "山辺燈",
+      "isrc": "JPI101000140",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2107111f-abac-4462-a723-799da72f5dd2",
+      "title": "Wish Crystal",
+      "artist": "ジョーゼット・ルマール",
+      "isrc": "",
+      "releaseDate": "2017-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "94ba40fd-60a4-4b15-9743-e95431e92f5b",
+      "title": "お手伝いのラララン添えはいかがですか?",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01650670",
+      "releaseDate": "2016-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/6lpha2XkjLiAB9JryKyCaF",
+      "isFallback": true
+    },
+    {
+      "id": "fc5feb27-e1e5-4e2b-9b14-e1e1586fbab9",
+      "title": "オマモリ",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00810017",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/0dN6JQsD6KJYxCybq7hvVk",
+      "isFallback": true
+    },
+    {
+      "id": "95000cbe-a3e3-4365-a4a0-bcd12992f7ac",
+      "title": "Doki:doki Symphony",
+      "artist": "サーニャ・V・リトヴャク",
+      "isrc": "JPCO01253410",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84d56567-da59-4494-b98d-efa86513edfa",
+      "title": "ハレノヒ幻想曲",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01213791",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/7wdPtyOUAifC3Z0TluATvQ",
+      "isFallback": true
+    },
+    {
+      "id": "486a3db9-6f9b-4bee-8c19-22dda9f9c028",
+      "title": "スキップトラベル",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01700890",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/5sFaBn6xyhfZpBSMs51HES",
+      "isFallback": true
+    },
+    {
+      "id": "8000e673-f262-42d4-bda3-31b5e0c84e29",
+      "title": "Sweet Bitter Sweet Days",
+      "artist": "伊藤美来",
+      "isrc": "JPCO02010890",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/1Q6MaHGbiViGOWMk5RQJEv",
+      "isFallback": true
+    },
+    {
+      "id": "93f38064-2cad-41ca-b1ee-7cfa449758e1",
+      "title": "Rabbit’s Time",
+      "artist": "川田瑠夏",
+      "isrc": "JPPI01553900",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5VHqVHtcPGzDgbd9Zv6tzG",
+      "isFallback": true
+    },
+    {
+      "id": "d48eec34-40fb-4d56-a3fa-2a46dbbd0c8e",
+      "title": "暗闇心中相思相愛",
+      "artist": "糸色 望",
+      "isrc": "JPKI00914339",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/40hs25fy23i58EUs83U5rN",
+      "isFallback": true
+    }
+  ]
+}

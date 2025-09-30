@@ -1,0 +1,33 @@
+{
+  "name": "James Panda Jr.",
+  "sortName": "ジェームズパンダジュニア",
+  "tracks": [
+    {
+      "id": "501ba41a-a638-4678-bf53-0c17cafca39d",
+      "title": "Infinity Sky",
+      "artist": "小松未可子",
+      "isrc": "JPKI01213338",
+      "releaseDate": "2012-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/0iKgdSqg6edocDuKMzKyVE",
+      "isFallback": true
+    },
+    {
+      "id": "f7d0817e-67a3-456c-9a70-c693b8555288",
+      "title": "僕ら",
+      "artist": "小松未可子",
+      "isrc": "JPKI01412422",
+      "releaseDate": "2014-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/2UCE24laB1NGq8wT0Iu4PH",
+      "isFallback": true
+    },
+    {
+      "id": "076b58a1-e383-4cee-a386-52b38524e2bb",
+      "title": "PandA",
+      "artist": "小松未可子",
+      "isrc": "JPKI01412423",
+      "releaseDate": "2014-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/1McmTbgslVzEFYcvEx1KZ6",
+      "isFallback": true
+    }
+  ]
+}

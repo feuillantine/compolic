@@ -1,0 +1,343 @@
+{
+  "name": "高浪敬太郎",
+  "sortName": "タカナミケイタロウ",
+  "otherName": [
+    "Pizzicato Five",
+    "Wink Music Service"
+  ],
+  "tracks": [
+    {
+      "id": "26dbbbed-6735-499b-a9df-d1b421211e22",
+      "title": "キッスは殺しのサイン",
+      "artist": "早見優",
+      "isrc": "JPPO01204109",
+      "releaseDate": "1986-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/1taRIG9Sf6eD8DRwBXOyFB",
+      "isFallback": true
+    },
+    {
+      "id": "71bbb09d-3c8d-4935-a5d9-af76298ea921",
+      "title": "ロマンティック",
+      "artist": "中山忍",
+      "isrc": "",
+      "releaseDate": "1990-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13fd5481-10d3-4447-9a98-f4756f7aba44",
+      "title": "かたことの恋",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00214830",
+      "releaseDate": "2002-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ede190eb-d1ca-444c-afa9-d4353a5596d8",
+      "title": "オードリィ・ヘプバーンの休日",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909270",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a0c4abf-e0ec-4b1f-a1b3-17e8901977eb",
+      "title": "遠い天国",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909420",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76907cb4-05e1-421b-a039-904dc35ba820",
+      "title": "a wild fancy 〜本須和のテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223610",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0af9e64f-247c-466f-a243-116fbc7f3f59",
+      "title": "ナイトキャップ",
+      "artist": "折笠愛",
+      "isrc": "JPCO09711530",
+      "releaseDate": "1997-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27d72413-b097-4f57-87ab-538d754fbb95",
+      "title": "little smile",
+      "artist": "小野真弓",
+      "isrc": "JPCR00501010",
+      "releaseDate": "2005-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/0A0HSrfb7E4510iRKrmpq5",
+      "isFallback": true
+    },
+    {
+      "id": "d94d1033-1640-4a32-abe6-c4a9435413b3",
+      "title": "記憶の扉",
+      "artist": "日比谷千歳",
+      "isrc": "JPVI00223640",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "54128feb-1dc9-448d-b17e-4ccaacefbc07",
+      "title": "mix-zone 〜稔のテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223630",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9a0d5c6b-0362-48e1-afc9-fd56bdc77225",
+      "title": "ペパーミント・レインボー",
+      "artist": "中山忍",
+      "isrc": "",
+      "releaseDate": "1990-08-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "898c84b1-f449-49a0-9597-09896e0d48ae",
+      "title": "tiptoe",
+      "artist": "秋山奈々",
+      "isrc": "JPVI00650330",
+      "releaseDate": "2010-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/4nyHvcidh72I5gCGbOPHhG",
+      "isFallback": true
+    },
+    {
+      "id": "a282d4cd-3092-4f57-8801-305e42a7cef7",
+      "title": "ホームシック・ブルース",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909400",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0cdc60a-8d49-4bf4-8339-1476ae4a82b5",
+      "title": "そして世界は今日も始まる —ちぃVer.—",
+      "artist": "田中理恵",
+      "isrc": "JPVI00223550",
+      "releaseDate": "2002-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/5D9HAaYHOanX7SwzMVPvAs",
+      "isFallback": true
+    },
+    {
+      "id": "7e2ee3e9-0c70-41ad-b997-04269c69df0f",
+      "title": "ミツバチのささやき",
+      "artist": "Wink Music Service",
+      "isrc": "TCJPC2471913",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/3tdTB5ZHOzyJaW32sWr1Vf",
+      "isFallback": true
+    },
+    {
+      "id": "cf213208-1956-4b40-a499-b2dfb0e205ec",
+      "title": "素直な悪女",
+      "artist": "Wink Music Service",
+      "isrc": "TCJPC2471431",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/4po20TcxjJSlPtk4szNbyT",
+      "isFallback": true
+    },
+    {
+      "id": "666e62d0-db7a-42ec-b5fd-778798dc7398",
+      "title": "in understones 〜ちぃのテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223590",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76b2222a-f88f-49a0-878b-1d6b746ad777",
+      "title": "a storm in a teacup 〜すもものテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223670",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "03408a15-1e0b-4a3d-b044-211d337db0aa",
+      "title": "マドモワゼル・エメ",
+      "artist": "Wink Music Service",
+      "isrc": "TCJPC2471506",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/44mxcSCbiynU2JQiJ95ExS",
+      "isFallback": true
+    },
+    {
+      "id": "433b5375-6f2f-4c6f-97fc-95141187fbd6",
+      "title": "〜d.自白剤",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909350",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d6cf2e8-8888-464c-9ee1-2102df659d2f",
+      "title": "かたことの恋 —ちぃVer.—",
+      "artist": "田中理恵",
+      "isrc": "JPVI00223560",
+      "releaseDate": "2002-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/5d2EiFXFEZgzQBSukRpEw9",
+      "isFallback": true
+    },
+    {
+      "id": "a1887de7-28ec-46f0-8c94-88f6603abf52",
+      "title": "make my day 〜日比谷のテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223650",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f4617466-27e3-472f-8452-9108389afbd4",
+      "title": "バナナの皮",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909380",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2a698bfb-2a96-43be-a1b4-3029526032b2",
+      "title": "ガールフレンズ",
+      "artist": "井上睦都実",
+      "isrc": "JPSR09401125",
+      "releaseDate": "1994-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/7yvQBEcMBCJdKWqhL1PqHC",
+      "isFallback": true
+    },
+    {
+      "id": "9142b272-635a-48a5-bc3d-ac92d43b0281",
+      "title": "〜e.陽動作戦",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08909360",
+      "releaseDate": "1989-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ccc12d6b-aa4b-4df4-9374-40f8041866b7",
+      "title": "There’s nobody in town (Instrumental)",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00235440",
+      "releaseDate": "2002-10-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "38d8de73-3791-4726-8b8c-22e8c8f968d2",
+      "title": "Peace Music (St. Etienne remix)",
+      "artist": "Pizzicato Five",
+      "isrc": "",
+      "releaseDate": "1995-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31524cef-b53d-4f21-a734-54b9910dc1b9",
+      "title": "ふしぎ・プルプル・プルリン・リン!",
+      "artist": "宍戸留美",
+      "isrc": "JPVI00648880",
+      "releaseDate": "2006-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/5yGBzAGHTFhmEeRbcmFOhs",
+      "isFallback": true
+    },
+    {
+      "id": "4ec04dce-6fb3-46aa-9fa1-93dd35acc2c7",
+      "title": "ヘンな女の子",
+      "artist": "Wink Music Service",
+      "isrc": "JPCO02304820",
+      "releaseDate": "2023-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/7pJz7GAlreMxjPmxh9Qmdx",
+      "isFallback": true
+    },
+    {
+      "id": "7e4931d6-305a-4b15-8f5f-0fc4786ad8e3",
+      "title": "あやしい…",
+      "artist": "水谷麻里",
+      "isrc": "JPVI08616460",
+      "releaseDate": "1987-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/15DQpI28ml13Yi7FBYNgF7",
+      "isFallback": true
+    },
+    {
+      "id": "5ee62034-b681-4a1e-af49-73588deb7512",
+      "title": "皆笑った",
+      "artist": "Pizzicato Five",
+      "isrc": "JPSR08702420",
+      "releaseDate": "1987-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/3sD3bOw3bxXEbiHfbZUkpR",
+      "isFallback": true
+    },
+    {
+      "id": "ec9cd0e0-c139-4a8e-a0fa-4aa16e1d4260",
+      "title": "Lollipop Sixteen",
+      "artist": "SOLEIL",
+      "isrc": "JPVI01901885",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/6nqCFsSqJ5Q2TwdFDUuCxQ",
+      "isFallback": true
+    },
+    {
+      "id": "ad3a5811-88d1-40e0-a885-05a9756518dd",
+      "title": "博愛 (目賀田博士の異常な愛情)",
+      "artist": "あがた森魚",
+      "isrc": "JPCO08641520",
+      "releaseDate": "2007-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/6JCYSJttVHq1vqLY5UJ3Lp",
+      "isFallback": true
+    },
+    {
+      "id": "98a72beb-e3e2-4c63-9eec-7a53208135e3",
+      "title": "I beg your pudding? 〜裕美のテーマ〜",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00223690",
+      "releaseDate": "2002-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ccbd296-7e2e-4c73-9af1-77269f6bc6e5",
+      "title": "Dear my saint-girl",
+      "artist": "中川翔子",
+      "isrc": "JPSR00603883",
+      "releaseDate": "2007-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/5jRUu6uerRsjQhoWYCUspo",
+      "isFallback": true
+    },
+    {
+      "id": "aa611a72-7aa2-44c4-84b5-aed0275eddfd",
+      "title": "そして世界は今日も始まる",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00214850",
+      "releaseDate": "2002-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "91482571-1c19-4775-b025-d0864874bdaa",
+      "title": "パワードスーツを脱がさないで",
+      "artist": "More Peach Summer",
+      "isrc": "JPVI00448760",
+      "releaseDate": "2005-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1552QOL2WYJ9UXueeLa2VR",
+      "isFallback": true
+    }
+  ]
+}

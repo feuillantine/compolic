@@ -1,0 +1,24 @@
+{
+  "name": "松尾宗能",
+  "sortName": "マツオムネノリ",
+  "tracks": [
+    {
+      "id": "e13548cd-7ef1-461c-a9d3-9bb7f64ff2d2",
+      "title": "ふたり",
+      "artist": "くぴぽ",
+      "isrc": "TCJPP2125450",
+      "releaseDate": "2021-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/1IjjsHbHBdpOxl6F0YlM2x",
+      "isFallback": true
+    },
+    {
+      "id": "8ba4ebb3-c199-4c24-ba23-213395c49ac1",
+      "title": "響けカンパーナ",
+      "artist": "川上きらら",
+      "isrc": "TCJPP2106724",
+      "releaseDate": "2021-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/0fcHg7zUjGosETwPVd7N9F",
+      "isFallback": true
+    }
+  ]
+}

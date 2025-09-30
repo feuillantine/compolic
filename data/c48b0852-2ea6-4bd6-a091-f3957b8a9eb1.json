@@ -1,0 +1,780 @@
+{
+  "name": "長谷川智樹",
+  "sortName": "ハセガワトモキ",
+  "tracks": [
+    {
+      "id": "0e8c21e4-b22b-4ce7-b60b-7e82203152df",
+      "title": "灰かぶりの少女",
+      "artist": "加賀愛",
+      "isrc": "JPKI00915818",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/1h1G8ponKVojykHb2unB7K",
+      "isFallback": true
+    },
+    {
+      "id": "2be7bfd0-75fe-4a7e-8f60-127e7a7507a3",
+      "title": "みちか",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917207",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53293775-f614-4d64-a0ac-22438b31c762",
+      "title": "ファクター・ワード",
+      "artist": "住友花子(CV:南波志帆)",
+      "isrc": "JPKI01715474",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/58PnzalVYCZ917ygAo2I5j",
+      "isFallback": true
+    },
+    {
+      "id": "0344043f-7d49-4c83-b9f6-e01464f2077d",
+      "title": "料理対決",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917198",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "25c54737-d883-4980-86b7-96b44c8cbd29",
+      "title": "おいしそう!",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917197",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e5d5b61-a2b1-4e1b-9a1d-16ed4402c25b",
+      "title": "living",
+      "artist": "東山奈央",
+      "isrc": "JPVI02302322",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0VuDodpLWK6qIBnnTychmM",
+      "isFallback": false
+    },
+    {
+      "id": "e8a30560-e016-4401-bd88-6e895152dbad",
+      "title": "勇者へのミサ・ブレイヴィス",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01518916",
+      "releaseDate": "2015-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/3LrMqRRq48IUdxnPjYBJPF",
+      "isFallback": false
+    },
+    {
+      "id": "7c96ad22-5b59-461e-8d39-65313145d975",
+      "title": "ビんチの中にチャンスを探せ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6da6324c-eaf3-4a66-b053-e99501a8c269",
+      "title": "宇宙のMON DIEU",
+      "artist": "MEG",
+      "isrc": "JPKI01316767",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/3rqONSvQ1cso2PYA5sh4NE",
+      "isFallback": true
+    },
+    {
+      "id": "cd068b87-a0f5-430f-8433-fb4b0b365136",
+      "title": "天使界",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7648ac02-5457-4de8-8bbf-a64b68cdd669",
+      "title": "アフロディーテ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ecf6f51e-3a8e-4b5b-be4c-ae9c3875e275",
+      "title": "それを恋と呼べなくても",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "93db9299-3579-4253-a5f9-1e29b922c5a9",
+      "title": "空の音",
+      "artist": "Ryu Miho",
+      "isrc": "JPKI01715472",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/38gf7LLnGG1xywbu3GCSEP",
+      "isFallback": true
+    },
+    {
+      "id": "17dc31b2-6c10-48ed-ae4e-9a57c9d60f74",
+      "title": "もっともっと近くへ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2412ea70-6931-4d34-88c2-337e773a1b90",
+      "title": "悪魔界",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1eec8144-43f6-426b-b473-6e2490d8e3a9",
+      "title": "おおばやし&こばやし",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917205",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cb0811b4-ce77-4ec6-a4f7-09993c3c29bd",
+      "title": "失敗!?",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917208",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dfa7c606-961f-4120-959b-2ec651c265f7",
+      "title": "おはようがいっぱい!",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7548aa6a-63e5-40b2-b46e-0a3059636fa1",
+      "title": "胸いっぱいの気持ち",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21a19f31-1692-4af7-910f-ad5019c47fb5",
+      "title": "愛天使 光の中から",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f94ff963-5360-4e83-9a7f-45c85a9a8afc",
+      "title": "過去の合鍵",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ee5fa56d-4961-42d6-a90e-00127ef4816d",
+      "title": "絶望先生えかきうた",
+      "artist": "木津千里",
+      "isrc": "",
+      "releaseDate": "2008-03-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bd37f06e-2ee6-4c78-8818-6773f2258751",
+      "title": "レインデビラ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0221442-1a07-4301-bddb-95a447178158",
+      "title": "僕等のセンチュリー",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01218009",
+      "releaseDate": "2012-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4yoYHwxX7gu5bRYdxFh9kZ",
+      "isFallback": true
+    },
+    {
+      "id": "1e13c13a-de5f-4f87-87c1-65c13742f63d",
+      "title": "デレぱにぱにック",
+      "artist": "原紗友里",
+      "isrc": "JPCO02216110",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7mEdnOVFFfFb3Cr7Oht47G",
+      "isFallback": true
+    },
+    {
+      "id": "d6e5f827-f584-443c-b845-ac79bc883138",
+      "title": "Secret Romance",
+      "artist": "華暮愛々",
+      "isrc": "JPI102403452",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/0PJ5iPdwOAEuKrrPq2XCaM",
+      "isFallback": true
+    },
+    {
+      "id": "620d6609-77e0-4ab3-a765-98d091e64b8b",
+      "title": "WPエフェクト・コレクション",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d177a8bb-ef05-4b13-9bda-1bf33af9a984",
+      "title": "今は時計をはずして",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9145752-8d12-4806-a3cf-c2d5649d2db6",
+      "title": "Women in Life (深海3000 mix)",
+      "artist": "篠原ともえ",
+      "isrc": "JPHD09901810",
+      "releaseDate": "1999-11-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "295df7cd-7cd3-4190-94d4-974c5d73be49",
+      "title": "WPブリッジ・コレクションII",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "15110222-a532-4914-b05f-6a993685ddb0",
+      "title": "気ままなハートビート",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a80cd5e-fc81-4a04-a00b-7cdb959cb7b0",
+      "title": "太陽を追いかけて",
+      "artist": "堀江美都子",
+      "isrc": "JPCO09236740",
+      "releaseDate": "1993-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f348bf7-f096-4632-8d0e-5777244de972",
+      "title": "WPブリッジ・コレクション",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "47dbca89-184a-4d34-aaa8-4e4fbac81a94",
+      "title": "ノストラちゃんまつり",
+      "artist": "宮村優子",
+      "isrc": "JPVI09920760",
+      "releaseDate": "1999-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/0QVeMhQiac0kBAswYVY9CW",
+      "isFallback": true
+    },
+    {
+      "id": "c6c8f1df-5d1f-4c70-80c6-98b4784fe36a",
+      "title": "ただ、感じることだけ…",
+      "artist": "折笠愛",
+      "isrc": "JPCO09711540",
+      "releaseDate": "1997-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e4bbfda-42d1-46d4-a90e-75aa3fe2fb6e",
+      "title": "笑顏が明日を連れて来る",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5295348-6c35-4b8e-aeb3-c65ef4d6447f",
+      "title": "リトルサスペンス",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7abf2939-8cf0-4ff5-85a0-85c3e83b2c58",
+      "title": "ミーハー仲間は無敵です",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aef35709-42ca-466a-8d7a-71d0a9f64713",
+      "title": "アンニュイって感じかな…",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "69483f4e-bd19-4515-b555-f0cd9ef2dd3f",
+      "title": "マリオネット",
+      "artist": "ROLLY",
+      "isrc": "JPKI00810016",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/76Xa2YxKOD9rK2fCWomFjy",
+      "isFallback": true
+    },
+    {
+      "id": "b044c011-ba0d-4cfd-b458-de8692b9dbfe",
+      "title": "青春ちゃんなのだっ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "802ce4ff-d142-4e04-b5c3-0bbb37a68646",
+      "title": "交錯するイリュージョン",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fef46587-042a-482b-b4d1-e9f596ccd14a",
+      "title": "迫りくる影",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4fa004f5-bcab-46f7-b09e-36d1c7370294",
+      "title": "280秒間世界一周 〜幸せのイヤホンを探して〜",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01518915",
+      "releaseDate": "2015-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/4lqVCi3u1np0EBmILt7Ar0",
+      "isFallback": false
+    },
+    {
+      "id": "c8e4ffea-e5f4-405b-aa6f-b979f365c14c",
+      "title": "ひとりぼっちで泣かないで",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "56e309b2-e8da-47d5-9ef4-cee65f18b7c6",
+      "title": "テーマ・オブ・ウェディングピーチ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cdc8c747-55d5-4c26-98a4-80a894a27842",
+      "title": "試食タイム",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917202",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "165db739-af87-4804-9e1a-943f61ed0c77",
+      "title": "サブタイトル",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917204",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a3a560b-0589-4c22-996b-7fd0e16779f1",
+      "title": "国境をこえて",
+      "artist": "リネット・ビショップ",
+      "isrc": "JPCO01321030",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fcbac060-56c3-4fd8-ae5d-db316e47b462",
+      "title": "WPブリッジ・コレクションIV",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "266a0628-7ec3-443e-875a-495f8492222d",
+      "title": "DJソルト here we go!",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917193",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9de6cf3f-2df5-43dc-92ce-521cd625f7a2",
+      "title": "クッキングスタート",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917195",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8a2b7801-9a62-4bbe-9c26-b440d7133dd8",
+      "title": "thrill",
+      "artist": "折笠愛",
+      "isrc": "JPCO09711560",
+      "releaseDate": "1997-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9bc6bbb9-a854-44af-a11c-f2743d486481",
+      "title": "学校に行きたくなる理由♥︎",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b48520d3-5731-4520-b486-acea74829d8f",
+      "title": "WPブリッジ・コレクションII",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "01d125bf-1024-492b-9254-587fa27f59ed",
+      "title": "闇からの刺客たち",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17eabcb3-0cb3-4dc4-bd8a-4142ffd3e311",
+      "title": "テーマ・オブ・エンジェルリリィ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "164a022f-3320-46ba-95f8-067333b42ff9",
+      "title": "ちゃんとできるかな?",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917196",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f0d50b5-e50a-480d-aacf-14ded34e7120",
+      "title": "夏のBang!!",
+      "artist": "星井美希",
+      "isrc": "JPCO02136690",
+      "releaseDate": "2022-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b625f020-1ea0-45d4-990e-3afeb65a17de",
+      "title": "小さな胸に勇気を抱いて",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "70fef7fe-6a97-4497-99ca-4a0cbe060787",
+      "title": "メッセージ・フロム・リモーネ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ea8b56ac-2008-4c11-b47d-c90d8281be16",
+      "title": "心のバージンロード",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85f97de2-151a-41b1-956f-b925f1f9169a",
+      "title": "そして今日かはじまる",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db4fd7b7-014d-4845-b3a7-eb4ea4b5f1aa",
+      "title": "優しい時間",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917210",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0aa95a1-5815-42be-8743-40710970d1ba",
+      "title": "悲しみがこぼれそう",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f1cbe2a9-6b85-4998-be32-6c089196be23",
+      "title": "テーマ・オブ・エンジェルデイジー",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5832e5a-40d5-4e8e-8166-d0031548ad63",
+      "title": "愛をかくせない",
+      "artist": "折笠愛",
+      "isrc": "JPCO09711580",
+      "releaseDate": "1997-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e46e4008-de04-4b37-84b7-333f3581f570",
+      "title": "愛は負けられない",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cea1ef6b-9162-42ee-ab93-063ad03cc8dc",
+      "title": "オーディション",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917209",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9744fef1-c6b9-41ae-9302-6fddaa319943",
+      "title": "絶唱",
+      "artist": "糸色望",
+      "isrc": "JPKI00709693",
+      "releaseDate": "2007-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/3H2hDCtt4N57Pkivi15qdD",
+      "isFallback": true
+    },
+    {
+      "id": "426f80c5-7f58-49e9-9935-5e87fbbfc7e4",
+      "title": "道標",
+      "artist": "宮本駿一",
+      "isrc": "JPVI00323780",
+      "releaseDate": "2003-10-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e8d9b8b-7687-4139-800a-1cf63c3bc4e3",
+      "title": "おいしいね!",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917203",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "06c4046a-f048-4cbe-957a-e496ac78305e",
+      "title": "黑いミラージュ",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b891913c-c533-43a0-8576-6953545d9d5c",
+      "title": "大成功!",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917201",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "56de40eb-d985-4bda-8875-4b6b79a6b489",
+      "title": "お色気?ローティーン",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "994f1c3f-4eb7-42c2-8c14-f5e56c2bf9f8",
+      "title": "ミサンガ",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917199",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7e9c6cf5-cf84-48de-98e4-06a81477691b",
+      "title": "～愛のテーマ～",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "2002-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49a9add7-bc1a-4d8c-9bc4-9376d9605607",
+      "title": "楽しい作業",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917200",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2e421561-a224-42d7-8010-e283a81f344d",
+      "title": "倒すべき敵",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "280bf8ea-d88d-4e6e-86ae-3d0540b6b7f0",
+      "title": "カルメン後藤",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917211",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16b4c4ef-070a-41f0-995c-9e924422cd8c",
+      "title": "WPブリッジ・コレクションIII",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3d251eac-80c0-4517-8ebd-5235eebd571d",
+      "title": "夢を枯らさないで",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9561eddb-0c50-4ad0-8185-2344269ea861",
+      "title": "スパーク!",
+      "artist": "長谷川智樹",
+      "isrc": "JPKI00917206",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2fc41af5-eaa0-426d-8629-938183fe9633",
+      "title": "こんな日もあるよね",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4f05a598-4e2e-4cc4-8abb-0d7eac3675c7",
+      "title": "悪夢",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01317955",
+      "releaseDate": "2014-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/6JEo1CPvlrog0pDTaW6oYb",
+      "isFallback": true
+    },
+    {
+      "id": "6c25e157-795b-4e71-9814-dce17c9eba12",
+      "title": "あの空を見つめれば（まぶしい朝〜トワイライト〜星空）",
+      "artist": "長谷川智樹",
+      "isrc": "",
+      "releaseDate": "1995-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

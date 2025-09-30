@@ -1,0 +1,60 @@
+{
+  "name": "大岩航",
+  "sortName": "オオイワワタル",
+  "tracks": [
+    {
+      "id": "9b048d57-6751-4ffd-bd02-dcf563b89bf1",
+      "title": "ポリシー!",
+      "artist": "西沢義子",
+      "isrc": "JPCO02115530",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/4zvREePBcllDLLGTM3rdVK",
+      "isFallback": true
+    },
+    {
+      "id": "e9293712-840c-485f-981b-5a810b30b3be",
+      "title": "キラキラキュっ <Bonus Track>",
+      "artist": "フィーロ(CV:日高里菜)",
+      "isrc": "JPCO02505050",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/0OcCinMk7rU9kEkH6B9hVq",
+      "isFallback": true
+    },
+    {
+      "id": "cc1b180a-fcfb-4a37-83f1-0bf2c9f43a9b",
+      "title": "ほほえみDiary (M@STER VERSION)",
+      "artist": "高森藍子",
+      "isrc": "JPCO02016620",
+      "releaseDate": "2020-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5EiCJJg5XYEhaty2bDxWTk",
+      "isFallback": true
+    },
+    {
+      "id": "678fde5b-47fd-4c90-8693-dc358c65c56c",
+      "title": "オヤマトペ♪",
+      "artist": "棟方愛海",
+      "isrc": "JPCO02023730",
+      "releaseDate": "2020-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/0zSVv2oiqlYPQKWRLvAySZ",
+      "isFallback": true
+    },
+    {
+      "id": "dd87fc8a-9e02-4919-b102-0b1394b6caab",
+      "title": "ペン太郎の大！大！大冒険",
+      "artist": "薬膳楠莉",
+      "isrc": "JPI102403446",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/195TcIVM2FYhkqbK64oeHv",
+      "isFallback": true
+    },
+    {
+      "id": "baa0ca07-a15f-4cde-97bc-bb7912b4fc04",
+      "title": "ずっと、ぎゅっと",
+      "artist": "好本静",
+      "isrc": "JPI102403444",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/3gxRzWthGmXffNKxy7MM3w",
+      "isFallback": true
+    }
+  ]
+}

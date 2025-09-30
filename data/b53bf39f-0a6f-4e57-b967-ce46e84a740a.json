@@ -1,0 +1,420 @@
+{
+  "name": "Akki",
+  "sortName": "アッキー",
+  "tracks": [
+    {
+      "id": "1d309bb9-1d4f-4659-a004-dd6f6ca60b50",
+      "title": "イタダキマス",
+      "artist": "Akki",
+      "isrc": "TCJPW2317547",
+      "releaseDate": "2023-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/5XyrgmKQvo86sg16qbj9mw",
+      "isFallback": false
+    },
+    {
+      "id": "1c7353e7-1737-4954-a006-00839bb7ccf0",
+      "title": "私の心の伝えかた",
+      "artist": "夏林花火",
+      "isrc": "JPPC02211597",
+      "releaseDate": "2021-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/4vfgMubbg4tvIdlZUKjgcY",
+      "isFallback": true
+    },
+    {
+      "id": "8ef99f7e-ac60-408e-a22d-51b7a6fb258c",
+      "title": "寝落ちつーわでだべりたい",
+      "artist": "Akki",
+      "isrc": "TCJPD2576870",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4SzpOE2cBXNKHct2oSSYx1",
+      "isFallback": true
+    },
+    {
+      "id": "1d3d4ddb-7f30-48cf-9dcf-78018123820f",
+      "title": "もしも",
+      "artist": "太陽と踊れ月夜に唄え",
+      "isrc": "JPPC02511707",
+      "releaseDate": "2025-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/2kztDhgTCWoDBBtVbi2kgF",
+      "isFallback": false
+    },
+    {
+      "id": "5f4a50c8-d243-4f82-be36-ec58c788b02d",
+      "title": "Sing A Ring",
+      "artist": "獅子神レオナ",
+      "isrc": "TCJPL2019405",
+      "releaseDate": "2020-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/1VsgYAShhjPsBs6Ue1gnqS",
+      "isFallback": true
+    },
+    {
+      "id": "444cc3d6-c9c7-4463-8c14-318e7466c2e8",
+      "title": "I’m a Messenger for U",
+      "artist": "ななひら",
+      "isrc": "TCJPW2306960",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3vwrKzgQvUQCDdyzG28U25",
+      "isFallback": false
+    },
+    {
+      "id": "f25b165f-909f-4716-a74e-8caaf7e2ae5f",
+      "title": "からふる♡まーぶる",
+      "artist": "もこ田めめめ",
+      "isrc": "TCJPD2558187",
+      "releaseDate": "2025-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/22JNGQc2dDJQM5WVFSwGwG",
+      "isFallback": true
+    },
+    {
+      "id": "e5524f63-8bf0-42ef-881c-fbfeb9c40a74",
+      "title": "Gazer",
+      "artist": "柾花音",
+      "isrc": "TCJPX2357540",
+      "releaseDate": "2023-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/0FpmxIpgTc4kQ1erjLQXKY",
+      "isFallback": false
+    },
+    {
+      "id": "55f00a38-22f4-4e41-943b-82dff4efb9e0",
+      "title": "はっぴーでいず!",
+      "artist": "獅子神レオナ",
+      "isrc": "TCJPK1905695",
+      "releaseDate": "2019-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/1t0GWPfIGdG6dlWJ20jCxU",
+      "isFallback": true
+    },
+    {
+      "id": "626dc3c1-2d89-443c-8ec0-507055d49f5f",
+      "title": "いってきます",
+      "artist": "春野瑞希",
+      "isrc": "JPR502149350",
+      "releaseDate": "2021-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/2j58SS5kwStP91QLezT6gc",
+      "isFallback": false
+    },
+    {
+      "id": "357fe342-0647-4ea7-aa1c-4e29830fb81f",
+      "title": "羽を手にして",
+      "artist": "ときのそら",
+      "isrc": "JPVI02201902",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4H4NBA59FVDmWf12YJUZNg",
+      "isFallback": true
+    },
+    {
+      "id": "4eb2c1a3-fd6c-44ad-9bd9-eb15f57cd274",
+      "title": "らぶゆーべいびー！",
+      "artist": "真白ぽん",
+      "isrc": "TCJPX2319303",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/40GSHaEonfDHVHg1aqC3cA",
+      "isFallback": false
+    },
+    {
+      "id": "0754abe8-dee8-48d4-8ec8-a4b59d80e90b",
+      "title": "LIKE YOU o(>< = ><)o LOVE YOU?",
+      "artist": "紫雲寺家の子供たち",
+      "isrc": "JPI102500635",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1bGfMSLJBVVmkGVUWUCCrL",
+      "isFallback": false
+    },
+    {
+      "id": "b89f9d52-5fbc-406f-9e8e-2faedc3145f2",
+      "title": "そんなアイニージュー",
+      "artist": "水瓶ミア",
+      "isrc": "TCJPR2225733",
+      "releaseDate": "2022-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/0FgJuqswYKDOJhvTlfxlQa",
+      "isFallback": false
+    },
+    {
+      "id": "16c9eb3c-9a0d-4308-b606-c5991c0094a8",
+      "title": "Lazy",
+      "artist": "AZKi",
+      "isrc": "JPVI02401845",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/2NuEoPiO5rxR1jbFcSQH16",
+      "isFallback": true
+    },
+    {
+      "id": "1c5966b8-ec22-4eed-8a8c-64e34648f6e1",
+      "title": "パンケーキいいな",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02210410",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/0diJ7GeQqw5oFdfKTukNmt",
+      "isFallback": false
+    },
+    {
+      "id": "fd6e440e-a84b-4e6a-a50f-c6eb72f64b55",
+      "title": "たとえばのはなし",
+      "artist": "Akki",
+      "isrc": "TCJPY2359405",
+      "releaseDate": "2023-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/6NV0EQGCDEvIDxzRAFuavG",
+      "isFallback": false
+    },
+    {
+      "id": "f13de29b-1bc9-4a06-a3a6-b75dc7839560",
+      "title": "君色ジャンプ",
+      "artist": "Akki",
+      "isrc": "TCJPX2366823",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2CDovxpoZXWejoIg3fwuxO",
+      "isFallback": false
+    },
+    {
+      "id": "2767f98e-a896-4a17-b10d-d6320a88fdeb",
+      "title": "はぴはぴDAY",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2025-06-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b989317-9afb-4e54-96fb-8be0f67eaef1",
+      "title": "TREASURE!",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02510022",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/3jQZjMw2Puloyk0CnBjX4d",
+      "isFallback": true
+    },
+    {
+      "id": "f01f9f6d-da0e-43c5-a59e-06292ef5904a",
+      "title": "Time Machine",
+      "artist": "Asterline",
+      "isrc": "TCJPU2367092",
+      "releaseDate": "2023-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/5zePSwJowl93u5wlcRBR3y",
+      "isFallback": false
+    },
+    {
+      "id": "2960f8ca-57cb-489f-8dee-c4d0a631c014",
+      "title": "フェアリーテイルは終わらない",
+      "artist": "ぽかぽかイオン",
+      "isrc": "JPVI02500033",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/1Tsx726kRDMtezDMrcpxa3",
+      "isFallback": true
+    },
+    {
+      "id": "6eed05cc-10d4-4432-9932-4eecfd3267d1",
+      "title": "パラサイトブルー",
+      "artist": "藍月なくる",
+      "isrc": "JPR502407663",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/6ork2sSmnVuF6gHFZu3iaf",
+      "isFallback": true
+    },
+    {
+      "id": "0dcd5b5e-50ce-4941-afbe-08117d320837",
+      "title": "飛行機雲とモノローグ",
+      "artist": "Akki",
+      "isrc": "TCJPX2366814",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3r0Tz7T0Xa6NX2FDSNNfn9",
+      "isFallback": false
+    },
+    {
+      "id": "c86f8942-c67d-4817-9293-7639d6dd8a4b",
+      "title": "Rolling, Loading!!",
+      "artist": "ときのそら",
+      "isrc": "JPVI02400178",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/1ed3hc9MbICFfGwlvcLmpj",
+      "isFallback": false
+    },
+    {
+      "id": "9e4c84a1-0a40-4b88-ac30-a7aed3ddfd74",
+      "title": "屋上、風に乗れたら",
+      "artist": "ななひら",
+      "isrc": "TCJPR2268368",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2fiqpaw7Pl3YONIgcTL3Fc",
+      "isFallback": true
+    },
+    {
+      "id": "0b357033-a0c8-471c-9b42-a09d52847761",
+      "title": "Wedding Car-chase!",
+      "artist": "Akki",
+      "isrc": "TCJPX2366802",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3jMgJgElHh1mTTYms9Hm44",
+      "isFallback": false
+    },
+    {
+      "id": "4ef28f37-3d41-4032-bd67-f7a6104dd021",
+      "title": "ハロー・スターテイル'23",
+      "artist": "Akki",
+      "isrc": "TCJPX2366830",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/5Zj7eNvMeg61dUIrs4YlZH",
+      "isFallback": false
+    },
+    {
+      "id": "40453725-940d-4ba1-b3ea-1ebc34510d20",
+      "title": "この惑星のさだめ",
+      "artist": "太陽と踊れ月夜に唄え",
+      "isrc": "JPPC02410436",
+      "releaseDate": "2024-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/1TkSchV6BVpLmmC2XTydoD",
+      "isFallback": false
+    },
+    {
+      "id": "62dbc7e1-7822-4e7c-a891-ddb88bf6499c",
+      "title": "夏空を見上げて",
+      "artist": "Akki",
+      "isrc": "TCJPX2366820",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/6jTGP34XFsjhQgmBU6pbE8",
+      "isFallback": false
+    },
+    {
+      "id": "07126d41-6e70-40a3-bd3a-9053955912c9",
+      "title": "postMark",
+      "artist": "ななひら",
+      "isrc": "TCJPW2306967",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/1GWoWOZ3TmSMIDuXKtCOOZ",
+      "isFallback": false
+    },
+    {
+      "id": "aec00174-db03-4c50-84fa-f3d6f8771c4b",
+      "title": "はっぴーどりーむ☆りあらいず！",
+      "artist": "ななひら",
+      "isrc": "TCJPA2448387",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/5Cn6YJrUDGdHCTMtbFxLmm",
+      "isFallback": true
+    },
+    {
+      "id": "05c2c681-5ce6-433e-b837-4c4caef8b8b6",
+      "title": "Music!",
+      "artist": "拍舞高校軽音部",
+      "isrc": "JPR502149346",
+      "releaseDate": "2021-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/5RKWVMySsRnpAfwgd8LhdE",
+      "isFallback": false
+    },
+    {
+      "id": "0e4be1b6-bb11-425b-8ec3-0145af9004e1",
+      "title": "雨に宿る掌編",
+      "artist": "Akki",
+      "isrc": "TCJPX2366810",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/42ngboUh6ZWrUEOi2p94be",
+      "isFallback": false
+    },
+    {
+      "id": "fdd96a34-7ea0-4724-87a2-0ccd489bfbd6",
+      "title": "あっちむいてベイベー！",
+      "artist": "太陽と踊れ",
+      "isrc": "JPPC02311185",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/1hJ8NxpKWkV3GIVjaOQTjz",
+      "isFallback": false
+    },
+    {
+      "id": "d685d047-c66f-4345-83ce-9946ea149a69",
+      "title": "FAKE IDOL",
+      "artist": "藍月なくる",
+      "isrc": "TCJPT2257061",
+      "releaseDate": "2022-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2C6Y2XgkE2ru51MmhvZO2i",
+      "isFallback": false
+    },
+    {
+      "id": "c112df60-468e-4e03-92e0-226ab203a411",
+      "title": "Dreamy steps",
+      "artist": "柾花音",
+      "isrc": "TCJPS2277480",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/3QOxLzZq4H1If2RUejWmBz",
+      "isFallback": false
+    },
+    {
+      "id": "6d3f5b48-8fff-4847-a1d2-916a4a1ec7db",
+      "title": "らいおん・わんだー・みゅーじかる！",
+      "artist": "獅子姫ろみお",
+      "isrc": "TCJPN2020404",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/4WkyhZXYbTdx9RX7mdJxib",
+      "isFallback": false
+    },
+    {
+      "id": "71941fcc-4484-455f-a7d2-b848f98eb3f7",
+      "title": "魔法なんてない世界で",
+      "artist": "ななひら",
+      "isrc": "TCJPA2448395",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/6gRuTfIOx9Sl9qsY0BX2qP",
+      "isFallback": true
+    },
+    {
+      "id": "31a5fdcf-19a9-408b-9ac2-bbb5b0d79f4b",
+      "title": "Brand New Days!",
+      "artist": "獅子神レオナ",
+      "isrc": "TCJPP2156317",
+      "releaseDate": "2021-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/6QUs63xw4hpxfn3FxjuGm5",
+      "isFallback": true
+    },
+    {
+      "id": "d1419aa1-9275-4622-bb91-e15ff304a7a3",
+      "title": "h31lo my world!",
+      "artist": "ななひら",
+      "isrc": "TCJPR2266484",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2UHaHXRuiY10RtUqxTmljR",
+      "isFallback": true
+    },
+    {
+      "id": "74e1e732-062c-43db-b714-97b49cc75a72",
+      "title": "夢色エール",
+      "artist": "花鋏キョウ",
+      "isrc": "",
+      "releaseDate": "2019-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d0a0752f-a138-4b27-8803-bbd8fe38fd98",
+      "title": "うしみつあっパレイド",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02310132",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/5AbdT0vlD8Vx6s9yZHsUon",
+      "isFallback": false
+    },
+    {
+      "id": "16c14545-d8dd-4c9a-ba2f-4d69d98dc40d",
+      "title": "Mean a Lot",
+      "artist": "Akki",
+      "isrc": "TCJPX2366801",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ZTwhRFMgH55rU9oHzhJmh",
+      "isFallback": false
+    },
+    {
+      "id": "0d034ee7-1dcd-48a5-9c15-60f8cb95c89b",
+      "title": "mellow white",
+      "artist": "柾花音",
+      "isrc": "TCJPS2277510",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/20JTXY21bIK1woelJkgna9",
+      "isFallback": false
+    },
+    {
+      "id": "43de492f-6e11-4ca8-8218-6c0cd39712e1",
+      "title": "アントルメ",
+      "artist": "Akki",
+      "isrc": "TCJPD2576860",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1Linq3p5JTRzNkJFfsZxV8",
+      "isFallback": true
+    }
+  ]
+}

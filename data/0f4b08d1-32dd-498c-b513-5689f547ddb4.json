@@ -1,0 +1,438 @@
+{
+  "name": "OSTER project",
+  "sortName": "オスタープロジェクト",
+  "tracks": [
+    {
+      "id": "10f0ad5a-ac8e-45bf-b7f4-9e1d3eae84fe",
+      "title": "願い星",
+      "artist": "Altimate!!",
+      "isrc": "TCJPS2297521",
+      "releaseDate": "2022-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/5X6kgtob6znfxwhq2On7hy",
+      "isFallback": false
+    },
+    {
+      "id": "a88d448f-c78b-45dc-a77e-98f084be64d2",
+      "title": "The Fantasy Seeker",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510397",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/0P1QwPqQ3R8Yeo98p68Xvw",
+      "isFallback": false
+    },
+    {
+      "id": "87f81884-aae7-4bc3-878d-51c8e3df57f0",
+      "title": "PIANO＊GIRL",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "58cccc92-f8ab-4a0b-bc18-43cf1f1fb190",
+      "title": "フキゲンワルツ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-05-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e16fb377-0586-4fe2-b7db-38bd7067cb50",
+      "title": "世界を照らすテトラッド",
+      "artist": "ワンダーランズ×ショウタイム",
+      "isrc": "JPX302465980",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/0NmuhKfQD3AZE4SqW1wxGL",
+      "isFallback": true
+    },
+    {
+      "id": "631c700a-ba02-4010-bc51-ec26d8455fa9",
+      "title": "CARTOON☆RagHour",
+      "artist": "OSTER project",
+      "isrc": "JPM202102454",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "659feb2e-7e1b-4fff-aa83-80b59617b155",
+      "title": "歌の棲む家〜メゾン初音〜",
+      "artist": "Mitchie M",
+      "isrc": "JPVI01752110",
+      "releaseDate": "2018-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/1oLwOI6DSl2JcbMFqAgHc1",
+      "isFallback": true
+    },
+    {
+      "id": "03e470a0-0b57-460d-89c6-7955b6099413",
+      "title": "Prelude",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510393",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/4lSTiRr335ri3qUJQRBEX4",
+      "isFallback": false
+    },
+    {
+      "id": "555d647b-fa0e-4024-969d-b058f60cdaa9",
+      "title": "Alice in Musicland",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "20e83644-86f5-4f21-a673-5af338acf7f1",
+      "title": "雨のちSweet＊Drops",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2009-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e28aa11-2d44-495b-a1b0-7b2dd9c8a9c3",
+      "title": "Dreamy Dream",
+      "artist": "Xs",
+      "isrc": "JPI101901321",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/4wpqw25EqWLPnnds9AEzwR",
+      "isFallback": false
+    },
+    {
+      "id": "ccbc8ee2-b1b6-406f-97fd-b8f751843bda",
+      "title": "屋根裏のエピローグ",
+      "artist": "尾丸ポルカ",
+      "isrc": "JPV752206381",
+      "releaseDate": "2022-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/6YzFke7Pscxl3LW0UPway9",
+      "isFallback": true
+    },
+    {
+      "id": "c4232aee-6ea8-42f4-8dab-451847e81ba3",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project",
+      "isrc": "JPT361500091",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/1HyHcK4uY9Yo53cK2mFtMl",
+      "isFallback": true
+    },
+    {
+      "id": "a1d73663-283b-4dbe-be2f-87f177dfed7c",
+      "title": "Miracle Voice",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510395",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/7Gbv8FWyB4d5hXk0F9WHoK",
+      "isFallback": false
+    },
+    {
+      "id": "e44cafae-294a-4396-a551-af5337493319",
+      "title": "Dreaming Princess〜Road to Bremen",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510394",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/0xZXOdomP3sH9iK1fiE6IL",
+      "isFallback": false
+    },
+    {
+      "id": "26b186c9-0fc3-4a7d-bf47-8b04a7c9bccc",
+      "title": "Devilz Staircase",
+      "artist": "OSTER project",
+      "isrc": "JPM201300173",
+      "releaseDate": "2013-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6771cea8-eaf8-4c53-a502-d77177155b13",
+      "title": "Bremen Music Festival",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510402",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/3BV53spmAYKAeGRGjOMkCJ",
+      "isFallback": false
+    },
+    {
+      "id": "00f8ea90-767e-4be3-9583-e5e2cd2e9ef7",
+      "title": "テレスコープ",
+      "artist": "戌亥とこ",
+      "isrc": "JPPO02302877",
+      "releaseDate": "2023-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/3RW2pHNcxHouhmXfewYR5e",
+      "isFallback": false
+    },
+    {
+      "id": "046c52c9-873f-42fd-9cb3-7ebef9fac233",
+      "title": "リカーシブ・ファンクション",
+      "artist": "OSTER project",
+      "isrc": "JPM201400879",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7cb16a3e-16b4-4ba3-bc99-6a4cc377b0b1",
+      "title": "Road to Bremen (with Hen)",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510400",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/5RtyQzW1UkmcDHx1UIx9wJ",
+      "isFallback": false
+    },
+    {
+      "id": "f12b999b-ee7e-416d-84b5-86af98ac790c",
+      "title": "La Baguette Magique",
+      "artist": "OSTER project",
+      "isrc": "JPX301815350",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/1ftuIXXLBw0PEzDEFVf6aI",
+      "isFallback": true
+    },
+    {
+      "id": "b7bd4e42-c5b9-4906-84d5-c0b64179ce25",
+      "title": "Road to Bremen (with Dog)",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510396",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/0ut9aFeZvmXt2Bd2mioMba",
+      "isFallback": false
+    },
+    {
+      "id": "0b13e52a-7d08-4d41-902b-0d0ab235bbf3",
+      "title": "Dramatic Parade",
+      "artist": "Alt!!",
+      "isrc": "TCJPJ1939082",
+      "releaseDate": "2019-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/1PqWiOEvao71fsOPsjZBuX",
+      "isFallback": false
+    },
+    {
+      "id": "0ca52865-c456-44c5-91db-e3d04d475d13",
+      "title": "夢が夢じゃなくなるまで",
+      "artist": "天使うと",
+      "isrc": "JPPC02111475",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/2VH3is78JKWMBeQwNpH7MJ",
+      "isFallback": false
+    },
+    {
+      "id": "bfaa74f1-71e7-4f72-8a7f-f8e9b0944fb0",
+      "title": "コーヒー・スピカータ!",
+      "artist": "根本凪",
+      "isrc": "TCJPT2221889",
+      "releaseDate": "2022-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/44o77WpBIMvP1p8ExQ5ZVZ",
+      "isFallback": true
+    },
+    {
+      "id": "9302faae-f8e0-477e-b66f-34bd7aa29f99",
+      "title": "on the rocks",
+      "artist": "OSTER project",
+      "isrc": "JPT361400011",
+      "releaseDate": "2013-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO",
+      "isFallback": true
+    },
+    {
+      "id": "490287bf-2004-4989-be2d-c3fb398825e3",
+      "title": "Feel my Song!",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510399",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/3KZFosAyzpaqlFtHoyVlbM",
+      "isFallback": false
+    },
+    {
+      "id": "b79509f6-517a-4b9d-b550-f506d051deb7",
+      "title": "なないろの世界",
+      "artist": "茶太",
+      "isrc": "JPV201000360",
+      "releaseDate": "2010-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/4fnvFp6nChoE3zIxm5zjGg",
+      "isFallback": true
+    },
+    {
+      "id": "09f3c1c1-0603-4725-b449-bdbcddfa27f3",
+      "title": "宵月の歌姫",
+      "artist": "OSTER project",
+      "isrc": "JPM201700651",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3c2a7286-2901-4947-9676-79a33a7b42f0",
+      "title": "羊皮紙の上の銀河",
+      "artist": "OSTER project",
+      "isrc": "JPM201800404",
+      "releaseDate": "2017-08-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7a46c15-271d-46ec-bb6a-30844206a061",
+      "title": "DixieLand a la mode",
+      "artist": "OSTER project",
+      "isrc": "JPM201700601",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d9bbeca-1dab-4755-97c6-3f59f61c1ec0",
+      "title": "ニジイロストーリーズ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "73ad8beb-4a57-44cb-b563-a6b0376dcc0b",
+      "title": "ピアノ×フォルテ×スキャンダル",
+      "artist": "OSTER project",
+      "isrc": "JPE561500364",
+      "releaseDate": "2012-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0",
+      "isFallback": true
+    },
+    {
+      "id": "184af0e8-97c4-4264-8d42-a982ac9e0d0d",
+      "title": "one more kiss",
+      "artist": "B.U.S",
+      "isrc": "JPC230900962",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/5qj5k7A8LmAtqr8JGSwxJ7",
+      "isFallback": true
+    },
+    {
+      "id": "756722b3-6660-43c7-8112-b70eb830608c",
+      "title": "恋スルVOC@LOID",
+      "artist": "OSTER project",
+      "isrc": "JPC231301299",
+      "releaseDate": "2007",
+      "spotifyUrl": "https://open.spotify.com/track/5VfbFCUtXApMHIdoDPpVUm",
+      "isFallback": true
+    },
+    {
+      "id": "81904530-0bc0-47cc-838a-1e404d766437",
+      "title": "ラビットファー",
+      "artist": "Xs",
+      "isrc": "JPI101901216",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi",
+      "isFallback": false
+    },
+    {
+      "id": "4ba30d73-b127-437b-829e-93bd550fa440",
+      "title": "The Kind Illusionist〜Road to Bremen (with All)",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510401",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/3GMKHzi6CS0dtXIbn97yEW",
+      "isFallback": false
+    },
+    {
+      "id": "9ab57f29-f2dc-4f3f-add5-0df8d1240f68",
+      "title": "セカンドピアス",
+      "artist": "OSTER project",
+      "isrc": "JPM201900073",
+      "releaseDate": "2019-06-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "425b70da-4672-4484-9969-d88a4ef9bb95",
+      "title": "Road to Bremen (with Cat)",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510398",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/10pbhrNycV32yvRAuamDca",
+      "isFallback": false
+    },
+    {
+      "id": "c954235e-36f5-49f1-a82b-8cbb8a962d79",
+      "title": "マージナル",
+      "artist": "OSTER project",
+      "isrc": "JPE561401769",
+      "releaseDate": "2014-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/7d2xQfY6g4AAx19HoJUn9u",
+      "isFallback": true
+    },
+    {
+      "id": "200eaf69-6a89-4403-9b9c-11fdd22e43cc",
+      "title": "portfolio",
+      "artist": "桜井春菜",
+      "isrc": "",
+      "releaseDate": "2025-08-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0117c154-4508-4ea5-8460-933ed265f71c",
+      "title": "トキメキ＊リベリエ/スイートP",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a70f404-55c4-4b6d-ba28-80c5814b442c",
+      "title": "Dreaming Leaf～ユメミルコトノハ～",
+      "artist": "花たん",
+      "isrc": "",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "57a83d07-3f2e-43ac-b017-41be8b2c8371",
+      "title": "恋色病棟",
+      "artist": "OSTER project",
+      "isrc": "JP92Q2301545",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/2EuO8Jy2YcAGT1Q3LnJiQv",
+      "isFallback": true
+    },
+    {
+      "id": "0489a885-9cf2-4111-b556-3aeaee03f599",
+      "title": "魔法みたいなミュージック!",
+      "artist": "OSTER project",
+      "isrc": "JPE561805157",
+      "releaseDate": "2018-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO",
+      "isFallback": true
+    },
+    {
+      "id": "3e47ad7f-f9b4-4623-8ef1-070648053217",
+      "title": "Finale",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752510403",
+      "releaseDate": "2025-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/7tktGSaMaTHRnG7TAzH0eY",
+      "isFallback": false
+    },
+    {
+      "id": "2d136095-4cfb-4138-a055-4abe6e704605",
+      "title": "煉獄事変",
+      "artist": "OSTER project",
+      "isrc": "JPM202000373",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6cd5cf19-9c28-4ead-9a02-7edb802cc49c",
+      "title": "ハツジョウジカケラブゲーム",
+      "artist": "悠木碧",
+      "isrc": "JPCO01724550",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/7vCYylmiHl9JkD2UPDsN18",
+      "isFallback": false
+    }
+  ]
+}

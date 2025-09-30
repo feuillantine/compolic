@@ -1,0 +1,78 @@
+{
+  "name": "kamome sano",
+  "sortName": "カモメサノ",
+  "tracks": [
+    {
+      "id": "689a4164-8bd8-43ae-9cc7-fc342e637dd0",
+      "title": "citrus",
+      "artist": "kamome sano",
+      "isrc": "JPM201500821",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0bf46f98-e075-4dd4-9680-c093f33fce02",
+      "title": "melon soda",
+      "artist": "tatsuta recordings",
+      "isrc": "",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf7bf9b8-59de-433d-a5e5-8eb24e453a2c",
+      "title": "alternative",
+      "artist": "kamome sano",
+      "isrc": "JPR562300236",
+      "releaseDate": "2023-06-11",
+      "spotifyUrl": "https://open.spotify.com/track/74RJkrxSZKswC57yQSM9yq",
+      "isFallback": false
+    },
+    {
+      "id": "f62369bd-8ed5-43f3-bb7a-0b3c607507d9",
+      "title": "消えない",
+      "artist": "kamome sano",
+      "isrc": "TCJPY2318647",
+      "releaseDate": "2024-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/1L2O83CA1EI4gvZdIbvg3x",
+      "isFallback": true
+    },
+    {
+      "id": "632e992e-028c-4f59-866c-049bbd5e47c3",
+      "title": "Beat Me!",
+      "artist": "電音部",
+      "isrc": "JPR502152976",
+      "releaseDate": "2021-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/5g826GdhOj6RDwh0KGQTk5",
+      "isFallback": true
+    },
+    {
+      "id": "9e545261-735c-41be-888a-6611507589e2",
+      "title": "またあした",
+      "artist": "kamome sano",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4153d7a1-58d4-47a1-9fd7-5f2495ee4bf9",
+      "title": "キミエモーション",
+      "artist": "Marpril",
+      "isrc": "JPR502151384",
+      "releaseDate": "2021-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/3crTnxjrHNq3HJa4ZYxdvO",
+      "isFallback": true
+    },
+    {
+      "id": "5112bb85-53fa-463b-8bf3-1e6f20c07ec2",
+      "title": "ミラーガール",
+      "artist": "エルセ",
+      "isrc": "TCJPR2238558",
+      "releaseDate": "2022-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/5F8GyjPXS2YzXQtY6wl4XH",
+      "isFallback": true
+    }
+  ]
+}

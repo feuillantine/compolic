@@ -1,0 +1,168 @@
+{
+  "name": "筑田浩志",
+  "sortName": "チクダヒロシ",
+  "tracks": [
+    {
+      "id": "65078db8-7684-4e55-b135-93c89770eadb",
+      "title": "メリリリリリリリクリスマス!",
+      "artist": "流星群少女",
+      "isrc": "TCJPH1864996",
+      "releaseDate": "2014-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/4MNsyFfj5PTFJNkO6htRkR",
+      "isFallback": true
+    },
+    {
+      "id": "3a5a52fa-f913-47d1-b5e1-303aecc73418",
+      "title": "ソニックファイター",
+      "artist": "GALETTe",
+      "isrc": "",
+      "releaseDate": "2016-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "15f3957c-2480-451f-878f-c48747b68d01",
+      "title": "バタフライエフェクト",
+      "artist": "西恵利香",
+      "isrc": "TCJPE1652488",
+      "releaseDate": "2015-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/26TtRswCQcQohbynXqQ9OY",
+      "isFallback": true
+    },
+    {
+      "id": "a878ce0c-092c-4e81-b26b-036b65bbd763",
+      "title": "BLOOMING RUNWAY",
+      "artist": "Ange☆Reve",
+      "isrc": "JPCO02224030",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6EIcbDTQ2FamAE0RIZxpZO",
+      "isFallback": true
+    },
+    {
+      "id": "710a0f2d-fd92-47ba-bf86-75b8ca631963",
+      "title": "ドラマティック",
+      "artist": "photograph",
+      "isrc": "JPP921200219",
+      "releaseDate": "2015-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/03V6n2Ry6OXg9yq59miKch",
+      "isFallback": true
+    },
+    {
+      "id": "7bff300e-105f-4534-a476-830ff7fadf59",
+      "title": "HOT ICE CREAM",
+      "artist": "テンシメシ໒꒱",
+      "isrc": "TCJPR2215144",
+      "releaseDate": "2022-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2hXrillaya1cRRMhOGz2my",
+      "isFallback": true
+    },
+    {
+      "id": "e026313a-4e22-4917-a730-4cbb159985bd",
+      "title": "ダンスフロア☆フィーバー",
+      "artist": "GALETTe",
+      "isrc": "JPZ921405225",
+      "releaseDate": "2014-06-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b5a5910b-e1db-4c84-961d-5c9dd223ecb6",
+      "title": "プログラムハレーション",
+      "artist": "流星群少女",
+      "isrc": "",
+      "releaseDate": "2014-12-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "24a87aee-c890-4cd6-aa56-bc3470518977",
+      "title": "LET ME DANCE",
+      "artist": "GALETTe",
+      "isrc": "",
+      "releaseDate": "2016-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ce017464-1c6e-4c6b-9f81-0a043e422bbf",
+      "title": "青春レモネード",
+      "artist": "テンシメシ໒꒱",
+      "isrc": "TCJPR2215143",
+      "releaseDate": "2022-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/099kzAS7E9hTsMovTvFGXw",
+      "isFallback": true
+    },
+    {
+      "id": "6131c39d-34d9-4444-a4e6-e073ed971cfb",
+      "title": "純情ジレンマ",
+      "artist": "photograph",
+      "isrc": "JPP921200218",
+      "releaseDate": "2015-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/7wjefrFybJmtZkxaJ2iKdp",
+      "isFallback": true
+    },
+    {
+      "id": "a6a84f52-8f8f-447d-a30d-5975e5e781f8",
+      "title": "空色everyday",
+      "artist": "photograph",
+      "isrc": "JPP921200216",
+      "releaseDate": "2014-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/2PjNVVn8GvmybSDiyDStzQ",
+      "isFallback": true
+    },
+    {
+      "id": "43a7c899-800a-486b-92bc-417459d6e86b",
+      "title": "やりたい放題我愛你",
+      "artist": "電脳にゃんぱしー",
+      "isrc": "TCJPA2450308",
+      "releaseDate": "2024-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/4H4DTPJMID6e7kk6B8MUdL",
+      "isFallback": true
+    },
+    {
+      "id": "6cb30050-83bb-45a9-9dfc-ce1042908bd3",
+      "title": "DOLL",
+      "artist": "西恵利香",
+      "isrc": "TCJPE1652485",
+      "releaseDate": "2015-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/34kyXSJrE2JZ0CHtIYmPQv",
+      "isFallback": true
+    },
+    {
+      "id": "7d3c1a7d-57f4-4710-aff3-e19554a9b163",
+      "title": "private dance",
+      "artist": "西恵利香",
+      "isrc": "TCJPE1652493",
+      "releaseDate": "2015-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/1mVSOmzchs2Obmh5UO5OXE",
+      "isFallback": true
+    },
+    {
+      "id": "450fdffa-2a83-43a7-9f16-f63f8e48689d",
+      "title": "RASPBERRY POP",
+      "artist": "流星群少女",
+      "isrc": "TCJPH1864983",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/4IJN59bm8TrbHEqpM2mJas",
+      "isFallback": true
+    },
+    {
+      "id": "322dd094-fe67-46bb-af72-7838977b256d",
+      "title": "キュンテロパンプキン",
+      "artist": "テンシメシ໒꒱",
+      "isrc": "TCJPR2215137",
+      "releaseDate": "2022-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2NkYoeQ8g6ebTrJ3zpi7o2",
+      "isFallback": true
+    },
+    {
+      "id": "cb186a49-128b-4fdf-bce8-7784a9522cbf",
+      "title": "一発逆転!下克上",
+      "artist": "流星群少女",
+      "isrc": "TCJPH1864979",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/1jCV3fr27prQi2kn0LekeA",
+      "isFallback": true
+    }
+  ]
+}

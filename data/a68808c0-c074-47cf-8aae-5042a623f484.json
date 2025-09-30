@@ -1,0 +1,33 @@
+{
+  "name": "タツキサラダ",
+  "sortName": "タツキサラダ",
+  "tracks": [
+    {
+      "id": "b38b6e21-fef0-421b-9adc-539c55ae6080",
+      "title": "夏色微炭酸",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218034",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/0bumemSpy9WRVBNYbXM7j3",
+      "isFallback": true
+    },
+    {
+      "id": "e84e4a11-1561-4f43-b73c-0d2e351b1042",
+      "title": "咲き誇れ！わたし、",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218079",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/4q658kknQeZfc6G1iXjSWm",
+      "isFallback": true
+    },
+    {
+      "id": "78a51929-db5a-435b-ab5a-2ad764da3fac",
+      "title": "ペルソナ",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPV2309252",
+      "releaseDate": "2023-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/3101Q18LJGc43GZFqICrlb",
+      "isFallback": true
+    }
+  ]
+}

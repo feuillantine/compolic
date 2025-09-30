@@ -1,0 +1,888 @@
+{
+  "name": "Junxix",
+  "sortName": "ジュンエックスアイエックス",
+  "tracks": [
+    {
+      "id": "e8b6ed1d-cb41-4022-b72c-eb9ec6c01654",
+      "title": "トゥインクル・ディバディ・ドゥ",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPS602202094",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2CdegTiHbFCVEm51luouAi",
+      "isFallback": true
+    },
+    {
+      "id": "ce7ad928-0416-42da-b997-2afe8c854c81",
+      "title": "Frontier",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102302037",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/34DveyN14LWLuI9S53BF3H",
+      "isFallback": true
+    },
+    {
+      "id": "eaffe7a2-05cd-4030-9443-4d3eb4fe0430",
+      "title": "アオナツ",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2336408",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/0muwDRRoI4ZemYVyYEshS0",
+      "isFallback": true
+    },
+    {
+      "id": "55d180c4-1fcf-40d8-9e57-39ba458fd983",
+      "title": "声を上げろ",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2271739",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4fdgXob607AI8CcBnPfHbi",
+      "isFallback": true
+    },
+    {
+      "id": "596c0679-e3d4-4f1e-94a8-e286de1a4817",
+      "title": "3分間ヘブン",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300142",
+      "releaseDate": "2020-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/7E2RagfeybpTKFMd8cgGxe",
+      "isFallback": true
+    },
+    {
+      "id": "2d144223-b3fb-44c0-a780-82746fed7943",
+      "title": "I n f i n i t y",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102200070",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/0wUxw0AKhdjHD9IjCIfBW1",
+      "isFallback": true
+    },
+    {
+      "id": "e83d4962-2377-4d2d-881f-067c4a14f104",
+      "title": "冬、マスカレード",
+      "artist": "Stella☆Beats",
+      "isrc": "",
+      "releaseDate": "2018-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0841df59-46d2-4b7e-8241-697df27ae3f6",
+      "title": "クアーフの海",
+      "artist": "来栖りん",
+      "isrc": "JPI102301906",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/5ct4g5DTtBStXkQOalMU36",
+      "isFallback": true
+    },
+    {
+      "id": "26f353c3-55d9-4491-b793-2fca6953a8c7",
+      "title": "Moon Light",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282255",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/6AXAtrvTzIP50dBLFXRMez",
+      "isFallback": true
+    },
+    {
+      "id": "472865f6-8bce-4546-8273-30a8ac4e19b7",
+      "title": "Believer",
+      "artist": "来栖りん",
+      "isrc": "JPI102400653",
+      "releaseDate": "2024-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/2SSYy8BmVJrfAs0OwKkTfd",
+      "isFallback": true
+    },
+    {
+      "id": "49e6c3fb-f3d9-4f0e-9d34-ad7664788ed3",
+      "title": "Cloud9",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300141",
+      "releaseDate": "2020-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/0De17z3xKsLhJhv4Eacoee",
+      "isFallback": true
+    },
+    {
+      "id": "08dfdbbf-f5a6-46be-b420-c232451576d5",
+      "title": "タリナイ!タリナイ!",
+      "artist": "ワールズエンド。",
+      "isrc": "TCJPN2001178",
+      "releaseDate": "2020-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/70EPADwcrf7Vncz62lgcwP",
+      "isFallback": true
+    },
+    {
+      "id": "2df1c079-57ba-4ead-99c2-1f14a03cc7f8",
+      "title": "ない♡Night",
+      "artist": "パンダドラゴン",
+      "isrc": "TCJPU2385331",
+      "releaseDate": "2023-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7yDvBfkxaJVb3zykEQzbQj",
+      "isFallback": true
+    },
+    {
+      "id": "35349276-7e91-4ec7-814e-e520dd19c85f",
+      "title": "Freesia",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102300544",
+      "releaseDate": "2023-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/681npik55Zj896Q7EFUQo5",
+      "isFallback": true
+    },
+    {
+      "id": "dc7722c3-1cbc-4844-9b6a-6d87158fb638",
+      "title": "ロッキュー!!",
+      "artist": "ワールズエンド。",
+      "isrc": "TCJPN2001205",
+      "releaseDate": "2020-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/0HWeM5GAIfflyQyDLV17M0",
+      "isFallback": true
+    },
+    {
+      "id": "c0cf94b9-6737-4918-be68-96680dcc29b3",
+      "title": "シリウス",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366205",
+      "releaseDate": "2023-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/0zqPQdPEeRWXF8WPFxR6EH",
+      "isFallback": true
+    },
+    {
+      "id": "677f326e-1d9b-4c9d-bd92-ebf37f3edb11",
+      "title": "わっちゅあね？",
+      "artist": "来栖りん",
+      "isrc": "JPI102402309",
+      "releaseDate": "2024-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/72a4zVpEBvhnkRsEPc6LpE",
+      "isFallback": true
+    },
+    {
+      "id": "5ff94062-45a4-4e85-9ffa-375e1954def8",
+      "title": "イマジナリーフレンド",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102201079",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/1nbdtjpPWyUrWUBTQndggV",
+      "isFallback": true
+    },
+    {
+      "id": "dfe4553c-deed-46b1-b5b6-0f758f6d3e99",
+      "title": "BIG BANG 番 BANG",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300133",
+      "releaseDate": "2024-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/7iysIVW0faAL1lvcjlxf46",
+      "isFallback": true
+    },
+    {
+      "id": "c28eee50-62e5-418f-b6be-43ca8570f56a",
+      "title": "いつか終わる人生の中で",
+      "artist": "荒井麻珠",
+      "isrc": "JPZ921910888",
+      "releaseDate": "2019-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/238nQXrciAD1B3FtZhhy22",
+      "isFallback": true
+    },
+    {
+      "id": "7bc72f8a-ef4b-4447-8180-df421abc4809",
+      "title": "ハピ♡ラキ",
+      "artist": "来栖りん",
+      "isrc": "JPI102301581",
+      "releaseDate": "2023-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/268Ft2Q7H8kYZGbu7nAg92",
+      "isFallback": true
+    },
+    {
+      "id": "a891c025-4677-4480-88e7-d7059c6ebccd",
+      "title": "さあ共に!—story of yours—",
+      "artist": "Stella☆Beats",
+      "isrc": "",
+      "releaseDate": "2017-02-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22a6913e-d7f6-4638-a96d-c951bdfd22ae",
+      "title": "恋はオックスフォードブルー",
+      "artist": "YORISOERU",
+      "isrc": "JPN902200530",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/3TYfURokZdCoTVNtaQmrSN",
+      "isFallback": true
+    },
+    {
+      "id": "38e541a0-d3f5-4963-b835-51c34342ebce",
+      "title": "Sing a long!",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102103262",
+      "releaseDate": "2021-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/0FYw847dxQbeo3STwbLCUY",
+      "isFallback": true
+    },
+    {
+      "id": "592edbdd-f2fa-498f-8466-aa360efc4224",
+      "title": "グルメリアン",
+      "artist": "紡木吏佐",
+      "isrc": "JPZ922408039",
+      "releaseDate": "2024-11-10",
+      "spotifyUrl": "https://open.spotify.com/track/4hZrngErcBA5vO6W22EHxR",
+      "isFallback": true
+    },
+    {
+      "id": "79f88883-1cac-4748-baba-6cac10fc9596",
+      "title": "honesty",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102201080",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/4yIRuAcE8hSXGymXXgX5SI",
+      "isFallback": true
+    },
+    {
+      "id": "3d47a805-7361-4623-9d68-123ef787acb7",
+      "title": "ロマンチックプラシーボ",
+      "artist": "ルージュブック",
+      "isrc": "TCJPY2367755",
+      "releaseDate": "2024-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/3mdosNW2cP5cXf6YAlPe59",
+      "isFallback": true
+    },
+    {
+      "id": "1ae96b4e-026b-4d70-8d98-897fdefb80a5",
+      "title": "Wishes Come True 〈a cappella〉",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102202598",
+      "releaseDate": "2022-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/5Jvc3T4GALZuUR4W2V1Lyf",
+      "isFallback": true
+    },
+    {
+      "id": "321533a5-c47d-4faa-a67b-33f40ff8f0d6",
+      "title": "お願いメテロティス",
+      "artist": "3B junior",
+      "isrc": "JPR651600061",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6hkt64tlvhnpTbL0aCpusc",
+      "isFallback": true
+    },
+    {
+      "id": "43a7c798-c20c-4aa9-a16a-6b0089759668",
+      "title": "Timing Clever part II",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102103263",
+      "releaseDate": "2021-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/6XkSw1HDNhJp8XS0cZvgYN",
+      "isFallback": true
+    },
+    {
+      "id": "53f1baf3-1a06-457d-978f-3a70f42e6ae1",
+      "title": "好きって言ったらどうする？",
+      "artist": "手羽先センセーション",
+      "isrc": "JPN902200440",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/2woySN0Cue0eAeasxhQgNS",
+      "isFallback": true
+    },
+    {
+      "id": "38cb380a-fdc0-4c23-9b1b-6247e680ea21",
+      "title": "Cheese",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102300545",
+      "releaseDate": "2023-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/2LpbU8PWBSzhDmu8DUOiza",
+      "isFallback": true
+    },
+    {
+      "id": "3f1800c7-5d83-4de0-b37f-afd713097439",
+      "title": "Always",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102102443",
+      "releaseDate": "2021-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/7iQEPe65JYOV99zjBnhPrG",
+      "isFallback": true
+    },
+    {
+      "id": "004a0a16-806c-4089-99d5-1fb2aff03347",
+      "title": "Boo",
+      "artist": "紡木吏佐",
+      "isrc": "JPZ922408040",
+      "releaseDate": "2024-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/2E6qXC9gyksxI3EaJ0M2Ga",
+      "isFallback": true
+    },
+    {
+      "id": "cebc5833-eae4-4ae4-8831-7b40fee338af",
+      "title": "39平成",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300136",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/3UUd8LNzdxN1xh0VFrQy3G",
+      "isFallback": true
+    },
+    {
+      "id": "681ff201-09a0-44f1-9539-ae0668266d5f",
+      "title": "君に恋してサンセット",
+      "artist": "テラス×テラス",
+      "isrc": "TCJPY2498320",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/2OXBJrDZmFgrhjijpFC404",
+      "isFallback": true
+    },
+    {
+      "id": "8134357d-99cb-4420-b071-ea46f0e6572a",
+      "title": "君声リフレイン",
+      "artist": "Stella Beats",
+      "isrc": "JPZ921808847",
+      "releaseDate": "2018-11-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ca4d1809-ed2d-4b90-9d20-292fb17fa229",
+      "title": "SEASON",
+      "artist": "Stella☆Beats",
+      "isrc": "",
+      "releaseDate": "2018-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4e54a12-c292-4f6b-933d-b4125b3409ef",
+      "title": "またね、",
+      "artist": "TrySail",
+      "isrc": "JPU901900331",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/5B3RDexLCiKMa1bKYc4WsA",
+      "isFallback": true
+    },
+    {
+      "id": "f013fdfd-bb7a-4dff-99ff-e281b487aed2",
+      "title": "Va!Vamos!",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602106041",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/3rgAu75hYu8uqSPEzXrPaK",
+      "isFallback": true
+    },
+    {
+      "id": "afbfa904-c82d-487c-9fe6-f0e8c7632304",
+      "title": "だらけ。",
+      "artist": "斉藤朱夏",
+      "isrc": "JPU902401277",
+      "releaseDate": "2024-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/2Xt6IRgoUAvudtAb6mSzj8",
+      "isFallback": true
+    },
+    {
+      "id": "d8e8f395-d819-4d67-9ce7-159f6d683958",
+      "title": "Distortion",
+      "artist": "ワールズエンド。",
+      "isrc": "TCJPN2001202",
+      "releaseDate": "2020-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/0De6Q2e93vfSEUG5GEjOQa",
+      "isFallback": true
+    },
+    {
+      "id": "3a1ee187-7d5c-475c-b039-f82ea8774bea",
+      "title": "ばいばい、",
+      "artist": "来栖りん",
+      "isrc": "JPI102301905",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/5u5y1m82LARDafvmrrqc5D",
+      "isFallback": true
+    },
+    {
+      "id": "0289194d-ef69-4339-9727-92b814daa5fb",
+      "title": "シンデレラストーリー",
+      "artist": "Stella☆Beats",
+      "isrc": "",
+      "releaseDate": "2018-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "10b1d62e-0b51-4415-a5e3-66f2353c2c53",
+      "title": "弓張月",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282258",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/2WgYeJLRUIX4fjvHH0nObc",
+      "isFallback": true
+    },
+    {
+      "id": "859175d4-18de-491b-818f-59a02e11f80f",
+      "title": "アイスキャンディー",
+      "artist": "荒井麻珠",
+      "isrc": "JPZ921910586",
+      "releaseDate": "2019-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/3ZhnopPy2NEPEZqy762bbe",
+      "isFallback": true
+    },
+    {
+      "id": "a7aae288-d7a8-409b-9d17-2d7673ede47e",
+      "title": "collage、",
+      "artist": "荒井麻珠",
+      "isrc": "JPZ922003025",
+      "releaseDate": "2020-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2D03hUFHTmtRrqmM1Dtlc8",
+      "isFallback": true
+    },
+    {
+      "id": "6e6ce50e-207b-4571-b30d-f7780e51f1ae",
+      "title": "Rouge Diary",
+      "artist": "ルージュブック",
+      "isrc": "TCJPY2367729",
+      "releaseDate": "2024-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/1DXVoQAPzeTcKKG2c9x54J",
+      "isFallback": true
+    },
+    {
+      "id": "29e1bb90-1026-4d21-8c9d-36625bc375f3",
+      "title": "Get Over!!",
+      "artist": "テラス×テラス",
+      "isrc": "TCJPX2355458",
+      "releaseDate": "2023-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/17VuQ0Z29bpiyPrNvdYdS2",
+      "isFallback": true
+    },
+    {
+      "id": "830fbb90-cd05-40fd-a7de-af92f795be6e",
+      "title": "オーバーキル",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366209",
+      "releaseDate": "2023-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/0ZJ8XS4QgfCQOKOkB4I1fz",
+      "isFallback": true
+    },
+    {
+      "id": "6489f324-a861-4a52-ad0d-028351dc19f0",
+      "title": "To You",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102203082",
+      "releaseDate": "2023-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/1mp3tRA4PPTlQNyaafmAwk",
+      "isFallback": true
+    },
+    {
+      "id": "d2ace7e2-c23f-4c57-8fe0-f372ab41c117",
+      "title": "エンドレスラビリンス",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282251",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/7dvwqZCTINoBSK6raxHTDv",
+      "isFallback": true
+    },
+    {
+      "id": "51297389-4b7e-4a8e-8935-63e4d7c455bc",
+      "title": "rejection",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102302036",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/4uyEpn2P9TAkqKvBSXG1pL",
+      "isFallback": true
+    },
+    {
+      "id": "8e1e9698-5f06-4ea8-b2e6-b0320c40bc97",
+      "title": "I wish",
+      "artist": "来栖りん",
+      "isrc": "JPI102300317",
+      "releaseDate": "2023-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4",
+      "isFallback": true
+    },
+    {
+      "id": "374e3950-9f0c-488d-8c05-b06d4be81190",
+      "title": "SUMMER SUMMER 神様!!!!",
+      "artist": "Stella☆Beats",
+      "isrc": "",
+      "releaseDate": "2017-07-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dacdde20-3751-48ed-a333-21e4588b83ca",
+      "title": "ETERNAL MOON",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366185",
+      "releaseDate": "2023-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/6m5fYr6taqX6qwvpUEVdVu",
+      "isFallback": true
+    },
+    {
+      "id": "e49b9622-7377-4b46-8a54-de2c23c069b0",
+      "title": "We are ... Hungry戦士",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602203564",
+      "releaseDate": "2022-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/3TY68s8IEfuxfS4sKSOsMx",
+      "isFallback": true
+    },
+    {
+      "id": "520364b3-fb47-441a-a9a6-bfd92ef4acfd",
+      "title": "Romantic Discotheque",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300091",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/4vGN1Io9MRJvq31EmyJSwk",
+      "isFallback": true
+    },
+    {
+      "id": "06a0d531-0b4b-4740-a105-8dd9eed89f21",
+      "title": "おくりもの",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102201083",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6JCYYz8GvRsf2JumgOqN8n",
+      "isFallback": true
+    },
+    {
+      "id": "0f51b672-7605-45fe-83e9-39d0063defc8",
+      "title": "Hop Step Jump ウィンク",
+      "artist": "来栖りん",
+      "isrc": "JPI102301903",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/2OtJExnNfcxIARn9hFP8i2",
+      "isFallback": true
+    },
+    {
+      "id": "aa441873-b596-452a-9d5f-19b6f5580e35",
+      "title": "大好きだよ、ブロッサム",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602301777",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/4JozHAdBsS8GXW7IIsVYpf",
+      "isFallback": true
+    },
+    {
+      "id": "4a60677e-e3a6-4cc3-a809-a1e5906d7102",
+      "title": "エルファリンスル",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366200",
+      "releaseDate": "2023-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/3ZskZjEDCpLQIu2a0bSsdw",
+      "isFallback": true
+    },
+    {
+      "id": "5cb43c6c-8679-4f40-8ff3-cd7189965eb7",
+      "title": "JOY♡JOY",
+      "artist": "ワールズエンド。",
+      "isrc": "TCJPN2001203",
+      "releaseDate": "2020-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/6myuAfE8JJ5xr6kFVJY9cu",
+      "isFallback": true
+    },
+    {
+      "id": "7e8b460e-1379-45f4-9507-bb4dc2ac6c29",
+      "title": "君の呼ぶ名前",
+      "artist": "Trefle",
+      "isrc": "JPE201600602",
+      "releaseDate": "2016-04-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f4d9a60-5c1f-4b16-84bf-f2ff6492ddca",
+      "title": "VIVA夏サンシャイン",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602301774",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2s1BLIq7EoGIDbY62PSE1h",
+      "isFallback": true
+    },
+    {
+      "id": "ad7e5f28-43a4-4f2c-b5e5-6abca640608f",
+      "title": "境界 Identity",
+      "artist": "来栖りん",
+      "isrc": "JPI102301904",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/1bJisXwqPR1csAjJgePJna",
+      "isFallback": true
+    },
+    {
+      "id": "82557ee5-7ad5-4f81-826c-6fc023ff49f8",
+      "title": "全力DREAMER!",
+      "artist": "YORISOERU",
+      "isrc": "JPN902200540",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/1GulHW1En6QU7008VVoh4c",
+      "isFallback": true
+    },
+    {
+      "id": "9f0e298b-9371-466f-8265-5e4185a593cb",
+      "title": "ヒロイン",
+      "artist": "来栖りん",
+      "isrc": "JPI102400655",
+      "releaseDate": "2024-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/58pDS7kvpk4c2MTKgMrri2",
+      "isFallback": true
+    },
+    {
+      "id": "beb6bc75-03b8-44b3-8f49-0b5d17e62cee",
+      "title": "サヨナラモラハラ",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300131",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/67kQyxlWLH8NwF6Ks7DbtX",
+      "isFallback": true
+    },
+    {
+      "id": "b03ccbde-8df6-4fbb-bb0e-04b806c647a1",
+      "title": "みかたっ",
+      "artist": "斉藤朱夏",
+      "isrc": "JPU902401890",
+      "releaseDate": "2024-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1LbWVqg4TDWO8M8mNLKJuS",
+      "isFallback": true
+    },
+    {
+      "id": "19dfbae8-1638-4820-b654-72bc6119521f",
+      "title": "スカーレット",
+      "artist": "ワールズエンド。",
+      "isrc": "TCJPP2116176",
+      "releaseDate": "2021-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/3vlQoQAu1B1rZq0EZwLtGx",
+      "isFallback": true
+    },
+    {
+      "id": "c0f1ec72-72da-4c3f-8952-3ad86d29b6a8",
+      "title": "エレファンク庭",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300089",
+      "releaseDate": "2024-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/73wpVeDx1Qub7eyjNPRcoO",
+      "isFallback": true
+    },
+    {
+      "id": "d7258498-d8ea-4d24-b70b-4515b4a5c3b5",
+      "title": "世界が変わる音を聴いた",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102201082",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/3rpMepjPbBPh3siJ09ORp9",
+      "isFallback": true
+    },
+    {
+      "id": "62f0939b-0f65-464b-973c-88805f16779e",
+      "title": "エンドレストリック",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366190",
+      "releaseDate": "2023-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/23WLJv8NW5N7M2PipXpWJT",
+      "isFallback": true
+    },
+    {
+      "id": "2ce40696-51ce-4b61-bd2d-04aee1af34a5",
+      "title": "メモリィ。",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102301573",
+      "releaseDate": "2023-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/6BicsbqOQd3w2PBfRFIQvE",
+      "isFallback": true
+    },
+    {
+      "id": "95652aca-1f75-4b3b-9e9a-67a8ba4f640e",
+      "title": "SUMMER JOY",
+      "artist": "来栖りん",
+      "isrc": "JPI102400654",
+      "releaseDate": "2024-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/4IOdkGKfZCmwrPyy8kv3l6",
+      "isFallback": true
+    },
+    {
+      "id": "5607d1f4-6863-49b9-ac1c-76fd60086985",
+      "title": "Swi Swi Swish!!!!!",
+      "artist": "Stella Beats",
+      "isrc": "JPZ921808849",
+      "releaseDate": "2018-11-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cd24d40a-315a-475b-a8dd-f2e9f6f1116e",
+      "title": "KOE",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102201078",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/7wjBsV9fmTT8iWI2xWpyQM",
+      "isFallback": true
+    },
+    {
+      "id": "3c721176-eaa9-42af-bfa1-9c0bb1c2c24a",
+      "title": "Summer Paradox",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2336406",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/1RwmiVxqQH2R07dZkkiOAF",
+      "isFallback": true
+    },
+    {
+      "id": "db7874e2-f02d-4322-a8a5-7c7488bacf20",
+      "title": "Metal the Apple",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602202783",
+      "releaseDate": "2022-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/3gPn2FB3TFntDSivU0rs8L",
+      "isFallback": true
+    },
+    {
+      "id": "b8005459-d9b5-4473-ab24-1ed5a354a5fd",
+      "title": "Bili Bili Bomb",
+      "artist": "紡木吏佐",
+      "isrc": "JPZ922408041",
+      "releaseDate": "2024-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/7CwUBc5GCX6ns7CBuSHg3D",
+      "isFallback": true
+    },
+    {
+      "id": "1f73d6e4-d282-4634-8eb6-ba7cec615620",
+      "title": "Stand UP",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282257",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4eAGvpSUokrKq0nqsxoGgI",
+      "isFallback": true
+    },
+    {
+      "id": "2525078e-751e-4a5b-92ee-bc6c4a3d1e21",
+      "title": "Get you ×2",
+      "artist": "来栖りん",
+      "isrc": "JPI102301902",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/4Ul2wVkTuOqgrQmXdPmTC6",
+      "isFallback": true
+    },
+    {
+      "id": "bd155e99-7613-47c0-9bad-61f9bdb7f550",
+      "title": "愛は君だ。",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282260",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/6h3gviH0WGU9g0pp0ZQu3E",
+      "isFallback": true
+    },
+    {
+      "id": "7f59afc8-9897-4b7b-81f7-895b473031b4",
+      "title": "My Monster",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2332279",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/5VkT61luasBwDyeQKPAsyi",
+      "isFallback": true
+    },
+    {
+      "id": "54a68b63-15ab-425c-b053-5a865b57ff86",
+      "title": "くるーず！",
+      "artist": "来栖りん",
+      "isrc": "JPI102301005",
+      "releaseDate": "2023-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/13m2S93YjFDFbgZsBk35QY",
+      "isFallback": true
+    },
+    {
+      "id": "56665df3-0ac3-49dc-bdce-964f4e05e88c",
+      "title": "ENJOY!",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102302035",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/7N0FXz7RBg1gTrTxjqr1i7",
+      "isFallback": true
+    },
+    {
+      "id": "168f8b36-5d4f-4ea1-a5a7-4d64d35033a8",
+      "title": "僕に恋しちゃいなよ",
+      "artist": "テラス×テラス",
+      "isrc": "",
+      "releaseDate": "2022-06-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8eb8db88-62ed-4783-9823-fd892a2878c1",
+      "title": "臆病シャイガール",
+      "artist": "来栖りん",
+      "isrc": "JPI102301006",
+      "releaseDate": "2023-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/38JsZK3AJ3Sfw1tV6UEf6a",
+      "isFallback": true
+    },
+    {
+      "id": "311711e5-99eb-4cb9-a6c6-1ece1e17c573",
+      "title": "海月の骨",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300143",
+      "releaseDate": "2020-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/7rEIA0Nk3ETU5839G7qErz",
+      "isFallback": true
+    },
+    {
+      "id": "7ab17070-772a-4638-84b2-5c3cee44d195",
+      "title": "計画的プラトニック",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102203081",
+      "releaseDate": "2023-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/6obrYjxYw6v7nwciMyD0oT",
+      "isFallback": true
+    },
+    {
+      "id": "bc599f3e-ef78-4fa5-9764-ddab64a99e37",
+      "title": "白昼夢と境界線",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPX2366184",
+      "releaseDate": "2023-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7uoCXpp8pB78urcwDg7xG9",
+      "isFallback": true
+    },
+    {
+      "id": "edf718e8-b044-41cf-ad8a-df90288fd830",
+      "title": "永劫回帰",
+      "artist": "荒井麻珠",
+      "isrc": "JPI102302034",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/3LE7li39sQhtc277CS7rNS",
+      "isFallback": true
+    },
+    {
+      "id": "fe37790b-e601-43e2-8d1b-a76261756dbf",
+      "title": "華麗なる復讐",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01912248",
+      "releaseDate": "2019-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/7B47Wv8Kc73pEFiaLSLU91",
+      "isFallback": true
+    },
+    {
+      "id": "cbb64c11-0709-48b5-9df6-255b0b041d03",
+      "title": "桜",
+      "artist": "Trefle",
+      "isrc": "JPE201600601",
+      "releaseDate": "2016-04-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd39d6d9-80ee-45fd-a02b-7df5531f9e5e",
+      "title": "明日の天気は、素敵晴れー",
+      "artist": "テラス×テラス",
+      "isrc": "",
+      "releaseDate": "2022-06-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5a99c10-6929-44dd-9b80-79d3418e6060",
+      "title": "未来へのハーモニー",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPS602203168",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2krbjdyg8EKSFfsPJmWPHZ",
+      "isFallback": true
+    },
+    {
+      "id": "895b259a-b4e7-4859-858c-f0dda0875c61",
+      "title": "月に足跡を遺せ",
+      "artist": "月に足跡を残した6人の少女達は一体何を見たのか…",
+      "isrc": "TCJPR2282249",
+      "releaseDate": "2022-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/0fsGvqOED5m3OEm1NODKVR",
+      "isFallback": true
+    }
+  ]
+}

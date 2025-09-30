@@ -1,0 +1,141 @@
+{
+  "name": "ANDW",
+  "sortName": "アンドゥ",
+  "tracks": [
+    {
+      "id": "3e4cd852-a1b3-41c3-9223-4f560b17ffd5",
+      "title": "スマイルマイレージ",
+      "artist": "エラバレシ",
+      "isrc": "JPK632301801",
+      "releaseDate": "2023-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/7HrTHoZJ6C6tUiz6ekFJsP",
+      "isFallback": true
+    },
+    {
+      "id": "ae6f1d36-ff53-4504-949d-dfa67ef8d9a3",
+      "title": "I’m Believer",
+      "artist": "手羽先センセーション",
+      "isrc": "JPN902103060",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/2Yor4Fj1WRBGxI7bptjFLH",
+      "isFallback": true
+    },
+    {
+      "id": "becec322-966c-4cc4-b36f-33c341a863e3",
+      "title": "シェケナーレ",
+      "artist": "OCHA NORMA",
+      "isrc": "JPA602300055",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fe943c1-b568-4d26-ab46-73fbd985a046",
+      "title": "それはもう恋じゃん",
+      "artist": "根本凪",
+      "isrc": "JPZ922308459",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/1R06LezMik24E4SThNkm1u",
+      "isFallback": false
+    },
+    {
+      "id": "17ba3f1f-c520-45b5-b9c8-c03d2827ed26",
+      "title": "未来へのエール",
+      "artist": "From4to7",
+      "isrc": "",
+      "releaseDate": "2016-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7d750c5-3c86-457e-bd42-40fd6bf7c0d4",
+      "title": "フリムケーション",
+      "artist": "根本凪",
+      "isrc": "JPZ922308462",
+      "releaseDate": "2023-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/6MI5ZZwe878R3IpHFWNEYD",
+      "isFallback": false
+    },
+    {
+      "id": "418dc5c9-4603-4394-a42f-ba33159a50f2",
+      "title": "かむばっくる〜し〜",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439120",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/6ql7CTv2vJuxEuyJODFFgJ",
+      "isFallback": true
+    },
+    {
+      "id": "8633be59-532e-4211-8691-6791618d85b8",
+      "title": "エビバディ☆ヒーリングッデイ!",
+      "artist": "宮本佳那子",
+      "isrc": "JPD602000229",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/0788x5yptgj5YGH7YpKKug",
+      "isFallback": true
+    },
+    {
+      "id": "6e7ba150-4089-4151-a1a5-0fb855a50f18",
+      "title": "のんあるすいけん feat.炒飯",
+      "artist": "TEAM SHACHI",
+      "isrc": "JPX952400047",
+      "releaseDate": "2024-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/0mzhtrBDfSQO7TndkWBiEL",
+      "isFallback": true
+    },
+    {
+      "id": "eb49a1d4-2b0b-4917-893f-b15b5420aee5",
+      "title": "でんぱせいばぁ☆",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02201602",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/78sIoJyk8hnx3BfXYx1FJq",
+      "isFallback": true
+    },
+    {
+      "id": "264db716-d55d-4437-8235-eebae54a992c",
+      "title": "無敵はっぴーピーポ",
+      "artist": "#ジューロック",
+      "isrc": "JPB822103070",
+      "releaseDate": "2021-06-18",
+      "spotifyUrl": "https://open.spotify.com/track/48b2BZK8CzDXmkBwmBPI1w",
+      "isFallback": true
+    },
+    {
+      "id": "1ade9718-2e2d-4c09-8381-7a4736aa7de5",
+      "title": "リバース",
+      "artist": "エラバレシ",
+      "isrc": "JPK632005903",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/1sWReUnldcNTtonAbqvHwA",
+      "isFallback": true
+    },
+    {
+      "id": "8342a823-670d-4c8a-8076-c1e087b106bb",
+      "title": "BANBANBAN",
+      "artist": "ときめき♡宣伝部",
+      "isrc": "JPPO01705832",
+      "releaseDate": "2017-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/4rTBYTh6wYr69DfDfx1yfZ",
+      "isFallback": true
+    },
+    {
+      "id": "4e80dcd1-9a4b-40b5-96d2-9f148cbd9233",
+      "title": "純情Myself",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK631905603",
+      "releaseDate": "2019-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/4TtuIzJq37EmYHXd7IH28c",
+      "isFallback": true
+    },
+    {
+      "id": "4bef23b4-3304-4d39-ae7c-b87dd8f8510c",
+      "title": "It's amazing show time☆",
+      "artist": "岡本未夕",
+      "isrc": "JPT551600862",
+      "releaseDate": "2016-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/6GbUM2UAozhrDSEYUMVnPf",
+      "isFallback": true
+    }
+  ]
+}

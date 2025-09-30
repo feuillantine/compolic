@@ -1,0 +1,357 @@
+{
+  "name": "大川茂伸",
+  "sortName": "オオカワシゲノブ",
+  "tracks": [
+    {
+      "id": "d069c036-3547-4985-b300-7712aa42e0a3",
+      "title": "世界中の愛を言葉にして",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508918",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6PflVPzMe0U9WITiMdszyN",
+      "isFallback": true
+    },
+    {
+      "id": "7246a064-e056-4911-ab43-d5451c0dd958",
+      "title": "ずっと",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00710674",
+      "releaseDate": "2008-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/4922hEPJX84PD6FCPpMhc7",
+      "isFallback": true
+    },
+    {
+      "id": "35da3e60-e4ae-4842-b9a8-16dc4fe8a98a",
+      "title": "JET!!",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00912559",
+      "releaseDate": "2009-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/72euqmuzIeDWAepBiDCDlx",
+      "isFallback": true
+    },
+    {
+      "id": "da9c054e-44e3-4d6c-867e-5928e8cf2ff5",
+      "title": "Stand Up!",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01419514",
+      "releaseDate": "2015-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/1v9TVRC33EBpTu9Dbw16Rf",
+      "isFallback": true
+    },
+    {
+      "id": "eb4bda4d-577f-40c7-aef7-2c3aef526f63",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A",
+      "isrc": "JPKI00410829",
+      "releaseDate": "2005-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3Wkgl6dLAJ4afkIU42kylp",
+      "isFallback": true
+    },
+    {
+      "id": "68c90438-1039-4f99-94f3-5ef5d4629594",
+      "title": "祝彩歌",
+      "artist": "灰桜",
+      "isrc": "JPPI02251060",
+      "releaseDate": "2022-09-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9b99a69-6638-4f0f-82df-cf307de4f835",
+      "title": "星々の鎮魂歌",
+      "artist": "箒星",
+      "isrc": "JPE452400031",
+      "releaseDate": "2024-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/1n4bBkG5YFeOOv5HshtxyR",
+      "isFallback": true
+    },
+    {
+      "id": "69be754c-173d-478e-82db-6de53587e2d0",
+      "title": "やさしき闇の詩",
+      "artist": "アイリス",
+      "isrc": "JPKI01711522",
+      "releaseDate": "2017-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/51P2Vrc1MIyLt5Xv94EeZl",
+      "isFallback": true
+    },
+    {
+      "id": "603d6839-6474-4fcf-9be9-322721906550",
+      "title": "にっこりカフェの魔法使い",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01501370",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/64KZrgSaVP7f2VkvnOvOVX",
+      "isFallback": true
+    },
+    {
+      "id": "04b1d047-5fde-481e-ad79-d7d69af37b94",
+      "title": "秘密 〜待ち合わせ〜",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01210432",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/24BjV8Fc6WdVyVydwqQBqJ",
+      "isFallback": true
+    },
+    {
+      "id": "e357d89c-b0e9-49bd-a7e8-43ed8fa22e0c",
+      "title": "break",
+      "artist": "宮本笑里",
+      "isrc": "JPN200900123",
+      "releaseDate": "2009-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/7yZ8JV0YbbEQS7e1IQ637k",
+      "isFallback": true
+    },
+    {
+      "id": "7aae9740-bca7-4753-a835-3063e165cfc0",
+      "title": "星導〜ホシシルベ〜",
+      "artist": "箒星",
+      "isrc": "JPPI02250590",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a6e6bfc5-6d9c-43bc-9fe1-5fe4156acdbf",
+      "title": "迷惑スペクタクル",
+      "artist": "横井るみ",
+      "isrc": "JPKI01316624",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/1MzheWfYoFuSjxJUvtHf4i",
+      "isFallback": true
+    },
+    {
+      "id": "560432f0-82ae-4acb-a43c-d81a4bc355a5",
+      "title": "薔薇色チュチュとピルエット",
+      "artist": "ロゼ",
+      "isrc": "",
+      "releaseDate": "2021-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eeb8e9a9-ff7f-47d0-b2c2-4aed4ca33584",
+      "title": "KI-ZU-NA～遥かなる者へ",
+      "artist": "ヒトミソラ",
+      "isrc": "JPCO00811860",
+      "releaseDate": "2008-05-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7359bbc8-9709-4223-b9da-b65cf1ddcb62",
+      "title": "Piece of Time",
+      "artist": "nao",
+      "isrc": "QMDA71464653",
+      "releaseDate": "2013-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/7vEK7Jc6kZivDJpi9oW0Aq",
+      "isFallback": true
+    },
+    {
+      "id": "912f7794-d9f7-4ed4-9b37-0cec4b9d4a5b",
+      "title": "Café Parade!",
+      "artist": "Café Parade",
+      "isrc": "JPI101600459",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/2CyzsF5clHOcPc2pi18TMO",
+      "isFallback": false
+    },
+    {
+      "id": "67bcd08f-cd65-45d7-992a-2e88e98c1671",
+      "title": "マッシュルームマーチ",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508917",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/0WKcYlENxyqqFJFcmcVClY",
+      "isFallback": true
+    },
+    {
+      "id": "bd27f3bc-a77f-41e1-8593-a8e9c2682846",
+      "title": "恋速ジェット",
+      "artist": "コスメティックロボット",
+      "isrc": "JPI100901849",
+      "releaseDate": "2009-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "577f8442-4498-45bc-84f7-65f89f104285",
+      "title": "月夜にお砂糖星",
+      "artist": "千夜",
+      "isrc": "JPPI01551560",
+      "releaseDate": "2015-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/4PlbIVAHT1iw72VoKaA3ye",
+      "isFallback": true
+    },
+    {
+      "id": "c564abd5-053c-4c97-8b63-f0e7635f0d27",
+      "title": "dear friend",
+      "artist": "小清水亜美",
+      "isrc": "",
+      "releaseDate": "2006-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "054ad6d1-5745-4bb0-8240-fec58d2235a8",
+      "title": "Temperature",
+      "artist": "Dual Flare",
+      "isrc": "JPCO01535990",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "106d2e41-4679-413b-93c6-9a45c20000f2",
+      "title": "君にLOVEだもん",
+      "artist": "あこりこ",
+      "isrc": "JPKI01011583",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6bd0ba31-cdbd-4015-9d27-44372c90117b",
+      "title": "Vanilla～バニラ～",
+      "artist": "白石涼子",
+      "isrc": "JPKI00604808",
+      "releaseDate": "2007-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f77f77c-bee8-475a-bf1a-c0fc285833b6",
+      "title": "この町の丘から",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01913628",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/5T9aog5DyFbHm1SEPowAfZ",
+      "isFallback": true
+    },
+    {
+      "id": "aa681298-0492-48f9-b58e-b4875864b780",
+      "title": "花咲か唄",
+      "artist": "石動双葉",
+      "isrc": "JPPC01801165",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/59x5mWtSAGc6DsxsPv0jqO",
+      "isFallback": false
+    },
+    {
+      "id": "58efe016-7063-49fe-b2fd-9ec97fdd33c9",
+      "title": "ワオワオ動物園",
+      "artist": "チマメ隊",
+      "isrc": "JPPI02050310",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/49tms8IXb6BHHUmtJKauqx",
+      "isFallback": true
+    },
+    {
+      "id": "84ddfe42-40d3-42ed-a7bb-2915c685fb1f",
+      "title": "VSマイペース?",
+      "artist": "チノ",
+      "isrc": "JPPI01452670",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/1De0eTW4pVjMbqsi8yxUAQ",
+      "isFallback": true
+    },
+    {
+      "id": "cd339bad-f9cb-45c3-973f-53130e095290",
+      "title": "果てなきソラへ",
+      "artist": "ヰ世界情緒",
+      "isrc": "JPY392402548",
+      "releaseDate": "2024-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/7FnmbcgxLOt334BxTi8di1",
+      "isFallback": true
+    },
+    {
+      "id": "afac2c31-f119-415b-adeb-07a206621067",
+      "title": "モノクローム",
+      "artist": "nao",
+      "isrc": "JPTO09607230",
+      "releaseDate": "2014-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/1BVEBGbZTgBmtWm54cTSs0",
+      "isFallback": true
+    },
+    {
+      "id": "ae3667cd-dd22-46a2-a674-1d71dd691167",
+      "title": "Partyしようよ!",
+      "artist": "Aice⁵",
+      "isrc": "JPKI01517148",
+      "releaseDate": "2015-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/11boj5xdJxaB0T8OYxwnwG",
+      "isFallback": true
+    },
+    {
+      "id": "752b3083-93c6-45c9-be26-af271077f1f8",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア",
+      "isrc": "JPPI01651280",
+      "releaseDate": "2016-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/5IDtKFCyWrWbW2BtvVgrt7",
+      "isFallback": true
+    },
+    {
+      "id": "f25dd995-657a-4652-a440-df96a794595d",
+      "title": "てくてくマーチングマーチ",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01653090",
+      "releaseDate": "2016-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/1GimCtGNU0sniF7vlQhnqT",
+      "isFallback": true
+    },
+    {
+      "id": "45c71266-177b-493c-a90f-61163e174051",
+      "title": "届く心、抱きしめて。",
+      "artist": "Kicco",
+      "isrc": "",
+      "releaseDate": "2007-03-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "41318076-00b0-4b28-830d-6ada295d4a8b",
+      "title": "愛のために",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2007-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c43f2af7-c1fa-4ce5-97ca-4ac1ed8e37be",
+      "title": "友情物語",
+      "artist": "Aice⁵",
+      "isrc": "JPKI00603272",
+      "releaseDate": "2006-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/2jywkZN62VPKd7AkGVBXd8",
+      "isFallback": true
+    },
+    {
+      "id": "14a561b2-bba3-4ead-abe0-e8786a90a9d3",
+      "title": "♡♡ケーキをもうひとつ?",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01752550",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/0iU2HVwbyDI5yFkxbq2CWF",
+      "isFallback": true
+    },
+    {
+      "id": "fed6681b-d6f0-43fb-bbf9-77efc38fc998",
+      "title": "Will",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508925",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/2sYQ3VglEec1kzxmxFCQ3H",
+      "isFallback": true
+    },
+    {
+      "id": "0204d837-e645-4903-97d2-767bfdc462f2",
+      "title": "一つきりの祈り",
+      "artist": "カサンドラ",
+      "isrc": "",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

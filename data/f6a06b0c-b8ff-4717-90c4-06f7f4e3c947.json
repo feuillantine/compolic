@@ -1,0 +1,153 @@
+{
+  "name": "オオニシレイジ",
+  "sortName": "オオニシレイジ",
+  "otherNames": [
+    "Nagakumo"
+  ],
+  "tracks": [
+    {
+      "id": "f421b935-e300-4faf-942b-e2836bc8da6a",
+      "title": "Bedtime Bear",
+      "artist": "Nagakumo",
+      "isrc": "JPR502304052",
+      "releaseDate": "2023-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/7tg3YBTyFQMZW2TGrslbpm",
+      "isFallback": false
+    },
+    {
+      "id": "a52a3608-eea5-4cc6-a08a-83117049c205",
+      "title": "タイム・トラベル・プランナー",
+      "artist": "Nagakumo",
+      "isrc": "JPJ492000096",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/5ZpnCE81qkjW5bjpiHLdlq",
+      "isFallback": false
+    },
+    {
+      "id": "35c4f39f-ee76-4344-8039-91e867a70c86",
+      "title": "6月は愛について",
+      "artist": "Nagakumo",
+      "isrc": "JPR502304054",
+      "releaseDate": "2023-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/5pzbLN7UbYjZz7zRZsAKri",
+      "isFallback": false
+    },
+    {
+      "id": "6c388e5c-3656-4da1-b3e9-21b2d1f6500c",
+      "title": "Friends",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200256",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/3eCJnoglZbn957ecqHINZj",
+      "isFallback": false
+    },
+    {
+      "id": "7eb8a035-a69e-4851-a2d4-a2c5ad72c3d2",
+      "title": "眩しくて可愛い！",
+      "artist": "Negicco",
+      "isrc": "JPZ922405039",
+      "releaseDate": "2024-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/7FM1xChpxg813VN6iWWJu7",
+      "isFallback": true
+    },
+    {
+      "id": "d6a81602-bef4-4754-947f-4e6b4f58bdfb",
+      "title": "思いがけず雨",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200253",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/5nnMKdWt1jN4RxysJ75IlD",
+      "isFallback": false
+    },
+    {
+      "id": "2362c6a7-4463-48e1-b900-240f55865401",
+      "title": "Birthday",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200145",
+      "releaseDate": "2022-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3Heh5UIKLmyRZ6ixVLLcdU",
+      "isFallback": false
+    },
+    {
+      "id": "c2ecce53-ec6d-4bea-b810-fd3358e40aed",
+      "title": "Awayokuba",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200007",
+      "releaseDate": "2022-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/2SOhYfCJj2Yo4dar6QNcn5",
+      "isFallback": false
+    },
+    {
+      "id": "b69f1de9-7eed-4bc4-9bc2-f9f902e6bd42",
+      "title": "マガジン・キラー",
+      "artist": "Nagakumo",
+      "isrc": "JPR502304055",
+      "releaseDate": "2023-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/6XtQ6EwyaXKeaOQ6IYLKMd",
+      "isFallback": false
+    },
+    {
+      "id": "277c35fd-d608-43e9-be02-f52faa75bcce",
+      "title": "イン・ザ・ジオラマ",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200254",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/6vNLuHRDzM9d5Th8khCemt",
+      "isFallback": false
+    },
+    {
+      "id": "38fadcc1-68bb-465b-a31c-50ab2eae6f26",
+      "title": "偶然",
+      "artist": "Nagakumo",
+      "isrc": "JPJ492000097",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/05n8O8ajBVZBOhhKwezazc",
+      "isFallback": false
+    },
+    {
+      "id": "dfe9bf9b-73e4-41e1-a798-63a5867e0e40",
+      "title": "CITY GIRL",
+      "artist": "Nagakumo",
+      "isrc": "JPJ492000098",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/2wIXj2tfnsrOy3SalhiWFL",
+      "isFallback": false
+    },
+    {
+      "id": "12698050-f3f1-4b4f-89fb-1d461d64d53b",
+      "title": "ボール",
+      "artist": "Nagakumo",
+      "isrc": "JPR502302787",
+      "releaseDate": "2023-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/5aZJGw7cS65oPXkCmhkpbd",
+      "isFallback": false
+    },
+    {
+      "id": "13182eba-f1b8-4615-8d79-571e746ae42c",
+      "title": "日曜前夜",
+      "artist": "Nagakumo",
+      "isrc": "JPR502301981",
+      "releaseDate": "2023-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh",
+      "isFallback": false
+    },
+    {
+      "id": "eaa6bb2a-f98b-4c31-97c4-7368ceb6e23a",
+      "title": "渚のメモリーズ",
+      "artist": "Nagakumo",
+      "isrc": "JPG102200255",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/1b4w7AzSamV2qFvyX8GJv7",
+      "isFallback": false
+    },
+    {
+      "id": "4adddd0a-27a0-4991-9b2c-6eb40f26674e",
+      "title": "テレビショウ",
+      "artist": "Nagakumo",
+      "isrc": "JPJ492000095",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/7CrJn4Hw7bZ7HQmy2zEsB6",
+      "isFallback": false
+    }
+  ]
+}

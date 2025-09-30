@@ -1,0 +1,648 @@
+{
+  "name": "佐々木喫茶",
+  "sortName": "ササキキッサ",
+  "otherNames": [
+    "月刊プロボーラー"
+  ],
+  "tracks": [
+    {
+      "id": "df4baf3b-2399-464b-b639-c1e3cf3bc455",
+      "title": "パステルパスポート",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910743",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/7wOKV7CsT9esa5ASrSBMOn",
+      "isFallback": true
+    },
+    {
+      "id": "75cb474e-33e7-4a22-99b3-c95c8c7e8701",
+      "title": "Dancing like a snail",
+      "artist": "KOTO",
+      "isrc": "JPZ921812545",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/2FsEqw24FVu0CSIOGGk9al",
+      "isFallback": true
+    },
+    {
+      "id": "eb8ee138-e08d-4197-a6bb-a2c08aadbda9",
+      "title": "お祭りGALAXY",
+      "artist": "KOTO",
+      "isrc": "JPE871601803",
+      "releaseDate": "2015-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4euezAQdUsGYpNPeWkgu9d",
+      "isFallback": true
+    },
+    {
+      "id": "5b122911-6c11-490b-9fa4-eef6157c2240",
+      "title": "あのコと",
+      "artist": "KOTO",
+      "isrc": "JPE871601804",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/4I5Dl8es0b8QwaLAgPyX2c",
+      "isFallback": true
+    },
+    {
+      "id": "026547a0-f1a1-4c2f-b9f4-71749aba9740",
+      "title": "らぶそんぐ",
+      "artist": "KOTO",
+      "isrc": "JPE871702438",
+      "releaseDate": "2017-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/7owQofYT5Zcnw76w0QE7JV",
+      "isFallback": true
+    },
+    {
+      "id": "83ed5931-f0da-4b8e-b72c-bd6349f20dac",
+      "title": "ヒカリノホタル",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f51f364-60e6-4344-82f8-e5eb6bc1a704",
+      "title": "Love is OVERDRIVE",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aca7ac94-8193-4103-8684-1cad987e284b",
+      "title": "エンジェルがエンドレス",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910756",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/1PqNTurxLfwZikUhhfARn1",
+      "isFallback": true
+    },
+    {
+      "id": "b454f42f-1096-4ae3-8914-c00c8c5eab32",
+      "title": "シンデレラ症候群",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910762",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/70MiOJN9nRxaasvA62ZFke",
+      "isFallback": true
+    },
+    {
+      "id": "36dd10fc-d14d-4824-a1c9-b7a5ddfbcb81",
+      "title": "SixteenSick",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910758",
+      "releaseDate": "2015-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5c9y7IglIP3Av15HVMrYZx",
+      "isFallback": true
+    },
+    {
+      "id": "438d2f77-7686-492d-9400-58be923f0c54",
+      "title": "チャクラ解放曲〜あなたのままで",
+      "artist": "KOTO",
+      "isrc": "TCJPO2139942",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/66dQatKOL3mb769MRjdhe1",
+      "isFallback": true
+    },
+    {
+      "id": "79daef7a-7cac-498d-ba42-8a38e55f1623",
+      "title": "I LOVE YOU",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba47b349-281e-45f6-9e6e-038784ac81f0",
+      "title": "URAHARAろまんちっく",
+      "artist": "シャオチャイポン",
+      "isrc": "",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a361ca0-7567-4a24-bfdd-b2847cc1d46f",
+      "title": "きらいリターンズ",
+      "artist": "KOTO",
+      "isrc": "JPE871601802",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/7LMNAkVhg8p2g5g6pijVWY",
+      "isFallback": true
+    },
+    {
+      "id": "f2f14ca3-25da-42fe-98d6-7c7e94f262c2",
+      "title": "ダンシンオーナイ",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4699d2b5-7f9b-4f7a-aac5-f95d8cfb3832",
+      "title": "はなうらNIGHT!",
+      "artist": "太陽と踊れ",
+      "isrc": "JPPC02311966",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/27fONM7hCPq0X7XxdjRcqA",
+      "isFallback": false
+    },
+    {
+      "id": "c878ffab-4496-4942-8d95-250a8d8fd5b8",
+      "title": "コトリカルパレード",
+      "artist": "KOTO",
+      "isrc": "JPZ922012229",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/7tvY3zr16SQuA7tYsxazid",
+      "isFallback": true
+    },
+    {
+      "id": "90fa01e0-0c1d-4659-b192-3503fe20ef79",
+      "title": "ゆかいなぼくら",
+      "artist": "KOTO",
+      "isrc": "JPE871601801",
+      "releaseDate": "2016-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/1sqGJvzRPVa9mdDlNgujLn",
+      "isFallback": true
+    },
+    {
+      "id": "5a576d1b-51da-4525-a7a4-78f555351506",
+      "title": "バレンタインズバレリーナ",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910757",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/2S6zZUZDvR2yE2NcomB01E",
+      "isFallback": true
+    },
+    {
+      "id": "91a4aa37-1a7d-4102-9a78-de9407d0dad5",
+      "title": "甘い果実の物語",
+      "artist": "KOTO",
+      "isrc": "JPE871702437",
+      "releaseDate": "2017-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/3ZFGNj4OF7kABaQFjXHKnj",
+      "isFallback": true
+    },
+    {
+      "id": "9982967b-07d0-48df-9c04-ee7c901aae3e",
+      "title": "タイガーファイヤーサイバーファイター",
+      "artist": "KOTO",
+      "isrc": "JPZ921812544",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/45E3LPz1TC6Q83q3BFdP6I",
+      "isFallback": true
+    },
+    {
+      "id": "167f85c0-a2da-409d-8641-71ae1da2ac09",
+      "title": "るっぱっぱ",
+      "artist": "KOTO",
+      "isrc": "JPE871702441",
+      "releaseDate": "2017-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/0NMKNb1VOClod4JFlKg3WO",
+      "isFallback": true
+    },
+    {
+      "id": "dc590529-3486-4fdd-9604-1476d61f4003",
+      "title": "ファンキーモンキー",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "70a8d9e1-bbb9-4a19-af1c-cc2e37faaf87",
+      "title": "わたしたちの地図",
+      "artist": "SAKA-SAMA",
+      "isrc": "JPR501929326",
+      "releaseDate": "2019-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/45bBpfs0Xp9OQzviUPgrLK",
+      "isFallback": true
+    },
+    {
+      "id": "2b5af0ac-1e84-4a5a-bbb4-822e932ab3e9",
+      "title": "ディスコウォーズ",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "74bfb883-21f5-4fff-b1e4-fc99c1a8e634",
+      "title": "バーガークイーン",
+      "artist": "Cing",
+      "isrc": "JPC402303004",
+      "releaseDate": "2023-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6U9WFTkUN7uxEzxF6IJGZw",
+      "isFallback": false
+    },
+    {
+      "id": "40a12fc8-b314-4edc-baef-aa643af555bd",
+      "title": "たまにきみにまるまって",
+      "artist": "KOTO",
+      "isrc": "JPE871601805",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/221FkjFCHdZQCWDQEGxlNP",
+      "isFallback": true
+    },
+    {
+      "id": "eaf6e776-6c19-4a5e-88e0-0073954e5c7e",
+      "title": "BACK TO THE UNIVERSE",
+      "artist": "KOTO",
+      "isrc": "TCJPO2139995",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/2j7HkIfKCJq3Pf4QxXXwt5",
+      "isFallback": true
+    },
+    {
+      "id": "2b37c517-e41d-4d14-9797-38a8ba58d4df",
+      "title": "ミッドナイト放題",
+      "artist": "KOTO",
+      "isrc": "JPZ921812547",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/6RhupxriD4hT7P3vpsMNfd",
+      "isFallback": true
+    },
+    {
+      "id": "261eafa5-8a21-46b4-ba01-6ef63dd64352",
+      "title": "ことなつ",
+      "artist": "KOTO",
+      "isrc": "TCJPD2412954",
+      "releaseDate": "2020-12",
+      "spotifyUrl": "https://open.spotify.com/track/2X2yCkXWTWspdwLxltnmAf",
+      "isFallback": true
+    },
+    {
+      "id": "de67b242-82ab-46db-a9d5-a1a8df5af2fa",
+      "title": "プラトニックプラネット",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910760",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/4AH7Mn6qMjGhyaLzt6akTK",
+      "isFallback": true
+    },
+    {
+      "id": "cc9ac535-5521-4e5c-a797-c10a983f9f33",
+      "title": "とってもGood!なBBQ",
+      "artist": "KOTO",
+      "isrc": "JPZ921812551",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/2nCE2LhimrgSovBGz0h2by",
+      "isFallback": true
+    },
+    {
+      "id": "85a5fa88-aec6-40b0-bdd5-ea32c1540f4d",
+      "title": "こんぐらいのこんぐらっちゅれいしょん",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPU2383036",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/781LXejCcueSSY4YjDr8db",
+      "isFallback": true
+    },
+    {
+      "id": "d7ec1490-8832-4bee-bb22-530ccc229c92",
+      "title": "こびないえびない",
+      "artist": "KOTO",
+      "isrc": "TCJPO2139931",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/1a08RVqPbDgBsFJjEIYMAp",
+      "isFallback": true
+    },
+    {
+      "id": "51158a80-60d4-45e5-b098-adc5b618f75e",
+      "title": "Twinkle-LINDA",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e063daad-4406-4d42-aaae-41ad60e40a68",
+      "title": "Vanilla Bunnies",
+      "artist": "KOTO",
+      "isrc": "",
+      "releaseDate": "2020-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e1077218-659f-49bb-8fb6-251fd0fe4315",
+      "title": "Rankdown",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5027743-92b8-4bd6-a009-e06b9546b972",
+      "title": "ステンレス・スターライト",
+      "artist": "Saori@destiny",
+      "isrc": "JPH710900077",
+      "releaseDate": "2009-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5ab2b16-d081-49cc-a522-bb721a2fd1c3",
+      "title": "ハウっちゃう",
+      "artist": "天ノ譜ステラ",
+      "isrc": "TCJPX2383177",
+      "releaseDate": "2023-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/4e3AwLRHgAhprOJjsd79Gk",
+      "isFallback": false
+    },
+    {
+      "id": "64a2091d-78ce-469f-9791-37f3adf2dd1e",
+      "title": "LAZER GIRL",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3c28ae7-f33a-4b0c-bf4e-3742240cc5d8",
+      "title": "うそ泣きTONIGHT",
+      "artist": "Phantom Voice",
+      "isrc": "JPZ921614007",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4dcfd8d7-1ae2-4c2a-8e4e-82414af43935",
+      "title": "LONLEY KONG",
+      "artist": "KOTO",
+      "isrc": "JPZ921812549",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/2rkucQAbriG2j8El0iCs1p",
+      "isFallback": true
+    },
+    {
+      "id": "64e40c37-ae05-45c7-a724-f92b81e119a6",
+      "title": "舞踏遊戯",
+      "artist": "KOTO",
+      "isrc": "JPE871601799",
+      "releaseDate": "2016-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/0yARGpMTLAVmU6Txxwophg",
+      "isFallback": true
+    },
+    {
+      "id": "3d25e6ec-de04-47ca-bacd-66420054eb83",
+      "title": "FUSAIYO",
+      "artist": "AVAM",
+      "isrc": "TCJPD2416880",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5A58sKCQalUlDQa9AiQanw",
+      "isFallback": true
+    },
+    {
+      "id": "8b375843-df59-4060-b02f-b84e9aec9f55",
+      "title": "DEAD or Kawaii",
+      "artist": "KOTO",
+      "isrc": "JPZ921812546",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/43vYHjS0zrh1lAqsZ9rVSD",
+      "isFallback": true
+    },
+    {
+      "id": "f31e232d-2bff-4af0-a0fb-064b9ad06710",
+      "title": "好印象な恋しよう",
+      "artist": "文坂なの",
+      "isrc": "JPS801956068",
+      "releaseDate": "2022-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/0kEoa46hn4Ts2pVXZSDUoW",
+      "isFallback": false
+    },
+    {
+      "id": "5ec3a6ac-445c-4f83-8203-f200a123db01",
+      "title": "ばいばいてぃーんずららばい",
+      "artist": "KOTO",
+      "isrc": "JPZ921812550",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/6rFaJ9S5SbpaUTdzAjUXlS",
+      "isFallback": true
+    },
+    {
+      "id": "1627a691-ec6b-4498-879a-096430f1aa2b",
+      "title": "それが愛だ！",
+      "artist": "シャオチャイポン",
+      "isrc": "",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dadeaf65-999c-44cb-a3ff-537cd15603d8",
+      "title": "愛わずらい",
+      "artist": "文坂なの",
+      "isrc": "JPS802353521",
+      "releaseDate": "2021-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/0DHn6jLSwp0LVFLS4ubRRD",
+      "isFallback": false
+    },
+    {
+      "id": "7f342cb4-2f88-4454-8f94-13416a9aaa60",
+      "title": "なかま歌",
+      "artist": "不知火フレア",
+      "isrc": "JPV752307533",
+      "releaseDate": "2023-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/2yuxTYk8czQ6nB3Z5X6SFf",
+      "isFallback": true
+    },
+    {
+      "id": "4298047c-c48a-4ca9-9fdc-824b753c1966",
+      "title": "ことらべりんぐ",
+      "artist": "KOTO",
+      "isrc": "JPE871702436",
+      "releaseDate": "2017-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/1q4Y5GgG4DzDxEBAma4VGJ",
+      "isFallback": true
+    },
+    {
+      "id": "fa609b0b-7876-490d-bcc4-f276877f2006",
+      "title": "スパイシーチェルシー",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "684b595a-d9c8-44f5-9e6e-7b3faf8414e4",
+      "title": "くえすちょん くえすと",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910750",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/6M18wvv3Z5U989TY0V4ctk",
+      "isFallback": true
+    },
+    {
+      "id": "d5ae1761-5ebf-417d-b6c1-55b9b368169e",
+      "title": "琴虎飯店",
+      "artist": "KOTO",
+      "isrc": "JPZ922012227",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/0pZLATn7GtG3mCT5gTiwwy",
+      "isFallback": true
+    },
+    {
+      "id": "5aee2654-9ec9-4fdb-9aba-da0ac5da78a3",
+      "title": "MAD TIME LOVE",
+      "artist": "ピンキーポップヘップバーン",
+      "isrc": "JPZ922000819",
+      "releaseDate": "2020-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/6XG5aZvLDvP1u9XjSRDJnr",
+      "isFallback": true
+    },
+    {
+      "id": "d72723c0-2dfc-4951-9006-8ffe2dd50be7",
+      "title": "推定スウィーティ",
+      "artist": "KOTO",
+      "isrc": "TCJPK1910753",
+      "releaseDate": "2014-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6YQPUWCppxR53Um5s9iQtk",
+      "isFallback": true
+    },
+    {
+      "id": "05746576-c877-4366-9350-706350aebb4c",
+      "title": "合法ガール",
+      "artist": "KOTO",
+      "isrc": "JPZ922012228",
+      "releaseDate": "2020-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/4EN2R3ptAEoHCvU8gLTcot",
+      "isFallback": true
+    },
+    {
+      "id": "3798a587-cf6f-4135-9bed-9267c1728a84",
+      "title": "スーパークレイバー",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPZ2413366",
+      "releaseDate": "2024-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/0AQtDf6sdb20gfUYrIQiCO",
+      "isFallback": true
+    },
+    {
+      "id": "a0ec3ef7-b1fd-433b-908c-008d31bbc66a",
+      "title": "U.S",
+      "artist": "鈴鹿詩子",
+      "isrc": "",
+      "releaseDate": "2021-02-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b9478e7-0f22-4219-abd2-85a1cc453f9c",
+      "title": "だいしきゅーだいしゅき",
+      "artist": "femme fatale",
+      "isrc": "JPB822200920",
+      "releaseDate": "2022-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/0TQpPhA1OBrVGIfaKShRrx",
+      "isFallback": true
+    },
+    {
+      "id": "3634692d-9a59-4e65-8f99-c92399fb4789",
+      "title": "C級noロマンティック",
+      "artist": "文坂なの",
+      "isrc": "JPS801965077",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/4RxTgwRjmSFM3pYDUuNg6G",
+      "isFallback": false
+    },
+    {
+      "id": "7966c07a-be68-42ab-b374-245f5fc640d5",
+      "title": "バスケットケイス",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4988f1e4-a35b-4e33-bdfe-2d174558e1d3",
+      "title": "シャオ！チャイ！ポン！",
+      "artist": "シャオチャイポン",
+      "isrc": "",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83cc99f4-b70b-4af9-b285-3619bfef7325",
+      "title": "LIFE is FUSHIGI",
+      "artist": "King & Prince",
+      "isrc": "JPPO02406044",
+      "releaseDate": "2025-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/0mb6k3k7HsU5DwvIVIQRyy",
+      "isFallback": false
+    },
+    {
+      "id": "452e1553-dc14-42c1-b844-cccddc6ebbdb",
+      "title": "P!NGPONG QUEST",
+      "artist": "ピンキーポップヘップバーン",
+      "isrc": "JPZ922000818",
+      "releaseDate": "2020-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/7rK7iM1zPiDoTLb2CERt0t",
+      "isFallback": true
+    },
+    {
+      "id": "0e6bee03-d346-43e6-8336-2e1cf6b8125c",
+      "title": "愉快ザ・ワールド",
+      "artist": "Lila Gray",
+      "isrc": "TCJPO2149225",
+      "releaseDate": "2021-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/14Nu7mcgvvefykOzilDtLv",
+      "isFallback": true
+    },
+    {
+      "id": "1046219e-4cda-4bec-8f3b-65a777aefefc",
+      "title": "TAIKUTSUが止まらない",
+      "artist": "KOTO",
+      "isrc": "JPZ921812548",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/4eYyuN7oJCFYizLHCadz0T",
+      "isFallback": true
+    },
+    {
+      "id": "743edec8-e879-4c21-a3da-750b2d98e702",
+      "title": "チョコレイト弁当",
+      "artist": "ピンキーポップヘップバーン",
+      "isrc": "JPZ922000820",
+      "releaseDate": "2020-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/7FcwGCqo2fYaklvlnmCWS0",
+      "isFallback": true
+    },
+    {
+      "id": "1628a09d-687e-44cb-b86d-da48fcbe4e9e",
+      "title": "ことりっぷ",
+      "artist": "KOTO",
+      "isrc": "",
+      "releaseDate": "2014-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0903ba5-f570-4c0a-ad7d-faac7b1a3193",
+      "title": "EYES",
+      "artist": "月刊プロボーラー",
+      "isrc": "",
+      "releaseDate": "2008-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed3d8cd2-b6d6-4169-be45-8a02880fae1d",
+      "title": "おとこのこちゃん",
+      "artist": "KOTO",
+      "isrc": "JPE871601800",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/7aUvzi0Kc6mSQthLCnl3ot",
+      "isFallback": true
+    }
+  ]
+}

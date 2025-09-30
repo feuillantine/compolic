@@ -1,0 +1,123 @@
+{
+  "name": "ckwa",
+  "sortName": "チクワ",
+  "tracks": [
+    {
+      "id": "2ba364b8-9d95-48b4-ae15-e67f39037ea2",
+      "title": "Dream Curuise",
+      "artist": "miya",
+      "isrc": "TCJPQ2295732",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/7l2cYVRgBEkdj4yjKhALxd",
+      "isFallback": true
+    },
+    {
+      "id": "4fe2c59d-1ee3-4c91-b280-9141d655a200",
+      "title": "ももたん♡ふぁんく",
+      "artist": "桃寝ちのい",
+      "isrc": "TCJPV2364275",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/55VtqzvDyeA0RJ4g5lIMxa",
+      "isFallback": true
+    },
+    {
+      "id": "c528a00c-e16f-4c7c-97c8-dfaef654252f",
+      "title": "hurry up!!",
+      "artist": "miya",
+      "isrc": "JPES09702565",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5nSojuFZNQDA9Fyg9AKbik",
+      "isFallback": true
+    },
+    {
+      "id": "17aad6f8-019f-4182-9881-89fb24edd7a0",
+      "title": "ヒロイン理論",
+      "artist": "ことの",
+      "isrc": "TCJPL2565906",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/7HHZ1xZDAw1kPd7k5PtkN8",
+      "isFallback": true
+    },
+    {
+      "id": "77d759ec-4031-4c4c-9a16-283012867f1e",
+      "title": "エキセントリックドリーマー",
+      "artist": "ななきなな",
+      "isrc": "TCJPD2578617",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6mgkPZ4mjfTaySVmkSHI2U",
+      "isFallback": true
+    },
+    {
+      "id": "9c33ec1e-e579-4d1f-af6e-4b3e02525395",
+      "title": "Melty Creamer",
+      "artist": "ちょこ",
+      "isrc": "TCJPV2399925",
+      "releaseDate": "2023-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/5jsCDJLMoey1fi6y87jO4f",
+      "isFallback": true
+    },
+    {
+      "id": "fd82ca3c-bf44-4af5-8689-0281992645e1",
+      "title": "さよならメリーゴーランド",
+      "artist": "ことの",
+      "isrc": "TCJPL2565268",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/4dALzGEBrEjstUW5sNhk13",
+      "isFallback": true
+    },
+    {
+      "id": "882d7bcd-bdcc-4ef2-a2f7-29b112e62884",
+      "title": "あまのじゃくパレット",
+      "artist": "乃花こより",
+      "isrc": "TCJPT2241968",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/6SFisyxrrX47yQ1IcJE97s",
+      "isFallback": true
+    },
+    {
+      "id": "bc64fc55-4774-4d66-99aa-4c08f98f44a2",
+      "title": "Secret Garden",
+      "artist": "ことの",
+      "isrc": "TCJPC2450018",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0H4mlmw6AiTmhnwhpJ7CSw",
+      "isFallback": true
+    },
+    {
+      "id": "0d7ea29f-0d36-480c-9c5e-9dc5d1e76acb",
+      "title": "Pastel Parade",
+      "artist": "うぐ",
+      "isrc": "TCAHH2302991",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/5ydlT5b0dMX1hY9jMr28Tp",
+      "isFallback": false
+    },
+    {
+      "id": "94f1ffdc-b596-4a9c-b883-ecf59dde6713",
+      "title": "night walk",
+      "artist": "ckwa",
+      "isrc": "TCJPV2367542",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/14W4Btn6LBoQAHS6N23XUO",
+      "isFallback": false
+    },
+    {
+      "id": "9685d1df-1534-466a-bb7a-b931ba2e49f3",
+      "title": "My Secret Bottle",
+      "artist": "もちこまめ",
+      "isrc": "",
+      "releaseDate": "2019-11-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f19d8e12-fd12-4bd9-a9c9-c80385f743a6",
+      "title": "Sweet Devilish Candy",
+      "artist": "うぐ",
+      "isrc": "TCAHF2306615",
+      "releaseDate": "2023-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/6CpUjL4pi9ejhcagTPgEh1",
+      "isFallback": false
+    }
+  ]
+}

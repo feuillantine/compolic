@@ -1,0 +1,627 @@
+{
+  "name": "三好啓太",
+  "sortName": "ミヨシケイタ",
+  "tracks": [
+    {
+      "id": "a84e6cfd-f618-4898-b995-413dc62e8a28",
+      "title": "リフレインブレイン",
+      "artist": "アルストロメリア",
+      "isrc": "JPI102501760",
+      "releaseDate": "2025-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/25NiWrVYnOw2difOyjJTTy",
+      "isFallback": true
+    },
+    {
+      "id": "4f8372bd-2b49-4eca-8ed5-246ba5e1adc0",
+      "title": "ゼウスの仲裁",
+      "artist": "西條クロディーヌ",
+      "isrc": "JPPC01901642",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/0jUmugmRS1W6Kk4jkHrnds",
+      "isFallback": false
+    },
+    {
+      "id": "9ba94265-2331-4b7d-964b-3eb33d6c673f",
+      "title": "情熱の目覚めるとき",
+      "artist": "星見純那",
+      "isrc": "",
+      "releaseDate": "2017-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c36f360a-0f8f-4963-8fc8-112b2ddfcfdb",
+      "title": "ラララ♪ミュークルマーチ (4人いっしょにバージョン)",
+      "artist": "みゅー",
+      "isrc": "JPD602000210",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/47qqehzKOj3IZ60YlQ3FX7",
+      "isFallback": true
+    },
+    {
+      "id": "70ac1d25-6296-4a79-9406-a6d5af836bfa",
+      "title": "Glorious Moment！",
+      "artist": "ナリタトップロード",
+      "isrc": "JPZ922303106",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe",
+      "isFallback": false
+    },
+    {
+      "id": "898f754c-a4a2-46e1-8686-d8c2f3f0d1d0",
+      "title": "ターンオンタイム!",
+      "artist": "春日未来",
+      "isrc": "JPI101601460",
+      "releaseDate": "2016-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/7H1Za8I1IslnwvyJro2GWm",
+      "isFallback": false
+    },
+    {
+      "id": "fc4d6820-544a-41af-baeb-1cf89eaab2a9",
+      "title": "くびったけエンジョイサマー!",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01701931",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/5OxMZiRfmHFLvJptfjHnht",
+      "isFallback": true
+    },
+    {
+      "id": "dc24ecfa-0eaf-4945-b6eb-68550d67fa1d",
+      "title": "Smiling Platter!",
+      "artist": "Café Parade",
+      "isrc": "JPI102202995",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3kDmBdaw5LwkoFJjslFnTg",
+      "isFallback": false
+    },
+    {
+      "id": "85856331-e1b4-4179-b42e-fe3f6597fa28",
+      "title": "ハートのカタチ〜四つ葉のClover〜",
+      "artist": "中野四葉",
+      "isrc": "JPPC01900063",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/10J5KGwRDHG2lzc0oHaO2e",
+      "isFallback": true
+    },
+    {
+      "id": "28ef1e79-fa80-4f36-9afb-e5012bb41231",
+      "title": "Plastic Smile",
+      "artist": "石原夏織",
+      "isrc": "JPPC02001939",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq",
+      "isFallback": true
+    },
+    {
+      "id": "9f81a208-d24d-4af4-ba6d-2e112c7bb83a",
+      "title": "Re:JUDGEMENT",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102001142",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/6iBKNMEXZXbAfWYZbxYpMb",
+      "isFallback": true
+    },
+    {
+      "id": "4381a747-877e-4029-bc13-729479b2e5fa",
+      "title": "Sweet Escape",
+      "artist": "sumimi",
+      "isrc": "",
+      "releaseDate": "2025-05-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e35bf83-46a3-443a-9068-d0d29120eb56",
+      "title": "ゾンビランドDEMPA!!",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02014801",
+      "releaseDate": "2020-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/5vJJMLaAaEkIvGBPiUjSUQ",
+      "isFallback": true
+    },
+    {
+      "id": "876f5f5d-3a65-45b9-85c4-d0358300e3fc",
+      "title": "Brave Parade",
+      "artist": "吉武千颯",
+      "isrc": "JPD602100070",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/3lQhTcyzROtUF2aB8PTbIH",
+      "isFallback": true
+    },
+    {
+      "id": "18c6816d-889f-4662-af1b-dba44497d4ef",
+      "title": "待ちぼうけ銀河ステーション",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01615802",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/1rRMvtFK9xmRlhG4j30kjX",
+      "isFallback": true
+    },
+    {
+      "id": "6fbcfda2-a5b7-4dda-bbe6-2ce2342a44e0",
+      "title": "ゆめ色メロディー",
+      "artist": "日向ゆめ",
+      "isrc": "JPD602000211",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0eifTzc77NCWLK0F2h67a1",
+      "isFallback": true
+    },
+    {
+      "id": "0f61b04a-75a2-4768-b3fd-ce9d0999b1c5",
+      "title": "星をめざして",
+      "artist": "芹沢あさひ",
+      "isrc": "JPI102002100",
+      "releaseDate": "2021-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0",
+      "isFallback": false
+    },
+    {
+      "id": "eff1bed0-bf89-4b31-9175-b85577f56d85",
+      "title": "Be The Party Bee!",
+      "artist": "Crazy:B",
+      "isrc": "JPD641900594",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/6WHyUPmfOq39DNz7wMP2GT",
+      "isFallback": true
+    },
+    {
+      "id": "45b117ca-b5ac-49b5-b07d-37b0d40831d9",
+      "title": "PRISISM",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102101025",
+      "releaseDate": "2021-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/0SRlAMSBFOC0zGwQW3fymn",
+      "isFallback": false
+    },
+    {
+      "id": "32cbed1e-6af8-445b-800f-15e89a9cc22e",
+      "title": "wi(l)d-screen baroque",
+      "artist": "大場なな",
+      "isrc": "JPPC02110459",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/7q95phyggm9icZTBurwpI4",
+      "isFallback": false
+    },
+    {
+      "id": "1195ae3d-7349-4f65-8dca-29fa9ae17f13",
+      "title": "Bet your intuition!",
+      "artist": "FRAME",
+      "isrc": "JPI102000213",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/781tJ0jAfGXhra8g1yYstz",
+      "isFallback": false
+    },
+    {
+      "id": "d1488190-b3e7-4e29-8eed-f028ad4196ba",
+      "title": "寄り道",
+      "artist": "CHiCO",
+      "isrc": "JPX402300153",
+      "releaseDate": "2023-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/08bZct8kaOU78snQjqtheC",
+      "isFallback": true
+    },
+    {
+      "id": "f16ccdbb-5428-4a80-a725-fa2d2a7191c7",
+      "title": "リワインドメモリー",
+      "artist": "五條真由美",
+      "isrc": "JPD601800358",
+      "releaseDate": "2018-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/6uR2xhAt1oO0wpbOluUTRi",
+      "isFallback": true
+    },
+    {
+      "id": "393053ba-d821-4f76-989d-449d62ced4a6",
+      "title": "まごころ My Heart",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602502337",
+      "releaseDate": "2025-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/4vSQo4T24r8eRI96jHdnIZ",
+      "isFallback": true
+    },
+    {
+      "id": "58f4d9ae-04d4-4768-8a93-73565569b3b0",
+      "title": "Delicious Delivery",
+      "artist": "Café Parade",
+      "isrc": "JPI102001580",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO",
+      "isFallback": false
+    },
+    {
+      "id": "254a7698-5f7c-429b-b94c-85d865f5954c",
+      "title": "晴れのちバルーン",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102403411",
+      "releaseDate": "2025-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/26WBpfWO0HUSt6FJfZrEVn",
+      "isFallback": true
+    },
+    {
+      "id": "d8cce60d-70f8-4069-a91d-827796c756dd",
+      "title": "虹の行方",
+      "artist": "シャイニーカラーズ",
+      "isrc": "JPI102200500",
+      "releaseDate": "2022-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW",
+      "isFallback": false
+    },
+    {
+      "id": "36e8197f-b49d-43a4-bd27-0eb33187cf0d",
+      "title": "シュガー・シュガー・スパイス",
+      "artist": "栗林みな実",
+      "isrc": "JPI102202231",
+      "releaseDate": "2022-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp",
+      "isFallback": true
+    },
+    {
+      "id": "96885101-c92e-4e8c-bec2-a2b933625183",
+      "title": "Darling Darling",
+      "artist": "田村ゆかり",
+      "isrc": "JPK631903902",
+      "releaseDate": "2019-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/35mHcyuE7UUmHJG68O6D9U",
+      "isFallback": true
+    },
+    {
+      "id": "7f3b0a21-ad5b-4016-a5d2-217aa04ec767",
+      "title": "Anniversary",
+      "artist": "アルストロメリア",
+      "isrc": "JPI102001647",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/5AInollX0dijwKBVlMpmvc",
+      "isFallback": false
+    },
+    {
+      "id": "d0cde38f-40ea-4b06-bad3-1056a050f236",
+      "title": "ミステイク・マーダー！",
+      "artist": "田中琴葉",
+      "isrc": "JPI102302738",
+      "releaseDate": "2024-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/1hXfwXqjcFEl6AVd6XQT9p",
+      "isFallback": true
+    },
+    {
+      "id": "1d32d8c7-33cd-4eb5-8140-d57dde852c1c",
+      "title": "ブレイヴシンフォニア",
+      "artist": "システィーナ゠フィーベル",
+      "isrc": "JPD731700109",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/0d591HIVT6eNl5M1Lx7AL3",
+      "isFallback": true
+    },
+    {
+      "id": "5c520e00-4174-4b92-bd25-b11fc2acdd1b",
+      "title": "世界中たったひとつ",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC02310925",
+      "releaseDate": "2023-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/7D0qr2nyUkyNLpRTh8nhbP",
+      "isFallback": false
+    },
+    {
+      "id": "df8c636b-ec32-4a0e-9fa8-32997c581f1e",
+      "title": "内緒の恋 〜Love Four U〜",
+      "artist": "中野四葉",
+      "isrc": "JPPC02002094",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/0zr5fxZma42At5ON5Lajf6",
+      "isFallback": true
+    },
+    {
+      "id": "c9a7177c-e103-4229-bde5-f32677a15748",
+      "title": "ライラックにつつまれて",
+      "artist": "TIntMe!",
+      "isrc": "JPI102001343",
+      "releaseDate": "2021-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0pJysRu9StA57lwnvxCyvf",
+      "isFallback": false
+    },
+    {
+      "id": "a8d22225-490d-4b28-9f17-7b5b21c4c39d",
+      "title": "奇跡と魔法のクロニクル",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK631905509",
+      "releaseDate": "2019-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/6auG1ZwP7LRibbqHBDySMg",
+      "isFallback": true
+    },
+    {
+      "id": "ec5dc77d-472f-4535-83f4-f47ec3d10818",
+      "title": "My Story",
+      "artist": "一之瀬みのり",
+      "isrc": "JPD602100066",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/5bDg1Ovhwmk1QYRS56C01J",
+      "isFallback": true
+    },
+    {
+      "id": "2ea2097b-7cf2-4f3c-b37f-1d66900609e7",
+      "title": "メモワール・ミルフィーユ",
+      "artist": "キュアホイップ",
+      "isrc": "JPD601700268",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/18BKRsENALXibFOaacfolD",
+      "isFallback": true
+    },
+    {
+      "id": "b74a65bf-4922-42ef-b9ba-a49748886a09",
+      "title": "クレッシェンドゆ・ら",
+      "artist": "唐可可",
+      "isrc": "JPI102200046",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/6gDRsyMPV4ee6hSex062yC",
+      "isFallback": true
+    },
+    {
+      "id": "df4d634a-9feb-42a7-b616-5dc8614e35f8",
+      "title": "あらためまして、君と。",
+      "artist": "ディア☆",
+      "isrc": "TCJPJ1939088",
+      "releaseDate": "2018-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/53SHGvthDd7FifWgBQCNxn",
+      "isFallback": true
+    },
+    {
+      "id": "c051bc77-3666-4ee5-97b8-4d14c70aba54",
+      "title": "Circle Love ～サクラ～",
+      "artist": "北川理恵",
+      "isrc": "JPD602000018",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/1jenwH6lR4uHLNJnXcdcKx",
+      "isFallback": true
+    },
+    {
+      "id": "72bd3bc2-dfc6-4504-b19d-9af5ece09441",
+      "title": "Trip Stream!!",
+      "artist": "ピュアリーモンスター",
+      "isrc": "JPK631803102",
+      "releaseDate": "2018-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/1ScbjMsoEJFKPgzTaM9p29",
+      "isFallback": true
+    },
+    {
+      "id": "b1092d77-bb31-4dc9-8cdc-6391b77b3577",
+      "title": "スマイルシンフォニア",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102101026",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/3d5ydDULyEplsIwXyhV6Fc",
+      "isFallback": false
+    },
+    {
+      "id": "88bffd8b-eee5-4841-a5ce-304566a0ca8a",
+      "title": "運命のラプソディー",
+      "artist": "+α／あるふぁきゅん。",
+      "isrc": "JPK632001501",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/3AQPqrx6Q1OJwGPmVyRIZZ",
+      "isFallback": true
+    },
+    {
+      "id": "5bb4c070-c973-43e7-b558-cf136bc971d6",
+      "title": "輝き出した私たち",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC02412110",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/3PZ9O6QkfCJMB2twhniJCc",
+      "isFallback": true
+    },
+    {
+      "id": "67a59d84-94ce-4af2-ad1c-c7f42bbef95d",
+      "title": "君だったから",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC02410912",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/1vSxweCMkArMEraHCaXz50",
+      "isFallback": true
+    },
+    {
+      "id": "02dd42bc-f009-4f31-8c5e-98944d37baf6",
+      "title": "スマイリウム",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01502075",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/1iEfhWVAEGMuEl5YK9OSQv",
+      "isFallback": true
+    },
+    {
+      "id": "78b62625-970f-463c-955d-b84576ae56f5",
+      "title": "二人三脚",
+      "artist": "常闇トワ",
+      "isrc": "JPV752307601",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/790ePFkX77ut5rmpMuBv7O",
+      "isFallback": true
+    },
+    {
+      "id": "0c714183-353c-4dba-90db-ef2f75f62a7b",
+      "title": "ムなさわぎのヒみつ?!",
+      "artist": "ポケムヒもったでんぱ組.inc",
+      "isrc": "JPTF01508201",
+      "releaseDate": "2015-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/5wdZCTJxwZZMo8YlAt3s1u",
+      "isFallback": true
+    },
+    {
+      "id": "1f688680-a868-49a7-b137-5cd079afde32",
+      "title": "Secret! Playful! Drive!",
+      "artist": "S.E.M",
+      "isrc": "JPI101800436",
+      "releaseDate": "2018-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/0ZKY3nnclPNCPiHu0STwsk",
+      "isFallback": true
+    },
+    {
+      "id": "a84e48a0-ead8-442f-a33e-52b6ae592d01",
+      "title": "復讐の剣 (純那×華恋ver.)",
+      "artist": "星見純那",
+      "isrc": "JPPC02412401",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1kxIlY6B85Ax5TwtYMOYM0",
+      "isFallback": true
+    },
+    {
+      "id": "4e321a0b-2cdc-4ce8-be1c-55765a6a8ce4",
+      "title": "はじまりの魔法-charm-",
+      "artist": "魔法少女ホロウィッチ！",
+      "isrc": "JPV752408676",
+      "releaseDate": "2024-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/4iyMyq6LnGXvH6hdjt4sJl",
+      "isFallback": true
+    },
+    {
+      "id": "ae419882-1eff-49e2-a10e-d51062981535",
+      "title": "笑顔の宝物 -Beyond The Future!-",
+      "artist": "スペシャルウィーク",
+      "isrc": "JPZ922206960",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/20rHoti6WwsNopFm148H2z",
+      "isFallback": false
+    },
+    {
+      "id": "ac56e012-c5df-4b20-b283-6eb73bf51e17",
+      "title": "Arrive You 〜それが運命でも〜",
+      "artist": "TIntMe!",
+      "isrc": "JPI102001342",
+      "releaseDate": "2021-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X",
+      "isFallback": false
+    },
+    {
+      "id": "db0c53f8-f4b3-4df4-b841-1c08cdb5d943",
+      "title": "RE:CREATE",
+      "artist": "神楽ひかり",
+      "isrc": "JPPC01801333",
+      "releaseDate": "2018-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/7keIXj9RGrhJH6Pe1b6cnB",
+      "isFallback": false
+    },
+    {
+      "id": "e654adac-8800-42c3-a6f2-44c4075d5852",
+      "title": "Fancy Friday Night",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02014197",
+      "releaseDate": "2020-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/587zg9vYUnHc3dNyBHQ1Ln",
+      "isFallback": true
+    },
+    {
+      "id": "8baeac95-a21a-4047-9e5a-db12142e35c7",
+      "title": "プリキュア! カナYell☆ミラクル",
+      "artist": "宮本佳那子",
+      "isrc": "JPD601900019",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/5dWtY0V8wE2Ca8opWTADKX",
+      "isFallback": true
+    },
+    {
+      "id": "5f8a4862-59df-47bf-bec9-8c1d5ddf04f2",
+      "title": "シェアして! プリキュア",
+      "artist": "五條真由美",
+      "isrc": "JPD602000179",
+      "releaseDate": "2020-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/38eg5lvbChSQ8yXax8bRox",
+      "isFallback": true
+    },
+    {
+      "id": "dcc80015-5fdb-4f95-826a-f7f3017d8556",
+      "title": "Rose Poems",
+      "artist": "雪代晶",
+      "isrc": "JPPC01900217",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/3kqOCXTUzYMA24MhJMqNtM",
+      "isFallback": false
+    },
+    {
+      "id": "04d9501d-a26f-4f5b-9224-984fbcbc7c07",
+      "title": "豪快突破☆プリンセス!",
+      "artist": "カワカミプリンセス",
+      "isrc": "JPZ252400858",
+      "releaseDate": "2025-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/0OCZjRX5kI4YHKVybCK2SQ",
+      "isFallback": true
+    },
+    {
+      "id": "7ccca603-d8ae-4007-b2c1-468313fdf06d",
+      "title": "かざぐるま 〜Windy Road〜",
+      "artist": "Jupiter",
+      "isrc": "JPI102400272",
+      "releaseDate": "2024-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/2EoAimoVkHsD9hhVe1R5Xs",
+      "isFallback": false
+    },
+    {
+      "id": "20edea9f-86df-4fc2-bb30-3d5483ddea6c",
+      "title": "恋は太陽 〜CIRCUS!〜",
+      "artist": "スタァライト九九組",
+      "isrc": "JPPC02100595",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/1xFQTIF8EuCy6iCe425Bau",
+      "isFallback": false
+    },
+    {
+      "id": "da2c1573-8b22-4651-a606-031c1e25d409",
+      "title": "永遠の花",
+      "artist": "ジェミニ",
+      "isrc": "JPI101700087",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/56Yi8V6Q1pORvuFJ8xP9A8",
+      "isFallback": true
+    },
+    {
+      "id": "3b03e063-7bed-455a-90cf-285142745f0e",
+      "title": "Shower of light",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102402171",
+      "releaseDate": "2024-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/2QhslhZQ9RsoGHl0ayHLVZ",
+      "isFallback": true
+    },
+    {
+      "id": "352f1077-18b5-4e38-b840-d4ac50c526e9",
+      "title": "サンチマンタリスム",
+      "artist": "harmoe",
+      "isrc": "JPPC02511302",
+      "releaseDate": "2025-06-18",
+      "spotifyUrl": "https://open.spotify.com/track/0bt6l9aZLVaSJxTLMlTBII",
+      "isFallback": false
+    },
+    {
+      "id": "70ed51c2-3a91-4fd1-90df-019156037037",
+      "title": "Lu La La☆Lumière",
+      "artist": "駒形友梨",
+      "isrc": "JPD601700419",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/4ls4aevReZ7NvfvRQyd9qQ",
+      "isFallback": true
+    },
+    {
+      "id": "6e607c54-7c99-405f-80a7-b8d33c246cd0",
+      "title": "惑星★聖歌 ～Planet Anthem～",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01605102",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1yAqd04h4ByYfNPe5agSUt",
+      "isFallback": true
+    },
+    {
+      "id": "54fbedd3-3910-42b0-8d63-8fa8440dca22",
+      "title": "PRIDE",
+      "artist": "スタァライト九九組",
+      "isrc": "JPPC02412406",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/12XrpeovkVZbin6xObj6ze",
+      "isFallback": true
+    },
+    {
+      "id": "95e17b75-cf17-49d9-8042-347907ed87ff",
+      "title": "トレビアンサンブル!!",
+      "artist": "駒形友梨",
+      "isrc": "JPD601700267",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/0O7NBpyRJKen0teqG4N8Kg",
+      "isFallback": true
+    }
+  ]
+}

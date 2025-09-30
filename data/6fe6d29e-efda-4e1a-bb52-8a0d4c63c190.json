@@ -1,0 +1,402 @@
+{
+  "name": "y0c1e",
+  "sortName": "ヨシエ",
+  "tracks": [
+    {
+      "id": "e89144e5-0797-482b-bb61-3f776b18aea6",
+      "title": "決意のダイヤ",
+      "artist": "kohaluna",
+      "isrc": "JPPI01601210",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/0u6IZEspUgPL0SBWppk9Ya",
+      "isFallback": true
+    },
+    {
+      "id": "7e569dfb-f2f6-4f28-b42f-e95979e02172",
+      "title": "無敵We are one!!",
+      "artist": "イロドリミドリ",
+      "isrc": "JPX301607080",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5j2XvQPWxmxmrnFMTpxOVR",
+      "isFallback": true
+    },
+    {
+      "id": "8193ce5b-34c0-4849-a220-59eb9019f77f",
+      "title": "ココアポット・シティ",
+      "artist": "Ray",
+      "isrc": "JPPI01450670",
+      "releaseDate": "2014-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/5ZenHRIc8gsUGOwHZcRhpS",
+      "isFallback": true
+    },
+    {
+      "id": "14f10743-a2d2-46fd-a42e-a46ac33c7e90",
+      "title": "コトバ・ハンター・ガール",
+      "artist": "正岡小豆",
+      "isrc": "JPP301301177",
+      "releaseDate": "2014-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a8c5ce03-25a2-4e81-8f31-e9f76559c923",
+      "title": "何かが起こるまほろミライ",
+      "artist": "虹乃まほろ",
+      "isrc": "TCJPI1942004",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/05xF1QcLR6DvfWlSF6JP0v",
+      "isFallback": true
+    },
+    {
+      "id": "889af892-7215-49dd-aeaf-15d5818beff0",
+      "title": "戦え我らがふたりはらぶちゅ!",
+      "artist": "ココ",
+      "isrc": "TCJPN2199740",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0NQiur5Vfh0vnnOq70SVd7",
+      "isFallback": true
+    },
+    {
+      "id": "76632db6-4a02-46df-a5ee-84901e448a91",
+      "title": "ぼなぺてぃーと♡S",
+      "artist": "ブレンド・A",
+      "isrc": "JPE301701162",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21",
+      "isFallback": true
+    },
+    {
+      "id": "43b32a5e-0398-4028-b87e-535e7056e646",
+      "title": "私の名は、光。",
+      "artist": "LiGHTs",
+      "isrc": "JPVI02002604",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/4M36dn1JM9XjAhDes2aRKh",
+      "isFallback": false
+    },
+    {
+      "id": "60d49538-877b-41cb-8ca4-d890ee9712ca",
+      "title": "カナリア",
+      "artist": "内田真礼",
+      "isrc": "JPPC02100922",
+      "releaseDate": "2021-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/1uhJVJ7pAeGcCKI0onKHG8",
+      "isFallback": true
+    },
+    {
+      "id": "d776a2e8-31f6-4de7-94e5-f23031379da3",
+      "title": "高鳴りのソルフェージュ",
+      "artist": "内田真礼",
+      "isrc": "JPPC01400633",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/3LgWD9ILGIVNkLR5OBpQQs",
+      "isFallback": true
+    },
+    {
+      "id": "50cf0e46-9459-4c80-a6e9-4a6e164a19a4",
+      "title": "未熟な林檎が目覚めたら",
+      "artist": "pomme'tto",
+      "isrc": "JPJ931700142",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/36M1Epvb4Grr9YcqADICuI",
+      "isFallback": true
+    },
+    {
+      "id": "0d7bc21a-841b-4571-9ac2-a25917f4ad9d",
+      "title": "♡km/h",
+      "artist": "Ray",
+      "isrc": "JPPI01601230",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/7Gsqrt1AZPx60fWqiGNwFW",
+      "isFallback": true
+    },
+    {
+      "id": "e76e63e6-b461-43fc-9140-a01e0d93e463",
+      "title": "メンタル",
+      "artist": "キリシマ",
+      "isrc": "JPG751300572",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/2KFL5zMkY3cpDJmlidaB8M",
+      "isFallback": true
+    },
+    {
+      "id": "0c5dd952-d61c-4fa3-ade7-1b0557f16072",
+      "title": "ESP研のテーマ",
+      "artist": "ESP研究会",
+      "isrc": "JPG751300020",
+      "releaseDate": "2013-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/27bOf957mYVWiYi0eAJ5Lg",
+      "isFallback": true
+    },
+    {
+      "id": "41d81578-b748-4aa6-ad5f-eaf94510a9c5",
+      "title": "CHASER GAME",
+      "artist": "内田真礼",
+      "isrc": "JPPC02212207",
+      "releaseDate": "2022-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/3xAq02D5Q7zqsoEZgVE4LS",
+      "isFallback": true
+    },
+    {
+      "id": "4084a7be-3cad-433a-b0a3-95a07d1728a1",
+      "title": "パパルラ",
+      "artist": "内田真礼",
+      "isrc": "JPPC02410060",
+      "releaseDate": "2024-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/28f9rNTw4BBCOXtETSZD1a",
+      "isFallback": false
+    },
+    {
+      "id": "4ad018a0-f7b2-4f90-af53-bd269f21fa7d",
+      "title": "らららら☆ラブなミステリー",
+      "artist": "ココ",
+      "isrc": "",
+      "releaseDate": "2012-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "563a7be2-b50e-423e-85ec-ac1ca011cdc7",
+      "title": "オーロラフリル",
+      "artist": "吉河順央",
+      "isrc": "JPR502147575",
+      "releaseDate": "2021-05-04",
+      "spotifyUrl": "https://open.spotify.com/track/7hd0nygxaO7T92sNFTkV59",
+      "isFallback": true
+    },
+    {
+      "id": "8ea81ca8-64de-4b47-b794-32965f94c3cc",
+      "title": "Session High⤴",
+      "artist": "イロドリミドリ",
+      "isrc": "JPP301800474",
+      "releaseDate": "2018-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/140qzOSfzcuPr9DTHQMXz7",
+      "isFallback": true
+    },
+    {
+      "id": "a54ba528-ff81-4508-9c7e-0ccf6119dba9",
+      "title": "Magical革命Girl Rainy Ray",
+      "artist": "Ray",
+      "isrc": "JPPI01450620",
+      "releaseDate": "2014-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/1ijnQQdnZIh8aIM2exV2SW",
+      "isFallback": true
+    },
+    {
+      "id": "1eb6a3e9-fc41-4c45-8cde-611422ce30d2",
+      "title": "イタダキを目指せ!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400279",
+      "releaseDate": "2014-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/7cE6Qmf3CxGr7g6VJNtrTY",
+      "isFallback": true
+    },
+    {
+      "id": "16236b2a-fe24-455f-bd25-b73cb66ed1b8",
+      "title": "Resonant Heart",
+      "artist": "内田真礼",
+      "isrc": "JPPC01600630",
+      "releaseDate": "2016-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/6Dmz7QqAffssWfUjzxe9hD",
+      "isFallback": true
+    },
+    {
+      "id": "f9a9edce-cac3-467a-aaa3-3dce027faefe",
+      "title": "こんな歌",
+      "artist": "ななひら",
+      "isrc": "TCJPL2082104",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/5cJ0Io3eKSjyCNsVxLTtkI",
+      "isFallback": true
+    },
+    {
+      "id": "63d988da-87ef-4c2f-99a1-bda532776f7f",
+      "title": "なめんな！アシガールズ",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601200373",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/4FzCdTHjCDlbH7jJ2907uY",
+      "isFallback": true
+    },
+    {
+      "id": "5065ecf3-379e-4117-922c-4b6bf079c617",
+      "title": "THE SONG IS...",
+      "artist": "petit milady",
+      "isrc": "JPPO01413316",
+      "releaseDate": "2015-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/6MBZbUG2BwB9LIot1zH8G9",
+      "isFallback": true
+    },
+    {
+      "id": "bd52388c-9cb7-44e4-a424-b7771adcb835",
+      "title": "デートプラン",
+      "artist": "ななひら",
+      "isrc": "JPJ931500284",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/61oDlHpH7oQ0rZ2RUcJBN0",
+      "isFallback": true
+    },
+    {
+      "id": "ffdc9fe8-e47b-45ae-81ed-18b166004bc3",
+      "title": "わくドキしたいっ!",
+      "artist": "i☆Ris",
+      "isrc": "JPB601500687",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/2ZmliMp7Ov2d8bDB1RDpEQ",
+      "isFallback": true
+    },
+    {
+      "id": "d38efdf9-ccf0-4187-8445-a0440393c019",
+      "title": "Limits (Nothing But Requiem Remix)",
+      "artist": "Nothing But Requiem",
+      "isrc": "",
+      "releaseDate": "2024-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f147b934-ca39-4f30-af8a-85800dba4ec8",
+      "title": "Red Alert Carpet",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01500100",
+      "releaseDate": "2015-05-13",
+      "spotifyUrl": "https://open.spotify.com/track/3txNz9ueJoPtWe4DCSDapl",
+      "isFallback": true
+    },
+    {
+      "id": "566b2c61-d9ee-4f6c-9fef-9a57a6eb8feb",
+      "title": "Miracle",
+      "artist": "ヒュウガ",
+      "isrc": "JPG751300575",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/3L2Zd7DebmysISvMi2QEdR",
+      "isFallback": true
+    },
+    {
+      "id": "f6ab9f2e-a050-437c-ae47-9143f15a4363",
+      "title": "フェイス",
+      "artist": "三澤紗千香",
+      "isrc": "JPQ461400157",
+      "releaseDate": "2014-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/5MHi3IzIBHvYr3q9P4VZ1r",
+      "isFallback": true
+    },
+    {
+      "id": "f612c9fe-2515-4053-abd8-bc0988ecec4d",
+      "title": "いただき☆ハイテンション",
+      "artist": "ガーリッシュ ナンバー",
+      "isrc": "JPPI01601350",
+      "releaseDate": "2016-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/1sikB1BzroD5AfYikQB99h",
+      "isFallback": true
+    },
+    {
+      "id": "4a974a8d-0fa6-4877-9e5a-e23cbc630caf",
+      "title": "SPICY THE LIFE",
+      "artist": "ピリペッパーズ",
+      "isrc": "JPPC01800647",
+      "releaseDate": "2018-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/51KC9t7WGHdjd3JKTG6S6r",
+      "isFallback": false
+    },
+    {
+      "id": "201a9298-80f4-4936-9abd-0d55f302cc9c",
+      "title": "ただいま参上！ 電波シスター☆",
+      "artist": "ふぉれすとぴれお",
+      "isrc": "",
+      "releaseDate": "2011-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2a0ee895-a8fd-4315-8444-25affa113400",
+      "title": "マイべすとfriend",
+      "artist": "高千穂麗",
+      "isrc": "JPVI01535210",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/1zMJDQ7pPHKPCgyot9jOpl",
+      "isFallback": true
+    },
+    {
+      "id": "02cfd3c6-7cc5-41b8-986b-4aafc95b67ef",
+      "title": "Dear Next Song",
+      "artist": "ななひら",
+      "isrc": "TCJPX2399895",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3bLxDwFAeiEhvSybWKsD7Z",
+      "isFallback": false
+    },
+    {
+      "id": "a4f7d52e-2e3b-405f-b055-7ebd666e58f7",
+      "title": "Distorted World",
+      "artist": "内田真礼",
+      "isrc": "JPPC01502457",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/3W1VmE6c7XoauNEo9q1lF7",
+      "isFallback": true
+    },
+    {
+      "id": "4b94d09c-165f-4632-952c-ded5f2f3d5c7",
+      "title": "ログアウトしないで!",
+      "artist": "Fuki",
+      "isrc": "",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e42abb8c-77db-4682-905f-cee32883efe4",
+      "title": "Maybe LOVE OK?",
+      "artist": "ポヤッチオ",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05f0cc00-d86f-4e8a-a2a8-5dd9c6ce19b6",
+      "title": "Bloom",
+      "artist": "ガーリッシュ ナンバー",
+      "isrc": "JPPI01601200",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/57P9M73qWX0Uu1H4NbzMYU",
+      "isFallback": true
+    },
+    {
+      "id": "4e1c4eee-acb0-4c5e-a35d-507cbe27c15a",
+      "title": "恋愛したいっ!",
+      "artist": "藤女生徒会執行部",
+      "isrc": "",
+      "releaseDate": "2013-09-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ffadeb1f-a0ac-4cf1-9568-e10d1594f0e4",
+      "title": "かくれんぼコロンブス",
+      "artist": "ラブリコット",
+      "isrc": "TCJPN2187184",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7MLCHOFiDIuoRzskpSaXdR",
+      "isFallback": true
+    },
+    {
+      "id": "33de2a51-dd23-4ffa-95b1-668356179f6f",
+      "title": "アイマイ☆シェイキーハート",
+      "artist": "内田真礼",
+      "isrc": "JPPC01402035",
+      "releaseDate": "2014-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/1VKAUpU7M6Fgu73IigXlsW",
+      "isFallback": true
+    },
+    {
+      "id": "23eccb62-3340-4422-91cf-e714a0ca035a",
+      "title": "Life is like a sunny day",
+      "artist": "内田真礼",
+      "isrc": "JPPC01500750",
+      "releaseDate": "2015-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/6Ep39x80Nw6en3kchFUgGs",
+      "isFallback": true
+    }
+  ]
+}

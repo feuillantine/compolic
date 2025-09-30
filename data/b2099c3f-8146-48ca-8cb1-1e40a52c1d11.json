@@ -1,0 +1,24 @@
+{
+  "name": "ああああ",
+  "sortName": "アアアア",
+  "tracks": [
+    {
+      "id": "4570273c-e3fd-420b-84be-bfd7875caee1",
+      "title": "魔法のむすびかた",
+      "artist": "天満ニア",
+      "isrc": "TCJPT2208028",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/0hzcqkeinV6PsaYlZKhpsL",
+      "isFallback": true
+    },
+    {
+      "id": "fad594df-5e63-4173-8b23-0efe24bd2989",
+      "title": "Starry Story",
+      "artist": "AAAA",
+      "isrc": "TCAJT2565680",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/3c9Reds9SZqc6zoLqBbycD",
+      "isFallback": true
+    }
+  ]
+}

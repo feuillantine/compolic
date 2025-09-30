@@ -1,0 +1,213 @@
+{
+  "name": "木下龍平",
+  "sortName": "キノシタリュウヘイ",
+  "tracks": [
+    {
+      "id": "1b2300b0-6f57-488b-9457-119d870e9ddf",
+      "title": "Who2",
+      "artist": "赤井はあと",
+      "isrc": "JPV752509890",
+      "releaseDate": "2025-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/30xY9Aa0ONG1mAMIiWm2DF",
+      "isFallback": true
+    },
+    {
+      "id": "32fb2879-ca37-48b4-8f67-aa831691f39e",
+      "title": "ハッピーマイガーデン",
+      "artist": "木下ひなた",
+      "isrc": "JPI102103475",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/3bp8XyWEnKM6g1IaSIKQ0G",
+      "isFallback": false
+    },
+    {
+      "id": "0ceefc5e-9e6a-4c06-895f-88795e65d693",
+      "title": "カメラ越しのジレンマ",
+      "artist": "天乃リリサ",
+      "isrc": "JPPC02510842",
+      "releaseDate": "2025-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/0WXTu7tt7YI82ZEoMNC9qy",
+      "isFallback": true
+    },
+    {
+      "id": "6f972f5e-652e-4692-98a1-14c34c3b6164",
+      "title": "フェイクファーワルツ",
+      "artist": "Myuk",
+      "isrc": "JPU902203480",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le",
+      "isFallback": false
+    },
+    {
+      "id": "1e6b57ed-7d67-4eb4-af1a-f3b1e55eca3d",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562200427",
+      "releaseDate": "2022-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y",
+      "isFallback": false
+    },
+    {
+      "id": "67e024e7-69fc-488d-acaa-6651ef60814c",
+      "title": "キミの隣",
+      "artist": "ノノア",
+      "isrc": "JPPC02510844",
+      "releaseDate": "2025-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/6dFhjWq48tGSvfaS0mseXS",
+      "isFallback": true
+    },
+    {
+      "id": "7302de00-1298-43e2-a721-836bd27c81d0",
+      "title": "孤壊牢",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400188",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/1wdCBeiYlPtjdNOcTwtYyQ",
+      "isFallback": true
+    },
+    {
+      "id": "725359ac-f12a-4f2b-a679-7c37555ea26a",
+      "title": "声の在り処",
+      "artist": "ダズビー",
+      "isrc": "JPPO02200559",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/0yyiuQI1oqucjHvk8N7NDo",
+      "isFallback": true
+    },
+    {
+      "id": "1b98ccef-31b0-4c4c-b155-79dd4ff388d3",
+      "title": "ちゅーして",
+      "artist": "あたし",
+      "isrc": "JPR652300087",
+      "releaseDate": "2023-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/7cZMTlr9jGtYXhENCgKwGF",
+      "isFallback": false
+    },
+    {
+      "id": "48e22574-2066-44ca-bac8-6032364981b7",
+      "title": "おかえりなさい",
+      "artist": "ときのそら",
+      "isrc": "JPVI02402150",
+      "releaseDate": "2024-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/3UO9hRTBfDbWcBLSS7mX1J",
+      "isFallback": false
+    },
+    {
+      "id": "70b2673e-93e0-4bc0-83f2-df7b2c1159f8",
+      "title": "BORN TO BE PRINCESS",
+      "artist": "周央サンゴ",
+      "isrc": "JPY252200022",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/7tUbmtDQ2fVulPnHzDLY0a",
+      "isFallback": false
+    },
+    {
+      "id": "d3e1f0be-be80-48c7-881d-b3a0cf5976af",
+      "title": "惑わす星",
+      "artist": "SorAZ",
+      "isrc": "JPVI02304739",
+      "releaseDate": "2023-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4GVk01l59GXmpqtEZjIWlm",
+      "isFallback": true
+    },
+    {
+      "id": "7353582e-b719-484e-bcc4-0f1aa3f1636d",
+      "title": "NTMUエイリアン",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02302270",
+      "releaseDate": "2023-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/5zeBtyzdFBijyE4FyBhbsh",
+      "isFallback": false
+    },
+    {
+      "id": "8dcfeefc-e22a-4eb6-aacf-03138a4faa27",
+      "title": "チヨノオーのお悩み相談室のうた",
+      "artist": "サクラチヨノオー",
+      "isrc": "JPZ922302390",
+      "releaseDate": "2023-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/718PWeUI86Ee5Sf9r5Ez0S",
+      "isFallback": false
+    },
+    {
+      "id": "61fab65c-6bec-4d00-9900-dd9e6ffd78a9",
+      "title": "輪符雨",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400098",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/2CpOwhHun6CiA9CvpXZHBP",
+      "isFallback": false
+    },
+    {
+      "id": "dec1f63f-d4c2-424d-af32-ceaf77320172",
+      "title": "フシギトラベラー",
+      "artist": "TRICK&TREAT",
+      "isrc": "JPI102001345",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3hfU6DldAvkBFalIpwYo0x",
+      "isFallback": false
+    },
+    {
+      "id": "de475360-4f84-45a2-9dee-fe1567cb5bc6",
+      "title": "ほんとしょーがない",
+      "artist": "halca",
+      "isrc": "JPU902402673",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/0dwmEuqNk9MuezZQpwYoI7",
+      "isFallback": true
+    },
+    {
+      "id": "8f36f235-a56c-49c8-9493-492ff190974b",
+      "title": "迷っちゃうわ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902502138",
+      "releaseDate": "2025-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/697VztbYN7WJq6ByRnZZ7E",
+      "isFallback": false
+    },
+    {
+      "id": "41c30f72-ec30-474b-a1e3-7650ce628f6f",
+      "title": "碧天伴走",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562300277",
+      "releaseDate": "2023-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2fONHmoAIfMMklC7P9d6d1",
+      "isFallback": false
+    },
+    {
+      "id": "62ca1442-84f3-4677-916e-cc9612a1580b",
+      "title": "World Is Mine!",
+      "artist": "Machico",
+      "isrc": "JPCO02303960",
+      "releaseDate": "2023-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/5vN7YEsCIQ5AKiqYveGJbh",
+      "isFallback": true
+    },
+    {
+      "id": "a6fe1e30-a1fc-4453-8af9-f383737d69b6",
+      "title": "はじまるウェルカム",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02218230",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/439i7gOaoPP2NoWcdNsYfZ",
+      "isFallback": false
+    },
+    {
+      "id": "8e4f542a-9f75-45d8-ac69-2308f303658a",
+      "title": "顔",
+      "artist": "Ave Mujica",
+      "isrc": "JPR562500066",
+      "releaseDate": "2025-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1",
+      "isFallback": true
+    },
+    {
+      "id": "6fa91bd9-0ea1-448b-b728-5addb57e6f1f",
+      "title": "笑っちゃお！",
+      "artist": "ダイタクヘリオス",
+      "isrc": "JPZ922209311",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/3Cwi59PEn5WuWDcdF30Xqz",
+      "isFallback": false
+    }
+  ]
+}

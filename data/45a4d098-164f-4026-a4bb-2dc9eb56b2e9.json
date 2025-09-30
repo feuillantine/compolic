@@ -1,0 +1,177 @@
+{
+  "name": "irucaice",
+  "sortName": "イルカアイス",
+  "tracks": [
+    {
+      "id": "1bc7f8d0-d649-4bcd-b438-aa37baf06a21",
+      "title": "Melty Cream Soda",
+      "artist": "すずしろ",
+      "isrc": "TCJPQ2101155",
+      "releaseDate": "2021-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/1vFgT8l1TBR2LhUuM3Ie0l",
+      "isFallback": true
+    },
+    {
+      "id": "72c64bb0-3d1d-488d-81b6-c79e6a2f01c0",
+      "title": "アイスクリーム・エンジェルズ",
+      "artist": "irucaice",
+      "isrc": "JP92E2301194",
+      "releaseDate": "2024-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/51J8uRZdB3ewE0rbhpxsCX",
+      "isFallback": true
+    },
+    {
+      "id": "a26e29ea-59fd-47d9-8456-ca5aa934443b",
+      "title": "海辺のシトラス",
+      "artist": "柚子花",
+      "isrc": "TCJPV2361291",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/1nMeQGLqVlAtowlPj8qQ1I",
+      "isFallback": true
+    },
+    {
+      "id": "42177bbb-9455-4cf4-9f80-7358b5d11244",
+      "title": "Rainy Step",
+      "artist": "まめこ",
+      "isrc": "JPW462323794",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2waW8X2rHOcjcD5nLtbyVe",
+      "isFallback": true
+    },
+    {
+      "id": "1adcdf56-f94f-41a0-8371-b8303bbb0245",
+      "title": "My Lucky Weekend",
+      "artist": "miya",
+      "isrc": "TCJPQ2295731",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/3mAmgKjYbIQi7ruxBiOwru",
+      "isFallback": true
+    },
+    {
+      "id": "24571d79-7828-4009-b97e-d1c2b5d7eddc",
+      "title": "Rainbow Rush Story(Long ver.)",
+      "artist": "irucaice",
+      "isrc": "JP92E2301195",
+      "releaseDate": "2024-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/3p8tL2guksSsQnhaeM8Ejt",
+      "isFallback": true
+    },
+    {
+      "id": "27ed6cd6-d905-4003-909d-951d3583cfe0",
+      "title": "Lucky☆Honey☆Pancake",
+      "artist": "irucaice",
+      "isrc": "TCJPQ2106388",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/0ruCjJoYSidLKljPmtbiB7",
+      "isFallback": false
+    },
+    {
+      "id": "2b8d4b5d-c93d-4380-a490-1f5e176b17c8",
+      "title": "Streaming Love",
+      "artist": "irucaice",
+      "isrc": "JP92E2301196",
+      "releaseDate": "2024-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/6bviuyfiCyPrHLqZ3Rx2uS",
+      "isFallback": true
+    },
+    {
+      "id": "0ede2dd4-e79f-41a8-9ac4-4921f1ca15a3",
+      "title": "金平糖と恋のホロスコープ",
+      "artist": "irucaice",
+      "isrc": "TCJPS2277059",
+      "releaseDate": "2022-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/2QKy4cbvqqC3WBv6NwZAsg",
+      "isFallback": false
+    },
+    {
+      "id": "aaa6c15e-dde6-46dd-89bb-004998326798",
+      "title": "Fairy Tale Angel Star",
+      "artist": "irucaice",
+      "isrc": "TCAJU2565210",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5BhBLnr5JQ3L6kJ7diTpF4",
+      "isFallback": true
+    },
+    {
+      "id": "62ac7d48-ee81-4b75-8dd6-5c60ff036468",
+      "title": "青空ポッピンサマー",
+      "artist": "ちょこ",
+      "isrc": "TCJPZ2432408",
+      "releaseDate": "2023-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/5rIc3SRXbSanCajVNsseq6",
+      "isFallback": true
+    },
+    {
+      "id": "e0f0d464-af1a-477c-b54e-599b64f001d3",
+      "title": "Colorful Tune Quester",
+      "artist": "ことの",
+      "isrc": "TCJPC2449963",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/3l3SGayYhf6BtjbOmFsHrs",
+      "isFallback": false
+    },
+    {
+      "id": "e16a9db1-c53e-4900-800d-2f19a6896ba0",
+      "title": "天上天下的シアワセ論",
+      "artist": "irucaice",
+      "isrc": "TCJPY2344464",
+      "releaseDate": "2024-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/7xURvjPqsfQgSbW0e0DfIa",
+      "isFallback": false
+    },
+    {
+      "id": "9da221df-fdc1-4e3d-809c-7e956a85e9e3",
+      "title": "シンデレラ・マジック・ステージ",
+      "artist": "電音部",
+      "isrc": "JPR502206446",
+      "releaseDate": "2022-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/5SDdNLOOzCyMNOcJy4DNZ3",
+      "isFallback": true
+    },
+    {
+      "id": "31b74e3f-0c8e-4445-a160-f0885afb35cb",
+      "title": "Stellar Magic Night",
+      "artist": "ちょこ",
+      "isrc": "TCJPO2186548",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/65Aj8PgxjKRrNT92sB9I2u",
+      "isFallback": true
+    },
+    {
+      "id": "62c2afe5-19f8-4df1-a390-ca90bf5a9f15",
+      "title": "very * berry * planet",
+      "artist": "ちょこ",
+      "isrc": "TCJPK2025704",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0Mv5oX9lX9EZ0CUq3JCDrZ",
+      "isFallback": true
+    },
+    {
+      "id": "ee17ecc5-8b13-4370-acc8-6cd6e9413941",
+      "title": "わたあたチェンジャー",
+      "artist": "電音部",
+      "isrc": "JPR502509741",
+      "releaseDate": "2025-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/4JuIwEjYUN18wQLeeeXA3v",
+      "isFallback": true
+    },
+    {
+      "id": "2627ae29-bb9f-4982-9448-01c514848fdc",
+      "title": "Colorful Tune Quester",
+      "artist": "irucaice",
+      "isrc": "JP92E2301197",
+      "releaseDate": "2024-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/1MwLlIRaDkbU0MEtw8U7U5",
+      "isFallback": true
+    },
+    {
+      "id": "7fefd871-9e64-4b15-9da2-4355bd51dd26",
+      "title": "バーチャルヒーロー",
+      "artist": "loveちゃん",
+      "isrc": "TCJPU2347808",
+      "releaseDate": "2023-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/1XnJ7vcNePxyQI4J8AsBg7",
+      "isFallback": true
+    }
+  ]
+}

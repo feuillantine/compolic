@@ -1,0 +1,366 @@
+{
+  "name": "原口沙輔",
+  "sortName": "ハラグチサスケ",
+  "tracks": [
+    {
+      "id": "c6a1a0af-b8d1-4ae9-b7dc-411648cbd04f",
+      "title": "ミニ偏",
+      "artist": "原口沙輔",
+      "isrc": "TCJPZ2434405",
+      "releaseDate": "2024-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/4mA1hS0Q4iBqqYqZnvPqHX",
+      "isFallback": true
+    },
+    {
+      "id": "983b1535-a177-4c39-acbd-cbb28a1e8d0c",
+      "title": "還して",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386120",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/5y55sHxnRrpgpkfSA5R1bY",
+      "isFallback": false
+    },
+    {
+      "id": "fc17873e-e18c-4f23-9b19-16881e95715f",
+      "title": "見ましょう",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386118",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/2E40rdrtVsT3FuI8smE0Tt",
+      "isFallback": false
+    },
+    {
+      "id": "5d3a8c62-2288-4d63-8041-95225071c530",
+      "title": "ハート111",
+      "artist": "ゆーり",
+      "isrc": "JPVI02303850",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/53YHW8TOsgNrMANmGjN5ew",
+      "isFallback": true
+    },
+    {
+      "id": "00ba5e04-c927-49a3-93f7-4871bf302fe0",
+      "title": "手",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386148",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/4P2uXhGg7fABRBbkL0kgBC",
+      "isFallback": false
+    },
+    {
+      "id": "51bee017-4ab8-4cf2-8b79-c859400c5ca1",
+      "title": "スクリーンI",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358782",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/0tFw1XCbbYEw5HpTTBu53n",
+      "isFallback": false
+    },
+    {
+      "id": "df8f7822-6088-411b-88eb-f88c81b210fc",
+      "title": "スクリーンII",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358789",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3zGsNIZCiPJHRHOM2MPLSS",
+      "isFallback": false
+    },
+    {
+      "id": "522b3f29-f6e5-4e6d-91fd-81743be85be8",
+      "title": "無言葉",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386131",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/3q6ZOeLn5ye8rCTARJAkTA",
+      "isFallback": false
+    },
+    {
+      "id": "de858fe9-8b5d-4c77-af2a-5f0d10e28063",
+      "title": "きゅびずむ",
+      "artist": "超てんちゃん",
+      "isrc": "TCJPB2409973",
+      "releaseDate": "2024-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/3nU95pYDkUy3mAWViqbB8o",
+      "isFallback": true
+    },
+    {
+      "id": "e465c0df-2652-475b-929b-8ff33f1249fe",
+      "title": "しんかしんかしんか",
+      "artist": "原口沙輔",
+      "isrc": "JP92Q2401542",
+      "releaseDate": "2024-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/4irvh5PItOnmPyl20kqdg8",
+      "isFallback": true
+    },
+    {
+      "id": "97f48f3a-f20d-4625-ba06-808232000ac4",
+      "title": "カシカ",
+      "artist": "ゆーり",
+      "isrc": "JPVI02401807",
+      "releaseDate": "2024-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/3CMVxo0CyWRGhy8lZrbzVw",
+      "isFallback": true
+    },
+    {
+      "id": "a5d44468-f081-4b68-b2f8-ef6e41cc5f46",
+      "title": "贋ト旧称",
+      "artist": "原口沙輔",
+      "isrc": "TCJPG2540603",
+      "releaseDate": "2025-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/7CtYGFCSWDsVCbY530TSLE",
+      "isFallback": true
+    },
+    {
+      "id": "99ac7dfa-f78d-4e25-b318-22b590183b08",
+      "title": "ピーキーピーキー",
+      "artist": "ゆーり",
+      "isrc": "JPVI02400834",
+      "releaseDate": "2024-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/3YEw2eZaZNl7agAfF1mtyu",
+      "isFallback": true
+    },
+    {
+      "id": "2b95cd3b-ec39-4c8a-a4e5-174ec91662f7",
+      "title": "アコトバ",
+      "artist": "原口沙輔",
+      "isrc": "TCJPY2359815",
+      "releaseDate": "2023-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/509RdzBStm43V8pfo4uQo9",
+      "isFallback": false
+    },
+    {
+      "id": "b048682d-784f-4a23-9821-ef4153e9a0cc",
+      "title": "膿",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358791",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3BjfdqzbD1s84OvHUBRa9Z",
+      "isFallback": false
+    },
+    {
+      "id": "22354ed6-8c02-4900-bfcf-311447761ca0",
+      "title": "涙",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386128",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/1uplqfsyRupD8ZKh0Ge2fW",
+      "isFallback": false
+    },
+    {
+      "id": "f3a3d0dd-bc15-4e9f-926e-bb51154fc929",
+      "title": "明明",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358787",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/61j3Fb9sxSInI0PLdGLRVM",
+      "isFallback": false
+    },
+    {
+      "id": "b3bf18b7-4528-47c7-bdf0-bab7ce7a91e4",
+      "title": "菌",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358798",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Fddek8IS29yXXZPYt2mMo",
+      "isFallback": false
+    },
+    {
+      "id": "3f37d32d-5b28-4b78-be3b-ded9bd9eb731",
+      "title": "無ートピア",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386139",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/6mbCglSdLjzXK1D6SuJqxR",
+      "isFallback": false
+    },
+    {
+      "id": "9476b770-ccb7-43af-a739-77309964a5ba",
+      "title": "回路",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358794",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/6uyyKf9YHMGtr73naAZE9B",
+      "isFallback": false
+    },
+    {
+      "id": "168666a9-082a-420c-9f4a-b098a0a9557a",
+      "title": "戻りさせて",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386143",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/0vlS3RD0Lb1G6Pq5vTFYYE",
+      "isFallback": false
+    },
+    {
+      "id": "3ed3a46f-383e-455b-8376-9d1219b6e8b7",
+      "title": "ユレ弧",
+      "artist": "原口沙輔",
+      "isrc": "TCJPA2465790",
+      "releaseDate": "2024-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/2ylPO5n0vjSPp3CwC3kedb",
+      "isFallback": true
+    },
+    {
+      "id": "43516e1a-fcd4-46fd-965c-5f0f98046c02",
+      "title": "ホントノ",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2378979",
+      "releaseDate": "2023-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/2bDvYxR8leKDGlaOZiwCQ7",
+      "isFallback": false
+    },
+    {
+      "id": "b063449a-83c1-47d3-a1e8-43cd059abb25",
+      "title": "為に",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386151",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/6DNiU9VFG0vO7TUTEh9FJE",
+      "isFallback": false
+    },
+    {
+      "id": "82ae97c7-0a69-456d-af5b-94c5e92d5404",
+      "title": "ポップコーン!!",
+      "artist": "MAISONdes",
+      "isrc": "JPU902400999",
+      "releaseDate": "2024-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/4ZHsFzpBYqtnwtKIQcHKHs",
+      "isFallback": true
+    },
+    {
+      "id": "b4b5c588-821d-4d85-b996-2cdc5dc01ed9",
+      "title": "遠くで居て",
+      "artist": "りぶ",
+      "isrc": "JPVI02501048",
+      "releaseDate": "2025-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/36awhduMKE4nIOqrvCzTEH",
+      "isFallback": true
+    },
+    {
+      "id": "180ef15b-ed8c-4d37-ac39-d11cce2080dc",
+      "title": "カンタンミュージック",
+      "artist": "ゆーり",
+      "isrc": "JPVI02402819",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/4rnvQyfrahBidXHGuzi5rk",
+      "isFallback": true
+    },
+    {
+      "id": "7ccf3e0a-7d17-4cbf-974b-2cfeaa932040",
+      "title": "電機",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358781",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/5PwQXaPha1RDydze1Jqa2r",
+      "isFallback": false
+    },
+    {
+      "id": "997643d8-368e-4e24-bafc-1781af164c42",
+      "title": "思い出した",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386154",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/6ts88GIQk1vjZXwrLz1SWl",
+      "isFallback": false
+    },
+    {
+      "id": "46a217a9-d8bd-4e44-a4c3-172a03495e2b",
+      "title": "初",
+      "artist": "初星学園",
+      "isrc": "JPX832004702",
+      "releaseDate": "2024-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/57FixxAqlbcbQdg9fIG5Ep",
+      "isFallback": true
+    },
+    {
+      "id": "5803a441-9d2d-4254-bcd6-8d384bd70715",
+      "title": "人マニア",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2315264",
+      "releaseDate": "2023-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j",
+      "isFallback": false
+    },
+    {
+      "id": "d12bde28-2645-4ab9-a310-a757d32af4c6",
+      "title": "オン",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358780",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/2l1STNMLEnto3WJtxyQ2Zg",
+      "isFallback": false
+    },
+    {
+      "id": "da59637b-9fc5-4e7c-8fc3-a5d8f0882373",
+      "title": "アセトン",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386147",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/236rWyioyzhA2Af3PXeBdH",
+      "isFallback": false
+    },
+    {
+      "id": "68cf541f-a8fc-48f8-904a-d70619e7c38a",
+      "title": "空気",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358800",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/4rnd85VYv0y4MnUg9X6fZY",
+      "isFallback": false
+    },
+    {
+      "id": "ce75890c-c3cc-4298-99a5-0b50174f81e1",
+      "title": "愛想",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386124",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/1bcTTUYt5Y5KIG7rgELPNb",
+      "isFallback": false
+    },
+    {
+      "id": "9db6faaf-7693-4a2b-8599-080036dbace7",
+      "title": "あの場所はね",
+      "artist": "原口沙輔",
+      "isrc": "TCJPV2386133",
+      "releaseDate": "2023-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/0NvjCNsInGptzJsCLbhiHF",
+      "isFallback": false
+    },
+    {
+      "id": "4b763a46-f3cc-404a-9ea2-a180622906aa",
+      "title": "オフ",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358801",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3xppSiWGWpIdLzAOjGNz9F",
+      "isFallback": false
+    },
+    {
+      "id": "79c14b2c-91de-4be2-adfa-7097012bdd61",
+      "title": "終わり",
+      "artist": "原口沙輔",
+      "isrc": "TCJPX2358785",
+      "releaseDate": "2023-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/1E9ylqJenskrLUv2cnrb89",
+      "isFallback": false
+    },
+    {
+      "id": "49745470-0439-419b-975c-b8c7f49dae11",
+      "title": "歌うbot",
+      "artist": "原口沙輔",
+      "isrc": "TCJPA2446304",
+      "releaseDate": "2024-05-20",
+      "spotifyUrl": "https://open.spotify.com/track/2Ihf0kqtWi1bgCtqFJhfQE",
+      "isFallback": true
+    },
+    {
+      "id": "340fd45c-c9b3-4be5-a8cb-1469742c00e3",
+      "title": "イガク",
+      "artist": "原口沙輔",
+      "isrc": "TCJPZ2455806",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I",
+      "isFallback": true
+    }
+  ]
+}

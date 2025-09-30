@@ -1,0 +1,24 @@
+{
+  "name": "小川翔",
+  "sortName": "オガワショウ",
+  "tracks": [
+    {
+      "id": "f83944cb-428d-4f0b-b15b-f66ae4ca5c08",
+      "title": "See you in Montauk",
+      "artist": "kiki vivi lily",
+      "isrc": "JPCO02026400",
+      "releaseDate": "2020-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/2Xe6DNp6RyBSMrapZOlZdU",
+      "isFallback": true
+    },
+    {
+      "id": "6266aed1-1836-48e7-ba27-5025dd30cb9e",
+      "title": "I WANNA 罠?",
+      "artist": "大比良瑞希",
+      "isrc": "JPP302300417",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/4PhisoynSqh9QMBMwFICTA",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "name": "増谷賢",
+  "sortName": "マスタニケン",
+  "tracks": [
+    {
+      "id": "64ad7083-572b-4101-83f8-1f0f13940e9c",
+      "title": "Smile Go Round",
+      "artist": "由比ヶ浜結衣",
+      "isrc": "JPPI01352960",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/7gCBntnWPtbmG6DscFYHwt",
+      "isFallback": true
+    },
+    {
+      "id": "7ab672c9-c441-4802-8cfe-4100df183219",
+      "title": "JUMP!!!",
+      "artist": "藍井エイル",
+      "isrc": "JPU901501650",
+      "releaseDate": "2015-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/6uhpwJs3nWHOnJPzIdDj8m",
+      "isFallback": true
+    },
+    {
+      "id": "fe5703ea-37ff-46ee-aec3-191584df7280",
+      "title": "Prologue 〜Candy Lips〜",
+      "artist": "春奈るな",
+      "isrc": "JPU901500570",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/4Y4rqYCogWqNvrIQWAJXgB",
+      "isFallback": true
+    },
+    {
+      "id": "3b220e46-97ea-4691-a1a6-b1f3c2391f13",
+      "title": "コヨーテが鳴いている",
+      "artist": "WHITE SCORPION",
+      "isrc": "JPKI02315365",
+      "releaseDate": "2024-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/1ad8e3BYHcPZ9lAVkbafVi",
+      "isFallback": true
+    },
+    {
+      "id": "fe85d345-7d42-4eaa-96ac-f953d13da8c5",
+      "title": "サマ☆トリ 〜Summer trip〜",
+      "artist": "北上麗花",
+      "isrc": "JPI101401809",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/01b1hzMM6ASsAwRZ9BksZr",
+      "isFallback": false
+    },
+    {
+      "id": "a5341a87-f87e-47da-9d6e-b7de270c2190",
+      "title": "NOVAレボリューション",
+      "artist": "StylipS",
+      "isrc": "JPI101400095",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4TkoH7isztxY0jFjcxur1y",
+      "isFallback": true
+    },
+    {
+      "id": "b81a1e02-2ca8-4c2b-aa07-0bf23346185e",
+      "title": "僕たち宣言",
+      "artist": "戸塚彩加",
+      "isrc": "JPPI01352930",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/6ahwY9tbeHHmT0PzGEprEn",
+      "isFallback": true
+    },
+    {
+      "id": "8a977950-48b5-41e8-bdb1-6cc04a091551",
+      "title": "ミライ*ガール",
+      "artist": "天誅ガールズ",
+      "isrc": "JPPI01451720",
+      "releaseDate": "2014-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/28lqPhfphP3VfapoPf0nc9",
+      "isFallback": true
+    },
+    {
+      "id": "06d3ab72-bec8-4a0d-8fdb-ed9817bfe6f5",
+      "title": "HP∞L♡VE Power(idol dance ver)",
+      "artist": "4女神合唱",
+      "isrc": "JPK631303403",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7ebb757-1e43-47ae-b7f2-35dbd3fe8eb6",
+      "title": "アフタースクールパーリータイム",
+      "artist": "所恵美",
+      "isrc": "JPI101301565",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/25DliXdeWLl2NFEKUYCYyP",
+      "isFallback": false
+    },
+    {
+      "id": "8be67e67-f7a4-47b9-84de-24e8d53a098c",
+      "title": "ヘルプルミミ",
+      "artist": "中川かのん",
+      "isrc": "JPPI01350020",
+      "releaseDate": "2013-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/3krPanhDnbAXrz9S09jbD2",
+      "isFallback": true
+    },
+    {
+      "id": "97221d0c-42b3-45fe-821f-df84bac18db9",
+      "title": "ドレミファソラシドのうた",
+      "artist": "伊藤かな恵",
+      "isrc": "JPI101401387",
+      "releaseDate": "2014-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/6pMvUJgkq9w5XhNGHShYx4",
+      "isFallback": true
+    },
+    {
+      "id": "743bad0f-f670-41d3-86ae-8b6daf8b28a1",
+      "title": "キミのソンリッサ",
+      "artist": "天宮えれな",
+      "isrc": "JPD601900118",
+      "releaseDate": "2019-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0tVvfbR1TsYu2XHVDX08yX",
+      "isFallback": true
+    },
+    {
+      "id": "46741383-1cce-4a70-91c7-2368c2d072d4",
+      "title": "Growing Going",
+      "artist": "内田彩",
+      "isrc": "JPZ921412319",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/6msaQFRgKFGPPn10o7RsW8",
+      "isFallback": true
+    },
+    {
+      "id": "af6ca088-4a2b-4fdc-aaae-a4c8bc7b085c",
+      "title": "勇気のReason",
+      "artist": "園田海未",
+      "isrc": "JPI101201239",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/4lFrXhNvigz4MjIAQ0FQ4X",
+      "isFallback": true
+    },
+    {
+      "id": "7df5cb90-115f-4312-8f2e-389ea212bfd8",
+      "title": "夢色トレイン",
+      "artist": "箱崎星梨花",
+      "isrc": "JPI101401808",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/43WOgh92scvqudeRjRIPdK",
+      "isFallback": false
+    },
+    {
+      "id": "ca6ab5e9-04a2-427a-b2b7-c797d0683613",
+      "title": "ミラクル",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01722830",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/4dlfiRAgLXlDGEhypz9BYw",
+      "isFallback": true
+    },
+    {
+      "id": "40617f55-4c9d-4bae-8cb2-0aa4e179fd95",
+      "title": "ラムネ色の日曜日",
+      "artist": "木下秀吉",
+      "isrc": "",
+      "releaseDate": "2011-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09623973-5d9e-4154-98f2-284dde3dc041",
+      "title": "恋は U La ♥ LOVE",
+      "artist": "グリーンハート",
+      "isrc": "",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a974e117-a982-4505-843f-a05f590cb117",
+      "title": "優しくつもる言葉の花",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01500080",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/3MYsA7F2am07ikqDmnLFqo",
+      "isFallback": true
+    },
+    {
+      "id": "65f71fac-0c29-494c-b827-1709898625e5",
+      "title": "Hearty!!",
+      "artist": "所恵美",
+      "isrc": "JPI101800547",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1NHI4qrE0LtANN2wsRxAad",
+      "isFallback": false
+    },
+    {
+      "id": "3d5f1b04-e020-4c59-a310-d4b6fa06a8c4",
+      "title": "I wish you happiness",
+      "artist": "南條愛乃",
+      "isrc": "JPPI02000470",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/1MB2hcAew3EInLWG1TKLWI",
+      "isFallback": true
+    },
+    {
+      "id": "7d605006-64e4-48d9-b4cc-1ff3dae410a2",
+      "title": "微笑んだから、気づいたんだ。",
+      "artist": "双海亜美",
+      "isrc": "JPI101400874",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0hYM4ylfju0irg3Tbg6mNj",
+      "isFallback": false
+    },
+    {
+      "id": "76eddd40-c53a-4cb1-968e-fdbd1c9f4db5",
+      "title": "+1day",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01500470",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/2Pp1kXx1M0WJ7c746frSBC",
+      "isFallback": true
+    },
+    {
+      "id": "f0a81e4e-9a34-4a68-af3a-d0690f4c4c71",
+      "title": "君にクレッシェンド",
+      "artist": "雪ノ下雪乃",
+      "isrc": "JPPI01554540",
+      "releaseDate": "2015-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5q7RlsD5S1mC7g36UUDabO",
+      "isFallback": true
+    },
+    {
+      "id": "0bda5765-b630-4ede-be52-c9272b742801",
+      "title": "believe in myself",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01500420",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/4QhKhv60zbszt8riYXtuTe",
+      "isFallback": true
+    },
+    {
+      "id": "5ec7e9ba-e589-4f00-9bd9-13c7f6beffa7",
+      "title": "Do my best!",
+      "artist": "槇喜屋澄香",
+      "isrc": "",
+      "releaseDate": "2017-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e372100-7b71-432f-9479-05a3b6e5335f",
+      "title": "希望の絆",
+      "artist": "ChouCho",
+      "isrc": "JPI101600125",
+      "releaseDate": "2016-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/3JHj6JhHsuxQbJhmxiU0JR",
+      "isFallback": true
+    },
+    {
+      "id": "1c4f5bd0-9b53-465f-8225-fd2192fd254b",
+      "title": "Melty Moment",
+      "artist": "Ceui",
+      "isrc": "",
+      "releaseDate": "2015-05-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2b83d701-a607-4d3f-8205-16a9b2783f72",
+      "title": "純真クライシス",
+      "artist": "春奈るな",
+      "isrc": "JPU901701588",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/5l7uWiz53oZFtKqQqvxsQ2",
+      "isFallback": true
+    },
+    {
+      "id": "bf04e9ca-ff56-451d-90f9-403c71e63318",
+      "title": "マイペース☆マイウェイ",
+      "artist": "福田のり子",
+      "isrc": "JPI101302392",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/1hzR3dTlmurFJKUil153g5",
+      "isFallback": false
+    },
+    {
+      "id": "c0dd3d82-8f38-45d8-b33b-d4c220bb185b",
+      "title": "Let’s go! All day long!",
+      "artist": "折本かおり",
+      "isrc": "JPPI01554490",
+      "releaseDate": "2015-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/2Lr4sNx5UB8SbPjRjVyID0",
+      "isFallback": true
+    },
+    {
+      "id": "160a9421-824e-4bbd-95d3-442b22adaa44",
+      "title": "ハルカナミライ",
+      "artist": "天海春香",
+      "isrc": "JPI101501920",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/2aKMK4hXple1Fv2Tq6VP70",
+      "isFallback": false
+    },
+    {
+      "id": "b433da9f-f2a6-46fd-9572-27d3753f2c81",
+      "title": "永い余白を越えて",
+      "artist": "吉岡亜衣加",
+      "isrc": "JPV201300815",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4SbTaUEWxgJ0vAK2gNGklJ",
+      "isFallback": true
+    },
+    {
+      "id": "1a93d708-089f-402f-99c4-d0747617a694",
+      "title": "打ち上げ花火",
+      "artist": "伊藤かな恵",
+      "isrc": "JPI101401386",
+      "releaseDate": "2014-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/3Ppvg7laxkVAvZEGrDdqL1",
+      "isFallback": true
+    },
+    {
+      "id": "ff3f28e9-9db8-4701-9990-32aff504c41b",
+      "title": "虹の素",
+      "artist": "=LOVE",
+      "isrc": "JPU901900903",
+      "releaseDate": "2019-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/13kVbgTKnrnig2ovaLn7pJ",
+      "isFallback": true
+    },
+    {
+      "id": "be50b907-df7d-4ec8-ac16-7c5bcdf4a72b",
+      "title": "ENERGY☆SMILE",
+      "artist": "大橋彩香",
+      "isrc": "JPI101500053",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/492ALYvVu2SAYI1Ipj4zds",
+      "isFallback": true
+    },
+    {
+      "id": "caeaa086-c58a-48ee-bc90-86da408d1319",
+      "title": "変わる空の下",
+      "artist": "雪ノ下雪乃",
+      "isrc": "JPPI01554470",
+      "releaseDate": "2015-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/1wZTYiJp0DkkDo0wKWS99X",
+      "isFallback": true
+    },
+    {
+      "id": "e29ace51-4855-42ef-a286-05ce78e98618",
+      "title": "ひたむき Girl",
+      "artist": "手塚ゆみみ",
+      "isrc": "",
+      "releaseDate": "2017-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d438a19-3754-43be-a326-5c6ade5c9a1a",
+      "title": "デコレーション・ドリ〜ミンッ♪",
+      "artist": "周防桃子",
+      "isrc": "JPI101400608",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/2jZralvEO9VhLO1zkSMTFX",
+      "isFallback": false
+    },
+    {
+      "id": "6efa0a8e-8247-450d-9b7d-86df5a71e36a",
+      "title": "さようならへさよなら!",
+      "artist": "μ’s",
+      "isrc": "JPI101600118",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/57H5pm6L38AC2D9L7h1Kfe",
+      "isFallback": true
+    },
+    {
+      "id": "212fcb28-49b8-4755-a62b-7bcd16f7dc50",
+      "title": "雪解けに咲いた花",
+      "artist": "雪ノ下雪乃",
+      "isrc": "JPPI01352970",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/2jXVSQljWj1H3D5LK7G7we",
+      "isFallback": true
+    },
+    {
+      "id": "2533626b-0a8f-4c43-a042-94fc0b8f4e44",
+      "title": "今という未来へ",
+      "artist": "一色いろは",
+      "isrc": "JPPI02050380",
+      "releaseDate": "2020-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3BCbi5Gha2sjBQ7Bu1rMql",
+      "isFallback": true
+    },
+    {
+      "id": "b96ac665-ae9f-405d-be0f-9b8ec2290083",
+      "title": "U・N・M・E・I ライブ",
+      "artist": "春日未来",
+      "isrc": "JPI101401022",
+      "releaseDate": "2014-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/3bxCc67XAQFLdSMuTDkAUE",
+      "isFallback": false
+    },
+    {
+      "id": "ca775977-03a0-4c72-9555-2d8b83c51952",
+      "title": "I'm in the side",
+      "artist": "Duca",
+      "isrc": "",
+      "releaseDate": "2015-10-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8b790bb7-e6f2-4cf9-9ee2-fcfa1e23bb43",
+      "title": "鏡のデュアル・イズム",
+      "artist": "petit milady",
+      "isrc": "JPPO01334985",
+      "releaseDate": "2013-05-15",
+      "spotifyUrl": "https://open.spotify.com/track/0OCWyEQTkg9t1iafsdj8ym",
+      "isFallback": true
+    },
+    {
+      "id": "ef34714c-b339-4169-b2a1-7614ac33fc7f",
+      "title": "君とMerry Christmas",
+      "artist": "雪ノ下雪乃",
+      "isrc": "JPPI01400060",
+      "releaseDate": "2014-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cfd1f30e-de66-4f5f-b9ab-03e330811687",
+      "title": "ハートのスープ",
+      "artist": "渡辺麻友",
+      "isrc": "JPSR01203787",
+      "releaseDate": "2012-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/48w606sBoTbQqUGoXV74dS",
+      "isFallback": true
+    },
+    {
+      "id": "9d5829b4-6f5c-4cec-93e8-1ca25df0f1e3",
+      "title": "HP∞L♡VE Power(idol dance ver) _off vocal",
+      "artist": "ベール",
+      "isrc": "",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ff002674-4208-4744-9320-aa31b38c6a4c",
+      "title": "繋がりの歌",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01900760",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/39gLdzMvnbVLzBYobgAqQZ",
+      "isFallback": true
+    },
+    {
+      "id": "0e2ca500-59bc-480d-a590-688bf45a1b16",
+      "title": "Helloコンチェルト",
+      "artist": "秋月律子",
+      "isrc": "JPI101302937",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/16z62vLIUmJIeKwftmWZ3j",
+      "isFallback": false
+    },
+    {
+      "id": "30c065c0-805c-49f5-b01d-d055e72c8424",
+      "title": "君色シグナル",
+      "artist": "春奈るな",
+      "isrc": "JPU901402355",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/3wyWRt8myEL5o432jUXioi",
+      "isFallback": true
+    },
+    {
+      "id": "446a38a0-dab6-44d5-a9f3-4f583346e163",
+      "title": "サクラタイマー",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01900100",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/3lxuRUrttVmnolSVEXNjCQ",
+      "isFallback": true
+    },
+    {
+      "id": "3ee74fae-06a3-4d37-9c91-4b1542d589ba",
+      "title": "絵本",
+      "artist": "北沢志保",
+      "isrc": "JPI101401811",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/6vqkAibnpE7h7Y7fn3cVrF",
+      "isFallback": false
+    },
+    {
+      "id": "8fd77b45-568f-4d99-b7b2-c03242ab6107",
+      "title": "ヒマワリGood Days",
+      "artist": "比企谷小町",
+      "isrc": "JPPI01352950",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/6FOC7SP443uUl9EUpPvFsK",
+      "isFallback": true
+    },
+    {
+      "id": "2063700f-7f1e-49b7-a0a4-2b9419f0e8ef",
+      "title": "いつか君が大人になるまで",
+      "artist": "平塚静",
+      "isrc": "JPPI01554520",
+      "releaseDate": "2015-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0w1N5pT6PeXJEBWozEU4xK",
+      "isFallback": true
+    },
+    {
+      "id": "6da5d425-f400-42a2-9aed-a9ae805156b1",
+      "title": "白い季節の約束",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01700610",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/6QitpNupQCFg0Cr6ETj6rn",
+      "isFallback": true
+    },
+    {
+      "id": "a531e509-126d-4a93-a087-2ef6e5080350",
+      "title": "恋心マスカレード",
+      "artist": "二階堂千鶴",
+      "isrc": "JPI101400604",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/3aE9QB4JOQY1fFWiOTZG9A",
+      "isFallback": false
+    },
+    {
+      "id": "79b4bbbc-16ba-48a0-b77b-0a6196adf49e",
+      "title": "HP ∞ L♡VE Power",
+      "artist": "ベール",
+      "isrc": "",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4e0059e-8993-4199-8799-3188b045983f",
+      "title": "恋想チケット",
+      "artist": "深水陽菜",
+      "isrc": "",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9e57c0bd-7d23-4597-81cd-25a8f0a66460",
+      "title": "恋のスライディングゴール",
+      "artist": "能登有沙",
+      "isrc": "JPI101303055",
+      "releaseDate": "2013-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/0eDIBQvKbuLhkJBe26Ddjk",
+      "isFallback": true
+    },
+    {
+      "id": "db634801-d409-4f48-bcef-a4a5089aeb55",
+      "title": "君がいるから",
+      "artist": "MCわたりん",
+      "isrc": "JPPI02050450",
+      "releaseDate": "2020-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1xTPSJCdECqr6O68dEHvwP",
+      "isFallback": true
+    },
+    {
+      "id": "ae37ae22-a71c-4611-a6c6-de88bbd77ec7",
+      "title": "0-未来-",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01600830",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/3VskUfLEZk1Lqln0AGXk2n",
+      "isFallback": true
+    },
+    {
+      "id": "fa8078cb-0923-4347-8a53-6f8b461340ed",
+      "title": "君がいてくれたから",
+      "artist": "Duca",
+      "isrc": "JPV201400199",
+      "releaseDate": "2014-01-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9ec3744-0408-48b9-9ba0-f25524a693f9",
+      "title": "Dear..",
+      "artist": "南條愛乃",
+      "isrc": "JPPI01600820",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/2Rx4502nKligUUnjiBf61f",
+      "isFallback": true
+    },
+    {
+      "id": "2bbde028-bbeb-427c-9d34-c8b0d424af09",
+      "title": "regret",
+      "artist": "葉山隼人",
+      "isrc": "JPPI02050390",
+      "releaseDate": "2020-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1qEJIXxyLn1q6arfbU5tCp",
+      "isFallback": true
+    },
+    {
+      "id": "39213470-2468-4922-a095-d495d134f43c",
+      "title": "HP∞L♡VE Power(idol dance ver)",
+      "artist": "ベール",
+      "isrc": "",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

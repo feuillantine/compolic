@@ -1,0 +1,348 @@
+{
+  "name": "宮野弦士",
+  "sortName": "ミヤノゲント",
+  "tracks": [
+    {
+      "id": "ff429a3b-858a-4e98-9812-0a24da0df498",
+      "title": "超めでたいソング〜こんなに幸せでいいのかな？〜",
+      "artist": "FRUITS ZIPPER",
+      "isrc": "JPR842000200",
+      "releaseDate": "2023-05-04",
+      "spotifyUrl": "https://open.spotify.com/track/3M1I6zcJWSNDa2Hx9pFlCL",
+      "isFallback": false
+    },
+    {
+      "id": "85ca8a6d-5905-4cb7-9bf5-f30609bcc9b5",
+      "title": "ギュギュギュとTight",
+      "artist": "KOTO",
+      "isrc": "TCJPB2493929",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/3gmqq1uVZPkCwzmtM5VNET",
+      "isFallback": true
+    },
+    {
+      "id": "64f91150-78bb-4771-88b2-b117ef0008e7",
+      "title": "透けるインサイド",
+      "artist": "SAWA",
+      "isrc": "TCJPP2199985",
+      "releaseDate": "2022-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/26MSprR2nPlh6YHTYCgvbt",
+      "isFallback": false
+    },
+    {
+      "id": "480f8001-95f9-485b-8985-aaa2e96446ad",
+      "title": "Airy-Fairy Dancing time!",
+      "artist": "Alleles Project",
+      "isrc": "TCJPX2385053",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/0s8kMUrwJ0YEyrTYcccwfo",
+      "isFallback": false
+    },
+    {
+      "id": "34502533-dff4-44f8-90e6-bddd65f0ac76",
+      "title": "SWITCH！",
+      "artist": "ぐんまちゃん",
+      "isrc": "JPCO02122650",
+      "releaseDate": "2021-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/5M97I1wlVy87r59Veu41Jr",
+      "isFallback": false
+    },
+    {
+      "id": "8810e2ff-f357-4289-897f-1ada45682d42",
+      "title": "はじめまして未来",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700359",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/6CBlQ8zba1u3EG7J7fW3q0",
+      "isFallback": false
+    },
+    {
+      "id": "adaffeb0-b75f-4638-9f6c-7cbb1c9ceee6",
+      "title": "ライブ・ライフ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301800505",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/1B7XMEuO7LV9n3H4yeLNlZ",
+      "isFallback": false
+    },
+    {
+      "id": "95f3f318-07b8-4341-b650-6c413fd282d5",
+      "title": "ニュー・アタラクシア",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700446",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/54N9bB9HKU7bMcYgWVbevB",
+      "isFallback": false
+    },
+    {
+      "id": "a5a10148-c572-4ad3-b497-eb6e4c0ca6ea",
+      "title": "いつか大人になって",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301600433",
+      "releaseDate": "2016-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/4LGO2xvolNy5DYkaP6aD5P",
+      "isFallback": false
+    },
+    {
+      "id": "78e9dbed-7130-4e09-8e3c-5efe1a8434b6",
+      "title": "ジャスト・メモリーズ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700308",
+      "releaseDate": "2017-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/1SwpQrl2Z2DRx0Vdh1LDt1",
+      "isFallback": false
+    },
+    {
+      "id": "bb7db5f6-cc89-4d05-b0bd-86b5a8f36d2d",
+      "title": "スキャンダラスKISS〜 final act〜",
+      "artist": "CUBERS",
+      "isrc": "JPB822303680",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/1dJhaxmN10PVj8dKF9QiOu",
+      "isFallback": false
+    },
+    {
+      "id": "a38ea4c8-eb3d-4bf5-bb90-0e36e2f39941",
+      "title": "告白はサマー",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301600281",
+      "releaseDate": "2016-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5K9tf8iCFZUSnmnU4qViAl",
+      "isFallback": false
+    },
+    {
+      "id": "492a8c07-e4c8-470e-8749-69a307d20f52",
+      "title": "ライク・ア・ゾンビ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700149",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3FXAIwq7Pv2FWVjVIN6GIC",
+      "isFallback": false
+    },
+    {
+      "id": "e3e33eee-15c5-4293-961f-0cb7c93151d3",
+      "title": "kissはあげない",
+      "artist": "東京女子流",
+      "isrc": "JPB601801583",
+      "releaseDate": "2018-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/6PSeOxhtE0G5KGhXKgt655",
+      "isFallback": true
+    },
+    {
+      "id": "1cf8d66a-3d36-435e-8fc8-c5d2bd8e008b",
+      "title": "TOKYO WATASHI COLLECTION",
+      "artist": "TINGS",
+      "isrc": "JPT552200447",
+      "releaseDate": "2022-05-15",
+      "spotifyUrl": "https://open.spotify.com/track/0gnDCbZjrznV2xZLjQguo7",
+      "isFallback": false
+    },
+    {
+      "id": "c768701a-45fa-4b47-97b2-8f2d852f2513",
+      "title": "アイム・アフター・タイム",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301600338",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2A1QSr3ZBY3ixnASSY4T6c",
+      "isFallback": false
+    },
+    {
+      "id": "9e1f5662-1ced-4edd-93b7-0d5bef6007cf",
+      "title": "ダンス・オア・ダンス",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301900478",
+      "releaseDate": "2019-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/3rkVGUsV6DYzsVZ5Q7v5mY",
+      "isFallback": false
+    },
+    {
+      "id": "b77a5964-2d82-4fa6-a481-0d61bba15f14",
+      "title": "イッツ・マイ・ターン",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301800508",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/13AyN4xnrZqZAuVUNj17iB",
+      "isFallback": false
+    },
+    {
+      "id": "1784302f-cafe-4fdc-96cd-2dfbfbe3a9e0",
+      "title": "アイドル・フィロソフィー",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301600437",
+      "releaseDate": "2016-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/4v7qx7NX1MKqhbszLqmtnD",
+      "isFallback": false
+    },
+    {
+      "id": "82da5cdf-acac-4ea3-aa04-96a6db97dcb1",
+      "title": "好感度あげたい!",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301600353",
+      "releaseDate": "2016-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/00g6CEu8aniQwIKophXii9",
+      "isFallback": false
+    },
+    {
+      "id": "a3eaad52-08b7-402c-ac08-fab327e224a0",
+      "title": "輝きin my love",
+      "artist": "文坂なの",
+      "isrc": "JPS801954921",
+      "releaseDate": "2022-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/7csIdoPCN8HjNYetZp4zgM",
+      "isFallback": false
+    },
+    {
+      "id": "b48f8799-017b-456f-a94f-c5d441ebe401",
+      "title": "ラブ・バリエーション",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301800281",
+      "releaseDate": "2018-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/56W52KNbT4IYWQzJcBJ55e",
+      "isFallback": false
+    },
+    {
+      "id": "70d6ee3a-5bad-4a80-afe7-8dc5702de0b6",
+      "title": "キミのこと",
+      "artist": "井口裕香",
+      "isrc": "JPQ462000129",
+      "releaseDate": "2020-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/1YB7TINUODgl4NyKup3Meu",
+      "isFallback": true
+    },
+    {
+      "id": "d16bc4ab-3ba3-4844-bfe3-ac8d554da29a",
+      "title": "ダンス・ファウンダー",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700441",
+      "releaseDate": "2017-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/0KSnxQTzGwUB2ZiJ5AO6z6",
+      "isFallback": false
+    },
+    {
+      "id": "117a9e39-11ae-4134-b5a6-b4fd9b6afa02",
+      "title": "すききらいアンチノミー",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700038",
+      "releaseDate": "2015-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/2zsDb1zl0gGaPalO1kYod5",
+      "isFallback": false
+    },
+    {
+      "id": "e56e4665-421f-41e6-b623-15e14bf389de",
+      "title": "チェリーなシークレット",
+      "artist": "星川サラ",
+      "isrc": "JPR502300930",
+      "releaseDate": "2023-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/4iLe5rmbYgidc36805n8ao",
+      "isFallback": true
+    },
+    {
+      "id": "65b23779-138a-46c4-823b-b15c94ad153d",
+      "title": "ヒューリスティック・シティ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301800898",
+      "releaseDate": "2018-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/2cwUD1RDEXBMJLlz19NDYJ",
+      "isFallback": false
+    },
+    {
+      "id": "a0d7b823-f0fc-4d91-85e6-5da5ea15e4e3",
+      "title": "週末メリーゴーランド",
+      "artist": "ごいちー",
+      "isrc": "JPB622100240",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/4eCuDQVJEnPjaDnsi0Xfnk",
+      "isFallback": false
+    },
+    {
+      "id": "167bf6a0-cfc1-40e5-a0d9-58f9abfaf0a7",
+      "title": "シークレットジュエル ～魅惑の金剛石～",
+      "artist": "水瀬伊織",
+      "isrc": "JPI102102059",
+      "releaseDate": "2021-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK",
+      "isFallback": false
+    },
+    {
+      "id": "e917d379-9ab5-4692-99e9-f3290d26a9fe",
+      "title": "水色のSunday",
+      "artist": "唐可可",
+      "isrc": "JPI102200181",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg",
+      "isFallback": false
+    },
+    {
+      "id": "697a50b1-67f3-40d2-bd47-3ad9cd82886e",
+      "title": "物体A",
+      "artist": "7セグメント",
+      "isrc": "TCJPX2310830",
+      "releaseDate": "2023-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3pfLc6CuwJQrUqefZJsdXc",
+      "isFallback": false
+    },
+    {
+      "id": "d5eb2ca3-d028-46f1-ae6b-8311b4c7a9da",
+      "title": "シスター",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301900629",
+      "releaseDate": "2019-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/2uDq9aI9y2x1PTkp4Avf67",
+      "isFallback": false
+    },
+    {
+      "id": "6d60d978-6e49-4b5e-a1ef-573a7f8460c9",
+      "title": "ハッピー・エンディング",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301900138",
+      "releaseDate": "2019-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/2r9Esca2go3w2PwmsHiycu",
+      "isFallback": true
+    },
+    {
+      "id": "e8fa5f63-05e9-4c03-b299-518a0051b868",
+      "title": "オール・ウィ・ニード・イズ・ラブストーリー",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700039",
+      "releaseDate": "2016-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/04SiEXHFxT9tYFo1SXiIG6",
+      "isFallback": false
+    },
+    {
+      "id": "b824dfe9-17d4-43cb-abe9-bc9125a6fd75",
+      "title": "Oh! レディ・ステディ・ポジティブ",
+      "artist": "唐可可",
+      "isrc": "JPI102102684",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1msqLcldA2XpzxX87F9hji",
+      "isFallback": true
+    },
+    {
+      "id": "b2fbc728-6c28-4492-8760-4e9c8e81840f",
+      "title": "I'mNotAYesMan",
+      "artist": "Fenomeno",
+      "isrc": "JP92N2388181",
+      "releaseDate": "2024-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/62O7EqOfw47ssojbaU1okD",
+      "isFallback": false
+    },
+    {
+      "id": "3258a6b5-d5cd-413e-9a23-2f0d74783dd8",
+      "title": "スーパーヴィーニエンス",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301900053",
+      "releaseDate": "2019-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/2dCPAQ1qfMTVPSA6LW7wZc",
+      "isFallback": false
+    },
+    {
+      "id": "cae6107f-2e81-437a-874b-81864acf4738",
+      "title": "ネクスト・クリスマス",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301800109",
+      "releaseDate": "2018-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/1watYZJxWwCNGzyS0bhg0f",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "原田夏樹",
+  "sortName": "ハラダナツキ",
+  "otherNames": [
+    "evening cinema"
+  ],
+  "tracks": [
+    {
+      "id": "37ca2ae8-774f-4498-8db3-c882beadcd32",
+      "title": "ほら やっぱりね",
+      "artist": "針尾ありさ",
+      "isrc": "JPZ922207682",
+      "releaseDate": "2022-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/5yWIyJ6iCoJBJlwmD9Yw5F",
+      "isFallback": true
+    },
+    {
+      "id": "66b665e6-d352-4617-9205-2b5f0db7ca8a",
+      "title": "summertime",
+      "artist": "cinnamons",
+      "isrc": "TCJPI1830537",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/7rtKceNHEhqDXDpDlMYkrh",
+      "isFallback": true
+    },
+    {
+      "id": "26fdee2c-37aa-41a0-8bf3-75e80b0259b9",
+      "title": "言わせたいキモチ",
+      "artist": "cinnamons",
+      "isrc": "TCJPV2395382",
+      "releaseDate": "2023-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/49zhRaw2fxWp1Pkoylq1p9",
+      "isFallback": false
+    },
+    {
+      "id": "a45bb036-3caa-4c45-ae57-9a671de611a8",
+      "title": "刹那",
+      "artist": "evening cinema",
+      "isrc": "TCJPX2309598",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Sc6zW5CdpylR8jXEt8iZp",
+      "isFallback": false
+    },
+    {
+      "id": "d358b087-fa80-41d4-a3a6-ab8808bc3a76",
+      "title": "冬のトキメキ",
+      "artist": "cinnamons",
+      "isrc": "TCJPI1830397",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/0X7ZX1EHmP84O4qYASyTZB",
+      "isFallback": true
+    },
+    {
+      "id": "ccb41e0c-c0bf-4024-84cf-7e1f6d03431c",
+      "title": "ため息さえも",
+      "artist": "文坂なの",
+      "isrc": "JPS801964276",
+      "releaseDate": "2023-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2GdQRedEcK2oeL2if5pbbq",
+      "isFallback": false
+    },
+    {
+      "id": "346d0048-890d-46ef-860f-64f559fa28af",
+      "title": "ハイファイ・スタイル",
+      "artist": "文坂なの",
+      "isrc": "JPS801958309",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/11U0P5PfadCkzeDEkwuaNu",
+      "isFallback": false
+    },
+    {
+      "id": "30cdd8b8-1210-47a9-bc0f-4020ce7cfbfc",
+      "title": "時を刻みながら",
+      "artist": "evening cinema",
+      "isrc": "JPB622400276",
+      "releaseDate": "2024-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/2s6OPsYVUAKtVNK1FzgSTU",
+      "isFallback": false
+    }
+  ]
+}

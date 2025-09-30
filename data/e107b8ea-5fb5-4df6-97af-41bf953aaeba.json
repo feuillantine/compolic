@@ -1,0 +1,1149 @@
+{
+  "name": "大久保薫",
+  "sortName": "オオクボカオル",
+  "tracks": [
+    {
+      "id": "011bc545-37a8-454a-8b14-97b8a2836296",
+      "title": "わたしの答え",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601700087",
+      "releaseDate": "2017-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/4TVNMLXliIga5LmqcHzTXE",
+      "isFallback": true
+    },
+    {
+      "id": "d75b9a41-ec29-4556-903c-b323a2bfb980",
+      "title": "SGC★スパイシー",
+      "artist": "S★スパイシー",
+      "isrc": "JPR651400086",
+      "releaseDate": "2014-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/1pWnKZcQ0fiq0ewLVNt2Mp",
+      "isFallback": true
+    },
+    {
+      "id": "e3367793-f35a-4a70-ad46-46e544d99201",
+      "title": "ありがとサンキュ",
+      "artist": "南 春香",
+      "isrc": "JPKI00912810",
+      "releaseDate": "2009-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/5ZpfikKGdgSa7uE0JvtENF",
+      "isFallback": true
+    },
+    {
+      "id": "3f428aa5-e23b-458b-8bb4-bded4e2f6b41",
+      "title": "お気楽マレット",
+      "artist": "CooRie",
+      "isrc": "JPI100902313",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f32ebf02-ab85-4d19-b21a-46ebb246608d",
+      "title": "コンプリイト",
+      "artist": "逢坂大河",
+      "isrc": "JPKI00911898",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/41dTMb6qjEpV0BQM4PqdZv",
+      "isFallback": true
+    },
+    {
+      "id": "87f2bef2-3efc-4d09-8553-8108deac2d3e",
+      "title": "マジカルハートこころのうた",
+      "artist": "亜城めぐ",
+      "isrc": "JPI100800283",
+      "releaseDate": "2010-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ebe4783-8cbc-4ecc-ac67-6bcf5fc34a03",
+      "title": "Non Stop 全力宣言",
+      "artist": "南夏奈",
+      "isrc": "JPKI01312324",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1XN4aGFxihnVLiU7Grhi1Y",
+      "isFallback": true
+    },
+    {
+      "id": "d1b512ad-7cc2-47dd-b223-1c2d5385c2ba",
+      "title": "プレパレード",
+      "artist": "逢坂大河",
+      "isrc": "JPKI00816082",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/0XT65K4AnBTrjq9x32aj8v",
+      "isFallback": true
+    },
+    {
+      "id": "0091eee3-233e-4d37-b538-d8596b3046fa",
+      "title": "光の先へ",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01517070",
+      "releaseDate": "2015-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3Ac8dvFWtLVSfia0uProYy",
+      "isFallback": false
+    },
+    {
+      "id": "39770c54-b0d9-4c9d-a083-295f77e9b28f",
+      "title": "Love Repair",
+      "artist": "石田燿子",
+      "isrc": "JPPI00550700",
+      "releaseDate": "2005-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a52f7132-f3be-482c-aa64-bd6d1739cbba",
+      "title": "ほんわか日常",
+      "artist": "CooRie",
+      "isrc": "JPI100902295",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2c89e567-547f-462c-ba1e-f7cc938adc6e",
+      "title": "クリスマスをやめないで!",
+      "artist": "N's",
+      "isrc": "JPPI00963920",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/03lfPMKGZP4DFikyqHWYRY",
+      "isFallback": true
+    },
+    {
+      "id": "7160d48a-2f11-47cc-b91f-3a2441fe484f",
+      "title": "ワイズマンのテーマ",
+      "artist": "ワイズマン",
+      "isrc": "JPPI01850780",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1qaO3wJ0qICk5dd5FqeRbY",
+      "isFallback": true
+    },
+    {
+      "id": "71bc25e0-4c71-42d1-a0b9-8763f8e6ebb7",
+      "title": "チクタクかくれんぼ",
+      "artist": "CooRie",
+      "isrc": "JPI100902286",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cfacd82d-627a-46b6-b125-220b73279f86",
+      "title": "わーいわーいトライ！",
+      "artist": "ココア",
+      "isrc": "JPPI01852200",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/3kCvalYaztGzJ3J7NsCdGJ",
+      "isFallback": true
+    },
+    {
+      "id": "b5c229ce-4107-4763-82f9-b8d1b344cde4",
+      "title": "シンフォニック・ラブ",
+      "artist": "橋本みゆき",
+      "isrc": "JPU571530001",
+      "releaseDate": "2009-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/1M4zMN9tjzcdKvjVBC25tS",
+      "isFallback": true
+    },
+    {
+      "id": "1054cb1f-c1a0-47ba-b5f7-d8150a73145e",
+      "title": "ス、キ、ダ、カ、ラ、ダ、カ、ラ",
+      "artist": "N's",
+      "isrc": "JPPI00964860",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/3f2UNlLBtcYUAlFkeoGwzj",
+      "isFallback": true
+    },
+    {
+      "id": "0a1412eb-0314-4a5b-b877-1a61ff38602e",
+      "title": "一匙のお姫さま物語",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01452660",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/7F5k2fWm1qu49yzwBHAwXC",
+      "isFallback": true
+    },
+    {
+      "id": "37b02818-7d92-4da0-8519-4648011aefce",
+      "title": "モンタージュ",
+      "artist": "美郷あき",
+      "isrc": "JPA450600378",
+      "releaseDate": "2006-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/7CPJ3rWvyKLDrTpreY5mwc",
+      "isFallback": true
+    },
+    {
+      "id": "d2e7748a-d604-4f63-8d79-ba4c31f40ec2",
+      "title": "ぴょん'sぷりんぷるん",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01551930",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/7djwmlIqNNJnLoBl8yZ8WR",
+      "isFallback": true
+    },
+    {
+      "id": "a7d05539-42f6-4532-bd95-6ab68f6adb96",
+      "title": "ジョン・ドゥ・パレード",
+      "artist": "ジョー・力一",
+      "isrc": "JPPO02304362",
+      "releaseDate": "2024-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/7KScdceg2YJ8b5jZ15dOLu",
+      "isFallback": true
+    },
+    {
+      "id": "f71c7326-1c90-42a1-b81c-104d4dc40b07",
+      "title": "Daydream café and dream!",
+      "artist": "Petit Rabbit’s",
+      "isrc": "",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f4eca0db-3586-434c-b335-560c94b6c4ee",
+      "title": "Till Morning Comes",
+      "artist": "倖田來未",
+      "isrc": "JPB600211907",
+      "releaseDate": "2002-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/4H2KF5LyzFNIH2wzmMCbqZ",
+      "isFallback": true
+    },
+    {
+      "id": "bfe5ae6f-a0ef-4f76-9e88-4113b72c7e0b",
+      "title": "吐息 Scarlet…",
+      "artist": "結城アイラ",
+      "isrc": "JPI100800274",
+      "releaseDate": "2008-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/0EEzTHsEI78Punea1hyUXw",
+      "isFallback": true
+    },
+    {
+      "id": "ad6f8837-0338-4300-8603-51f1645559ab",
+      "title": "TOHOHO",
+      "artist": "CooRie",
+      "isrc": "JPI100902308",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83b4c261-62b8-4027-9445-5d66c5e09234",
+      "title": "へーーーーっくち!～ルン時々、レン～",
+      "artist": "ルン",
+      "isrc": "",
+      "releaseDate": "2008-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0cc6e73-110b-49c4-a1f4-32a981411d36",
+      "title": "Daydream café",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01450380",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/5RhOCu953jAVm5R29Sow0i",
+      "isFallback": true
+    },
+    {
+      "id": "b94c8225-12da-41c8-afca-96ff04a3682b",
+      "title": "光の朝 ～Sound track version～",
+      "artist": "CooRie",
+      "isrc": "JPI100902284",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "549212ca-0909-4253-acea-faf27f96f312",
+      "title": "colorless wind",
+      "artist": "結城アイラ",
+      "isrc": "JPI100700451",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2P55ZlJWS7XE3HAZmxFJTu",
+      "isFallback": true
+    },
+    {
+      "id": "e60b65eb-ed63-4d97-ac1a-36bd0b8a716c",
+      "title": "世界はシャボン玉みたいだ",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601700083",
+      "releaseDate": "2017-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/2uIZotLBC2Z7mst9sTVfB9",
+      "isFallback": true
+    },
+    {
+      "id": "254df07a-87d8-4f06-a9c5-e6559d0f8364",
+      "title": "乙女恋は至難中",
+      "artist": "CooRie",
+      "isrc": "JPI100902312",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "194d7890-3b16-4fc4-8431-82571c5863e4",
+      "title": "エウロパ〜むかしむかし",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601700076",
+      "releaseDate": "2017-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/4DQSqm07j2EMW5v9SjrxV1",
+      "isFallback": true
+    },
+    {
+      "id": "6fc1fa7c-0101-4a9e-8f97-188146d89054",
+      "title": "君の笑顔、僕の想い、広がる宙へ",
+      "artist": "CooRie",
+      "isrc": "JPI100902292",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "068240f2-b0f5-4a42-9b1b-9c8318b0e1ca",
+      "title": "ハピハピ♪バースデイソング",
+      "artist": "Petit Rabbit's with beans",
+      "isrc": "",
+      "releaseDate": "2019-12-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d14c3c0-e1c9-412e-aab3-9a9d126554d3",
+      "title": "ウエスタンに想いを馳せて",
+      "artist": "CooRie",
+      "isrc": "JPI100902290",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0959930-fd18-4eab-9933-8f0ddb389028",
+      "title": "咲き誇れ",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601800247",
+      "releaseDate": "2018-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/4byO23AjOojTln7cNXSKHS",
+      "isFallback": true
+    },
+    {
+      "id": "ca660f5b-b056-4751-95f8-d0d984847db3",
+      "title": "スーパーマジカルーチェミラクル☆トゥルーパーマジカルーチェミラージュ",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI02100110",
+      "releaseDate": "2021-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/2ZFqmQk33o2Q2qPJglFb25",
+      "isFallback": true
+    },
+    {
+      "id": "481de9f1-6268-4a5c-8552-d55c3e1634f7",
+      "title": "奏で合う物語",
+      "artist": "CooRie",
+      "isrc": "JPI100902315",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f781d38e-245c-4be9-ba4a-8cc75da3f442",
+      "title": "夢見月のアリス",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00403636",
+      "releaseDate": "2004-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/2SUKI1gZVRLP0MJx1blzs9",
+      "isFallback": true
+    },
+    {
+      "id": "cc85213a-ad66-47a8-8eef-9bd6b3bf35a4",
+      "title": "ハートのコンパス",
+      "artist": "水野鈴芽",
+      "isrc": "JPE200402001",
+      "releaseDate": "2004-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8fd5226b-7f06-4d18-a8fd-aae1a5258c13",
+      "title": "天空カフェテリア",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI02050280",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7BeWfef26dtVwLI4cMtnBg",
+      "isFallback": true
+    },
+    {
+      "id": "5f34ce45-2e7d-4a12-82d6-d2235700e023",
+      "title": "ディアノイア",
+      "artist": "電気式華憐音楽集団",
+      "isrc": "",
+      "releaseDate": "2019-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a5be5735-17b4-4c02-8261-e9124c67b380",
+      "title": "キャンディーボックス",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601800045",
+      "releaseDate": "2018-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/7t2xy3JMXA5N0QLOOOwTH9",
+      "isFallback": true
+    },
+    {
+      "id": "0ed42e0a-b973-4edc-b044-32cec873a991",
+      "title": "100カラットジュエル☆",
+      "artist": "上原むつき",
+      "isrc": "JPKI00703426",
+      "releaseDate": "2007-05-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3556fbc3-9a0b-46ac-b5e9-257ccc54f3d6",
+      "title": "その声が聴きたくて",
+      "artist": "南 春香",
+      "isrc": "JPKI00710823",
+      "releaseDate": "2008-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6hjdlerMIzwV8oVMIgNURH",
+      "isFallback": true
+    },
+    {
+      "id": "7d143aa8-347e-40ad-a8c2-d0f369b727c4",
+      "title": "√HAPPYEND",
+      "artist": "逢坂大河",
+      "isrc": "JPKI01119182",
+      "releaseDate": "2012-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/2sP4jC7WAhyhBaGL6xslmR",
+      "isFallback": true
+    },
+    {
+      "id": "e22cea10-3e60-44aa-baae-a537c57456da",
+      "title": "ラリルレロンリー・ルーム",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601900367",
+      "releaseDate": "2019-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/5DIju4uueJlhrZIoI7Neze",
+      "isFallback": true
+    },
+    {
+      "id": "a10e80d2-7a4c-4d1a-8838-d967430ec6c9",
+      "title": "子守歌のように時間が流れる",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601700084",
+      "releaseDate": "2017-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/38cAOfOKBNo4s88RQBysra",
+      "isFallback": true
+    },
+    {
+      "id": "9abfd4ef-7133-4fb2-b07b-7bd39c3ff58a",
+      "title": "セカイがカフェになっちゃった!",
+      "artist": "Petit Rabbit's with beans",
+      "isrc": "JPPI01752570",
+      "releaseDate": "2017-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/3yfvwTUSMqmEiI9PBj8XNX",
+      "isFallback": true
+    },
+    {
+      "id": "36f38a03-9de8-46cc-82c9-0b73e48b37ce",
+      "title": "しんがーそんぐぱやぽやメロディー",
+      "artist": "Petit Rabbit's with beans",
+      "isrc": "JPPI01951740",
+      "releaseDate": "2019-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/39qSN0wRNUfNOrxaEUv2vm",
+      "isFallback": true
+    },
+    {
+      "id": "4b1018b2-5557-4f15-ba35-fa18cabfe6d6",
+      "title": "光のプリズム",
+      "artist": "大海恵",
+      "isrc": "JPE200303601",
+      "releaseDate": "2004-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "93749802-645f-478a-a232-90d7c7a80dbc",
+      "title": "My Tomorrow",
+      "artist": "大久保薫",
+      "isrc": "JPE200205402",
+      "releaseDate": "2002-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "192c942e-43c1-4444-93d2-073bb0e3c72e",
+      "title": "ガールズ ウォーク",
+      "artist": "道重さゆみ",
+      "isrc": "",
+      "releaseDate": "2018-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27eeb9f0-eba4-4137-9b9f-a1645162a816",
+      "title": "ふわふわバルーンが飛び出した!",
+      "artist": "フユ",
+      "isrc": "JPPI02151410",
+      "releaseDate": "2021-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4nB1kxbKKWQC02ioTTzcDD",
+      "isFallback": true
+    },
+    {
+      "id": "2f918ed5-24ce-4843-83b3-ca6626febc82",
+      "title": "弾む想い",
+      "artist": "CooRie",
+      "isrc": "JPI100902298",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "37c79abd-913c-4aba-8f83-d14644d16809",
+      "title": "なかよしセンセーション",
+      "artist": "ユニ",
+      "isrc": "JPCO01931570",
+      "releaseDate": "2019-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1WNcEIqSM1PNf89P03DphA",
+      "isFallback": false
+    },
+    {
+      "id": "8002d561-7ea2-4931-85a8-eaebad26cc6d",
+      "title": "再生〜わたしはここにいるわ〜",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601700078",
+      "releaseDate": "2017-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/0Oi7xZz4UK7x9ZYL0ow8vN",
+      "isFallback": true
+    },
+    {
+      "id": "0aeae0ac-bddf-4d90-95cb-0f1c665e5a9e",
+      "title": "ドタバタ日常",
+      "artist": "CooRie",
+      "isrc": "JPI100902299",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19336a96-db08-44b7-b256-e40a8e9ad98c",
+      "title": "“FA”NTASYと!",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI02102330",
+      "releaseDate": "2022-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/1YzPCJibqREcS7OUVwFZ4G",
+      "isFallback": true
+    },
+    {
+      "id": "8340735b-7b50-4b3a-8aae-0d578714ec80",
+      "title": "哀しみのボート",
+      "artist": "松田聖子",
+      "isrc": "JPPH09902430",
+      "releaseDate": "1999-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/24hg6UmWBvaZSzGjq7ucAC",
+      "isFallback": true
+    },
+    {
+      "id": "3e919ccf-24f6-4c0d-b88e-d271bdb116ff",
+      "title": "リリキュア GO!GO!",
+      "artist": "イヤボン戦士リリキュア(キッチリ、カフカ、普通)",
+      "isrc": "JPKI00812374",
+      "releaseDate": "2008-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/5LiRFbt1SIdf5ao9d2DhTG",
+      "isFallback": true
+    },
+    {
+      "id": "b5b10656-547f-42cf-8022-22b5f23919da",
+      "title": "1st Love Story",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI01600600",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6YXuQEC9zNdN3g67GaM3Eh",
+      "isFallback": true
+    },
+    {
+      "id": "966f6fce-91d4-4be3-9a99-7f5a89fc54ee",
+      "title": "ピチカートに恋してる",
+      "artist": "CooRie",
+      "isrc": "JPI100902302",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3cd4c3c5-b8c1-419b-a988-f2530b9d7fdd",
+      "title": "乙女パニック",
+      "artist": "富士原なえか",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e9b0baa-75ea-45db-bfc9-962a7fcac503",
+      "title": "ZUTTO 在る ココに",
+      "artist": "キュアエール",
+      "isrc": "JPD601800234",
+      "releaseDate": "2018-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/5HRpT0vvRGnT4YjjIBJB7y",
+      "isFallback": true
+    },
+    {
+      "id": "877ce730-1354-4f6b-bee1-e5b510755b63",
+      "title": "バラバラWONDER",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601800245",
+      "releaseDate": "2018-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/40bzTFw7SotjNqwpUH7og7",
+      "isFallback": true
+    },
+    {
+      "id": "b507489e-f54e-49e6-b1d7-67aeb9ac055e",
+      "title": "ふんわりエチュード",
+      "artist": "CooRie",
+      "isrc": "JPI100902300",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "684379da-f97e-486d-af4c-d8e4b38522d3",
+      "title": "僕はここにいる",
+      "artist": "rino",
+      "isrc": "",
+      "releaseDate": "2003-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "47f0df48-a802-47f5-981b-4233f627fd75",
+      "title": "夢見るままに恋をして",
+      "artist": "橋本みゆき",
+      "isrc": "",
+      "releaseDate": "2011-06-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "359af1d4-7fd3-4270-a5b6-9b2a1cd1f61d",
+      "title": "Choose Bright!!",
+      "artist": "葉山奈由",
+      "isrc": "JPKI00918767",
+      "releaseDate": "2010-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/7mLsWBQBpL41vASJn1WeeI",
+      "isFallback": true
+    },
+    {
+      "id": "df2dcf59-ea33-4551-9061-74ade804759e",
+      "title": "TORAUMA",
+      "artist": "CooRie",
+      "isrc": "JPI100902304",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8f99f2f4-c772-40c8-b81a-ee8bb3f15890",
+      "title": "ノーポイッ！",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01501170",
+      "releaseDate": "2015-10",
+      "spotifyUrl": "https://open.spotify.com/track/6myPgHXMuxEj61FRmUAZJk",
+      "isFallback": true
+    },
+    {
+      "id": "d50693e4-7125-40d1-9288-0848014b0cf6",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南 春香",
+      "isrc": "JPKI01218072",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/4wPDdZk4dAHs0PqLJm31zn",
+      "isFallback": true
+    },
+    {
+      "id": "bab17a63-6a7f-4b81-b37d-72dc85ba4f3b",
+      "title": "サンバでサマー",
+      "artist": "CooRie",
+      "isrc": "JPI100902307",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "232cfe50-ab9a-41d1-bf3e-5c108fbdfdbc",
+      "title": "Days-愛情と日常-",
+      "artist": "AiM",
+      "isrc": "JPE200103401",
+      "releaseDate": "2001-10-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59d75278-5096-4b02-8c2c-11e508d4f45d",
+      "title": "1000%SPARKING!",
+      "artist": "ネギ・スプリングフィールド",
+      "isrc": "JPKI00607272",
+      "releaseDate": "2006-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9271d2aa-f4d1-49ae-8014-89ab80838b2a",
+      "title": "まかせてティーチャー",
+      "artist": "マコト",
+      "isrc": "JPKI00913929",
+      "releaseDate": "2009-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/4YpU9h2ftWa3ZsbbZYEZFG",
+      "isFallback": true
+    },
+    {
+      "id": "cbd9155d-5556-41f7-b8dd-7a55337b5b64",
+      "title": "恋とビキニと雨予報",
+      "artist": "西連寺春菜",
+      "isrc": "",
+      "releaseDate": "2008-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "864b04f5-7f72-470d-9190-708ac1b982bb",
+      "title": "アリアリ未来☆",
+      "artist": "高梨奈緒",
+      "isrc": "JPKI01017611",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4de59910-26c7-416a-adbc-12fafd69a482",
+      "title": "いつだってLove&Dream",
+      "artist": "麻帆良学園中等部2-A",
+      "isrc": "",
+      "releaseDate": "2004-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a533802-41de-4aab-8a09-7bb718c1ac07",
+      "title": "恋しかなかった",
+      "artist": "結城アイラ",
+      "isrc": "JPI100700452",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0e8sK2HmVzXYp5dNvJdihx",
+      "isFallback": true
+    },
+    {
+      "id": "accec283-b14a-4075-9f87-c8969274b2a2",
+      "title": "WELCOME【う・さ!】",
+      "artist": "ココア",
+      "isrc": "JPPI01651610",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/4yAxOB1ztSVDyRbBPfZWyS",
+      "isFallback": true
+    },
+    {
+      "id": "3eabfe10-9b54-4520-93d1-e4f1319ea2cf",
+      "title": "恋のWa・Wo・N",
+      "artist": "七尾百合子",
+      "isrc": "JPI102103473",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/1nNIBIcsyWAmVsU2aTbK7T",
+      "isFallback": false
+    },
+    {
+      "id": "387d7059-462c-4184-9d68-7fccf7b2affb",
+      "title": "ひだまりDIARY",
+      "artist": "ティオ",
+      "isrc": "JPE200405101",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "997f9a0f-cfbb-4292-880f-423a07bf8953",
+      "title": "フーミン協奏曲",
+      "artist": "CooRie",
+      "isrc": "JPI100902282",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1ab3676-b1d9-4043-9896-6bd190afacdf",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01551540",
+      "releaseDate": "2015-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/78nOv98dWgcXJjPMdPEtxr",
+      "isFallback": true
+    },
+    {
+      "id": "a29b7e8c-7593-47c2-9e1a-c1a38575d923",
+      "title": "ピコピコBOSSA",
+      "artist": "CooRie",
+      "isrc": "JPI100902288",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d5f9458-29cc-4d9c-abb8-0102ac3630b6",
+      "title": "PON de Fighting!",
+      "artist": "小倉唯",
+      "isrc": "JPKI01213612",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/0fe5udCD9RnTKnQjEeruy4",
+      "isFallback": true
+    },
+    {
+      "id": "bd3861f0-648c-4c29-a96b-46f859b3ad6f",
+      "title": "テキスタイルPOP",
+      "artist": "折笠富美子",
+      "isrc": "JPPI00765870",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/0lsfOw6TLvVb6IV4JNb3BT",
+      "isFallback": true
+    },
+    {
+      "id": "3a875258-d866-43e1-b1ef-01aae1e098ed",
+      "title": "君を呼ぶ場所",
+      "artist": "木村佳乃",
+      "isrc": "JPD601700052",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/14N9IvtxGWozP4wxIZkmoC",
+      "isFallback": true
+    },
+    {
+      "id": "75b6173b-eca5-48b8-810c-1a9925ec6711",
+      "title": "恋のprologue*",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI01701130",
+      "releaseDate": "2017-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/6VLqsauTbJHYttt6RjGRp1",
+      "isFallback": true
+    },
+    {
+      "id": "4283de4b-d2bd-46f1-9864-eaa33eeed7d6",
+      "title": "トゥインクル☆スター",
+      "artist": "千葉紗子",
+      "isrc": "JPE200101201",
+      "releaseDate": "2001-01-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53a1f520-9803-4d15-bad0-bfa8405e9bd3",
+      "title": "ハートぷるぷる事件です",
+      "artist": "振り回され隊",
+      "isrc": "JPPI01551960",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/5oNhhZYzWrcGsjZLYEVmq0",
+      "isFallback": true
+    },
+    {
+      "id": "4c313de4-83d3-4e86-827f-8230ebdcd899",
+      "title": "誘惑ヴァイオレット",
+      "artist": "姫宮みらんとチョコレートロッカーズ",
+      "isrc": "JPPI00964130",
+      "releaseDate": "2009-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/4S2hFFwmW2JDsPnkIzPKus",
+      "isFallback": true
+    },
+    {
+      "id": "5f018d8f-de6e-4e22-af89-43634b274019",
+      "title": "気まぐれ行進曲♪",
+      "artist": "さんぽ部",
+      "isrc": "JPKI00607360",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e46c9a91-540e-4ecb-90db-5cb1c89ba216",
+      "title": "約束の星",
+      "artist": "rino",
+      "isrc": "",
+      "releaseDate": "2003-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef6b13b4-d480-4e93-90e1-d599c4c22654",
+      "title": "本日は誠にラリルレイン",
+      "artist": "ココア",
+      "isrc": "JPPI01650680",
+      "releaseDate": "2016-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/41AXbkS7iWskGa7z39WP29",
+      "isFallback": true
+    },
+    {
+      "id": "a5ceceab-d6d8-4b80-8dac-3932c16a08b0",
+      "title": "秘密ドールズ",
+      "artist": "中原麻衣",
+      "isrc": "JPI100600911",
+      "releaseDate": "2006-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a765fbca-5d69-40e5-a6fc-10d3a6817351",
+      "title": "無敵のHAPPY GIRL",
+      "artist": "一条薫子",
+      "isrc": "",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9325e722-9eca-4e45-87b7-02cd3e8f5d3e",
+      "title": "自分に向かって、ウインクひとつ",
+      "artist": "道重さゆみ",
+      "isrc": "JPA601800042",
+      "releaseDate": "2018-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5PAuCmdoLgkCkYtYFCu5g1",
+      "isFallback": true
+    },
+    {
+      "id": "83d9eb80-81c4-40f8-80a5-92a4bfd25a71",
+      "title": "深呼吸をするように",
+      "artist": "CooRie",
+      "isrc": "JPI100902285",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d487f69-e4bf-4455-bc93-9d3c648a0b15",
+      "title": "突撃シロホン",
+      "artist": "CooRie",
+      "isrc": "JPI100902281",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8265f877-c45b-4f1c-82cc-45b1504af576",
+      "title": "笑劇のサスペンス",
+      "artist": "CooRie",
+      "isrc": "JPI100902305",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f7e8f91-5bf5-4978-8ee3-0a4450c0fc0b",
+      "title": "煌めきHarmonics ～Sound track version～",
+      "artist": "CooRie",
+      "isrc": "JPI100902306",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49eb108f-bd52-40ca-892e-0e8d015125e0",
+      "title": "日常の調べ",
+      "artist": "CooRie",
+      "isrc": "JPI100902283",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b66796a-f5fe-4ed6-ba13-d65d03adf24b",
+      "title": "淡く色づくように",
+      "artist": "CooRie",
+      "isrc": "JPI100902311",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55da33bf-57fb-4c5a-b5e4-cda61654d39a",
+      "title": "麗しのShooting star",
+      "artist": "シャロ",
+      "isrc": "JPPI01451800",
+      "releaseDate": "2014-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/0D9C7fSPQPayArmk1Zc2DO",
+      "isFallback": true
+    },
+    {
+      "id": "3867ce09-1dc4-4f06-bbe0-1edbb21536e4",
+      "title": "超電磁少女Days",
+      "artist": "御坂美琴",
+      "isrc": "JPPI01050590",
+      "releaseDate": "2010-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6q5t6uUUZchkHWpSqjQObr",
+      "isFallback": true
+    },
+    {
+      "id": "d253e3b4-8a85-4713-ac7c-5cf669a3c11d",
+      "title": "満天の世界",
+      "artist": "CooRie",
+      "isrc": "JPI100902316",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "07e4d4cf-227c-4b8b-b55d-7433837c8cf5",
+      "title": "風",
+      "artist": "和田光司",
+      "isrc": "JPE200100802",
+      "releaseDate": "2001-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2fGZH3iqE2qoRSSVECvwJW",
+      "isFallback": true
+    },
+    {
+      "id": "46e398c2-3d80-4322-a4f4-8fcd45396cd0",
+      "title": "真夜中secret talk",
+      "artist": "水野亜美",
+      "isrc": "JPKI01512295",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/5Mqd1gZeNgKvbKhxivu0As",
+      "isFallback": true
+    },
+    {
+      "id": "8fc8932a-3a32-418d-a4ea-f862053fd420",
+      "title": "闇を越えて",
+      "artist": "原田真純",
+      "isrc": "",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6c9e168-8b4c-422c-b6be-742ada53c2ba",
+      "title": "星のしずく ～Sound track version～",
+      "artist": "CooRie",
+      "isrc": "JPI100902278",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a06da32e-8b9f-40c3-8667-1c86858d08b1",
+      "title": "瞬時の渦",
+      "artist": "ライダー",
+      "isrc": "JPPI00753660",
+      "releaseDate": "2007-05-30",
+      "spotifyUrl": "https://open.spotify.com/track/07xA4CuEvkRemBXx1fgUpo",
+      "isFallback": true
+    },
+    {
+      "id": "6ef1b2a3-88e4-45ed-9e1a-4f41652f6a13",
+      "title": "素晴らしき運命の響き",
+      "artist": "CooRie",
+      "isrc": "JPI100902279",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5f61380a-8a77-4be8-8b08-917c2dc92d1e",
+      "title": "苺摘み物語",
+      "artist": "中原麻衣",
+      "isrc": "JPI100601541",
+      "releaseDate": "2006-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "942aa747-c62c-4c08-814c-161d75170234",
+      "title": "片想いルーレット",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00810441",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/3vKkvZ7Z85ej84NS50ithK",
+      "isFallback": true
+    },
+    {
+      "id": "aefbe09b-5461-49b1-94e6-edd32656c9c1",
+      "title": "経験値速上々↑↑",
+      "artist": "南 春香",
+      "isrc": "JPKI00818178",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/10hQPlUlgfD9cze548Rpbh",
+      "isFallback": true
+    },
+    {
+      "id": "c6302c0d-5a38-4a24-a878-d6c164f62619",
+      "title": "経験値上昇中☆",
+      "artist": "南 春香",
+      "isrc": "JPKI00708570",
+      "releaseDate": "2007-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/7viuwjUhlXyGYEuQihei21",
+      "isFallback": true
+    },
+    {
+      "id": "b220ead1-402a-4f49-acc4-970362ee63af",
+      "title": "想い出プラネタリウム ～Sound track version～",
+      "artist": "CooRie",
+      "isrc": "JPI100902296",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c35fcf54-2191-4eaf-a8a9-54ca86d9b27b",
+      "title": "私はパティ",
+      "artist": "パティ",
+      "isrc": "JPE200405102",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2389e69-261e-4da7-ba8c-ded0e8150b84",
+      "title": "美星からのお知らせ",
+      "artist": "CooRie",
+      "isrc": "JPI100902317",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e8363dd8-6984-4c83-95b3-a8109cff16e3",
+      "title": "敏感な風景",
+      "artist": "Ceui",
+      "isrc": "JPI100700515",
+      "releaseDate": "2007-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "af1fd0d2-6fe0-46a6-813a-3fa668f8e9b3",
+      "title": "青春D・A・Y",
+      "artist": "白鳥鈴音",
+      "isrc": "JPKI00507794",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Dq9W5HfRq1rKSjXHZcVxA",
+      "isFallback": true
+    },
+    {
+      "id": "99035338-5c27-4db1-8adc-e437f5bef4c4",
+      "title": "羨望スターダム",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI01501240",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/1hmBoqvJR0So9QH9y1yaQd",
+      "isFallback": true
+    },
+    {
+      "id": "2cf12623-01d6-4459-b8a3-d036077e99dc",
+      "title": "魅惑の時間",
+      "artist": "CooRie",
+      "isrc": "JPI100902309",
+      "releaseDate": "2009-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ac8e0665-c8c9-41e5-be02-4ff0459fdaed",
+      "title": "無敵のLOVE&PEACE!",
+      "artist": "N's",
+      "isrc": "JPPI00858030",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/2i5XG6USSn7UNfKbGw2GgX",
+      "isFallback": true
+    }
+  ]
+}

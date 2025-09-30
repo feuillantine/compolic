@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Compolic(α)</title>
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      --bg-color: #f5f7fa;
+      --primary-color: #2c3e50;
+      --accent-color: #3498db;
+      --text-color: #333;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      background: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 20px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto 20px;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    .info-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    .info-btn > span {
+      display: block;
+      display: flex;
+      line-height: 1;
+      font-size: 12px;
+      font-weight: bold;
+      color: #555;
+    }
+
+    .container {
+      display: flex;
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 15px;
+      align-self: flex-start;
+      width: 15s0px;
+      height: calc(100vh - 15px * 2);
+      overflow-y: auto;
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 6px;
+      padding: 6px;
+    }
+
+    .content {
+      flex: 1;
+    }
+
+    .artist {
+      cursor: pointer;
+      padding: 6px 8px;
+      margin-bottom: 4px;
+      border-radius: 4px;
+    }
+
+    .artist:hover {
+      background: var(--accent-color);
+      color: #fff;
+    }
+
+    .artist.active {
+      background: var(--accent-color);
+      color: #fff;
+    }
+
+    #artistSelect {
+      display: none;
+    }
+
+    .exclude-own {
+      margin-bottom: 8px;
+    }
+
+    .exclude-own>label>input {
+      margin: 0;
+    }
+
+    .exclude-own>label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      table-layout: fixed;
+      background: #fff;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th:nth-child(1) {
+      width: 40%;
+    }
+
+    th:nth-child(3) {
+      width: 7em;
+    }
+
+    th:nth-child(4) {
+      width: 9em;
+    }
+
+    th:nth-child(5) {
+      width: 6em;
+    }
+
+    th {
+      background: var(--primary-color);
+      color: #fff;
+      cursor: pointer;
+    }
+
+    tr:nth-child(even) {
+      background: #fafafa;
+    }
+
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    th.sorted-asc::after {
+      content: " ▲";
+    }
+
+    th.sorted-desc::after {
+      content: " ▼";
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.4);
+    }
+
+    .modal-content {
+      background-color: #fff;
+      margin: 10% auto;
+      padding: 36px 20px 24px;
+      border-radius: 8px;
+      max-width: 500px;
+      position: relative;
+    }
+
+    .modal-content ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .modal-content ul li:not(:first-child) {
+      margin-top: 8px;
+    }
+
+    .modal .close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      line-height: 1;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    @media (max-width: 860px) {
+      .container {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        display: none;
+      }
+
+      #artistSelect {
+        display: block;
+        width: 100%;
+        padding: 8px 30px 8px 12px;
+        font-size: 14px;
+        border: 1px solid #e0e0e0;
+        border-radius: 4px;
+        background: #fff;
+        appearance: none;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="8"><polygon points="0,0 12,0 6,8" fill="%23999"/></svg>');
+        background-repeat: no-repeat;
+        background-position: right 10px center;
+        background-size: 12px 8px;
+      }
+
+      th:nth-child(1),
+      th:nth-child(2) {
+        width: auto;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Compolic(α)</h1>
+    <button id="infoBtn" class="info-btn" aria-label="情報"><span>about</span></button>
+  </header>
+  <div class="container">
+    <div class="sidebar" id="artistList"></div>
+    <select id="artistSelect">
+      <option value="">All</option>
+    </select>
+    <div class="content">
+      <div class="exclude-own">
+        <label>
+          <input type="checkbox" id="excludeOwn">
+          <span>作曲者自身がアーティスト・所属グループの曲を除外</span>
+        </label>
+      </div>
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Artist</th>
+            <th>Release</th>
+            <th>ISRC</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+  <div id="infoModal" class="modal">
+    <div class="modal-content">
+      <span class="close">✕</span>
+      <ul>
+        <li>Compolicは、<a href="https://x.com/____feu____" target="_blank">feu</a>が気になる作曲家の楽曲を<a href="https://musicbrainz.org/" target="_blank">MusicBrainz</a>のAPI経由で機械的に抽出したリストです</li>
+        <li>大体日次で追加差分を取得しています（負荷の都合上、取得済データは更新していません）</li>
+        <li>Spotifyに楽曲がある場合は楽曲リンクを、ない場合はYouTubeへの検索リンクが付与されています</li>
+        <li>リストは完全ではなく、情報源及び加工プロセスにおける誤情報が含まれる場合があります</li>
+      </ul>
+    </div>
+  </div>
+  <script>
+    // List of JSON files to load (relative to this HTML file)
+    const excludeOwnCheckbox = document.getElementById('excludeOwn');
+    if (excludeOwnCheckbox) {
+      excludeOwnCheckbox.addEventListener('change', () => renderTable());
+    }
+
+    // Dynamically fetch the list of JSON files from the server
+    async function fetchJsonFileList() {
+      const response = await fetch('/data/files.json');
+      if (!response.ok) {
+        console.error('Failed to fetch JSON file list');
+        return [];
+      }
+      const list = await response.json();
+      return list;
+    }
+
+    // Placeholder; will be populated before loading data
+    let jsonFiles = [];
+
+    // Data map will be populated after loading (key: file name without .json)
+    const dataMap = {};
+    // Current filtered view (null = no filter, otherwise file key)
+    let currentFilter = null;
+    // Sorting state (default Release Date descending)
+    const sortState = { column: 'releaseDate', asc: false };
+    // Update URL ?id= parameter to reflect current filter
+    function updateUrlParam(id) {
+      const url = new URL(window.location);
+      if (id) {
+        url.searchParams.set('id', id);
+      } else {
+        url.searchParams.delete('id');
+      }
+      window.history.replaceState({}, '', url);
+    }
+
+    async function loadData() {
+      // Get the list of JSON files from the server
+      jsonFiles = await fetchJsonFileList();
+      const promises = jsonFiles.map(path => fetch(path).then(res => res.json()));
+      const results = await Promise.all(promises);
+      // Populate dataMap with each file's data
+      jsonFiles.forEach((path, idx) => {
+        const key = path.split('/').pop().replace('.json', '');
+        dataMap[key] = results[idx];
+      });
+      initArtistList();
+      initTableHeaderSorting();
+      renderTable();
+    }
+
+    // ---------- アーティストリスト ----------
+    function initArtistList() {
+      const sidebar = document.getElementById('artistList');
+      const select = document.getElementById('artistSelect');
+      const keys = Object.keys(dataMap).sort((a, b) => {
+        const nameA = dataMap[a].sortName || dataMap[a].name || a;
+        const nameB = dataMap[b].sortName || dataMap[b].name || b;
+        return nameA.localeCompare(nameB);
+      });
+
+      // Helper to clear active state
+      const clearActive = () => {
+        const elems = sidebar.querySelectorAll('.artist');
+        elems.forEach(e => e.classList.remove('active'));
+      };
+
+      // 「All」ボタン
+      const allBtn = document.createElement('div');
+      allBtn.textContent = 'All';
+      allBtn.className = 'artist';
+      allBtn.dataset.key = '';
+      allBtn.addEventListener('click', () => {
+        clearActive();
+        allBtn.classList.add('active');
+        currentFilter = null;
+        updateUrlParam(null);
+        select.value = '';
+        renderTable();
+        window.scrollTo(0,0);
+      });
+      sidebar.appendChild(allBtn);
+
+      // All option for select (removed – placeholder already in HTML)
+
+      // 各JSONファイル（作曲者）ボタン
+      keys.forEach(key => {
+        const div = document.createElement('div');
+        const name = dataMap[key].name || key;
+        div.textContent = name;
+        div.className = 'artist';
+        div.dataset.key = key;
+        div.addEventListener('click', () => {
+          clearActive();
+          div.classList.add('active');
+          currentFilter = key;
+          updateUrlParam(key);
+          select.value = key;
+          renderTable();
+          window.scrollTo(0,0);
+        });
+        sidebar.appendChild(div);
+
+        // Option for select
+        const opt = document.createElement('option');
+        opt.value = key;
+        opt.textContent = name;
+        select.appendChild(opt);
+      });
+
+      // Select change handling
+      select.addEventListener('change', () => {
+        const val = select.value;
+        clearActive();
+        if (val === '') {
+          allBtn.classList.add('active');
+          currentFilter = null;
+          updateUrlParam(null);
+        } else {
+          const targetDiv = Array.from(sidebar.querySelectorAll('.artist')).find(el => el.dataset.key === val);
+          if (targetDiv) targetDiv.classList.add('active');
+          currentFilter = val;
+          updateUrlParam(val);
+        }
+        renderTable();
+        window.scrollTo(0,0);
+      });
+
+      // 初期表示：URL の ?id= から選択
+      const urlParams = new URLSearchParams(window.location.search);
+      const id = urlParams.get('id');
+      if (id && dataMap[id]) {
+        const target = Array.from(sidebar.querySelectorAll('.artist')).find(el => el.textContent === (dataMap[id].name || id));
+        if (target) {
+          target.click();
+          select.value = target.dataset.key || '';
+          return;
+        }
+      }
+      // デフォルトは All
+      allBtn.click();
+    }
+
+    // ---------- テーブルソート ----------
+    function initTableHeaderSorting() {
+      const headerMap = {
+        'Title': 'title',
+        'Artist': 'artist',
+        'Release': 'releaseDate'
+      };
+      document.querySelectorAll('#dataTable th').forEach(th => {
+        const colKey = headerMap[th.textContent.trim()];
+        if (!colKey) return;
+        th.dataset.column = colKey;
+        th.dataset.original = th.textContent.trim();
+        th.addEventListener('click', () => {
+          const col = th.dataset.column;
+          if (sortState.column === col) {
+            sortState.asc = !sortState.asc;
+          } else {
+            sortState.column = col;
+            sortState.asc = true;
+          }
+          renderTable();
+          updateSortIndicators();
+        });
+      });
+      // 初期表示のインジケータ
+      updateSortIndicators();
+    }
+
+    function updateSortIndicators() {
+      document.querySelectorAll('#dataTable th').forEach(th => {
+        // Reset to original text (without arrow)
+        if (th.dataset.original) {
+          th.textContent = th.dataset.original;
+        }
+        // Apply sorting classes
+        if (th.dataset.column === sortState.column) {
+          th.classList.toggle('sorted-asc', sortState.asc);
+          th.classList.toggle('sorted-desc', !sortState.asc);
+        } else {
+          th.classList.remove('sorted-asc', 'sorted-desc');
+        }
+      });
+    }
+
+    // ---------- テーブル描画 ----------
+    function renderTable() {
+      const tbody = document.querySelector('#dataTable tbody');
+      tbody.innerHTML = '';
+      let data = [];
+
+      if (currentFilter) {
+        const composerData = dataMap[currentFilter];
+        const composerName = composerData.name || currentFilter;
+        const otherNames = composerData.otherNames || [];
+        const tracks = composerData.tracks || [];
+        data = tracks.map(t => ({
+          ...t,
+          composer: composerName,
+          composerOtherNames: otherNames,
+          composerKey: currentFilter
+        }));
+      } else {
+        // Combine all entries from all files, attaching composer name
+        data = Object.entries(dataMap).flatMap(([key, d]) => {
+          const composerName = d.name || key;
+          const otherNames = d.otherNames || [];
+          return (d.tracks || []).map(t => ({
+            ...t,
+            composer: composerName,
+            composerOtherNames: otherNames,
+            composerKey: key
+          }));
+        });
+        // Remove duplicate tracks by id when showing All
+        if (!currentFilter) {
+          const seenIds = new Set();
+          data = data.filter(item => {
+            if (!item.id) return true;
+            if (seenIds.has(item.id)) {
+              return false;
+            }
+            seenIds.add(item.id);
+            return true;
+          });
+        }
+      }
+
+      // 「作曲者自身がアーティスト・所属グループの曲を除外」チェックが入っている場合、選択中の作曲者に対してのみ除外
+      if (excludeOwnCheckbox && excludeOwnCheckbox.checked) {
+        if (currentFilter) {
+          const selData = dataMap[currentFilter];
+          const selNames = [selData.name || currentFilter, ...(selData.otherNames || [])];
+          data = data.filter(item => !selNames.includes(item.artist));
+        } else {
+          data = data.filter(item => {
+            const isSame = item.artist === item.composer;
+            const isOtherName = Array.isArray(item.composerOtherNames) && item.composerOtherNames.includes(item.artist);
+            return !(isSame || isOtherName);
+          });
+        }
+      }
+
+      // ソート
+      data.sort((a, b) => {
+        const valA = a[sortState.column] ?? '';
+        const valB = b[sortState.column] ?? '';
+        if (valA < valB) return sortState.asc ? -1 : 1;
+        if (valA > valB) return sortState.asc ? 1 : -1;
+        return 0;
+      });
+
+      data.forEach(item => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${item.title ?? ''}</td>
+          <td>${item.artist ?? ''}</td>
+          <td>${item.releaseDate ?? ''}</td>
+          <td>${item.isrc ?? ''}</td>
+          <td>${item.spotifyUrl ? '<a href="' + item.spotifyUrl + '" target="_blank">Spotify</a>' : '<a href="https://www.youtube.com/results?search_query=' + encodeURIComponent((item.artist ?? '') + ' ' + (item.title ?? '')) + '" target="_blank">YouTube</a>'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    // Start loading data
+    loadData();
+
+    // Info modal handling
+    const infoBtn = document.getElementById('infoBtn');
+    const infoModal = document.getElementById('infoModal');
+    const closeBtn = infoModal.querySelector('.close');
+    if (infoBtn && infoModal && closeBtn) {
+      infoBtn.addEventListener('click', () => {
+        infoModal.style.display = 'block';
+      });
+      closeBtn.addEventListener('click', () => {
+        infoModal.style.display = 'none';
+      });
+      window.addEventListener('click', (e) => {
+        if (e.target === infoModal) {
+          infoModal.style.display = 'none';
+        }
+      });
+    }
+
+  </script>
+</body>
+
+</html>

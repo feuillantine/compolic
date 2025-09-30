@@ -1,0 +1,231 @@
+{
+  "name": "坂本裕介",
+  "sortName": "サカモトユウスケ",
+  "tracks": [
+    {
+      "id": "d217b3cc-5646-4f37-bcae-08541f569a72",
+      "title": "天真爛漫",
+      "artist": "sarah",
+      "isrc": "",
+      "releaseDate": "2000-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4aa76ace-53e0-4d32-92b1-7387230e6c6d",
+      "title": "君とHAPPY!",
+      "artist": "真田アサミ",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f3c8018e-bb75-48e5-aba5-2d1d9032e17f",
+      "title": "迷宮のリグレット",
+      "artist": "高橋洋子",
+      "isrc": "JPU500900028",
+      "releaseDate": "2002-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/5TIiy7iLczTFNIcXfMDwDk",
+      "isFallback": true
+    },
+    {
+      "id": "a3243afd-5635-4006-b40d-ad483cc3d26d",
+      "title": "Secret…my love",
+      "artist": "Prière",
+      "isrc": "JPTO00303124",
+      "releaseDate": "2004-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/2wVwYKOM87laroYZuRPMYZ",
+      "isFallback": true
+    },
+    {
+      "id": "50754832-b0e6-4306-92fc-379ea49e4910",
+      "title": "華麗にラ・ビ・アンローズ (うさだのテーマ)",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3ec912a3-194f-4cf7-951b-97ac1afd157e",
+      "title": "MERRY MERRY X'MAS",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e42d1381-0be3-444e-9dec-fec9a675ef6e",
+      "title": "MISTY",
+      "artist": "sarah",
+      "isrc": "JPWP09801460",
+      "releaseDate": "1998-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/49AqL8ncr22zWf2beeatnF",
+      "isFallback": true
+    },
+    {
+      "id": "ad77d975-4c42-4c4f-9324-fd8c81e27308",
+      "title": "心の翼",
+      "artist": "高橋洋子",
+      "isrc": "JPU500200036",
+      "releaseDate": "2002-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/62b45LeZbvytiB0afXxbVM",
+      "isFallback": true
+    },
+    {
+      "id": "359ac67a-0e59-4403-96c5-dec7632ffbe8",
+      "title": "まどろみAFTERNOON",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3443b456-ba9b-4800-b4d4-cb204634f2d6",
+      "title": "ウキウキMORNING",
+      "artist": "矢吹俊郎",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21be697b-3dce-433c-887c-39c73859fbbe",
+      "title": "For the Earth",
+      "artist": "PINK SAPPHIRE",
+      "isrc": "JPWM09209360",
+      "releaseDate": "1992-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/5yQJ03mOpLc5c0PtlP5iWA",
+      "isFallback": true
+    },
+    {
+      "id": "c3014b2c-47c8-4372-9794-b60e61c5c768",
+      "title": "哀しみTWILIGHT",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb1bc11e-b25e-4eed-a390-b85580d890af",
+      "title": "CARNIVAL",
+      "artist": "沢城みゆき",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62e3a0dd-433c-4aea-975a-3c1aec87df3f",
+      "title": "のどかにNOONTIME",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2cb4492-5fe0-462f-ae1f-d1e7dc1de24b",
+      "title": "マイペースでじこでいこう! (でじこのテーマ)",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d7334c2-ddcc-4785-961d-7b9100163e17",
+      "title": "恋する(?)カフェテラス",
+      "artist": "真田アサミ",
+      "isrc": "",
+      "releaseDate": "2002-05-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "315346fb-532c-4f69-9da5-2a6f3632cf51",
+      "title": "アメフラシの歌 〜Beautiful Rain〜",
+      "artist": "ニケ・ルメルシエ",
+      "isrc": "JPVP01403715",
+      "releaseDate": "2014-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/7sSAtVsfL8YndAqvUzDCb2",
+      "isFallback": true
+    },
+    {
+      "id": "ad3c4773-aa58-47a3-8c0b-7fce7c139015",
+      "title": "SUDDENLY",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c6a9716a-bbc3-479f-acda-2a47a6262972",
+      "title": "お洒落にMIDNIGHT",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8dbbe156-2654-4fa8-9973-aff1d1fe1f7c",
+      "title": "READY→→→GO!",
+      "artist": "真田アサミ",
+      "isrc": "",
+      "releaseDate": "2002-05-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7193249-b7dd-4f6c-8fd1-a07b59edb841",
+      "title": "くれない",
+      "artist": "sarah",
+      "isrc": "JPWP09801450",
+      "releaseDate": "1998-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/0i6mAFPpIsAENRICdyj4FZ",
+      "isFallback": true
+    },
+    {
+      "id": "ea74a6ee-de85-4d80-961c-a61d7dd8155b",
+      "title": "熱風海陸ブシロード〜熱き咆哮〜 (Hyper Euro Version)",
+      "artist": "ミルキィホームズ",
+      "isrc": "JPR561400011",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/6X9aYN7IDuYq1pnL7NrXRS",
+      "isFallback": true
+    },
+    {
+      "id": "f1adc0e0-e7bf-469d-9c8c-dc19171186f1",
+      "title": "タイフーン・アイドル",
+      "artist": "氷上恭子",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "419ab2a0-dea4-4482-adf7-d7db3d44a8cf",
+      "title": "PARTY NIGHT (ハイパー・パラパラ・ヴァージョン)",
+      "artist": "真田アサミ",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "37609609-e157-4950-895f-bd8787da7e29",
+      "title": "ちっちゃなぷちこ (ぷちこのテーマ)",
+      "artist": "坂本裕介",
+      "isrc": "",
+      "releaseDate": "1999-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

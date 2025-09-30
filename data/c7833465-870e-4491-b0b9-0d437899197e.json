@@ -1,0 +1,1414 @@
+{
+  "name": "清竜人",
+  "sortName": "キヨシリュウジン",
+  "otherNames": [
+    "清 竜人",
+    "清 竜人25"
+  ],
+  "tracks": [
+    {
+      "id": "e0c995db-d99b-4ffa-9bde-c9f6edc2a7cc",
+      "title": "25♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01703502",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/6namzoHffVk4uzk4Yt2CNa",
+      "isFallback": false
+    },
+    {
+      "id": "560616c1-a551-46b8-884d-26f729990a92",
+      "title": "インモラリスト",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01018906",
+      "releaseDate": "2011-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/7tr1dBlrKE0OdlfEeFJ63d",
+      "isFallback": true
+    },
+    {
+      "id": "9fcc89af-30cc-4996-9b5e-93ddddbbf011",
+      "title": "Will♡You♡Marry♡Me?",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01414201",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/1O4ouiVI4gwg3iKrxT0O7I",
+      "isFallback": false
+    },
+    {
+      "id": "11ae7f27-e788-4145-a982-be669da4b1f6",
+      "title": "ねえねえ…",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01601302",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/0wIFYmkfyVhLzH9DOhaBh9",
+      "isFallback": false
+    },
+    {
+      "id": "be2be40d-b615-47d6-8757-9a2001078765",
+      "title": "Coupling♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01609402",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/2QmPyfdXYLdIPx6phwAdV6",
+      "isFallback": false
+    },
+    {
+      "id": "3b6ba27b-e1e5-48be-b01d-de0de5a626c6",
+      "title": "Love Letter",
+      "artist": "清竜人",
+      "isrc": "JPKI01815649",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/49uVbg7picBrMHftuFRnWZ",
+      "isFallback": false
+    },
+    {
+      "id": "5e1e6a9f-47ef-4f69-b44d-2f4e3a93cae2",
+      "title": "IDOLY PRIDE",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402000075",
+      "releaseDate": "2021-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/2mUsls3vY5ddwTi1CoJnvT",
+      "isFallback": false
+    },
+    {
+      "id": "40c5fb3d-a897-4888-ae13-b3083a5b9e43",
+      "title": "ヘンな期待しちゃ駄目だよ…?♡",
+      "artist": "佐々木彩夏",
+      "isrc": "JPKI01719007",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/7E3psSABpP1kx7OidzKrtg",
+      "isFallback": true
+    },
+    {
+      "id": "827c2afc-ec09-44f0-8088-39a4c61fa1d6",
+      "title": "がんばろう",
+      "artist": "清竜人",
+      "isrc": "JPTO00902859",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/2jaFN3Lci0D7ZYllVnA0I6",
+      "isFallback": false
+    },
+    {
+      "id": "8ae2e784-4d35-4b82-a199-24e588054487",
+      "title": "25時のBirthday",
+      "artist": "清竜人",
+      "isrc": "JPKI01911762",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/40sf3egGG2BgfCbu4RkULB",
+      "isFallback": false
+    },
+    {
+      "id": "267c3802-d6e1-4059-a9d3-34c94535b5ba",
+      "title": "ボーイ・アンド・ガール・ラヴ・ソング",
+      "artist": "清竜人",
+      "isrc": "JPPO01411767",
+      "releaseDate": "2011-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/24CDrjwTqow9g93dhGgN60",
+      "isFallback": false
+    },
+    {
+      "id": "db4859bb-3e5d-4966-ab28-840e994914f6",
+      "title": "Dear☆Stageへようこそ♡",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01406801",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/4Zx5YzxuUu8T9K8iRdBAzq",
+      "isFallback": true
+    },
+    {
+      "id": "33dfe727-2847-4b8b-aad0-03bfdb327f55",
+      "title": "Zipangu",
+      "artist": "清竜人",
+      "isrc": "JPPO01346737",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/5IC2JQ6ffhfwW2Y5Ejiupy",
+      "isFallback": false
+    },
+    {
+      "id": "eac565e6-8fe1-4b9e-8ffd-57c47b299e8b",
+      "title": "All My Life",
+      "artist": "清竜人",
+      "isrc": "JPPO01346739",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/0nlILPvOvrBsdpq0bmNdF5",
+      "isFallback": false
+    },
+    {
+      "id": "de4cbbe7-923a-4ac9-b278-9c0e02a86021",
+      "title": "デモンストレーション",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01610353",
+      "releaseDate": "2016-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4jn1i48xBE1z2MGSp8TrtU",
+      "isFallback": true
+    },
+    {
+      "id": "c9b1d6bf-a97a-4706-b959-7e5d1b54c540",
+      "title": "Championship",
+      "artist": "清竜人",
+      "isrc": "JPPO01346744",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/3sw9HxI3t72tQuQAQ4bso8",
+      "isFallback": false
+    },
+    {
+      "id": "7f2706fe-95e7-467b-a121-98dcb2bb1aa7",
+      "title": "I Don’t Understand",
+      "artist": "清竜人",
+      "isrc": "JPPO01346746",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/3mbY1tVNptHg2FXAcVyECg",
+      "isFallback": false
+    },
+    {
+      "id": "334ec1ce-65a8-4e63-b6d4-d033d76b8bfd",
+      "title": "Katie",
+      "artist": "清竜人",
+      "isrc": "JPPO01346738",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/7MoX0d1jQfEAVybIut1hKk",
+      "isFallback": false
+    },
+    {
+      "id": "60b4b4c1-5c93-412b-ae10-1fe7951159aa",
+      "title": "きみはディスティニーズガール",
+      "artist": "清竜人",
+      "isrc": "JPTO01100064",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/6aqK2JfVsNo2hvQpITg5lb",
+      "isFallback": false
+    },
+    {
+      "id": "8f487c11-c2a1-496c-89bf-7afbf35cdc49",
+      "title": "そつぎょう",
+      "artist": "清竜人",
+      "isrc": "JPTO01000744",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/4L69cBaz6HuDyfytdASWEY",
+      "isFallback": false
+    },
+    {
+      "id": "291a55db-4d4c-4106-a70e-9328a19e8dd7",
+      "title": "ここでここで",
+      "artist": "早見沙織",
+      "isrc": "JPQ462300019",
+      "releaseDate": "2023-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/6j5a1k04EaO0FF8R8bbq0g",
+      "isFallback": false
+    },
+    {
+      "id": "8f9dc097-3ef0-4c7e-852e-f6c6c9d21cc2",
+      "title": "イザナギの後遺症",
+      "artist": "清竜人",
+      "isrc": "JPTO00902799",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6JY25OauonBnSJHT0j8z4e",
+      "isFallback": false
+    },
+    {
+      "id": "5c4967cd-9240-4175-b7d3-b2bd20affd80",
+      "title": "Call♡Me♡Baby",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513701",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/0b3xrkSPWUVwAl4EsRZnv2",
+      "isFallback": false
+    },
+    {
+      "id": "4ec7ff19-1bb6-42e7-82c6-358a619c29b9",
+      "title": "I Love Youはあなただけ♡",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606103",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/6kf90QUkdLIh4X2ejFQR02",
+      "isFallback": false
+    },
+    {
+      "id": "d2023f88-edf8-4231-ba7f-42dd83763304",
+      "title": "TIME OVER",
+      "artist": "清竜人",
+      "isrc": "JPKI01911760",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/5tmAA6oIjBrUQKvRwBjeId",
+      "isFallback": false
+    },
+    {
+      "id": "b72ab35c-cdc1-4fc9-8451-840ce6f35fe1",
+      "title": "がきんちょのうた",
+      "artist": "清竜人",
+      "isrc": "JPTO01100061",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5edxKyAJiI23E0oTJr47od",
+      "isFallback": false
+    },
+    {
+      "id": "1d09bc76-3248-4e4f-a9b9-c289eff77be8",
+      "title": "GENERATION GAPなんて言わせない!",
+      "artist": "清竜人",
+      "isrc": "JPTO01200641",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/68UWFU80NtN4qfS2JwLjng",
+      "isFallback": false
+    },
+    {
+      "id": "7e9fe6b7-b14b-4057-afda-1e19915e5cf1",
+      "title": "ぼくはシンデレラ・コンプレックス",
+      "artist": "清竜人",
+      "isrc": "JPTO01200645",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/1Ie9Tb7gvNEwTMTdCKMJDl",
+      "isFallback": false
+    },
+    {
+      "id": "c2fe7914-2fc8-4ee0-94f8-291121f88a1b",
+      "title": "ツインテールは20歳まで♡",
+      "artist": "きゅるりんってしてみて",
+      "isrc": "JPZ922308475",
+      "releaseDate": "2023-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/01QsIzZPw3twrllVxguXpc",
+      "isFallback": false
+    },
+    {
+      "id": "2f796e12-866d-4be7-96d9-cad9b07f14f1",
+      "title": "ビールは20歳になってから♡",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02422901",
+      "releaseDate": "2024-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/6OkJKaF7yZHlr6Jmx7l1gs",
+      "isFallback": true
+    },
+    {
+      "id": "40f3fe81-6a32-4ba4-befe-02cc04a99acb",
+      "title": "ウェンディ",
+      "artist": "清竜人",
+      "isrc": "JPTO00902801",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6xeaN3wciqJThdDbfElCpf",
+      "isFallback": false
+    },
+    {
+      "id": "96015098-bbf4-4169-baac-370da6415e63",
+      "title": "ジュ・ジュテーム・コミュニケーション",
+      "artist": "千菅春香",
+      "isrc": "JPVI01518770",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/4jszOqLLybp1Q2yBWU08Tv",
+      "isFallback": true
+    },
+    {
+      "id": "9f1cc594-7462-4b91-81c9-523d48f3c90e",
+      "title": "Morning Sun",
+      "artist": "清竜人",
+      "isrc": "JPPO01411760",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0FVRKsO6fudlh0yKdLhPjA",
+      "isFallback": false
+    },
+    {
+      "id": "846f24ba-f9d4-4d47-ab09-11b6ce94d8f0",
+      "title": "サン・フェルナンドまで連れていって",
+      "artist": "清竜人",
+      "isrc": "JPKI01818263",
+      "releaseDate": "2018-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/02keva7RCfblkX8JxKRs2q",
+      "isFallback": false
+    },
+    {
+      "id": "d752cc37-054d-4926-bd4d-c2ac6423bdf4",
+      "title": "ファーストキッスは竜人くん",
+      "artist": "ねも",
+      "isrc": "JPTF02120403",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/03sd4RARpMXsXqiGLRnxqX",
+      "isFallback": true
+    },
+    {
+      "id": "6a8886ef-d304-4cda-8de6-7d6d89a0c858",
+      "title": "CAN YOU SPEAK JAPANESE?",
+      "artist": "清竜人",
+      "isrc": "JPPO01411768",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/177RnBStUtAsgcdEJgDDP1",
+      "isFallback": false
+    },
+    {
+      "id": "ddf77c73-118d-42d3-ae61-145b8b384e30",
+      "title": "フェアウェル・キス",
+      "artist": "清竜人",
+      "isrc": "JPU902100719",
+      "releaseDate": "2021-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/0b7xvGhDJqeHs9WnQqInEG",
+      "isFallback": false
+    },
+    {
+      "id": "b901fa0c-c33d-4fb1-b0c7-fbce50140462",
+      "title": "Microphone is...",
+      "artist": "清竜人",
+      "isrc": "JPPO01346743",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/2hyePyzi55z8suH21PBq3s",
+      "isFallback": false
+    },
+    {
+      "id": "46ae7c21-109b-45d1-a2d3-0ffa5f64c224",
+      "title": "プリーズリピートアフターミー",
+      "artist": "清竜人",
+      "isrc": "JPPO01411766",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/0gUeBiTjZ6llJYDkgNZSHc",
+      "isFallback": false
+    },
+    {
+      "id": "cfea901a-1e4a-42e6-acfd-22fb830d54a3",
+      "title": "My Girls♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01616201",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/0entRqkqJkm3MhrZ4okdyN",
+      "isFallback": false
+    },
+    {
+      "id": "e9c5531d-a9c4-41d8-967c-bcfee9e2ee8e",
+      "title": "ハートな胸の内♡",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602502253",
+      "releaseDate": "2025-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/46s10YbbYvvCHib0aE5Vk5",
+      "isFallback": true
+    },
+    {
+      "id": "70c238af-673e-4264-89a1-c64fa5988976",
+      "title": "ヘルプミーヘルプミーヘルプミー",
+      "artist": "清竜人",
+      "isrc": "JPPO01411762",
+      "releaseDate": "2009-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/1evJueBeEWb57fsdLHwx9F",
+      "isFallback": false
+    },
+    {
+      "id": "d95f733a-90a7-4dd5-abd4-58ed0c4a192d",
+      "title": "LOVE&WIFE&PEACE♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01601301",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/4ULHBpEuwG3Hlx8LoHt6K5",
+      "isFallback": false
+    },
+    {
+      "id": "16579c92-649e-4c15-87f3-c3772f616792",
+      "title": "Sundayはわたしのモノ♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01616202",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/3prSQ7MmevDf6NL01K3iFN",
+      "isFallback": false
+    },
+    {
+      "id": "5040de63-1971-44b2-8133-7d2fccf0b874",
+      "title": "Selfish",
+      "artist": "清竜人",
+      "isrc": "JPTO00900189",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1CR2D3bJQUuKtjRvJgf2gR",
+      "isFallback": false
+    },
+    {
+      "id": "88e6630d-4bec-4c4d-bd3b-ed2df6427a5e",
+      "title": "あのね…実はわたし、夢眠ねむなんだ…♡",
+      "artist": "夢眠ねむ",
+      "isrc": "JPTF01400801",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/1x3jrv51YRBv8lbzJ5eOeC",
+      "isFallback": true
+    },
+    {
+      "id": "97f0e185-690d-4531-952a-583efce5bf01",
+      "title": "あいつは死んであの子は産まれた",
+      "artist": "清竜人",
+      "isrc": "JPKI01911765",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/3CjU7CH2kOy33htT2nKGrl",
+      "isFallback": false
+    },
+    {
+      "id": "dc60bc67-d1b7-4e82-bef4-e231239e68df",
+      "title": "Cords Of Love",
+      "artist": "清竜人",
+      "isrc": "JPU902001284",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/2Ba01l3JygDMJ0gv5gxbWR",
+      "isFallback": false
+    },
+    {
+      "id": "c0d0385b-8fe8-41ff-bd42-613de310a539",
+      "title": "ジョイフル",
+      "artist": "清竜人",
+      "isrc": "JPTO00900190",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/76aPYUsyLJ1m12RoqTCKs7",
+      "isFallback": false
+    },
+    {
+      "id": "5ff09868-d49f-44e4-a496-2481b266295a",
+      "title": "グリズリーに襲われたら♡",
+      "artist": "神宿",
+      "isrc": "TCJPJ1947368",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/4tjRvHjQu2fK8uEgXtjiTN",
+      "isFallback": true
+    },
+    {
+      "id": "d3fe3d97-727e-48b3-af8c-c5a9df4dd934",
+      "title": "Mr.PLAY BOY…♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01507101",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/1WqDNqcWpbpClxv05A6JnK",
+      "isFallback": false
+    },
+    {
+      "id": "36a9c5f2-e766-46a8-a257-494313f8d97c",
+      "title": "ジョン・L・フライの嘘",
+      "artist": "清竜人",
+      "isrc": "JPPO01411761",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5dM5AGtznw0jj4myHqNSFf",
+      "isFallback": false
+    },
+    {
+      "id": "80b301f5-9b9b-42bf-ab42-76803bb0a47b",
+      "title": "パパ & ママ 愛してるよ!",
+      "artist": "清竜人",
+      "isrc": "JPTO01100059",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/3F93ZMGvvxrEyqWj5CUNv8",
+      "isFallback": false
+    },
+    {
+      "id": "b9083aa9-3fda-4d9c-ad2f-d737895dbe2f",
+      "title": "ゾウの恋",
+      "artist": "清竜人",
+      "isrc": "JPTO01200643",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/5vbTYoV3j8wHrwli7NxV3S",
+      "isFallback": false
+    },
+    {
+      "id": "1edc0c2b-298c-4910-8efe-227a68cd3309",
+      "title": "Girl Friend",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01419510",
+      "releaseDate": "2015-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/2M03l5LSXUUT7J3vKuc1Bz",
+      "isFallback": true
+    },
+    {
+      "id": "25e760b7-8e56-4d4e-af58-d1c2be9c1728",
+      "title": "Fall♡In♡Loveに恋してるっ♪",
+      "artist": "清竜人",
+      "isrc": "JPTO01200638",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/3nYueU0scu6jkoLWAiX34E",
+      "isFallback": false
+    },
+    {
+      "id": "cf59306d-94b9-4231-979e-e8e83e934be7",
+      "title": "ニッポン",
+      "artist": "清竜人",
+      "isrc": "JPTO01001444",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/7qPmi9Ua1JRSqo0FMQt9lI",
+      "isFallback": false
+    },
+    {
+      "id": "acc4ec82-b162-4b2f-be60-19eb6f03a9a2",
+      "title": "ぶどう♡Grape♡For♡You♡",
+      "artist": "クマリデパート",
+      "isrc": "JPE872304686",
+      "releaseDate": "2023-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/06xkgPW7ddIDEOtqNR9Fpg",
+      "isFallback": true
+    },
+    {
+      "id": "b64e2b97-09c9-495b-ac00-bc5219c5b9a0",
+      "title": "キネマトグラフを♡",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606101",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/7mpr5fJGgVxK02n2ujNojE",
+      "isFallback": false
+    },
+    {
+      "id": "e8c4e279-3a2e-4d79-8c90-784b9299e626",
+      "title": "それぞれそれぞれ",
+      "artist": "清竜人",
+      "isrc": "JPTO00902860",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/1etizM8FsBNnq8pHnYAJrA",
+      "isFallback": false
+    },
+    {
+      "id": "ef6906d6-3fe2-46bd-b8a0-c73aa1ab45e5",
+      "title": "Knockdown",
+      "artist": "清竜人",
+      "isrc": "JPU902100718",
+      "releaseDate": "2021-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1XplwtXZmmfQsU8x0S3QR2",
+      "isFallback": false
+    },
+    {
+      "id": "276c070f-817d-453b-9125-776dfe219df5",
+      "title": "おかえり",
+      "artist": "清竜人",
+      "isrc": "JPU902305266",
+      "releaseDate": "2024-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/3AW3187nocZo3MyWp4HuC2",
+      "isFallback": false
+    },
+    {
+      "id": "40081851-a5cd-4883-8c98-945836246187",
+      "title": "おとなとこどものチャララ・ララ",
+      "artist": "清竜人",
+      "isrc": "JPTO01100060",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/3QsEksndkGiggUj9SsN6Y0",
+      "isFallback": false
+    },
+    {
+      "id": "cbc83138-4ffd-43b8-9ab6-4f3961406b72",
+      "title": "Car♡Wash♡Girl",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI02213577",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6L4HbL7C0cCMHAdEKCHux2",
+      "isFallback": false
+    },
+    {
+      "id": "87ddfe92-e407-4536-a32a-452659c14e54",
+      "title": "The♡Birthday♡Surprise",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01507102",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/1XCSqM9kLCQZxV4MyDiPnT",
+      "isFallback": false
+    },
+    {
+      "id": "6a0a572c-a96a-4cff-8c9d-f132b0d2b9e9",
+      "title": "The♡World’s♡End",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01318337",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1q0hYmsjjXnDOV5EXZmBUL",
+      "isFallback": true
+    },
+    {
+      "id": "c9196061-61fe-4826-a908-d90fa8a8d4ab",
+      "title": "nothing…",
+      "artist": "清竜人",
+      "isrc": "JPU902204062",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3Z02riUP4lX0hUScOw7gCi",
+      "isFallback": false
+    },
+    {
+      "id": "b535f325-4b9e-4833-a7b0-8d5ead47a4bd",
+      "title": "どうしようもないよ…",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513704",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/0hApmkMA23rHGoODcosnK6",
+      "isFallback": false
+    },
+    {
+      "id": "89ccb652-f89a-4792-a0b4-3242ae985bfb",
+      "title": "プリ～ズ…マイ…ダ～リン♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513703",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/2ngDABP5FBjG2YiTBzlY8d",
+      "isFallback": false
+    },
+    {
+      "id": "0413589e-dcfb-4473-941e-10c7c3b89623",
+      "title": "Princess",
+      "artist": "清竜人",
+      "isrc": "JPU902001283",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3RJqVvkRkFj4ZK6pUvGGjG",
+      "isFallback": false
+    },
+    {
+      "id": "21f61609-73f6-4bb6-9e5c-b204c67096eb",
+      "title": "My Lovely♡",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606106",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/3S75L9q6uWQqg6AtvrjbMq",
+      "isFallback": false
+    },
+    {
+      "id": "5bddbd19-9f63-4efe-be89-73c83f8733bd",
+      "title": "チョコスプレー♡",
+      "artist": "いぎなり東北産",
+      "isrc": "JPX952400073",
+      "releaseDate": "2024-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/5w1lbtD8X8D8H970EiNWBT",
+      "isFallback": true
+    },
+    {
+      "id": "7fe7cfa2-f25a-4235-acde-3b8afbbb4c0b",
+      "title": "LOVE&PEACE",
+      "artist": "清竜人",
+      "isrc": "JPPO01346740",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/6RK0Lvfpct69Mu6lI7Xydc",
+      "isFallback": false
+    },
+    {
+      "id": "30d7f1e4-e5d2-466c-a6ad-af6f2248a7ac",
+      "title": "おどれどつきまわしたろか",
+      "artist": "清竜人",
+      "isrc": "JPPO01411769",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/2WngNcvL8NbjmO7MSAEr43",
+      "isFallback": false
+    },
+    {
+      "id": "7c3df2a0-d037-4fff-be32-87128fa31dad",
+      "title": "If I stay out of life…?",
+      "artist": "清竜人",
+      "isrc": "JPU902204059",
+      "releaseDate": "2022-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/4eVQXbi17iJs1uSXgtn30I",
+      "isFallback": false
+    },
+    {
+      "id": "5c4ff12d-1b2c-43aa-9527-5f852e238649",
+      "title": "バカ♡バカ♡バカ♡",
+      "artist": "清竜人",
+      "isrc": "JPTO01200644",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/2ymopKlWQjdOVUyIdW8TiN",
+      "isFallback": false
+    },
+    {
+      "id": "5e52757f-7e1c-401b-898f-5b6174dd9db5",
+      "title": "ハードボイルドに愛してやるぜ♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513702",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/7AtRIK2emkJljnMkj7aErr",
+      "isFallback": false
+    },
+    {
+      "id": "3be2387c-844c-47ef-ba46-9f97ba9b1f6a",
+      "title": "Disclosure",
+      "artist": "清竜人",
+      "isrc": "JPPO01346745",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/49x0UNLoeqe52BmRnbnjyL",
+      "isFallback": false
+    },
+    {
+      "id": "4b604826-d255-417e-b7d2-26a91f9e71f4",
+      "title": "イマジネーション",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01610275",
+      "releaseDate": "2016-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/19aa9qVJValQqhyHPBGFhC",
+      "isFallback": true
+    },
+    {
+      "id": "c2f1a1b0-da8a-4239-bcb9-86ea608185aa",
+      "title": "アバンチュールしようよ♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01609401",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/596b10pJpKhF8IQlE7vDlF",
+      "isFallback": false
+    },
+    {
+      "id": "e544c939-549b-4337-b0ed-549a601aecc3",
+      "title": "ぼくが死んでしまっても",
+      "artist": "清竜人",
+      "isrc": "JPTO01100062",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/6wpIWFLPmTLaszauqLC0Th",
+      "isFallback": false
+    },
+    {
+      "id": "5ab3ad48-8e1b-41ec-8f0b-c2c94a78668e",
+      "title": "うつくしい",
+      "artist": "清竜人",
+      "isrc": "JPTO01100065",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5Wcf7Aq0FzUAfabbC8ffar",
+      "isFallback": false
+    },
+    {
+      "id": "204a710a-4118-49ad-b25b-18838ec6b40c",
+      "title": "Pray Pray Pray",
+      "artist": "甘神三姉妹",
+      "isrc": "JPKI02414755",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/365LQqYSlscSglYNrabEIO",
+      "isFallback": true
+    },
+    {
+      "id": "32d2bee9-68f8-4683-bf5e-48ba6060d769",
+      "title": "いない",
+      "artist": "清竜人",
+      "isrc": "JPU902204064",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/572ECIHX1TkHjlmLEeu8T6",
+      "isFallback": false
+    },
+    {
+      "id": "55dc2dcc-b192-4839-a94a-cf7938fa4964",
+      "title": "Love is over…",
+      "artist": "清竜人",
+      "isrc": "JPU902204060",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Y7mei0h66a6jReOiw4TVc",
+      "isFallback": false
+    },
+    {
+      "id": "c7de5594-173d-4b8d-84de-59ea861d1cec",
+      "title": "A・B・Cじゃグッと来ない!!",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01419901",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1Q7oi2yGPuiiiCkVeOBvxB",
+      "isFallback": false
+    },
+    {
+      "id": "3ad95a2b-78f5-4f50-81a6-9ffb77d561c3",
+      "title": "Someday",
+      "artist": "清竜人",
+      "isrc": "JPU902204063",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/2yV3AfO41RDpAgZHmtNTIP",
+      "isFallback": false
+    },
+    {
+      "id": "06318d16-fbc3-487f-b765-1a63e76672a9",
+      "title": "あなたにだけは",
+      "artist": "清竜人",
+      "isrc": "JPTO00900020",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3HhFNeKBFnzI2VQZBjt4Rl",
+      "isFallback": false
+    },
+    {
+      "id": "59d65635-a6e5-43bb-9e7d-d176148e4d44",
+      "title": "あのね...実はわたし、夢眠ねむなんだ...♡",
+      "artist": "夢眠ねむ",
+      "isrc": "JPTF01400801",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/1x3jrv51YRBv8lbzJ5eOeC",
+      "isFallback": true
+    },
+    {
+      "id": "1c6ad740-d999-4807-a944-2ef6858b6f2d",
+      "title": "CHILDISH LOVE WORLD",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01210429",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/1oXpSK8EAMjx2yrbKPqljY",
+      "isFallback": true
+    },
+    {
+      "id": "778616dc-ab43-42b6-a2a5-5699cac362d9",
+      "title": "アカシック♡レコード",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606102",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/1io8BWrhS3l6OqGFd7oJdc",
+      "isFallback": false
+    },
+    {
+      "id": "78e98847-2fc0-437c-bc16-0673f67b9314",
+      "title": "あくま",
+      "artist": "清竜人",
+      "isrc": "JPTO00902862",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/2hOWCdmNqsmnSXAyYZgg0G",
+      "isFallback": false
+    },
+    {
+      "id": "337648de-8cfb-46d2-8923-2cfb89c2a872",
+      "title": "Friends Friends Friends",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI02411185",
+      "releaseDate": "2024-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/7FGxKLws5EigU5xMKnkopB",
+      "isFallback": true
+    },
+    {
+      "id": "0d088525-ee03-47d2-a4fc-5d0099fb8de9",
+      "title": "トリック・アート",
+      "artist": "清 竜人",
+      "isrc": "JPU902300946",
+      "releaseDate": "2023-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l",
+      "isFallback": false
+    },
+    {
+      "id": "d037345e-1fc1-4d0d-9506-cd076fa42496",
+      "title": "Christmas♡Symphony",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01519701",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/4GPjibklWzs0KGwCJoadWS",
+      "isFallback": false
+    },
+    {
+      "id": "862946fd-e637-45c2-8b32-95715cedb150",
+      "title": "コンサートホール",
+      "artist": "清竜人",
+      "isrc": "JPU902104508",
+      "releaseDate": "2021-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/0slmbMo2YnlXeY0WB9m5KW",
+      "isFallback": false
+    },
+    {
+      "id": "de2d376d-df1d-4eb6-a8fb-8c2df07e0c56",
+      "title": "UNDER",
+      "artist": "清竜人",
+      "isrc": "JPPO01346741",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/5szEtrBHDevepNkk1JIuB5",
+      "isFallback": false
+    },
+    {
+      "id": "ba6202cc-8e3c-4962-ad37-063e235c66cb",
+      "title": "The Movement",
+      "artist": "清竜人",
+      "isrc": "JPPO01346742",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/1tDt33me0HDoK1LD6eQ0ny",
+      "isFallback": false
+    },
+    {
+      "id": "c63c4873-66df-45b6-9cd8-bc8c4da7d51c",
+      "title": "イザベラ",
+      "artist": "清竜人",
+      "isrc": "JPTO01100063",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/19q3ePVlL6cBiB3AkpVceK",
+      "isFallback": false
+    },
+    {
+      "id": "f300096f-4885-4f53-806f-a3fbf55200b8",
+      "title": "よくやった",
+      "artist": "清竜人",
+      "isrc": "JPTO00901358",
+      "releaseDate": "2009-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/1GozTTdP3O9QZzLktj5uix",
+      "isFallback": false
+    },
+    {
+      "id": "15ac8dab-7f24-4a0d-ad58-f88687b58c01",
+      "title": "友達だよ、いつの日も",
+      "artist": "長瀬琴乃",
+      "isrc": "JPX402300095",
+      "releaseDate": "2023-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4HXThh22bhIFRt1hbM1vgH",
+      "isFallback": false
+    },
+    {
+      "id": "2e1d7fd6-6c44-423c-80ef-c7318530befe",
+      "title": "一生スマホ触っていたいの♡",
+      "artist": "Appare!",
+      "isrc": "TCJPB2429887",
+      "releaseDate": "2024-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/3xJUYKa1fGpcYIgSzc5JHF",
+      "isFallback": true
+    },
+    {
+      "id": "3c662d32-0e7b-4492-86cb-2ee86f4cfccd",
+      "title": "抱きしめたって、近過ぎて",
+      "artist": "清竜人",
+      "isrc": "JPKI01815650",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/0suI05VYC5cGEg1p9aTlPO",
+      "isFallback": false
+    },
+    {
+      "id": "3c39b8d5-c42f-43db-be4c-aa5b41186adb",
+      "title": "ぼくらはつながってるんだな",
+      "artist": "清竜人",
+      "isrc": "JPPO01411765",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/1XwMvtVtGVr4OUZQriwDZP",
+      "isFallback": false
+    },
+    {
+      "id": "859556bd-5e24-4a26-bbbb-3d88b84aeddf",
+      "title": "逢いたいYO～♪",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513705",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/0kjCzS4DZ6x5wxNssDpTYL",
+      "isFallback": false
+    },
+    {
+      "id": "07051473-b96f-4e34-b6d2-07150cccbaf7",
+      "title": "半永久的に愛してよ♡",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01318335",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/5CyM9m4CTPJrwdAdMrMK0O",
+      "isFallback": true
+    },
+    {
+      "id": "9c8b4f6e-60c0-4ed4-8147-e288177978bf",
+      "title": "マリッジブルーを抱きしめて♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01703503",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/4voWhPV0KBjE5qdGs5I5te",
+      "isFallback": false
+    },
+    {
+      "id": "0b270c78-a9fd-44e0-8dc7-ce80099d08f1",
+      "title": "結婚してもMAMAになっても君は永遠にぼくのIDOL♡",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02003506",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/6yulLkOHFE1IbbypUN6oHH",
+      "isFallback": true
+    },
+    {
+      "id": "418ce465-6da7-4a16-8e7f-6554701a8091",
+      "title": "悲システム",
+      "artist": "清竜人",
+      "isrc": "JPTO00900192",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/7wJEZJaiPvT1KyzFoAyGls",
+      "isFallback": false
+    },
+    {
+      "id": "81cb5f55-478f-49d1-991b-a392bf93de9e",
+      "title": "偉い偉いさんのボタン",
+      "artist": "清竜人",
+      "isrc": "JPTO00902861",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4PmASZI776nk4od1mr6jCV",
+      "isFallback": false
+    },
+    {
+      "id": "8fc37205-0a2d-475d-ac99-0c4d264fc337",
+      "title": "天上天下唯我独尊",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01507103",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/2zZzOvgEdiI19YoUrS2zYP",
+      "isFallback": false
+    },
+    {
+      "id": "6b81418d-7e20-4c7d-82f7-e02936bb2c1c",
+      "title": "涙雨サヨ・ナラ",
+      "artist": "清竜人",
+      "isrc": "JPKI01818266",
+      "releaseDate": "2018-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/0AUOhqMtu5zTHb3PA4fg4Z",
+      "isFallback": false
+    },
+    {
+      "id": "baf4cbd8-b7f8-4251-9413-337effd6a412",
+      "title": "秋の葉の原っぱで",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01904802",
+      "releaseDate": "2019-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/1q7lXTcgi1D9y2nDbdAa31",
+      "isFallback": true
+    },
+    {
+      "id": "b976d280-2fb4-43ff-bec8-22cf8da223b9",
+      "title": "愛してる♡キスしたい♡Hしたい♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01703501",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/5qQZAuP8nfRZW1VzOBSgvt",
+      "isFallback": false
+    },
+    {
+      "id": "bd30b531-41b2-485d-8f08-1ff46cdb7e58",
+      "title": "ラヴ",
+      "artist": "清竜人",
+      "isrc": "JPTO00901357",
+      "releaseDate": "2009-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/3CQ62ukcXsOG4Kbmza2vU4",
+      "isFallback": false
+    },
+    {
+      "id": "15753abc-94fb-4140-8f5c-ff165e892ca3",
+      "title": "撃って",
+      "artist": "花譜",
+      "isrc": "JPY392503355",
+      "releaseDate": "2025-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/3K6UBPZwBoz6KNVBSsaoLb",
+      "isFallback": false
+    },
+    {
+      "id": "c73a37a7-572e-407b-989b-9c3d73e346fb",
+      "title": "平成の男",
+      "artist": "清竜人",
+      "isrc": "JPKI01815648",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/0ONBq5iVdPofzDBXJ390vG",
+      "isFallback": false
+    },
+    {
+      "id": "2cc9eab0-708b-47ef-8d56-5b4b34167057",
+      "title": "ボン♡キュッ♡ボンは彼のモノ♡",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01911350",
+      "releaseDate": "2019-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/611EGxagPaTCK2Y4vf3x4a",
+      "isFallback": true
+    },
+    {
+      "id": "6392b863-03ff-4651-8260-c637852a3c61",
+      "title": "ミステリー…",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01419509",
+      "releaseDate": "2015-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/6agyBszXlcLXSQznZFaW1p",
+      "isFallback": true
+    },
+    {
+      "id": "7429e5b3-63bc-4017-8a7c-409d1129cbb4",
+      "title": "鬼の目にもナ♡ミ♡ダ♡",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01419902",
+      "releaseDate": "2015-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/5SxwWzr3oBRch3wEvJ8mw1",
+      "isFallback": false
+    },
+    {
+      "id": "53011b5d-ad47-48d7-b697-1c38f2e60dc2",
+      "title": "離れられない",
+      "artist": "清竜人",
+      "isrc": "JPU902200228",
+      "releaseDate": "2022-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/7jtHSi6afuEoq0ypNafipg",
+      "isFallback": false
+    },
+    {
+      "id": "89bd6b5e-c93b-4115-8a0f-5726d2601aeb",
+      "title": "ぼくはバイセクシャル",
+      "artist": "清竜人",
+      "isrc": "JPPO01411771",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/11uEaeQec4a62rAt3ZnkT1",
+      "isFallback": false
+    },
+    {
+      "id": "6b38d03a-9c8a-4752-bcad-a48f91ab7ad1",
+      "title": "譲れない...In My Heart...♡",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606105",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/0QMqKAVu80VSEL28dBYze5",
+      "isFallback": false
+    },
+    {
+      "id": "becc9319-5700-4a3c-9e8e-2ff57427578e",
+      "title": "私は私と浮気をするのよ",
+      "artist": "清竜人",
+      "isrc": "JPKI01911764",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/1a8Rw6EK7UHkD6qpSsMawo",
+      "isFallback": false
+    },
+    {
+      "id": "a8cfb0ec-5120-4d32-aca2-c26f9bd8d78e",
+      "title": "春夏秋冬",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01913625",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/6WHW4rwDWJ9pXL1ylSqEUR",
+      "isFallback": true
+    },
+    {
+      "id": "16710a54-635c-40e2-9df2-d5c163938a64",
+      "title": "子♡丑♡寅♡卯♡辰♡巳♡",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01904801",
+      "releaseDate": "2019-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/0RAQA90tpWaDuYhGrj4xgM",
+      "isFallback": true
+    },
+    {
+      "id": "dd927998-8a45-4dfb-bcc9-59319f9378b2",
+      "title": "目が醒めるまで",
+      "artist": "清竜人",
+      "isrc": "JPKI01818262",
+      "releaseDate": "2018-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/3zuliR0mmSdy9X60hAnrxn",
+      "isFallback": false
+    },
+    {
+      "id": "f063d3e6-9462-42a2-8b15-00d740c2afb4",
+      "title": "青春は美しい",
+      "artist": "清竜人",
+      "isrc": "JPKI01911763",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/0zOhqpUH55tVto5ulk6Mjc",
+      "isFallback": false
+    },
+    {
+      "id": "82ed24bd-09d2-4464-8ffe-24c03e15b6c3",
+      "title": "地獄の果てまでShall we dance？♡（＋ゆかいな仲間たち）",
+      "artist": "トゥルシー・ナイトメア・マッドネス・4世",
+      "isrc": "QMBZ92580397",
+      "releaseDate": "2025-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/2pBBqcZ5x4JjAQuywxjf72",
+      "isFallback": true
+    },
+    {
+      "id": "2100e58c-330d-46bf-9f60-ed72625ac336",
+      "title": "ゆかりはゆかり♡",
+      "artist": "清竜人",
+      "isrc": "JPU902001281",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/75eOBaHgSE4tjAZ3miNDCg",
+      "isFallback": false
+    },
+    {
+      "id": "3c2f3438-fc1d-485d-8a4b-b26fc3f4305f",
+      "title": "馬鹿真面目",
+      "artist": "清竜人",
+      "isrc": "JPKI01911761",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/3ebSkeG8IIFge5HboHdtXu",
+      "isFallback": false
+    },
+    {
+      "id": "a4b34e78-16b7-4b71-9440-6f3044735319",
+      "title": "マドモアゼル",
+      "artist": "清竜人",
+      "isrc": "JPTO00902800",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4Y1HK3BMcZQY2q20QF87oo",
+      "isFallback": false
+    },
+    {
+      "id": "be653450-888d-433c-80e0-a884261cbd68",
+      "title": "私のことを愛してくれた沢山の人達へ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01917301",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/5oWFp5xTOChhbkCzVo3EgD",
+      "isFallback": true
+    },
+    {
+      "id": "ea1046a6-a3c5-4d70-9c1e-4ec2774b77ed",
+      "title": "マイ☆スター",
+      "artist": "清竜人",
+      "isrc": "JPTO00902863",
+      "releaseDate": "2010-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/02XARS1C7HG2hUCOThchmM",
+      "isFallback": false
+    },
+    {
+      "id": "40a00847-f0d8-4cbc-8722-5041a10e3451",
+      "title": "やっぱりWifeがNo.1♪",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513706",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/7gJuItAG4MMz0XiMEUqJPs",
+      "isFallback": false
+    },
+    {
+      "id": "1a469c40-9387-4d47-ba0b-940f7f595d78",
+      "title": "まるで嘘のように...♡",
+      "artist": "清 竜人",
+      "isrc": "JPTF01606104",
+      "releaseDate": "2016-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/48yi40KxKuXYPfjoD7SFGR",
+      "isFallback": false
+    },
+    {
+      "id": "6d8e483e-a0ac-4348-b6e1-71d12b68f3a2",
+      "title": "ワールド",
+      "artist": "清竜人",
+      "isrc": "JPPO01411764",
+      "releaseDate": "2010-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/5GJjpp8ipCPeJr6RSCTQez",
+      "isFallback": false
+    },
+    {
+      "id": "ab14dcf8-c90f-4ccf-b92c-d4b549cad234",
+      "title": "花占いするの♡",
+      "artist": "小倉唯",
+      "isrc": "JPCO02429330",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/46TZyM3FOOJr3ie6MYWXgN",
+      "isFallback": true
+    },
+    {
+      "id": "dca7f8cb-9fda-4376-919e-12550d2f6b96",
+      "title": "まもなく、でんぱ組.incが離陸致します♡",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01406802",
+      "releaseDate": "2014-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/3Zv0OegoQH0o16OXnL8MxL",
+      "isFallback": true
+    },
+    {
+      "id": "17bcba14-6668-4225-9d82-cf87fcb136da",
+      "title": "朝姫は朝だけ姫気分♡",
+      "artist": "甘神朝姫",
+      "isrc": "JPKI02414614",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0xOSrofUO4tIUpS0g2C3nZ",
+      "isFallback": true
+    },
+    {
+      "id": "43db56f5-95ca-4c8a-905f-6d25afbb344f",
+      "title": "りゅうじんのエッチ♡〜ぼくのばちあたりな妄想劇〜",
+      "artist": "清竜人",
+      "isrc": "JPTO01200642",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/1fgxbfHm4n7rDgqv6Z2Izt",
+      "isFallback": false
+    },
+    {
+      "id": "6d60e742-1302-4d91-92f6-9c8adc2170f0",
+      "title": "遥か",
+      "artist": "清竜人",
+      "isrc": "JPU902304061",
+      "releaseDate": "2023-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S",
+      "isFallback": false
+    },
+    {
+      "id": "de043ef2-ac83-483b-b40d-332cd185f799",
+      "title": "マイ♡ワイフ♡イズ♡アイドル",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01703504",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/0NaE1rygvdONi1qv8AN4wv",
+      "isFallback": false
+    },
+    {
+      "id": "5b670c3f-6e72-4f9d-8f14-fc33eda44fe6",
+      "title": "ラブ♡ボクシング",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01414202",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/0Zml6DX9fYqGltlVwKzUdp",
+      "isFallback": false
+    },
+    {
+      "id": "db2fd88b-f9f2-41cb-912c-d9a04563fdce",
+      "title": "素晴らしい",
+      "artist": "清竜人",
+      "isrc": "JPTO00900193",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5Edaon9ssVveJ1AxhESfuT",
+      "isFallback": false
+    },
+    {
+      "id": "a99cfda2-6235-43da-92be-b0498eec5794",
+      "title": "違う",
+      "artist": "清竜人",
+      "isrc": "JPTO00900191",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3OqdHXlwMFq4jvDnsUljJm",
+      "isFallback": false
+    },
+    {
+      "id": "2bec6d5b-9119-4b3d-ae52-5f3d335b6da9",
+      "title": "愛が目の前に現れても僕はきっと気付かず通り過ぎてしまう",
+      "artist": "清竜人",
+      "isrc": "JPU902204061",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3NB6K29dskGovZvn4X34ja",
+      "isFallback": false
+    },
+    {
+      "id": "4decc80a-ecb7-4758-85ec-e3fd63186598",
+      "title": "雨",
+      "artist": "清竜人",
+      "isrc": "JPTO01200640",
+      "releaseDate": "2012-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/32Uu0AqPS1y0hacSUSsgES",
+      "isFallback": false
+    },
+    {
+      "id": "ed64fd2b-b03f-4049-86ca-ee94ff536928",
+      "title": "誓いのワルツ",
+      "artist": "清 竜人25",
+      "isrc": "JPTF01513707",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/3Q1CCmfwf8MeXxuzPqfOBC",
+      "isFallback": false
+    },
+    {
+      "id": "096df854-a47f-40f1-8ef4-7b042d14c768",
+      "title": "好き 〜17さいの拙い恋ごころ〜",
+      "artist": "清竜人",
+      "isrc": "JPTO01100030",
+      "releaseDate": "2011-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/6NpbyitN9XItMRbSurkR5p",
+      "isFallback": false
+    },
+    {
+      "id": "5d9ba60b-6efc-40a6-a540-bd8dd0a30d70",
+      "title": "風もバラも雪もぼくも",
+      "artist": "清竜人",
+      "isrc": "JPTO00900021",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/4PN3deo4qdpBR4C1tegUZ2",
+      "isFallback": false
+    },
+    {
+      "id": "134bacaa-3b56-451e-8464-6df5bb9c1eb4",
+      "title": "ホモ・サピエンスはうたを歌う",
+      "artist": "清竜人",
+      "isrc": "JPTO01100066",
+      "releaseDate": "2011-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/2bAYI80NSkYBvZBZxo0PhH",
+      "isFallback": false
+    },
+    {
+      "id": "6aff552f-0c35-4cb8-9734-3b596529477b",
+      "title": "聴こえないように♡",
+      "artist": "田村ゆかり",
+      "isrc": "JPK631903901",
+      "releaseDate": "2019-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/0uQLwhVkRqD9QCPrBZoquN",
+      "isFallback": true
+    },
+    {
+      "id": "4e202c67-072a-4a7d-beec-af09e56781e1",
+      "title": "ぼくはロリータ･コンプレックス",
+      "artist": "清竜人",
+      "isrc": "JPPO01411770",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/6es52NWsR8gJoZWu5rTXJq",
+      "isFallback": false
+    },
+    {
+      "id": "f34dd1bf-dc4b-426c-8b01-b2d3005536db",
+      "title": "痛いよ",
+      "artist": "清竜人",
+      "isrc": "JPPO01411763",
+      "releaseDate": "2010-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/0lxEVfWUdKaGrFbUnuQXU9",
+      "isFallback": false
+    },
+    {
+      "id": "e39dfe61-5b68-4b7e-8b6c-6f9d665082c3",
+      "title": "少女のおやつはイエローケーキ",
+      "artist": "清竜人",
+      "isrc": "JPTO00902689",
+      "releaseDate": "2010-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/0uuXOC0aCobPcUESOn3LQc",
+      "isFallback": false
+    }
+  ]
+}

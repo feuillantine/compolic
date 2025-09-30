@@ -1,0 +1,720 @@
+{
+  "name": "佐藤純一",
+  "sortName": "サトウジュンイチ",
+  "otherNames": [
+    "fhána"
+  ],
+  "tracks": [
+    {
+      "id": "2fe3ea4e-ca63-4515-93a6-20ebc5166c8b",
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "isrc": "JPI101602771",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3J13AWtVj8EWWEi1yfNl8J",
+      "isFallback": true
+    },
+    {
+      "id": "a6a74d4c-515a-47c5-a42f-2ff3d4a52e07",
+      "title": "Good Song",
+      "artist": "伊藤美来",
+      "isrc": "JPCO02026910",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/1csi0iHUKw07rjXqHRUX6i",
+      "isFallback": true
+    },
+    {
+      "id": "6ccf6efe-2227-4ad7-94c7-fdfb8418e6bd",
+      "title": "ケセラセラ",
+      "artist": "fhána",
+      "isrc": "JPI101402576",
+      "releaseDate": "2015-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/3Ba4AE3qz5DlSzMk5nLTRH",
+      "isFallback": true
+    },
+    {
+      "id": "ea9f87f6-1c8a-4eab-b10e-5f10167a7c84",
+      "title": "Do you realize?",
+      "artist": "fhána",
+      "isrc": "JPI101800784",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/5XfwD5yDQovFgUWtWEIEPs",
+      "isFallback": true
+    },
+    {
+      "id": "e5a35cc3-d986-4c94-931e-7652d77d937e",
+      "title": "GIVE ME LOVE",
+      "artist": "小林さん",
+      "isrc": "JPI102102370",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/0lcnZa8Wv6aswp1cGlvy5p",
+      "isFallback": true
+    },
+    {
+      "id": "f0e02d05-0369-47b5-8969-487414aff338",
+      "title": "地球儀にない国",
+      "artist": "七尾百合子",
+      "isrc": "JPI101701512",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/2fjvHJk1rD4FNfwjdH5HlE",
+      "isFallback": false
+    },
+    {
+      "id": "10c671c5-d66b-430b-a142-f28aecc5a378",
+      "title": "Singbird",
+      "artist": "亜咲花",
+      "isrc": "JPK631900103",
+      "releaseDate": "2019-01-02",
+      "spotifyUrl": "https://open.spotify.com/track/4eIyy0idpWlUxW472Z5zhZ",
+      "isFallback": true
+    },
+    {
+      "id": "e16691a3-8ff8-4c7e-ad13-3bede7d14e8c",
+      "title": "虹のソルフェージュ",
+      "artist": "石原夏織",
+      "isrc": "JPPC01801863",
+      "releaseDate": "2018-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/3LE9gUVoQODP2Ca5oVmNZ7",
+      "isFallback": true
+    },
+    {
+      "id": "56eb7fa3-df87-4995-bb87-7e2b8e7528e6",
+      "title": "聴こえる?",
+      "artist": "内田真礼",
+      "isrc": "JPPC02111918",
+      "releaseDate": "2022-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/7yO6MXpbXh2Va2n6DOr9fT",
+      "isFallback": true
+    },
+    {
+      "id": "1fa9d886-1a74-40e5-a420-6fe6f11cba30",
+      "title": "ピースフルデイズ",
+      "artist": "カンナ",
+      "isrc": "JPI102102375",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/31BbfkjASuabnI1mjJX7nj",
+      "isFallback": true
+    },
+    {
+      "id": "62a79532-64af-4074-a635-645869563a8f",
+      "title": "Code “Genius”?",
+      "artist": "亜咲花",
+      "isrc": "JPK632103410",
+      "releaseDate": "2021-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba636d16-94c1-4b20-aae7-99360f397b51",
+      "title": "STORIES",
+      "artist": "fhána",
+      "isrc": "JPI101802714",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/4CBZKf91ey2FGsJyIrMkJ2",
+      "isFallback": true
+    },
+    {
+      "id": "54e9b0dc-2fda-4932-b701-175c63f8b26d",
+      "title": "流星のなみだ",
+      "artist": "古宮乃々香",
+      "isrc": "",
+      "releaseDate": "2015-02-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b88bbff1-9405-42f2-99b8-9b73b380e99c",
+      "title": "GIVE ME LOVE (fhána Rainy Flow Ver.)",
+      "artist": "fhána",
+      "isrc": "JPI102101503",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/6b0CCBrgCPwE8tFyhvaOhn",
+      "isFallback": true
+    },
+    {
+      "id": "a097d879-1656-4117-aa68-88a96f356828",
+      "title": "Relief",
+      "artist": "fhána",
+      "isrc": "JPI101600804",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1lwOauIVZZ5D0NB1Twk4nx",
+      "isFallback": true
+    },
+    {
+      "id": "e210fe28-524e-49e6-b3e4-ff359cf24798",
+      "title": "僕を見つけて",
+      "artist": "fhána",
+      "isrc": "JPI101901234",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/29WLXO4L8kVoh36WeSToOk",
+      "isFallback": true
+    },
+    {
+      "id": "36a8401e-6a79-4230-8b95-88e3318630d9",
+      "title": "イシュカン・コミュニケーション",
+      "artist": "ちょろゴンず",
+      "isrc": "JPI101700001",
+      "releaseDate": "2017-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/7sa81eUmkApXSfU1du3oRX",
+      "isFallback": true
+    },
+    {
+      "id": "42cba9c1-310d-4fd1-a957-4937be2b9761",
+      "title": "looping star",
+      "artist": "ChouCho",
+      "isrc": "JPI101201424",
+      "releaseDate": "2012-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/1VCnfmi67Ae6zngDhxpX6e",
+      "isFallback": true
+    },
+    {
+      "id": "1c964497-43be-4663-96f3-24917777d9d4",
+      "title": "Unplugged",
+      "artist": "fhána",
+      "isrc": "JPI101901238",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/3fnvt2shTxoBoeeFKcdfu6",
+      "isFallback": true
+    },
+    {
+      "id": "a7ea1131-7157-4d30-989a-12deed2ac608",
+      "title": "星屑のインターリュード",
+      "artist": "fhána",
+      "isrc": "JPI101402187",
+      "releaseDate": "2014-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/0MhMDpS7Vj7SYKJIgSKwNu",
+      "isFallback": true
+    },
+    {
+      "id": "3ce65172-f967-46c9-a38e-b2c7bb4a1977",
+      "title": "涙のパレード",
+      "artist": "fhána",
+      "isrc": "JPI102501265",
+      "releaseDate": "2025-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/2q073U2UJwFSDodhvDMrzS",
+      "isFallback": true
+    },
+    {
+      "id": "d70b0d40-1dac-4703-a025-39073ead3e08",
+      "title": "Beautiful Circle",
+      "artist": "角巻わため",
+      "isrc": "JPV752307972",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/4C3klfwXqCFv61VJ4bP7oJ",
+      "isFallback": true
+    },
+    {
+      "id": "000ab2a2-8e3a-4fd2-9ba5-5c489d5aca48",
+      "title": "天使たちの歌",
+      "artist": "fhána",
+      "isrc": "JPCO02421750",
+      "releaseDate": "2024-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk",
+      "isFallback": true
+    },
+    {
+      "id": "79815f1f-73b4-4240-9495-ee4662ec0393",
+      "title": "探していた風景",
+      "artist": "長門有希",
+      "isrc": "JPI101500673",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/7dRehWP1wZGtK8MKapGnWv",
+      "isFallback": true
+    },
+    {
+      "id": "94268711-407b-4e0f-abff-8322c26c03ff",
+      "title": "ペン:力:刀",
+      "artist": "星見純那",
+      "isrc": "JPPC02110460",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/4GW1V8OduwrVM0TtG0jucO",
+      "isFallback": false
+    },
+    {
+      "id": "bfb984a5-9e89-4073-88b8-9212b04f341f",
+      "title": "光舞う冬の日に (fhána Looking for the World Atlas Tour 2017より)",
+      "artist": "fhána",
+      "isrc": "JPI101802790",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a82c66b3-7772-4ea7-98a4-a3001cd1780e",
+      "title": "Wonderland",
+      "artist": "麻倉もも",
+      "isrc": "JPX402400091",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0KBt3GhDDsNfbRj0MgavO9",
+      "isFallback": true
+    },
+    {
+      "id": "a04c6891-d23b-4dd0-8e10-ec5cac31ada4",
+      "title": "white light (fhána 1st Live Tour「Outside of Melancholy Show 2015」より)",
+      "artist": "fhána",
+      "isrc": "JPI101802795",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f398361-6dc7-437c-aa93-fc882444869d",
+      "title": "life is blue back",
+      "artist": "ChouCho",
+      "isrc": "JPI101202266",
+      "releaseDate": "2012-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/1Lu63s181oKSYHH9bRXgTO",
+      "isFallback": true
+    },
+    {
+      "id": "a6445fa2-c6e7-487b-83e2-b08710deddad",
+      "title": "愛のシュプリーム!",
+      "artist": "fhána",
+      "isrc": "JPI102101499",
+      "releaseDate": "2021-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/03FUnhSnPO95g1JNsxSraj",
+      "isFallback": true
+    },
+    {
+      "id": "0381f5e7-0f71-4686-9f09-7d0cfc7dba31",
+      "title": "Rebuilt world",
+      "artist": "fhána",
+      "isrc": "JPI101700525",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/42DJ9YwOm5tCLWyqBmcs88",
+      "isFallback": true
+    },
+    {
+      "id": "11c783b7-47f2-4939-bdee-03ca46efbc5f",
+      "title": "私だけの、革命。",
+      "artist": "ニノミヤユイ",
+      "isrc": "JPI101902047",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/4ckvRN2kEKjnW1MwTCA8iJ",
+      "isFallback": true
+    },
+    {
+      "id": "2d73fed6-96f1-4548-aef1-ac1391e93e03",
+      "title": "ユーレカ",
+      "artist": "fhána",
+      "isrc": "JPI101703188",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/00DJT1LczehUacu3aSJJ4l",
+      "isFallback": true
+    },
+    {
+      "id": "fb3ae795-9e5e-4794-b31d-84789b67d505",
+      "title": "きみは帰る場所",
+      "artist": "Gothic×Luck",
+      "isrc": "JPVI01900416",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/5XVNaH8ZGMm4a59V8LgPIj",
+      "isFallback": false
+    },
+    {
+      "id": "276b81ea-7b2c-42a4-8ea0-3c926647e6f8",
+      "title": "追憶のかなた",
+      "artist": "fhána",
+      "isrc": "JPI101502430",
+      "releaseDate": "2016-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/3Dex4IjxpiiJI3gPRphbcn",
+      "isFallback": true
+    },
+    {
+      "id": "150a96db-6766-4c1a-bb27-cdceac30692c",
+      "title": "What a Wonderful World Line",
+      "artist": "fhána",
+      "isrc": "JPI101600803",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/0li4ptj61BCmpuPoIkhF74",
+      "isFallback": true
+    },
+    {
+      "id": "89a8f603-fa76-407a-b35c-e4eb0b0ba8e2",
+      "title": "TickTack Invitation",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01829130",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/2ZpC9TxyFaFhVoPfNXcsf1",
+      "isFallback": true
+    },
+    {
+      "id": "f12bf580-06b7-4fce-81d2-affbc54ad247",
+      "title": "ワンダーステラ",
+      "artist": "fhána",
+      "isrc": "JPI101501194",
+      "releaseDate": "2015-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0jDmfNNLVzopBMSYAsFhWt",
+      "isFallback": true
+    },
+    {
+      "id": "5547d5ba-4bf9-4f8f-bc5c-d5406d3c7fd3",
+      "title": "The Color to Gray World",
+      "artist": "fhána",
+      "isrc": "JPI101600802",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2arCkQD76LwzujzdbHNLpa",
+      "isFallback": true
+    },
+    {
+      "id": "2b9548cc-2ec4-429f-944e-0fcf6a37f53e",
+      "title": "Code “Genius” ? (English Ver.)",
+      "artist": "fhána",
+      "isrc": "JPI102000096",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6Rp7W0PCtLodlSMB5ZiXyo",
+      "isFallback": true
+    },
+    {
+      "id": "8ef95389-4799-4ae8-8ff2-983e5d7303e3",
+      "title": "Outside of Melancholy ～憂鬱の向こう側～ (fhána Looking for the World Atlas Tour 2017より)",
+      "artist": "fhána",
+      "isrc": "JPI101802794",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "523455c6-59c2-4d4f-af35-2df966a33da3",
+      "title": "再生讃美曲",
+      "artist": "スタァライト九九組",
+      "isrc": "JPPC02000815",
+      "releaseDate": "2020-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/5Axe66nJtrRYhiOX7aMCNB",
+      "isFallback": false
+    },
+    {
+      "id": "a666c5b9-86df-4701-9530-1118bc57c9c7",
+      "title": "Hello!My World!!",
+      "artist": "fhána",
+      "isrc": "JPI101701419",
+      "releaseDate": "2017-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/7cHoxNRZvk8ycOFLo7dy1H",
+      "isFallback": true
+    },
+    {
+      "id": "bb210d41-a8c6-4b96-8f8d-248d09e0614a",
+      "title": "Pathos (kevin mitsunaga Remix)",
+      "artist": "fhána",
+      "isrc": "JPJ932100009",
+      "releaseDate": "2021-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/7boRRoyFaAJvgq0TfH74sC",
+      "isFallback": true
+    },
+    {
+      "id": "4594e091-e0e3-4a10-afac-39761dc1f402",
+      "title": "Runaway World",
+      "artist": "fhána",
+      "isrc": "JPCO02304450",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe",
+      "isFallback": false
+    },
+    {
+      "id": "20f586f6-c49b-4d82-aa6e-51ff33b6849d",
+      "title": "虹を編めたら",
+      "artist": "fhána",
+      "isrc": "JPI101502505",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/6HD1Nc4MMeirz4izAkq5St",
+      "isFallback": true
+    },
+    {
+      "id": "3b2afad0-940f-4d03-9b96-e99cc1750bba",
+      "title": "はじまりのサヨウナラ",
+      "artist": "fhána",
+      "isrc": "JPI101302286",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/7aTGFjrQpMnMfYUyck6Zid",
+      "isFallback": true
+    },
+    {
+      "id": "9c5c779e-9d0a-4f36-8ee7-6552678744fe",
+      "title": "World Atlas",
+      "artist": "fhána",
+      "isrc": "JPI101800783",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/0jpgJBziIdS1hXL31izS31",
+      "isFallback": true
+    },
+    {
+      "id": "50a8aec3-75ff-4171-952c-75ed4b2d7122",
+      "title": "ホシノカケラ",
+      "artist": "fhána",
+      "isrc": "JPI101402385",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/7HMURPAFGt7lPPuUz4bGMG",
+      "isFallback": true
+    },
+    {
+      "id": "609fc6aa-c70a-4add-ba36-7edcb7be09b3",
+      "title": "gift song",
+      "artist": "fhána",
+      "isrc": "JPI101600808",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7Lm85yn7m8zdkz100heqdM",
+      "isFallback": true
+    },
+    {
+      "id": "66c21799-86eb-426e-a02f-d00935594fd9",
+      "title": "ソナタとインターリュード (Instrumental)",
+      "artist": "fhána",
+      "isrc": "JPI101402384",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/6uvS3tJNw5HLG6hsQPKv7V",
+      "isFallback": true
+    },
+    {
+      "id": "06059231-6700-4929-a87e-79e8bd5c0535",
+      "title": "SWEET SHAKE!!",
+      "artist": "桜井春菜",
+      "isrc": "JPD731900149",
+      "releaseDate": "2019-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4ITCkTZgi8dFZjMDJfhliA",
+      "isFallback": true
+    },
+    {
+      "id": "5685caf5-7c03-4c43-9e3e-738eef6b9cbf",
+      "title": "天体のメソッド 〜Quote from Stardust Interlude〜",
+      "artist": "fhána",
+      "isrc": "JPI101402391",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4Qg0AKvibFWjgh4I5QxnAV",
+      "isFallback": true
+    },
+    {
+      "id": "5c087598-46c4-4fd7-81e7-ebaf363dbf63",
+      "title": "Spiral",
+      "artist": "fhána",
+      "isrc": "JPCO02320930",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/17adaAiH5jM7F2q9AHoYnU",
+      "isFallback": false
+    },
+    {
+      "id": "45bd1d5c-faa5-4b38-9d0a-2325b8c8eef5",
+      "title": "It’s a Popular Song",
+      "artist": "fhána",
+      "isrc": "JPI101800787",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/1UKcxzs6IC3WjYMPMNQ4Y5",
+      "isFallback": true
+    },
+    {
+      "id": "4ba1f323-6ffc-4786-bc57-1ddc03c43e02",
+      "title": "街は奏でる (fhána 1st Live Tour 「Outside of Melancholy Show 2015」より)",
+      "artist": "fhána",
+      "isrc": "JPI101802789",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2b6f3b93-dea5-4cbb-9e3c-d2bac19ccdf6",
+      "title": "Tomorrow is another day",
+      "artist": "ChouCho",
+      "isrc": "JPI101600099",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4gDWxbi3MdbnaRQoiYWkSd",
+      "isFallback": true
+    },
+    {
+      "id": "9ef9e854-ed12-494e-9715-3fb823277269",
+      "title": "閃きハートビート",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01829110",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/0Mc9AghsBZNudNMhBdl6Rs",
+      "isFallback": true
+    },
+    {
+      "id": "4cc9b7ac-6ec3-4a75-b27a-ef1e1b5062cf",
+      "title": "君という特異点 [singular you]",
+      "artist": "fhána",
+      "isrc": "JPJ931400257",
+      "releaseDate": "2015-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/2kxXUHd8zkBp65RNFDlHQ1",
+      "isFallback": true
+    },
+    {
+      "id": "4e8a395d-e646-4ff1-928b-e57a0db69392",
+      "title": "Brand new stage",
+      "artist": "えのぐ",
+      "isrc": "JPPO01902084",
+      "releaseDate": "2019-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/27HyE8BR87zeUEufIg0rF2",
+      "isFallback": false
+    },
+    {
+      "id": "48d84aba-53da-4506-a8c7-25a2860cf291",
+      "title": "いつかの、いくつかのきみとのせかい",
+      "artist": "fhána",
+      "isrc": "JPI101400760",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/1kv7HHTInkwsVnPgZ70v0r",
+      "isFallback": true
+    },
+    {
+      "id": "2612e1ed-f17d-4b4b-9596-f0d5a031617b",
+      "title": "calling",
+      "artist": "fhána",
+      "isrc": "JPI101601444",
+      "releaseDate": "2016-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/6V5gv8AcDdzbYU6yP4tVFk",
+      "isFallback": true
+    },
+    {
+      "id": "dbf37de0-de1a-4c44-8b63-2e9ca3efa006",
+      "title": "tiny lamp",
+      "artist": "fhána",
+      "isrc": "JPI101302285",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/5xu26tZrLeTRJEnj66s75V",
+      "isFallback": true
+    },
+    {
+      "id": "5e47eb84-8b8c-4fe2-b930-7e200acdfb80",
+      "title": "White Night! White Wish!",
+      "artist": "初星学園",
+      "isrc": "JPX832004924",
+      "releaseDate": "2024-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/53h9qebEiSqrdE3aWZRQZ7",
+      "isFallback": true
+    },
+    {
+      "id": "bfe99ce2-753c-4e87-bf3c-1748053f796a",
+      "title": "わたしのための物語 〜My Uncompleted Story〜",
+      "artist": "fhána",
+      "isrc": "JPI101703184",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/5L9UkObnbyH0gy6yKQ9E45",
+      "isFallback": true
+    },
+    {
+      "id": "1cb9ae5f-5ee4-4d0d-a8e2-e9a3a40fedcb",
+      "title": "divine intervention",
+      "artist": "fhána",
+      "isrc": "JPI101303107",
+      "releaseDate": "2014-01-05",
+      "spotifyUrl": "https://open.spotify.com/track/6XRH1eLQuf3CaCTrNfPScR",
+      "isFallback": true
+    },
+    {
+      "id": "0f38f96a-aa0b-483e-85e0-d327193882d4",
+      "title": "コスモスのように",
+      "artist": "fhána",
+      "isrc": "JPI101501744",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/6IZbSYlhzTLzg3tTIOhEgx",
+      "isFallback": true
+    },
+    {
+      "id": "34b1e099-15ed-416b-b623-8327d912f051",
+      "title": "The Circle Of Butterflies",
+      "artist": "Morfonica",
+      "isrc": "JPR562200331",
+      "releaseDate": "2022-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/05pX4qscY2RKEy5MybRKmK",
+      "isFallback": true
+    },
+    {
+      "id": "7f4877f0-33bb-448c-bfd7-3799eecf8db8",
+      "title": "kotonoha breakdown (深窓音楽演奏会 其ノ壱より)",
+      "artist": "fhána",
+      "isrc": "JPI101802791",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "896634e8-80f8-4d3f-9fe7-babc155981e2",
+      "title": "星をあつめて",
+      "artist": "fhána",
+      "isrc": "JPI102000095",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6HO4vrBOmbpoX8GZoe7T8B",
+      "isFallback": true
+    },
+    {
+      "id": "038867ce-8d2c-497f-ab79-68f42fb14441",
+      "title": "White Lyrical Kingdom",
+      "artist": "i☆Ris",
+      "isrc": "JPT552300742",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/06hl0y6Myq8rge0v9DgUCy",
+      "isFallback": false
+    },
+    {
+      "id": "cfcbcfe5-ed39-4e93-8181-814418322626",
+      "title": "lyrical sentence (fhána 1st Live Tour「Outside of Melancholy Show 2015」より)",
+      "artist": "fhána",
+      "isrc": "JPI101802786",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3dec1cc-1c4f-48fd-b84f-387af5801c6b",
+      "title": "コメットルシファー 〜The Seed and the Sower〜",
+      "artist": "fhána",
+      "isrc": "JPI101501740",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/5xfSkje0288TJ0CWLalueu",
+      "isFallback": true
+    },
+    {
+      "id": "c80fef6a-cf2a-4a77-a95c-01011e0ef8b2",
+      "title": "私たちはもう舞台の上",
+      "artist": "スタァライト九九組",
+      "isrc": "JPPC02110257",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/6LBapK106R293G5MJyRp19",
+      "isFallback": false
+    },
+    {
+      "id": "a53bfe05-57a4-47dc-809b-77412441bbf3",
+      "title": "Repeat",
+      "artist": "緒方恵美",
+      "isrc": "JPI102100821",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/4BunxXrFVv2ET0ubuOdfJr",
+      "isFallback": true
+    },
+    {
+      "id": "4ecd0ae3-f4fa-4153-b7ef-dd98d5764d3b",
+      "title": "nameless color",
+      "artist": "fhána",
+      "isrc": "JPJ932100008",
+      "releaseDate": "2021-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/5D7IpYxRGL99qkjxc2bl45",
+      "isFallback": true
+    },
+    {
+      "id": "b68e5200-b14c-4cdf-80da-606cb1fb38cc",
+      "title": "光なくても",
+      "artist": "ニノミヤユイ",
+      "isrc": "JPI101902050",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/5oT7bu3Zyzcw2YOYdxQJdS",
+      "isFallback": true
+    },
+    {
+      "id": "70fdc36e-7e75-4fc2-95b4-a48e3486fb28",
+      "title": "Cipher (fhána What a Wonderful World Line Tour 2016より)",
+      "artist": "fhána",
+      "isrc": "JPI101802792",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "892b51fc-9d90-4b87-8c19-9a98f1cb95eb",
+      "title": "A DAY IN THE DRAGON’S LIFE",
+      "artist": "ちょろゴンず",
+      "isrc": "JPI101700002",
+      "releaseDate": "2017-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/171rhugIvEnb1jeMNmbyN9",
+      "isFallback": true
+    }
+  ]
+}

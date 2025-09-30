@@ -1,0 +1,78 @@
+{
+  "name": "難波研",
+  "sortName": "ナンバケン",
+  "tracks": [
+    {
+      "id": "b8f2c1f9-cf63-4136-af52-722f12cb2846",
+      "title": "KAGAYAKI STARS !!",
+      "artist": "KAGAYAKI STARS",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f312e41a-cf53-4820-8697-d4d6f58db51e",
+      "title": "ほしのなまえ。",
+      "artist": "カグラナナ",
+      "isrc": "",
+      "releaseDate": "2019-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "289f2798-4db5-4b33-b62f-8c269a477807",
+      "title": "彗星。",
+      "artist": "星乃めあ",
+      "isrc": "TCJPK1920462",
+      "releaseDate": "2019-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a5b4f8a-6dcc-4931-a153-abee90c08acf",
+      "title": "あいしてる",
+      "artist": "宇佐木そら",
+      "isrc": "TCJPH2564713",
+      "releaseDate": "2024-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/13OOc3Qpr9FuZwZzOcsg4w",
+      "isFallback": false
+    },
+    {
+      "id": "ce7f3a76-9b59-4d36-b58a-11ed8c2ae34d",
+      "title": "ささめほし。",
+      "artist": "カグラナナ",
+      "isrc": "",
+      "releaseDate": "2019-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bef9fff6-1d0e-44fe-958f-a262de298718",
+      "title": "そらいろイリュージョン！",
+      "artist": "宇佐木そら",
+      "isrc": "TCJPH2564694",
+      "releaseDate": "2024-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/20VFWopQC6qDlexS4akVPd",
+      "isFallback": false
+    },
+    {
+      "id": "639dd64e-8de6-443d-bda3-08e2fabeda59",
+      "title": "Since-Re:ly ～シンシアリー～",
+      "artist": "Re:A projecT",
+      "isrc": "TCJPJ1905894",
+      "releaseDate": "2019-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/6z725dmBxezQMSiSr65hjN",
+      "isFallback": true
+    },
+    {
+      "id": "c058afd8-c471-4e50-a65f-5c91550a42da",
+      "title": "Adastra",
+      "artist": "カグラナナ",
+      "isrc": "",
+      "releaseDate": "2019-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "name": "古川貴浩",
+  "sortName": "フルカワタカヒロ",
+  "tracks": [
+    {
+      "id": "b81e8b2f-247e-4ebf-ac43-29e02b3bf069",
+      "title": "無数の壁",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "212c1cf0-a5da-4109-b009-1b892ac563cd",
+      "title": "Love it Love it",
+      "artist": "Ra*bits",
+      "isrc": "JPD642400290",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/2sNozei8abQcQZeUKLIymL",
+      "isFallback": true
+    },
+    {
+      "id": "26bc3bae-5054-41cb-b72d-6ec3e2df57be",
+      "title": "ソラとウミのアイダ",
+      "artist": "空町春",
+      "isrc": "JPZ921810622",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/30W43eBqDuzgNE03fW69q7",
+      "isFallback": true
+    },
+    {
+      "id": "2389c2af-dabd-414c-b7fb-132f3fb6d214",
+      "title": "巨大な力",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b887ebf0-97d4-4180-b0b8-79cf1b55877d",
+      "title": "自己中男",
+      "artist": "戸松遥",
+      "isrc": "JPX400900201",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/0JpyTy2yQ61TnpNg7lvVPp",
+      "isFallback": true
+    },
+    {
+      "id": "1d26dc10-f387-4bee-bb4b-83a1ae2dd4a8",
+      "title": "恋愛模様",
+      "artist": "YUKI",
+      "isrc": "JPES01000084",
+      "releaseDate": "2010-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/6oXYikGcbD1fMBRjB2uRgl",
+      "isFallback": true
+    },
+    {
+      "id": "975dd4b0-9df7-47ba-b015-efdb463579cf",
+      "title": "ハニーアンドループス (bedroomtheft bootleg)",
+      "artist": "bedroomtheft",
+      "isrc": "",
+      "releaseDate": "2024-12-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "052f3a15-350f-4ca7-88ee-d7026430bf79",
+      "title": "だらしない愛し方",
+      "artist": "アンダーガールズ",
+      "isrc": "JPKI01714869",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/5kVas9n1g34bFsTJ34d6qC",
+      "isFallback": true
+    },
+    {
+      "id": "68d33368-74b9-4638-93a8-29cdbe7a79f4",
+      "title": "Issai Gassai",
+      "artist": "戸松遥",
+      "isrc": "JPX401200142",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/2iMAUQ9P37crgjaLORe1qW",
+      "isFallback": true
+    },
+    {
+      "id": "d5657e9e-372a-4668-9f13-68f7bf320e9c",
+      "title": "Cute",
+      "artist": "9nine",
+      "isrc": "JPU901100142",
+      "releaseDate": "2011-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/2b8TEdNLAJdQ1FW6lU3ae4",
+      "isFallback": true
+    },
+    {
+      "id": "9ca49eb5-63a1-4a05-adce-bea3c6c9793c",
+      "title": "Against",
+      "artist": "乃木坂46",
+      "isrc": "JPU901801017",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/6SptPJcmTkYFJOy75hD1Rl",
+      "isFallback": true
+    },
+    {
+      "id": "5928f161-e8fc-4566-8c92-accfcc156792",
+      "title": "ジャマイカビール",
+      "artist": "櫻坂46",
+      "isrc": "JPU902102721",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/37h3M4ZYJgSRy0cXArsH59",
+      "isFallback": true
+    },
+    {
+      "id": "2d160de6-3723-4718-b766-ff2b3bc5c64b",
+      "title": "なないろ☆ナミダ",
+      "artist": "Tomato n’ Pine",
+      "isrc": "JPSR01102001",
+      "releaseDate": "2011-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/21G9q9V3JEwpK9HJfQUrhg",
+      "isFallback": true
+    },
+    {
+      "id": "06983339-1fec-4c6e-945b-be530e9fd39a",
+      "title": "少女の目覚め",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ad3e2fd0-49c1-44c0-97a6-a52b827fd6ba",
+      "title": "タチツテトパワー",
+      "artist": "22/7",
+      "isrc": "JPU902100083",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4yLh3nAMH3BtNxmjyNKw0M",
+      "isFallback": true
+    },
+    {
+      "id": "1be10bcc-0d45-496f-861d-985aab72bf3e",
+      "title": "Cross Over",
+      "artist": "9nine",
+      "isrc": "JPU901001521",
+      "releaseDate": "2010-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/6W1iwnQVV1MNa33d5jlfLW",
+      "isFallback": true
+    },
+    {
+      "id": "54965546-c6c7-45c6-8d5e-f3fa38c268d0",
+      "title": "そんな君、こんな僕",
+      "artist": "Thinking Dogs",
+      "isrc": "JPU901600163",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/6UNWa5YS4G0rJkisF4quAW",
+      "isFallback": true
+    },
+    {
+      "id": "7c67fac1-7aef-4b40-a404-91552abda359",
+      "title": "ワナダンス!",
+      "artist": "Tomato n’ Pine",
+      "isrc": "JPSR01103323",
+      "releaseDate": "2011-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/4bgogQQubPT8juVkEqncnO",
+      "isFallback": true
+    },
+    {
+      "id": "73e809f5-30a0-4269-8fcf-e8b7cca37b2a",
+      "title": "アンティークナハトムジーク",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01412180",
+      "releaseDate": "2014-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/4uJFISqE3AUCNRNFPSEY2x",
+      "isFallback": true
+    },
+    {
+      "id": "1be0c93e-5a87-45ae-ab1e-b7e392dd827c",
+      "title": "私が笑う理由は",
+      "artist": "ASCA",
+      "isrc": "JPU902303959",
+      "releaseDate": "2023-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/0IQFhaXjcLpMVQ2096jE39",
+      "isFallback": true
+    },
+    {
+      "id": "92c5bd16-fa8e-4072-9a76-17ae400f1619",
+      "title": "地元民たちよ",
+      "artist": "愛知トヨタ選抜",
+      "isrc": "JPB601804005",
+      "releaseDate": "2018-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/4zM5jazf0rQbuvisnEBWcN",
+      "isFallback": true
+    },
+    {
+      "id": "1dcb2a80-6a5e-4091-b420-c44f27ad2480",
+      "title": "最高の瞬間",
+      "artist": "中島愛",
+      "isrc": "JPVI01641710",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/4DMv36pEFfIbnF0OywCFzw",
+      "isFallback": true
+    },
+    {
+      "id": "dd4aeee0-a3af-4013-be7a-faf41fd1b98f",
+      "title": "君を待つ",
+      "artist": "Aimer",
+      "isrc": "JPU901500319",
+      "releaseDate": "2015-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/24msbKVQUmKt4hCG6algim",
+      "isFallback": true
+    },
+    {
+      "id": "0b4acd2a-c477-4df9-9b55-909f0d614a9b",
+      "title": "正しい青春ってなんだろう",
+      "artist": "ハロプロ研修生",
+      "isrc": "JPA601800077",
+      "releaseDate": "2018-05-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7b2fe041-8cbd-490f-9c58-8dc492f98f19",
+      "title": "乙型呪装双叉槍",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c385884a-79d0-4712-ac8a-77e9301dda31",
+      "title": "大事なラブレター",
+      "artist": "Tomato n’ Pine",
+      "isrc": "JPSR01202223",
+      "releaseDate": "2012-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/2SNMC7041lMz3Zhi70tnmQ",
+      "isFallback": true
+    },
+    {
+      "id": "ead99abc-23de-4f08-b5f6-926b61b98b7f",
+      "title": "カフェ樂園",
+      "artist": "≠ME",
+      "isrc": "JPKI02511173",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/49ieZtFCWfp8TzStvA8WjX",
+      "isFallback": true
+    },
+    {
+      "id": "856b34c5-8b62-4cc8-8e39-33cbd324db87",
+      "title": "笑ってゆこう",
+      "artist": "空町春",
+      "isrc": "JPZ921811807",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/0TDch56bYAopN3maU2r8ft",
+      "isFallback": true
+    },
+    {
+      "id": "1f836149-08af-413a-b1d2-b8487a95f898",
+      "title": "月の大きさ",
+      "artist": "乃木坂46",
+      "isrc": "JPSR01301398",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY",
+      "isFallback": true
+    },
+    {
+      "id": "38a44b43-04bc-4158-9e2e-b80077f372fc",
+      "title": "焔光の夜伯",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36e88cfe-bc52-4234-a311-44c0d0cd32da",
+      "title": "ギリギリサマー",
+      "artist": "3B junior",
+      "isrc": "JPR651600059",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6QJYDDjeRHISmjBuxf3WWl",
+      "isFallback": true
+    }
+  ]
+}

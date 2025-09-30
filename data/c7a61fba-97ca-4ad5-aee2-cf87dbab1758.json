@@ -1,0 +1,2062 @@
+{
+  "name": "北川勝利",
+  "sortName": "キタガワカツトシ",
+  "otherNames": [
+    "ROUND TABLE",
+    "ROUND TABLE featuring Nino"
+  ],
+  "tracks": [
+    {
+      "id": "e455a6ff-1c36-4124-9229-d7198c15e20a",
+      "title": "Oh! Yeah!!",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750700008",
+      "releaseDate": "2007-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/5CamcLuoZsE9mQi69iwVXQ",
+      "isFallback": true
+    },
+    {
+      "id": "650c1b46-e2d3-494f-8dc2-6e8ea10b259d",
+      "title": "Watermelon Woman",
+      "artist": "北川勝利",
+      "isrc": "JPE302300041",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "966d46e1-d0b0-445a-8a62-710f614842aa",
+      "title": "Never Ever Give Up !",
+      "artist": "ブリード加賀",
+      "isrc": "JPPS02000050",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/7o1LGx5VwnySclEezAeNBt",
+      "isFallback": true
+    },
+    {
+      "id": "d5809f88-e973-4a43-8aa9-776e0040885f",
+      "title": "Moonlight Magic",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02110563",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/5IvERUwQvl9YlavgFpA47w",
+      "isFallback": true
+    },
+    {
+      "id": "7e9f8045-1f50-464b-b6ef-44275ea45c45",
+      "title": "CALL ME EVERYDAY",
+      "artist": "花澤香菜",
+      "isrc": "JPE301203542",
+      "releaseDate": "2013-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/44wJKL5i19X2rpxqNfu3qO",
+      "isFallback": true
+    },
+    {
+      "id": "cb9b1c3a-db80-4d5d-b55c-9d4c8c7269b7",
+      "title": "Buddy Daddies Theme",
+      "artist": "北川勝利",
+      "isrc": "JPE302300031",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ca999d2b-4f56-4c3f-87f1-ab71554e7836",
+      "title": "Merry Go Round",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400042",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/5ZSEUhzDsS0J7M2oH4kHxC",
+      "isFallback": true
+    },
+    {
+      "id": "65860733-f918-4450-8652-de2e525666c4",
+      "title": "Don't say good bye",
+      "artist": "北川勝利",
+      "isrc": "JPE302300065",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e556788c-720f-48d6-b350-1323a74e144c",
+      "title": "アウトサイダー",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02002850",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/2kqVVnSsXaIyKHy4l7kyeR",
+      "isFallback": true
+    },
+    {
+      "id": "5b2f24e3-3df1-498b-b324-0b5e7b11defe",
+      "title": "brilliant",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700093",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/1cGD98UVRWMrvrkh8EQmWB",
+      "isFallback": true
+    },
+    {
+      "id": "567cf767-56ef-4d9a-82e1-82005b073f3a",
+      "title": "Mission Complete ~任務完了のテーマ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300166",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b379eb95-1f1f-424d-8755-a2ae0f603333",
+      "title": "Just for my love",
+      "artist": "Miko Twins",
+      "isrc": "",
+      "releaseDate": "2005-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "064c5222-3ed9-466d-b8ce-d72ecb02aadd",
+      "title": "おでかけウェイクミーアップ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300061",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f4dc7748-59ca-4fce-9eb2-93acf49418bc",
+      "title": "ありがとう to You",
+      "artist": "星見オールスターズ",
+      "isrc": "JPX402500151",
+      "releaseDate": "2025-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/4BdilUYGlN07bDA1GEJqzx",
+      "isFallback": true
+    },
+    {
+      "id": "69516fb9-bbf2-4a0a-8600-4805bb6df6d7",
+      "title": "Blooming Days",
+      "artist": "加賀美茉莉",
+      "isrc": "JPPC01602125",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4pP1r081K1uid6vHKmbQ3U",
+      "isFallback": false
+    },
+    {
+      "id": "c08067be-e0bc-44be-9901-c50cff38624e",
+      "title": "Rainbow",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00531740",
+      "releaseDate": "2005-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/6OHNFIJm08mSUxmlLX3or2",
+      "isFallback": true
+    },
+    {
+      "id": "e1bd174e-3236-4e23-9a24-ecc5fbcb005f",
+      "title": "Let Me Be With You",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00209150",
+      "releaseDate": "2002-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal",
+      "isFallback": true
+    },
+    {
+      "id": "f7dbf16e-5239-44b9-bbbb-7859aa5dc42c",
+      "title": "Young Oh! Oh!",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400039",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/5Y5EuC7BkQYW1YN7ohWyPf",
+      "isFallback": true
+    },
+    {
+      "id": "fd421940-d53d-40b2-8394-3b95f3ff84f9",
+      "title": "Sunny Side Hill",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00325440",
+      "releaseDate": "2003-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/7jZ4XK7R5XOtlOm3eJny5K",
+      "isFallback": true
+    },
+    {
+      "id": "ebb0acc5-550e-48a9-aceb-aefdbfa92431",
+      "title": "SUNNY PEACE HARMONY",
+      "artist": "サニーピース",
+      "isrc": "JPX402000080",
+      "releaseDate": "2021-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/0aIruBCXhiHck8Jw9XMxF1",
+      "isFallback": false
+    },
+    {
+      "id": "524b42d8-ce74-4faa-ab2e-74a29fafe92a",
+      "title": "25 Hours a Day",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400023",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6PDE8j585nhSz4RpjaFebQ",
+      "isFallback": true
+    },
+    {
+      "id": "f07e040b-2b1b-4698-af50-702c4a0d7d18",
+      "title": "Mystery of Spanish Joint",
+      "artist": "北川勝利",
+      "isrc": "JPE302300051",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f7a1d6a-8bac-4d25-9b5b-77de6de8df99",
+      "title": "Smile! Smile! Smile!",
+      "artist": "尾崎由香",
+      "isrc": "JPWP01900244",
+      "releaseDate": "2019-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/5Im3wjK1cyM2oQCTkubUpp",
+      "isFallback": true
+    },
+    {
+      "id": "2fee3618-14f4-41a8-b5ad-e19315399d6c",
+      "title": "Now Is The Time!",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI02001522",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/1AQjpi0hfktJk1OiGTYqCy",
+      "isFallback": true
+    },
+    {
+      "id": "4a6565f5-e1a2-4f1d-a355-490e06f34f5b",
+      "title": "Get No Satisfaction!",
+      "artist": "坂本真綾",
+      "isrc": "JPG750800809",
+      "releaseDate": "2009-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o",
+      "isFallback": true
+    },
+    {
+      "id": "27801d63-cf1d-4572-a10a-8f66fbe98b3a",
+      "title": "Jazzy & Daddies",
+      "artist": "北川勝利",
+      "isrc": "JPE302300039",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d28d9f07-d313-439d-80e5-b079665ea047",
+      "title": "Overdriving ! !",
+      "artist": "風見ハヤト",
+      "isrc": "JPPS02000030",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Iu2IilQUMP5FVR69pMkgR",
+      "isFallback": true
+    },
+    {
+      "id": "7819b824-09c0-44bc-8a0e-c1a6dde7a126",
+      "title": "Let's Go!Let's Go!ピース！ピース！",
+      "artist": "サニーピース",
+      "isrc": "JPX402300168",
+      "releaseDate": "2023-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/44qUesqTKXq4oeF1BgtqE9",
+      "isFallback": false
+    },
+    {
+      "id": "e9d131ed-b0f2-4ac8-a842-4e66c47cb1f2",
+      "title": "Buddy Daddies Theme (Piano Only Ver.)",
+      "artist": "北川勝利",
+      "isrc": "JPE302300177",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "563b9ce6-cd38-4003-b8c0-8abdfb39d6e3",
+      "title": "NEW WORLD",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00244240",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/6NMkm1wVByS6nuFmDQ8VZN",
+      "isFallback": true
+    },
+    {
+      "id": "df7d91e5-5ee3-41d1-9bc0-d0904daf0061",
+      "title": "just for you",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00531750",
+      "releaseDate": "2005-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3WBTOckLw95mPTgKu658ZO",
+      "isFallback": true
+    },
+    {
+      "id": "3e8467a6-a8b3-4db6-8b4c-394a27e329ec",
+      "title": "いっせーのーでっ!",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI01904415",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/51DyDF3JSbCOGb6B0BMgXI",
+      "isFallback": true
+    },
+    {
+      "id": "3fc9b502-9550-4e7a-b149-f49f0c43fdf1",
+      "title": "Buddy & Daddies ~激闘のテーマ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300198",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fc29dab5-0331-4854-a0b7-88405ea9d9c1",
+      "title": "Nobody Knows",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500277",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/1HegGK6nD3xfF1ZUdzZqGe",
+      "isFallback": true
+    },
+    {
+      "id": "478a7ce9-b100-41c8-a1ce-d0e12a0ec2d4",
+      "title": "Hello!",
+      "artist": "中島愛",
+      "isrc": "JPG751100632",
+      "releaseDate": "2012-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/1sAULigk2avOGC919vUZVX",
+      "isFallback": true
+    },
+    {
+      "id": "4749453a-2b89-45f9-b288-fda46497a4e9",
+      "title": "Believe Myself",
+      "artist": "椎名心実",
+      "isrc": "JPPC01602118",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/203PooQntUJ3yecB02hvcZ",
+      "isFallback": false
+    },
+    {
+      "id": "a7d13bba-6505-4eb6-9830-db61019ddb4f",
+      "title": "Marmalade Jam",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700089",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/3tlUIuLG804SqXihmx3ZJy",
+      "isFallback": true
+    },
+    {
+      "id": "4277dd4a-35ad-4d14-a1e1-d649c654f93e",
+      "title": "I ♥ NEW DAY!",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500276",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6mFM8b4TlHUVQtz7EEbso7",
+      "isFallback": true
+    },
+    {
+      "id": "0e6aeda1-8ecd-4c75-89d3-82d1b55c9d89",
+      "title": "Let's Cooking",
+      "artist": "北川勝利",
+      "isrc": "JPE302300042",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d6e3df2-1eb6-46c5-83d9-b0fbfb62f3b1",
+      "title": "Opportunity",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700090",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/1XOXS3aX4gcQq4sNmY8Ufd",
+      "isFallback": true
+    },
+    {
+      "id": "e77d735e-996b-4644-8da7-60720e6a8c8e",
+      "title": "Battle of Spanish Joint",
+      "artist": "北川勝利",
+      "isrc": "JPE302300047",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b5bd01da-6152-410c-aa5d-97660fa5bbb0",
+      "title": "Shining Days",
+      "artist": "サニーピース",
+      "isrc": "JPX402000079",
+      "releaseDate": "2021-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4PPQz5gxpOwOQkk4Lrm4PJ",
+      "isFallback": false
+    },
+    {
+      "id": "50617a6c-8f10-4680-b471-e9f79cdc6732",
+      "title": "おてんば娘",
+      "artist": "北川勝利",
+      "isrc": "JPE302300165",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ad342655-d4c3-439a-a5c8-a1546086085c",
+      "title": "あるいていこう",
+      "artist": "花澤香菜",
+      "isrc": "JPE301203543",
+      "releaseDate": "2013-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/4ST9Fat4fVQf4pYCmTeCkk",
+      "isFallback": true
+    },
+    {
+      "id": "d311e059-be88-425e-810b-e2d65b92a182",
+      "title": "アイリス",
+      "artist": "潤羽るしあ",
+      "isrc": "JPV752003939",
+      "releaseDate": "2021-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/63m3cFmjuYTZTjuIqUW3RJ",
+      "isFallback": false
+    },
+    {
+      "id": "5064f109-3bc2-49f4-b2e8-478faefce9ad",
+      "title": "Indigrotto",
+      "artist": "藍月なくる",
+      "isrc": "JPR502203443",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0w8MPU9ufEa3vYrRxUwH2j",
+      "isFallback": true
+    },
+    {
+      "id": "4545c89e-0512-4024-8aa9-99cabca715fd",
+      "title": "Saturday Night Musical♪",
+      "artist": "花澤香菜",
+      "isrc": "JPE301200722",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3qDtbeuKgDx9N5X4O1l7dq",
+      "isFallback": true
+    },
+    {
+      "id": "639638be-28a1-41ce-ab01-c840b69dbb26",
+      "title": "Just The Way You Are",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204022",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/1l1xAR19WGD5qWhEObJ1JU",
+      "isFallback": true
+    },
+    {
+      "id": "6e1653d8-4ee3-4316-a679-c60097b457cf",
+      "title": "Buddy & Daddies Act.1",
+      "artist": "北川勝利",
+      "isrc": "JPE302300036",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c21eeba6-1b27-4b62-b16c-98ceafa7975b",
+      "title": "おまじない",
+      "artist": "北川勝利",
+      "isrc": "JPE302300060",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "99f41a17-dbeb-4a62-bcdd-137e974a5178",
+      "title": "Dungeon of Dragon Emblem",
+      "artist": "北川勝利",
+      "isrc": "JPE302300178",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b59ee651-1b2a-4a84-a600-5ef55d866e45",
+      "title": "Sweet Slow Days",
+      "artist": "京塚志温",
+      "isrc": "JPE301800154",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ab0f47fe-8719-418c-94e9-c77ea106e9e6",
+      "title": "Blessing Bell",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500019",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/4QinDW4dxgXIbaK4y7YnAN",
+      "isFallback": true
+    },
+    {
+      "id": "8992c3cd-6097-49a1-a93b-111806043bdc",
+      "title": "over and over",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01701470",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/19Atb6vbNamk41iIVaC4Rk",
+      "isFallback": true
+    },
+    {
+      "id": "41ea536a-d40a-47f6-8a19-ae5e279c4227",
+      "title": "Mamegu A Go! Go!",
+      "artist": "中島愛",
+      "isrc": "JPG751200369",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/57vrsK6Wu4yA1E2Xnwa4aO",
+      "isFallback": true
+    },
+    {
+      "id": "a62cd054-a4f7-4e42-931c-de3b3937ca8b",
+      "title": "Sing! Sing a Song!",
+      "artist": "北川勝利",
+      "isrc": "JPE302300193",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c058fe84-94c4-4d33-9c95-be053aa4280f",
+      "title": "Summer Sunset",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400030",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/0WyVGfQY0bGuBdjod3Wy1Z",
+      "isFallback": true
+    },
+    {
+      "id": "b44e0e6d-37b2-447f-91df-955506f483a3",
+      "title": "Buddy Daddies Theme (Vocal ver.)",
+      "artist": "北川勝利",
+      "isrc": "JPE302300199",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d7f4d8a3-7733-4f26-8396-1aea93b54cd0",
+      "title": "Be Your Girl",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00626650",
+      "releaseDate": "2006-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/5S3qPrc3v8xCHG6RWsLhtV",
+      "isFallback": true
+    },
+    {
+      "id": "98781f31-9d6d-4714-a48a-73c0518bdb8b",
+      "title": "Crosswalk",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI01820680",
+      "releaseDate": "2018-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/30swB3pqXVmqKYEucndomA",
+      "isFallback": true
+    },
+    {
+      "id": "a4354864-5538-4b70-ae02-56e338721f41",
+      "title": "Book End Bossa",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00209160",
+      "releaseDate": "2002-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1FEHVY75V9U5rL4esqiPvV",
+      "isFallback": true
+    },
+    {
+      "id": "46aae541-694b-46e2-be50-d813450cc19e",
+      "title": "エピローグはいつも優しく",
+      "artist": "北川勝利",
+      "isrc": "JPE302300159",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c427d59-72ff-4fcf-8a48-3f616ff5e83d",
+      "title": "Waltz for Praha",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400033",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1Jj2bBygBXYt6PcjSKQe45",
+      "isFallback": true
+    },
+    {
+      "id": "d4d095ad-373c-4045-ac22-762beb370470",
+      "title": "HI・RA・ME・KI インマイハート",
+      "artist": "北川勝利",
+      "isrc": "JPE302300172",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f02e50ef-c346-4098-91a3-d5a7cd415962",
+      "title": "Country & Daddies",
+      "artist": "北川勝利",
+      "isrc": "JPE302300054",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "194c8772-6412-48d2-bcaf-0d8b258e5692",
+      "title": "Fire! Fire! Fire!",
+      "artist": "北川勝利",
+      "isrc": "JPE302300197",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5b515ef-0221-4db0-bb80-6068f105f585",
+      "title": "SUNNY PEACE for You and Me!",
+      "artist": "サニーピース",
+      "isrc": "JPX402200197",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/6eHxuVgJOi7edYLhZpeYNy",
+      "isFallback": false
+    },
+    {
+      "id": "96e6df1a-e09e-4132-87fb-302ceab83540",
+      "title": "EVERYDAY! SUNNYDAY!",
+      "artist": "サニーピース",
+      "isrc": "JPX402000114",
+      "releaseDate": "2021-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/3cI45QRejRMGQ50rueruLY",
+      "isFallback": false
+    },
+    {
+      "id": "804c19c5-63ae-44b1-9e2a-791afdbffc03",
+      "title": "Link",
+      "artist": "オルタナティブガールズ",
+      "isrc": "JPPC01800956",
+      "releaseDate": "2018-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6l3XrAK1y4C5eMdAi86jZP",
+      "isFallback": true
+    },
+    {
+      "id": "3b7bbb0c-4820-4c4c-a6fd-9a95a6fa5b76",
+      "title": "Ska De Buddy",
+      "artist": "北川勝利",
+      "isrc": "JPE302300035",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb55fd8f-aa33-4811-9c60-65ddb37a8f1f",
+      "title": "Dancing in the Moonlight",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01760670",
+      "releaseDate": "2018-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/5RQPx4MwcYkBrBAKrrisfL",
+      "isFallback": false
+    },
+    {
+      "id": "9596a5bf-72dc-435f-b9ca-cedcdc15e0f7",
+      "title": "Funk Me Up!",
+      "artist": "北川勝利",
+      "isrc": "JPE302300038",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf32e1cc-2c62-45db-877e-650b7557a599",
+      "title": "Sunny Day",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800725",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/40U08SThu7Ai89OOdSY0AX",
+      "isFallback": true
+    },
+    {
+      "id": "b5ea93c2-60de-46d9-a5ba-b7ac3a5cc21c",
+      "title": "Knight of Dragon Emblem",
+      "artist": "北川勝利",
+      "isrc": "JPE302300037",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c786a2cc-97d9-4773-8fe7-f256bb835421",
+      "title": "Ring a Bell",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204026",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/4bydTdQOd4jeSo4qB6BZpI",
+      "isFallback": true
+    },
+    {
+      "id": "f9e845f8-78f9-428a-8f6a-f79683371829",
+      "title": "Night And Day",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500280",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6bvdeFA2rRU1UjxCZGVbNg",
+      "isFallback": true
+    },
+    {
+      "id": "9dadc734-08a6-47be-b443-92799f786e14",
+      "title": "インタリオ",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02311834",
+      "releaseDate": "2023-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/0LmmJHdbD1VUXSdM39qs4M",
+      "isFallback": false
+    },
+    {
+      "id": "fba2a0e4-e5b1-4347-8413-bbde6e23a7d8",
+      "title": "God Bless You",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01622290",
+      "releaseDate": "2016-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1xRRYktItsnwzKiF6RELUc",
+      "isFallback": false
+    },
+    {
+      "id": "c5bb9cc9-9dd3-49d5-9f93-ed8a4a9be1f3",
+      "title": "Buddy Daddies a Go-Go",
+      "artist": "北川勝利",
+      "isrc": "JPE302300157",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d532f862-4214-4e8d-82a8-d053d926705f",
+      "title": "Long Distance",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800723",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4HUB1KKJn9oboSoXJ5kpq9",
+      "isFallback": true
+    },
+    {
+      "id": "add893ce-639b-43b0-85a1-aef07594dc79",
+      "title": "Good Conversation",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400045",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6pcuQbje3sSV4QgrMHOuzj",
+      "isFallback": true
+    },
+    {
+      "id": "fcc90940-f822-4b5d-8d59-54e5bee43192",
+      "title": "Mystery in the dark",
+      "artist": "北川勝利",
+      "isrc": "JPE302300162",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b70a608b-6590-421d-8dcb-4b63275e0957",
+      "title": "Stay With Me",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00457570",
+      "releaseDate": "2005-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3J833Lr0q4542apjocnbjF",
+      "isFallback": true
+    },
+    {
+      "id": "51cd3b42-1c9e-4ae0-bf55-75af4e95fb1c",
+      "title": "24 Hours",
+      "artist": "北川勝利",
+      "isrc": "JPE302300063",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e936ac6a-55cc-4d89-a99c-073641882e8d",
+      "title": "Everyday",
+      "artist": "Chappie",
+      "isrc": "JPSR09909823",
+      "releaseDate": "1999-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/6y64RbCDrOCWCYm7lLFWAK",
+      "isFallback": true
+    },
+    {
+      "id": "79aeb64e-44af-4a51-b0b9-00e982e779e3",
+      "title": "Hi5でピースサイン！",
+      "artist": "サニーピース",
+      "isrc": "JPX402300130",
+      "releaseDate": "2023-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2jtkHXVM8Jn9UmHdhvG0KD",
+      "isFallback": false
+    },
+    {
+      "id": "2d37b5e5-3020-4903-9772-d49ee7a3ec37",
+      "title": "Silent Snow",
+      "artist": "花澤香菜",
+      "isrc": "JPE301203541",
+      "releaseDate": "2013-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/66DrGNNPSOwsBBeadmuzhT",
+      "isFallback": true
+    },
+    {
+      "id": "06e1c625-a5d1-4988-b174-e4af15405d8d",
+      "title": "Pray for you",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402100006",
+      "releaseDate": "2021-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/5be2aXVI6TAJVpFFS5pIq7",
+      "isFallback": false
+    },
+    {
+      "id": "667edb15-175b-455e-9983-dab7f1a20abb",
+      "title": "あたらしいうた",
+      "artist": "花澤香菜",
+      "isrc": "JPE301600279",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/3FJE25Mv1zxiUfXTFhmrwF",
+      "isFallback": true
+    },
+    {
+      "id": "4d1d3fbb-5883-4066-be38-b0f976a5098b",
+      "title": "flyleaf",
+      "artist": "ChouCho",
+      "isrc": "JPI101201422",
+      "releaseDate": "2012-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/4iiGPsffGkyoIHPqhAejZq",
+      "isFallback": true
+    },
+    {
+      "id": "56908a05-8dd9-4a05-a783-c003af3ea632",
+      "title": "Buddy & Daddies Act.2",
+      "artist": "北川勝利",
+      "isrc": "JPE302300167",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eada1b66-570e-4b48-a4b1-4edf8f79c06e",
+      "title": "Looking for your Smile",
+      "artist": "花澤香菜",
+      "isrc": "JPE301600281",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/4EWEe2ZBbjr8CgxIDNsiUd",
+      "isFallback": true
+    },
+    {
+      "id": "9c7b2891-ae7a-410a-a74d-507ed30f92cc",
+      "title": "GAME OVER",
+      "artist": "北川勝利",
+      "isrc": "JPE302300191",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6f3da43-c047-46ea-80a0-6e49bb22c0a2",
+      "title": "SHARK ATTACK",
+      "artist": "北川勝利",
+      "isrc": "JPE302300034",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51920b78-08ae-4002-b5e9-13bc0d529249",
+      "title": "Don't Know Why",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210058",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3mRHc47snIrvH2Cu4WyFRF",
+      "isFallback": true
+    },
+    {
+      "id": "0a54b64f-a463-404a-b85c-ed61da791594",
+      "title": "推理",
+      "artist": "北川勝利",
+      "isrc": "JPE302300174",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59cd7e98-38fa-415e-be58-b32698d4670b",
+      "title": "ロケットビート",
+      "artist": "安野希世乃",
+      "isrc": "JPVI01820630",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6HvdOjJdYTpJ9TYTMxBP7u",
+      "isFallback": true
+    },
+    {
+      "id": "f5156949-1dad-45b3-9270-bc59e1efd48c",
+      "title": "ときめきコレクション♡",
+      "artist": "京塚志温",
+      "isrc": "",
+      "releaseDate": "2018-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6fe713dd-0da2-4ee6-8a5d-a9c5adc9a960",
+      "title": "愛してる",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI02101774",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/5wcrPgIFRyiTtRCMETBOh2",
+      "isFallback": false
+    },
+    {
+      "id": "24f17b41-042a-4f78-97c2-ace8ae3c439d",
+      "title": "徒競走マーチ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300196",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b07797dc-e8af-4bc7-9ca0-fa1cddb562c2",
+      "title": "メロディ",
+      "artist": "中島愛",
+      "isrc": "JPG751000640",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/7jvNoI6kjM9r8S2AXU7ChV",
+      "isFallback": true
+    },
+    {
+      "id": "032a5865-bbba-4cbe-9f90-55426ae04fc0",
+      "title": "くつろぎインマイハート",
+      "artist": "北川勝利",
+      "isrc": "JPE302300049",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ba70f3b-291a-4714-923e-6fe8ce959fe2",
+      "title": "ヒマワリ",
+      "artist": "沢渡 楓",
+      "isrc": "JPG751100582",
+      "releaseDate": "2011-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/195bnpj65kvVyi0B6GsFza",
+      "isFallback": true
+    },
+    {
+      "id": "669fb6a3-9da2-4258-9f20-6f385fec1d61",
+      "title": "フレットレスな焦燥",
+      "artist": "北川勝利",
+      "isrc": "JPE302300163",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b2a222ba-f663-49b2-ba5d-eefc68878729",
+      "title": "夏待ち",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00608590",
+      "releaseDate": "2006-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0k94brBOknUiIgQ7kUNUkA",
+      "isFallback": true
+    },
+    {
+      "id": "34ebea06-10a2-4487-8022-02aad73e9f92",
+      "title": "ワンツーワンツー行進曲",
+      "artist": "北川勝利",
+      "isrc": "JPE302300192",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ff30b71-cfc6-41f7-9018-d61722b0545b",
+      "title": "マラソン",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400025",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/22E2QiTocW1X5gPzQrq5ed",
+      "isFallback": true
+    },
+    {
+      "id": "2c4378c1-6307-4410-9ce2-a2456315a0d2",
+      "title": "はぴらき☆エブリディ",
+      "artist": "一之瀬花名",
+      "isrc": "",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "772a9bbb-b1fc-4c88-adc4-8c74130ce05e",
+      "title": "マリンバリンバ",
+      "artist": "十倉栄依子",
+      "isrc": "",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f1ad7f8a-714b-4e52-8582-68b980b636b1",
+      "title": "おやすみ、また明日",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204030",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/0XEXczIrkjhPZw7nMjLaFK",
+      "isFallback": true
+    },
+    {
+      "id": "c07fbfe0-b9c9-430f-a29f-018d454005a1",
+      "title": "クライマックスは突然に",
+      "artist": "北川勝利",
+      "isrc": "JPE302300176",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80d34be4-e632-4451-8f2d-d2b02bba4ff6",
+      "title": "すれ違い",
+      "artist": "北川勝利",
+      "isrc": "JPE302300171",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19e3d500-b31a-4b04-806d-6931e05d61d2",
+      "title": "なんで?なんで?なんで?",
+      "artist": "halca",
+      "isrc": "JPU902204904",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3PcoDFeIQlfTTuCusTHO8T",
+      "isFallback": true
+    },
+    {
+      "id": "9a7cbd2e-e017-4f12-bce8-fe23fad4090d",
+      "title": "ターミナル",
+      "artist": "RYUTist",
+      "isrc": "JPE872304815",
+      "releaseDate": "2023-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0STiQMPFxMEL92IVlqh2yU",
+      "isFallback": false
+    },
+    {
+      "id": "02b404da-452d-4175-920a-d0d22c7944f9",
+      "title": "ワンダーワンダー",
+      "artist": "諸星すみれ",
+      "isrc": "JPVI02000519",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/6imQc3G9cBPorfLocAMHUD",
+      "isFallback": true
+    },
+    {
+      "id": "8c4a383a-cbc8-42c0-8465-19db42aa8f92",
+      "title": "星空☆ディスティネーション",
+      "artist": "花澤香菜",
+      "isrc": "JPE301200721",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4SIdzzl0RYCCS962rklTNu",
+      "isFallback": true
+    },
+    {
+      "id": "27e569db-a760-4b4e-ba08-53a8264e75f4",
+      "title": "ココロ替え宣言",
+      "artist": "万年大会",
+      "isrc": "JPE301800155",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "30ddce70-d218-4b24-a404-e96f1225412e",
+      "title": "プール",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500283",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6LaneewdCiO1jOLNBqgW12",
+      "isFallback": true
+    },
+    {
+      "id": "ccb5fd58-0d00-479f-84df-d4a62e4e7c09",
+      "title": "お帰りダディー",
+      "artist": "北川勝利",
+      "isrc": "JPE302300048",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d37fe491-9387-4eae-9ebe-e94b3a03db2e",
+      "title": "新体操エモーショナル",
+      "artist": "北川勝利",
+      "isrc": "JPE302300195",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d932c15-41e1-4f6b-a2ed-61a4ef816c7f",
+      "title": "タイムトラベラー",
+      "artist": "坂本真綾",
+      "isrc": "JPVI02301594",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/7Dc37v0COV1aIovtGL6osA",
+      "isFallback": false
+    },
+    {
+      "id": "31320a67-600f-4328-b109-c9572f22d0a2",
+      "title": "ターミナル",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01650850",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/5HGY8C7qdBGj92BvofQvBE",
+      "isFallback": true
+    },
+    {
+      "id": "3332539b-cda9-4dad-af4d-be0cb4a1fbf7",
+      "title": "モリオカート",
+      "artist": "北川勝利",
+      "isrc": "JPE302300160",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "03b8410a-e0d1-4aa0-bc6b-858ea58e07ba",
+      "title": "パラダイス!",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402400105",
+      "releaseDate": "2024-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/7kYiy8hmlTGzg0NVmeetIl",
+      "isFallback": true
+    },
+    {
+      "id": "7a92bd46-b084-425a-8253-6ca5d5245b2e",
+      "title": "僕のリズムも聞いとくれ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300170",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "38f56c14-cb17-4b78-bdfe-63ce11eeb4c5",
+      "title": "恋する惑星",
+      "artist": "花澤香菜",
+      "isrc": "JPE301302942",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6uJxfPRbkS6qCFXBzs7Pb3",
+      "isFallback": true
+    },
+    {
+      "id": "a065e1bb-6f32-461b-9cae-1082480eff27",
+      "title": "わからないのよBABY",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI02001524",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3N8w5zdl2YrazSpGpmDOSc",
+      "isFallback": true
+    },
+    {
+      "id": "a70adbf6-26d0-48fa-acb3-0050ee2168fc",
+      "title": "春擬き",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01500130",
+      "releaseDate": "2015-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/7s2O8rpKRgPWhgqiHmmm4v",
+      "isFallback": true
+    },
+    {
+      "id": "41429efa-4c8c-47cc-95d6-e42f3c1eb492",
+      "title": "ギミギミ♡ラヴ",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02311835",
+      "releaseDate": "2023-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/0RIOIoADkIRPtZzGqFoaRR",
+      "isFallback": false
+    },
+    {
+      "id": "253f6da7-9b38-47b3-89ee-eb2f0b7b80dc",
+      "title": "恋のはじまり",
+      "artist": "花澤香菜",
+      "isrc": "JPE301200723",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5VDayatxaA5KjbCD7aQzvs",
+      "isFallback": true
+    },
+    {
+      "id": "33dbfb8c-399d-494b-8a60-007e29f5e2f6",
+      "title": "ユキハルアメ",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02300160",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/0OHKMn2FCkfnHFntPGoeBj",
+      "isFallback": false
+    },
+    {
+      "id": "0cc9c1ea-eb59-4d07-ab78-5deae8137e0f",
+      "title": "ミュージカルが聴こえる?",
+      "artist": "クルミ",
+      "isrc": "JPCO02209640",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/4VfDOYVwXs5jKXtyIUx6ld",
+      "isFallback": false
+    },
+    {
+      "id": "0a776b48-8e2c-4da9-996b-cfc11896f24a",
+      "title": "二人で旅にでる理由は?",
+      "artist": "アイリス",
+      "isrc": "JPPC01700824",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/51sS2NZdPpkwW9R0fxNteR",
+      "isFallback": false
+    },
+    {
+      "id": "c12b9e74-f5ee-41dc-9612-24a5de8ae2c9",
+      "title": "春擬き～ユキトキ～夜明けの光をあつめながら メドレー",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02002700",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0a0fa744-c1d3-4546-bb08-5c5321a2a1f0",
+      "title": "宝物",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800731",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/3ChKNsKrKwhD1RbSnZ0nkI",
+      "isFallback": true
+    },
+    {
+      "id": "c16e2795-703f-4fc6-9a2f-5df7ef8642bf",
+      "title": "チョコレート？レモネード？どっち？？",
+      "artist": "乙倉悠貴",
+      "isrc": "JPCO02220870",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1Gl8Tsb0YffZ086Yt8z2a5",
+      "isFallback": true
+    },
+    {
+      "id": "d6617fa7-bb04-471a-9978-4b6df2e3680c",
+      "title": "普通の事",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800729",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4pXegSnBol4VlE3zeqxMq2",
+      "isFallback": true
+    },
+    {
+      "id": "3239a69d-07a6-45db-8476-93d736530034",
+      "title": "リメンバーミー",
+      "artist": "茅野愛衣",
+      "isrc": "JPE302001136",
+      "releaseDate": "2021-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/7A6tp0g4BKeJdvpovzmk74",
+      "isFallback": true
+    },
+    {
+      "id": "2dfff97a-6ce4-420b-8c6f-04aee8fdecfa",
+      "title": "カナエタマエ",
+      "artist": "一之瀬花名",
+      "isrc": "",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "006ce475-808c-4ae8-ae32-8c3916b417a8",
+      "title": "ねぇ、話をしよう",
+      "artist": "安野希世乃",
+      "isrc": "JPVI01717220",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/6SvBOdqhPSZP7uMxMJRDfm",
+      "isFallback": true
+    },
+    {
+      "id": "30172147-50e2-4673-b60a-0339cce9e354",
+      "title": "キャキャキャウフフは止まらない",
+      "artist": "れもんみるくちょこれーと☆",
+      "isrc": "JPPC01701287",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/7g1eoxLAiwtSH3fu9AArnF",
+      "isFallback": false
+    },
+    {
+      "id": "0e48ff7e-1e2f-476a-a89a-6ea4b566e436",
+      "title": "大混戦デストロイ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300156",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cab1bcab-1a30-415c-820b-939b42ff93cb",
+      "title": "ナガレボシ",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800391",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/0C8o4vsLhhbW28zRVgQDrA",
+      "isFallback": true
+    },
+    {
+      "id": "4dd534eb-caef-447c-9a4e-b840bbecbf35",
+      "title": "パズル",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00625180",
+      "releaseDate": "2006-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5sUCbbldiSzY12Y6mucEV1",
+      "isFallback": true
+    },
+    {
+      "id": "4e7c0156-23b3-4d9f-99b8-69498a185a64",
+      "title": "対峙",
+      "artist": "北川勝利",
+      "isrc": "JPE302300052",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e2e567a7-bb40-4b97-b833-0905e204058e",
+      "title": "明日、夕暮れまで",
+      "artist": "葉月絵理乃",
+      "isrc": "JPG750700002",
+      "releaseDate": "2007-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/21QXEQOSzPIkwVAGdNiQTt",
+      "isFallback": true
+    },
+    {
+      "id": "5e520682-a65b-4129-a515-3dbd9ed78bb3",
+      "title": "明日もきっと",
+      "artist": "STARTails☆",
+      "isrc": "",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c1e7de8c-25d5-494c-b42d-04f1831528e1",
+      "title": "モリオカート -Final Lap-",
+      "artist": "北川勝利",
+      "isrc": "JPE302300161",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64c5dbee-199d-47f6-af7a-e7468d57292a",
+      "title": "全力!絶対!!カウントダウン!!!",
+      "artist": "サニーピース",
+      "isrc": "JPX402100210",
+      "releaseDate": "2021-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/1jkN7GV3HCdNjRJZkdhixS",
+      "isFallback": false
+    },
+    {
+      "id": "ba3c28eb-8648-4887-ba8c-db82974107dd",
+      "title": "君がいなくちゃだめなんだ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500018",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/0ntWc46ztKsNkHAGX2ncFn",
+      "isFallback": true
+    },
+    {
+      "id": "b31c43e5-7ba1-4757-9dde-464eb7938f20",
+      "title": "パジャマジャマ",
+      "artist": "依田芳乃",
+      "isrc": "JPCO02327060",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/44nQW4Db70cpdtoZgLfLDD",
+      "isFallback": true
+    },
+    {
+      "id": "86d1a459-d1c7-4cac-9920-6fba3fced589",
+      "title": "恋のオーケストラ",
+      "artist": "吉谷彩子",
+      "isrc": "",
+      "releaseDate": "2012-07-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a5ddc7d4-eb3f-4630-8b7a-0b4370b377f3",
+      "title": "クレマティスをあなたに",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02510835",
+      "releaseDate": "2025-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/0jmpNYXpjHDNPoATJASO54",
+      "isFallback": true
+    },
+    {
+      "id": "06ea0030-a0aa-4b91-b2ec-89906bb546f9",
+      "title": "幸せのメロディ",
+      "artist": "牧野由依",
+      "isrc": "JPVI02202322",
+      "releaseDate": "2022-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/31Ad9XV5CO3wt5LmFzvW2V",
+      "isFallback": true
+    },
+    {
+      "id": "5d60768b-d6be-4a45-8dca-7869387baf09",
+      "title": "ボールパークでShake!Don’t Shake!",
+      "artist": "ルリコ",
+      "isrc": "JP92N2516380",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1PYNaYL08dAhcKX23jhLQP",
+      "isFallback": true
+    },
+    {
+      "id": "d09b7fdd-0178-49b0-a309-6879d25386cf",
+      "title": "暗躍",
+      "artist": "北川勝利",
+      "isrc": "JPE302300062",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "07c374bb-c34e-478a-8fc9-d4785e042b1c",
+      "title": "ほんわかびより",
+      "artist": "千石冠",
+      "isrc": "JPE301800153",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "90943ddc-93f4-47ca-88fa-c943826c06b1",
+      "title": "心口不一(「Moonlight Magic」中国語詞バージョン)",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02110565",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/01TI2IhW0Wn1Zds5gBcfgc",
+      "isFallback": true
+    },
+    {
+      "id": "4c93187d-052e-4683-a24e-1345e971d3cd",
+      "title": "タップダンスの音が聴こえてきたら",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500281",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/13sMf5t32eqNX78N05VpXp",
+      "isFallback": true
+    },
+    {
+      "id": "61174d85-100b-4ad7-af3c-cee353fd72bc",
+      "title": "ユメノキオク",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210057",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/4FrBlrkRfa5fuvQq2aOb3Q",
+      "isFallback": true
+    },
+    {
+      "id": "075ee95a-9620-4093-a352-fdf96087e3d8",
+      "title": "宝石の生まれるとき",
+      "artist": "やなぎなぎ",
+      "isrc": "JPT552000002",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/6yMeH1RJHnW1czNv1VX59r",
+      "isFallback": true
+    },
+    {
+      "id": "8de9462c-06ab-433b-8f7d-e18779f20517",
+      "title": "シュガー＆シュガーレス",
+      "artist": "榎並清瀬",
+      "isrc": "JPE301800156",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3c674cd9-72db-4a59-a23c-d8e7a8838569",
+      "title": "放課後の約束",
+      "artist": "吉谷彩子",
+      "isrc": "",
+      "releaseDate": "2012-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9687142-cc35-4653-ad32-7eb63051cae6",
+      "title": "さよならを言わないで",
+      "artist": "北川勝利",
+      "isrc": "JPE302300064",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ecd8545-4e63-47a5-97a5-f56537fdf8c9",
+      "title": "ドラマチックじゃなくても",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02213045",
+      "releaseDate": "2023-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW",
+      "isFallback": true
+    },
+    {
+      "id": "5c5367b4-9ca2-47a9-83cd-006beb65f853",
+      "title": "尋問中",
+      "artist": "北川勝利",
+      "isrc": "JPE302300033",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1782dbe2-82f9-404e-b81d-d25b3cdc8c95",
+      "title": "ユキトキ",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01351170",
+      "releaseDate": "2013-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/4LZA222fpKPN4JRwdxV4W4",
+      "isFallback": true
+    },
+    {
+      "id": "4ce209f7-360b-4709-8b28-716aa17027f7",
+      "title": "ダエンケイ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400035",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/5CGTITkQdaQTjhcuvVq8SZ",
+      "isFallback": true
+    },
+    {
+      "id": "27684925-6e5b-4717-be79-89094031db82",
+      "title": "お散歩ワルツ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300046",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "63113144-c445-486e-8269-6fffc5e67476",
+      "title": "今朝のこと",
+      "artist": "花澤香菜",
+      "isrc": "JPE301600280",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6UO1ocRCFUczaQ6YPE7txj",
+      "isFallback": true
+    },
+    {
+      "id": "1e01ca89-d01a-4795-9199-150dca1e6e3f",
+      "title": "スープにスパイス",
+      "artist": "十倉栄依子",
+      "isrc": "",
+      "releaseDate": "2018-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ac70c8c1-c70b-4fb8-8cc2-c0c0a06858a5",
+      "title": "モモキュンソード",
+      "artist": "千菅春香",
+      "isrc": "JPVI01412360",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/19bkZVlt60m4sCsRFyooVQ",
+      "isFallback": true
+    },
+    {
+      "id": "bb7b8c4a-9a28-4a08-b8fe-c118bc2590de",
+      "title": "マジックナンバー",
+      "artist": "坂本真綾",
+      "isrc": "JPG750900597",
+      "releaseDate": "2009-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/1GcAsatYciWxttl5OBNpSU",
+      "isFallback": true
+    },
+    {
+      "id": "78c8406c-bbd4-4db0-ac6b-b3b5bf9e36fd",
+      "title": "レクイエム",
+      "artist": "北川勝利",
+      "isrc": "JPE302300058",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "de930235-c295-4752-869c-27eb680d8d71",
+      "title": "だって僕は雨男",
+      "artist": "福山潤",
+      "isrc": "JPG750900663",
+      "releaseDate": "2009-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/0sotge9X9Cqwdwyj416Jvz",
+      "isFallback": true
+    },
+    {
+      "id": "9fbd9177-1f32-49f8-972f-d2a25d2669f2",
+      "title": "スパークルデイズ",
+      "artist": "百地たまて",
+      "isrc": "JPE301800151",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80db6906-7d1f-43d0-b619-3d7d10bc80c0",
+      "title": "バースデイ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400022",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2U1AEAMpnpqLJPtSVVrok1",
+      "isFallback": true
+    },
+    {
+      "id": "e52b6147-4ef9-427c-9df2-27c19ecc3035",
+      "title": "さなぎ",
+      "artist": "坂本真綾",
+      "isrc": "JPVI01529190",
+      "releaseDate": "2015-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/20OcKMmMxGHo4ZcwEYmd4Q",
+      "isFallback": true
+    },
+    {
+      "id": "06355150-4f94-41ad-8773-a0d9d8c00796",
+      "title": "ラブリー♡♡♡♡♡♡",
+      "artist": "サニーピース",
+      "isrc": "JPX402400170",
+      "releaseDate": "2025-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/1ASIbQkZdkcDiGUUFF9oFi",
+      "isFallback": true
+    },
+    {
+      "id": "efdc348a-99f3-47b6-af68-6bed761b45af",
+      "title": "クシコスの綱引き",
+      "artist": "北川勝利",
+      "isrc": "JPE302300194",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7be5635a-1685-4e88-adaf-dff3a3e182a1",
+      "title": "バディとダディと涙とピアノ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300164",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c293657-4bf7-4435-9c72-816f18a8e848",
+      "title": "作戦開始",
+      "artist": "北川勝利",
+      "isrc": "JPE302300056",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "97bc3e95-2e8f-48d2-a977-7416d2dfdd7a",
+      "title": "時を超えて",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800726",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4mOfUdw1BZzcgG5gBD575a",
+      "isFallback": true
+    },
+    {
+      "id": "17c903db-fec1-49c1-81db-b24b10be24f3",
+      "title": "ストロベリーアイスクリーム",
+      "artist": "十倉栄依子",
+      "isrc": "JPE301800152",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13ee2bcc-a101-4225-b7ce-45739502d384",
+      "title": "みんなありがと。",
+      "artist": "一之瀬花名",
+      "isrc": "JPE301800157",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fd51cc68-15f4-494e-bad5-6b1fdac778b7",
+      "title": "サマー♡ホリデイ",
+      "artist": "サニーピース",
+      "isrc": "JPX402100103",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/2ERA2IuAQsWlbXPKPn0WGi",
+      "isFallback": false
+    },
+    {
+      "id": "c67bcd70-969a-45ea-8a7e-a7bf99a3417b",
+      "title": "喫茶ヤドリギ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300158",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f46f9518-1026-4711-8f27-84fc388c137a",
+      "title": "ハローグッバイ",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00626670",
+      "releaseDate": "2006-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/0dO21mcE08nixaNaDf73cj",
+      "isFallback": true
+    },
+    {
+      "id": "f942e3b2-0810-44d2-a08e-4ec0ce1c3917",
+      "title": "慈愛",
+      "artist": "北川勝利",
+      "isrc": "JPE302300169",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7094c7ec-4394-4081-be33-80d6680f8081",
+      "title": "そこにある不穏",
+      "artist": "北川勝利",
+      "isrc": "JPE302300173",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84dce70a-8124-42f6-b7fc-ce7a30a404b8",
+      "title": "夜想曲",
+      "artist": "北川勝利",
+      "isrc": "JPE302300059",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6a12a71-9026-49d5-a8a1-cc95f5e6aac4",
+      "title": "シンフォニー",
+      "artist": "牧野由依",
+      "isrc": "JPVI00531660",
+      "releaseDate": "2005-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/28ZlYGxV6c7KMLvXaA2F37",
+      "isFallback": true
+    },
+    {
+      "id": "fe234cd1-ef99-4e49-9bdf-7e533a5e6c0c",
+      "title": "恋をしてる",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800191",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/1WXdaSZ1loNir0VNGuJKsU",
+      "isFallback": true
+    },
+    {
+      "id": "430eabb3-e3c4-4ef3-8796-a5ce26a8c8fa",
+      "title": "手紙",
+      "artist": "坂本真綾",
+      "isrc": "JPG751000866",
+      "releaseDate": "2011-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/7DOaQ274hoiHZcX4Q3YasI",
+      "isFallback": true
+    },
+    {
+      "id": "9d48c036-16bb-4c56-ba30-c5ee597ef85a",
+      "title": "フラニー! ルドルフ! フランチェスコ!",
+      "artist": "北川勝利",
+      "isrc": "JPE302300050",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ebe9676-30c5-4c50-a094-a4effa921d37",
+      "title": "気まぐれワルツ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300053",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ec69afc-8fcc-4d61-ac17-d9c86f4a65b3",
+      "title": "蜃気楼",
+      "artist": "真山りか",
+      "isrc": "JPU901401989",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/7K0dd8S3VUg9pGzKy1ASS3",
+      "isFallback": true
+    },
+    {
+      "id": "c2492e10-913d-4dbe-854f-d0dd8022547a",
+      "title": "没有你的港湾(「港の見える丘」中国語詞バージョン)",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02110566",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/0HPGUeYEI3CCPdJ8qQGoll",
+      "isFallback": true
+    },
+    {
+      "id": "b21b9f60-a08a-4777-b34b-1c6b5fc1a4bb",
+      "title": "雲に歌えば",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700091",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/23VXMM8rtfdIu0wu7I5VID",
+      "isFallback": true
+    },
+    {
+      "id": "2c97d187-a31f-4000-8529-d19e53031c57",
+      "title": "暗閣のターゲット",
+      "artist": "北川勝利",
+      "isrc": "JPE302300043",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a13ff96-0bd9-4ece-a48f-8074b1b321bd",
+      "title": "笑顔になる",
+      "artist": "リョウ",
+      "isrc": "JPVI01437500",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/457weWNjwJ1zz5KtyyOxBp",
+      "isFallback": true
+    },
+    {
+      "id": "d8a8fc09-31df-4289-abe2-5edbac7f8601",
+      "title": "祈り",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800393",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/3RV4TXHSnRIORyi0JeHlAK",
+      "isFallback": true
+    },
+    {
+      "id": "ab493781-f471-4a02-a6ef-ab73b2a53f53",
+      "title": "迫る危機、振り向かずに逃げろ",
+      "artist": "北川勝利",
+      "isrc": "JPE302300175",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d21fea8b-8bdc-400f-adc7-be4dc7d7857a",
+      "title": "白花",
+      "artist": "鈴木このみ",
+      "isrc": "JPD732300717",
+      "releaseDate": "2024-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/7c9L8M36CI0wspEY3yyu3X",
+      "isFallback": true
+    },
+    {
+      "id": "a874cf14-f557-428a-96d7-d9fefe6748af",
+      "title": "風は予告なく吹く",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01615950",
+      "releaseDate": "2016-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/7arNMIOZnW9MGJasjLZ3vG",
+      "isFallback": false
+    },
+    {
+      "id": "caf464e5-e280-4bb8-bb5d-7943a8015a60",
+      "title": "青い鳥",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204021",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/6ByoIlncDDkJ3yNj0XHJa2",
+      "isFallback": true
+    },
+    {
+      "id": "d3ff5eaf-22ad-43fe-81f6-105426803927",
+      "title": "眠れない夜",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800727",
+      "releaseDate": "2008-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/1rcIUMy63lMXPemYEbVvkW",
+      "isFallback": true
+    },
+    {
+      "id": "8ba839a8-4dbe-4455-a71b-42d80df148c6",
+      "title": "見る前に飛べ!",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI01817651",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/6OiFnxDlxE1Vc82fKd9LZR",
+      "isFallback": true
+    },
+    {
+      "id": "c200119b-8f06-4e43-8beb-cc997adb50ed",
+      "title": "追跡開始",
+      "artist": "北川勝利",
+      "isrc": "JPE302300032",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "216baf09-9294-46a7-90af-ef7944dd0a7f",
+      "title": "絶滅危愚少女!",
+      "artist": "千菅春香",
+      "isrc": "JPG751300524",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/37TylOfBrR6LdhrPd5IYxx",
+      "isFallback": true
+    },
+    {
+      "id": "9cb99bc5-f535-4c46-b495-54b355801b32",
+      "title": "陽気なトゥッティー",
+      "artist": "北川勝利",
+      "isrc": "JPE302300168",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e1d6967f-b64c-4120-9c3e-12ce2bed89af",
+      "title": "黄昏サンセット",
+      "artist": "北川勝利",
+      "isrc": "JPE302300057",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d4f3f517-d89f-4b3c-9226-55917b18f34e",
+      "title": "芽ぐみの雨",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02000440",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/1n1tNm3himGE7KvS5KV7fQ",
+      "isFallback": true
+    },
+    {
+      "id": "66d5087e-c2a4-43e1-8a78-58654532647e",
+      "title": "花澤香菜コメント",
+      "artist": "斑鳩かごめ",
+      "isrc": "JPI100900411",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17e650a3-4bb4-4bff-8afc-17775460f752",
+      "title": "曖昧な世界",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400040",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/57fCT22tF6nylWpYm9uusS",
+      "isFallback": true
+    },
+    {
+      "id": "e8c82adf-61ca-4af8-bf65-20bcd840f755",
+      "title": "粉雪",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400038",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1wVuortvIjlIwsNBv3UieU",
+      "isFallback": true
+    },
+    {
+      "id": "56742d85-0151-4f01-bb86-645e20a8ed14",
+      "title": "潮騒",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPVI00608610",
+      "releaseDate": "2006-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3seXgdcNYtFwulllc2mAHm",
+      "isFallback": true
+    },
+    {
+      "id": "f108053c-001c-416e-98a9-559e1de27475",
+      "title": "陽動作戦",
+      "artist": "北川勝利",
+      "isrc": "JPE302300055",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "efd1731e-34f9-4af0-8f68-3a3c1f178fb9",
+      "title": "流星RODEO GIRLS",
+      "artist": "ROUND TABLE",
+      "isrc": "JPE301901304",
+      "releaseDate": "2019-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/2HzXP1V600jAbY7wvK5nr5",
+      "isFallback": false
+    },
+    {
+      "id": "aa59337c-3d5b-4ff7-8bab-287ceb66e486",
+      "title": "茜色センチメンタル",
+      "artist": "ROUND TABLE featuring Nino",
+      "isrc": "JPG750800392",
+      "releaseDate": "2008-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/3nrMI2D0yLFohoDVnvKPGf",
+      "isFallback": true
+    },
+    {
+      "id": "bd58191e-19d5-4b64-af86-91e265cd984e",
+      "title": "真夜中の秘密会議",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400041",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/33eQnHt6arSW4MwWQ2V3Yj",
+      "isFallback": true
+    },
+    {
+      "id": "0e5c74c7-2eeb-40de-ad5b-8edec6d46420",
+      "title": "潜入捜査",
+      "artist": "北川勝利",
+      "isrc": "JPE302300045",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bc3c6a02-1afd-4018-9d54-990bb90a4270",
+      "title": "絶対に絶対に絶対にGO!",
+      "artist": "RYUTist",
+      "isrc": "JPE871903676",
+      "releaseDate": "2020-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/4EG1z4vFfk5SSohUzyspoM",
+      "isFallback": true
+    },
+    {
+      "id": "6a997ebc-0af7-4f96-9404-b63f2bac152f",
+      "title": "港の見える丘",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02110564",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/5qwH0cMHydLDKPSGGlojMP",
+      "isFallback": true
+    },
+    {
+      "id": "4ebc0052-8cbe-4dca-9e55-860e05285193",
+      "title": "黄昏のダイアリー",
+      "artist": "RYUTist",
+      "isrc": "JPE871803091",
+      "releaseDate": "2020-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/45SRm2AEVSqbfgmdFM4POi",
+      "isFallback": true
+    },
+    {
+      "id": "5bb324ae-8812-4a17-a6c0-496dde0ad9a0",
+      "title": "花びら",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400044",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4ZBmoaii24wGdLB8GUxcMx",
+      "isFallback": true
+    },
+    {
+      "id": "d7cdb016-d63a-463e-b162-cd9e2cad43d1",
+      "title": "灰色",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02311236",
+      "releaseDate": "2023-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/08sPPHUeJNdpdxiSeJ7XSr",
+      "isFallback": false
+    },
+    {
+      "id": "26e92b39-34ef-470b-90d8-c67e0676eee0",
+      "title": "音のない夢",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01351180",
+      "releaseDate": "2013-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/3kRjP3zOqTg5EHjFGYUMN8",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "name": "イズミカワソラ",
+  "sortName": "イズミカワソラ",
+  "tracks": [
+    {
+      "id": "dc59a339-bc33-4bdb-b974-f4c682f4427e",
+      "title": "月の気球",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00163060",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/2DrogMLEWUGsi7irKAzQGm",
+      "isFallback": true
+    },
+    {
+      "id": "897739f8-b7a7-4834-95b2-4bac4142c92d",
+      "title": "この指とまれ",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00163000",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/4hsHt7FfrZxVHWYMINmnck",
+      "isFallback": true
+    },
+    {
+      "id": "b683de10-6747-4f7b-93fb-713efb0fba82",
+      "title": "おはよう",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00044940",
+      "releaseDate": "2000-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7dRuqSFIdcXLCMpNrNy5Ic",
+      "isFallback": true
+    },
+    {
+      "id": "75f4aac5-2c02-430d-8fa2-20b651f3720d",
+      "title": "着心地の悪い恋なんて",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00044960",
+      "releaseDate": "2000-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2T2oJ6V9dXPSSf4lBI0voj",
+      "isFallback": true
+    },
+    {
+      "id": "6e797b02-c616-4920-b7d8-12dbb47fad06",
+      "title": "ルンバ・ルンバ",
+      "artist": "林原めぐみ",
+      "isrc": "JPKI00162960",
+      "releaseDate": "2001-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/6F8OQeg9TvAaIDn2q9WUVb",
+      "isFallback": true
+    },
+    {
+      "id": "3d3df927-9304-46bc-8c22-3e1c72cfca2e",
+      "title": "小さじ一杯の勇気",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00163110",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/0ltkRXb6kEgbAfpYIINs99",
+      "isFallback": true
+    },
+    {
+      "id": "a5ab4b72-5375-495d-944d-f86e1d02581c",
+      "title": "君のそばに",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00912562",
+      "releaseDate": "2009-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/3gJg3KbfuZLLAjCvK3O5XO",
+      "isFallback": true
+    },
+    {
+      "id": "fbd78974-a546-4c40-b110-9af68fa5a632",
+      "title": "洗濯機の中から",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00044980",
+      "releaseDate": "2000-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4sEWh1YgGxueGgvqk1Nsme",
+      "isFallback": true
+    },
+    {
+      "id": "87c643ce-43c5-4f81-bb8d-ff7cfa291c8f",
+      "title": "ハロー",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00710618",
+      "releaseDate": "2008-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/6q51NcHTJvMMND87SpP6sC",
+      "isFallback": true
+    },
+    {
+      "id": "c73d826f-03c2-4a65-af2a-e991cf009190",
+      "title": "お散歩カメラ",
+      "artist": "高森藍子",
+      "isrc": "JPCO01324950",
+      "releaseDate": "2013-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/3uRBEnVLmUSIqDexdZvZdC",
+      "isFallback": true
+    },
+    {
+      "id": "7a0d0d4f-f0f1-4320-a1e5-7aefdf965827",
+      "title": "きらめくかけら",
+      "artist": "林原めぐみ",
+      "isrc": "JPKI00164890",
+      "releaseDate": "2001-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0jmiCvGMmyQ9Vvt0hOunQR",
+      "isFallback": true
+    },
+    {
+      "id": "2899d708-c8b0-4f2b-8936-7e89015abf2b",
+      "title": "朝の声",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00162990",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/0xVX5jVN9dG6gtyfAXwYzt",
+      "isFallback": true
+    },
+    {
+      "id": "9e2e7b56-2ce2-484a-8086-3c1f7957fa64",
+      "title": "いつか",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508923",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/3xfVqc3VcNRqEapFmJjWSV",
+      "isFallback": true
+    },
+    {
+      "id": "fbad3507-670b-4bd4-99ff-dd88eeee33a3",
+      "title": "ヤッホー！ (Berry☆Hall Version)",
+      "artist": "三重野瞳",
+      "isrc": "JPVI09816110",
+      "releaseDate": "1998-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/2R7PgHYgrLW8TsxXdmt9GP",
+      "isFallback": true
+    },
+    {
+      "id": "ec1de96c-fbf4-4b73-a9f1-d34bde6f0572",
+      "title": "prism",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00912558",
+      "releaseDate": "2009-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/4X17AcETCJvae9ITejQlg6",
+      "isFallback": true
+    },
+    {
+      "id": "4d257ab3-e313-4814-9068-52f5cc930457",
+      "title": "口笛",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508927",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6EtPnYQBQirn6S10oy4Mwj",
+      "isFallback": true
+    },
+    {
+      "id": "fbc24c89-f377-4590-a56e-237e98afe548",
+      "title": "右手と左手",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00902134",
+      "releaseDate": "2009-08-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "803dfb2d-9b36-4ef2-af79-bd008e8f2569",
+      "title": "LOVE LABYRINTH",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00152550",
+      "releaseDate": "2001-10-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f49ea8f-1306-4eee-b9c7-9b0606504da4",
+      "title": "奇跡～I believe in you～",
+      "artist": "ヒトミソラ",
+      "isrc": "JPCO00811880",
+      "releaseDate": "2008-05-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9585ee7-15c3-45cf-aae8-42345d07e262",
+      "title": "キラリ☆宝物",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00174430",
+      "releaseDate": "2002-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/4u86u3F6udMVPzz3jF54gu",
+      "isFallback": true
+    },
+    {
+      "id": "969387bd-1804-47d3-bc4d-e4f49a5b847b",
+      "title": "Secret Garden",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00912557",
+      "releaseDate": "2009-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/4GNMcSsgRBeIAGwKzHriKT",
+      "isFallback": true
+    },
+    {
+      "id": "f7fa8a70-dd65-4a0e-afbd-3babb1b1d2b0",
+      "title": "Happy Happy * rice shower",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00021030",
+      "releaseDate": "2000-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/4Rk4XtYviYbnk3fMeSQrVL",
+      "isFallback": true
+    },
+    {
+      "id": "8902edfa-ca66-4182-b86d-78db40650c2d",
+      "title": "ひまわりと飛行機雲",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00307825",
+      "releaseDate": "2003-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/3eitZ2oBJs5N49DyQvpYkD",
+      "isFallback": true
+    },
+    {
+      "id": "27ecbf15-b8f6-4325-b1cc-54fe5f0b3373",
+      "title": "くじら光線",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508921",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6bYo4ad1gYwfMz99vFitph",
+      "isFallback": true
+    },
+    {
+      "id": "f1751675-5b08-4fdc-87d6-e1615e58c2c5",
+      "title": "教えてせんせいさん",
+      "artist": "Bottle Fairy",
+      "isrc": "JPKI00312008",
+      "releaseDate": "2003-12-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "edb4164f-72dc-4163-8d6c-0bb8adb2ee4e",
+      "title": "はじまりの唄",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508916",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/4C4W0w5OteqyiGw82WVyrf",
+      "isFallback": true
+    },
+    {
+      "id": "9b8964df-77a7-403d-b64e-3956bce345bc",
+      "title": "心のカギ",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00163080",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ansdXRqrZi0sT5EYfj9Ce",
+      "isFallback": true
+    },
+    {
+      "id": "c23c7cc2-e2ad-455e-b973-592d957c1e5e",
+      "title": "どんなことだって",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00163070",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5RTPkVIoxyR0MZcy8IVksv",
+      "isFallback": true
+    },
+    {
+      "id": "1f7e6fd9-fada-4c6d-a4d3-068558b04a41",
+      "title": "LET’S GO!!",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00508926",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6ET57lf2OuxAxNsmBxRlZD",
+      "isFallback": true
+    },
+    {
+      "id": "532e738f-1303-4a73-aacf-fcde83df58a4",
+      "title": "スコールクロール",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00045000",
+      "releaseDate": "2000-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3fitp9OJOKinJenBQwTaXf",
+      "isFallback": true
+    },
+    {
+      "id": "e8905a46-df8a-43a5-ad0d-57bfb1edbb3c",
+      "title": "ポップコーンの雲",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02000884",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/0iFzYka3z7ygx59xrZVJyT",
+      "isFallback": true
+    }
+  ]
+}

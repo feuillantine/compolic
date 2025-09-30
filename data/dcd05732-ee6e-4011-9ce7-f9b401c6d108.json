@@ -1,0 +1,42 @@
+{
+  "name": "Zakbee",
+  "sortName": "ザクビー",
+  "tracks": [
+    {
+      "id": "24b198bf-f8f9-4e19-832d-f77174a3cc29",
+      "title": "わがままキャラメリゼ",
+      "artist": "シュガーポケッツ",
+      "isrc": "JPVI02002597",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/53uLl9xC4ly2xIQuMGVfZN",
+      "isFallback": false
+    },
+    {
+      "id": "82e44192-81b0-40a4-9604-2e95c0834093",
+      "title": "クピドゥレビュー",
+      "artist": "悠木碧",
+      "isrc": "JPVI01406800",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0lGqIzxNGh4NZyPaiHeQFr",
+      "isFallback": true
+    },
+    {
+      "id": "712847bb-7ec3-480c-aa2f-9ee55f335c86",
+      "title": "Eternal waltz",
+      "artist": "ChouCho",
+      "isrc": "JPI101302962",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4l9FCNoXSNP2IVAyQEcK2Q",
+      "isFallback": true
+    },
+    {
+      "id": "f078c335-2a90-41e8-9d47-cc7b1b29f650",
+      "title": "Twinkle Candy Carnival",
+      "artist": "Sadistic★Candy",
+      "isrc": "JPVI02202774",
+      "releaseDate": "2022-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/3dZkwLGOL06OVJCkIya1IK",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "吉田哲人",
+  "sortName": "ヨシダテツト",
+  "tracks": [
+    {
+      "id": "cf173d05-536b-40cb-81eb-12d663872e77",
+      "title": "未知とのSo Good!!",
+      "artist": "3B junior",
+      "isrc": "JPR651600068",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1pZYnsZi31BjMhn0WO6N7O",
+      "isFallback": true
+    },
+    {
+      "id": "5dea7651-3d29-4bfd-890d-55806675454e",
+      "title": "Breeze in the Sun",
+      "artist": "Sputrip",
+      "isrc": "TCJPN2003772",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/14PoSEsFqcgje0pns2bQBO",
+      "isFallback": false
+    },
+    {
+      "id": "8d27f5c2-3584-4cf3-a023-96e455f3ccda",
+      "title": "SUMMER BREEZE",
+      "artist": "WAY WAVE",
+      "isrc": "JPV502100581",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5wXuIV3rTpcWojrilEPEKN",
+      "isFallback": true
+    },
+    {
+      "id": "c739185c-85a7-4036-8a04-898900ae83f0",
+      "title": "キングオブ学芸会のテーマ～Nu Skool Teenage Riot～",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU901402574",
+      "releaseDate": "2015-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/4BDqU54gVHzL0S2MyHAbNv",
+      "isFallback": true
+    },
+    {
+      "id": "50eb04f5-4485-4d42-984e-4d5ee358f628",
+      "title": "光の惑星",
+      "artist": "Sputrip",
+      "isrc": "TCJPN2185754",
+      "releaseDate": "2021-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/1VRyv5zevB3WVDCAyDgArT",
+      "isFallback": false
+    }
+  ]
+}

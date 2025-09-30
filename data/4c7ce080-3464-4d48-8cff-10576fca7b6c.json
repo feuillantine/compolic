@@ -1,0 +1,132 @@
+{
+  "name": "竹市佳伸",
+  "sortName": "タケイチヨシノブ",
+  "tracks": [
+    {
+      "id": "9278f859-3e17-47c5-b561-1ae83b09ab24",
+      "title": "Xenon's Justice",
+      "artist": "新世紀中学生",
+      "isrc": "JPPC01802438",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/4zqRsSFIFYRPav2dnBSgPG",
+      "isFallback": true
+    },
+    {
+      "id": "ceb237a9-3f99-480e-bf54-1e86229183b5",
+      "title": "Miracle Premonition",
+      "artist": "喜多村英梨",
+      "isrc": "JPN221734705",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/05ouha6VcvTFp99jJa1AVO",
+      "isFallback": true
+    },
+    {
+      "id": "bced11de-15ae-4bcf-aed1-7e9cad45bdef",
+      "title": "夏空のDiary",
+      "artist": "平山笑美",
+      "isrc": "JPG642008008",
+      "releaseDate": "2022-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/1144sCzAqO52TLGEGFyqyD",
+      "isFallback": false
+    },
+    {
+      "id": "2d8588de-a05e-4956-995d-c7593e54aada",
+      "title": "純情 Phantom thief",
+      "artist": "NOW ON AIR",
+      "isrc": "JPI101901096",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/0ScHtTIexBMq9TuOrzUGlY",
+      "isFallback": true
+    },
+    {
+      "id": "d7a1b4c5-7194-4d91-b164-e76048fe9a48",
+      "title": "Clock Hands",
+      "artist": "白雪千夜",
+      "isrc": "JPCO02409860",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/4F1xkuGT55epCZ028ZVwRI",
+      "isFallback": true
+    },
+    {
+      "id": "b4828595-410d-4f8e-abf8-58dd8dbc4653",
+      "title": "Talk 2 Night",
+      "artist": "駒形友梨",
+      "isrc": "JPTE01809400",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/6ZIHak9ku2AoM3mQsJL9mt",
+      "isFallback": true
+    },
+    {
+      "id": "335844e5-4da4-4840-9ea1-2bb280623f5e",
+      "title": "RAINBOW'S HIGHWAY",
+      "artist": "NOW ON AIR",
+      "isrc": "JPI101901094",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/6e7wrtkTyC67hz20eGuy9M",
+      "isFallback": true
+    },
+    {
+      "id": "2fb19cc4-0dc8-4198-a039-d889f30e7ab5",
+      "title": "GALAXY HidE and SeeK",
+      "artist": "AZALEA",
+      "isrc": "JPI101700779",
+      "releaseDate": "2017-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/4hpJT2KzDvOqjaeXrVsaMP",
+      "isFallback": true
+    },
+    {
+      "id": "25bf1589-ec3e-4e2a-a20e-7485cb7b6f78",
+      "title": "Light escape",
+      "artist": "NOW ON AIR",
+      "isrc": "JPI101901098",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/17QAJYvKm5AVKr9lseEhWl",
+      "isFallback": true
+    },
+    {
+      "id": "4ec7845e-76ba-4e9a-a69a-950c1dd71a1d",
+      "title": "トクベツなひと 〜Lesson Five〜",
+      "artist": "中野五月",
+      "isrc": "JPPC02002095",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/4uA7ggo3b4tFYZJyL948Xg",
+      "isFallback": true
+    },
+    {
+      "id": "bd468b6a-3c35-42b1-91e6-28690afd73e8",
+      "title": "Plasmagic Seasons!",
+      "artist": "夜空メル",
+      "isrc": "JPV752104593",
+      "releaseDate": "2021-05-15",
+      "spotifyUrl": "https://open.spotify.com/track/0lom7KdzUyMlMBzzIyS5gn",
+      "isFallback": true
+    },
+    {
+      "id": "d03dae6d-5632-4174-bb83-83ef0678b5a4",
+      "title": "restart my resolution",
+      "artist": "NOW ON AIR",
+      "isrc": "JPI101802668",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/3gYVUP5PyKPca1HbXLBTau",
+      "isFallback": true
+    },
+    {
+      "id": "e1d7c68b-a4a7-4e06-a52b-a3b3c5084747",
+      "title": "Numberless",
+      "artist": "大石泉",
+      "isrc": "JPCO02508260",
+      "releaseDate": "2025-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/0f8cogFezltzvHw71kcQJY",
+      "isFallback": true
+    },
+    {
+      "id": "3a7448ec-3376-4a8f-b7b4-d8e09b7f69a6",
+      "title": "スバル (M@STER VERSION)",
+      "artist": "大石泉",
+      "isrc": "JPCO02400860",
+      "releaseDate": "2024-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/35PMaAr8uJjhSUB7m3F4jt",
+      "isFallback": true
+    }
+  ]
+}

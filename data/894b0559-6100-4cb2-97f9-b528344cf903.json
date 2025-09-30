@@ -1,0 +1,1662 @@
+{
+  "name": "桃井はるこ",
+  "sortName": "モモイハルコ",
+  "tracks": [
+    {
+      "id": "579b9a05-4a82-470a-9077-4f2116ed59ec",
+      "title": "D・I・Y 〜キミ色に染めて〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900271",
+      "releaseDate": "2017-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/21c4Oe1VaYTVyfLcGSIVMW",
+      "isFallback": true
+    },
+    {
+      "id": "07baf183-934e-4648-a22d-091cb5294e64",
+      "title": "My resolution ～あの時計の下で～",
+      "artist": "Summer of Love feat.奥井雅美",
+      "isrc": "JPA650900467",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c01b4f8-88e7-487f-aa0a-378329b23beb",
+      "title": "Hide and seek",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630117",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86096537-0816-4315-b0b5-342fdc60b44c",
+      "title": "Brand new music",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900464",
+      "releaseDate": "2009-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5a706862-8118-4b8b-9845-b66993c7ad80",
+      "title": "Galge",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900542",
+      "releaseDate": "2009-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0696eb8-a2e7-4e7c-924d-99cfc97f2b44",
+      "title": "My Love〜コトNation〜",
+      "artist": "小桃音まい",
+      "isrc": "",
+      "releaseDate": "2016-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7374fb96-b32c-479e-91c7-05dde00cc87a",
+      "title": "E.S.P. 〜Thanks to Mamichan〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000971",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0e57c7d-7b19-4263-8262-11847e0c3f92",
+      "title": "Kiss! Kiss! Kiss!",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000966",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f5d084df-610c-45dc-8d1f-6ecf0f623844",
+      "title": "OTAKUNAJIMI",
+      "artist": "HARUKO MOMOI",
+      "isrc": "",
+      "releaseDate": "2019-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf7a06e8-b85f-4825-ad84-fc625b2e68d1",
+      "title": "5・7・5・7・7",
+      "artist": "Ace File くしよし",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa795955-dce2-4085-8b69-7696b7279b4d",
+      "title": "MOCO MOKO ROCK!",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101284",
+      "releaseDate": "2011-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0dd994e5-cced-4433-b034-73f0f6fc54e2",
+      "title": "Dearセンパイ♡ 〜メンバー自己紹介ソング〜",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631103104",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/2W0ERp0KN5PTHRuQTrqeeJ",
+      "isFallback": true
+    },
+    {
+      "id": "9fef601e-c8de-4b75-9314-b031b7995674",
+      "title": "☆自演乙☆ソング２〜世界編〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000947",
+      "releaseDate": "2010-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ee12f78c-c24b-402a-b099-24321becbd77",
+      "title": "Magi-Cu!!",
+      "artist": "UNDER17",
+      "isrc": "",
+      "releaseDate": "2003-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fdc0e59a-6f2d-4a39-8d49-55bbd278e106",
+      "title": "Nau！Nau！Nau！",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2011-04-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "539c0630-3492-4ff8-83f5-bb30c996cf5c",
+      "title": "Break down, Break dance!",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000970",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b64736b6-c009-4d79-bb3f-bcd05842c623",
+      "title": "NEXT STAGE!",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631304002",
+      "releaseDate": "2013-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/0FVqrHFaLWg1O1PlWSbajc",
+      "isFallback": true
+    },
+    {
+      "id": "29e1c5ad-2c85-461b-b1a8-92084b2d46a8",
+      "title": "☆自演乙☆ソング",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900499",
+      "releaseDate": "2009-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc54ad08-2819-4d72-8df4-512ce13f5797",
+      "title": "popcorn☆magic",
+      "artist": "Summer of Love feat.奥井雅美",
+      "isrc": "JPA650900468",
+      "releaseDate": "2009-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2528705-23a0-466c-9f38-97d870f06cc1",
+      "title": "Far and away 〜party night〜 -new mix-",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630122",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fa261bd-2e80-4294-915b-322a38de16f7",
+      "title": "ANCHOR〜アンカー〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900186",
+      "releaseDate": "2014-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/2eNB0AdaYHRpir8m76fxko",
+      "isFallback": true
+    },
+    {
+      "id": "323e3fc9-89b4-4051-a74a-8f64fb00073b",
+      "title": "Good morning!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600755602",
+      "releaseDate": "2007-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/5dIIOD88ku7yU4CWT3AFJN",
+      "isFallback": true
+    },
+    {
+      "id": "b4a554ab-c2eb-4e61-be28-03f7d765fbc1",
+      "title": "Paradise Shift +",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900285",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/6OeviwkYOJdusj2kjjWw4q",
+      "isFallback": true
+    },
+    {
+      "id": "25001c6e-dda4-4b8a-bc6e-7823a4d9267e",
+      "title": "Back home!〜わたしの帰る場所〜",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83d58320-bfaa-4055-ab0d-c73380b72b42",
+      "title": "Adolescence -rainy Taipei version-",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630116",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12cbb31b-1e2d-4067-be4a-e54c0f178a5b",
+      "title": "Feel so Easy!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600846001",
+      "releaseDate": "2008-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/3efdq2QhOsddeR08q4tiV8",
+      "isFallback": true
+    },
+    {
+      "id": "51f8cf1e-1081-4bc9-b66c-43bccd4f2cef",
+      "title": "RADIO DAYS RADIO NIGHTS",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600716302",
+      "releaseDate": "2007-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/6wXVhRCa1wf5d7x6rtcF1V",
+      "isFallback": true
+    },
+    {
+      "id": "a08f24ee-8718-491e-9bf9-10ca28015b54",
+      "title": "404 -Not found-",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900282",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/2QR3QqEGNKtcaZv3PhgOOK",
+      "isFallback": true
+    },
+    {
+      "id": "e97543ed-d38d-4c82-ae67-825db523c2b4",
+      "title": "ORIGAMI",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631605803",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/2Zeh3Di0PR3HX5tw80eRwZ",
+      "isFallback": true
+    },
+    {
+      "id": "0f6b4f4a-fc9c-41ce-8402-b888eb90a8e0",
+      "title": "Machineイタッシャー!",
+      "artist": "桃井 はるこ",
+      "isrc": "JPCO01212220",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b8e2187-8add-45ed-840b-e3e4d83ea477",
+      "title": "Friendship",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630124",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6df06ff3-0e66-46e4-9b73-c4e091396497",
+      "title": "21世紀",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600716301",
+      "releaseDate": "2007-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/03UpuDw8N0kZj4mDHo5L6L",
+      "isFallback": true
+    },
+    {
+      "id": "872d69b5-cdb7-4ea7-a76e-dc842b70965e",
+      "title": "PINK,ALL,PINK！",
+      "artist": "名取さな",
+      "isrc": "JPA652005077",
+      "releaseDate": "2020-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/6nnaJcAQNu04pVavJ8aPIw",
+      "isFallback": false
+    },
+    {
+      "id": "af5a1d93-68aa-44bf-8328-45eb47ac3aa7",
+      "title": "NATIVE!",
+      "artist": "桃井はるこ",
+      "isrc": "",
+      "releaseDate": "2014-12-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "841ec8ee-3939-45af-8715-f0245fefa8c0",
+      "title": "Cue!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600870501",
+      "releaseDate": "2009-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/7bE3Ip15UFMdCXn77C3biz",
+      "isFallback": true
+    },
+    {
+      "id": "c27e002a-86e5-49ad-8cdf-0620be9a7ca4",
+      "title": "Party Love～おっきくなりたい～",
+      "artist": "RO-KYU-BU!",
+      "isrc": "JPZ921115475",
+      "releaseDate": "2011-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6Ho3ogRr2OVpPXz5aYfIIX",
+      "isFallback": true
+    },
+    {
+      "id": "d91c01b4-7e3f-47e7-a047-629d1ab7b115",
+      "title": "Night Park☆",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101363",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb0efc2d-8e9b-4ad7-bd8b-24a56218c91e",
+      "title": "Mail Me",
+      "artist": "桃井はるこ",
+      "isrc": "JPKI00010640",
+      "releaseDate": "2000-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0a3c9fca-1028-4c57-a769-a6cc501bb9a4",
+      "title": "Paradise Derby",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900283",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/5WHcRFWmFzR8pZezx9pn58",
+      "isFallback": true
+    },
+    {
+      "id": "bc0d51bf-f5ae-4749-b155-452124fc9c86",
+      "title": "Phantom Vibration!",
+      "artist": "すーぱーそに子",
+      "isrc": "JPR502151914",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/6eEC5KQ5OYBsOcguhkFmcf",
+      "isFallback": true
+    },
+    {
+      "id": "67d31bc1-c0f4-45c4-8c1f-4189d39ce613",
+      "title": "music as muse",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000972",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2236cdb2-9a64-4197-b374-4b3d74742694",
+      "title": "Lotus Land -桃源郷-",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632002303",
+      "releaseDate": "2020-03-11",
+      "spotifyUrl": "https://open.spotify.com/track/77YTAOWhgCwCvmyL51zeOk",
+      "isFallback": true
+    },
+    {
+      "id": "5f00e7ff-dc97-4497-886d-d0f13b6029c5",
+      "title": "radio magic",
+      "artist": "彩音",
+      "isrc": "JPK631902202",
+      "releaseDate": "2024-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/1hohGUU5vFQ968KgZSgtad",
+      "isFallback": true
+    },
+    {
+      "id": "02620f1c-4ef7-43db-83a9-95b25a6cafac",
+      "title": "R・G・B…",
+      "artist": "momo-i",
+      "isrc": "JPKI02313183",
+      "releaseDate": "2007-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/1g7LZ6GhAboG0A8MpYTx7H",
+      "isFallback": true
+    },
+    {
+      "id": "0238127d-c196-4cc7-895d-71f56d6ee707",
+      "title": "MAEをみていて",
+      "artist": "吉川茉絵",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f1a3b77-2cb0-4442-a57c-2242ed5153fd",
+      "title": "mebius ring",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630115",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3bec7575-062d-4223-a733-19279e405a3b",
+      "title": "DIARY",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900286",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/6gDVVhv3ucIR7GoA9K6eDx",
+      "isFallback": true
+    },
+    {
+      "id": "4111c1de-de78-4d0e-b902-871b707f0484",
+      "title": "I my moko",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900185",
+      "releaseDate": "2014-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/5XS7LpFsIshcGM79q4Jr71",
+      "isFallback": true
+    },
+    {
+      "id": "609655fa-0cf0-4d9a-8b75-0159062f4253",
+      "title": "Dreamcasting",
+      "artist": "YUMI(CV:新田恵海)",
+      "isrc": "",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c73d1e65-16ef-4c82-a207-ac55fa6e22d8",
+      "title": "2001年のゲーム・キッス",
+      "artist": "桃井はるこ",
+      "isrc": "JPKI00010650",
+      "releaseDate": "2000-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d18a391-5106-444c-8090-68e3021092b3",
+      "title": "heavenly days",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2010-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "40508944-7a1c-460b-a738-69e00dfb6665",
+      "title": "6th Breeze",
+      "artist": "渡部優衣",
+      "isrc": "JPTK01710310",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/1WcMAWlFKDzRFpmH272YvO",
+      "isFallback": false
+    },
+    {
+      "id": "25e67eda-ec51-4e7e-a54b-cb703b1498ca",
+      "title": "IVY 〜アイビー〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000965",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "35486b86-8444-448c-92cd-cc84d6160c27",
+      "title": "BAKA≒愛してる",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900583",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4aabfc4b-1755-4b36-ac31-d7fdb26cbb21",
+      "title": "Brain Snowing",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900187",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0JM3sEi8GIJcam5w0HXzkv",
+      "isFallback": true
+    },
+    {
+      "id": "1b170d41-e5da-4d78-b57d-3c1fc774bd19",
+      "title": "Happy! Puppy!",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631301303",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/6qFQvsKEqa8ADWBRDyJeCD",
+      "isFallback": true
+    },
+    {
+      "id": "8505bef8-81db-43e6-a43e-013d2fc29388",
+      "title": "Back to the 80's",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900287",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/5XmGHpwHcVbF4Jjj0qOTV0",
+      "isFallback": true
+    },
+    {
+      "id": "b8391a44-4027-4eca-99d0-2885555d027d",
+      "title": "Nighty night ～オヤスミセカイ～",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631301305",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0EjVA8cZlLVKYtxiRExN3q",
+      "isFallback": true
+    },
+    {
+      "id": "0554878b-de3b-43a0-b281-1bfef8bc5a0d",
+      "title": "LOVE.EXE -momo-i quality version-",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630114",
+      "releaseDate": "2006-08-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8181eae-ea71-42e0-84ae-c8e3ccbffb54",
+      "title": "Last Stop",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9bc2584d-8b09-46aa-b072-50cd834992c5",
+      "title": "Phantasista -stage ver.-",
+      "artist": "TAKUYA(CV:蒼井翔太)",
+      "isrc": "",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dbce3532-9c89-40df-ab34-440e7e6ffb78",
+      "title": "HELP ME！みゅーちゃん！",
+      "artist": "高木美佑",
+      "isrc": "JPT551700225",
+      "releaseDate": "2017-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/4O60I0HDtYa7JmcrHLUTGg",
+      "isFallback": true
+    },
+    {
+      "id": "f5d71690-b72d-439a-841e-ffb8aad6a5f9",
+      "title": "Party!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600755601",
+      "releaseDate": "2007-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/0AdaV0Wfn5LMoEv9XPL4zb",
+      "isFallback": true
+    },
+    {
+      "id": "5297e09e-e72e-4f48-b082-8f4ff20afd6e",
+      "title": "Enter!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600669601",
+      "releaseDate": "2006-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/4jCMnjIT6X2ZC9qdF7QnS7",
+      "isFallback": true
+    },
+    {
+      "id": "d8988be2-dbbb-4761-abf0-f65682d8a97d",
+      "title": "Fairy*",
+      "artist": "Yun*chi",
+      "isrc": "JPCR01405660",
+      "releaseDate": "2014-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/7ppmlQ28tyr5DHy8aT622b",
+      "isFallback": true
+    },
+    {
+      "id": "0b1691c3-4dc6-4782-b3c9-0d72b2a2aabb",
+      "title": "Animetic Love Letter",
+      "artist": "宮森あおい",
+      "isrc": "JPQ461400295",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/3mqYMLmB6oMlgzX0VmRKe4",
+      "isFallback": true
+    },
+    {
+      "id": "b3c38b84-b7ae-417a-9c64-aaf7aacf6a82",
+      "title": "Mr. Silence",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900284",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/3Upr6WuwW6xD0qPk0qe3eu",
+      "isFallback": true
+    },
+    {
+      "id": "ecf1c2b8-7d1f-4a45-8149-c53755d97fc3",
+      "title": "Chuo Line",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600760002",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/1CdvJalAhoe18f0ZVn6vDA",
+      "isFallback": true
+    },
+    {
+      "id": "222f1079-bde7-41e8-9ee5-13345d1fea77",
+      "title": "バレンタイン",
+      "artist": "双海亜美",
+      "isrc": "JPCO00840870",
+      "releaseDate": "2008-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/7udqNogZML7OZVew85cPUT",
+      "isFallback": true
+    },
+    {
+      "id": "5f8029ab-092f-41ab-9ad3-162edf002347",
+      "title": "プロローグ21～恋のはじまり～",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900580",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4ae028f3-5808-4ffe-b2b2-b2d134256448",
+      "title": "エシカル〜ありがとうを伝えたい〜",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631202102",
+      "releaseDate": "2012-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/3VYW33QUgj0tOFCL02AIl8",
+      "isFallback": false
+    },
+    {
+      "id": "c43ca1a9-494b-4b6f-a56f-3141f8f90565",
+      "title": "アキバレンジャー シーズン痛!",
+      "artist": "桃井はるこ",
+      "isrc": "JPCO01310400",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9771475a-2d23-4f1a-b5b4-e769b71aafb9",
+      "title": "Rolling! Rolling!",
+      "artist": "RO-KYU-BU!",
+      "isrc": "JPQ461300076",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/7ld3d4mE1A0NM55tMOv3bb",
+      "isFallback": true
+    },
+    {
+      "id": "75d95f5e-1d7f-44e3-ba40-a60cb5517755",
+      "title": "ダウジング〜なにかを信じて〜",
+      "artist": "久志麻理奈",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a3a1c333-2234-442a-99e1-e5d34b9c68ed",
+      "title": "reimei ni raimei",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900585",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f461960f-abfb-4d8c-8755-a1a9530dd99c",
+      "title": "がんばれ!たまちゃん",
+      "artist": "UNDER17",
+      "isrc": "",
+      "releaseDate": "2003-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a5cd2838-5156-4fa2-8d25-e601d76ef1c6",
+      "title": "テトリアシトリ",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01313538",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/7pH8ZTrwYC9GreSb79YsVp",
+      "isFallback": true
+    },
+    {
+      "id": "bb50eff9-0429-4bca-9f5e-5da483d4c70b",
+      "title": "カイト",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900180",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3e9s1TOxLsm7Eg9LxGP3ZL",
+      "isFallback": true
+    },
+    {
+      "id": "34155b92-1dab-459f-9a6d-8fa3cb6e7796",
+      "title": "Thunder Shot!",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600804803",
+      "releaseDate": "2008-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/094ZWHGQHvTLuOSnwgt3tK",
+      "isFallback": true
+    },
+    {
+      "id": "87852d6d-3117-4966-bd4a-36564e4903c8",
+      "title": "しゅーてぃんすたー☆",
+      "artist": "中原小麦",
+      "isrc": "JPPI00452610",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/5jKBwvXE4uWvMFB6ZP39q4",
+      "isFallback": true
+    },
+    {
+      "id": "e125105d-f3fb-43d4-8949-812e2d383e18",
+      "title": "ドリーム天国",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900183",
+      "releaseDate": "2012",
+      "spotifyUrl": "https://open.spotify.com/track/2g2VyHyy7Rt3kPGi9zEZWl",
+      "isFallback": true
+    },
+    {
+      "id": "194f700e-335e-411e-b4a2-d7e7568fc795",
+      "title": "Romantic summer",
+      "artist": "SUN",
+      "isrc": "JPB600720801",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4ms6k8hi8cppJfZovCJQmh",
+      "isFallback": true
+    },
+    {
+      "id": "de96882b-b083-42e0-9db7-c2d2363279bf",
+      "title": "あなたがだいきらい",
+      "artist": "[unknown]",
+      "isrc": "",
+      "releaseDate": "2002-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e032abb6-8b27-498f-bd4d-4d64ba59a5c8",
+      "title": "We say Yeah!",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900184",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0EELUQmN0cMwMw4d2QG7KV",
+      "isFallback": true
+    },
+    {
+      "id": "ca2c35e2-0bb4-42cc-8fcd-58ed5a7caa04",
+      "title": "㌧㌦ベイビー",
+      "artist": "桃井はるこ",
+      "isrc": "JPA450500135",
+      "releaseDate": "2005-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a8156132-e980-4b02-9d8d-4dcdfa50bd91",
+      "title": "セカイじゅうのAKIHABARAで",
+      "artist": "桃井はるこ",
+      "isrc": "JPKI01710748",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f685bfd8-d291-47dc-8ac1-b204462ac419",
+      "title": "ファーストピリオド.",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI02412385",
+      "releaseDate": "2024-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/3dHuX10pYY0oPbW6ouDd2S",
+      "isFallback": true
+    },
+    {
+      "id": "0f6745aa-0446-4cf7-9902-856fef86a3df",
+      "title": "The Wall 〜越えられない壁〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000968",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87ed12ef-f22d-4ace-900e-cb07d5906169",
+      "title": "アキハバラブ",
+      "artist": "ぱふゅーむ",
+      "isrc": "",
+      "releaseDate": "2005-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7728819b-8d96-4356-88d8-04dd16f064da",
+      "title": "おやすみ",
+      "artist": "中原小麦",
+      "isrc": "JPPI00452620",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/44ipGlXBjgpCmb79rm6GMt",
+      "isFallback": true
+    },
+    {
+      "id": "8e38a2bc-8371-401a-ac9c-7cabd12b3be5",
+      "title": "へんじがない、ただのしつれんのようだ。",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900581",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db4f63ed-ddc2-4aac-bd63-5f5b5f3c3ac0",
+      "title": "Spell☆Of☆Love",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK631801902",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/3rdy7KvNZD5f1Xhv8Yh7xp",
+      "isFallback": true
+    },
+    {
+      "id": "980d1cf2-b716-4ba7-86dd-5d2118427954",
+      "title": "しょうわ",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101360",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d3cbfa0a-af91-4833-a195-2bc5f31155f4",
+      "title": "い・ん・て・りMOUSE -Optical Mix-",
+      "artist": "UNDER17",
+      "isrc": "JPI100302284",
+      "releaseDate": "2004-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9f48d98-3121-4d42-8b66-902b0c19eb7c",
+      "title": "SWEET☆CANDY",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000967",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8e2d38ea-db01-4058-956d-ab9bb99e96ba",
+      "title": "さいごのろっく",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600658301",
+      "releaseDate": "2006-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb3a8e3b-ebde-4eff-903f-0b5cb6f03a49",
+      "title": "うそつき×",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632204003",
+      "releaseDate": "2022-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/6hWpVt0EHo3Cb9AAEq4bPz",
+      "isFallback": true
+    },
+    {
+      "id": "436da603-c34a-4af9-89e9-500fa6971ed4",
+      "title": "どばと",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900245",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/5MjrLjH9Mfmc7EB0qApdhl",
+      "isFallback": true
+    },
+    {
+      "id": "2569ece8-7312-44e1-b976-902d2e12f06f",
+      "title": "フィギュアになりたい",
+      "artist": "UNDER17",
+      "isrc": "",
+      "releaseDate": "2004-10-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6482a5c3-ef0e-4e4a-855f-4519bb5afc12",
+      "title": "ポスト☆アキバ☆リプス",
+      "artist": "餅月ひまり",
+      "isrc": "",
+      "releaseDate": "2025",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "95a9dd45-617d-43ce-81fc-3bc37ee97f49",
+      "title": "いまは魔法はつかわない",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK631905602",
+      "releaseDate": "2019-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/1TArCYu6Ya83CffvQwmeK7",
+      "isFallback": true
+    },
+    {
+      "id": "91ee6ce5-3a1a-4c0f-a996-a349b0cfcd24",
+      "title": "ヒ・ミ・ツ",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101364",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9a844d3-73b7-4bbf-abea-5e7d4dc9b6b6",
+      "title": "オオカミBOY",
+      "artist": "中原小麦",
+      "isrc": "JPPI00450810",
+      "releaseDate": "2004-04-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "941773c8-ffac-4e09-8b0b-49e5e9c5e6b7",
+      "title": "Sunday early morning",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600804801",
+      "releaseDate": "2008-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/14MVdDLdqGY33NyOdnpwtV",
+      "isFallback": true
+    },
+    {
+      "id": "288eb019-e87c-4fd7-906c-c4252ba4537a",
+      "title": "こむぎ気分でろっくんロール",
+      "artist": "[unknown]",
+      "isrc": "",
+      "releaseDate": "2002-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26982f78-9d75-44e2-898a-516cf7249e4c",
+      "title": "TANTEI☆ラプソディ",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631103102",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0OwpcUqqO29aab5Ersiqjm",
+      "isFallback": true
+    },
+    {
+      "id": "dd7dec92-6a7b-4412-85d4-52364ab8f4ed",
+      "title": "sweet suite room",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651202081",
+      "releaseDate": "2006",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3e7faf5-a9a2-4a1e-a226-42a91b5aea44",
+      "title": "スカート丈の長いメイドさんには絶対にかなわない",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101366",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ab6b0ff9-fcb5-412a-8ea7-00b6a37420bb",
+      "title": "マウスChuマウス",
+      "artist": "UNDER17",
+      "isrc": "JPI100302283",
+      "releaseDate": "2004-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7b0a990-0661-4dcc-a211-dc9a385d01a0",
+      "title": "マジカル☆エクスプレス☆ジャーニー",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631401701",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/2t6ioZZjpwiM7qMLng8vNq",
+      "isFallback": true
+    },
+    {
+      "id": "d489dc45-160d-4893-92eb-e2e9ac86ab6b",
+      "title": "キラキラ輝く",
+      "artist": "中原小麦",
+      "isrc": "",
+      "releaseDate": "2005-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "107f730f-2754-479b-89eb-42802553367d",
+      "title": "ファンシー・フリー・デストロイヤー",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632301202",
+      "releaseDate": "2023-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/2mAm6r8jnqf9k4DPc8fAPn",
+      "isFallback": true
+    },
+    {
+      "id": "f7a791c9-0cd5-4ced-94aa-74f88dace756",
+      "title": "げんし、女子は、たいようだった。",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01313537",
+      "releaseDate": "2013-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1MF4oU4pnpkXzVsmZYe2AY",
+      "isFallback": true
+    },
+    {
+      "id": "6b395b27-c157-4e53-9efd-24174aa1316d",
+      "title": "かがやきサイリューム",
+      "artist": "UNDER17",
+      "isrc": "JPI100401028",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "494464b0-63ab-400e-be10-5e4599fcec8b",
+      "title": "がんばれ…それは、I LOVE YOU",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101283",
+      "releaseDate": "2011-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c309378a-9710-42fc-91e0-3001aa9c7c26",
+      "title": "ツキにむかって、うて!",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900182",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/6xewUxRIehuvHtkUW8PSBm",
+      "isFallback": true
+    },
+    {
+      "id": "490cc59a-857c-46be-a4b2-8c5d8546ddac",
+      "title": "Say You, Say Me",
+      "artist": "野川さくら",
+      "isrc": "JPB600760102",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/6ZeROKqFbCtsNvXoIFtrcq",
+      "isFallback": true
+    },
+    {
+      "id": "b075efbd-1212-4e61-ace9-1cde112406e0",
+      "title": "tora:uma",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900189",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/1N1lKQY5tvEOTQDyjZjIFu",
+      "isFallback": true
+    },
+    {
+      "id": "bf1d2517-b834-4cea-a36f-083fdf5e2c63",
+      "title": "Romantic summer -八中女子やりすぎMIX-",
+      "artist": "巡",
+      "isrc": "JPB600807412",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/6AIVQwWiUfbQ7J5Jfgm5zp",
+      "isFallback": true
+    },
+    {
+      "id": "5f39e9ea-d38d-4565-b971-4ec7a8d9c230",
+      "title": "アキハバラプソディー",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600706603",
+      "releaseDate": "2007-02-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd5d70af-ba74-44c0-99f9-6e40cc913e7b",
+      "title": "インビジブルシングス",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900181",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/2VWJLvnm2c8HOFfvBfeNYE",
+      "isFallback": true
+    },
+    {
+      "id": "35bc84ae-ed4e-4309-85f8-c80bb99a7f80",
+      "title": "ハッピーバースデー☆エンカウント",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631602702",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/2GBuTqQAwxfLgrg6EQTpdV",
+      "isFallback": true
+    },
+    {
+      "id": "9cd928a5-e059-4e69-b3e4-3473c687c3b4",
+      "title": "ハイ・エナジー",
+      "artist": "野川さくら",
+      "isrc": "JPB600760101",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/7EigNFxgQB34BGq6zlXKuw",
+      "isFallback": true
+    },
+    {
+      "id": "d250bf90-820c-4a59-833e-8c244ff3c944",
+      "title": "アフィリアの誓い",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631702204",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/6dYaAnvgipHfLqkEARkGJc",
+      "isFallback": true
+    },
+    {
+      "id": "528ae081-9c75-494c-b42d-c2846a60ace6",
+      "title": "ナイト・で・ないと",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600804805",
+      "releaseDate": "2008-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/1hmJkZpsY3TRDZM2I29401",
+      "isFallback": true
+    },
+    {
+      "id": "02df9187-6868-4d7b-8fa7-8fa8a22cf1f4",
+      "title": "ちいさなまほう 〜Small Magic〜",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631503402",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4dca6cb6-6a4e-4be7-8d6c-1162927af82c",
+      "title": "S・P・Y",
+      "artist": "野川さくら",
+      "isrc": "JPI100701193",
+      "releaseDate": "2007-08-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8c1ac7c-dd93-4bd3-90f8-91f58036a27b",
+      "title": "ぽぽたん畑でつかまえて",
+      "artist": "UNDER17",
+      "isrc": "JPI100301184",
+      "releaseDate": "2003-08-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b732bd75-a714-482a-a8ba-02f80b9b9f31",
+      "title": "ハツコイ///ストライプ",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631501001",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/0DmIjPh6KlBJDLqeV8d2lm",
+      "isFallback": true
+    },
+    {
+      "id": "59c9f3fd-d45e-4140-8105-d6ff032004cd",
+      "title": "いちごいちえ",
+      "artist": "Ace File くしよし",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a6c6372d-5dc6-4461-a8e5-ea375453e1ef",
+      "title": "ですぱれーしょん☆です!",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101362",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "462527ee-a717-42de-a65e-3934b656ca34",
+      "title": "ま・た・ね",
+      "artist": "中原小麦",
+      "isrc": "",
+      "releaseDate": "2005-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2444f310-13c9-4bd9-bf1b-9dc1ab07a2cf",
+      "title": "いいこいいこしてあげる",
+      "artist": "松林てろる",
+      "isrc": "TCJPT2259432",
+      "releaseDate": "2022-09-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "945de94e-9f18-4e3a-ba9a-2dfd50c89617",
+      "title": "それいゆ -Dear Destiny-",
+      "artist": "桃井はるこ",
+      "isrc": "JPD642000012",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/1vbY2QHL9GQvlpHeb2GmC8",
+      "isFallback": true
+    },
+    {
+      "id": "61a194a2-e261-437c-9c54-31c9098843af",
+      "title": "パズル",
+      "artist": "デザート",
+      "isrc": "",
+      "releaseDate": "2002-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27b6ceef-7b63-4ce1-8650-519e80a2d3e9",
+      "title": "くじびきアンバランス",
+      "artist": "UNDER17",
+      "isrc": "JPI100401027",
+      "releaseDate": "2004-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf7ffc56-1937-4c41-a01f-926adad39c7a",
+      "title": "プラチナジェット",
+      "artist": "どーなつ◎くいんてっと",
+      "isrc": "JPQ461500002",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/7G9aKpF8Hor7UsLQwPdWfQ",
+      "isFallback": true
+    },
+    {
+      "id": "7ae3de3e-6a9e-44a9-8025-087fd37cdf1e",
+      "title": "SAKURA AI REN",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a4fa034-f95a-41c0-bb35-48cfdeb22953",
+      "title": "非公認戦隊アキバレンジャー",
+      "artist": "桃井はるこ",
+      "isrc": "JPCO01209910",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "23cac462-bba7-4171-8566-02a783ab8073",
+      "title": "愛のメディスン〜アニサマバージョン〜",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900537",
+      "releaseDate": "2009-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f79fe4b-d906-415a-abc9-dbfc2ee8b84c",
+      "title": "ラブ・ループ",
+      "artist": "久志麻理奈",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "193089d0-d72a-4ca8-a735-eda7ab340119",
+      "title": "天空のスプライト",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600846002",
+      "releaseDate": "2008-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/39dyIp6AbZo84s76NfB7vS",
+      "isFallback": true
+    },
+    {
+      "id": "7fe6110a-d8ca-4543-a4f1-9c3cc29df3ab",
+      "title": "恋をゲームにしないで!",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631006702",
+      "releaseDate": "2010-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/3aqGKd9smQUjuMRg1uud6J",
+      "isFallback": true
+    },
+    {
+      "id": "629395b2-5e69-4c46-b883-0e7422c4f7b9",
+      "title": "舞台版『恋のヒメヒメ☆ぺったんこ』",
+      "artist": "桃井はるこ",
+      "isrc": "JPD601300012",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/1tWwAOt1RXLkQmCyCTo9u2",
+      "isFallback": true
+    },
+    {
+      "id": "e8ce262e-5f1d-4685-aa4d-29d45776f553",
+      "title": "英語と恋はうまくならない",
+      "artist": "桃井はるこ",
+      "isrc": "JPA450500136",
+      "releaseDate": "2005-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0a883389-f9bc-4f9f-90f0-6ad40e63b0db",
+      "title": "愛のメディスン",
+      "artist": "桃井はるこ",
+      "isrc": "",
+      "releaseDate": "2002-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31934444-6673-4f44-9252-6d57ee28d3ae",
+      "title": "女神さまのポイントカード",
+      "artist": "アフィリア・サーガ",
+      "isrc": "JPK631500302",
+      "releaseDate": "2015-02-11",
+      "spotifyUrl": "https://open.spotify.com/track/7omUxfeK6FTnq7d1CY7fdi",
+      "isFallback": true
+    },
+    {
+      "id": "3d021ed0-6cc9-47e5-9f96-30410ce2f13c",
+      "title": "ライトワンス",
+      "artist": "デザート",
+      "isrc": "",
+      "releaseDate": "2002-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "78f2b79e-a392-4fb4-ab5a-709c14ceb111",
+      "title": "今夜は☆SAKURA☆FEVER",
+      "artist": "野川さくら",
+      "isrc": "",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f775349b-72c5-4bc0-b330-eb74df6a9a25",
+      "title": "ルミカ",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600760001",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/5G4tiEKTuciuuSRRcX1BU5",
+      "isFallback": true
+    },
+    {
+      "id": "cc951720-4d01-4d66-a2c4-74607d7c20c9",
+      "title": "純愛マリオネット",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900244",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/0j2YVkzP9czvCJaTtUPRor",
+      "isFallback": true
+    },
+    {
+      "id": "a76d5bb8-771c-4e05-ad2d-070bc6d1978e",
+      "title": "ライフイズフリー",
+      "artist": "新谷良子",
+      "isrc": "JPI100500182",
+      "releaseDate": "2005-03-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8809f42-f7a3-4c7f-ad2a-de168906e20c",
+      "title": "想い",
+      "artist": "高梨康治",
+      "isrc": "JPPC02213287",
+      "releaseDate": "2007-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/15DAJL6yR6JqvPHsC6Ns8k",
+      "isFallback": true
+    },
+    {
+      "id": "c0c20c0a-74c7-48b5-92c8-abe7737ed08b",
+      "title": "倍速恋愛時計",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631200702",
+      "releaseDate": "2012-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/0Yv278ew2lsJF8WAJ6LhI1",
+      "isFallback": true
+    },
+    {
+      "id": "a0a4aea8-240c-4fed-b403-5e62e4eb3223",
+      "title": "梯 -かけはし-",
+      "artist": "SUN",
+      "isrc": "JPB600905107",
+      "releaseDate": "2009-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/5yKeVutvVUsYZxNWBgTtx1",
+      "isFallback": true
+    },
+    {
+      "id": "a1e042c2-4af9-4b23-939b-80626675390b",
+      "title": "ルミナスの泉",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK630909601",
+      "releaseDate": "2009-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/1s4epbj3fW2VXFmGJTNCN9",
+      "isFallback": true
+    },
+    {
+      "id": "014e0a76-ae14-4fe4-b0b0-7e5339b4fe8d",
+      "title": "永遠のオルスバン",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000969",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50f27a0f-7cf1-415c-9aeb-8de67e43a6c7",
+      "title": "ワンダーモモーイ",
+      "artist": "桃井はるこ",
+      "isrc": "JPCO00522840",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/5i5S0GOoMkn9wAUPlXA4E9",
+      "isFallback": true
+    },
+    {
+      "id": "5d8fbc95-9cee-4dfe-9006-62c210c23a56",
+      "title": "祭だ!BOY MEETS GIRL",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101365",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eaec0279-aa7a-4a87-b48b-16b51ec4b98e",
+      "title": "始発にのって",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900500",
+      "releaseDate": "2009-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3369389a-982d-4d71-952e-ac8d65adeabe",
+      "title": "今、あなたが好き",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600804806",
+      "releaseDate": "2008-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/2X1vyojyUWcP3XYiSovypB",
+      "isFallback": true
+    },
+    {
+      "id": "048a64a8-a5dc-4ce3-af73-3a0d630a0c45",
+      "title": "東京サバイバル",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900188",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/2imLqQFTtzwSSLwVpSlbYk",
+      "isFallback": true
+    },
+    {
+      "id": "66c79538-ebb8-42ad-93be-c715def5316b",
+      "title": "勝利の女ネ申☆",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651000840",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1ab18cf6-13b1-413b-8625-8542504a47ab",
+      "title": "恋の冥王星",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600665902",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9f4cd3b-9927-4d7c-9a20-61117cb9e988",
+      "title": "夏のハレーション",
+      "artist": "吉川茉絵",
+      "isrc": "",
+      "releaseDate": "2002-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "63208594-c8c0-4e6f-ae0b-e39c239c8434",
+      "title": "天罰!エンジェルラビィ (Original Version)",
+      "artist": "UNDER17",
+      "isrc": "",
+      "releaseDate": "2003-03-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ee3e9995-7bc2-4f17-9926-b8c81283f7c3",
+      "title": "愛のマニフェスト",
+      "artist": "遠藤正明",
+      "isrc": "JPI100301988",
+      "releaseDate": "2003-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2LxbijAxo5wJ5wXSk7cDl7",
+      "isFallback": true
+    },
+    {
+      "id": "e058dd30-3a6b-4306-b1b1-3d3083853361",
+      "title": "ロックンロール☆バレンタイン",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900218",
+      "releaseDate": "2016-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4g9cE5llQhoQqpI6Ff2las",
+      "isFallback": true
+    },
+    {
+      "id": "3b6ce431-819b-4830-a5d1-df45d5b5aed9",
+      "title": "ゆめのばとん",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600665901",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f25f05c4-ff1f-475b-ad7e-050aa19b84b9",
+      "title": "るーじー・ぐーじー",
+      "artist": "桃井はるこ",
+      "isrc": "JPA650900463",
+      "releaseDate": "2009-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f822a9f-2f83-4dbb-b5a5-07f43224395b",
+      "title": "絶対乙女",
+      "artist": "SUN",
+      "isrc": "JPB600859201",
+      "releaseDate": "2008-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4NBrQNj868PHWRbsZEJjdO",
+      "isFallback": true
+    },
+    {
+      "id": "b8864e63-4d91-4369-9e73-419142584095",
+      "title": "もっと、夢、見よう!!",
+      "artist": "UNDER17",
+      "isrc": "",
+      "releaseDate": "2004-10-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76c33a95-469a-4227-9190-d5033ec39e63",
+      "title": "夜明けのサンバ",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101121",
+      "releaseDate": "2011-03-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b2342bb9-72da-44c0-88ea-39626e3c4264",
+      "title": "夏より熱い冬",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101361",
+      "releaseDate": "2011-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e8c5057-03c4-45a7-91e4-a72d754a8ea9",
+      "title": "レアドロ☆KOI☆恋!ワンモア!",
+      "artist": "RINA",
+      "isrc": "JPX301606820",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3581efb8-635d-44a7-9b3a-87361aaafd6e",
+      "title": "恋のレシピ",
+      "artist": "桃井はるこ",
+      "isrc": "JPB600630118",
+      "releaseDate": "2003-03-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82d37743-55ec-406c-8ee7-65a92d9169cb",
+      "title": "ワタシ☆LOVEな☆オトメ!",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK631002001",
+      "releaseDate": "2010-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/3h88KE1GiWitcAcCzNkVPL",
+      "isFallback": true
+    },
+    {
+      "id": "cd9e1ec6-abf8-49e7-b734-96434bcd9162",
+      "title": "レアドロ☆KOI☆恋!",
+      "artist": "PSO2放送局メンバー",
+      "isrc": "JPX302030620",
+      "releaseDate": "2015-09-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f1b1340b-d943-4bf3-9da6-1712ffaa5db7",
+      "title": "ライブハウスの天気予報",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02201450",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/2PnHqoraxTlI1XjlMYy631",
+      "isFallback": true
+    },
+    {
+      "id": "d2635004-0320-47f3-8894-535489d85cd8",
+      "title": "大運動会",
+      "artist": "高梨康治",
+      "isrc": "",
+      "releaseDate": "2007-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31c3c470-3613-48ce-9c87-d6318b4c37b9",
+      "title": "星空ダンシング",
+      "artist": "桃井はるこ",
+      "isrc": "JPK360900270",
+      "releaseDate": "2017-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/63hlMomJxCfxSOIXkwaoUi",
+      "isFallback": true
+    },
+    {
+      "id": "92dc05ae-8a84-4bda-9539-85e47089dac4",
+      "title": "ライブのあとはさみしいな",
+      "artist": "桃井はるこ",
+      "isrc": "JPA651101122",
+      "releaseDate": "2011-03-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6df8b27d-6d6d-4fea-bfe1-f1937d882309",
+      "title": "教育的指導!",
+      "artist": "アフィリア・サーガ・イースト",
+      "isrc": "JPK630908702",
+      "releaseDate": "2011-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6ZAN2ipIRAZ2nXq0fd9qnj",
+      "isFallback": true
+    },
+    {
+      "id": "439ca99e-3575-4f57-805d-fa11821bbd8c",
+      "title": "世界へはばたけ！",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631602301",
+      "releaseDate": "2016-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/6Eo9MDf1LtlhmDLTXkScgw",
+      "isFallback": true
+    }
+  ]
+}

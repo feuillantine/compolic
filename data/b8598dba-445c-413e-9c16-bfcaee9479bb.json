@@ -1,0 +1,231 @@
+{
+  "name": "山本真央樹",
+  "sortName": "ヤマモトマオキ",
+  "tracks": [
+    {
+      "id": "bd7d7aae-a8e8-4da7-86af-47ef76264c5b",
+      "title": "飛べないぼくと鳴かない黒猫",
+      "artist": "山本真央樹",
+      "isrc": "JPM202102391",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "74ee7ad9-fdf9-44f0-91b2-102298ed98a4",
+      "title": "日々あどべんちゃーなのでしてー",
+      "artist": "依田芳乃",
+      "isrc": "JPCO02127430",
+      "releaseDate": "2021-11-17",
+      "spotifyUrl": "https://open.spotify.com/track/3GARzidTGsKMWjRLupKTPr",
+      "isFallback": true
+    },
+    {
+      "id": "c7e17264-8c9d-4578-9b89-7dd058812bfa",
+      "title": "無限L∞PだLOVE♡ (M@STER VERSION)",
+      "artist": "辻野あかり",
+      "isrc": "JPCO02325830",
+      "releaseDate": "2023-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/2Ok7gyLNjzGhVGp249zpC0",
+      "isFallback": true
+    },
+    {
+      "id": "d47f693b-49f1-41d0-905f-3f133b6a8c0d",
+      "title": "LOVE☆ハズカム",
+      "artist": "藤本里奈",
+      "isrc": "",
+      "releaseDate": "2019-03-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13ce3dab-3001-4ca8-8614-23b5ba8cb3f9",
+      "title": "ぼくらの“最☆強”おもちゃ箱ワンダーランド♪",
+      "artist": "ななひら",
+      "isrc": "",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e499f20-adbf-4f56-bdd4-156a17b5fdb8",
+      "title": "CAPTURING XANADU",
+      "artist": "山本真央樹",
+      "isrc": "JPM202000377",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d92ff55-c290-4b04-a216-800bedd8522c",
+      "title": "とびきりシュガータイム",
+      "artist": "山本真央樹",
+      "isrc": "JPM202000346",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f13352d3-5e69-404d-ae1a-8bf14b2d80dc",
+      "title": "Solitary Ghost",
+      "artist": "DEZOLVE",
+      "isrc": "JPKI01917693",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/5rpY9IZS3H8zkG9ANtn2tl",
+      "isFallback": true
+    },
+    {
+      "id": "c521e2d3-9d51-4127-99da-c33445959db5",
+      "title": "PIRATES BANQUET",
+      "artist": "山本真央樹",
+      "isrc": "JPM202000353",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1357ee02-fed3-4bc4-9375-646d372cd8bf",
+      "title": "放課後コンチェルティーノ〜私だけの部室狂騒曲",
+      "artist": "山本真央樹",
+      "isrc": "JPM202102444",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3cf22847-4bcc-47e9-a066-e4608e7eb1fa",
+      "title": "Merry Warm Bodies",
+      "artist": "白坂小梅",
+      "isrc": "JPCO02428800",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3soIPNOcwl73HB2WzRAiZk",
+      "isFallback": true
+    },
+    {
+      "id": "a69b112e-bb3f-4b87-b2aa-fe8a22fd4095",
+      "title": "トキメキノーツ♪",
+      "artist": "のりプロ",
+      "isrc": "",
+      "releaseDate": "2021-06-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b546d2cd-bf35-4db1-95fc-9b61ea88c033",
+      "title": "Hidden Sanctuary",
+      "artist": "DEZOLVE",
+      "isrc": "JPKI02512370",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/6Cwjo8av2kZ6RNPWOJmjbe",
+      "isFallback": true
+    },
+    {
+      "id": "7860a7e8-d1a8-4c42-9f89-9c26211cabf7",
+      "title": "ぼっちのためのトモダチ行進曲",
+      "artist": "アオイ",
+      "isrc": "JPCO02114240",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/4G060210ShPXlcW9v1xAtV",
+      "isFallback": false
+    },
+    {
+      "id": "7ac12e55-4dea-4f6c-9aee-c936be37060c",
+      "title": "熱情のサパデアード",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201800643",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e15b5c6e-ba01-4a58-8405-e7e3eb7dc278",
+      "title": "Driving My Way",
+      "artist": "黒埼ちとせ",
+      "isrc": "JPCO02013150",
+      "releaseDate": "2020-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/1xcUCBIVIkJlvb4MZj0PkK",
+      "isFallback": true
+    },
+    {
+      "id": "22ed2795-439c-4b53-bee5-dae0c9921b00",
+      "title": "Cosmo Cosme",
+      "artist": "城ヶ崎美嘉",
+      "isrc": "JPCO02506210",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/2Io49WcspgTsugERjNfBN9",
+      "isFallback": true
+    },
+    {
+      "id": "e3e406b3-2c79-429d-993d-5973b5729a30",
+      "title": "夢見ルピナス",
+      "artist": "Re:A projecT",
+      "isrc": "TCJPJ1905898",
+      "releaseDate": "2019-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/77qcKIvQbRI2zdB9lIW6YU",
+      "isFallback": true
+    },
+    {
+      "id": "590c3bb8-4ad9-4a1c-88b5-c41add6ed4d3",
+      "title": "ヒトトキトキメキ",
+      "artist": "十時愛梨",
+      "isrc": "JPCO01832250",
+      "releaseDate": "2019-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/3jAaPRMGKWZZDMNqQQEVIm",
+      "isFallback": true
+    },
+    {
+      "id": "7fdeabb6-6ae1-4e10-a5e5-04d095e22388",
+      "title": "芽吹の季",
+      "artist": "萩原雪歩",
+      "isrc": "JPCO02109870",
+      "releaseDate": "2021-06-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6530bcb6-1fd7-4b84-bd34-4098fb677237",
+      "title": "Dance in the Fragrance",
+      "artist": "ノゾミ",
+      "isrc": "JPCO02435540",
+      "releaseDate": "2024-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1v5u30R1EjLDpZe0AC1kvD",
+      "isFallback": true
+    },
+    {
+      "id": "682ad952-9497-4052-96f7-3bd6bb8933a5",
+      "title": "天ぷらイントロドン！！",
+      "artist": "山本真央樹",
+      "isrc": "JPM202102480",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a95617b-90e5-4328-9e01-e3ec483b563e",
+      "title": "Frontiers",
+      "artist": "DEZOLVE",
+      "isrc": "JPKI01917685",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV",
+      "isFallback": true
+    },
+    {
+      "id": "2132fb7b-1158-4799-8a4d-28b2541153ff",
+      "title": "まほうのまくら (M@STER VERSION)",
+      "artist": "遊佐こずえ",
+      "isrc": "JPCO02224390",
+      "releaseDate": "2022-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/2wZiqNNjs4sOYIvLpdMIHe",
+      "isFallback": true
+    },
+    {
+      "id": "860d43af-5187-4ee5-956f-70ea5eeceb62",
+      "title": "re:fruition",
+      "artist": "DEZOLVE",
+      "isrc": "JPKI01917686",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/4VJqx6RHKaXIGNIseeMFUx",
+      "isFallback": true
+    }
+  ]
+}

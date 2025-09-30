@@ -1,0 +1,303 @@
+{
+  "name": "中上和英",
+  "sortName": "ナカガミカズヒデ",
+  "tracks": [
+    {
+      "id": "1388543b-5c0f-4ebc-beb0-345b0938c5d5",
+      "title": "君のままで",
+      "artist": "元田恵美",
+      "isrc": "JPKI00134800",
+      "releaseDate": "2003-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/0IlqTz6mp7sJCfsL6qWtbq",
+      "isFallback": true
+    },
+    {
+      "id": "c20bbcf6-7dfc-402b-99ea-e6a4b9b77a06",
+      "title": "イベント (オチャラケ)",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "2003-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "011b1c17-be97-4cd1-9173-2fa38127e5b0",
+      "title": "マイ・フレンド ”長岡 志保”",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "073b5760-8b3b-4da8-862a-99f870983ef9",
+      "title": "イベント (行くぞー)",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "2003-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2c39a546-4c83-4a02-aa08-da2d51c19a60",
+      "title": "lesson",
+      "artist": "Suara",
+      "isrc": "JPKI00606531",
+      "releaseDate": "2006-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/3DYZihwsCNVTHPDj7rhBea",
+      "isFallback": true
+    },
+    {
+      "id": "a405d4c1-10ef-424a-8688-f58653f65e2f",
+      "title": "真昼の月",
+      "artist": "Suara",
+      "isrc": "JPKI00814716",
+      "releaseDate": "2008-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/5lNPcqp9D2wlNCjkWbaSLL",
+      "isFallback": true
+    },
+    {
+      "id": "5680b3e0-7bfa-4a36-afa3-742ec145a9c1",
+      "title": "SLAPSTICK STREET",
+      "artist": "中上和英",
+      "isrc": "JPKI01317552",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fa311b6-0bd2-4f06-b47f-fcd2945d5bc3",
+      "title": "Smiling ”宮内 レミィ”",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b98b24b5-bb78-424a-8485-654a29b39f5c",
+      "title": "I hope so…",
+      "artist": "池田春菜",
+      "isrc": "JPKI00605303",
+      "releaseDate": "2003-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/4sK0EndpSQUqFj7po7cn81",
+      "isFallback": true
+    },
+    {
+      "id": "fb94dc6a-1be2-4d29-ba8a-929b7ed07775",
+      "title": "Brand-newHeart",
+      "artist": "美咲しのぶ",
+      "isrc": "JPKI09939070",
+      "releaseDate": "2000-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/0uuphMLxeTCcYn6yUMDu0b",
+      "isFallback": true
+    },
+    {
+      "id": "bfbbb4b8-09ed-4ff9-ad9a-270c942d2681",
+      "title": "お名前なんてーの？",
+      "artist": "中上和英",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ce78f72-bf2f-4665-9c0b-b8c906c276b6",
+      "title": "毎日がはっぴぃばーすでい",
+      "artist": "山川琴美",
+      "isrc": "",
+      "releaseDate": "2008-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12505743-3b26-4fc2-af3c-fac71d0591e4",
+      "title": "戦士の宿命（さだめ）",
+      "artist": "中上和英",
+      "isrc": "",
+      "releaseDate": "2005-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4ea1fc35-0c2d-447d-8299-cf51ba55c76f",
+      "title": "Fairly Market(妖精の市場)",
+      "artist": "中上和英",
+      "isrc": "JPKI00815366",
+      "releaseDate": "2008-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8579e6c-1731-4cf0-9681-0252101d45c2",
+      "title": "DOTA BATA",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86497295-f5ac-4c3b-a1f7-8c6288216f41",
+      "title": "なんて愉快！",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "35617374-bd08-42fc-bd1e-0a9de66d7b37",
+      "title": "ためいき",
+      "artist": "中上和英",
+      "isrc": "JPZ921208632",
+      "releaseDate": "2009",
+      "spotifyUrl": "https://open.spotify.com/track/4OQn2dnZIZSJ8HZUZ9Jike",
+      "isFallback": true
+    },
+    {
+      "id": "dd98a8f7-75df-45fb-ba4f-cfe2d3dd89d3",
+      "title": "ステージ (火山)",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "2003-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8950285b-a049-48ba-820d-b31b6b63fa47",
+      "title": "天かける星",
+      "artist": "Suara",
+      "isrc": "JPKI01521231",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0imvBW5FvoJFTtWB9vEhGl",
+      "isFallback": true
+    },
+    {
+      "id": "dcd7ac82-2776-4a27-beba-b4ce7b08af04",
+      "title": "SOUND OF DESTINY",
+      "artist": "緒方理奈",
+      "isrc": "JPKI09939080",
+      "releaseDate": "1998-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/5qywmMEC7YQb2qMnIAT5Pq",
+      "isFallback": true
+    },
+    {
+      "id": "670586ef-9dd5-43c5-a0af-d18e4e5ffca6",
+      "title": "As time goes by",
+      "artist": "美咲しのぶ",
+      "isrc": "JPKI09939120",
+      "releaseDate": "2000-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/7r6NNbNLUeEnkbBg0hEPAi",
+      "isFallback": true
+    },
+    {
+      "id": "adfe455c-baf9-454f-b467-c5a9e24c4794",
+      "title": "SOUND OF DESTINY",
+      "artist": "緒方理奈",
+      "isrc": "JPKI00910962",
+      "releaseDate": "2009-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/5qywmMEC7YQb2qMnIAT5Pq",
+      "isFallback": true
+    },
+    {
+      "id": "63e318bd-325b-454b-bf3f-b4f5b26a7019",
+      "title": "篠塚弥生",
+      "artist": "中上和英",
+      "isrc": "",
+      "releaseDate": "1998-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85fbb838-907e-4202-a7ad-9fcde6b724ee",
+      "title": "Heart To Heart",
+      "artist": "中山愛梨沙",
+      "isrc": "JPKI00505086",
+      "releaseDate": "2004-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7ch6FHDtvbWW5TJPIQkAFs",
+      "isFallback": true
+    },
+    {
+      "id": "8195dc1b-aced-49c4-b302-e28cb498a4b2",
+      "title": "カッコ悪ぅ",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5913ef60-932b-4ca5-954e-9cc53042b6a7",
+      "title": "冷たい雨",
+      "artist": "中上和英",
+      "isrc": "",
+      "releaseDate": "1998-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e37182ca-7783-438f-a7b7-b617c893eb51",
+      "title": "「痕」シネマ",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "267dbb6f-4dc6-4598-801c-3be3d99baafd",
+      "title": "悪だくみ",
+      "artist": "中上和英",
+      "isrc": "JPKI00815367",
+      "releaseDate": "2008-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86c4d84f-148a-4412-9d59-705c3426c4d6",
+      "title": "それぞれの未来へ",
+      "artist": "中司雅美",
+      "isrc": "JPKI09900620",
+      "releaseDate": "1999-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/2587ThppEF6WlhibyePAF8",
+      "isFallback": true
+    },
+    {
+      "id": "f438e2d8-6fb1-426d-a8da-5cf18502b78e",
+      "title": "お嬢様はエレガント ”来栖川 芹香”",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fd597a5d-2522-4296-b1d5-d0b364ae75f9",
+      "title": "彼女の憂鬱 ”保科 智子”",
+      "artist": "石川真也",
+      "isrc": "",
+      "releaseDate": "1997-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc19e5df-9f4d-4474-adc0-65454615a554",
+      "title": "boy meets girl and girl",
+      "artist": "中上和英",
+      "isrc": "JPKI01317553",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ca03655-bdb0-44f9-8bf5-887ed545e150",
+      "title": "河島はるか",
+      "artist": "中上和英",
+      "isrc": "",
+      "releaseDate": "1998-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

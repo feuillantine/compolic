@@ -1,0 +1,123 @@
+{
+  "name": "岸田勇気",
+  "sortName": "キシダユウキ",
+  "tracks": [
+    {
+      "id": "dcea2154-288d-44d9-baa8-6ae31e34754e",
+      "title": "星色のカレイドスコープ",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402400087",
+      "releaseDate": "2024-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0WXs8PYQ2SHulEyiclN5OC",
+      "isFallback": true
+    },
+    {
+      "id": "d4b02841-c313-465f-999e-6017caccd310",
+      "title": "ユメミ誇レ!ユメ咲キ踊レ!",
+      "artist": "前橋ウィッチーズ",
+      "isrc": "JPI102500907",
+      "releaseDate": "2025-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/4WrRJqsHmbQFFWZ5orYLHX",
+      "isFallback": true
+    },
+    {
+      "id": "83951615-a44a-4071-a195-80dd0d8ad5e4",
+      "title": "くらえ！必殺！！ねこパンチ★ 〜私達、戦うにゃこたん【レベル５】〜",
+      "artist": "わーすた",
+      "isrc": "JPB601900598",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/1M2Y3qT8OFEKYXcjCwCuHo",
+      "isFallback": true
+    },
+    {
+      "id": "e31c2915-f04e-422f-97d3-76b5406ecbd6",
+      "title": "メラにゃイザー!!!!! 〜君に、あ・げ・う♪〜",
+      "artist": "わーすた",
+      "isrc": "JPB601901768",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/2hEvAFWKdItUxf9o8WXJ0b",
+      "isFallback": true
+    },
+    {
+      "id": "26f405dc-a871-4a2d-88b2-137e14b55486",
+      "title": "恋に恋する眠り姫",
+      "artist": "わーすた",
+      "isrc": "JPB602400721",
+      "releaseDate": "2024-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/1qs5TrqKeOjayga4SNCWuU",
+      "isFallback": false
+    },
+    {
+      "id": "b3806403-b7f5-49be-9f50-3d28f1e62acc",
+      "title": "ミライバルダンス",
+      "artist": "わーすた",
+      "isrc": "JPB602200405",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/0GDaBRIT92jUyRtpxb4qgH",
+      "isFallback": true
+    },
+    {
+      "id": "98a1ec43-5754-4845-958c-71feba0e1c99",
+      "title": "プロローグ",
+      "artist": "わーすた",
+      "isrc": "JPB601900577",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5mgAnUHmV6G3jNGHN4TkL5",
+      "isFallback": true
+    },
+    {
+      "id": "539437ff-daab-4f9e-9eab-8a9449b6aa6a",
+      "title": "リル・リル・トリップ",
+      "artist": "わーすた",
+      "isrc": "JPB602200821",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/6Yj9gdEt9eXzs10IFf8t4Z",
+      "isFallback": true
+    },
+    {
+      "id": "b6184b07-1e79-4c84-9ae0-4de3b1f3db7b",
+      "title": "ミラクルマジカルヘルシーパワー",
+      "artist": "わーすた",
+      "isrc": "JPB602302778",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/6DMcMlIJzJXqokJUrXYqPP",
+      "isFallback": false
+    },
+    {
+      "id": "f164be78-ca1c-4091-92c6-1eef3bf9f017",
+      "title": "メロメロ！ラヴロック",
+      "artist": "わーすた",
+      "isrc": "JPB602303104",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/7yNBMkIbEljyZfGyjCNAAY",
+      "isFallback": false
+    },
+    {
+      "id": "3025ddb7-d441-4600-8aa1-56a51f55f869",
+      "title": "トゥインクル・デイズ",
+      "artist": "harmoe",
+      "isrc": "JPPC02413537",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/41gKrP7uADTiT1J30uINp8",
+      "isFallback": true
+    },
+    {
+      "id": "c9f5fdd2-74e1-426f-ad4c-7825ca67bee3",
+      "title": "おやすみ",
+      "artist": "わーすた",
+      "isrc": "JPB601901766",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4kVIHiZPRAiNiUDr3rNrqo",
+      "isFallback": true
+    },
+    {
+      "id": "ccb3a452-2c56-4d35-b5f7-3fc08537b8ef",
+      "title": "チョコラブキッス",
+      "artist": "TRINITYAiLE",
+      "isrc": "JPX402300001",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/7vgoinWiiw3J9uKKwKC6Bk",
+      "isFallback": false
+    }
+  ]
+}

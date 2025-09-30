@@ -1,0 +1,438 @@
+{
+  "name": "D.watt",
+  "sortName": "ディーワット",
+  "tracks": [
+    {
+      "id": "84bf9c1c-7e15-4db6-b399-8106225cf61e",
+      "title": "クラブこわい",
+      "artist": "pomme'tto",
+      "isrc": "JPJ931700146",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/0EytWSoOHwa6A93ARhGy9v",
+      "isFallback": true
+    },
+    {
+      "id": "2c1bf891-14a0-4a32-93c7-53661f3bf265",
+      "title": "それは恋ではないですの？",
+      "artist": "古谷向日葵",
+      "isrc": "JPPC01203087",
+      "releaseDate": "2012-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/7EJRil6oZVqranSSuj7524",
+      "isFallback": true
+    },
+    {
+      "id": "197202c5-f30b-46a7-8575-f5cd2db94cfc",
+      "title": "よい刀のみつるぎ体操",
+      "artist": "厚藤四郎",
+      "isrc": "JPPC02000380",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/4tUVk586LqIGHtFKgvCkCi",
+      "isFallback": true
+    },
+    {
+      "id": "a11d6923-df29-4bc2-b3cf-48c0f8bcef26",
+      "title": "雲みて歩いた",
+      "artist": "IOSYS",
+      "isrc": "JPI960800167",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4e75JBm9W87TPHctGXj3ED",
+      "isFallback": true
+    },
+    {
+      "id": "6e15a40c-348c-4cef-8431-3716dccee52c",
+      "title": "ロリダンスレクイエム☆",
+      "artist": "dgty",
+      "isrc": "",
+      "releaseDate": "2023-10-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ec014bfa-d95c-441b-b1bc-61cc4714b1c4",
+      "title": "VTuberのすべて",
+      "artist": "あおぎり高校",
+      "isrc": "TCJPR2238548",
+      "releaseDate": "2022-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/49OE0ivOz4PHYs00fHPTEv",
+      "isFallback": true
+    },
+    {
+      "id": "0e642296-5d02-454a-8cfe-99b7d2ea8703",
+      "title": "アイドル Break All",
+      "artist": "電音部",
+      "isrc": "JPR502150250",
+      "releaseDate": "2021-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/1uTDQfFXzpMg8eJqAjHiEy",
+      "isFallback": true
+    },
+    {
+      "id": "8be1b74e-c86e-4ab0-b82d-6708490b649d",
+      "title": "鹿島立",
+      "artist": "龍波しゅういち",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d790ed89-8601-4d6f-8ade-7fbf4de00718",
+      "title": "ユニバーサルトランスレーションの奇跡",
+      "artist": "ニコラ・T・藤井",
+      "isrc": "",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8542383c-78d8-442f-bcd3-f3ce2c99dd7b",
+      "title": "ヒラタナナミ vs 未来から来た桃箱",
+      "artist": "桃箱",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae6eee8f-4d8a-46ac-886d-6354ce7306e2",
+      "title": "Baby Love",
+      "artist": "IOSYS",
+      "isrc": "JPI960900056",
+      "releaseDate": "2009-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/7hRsCQ1VjTu3jotrfkLhSh",
+      "isFallback": true
+    },
+    {
+      "id": "71b7fc02-e0dd-4f98-b160-ba89e75d4edc",
+      "title": "ともすれば、(中略)アイドル",
+      "artist": "灯里愛夏",
+      "isrc": "JPR502411786",
+      "releaseDate": "2024-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/1lcCpZKgHZ8NDYsX2b5Huy",
+      "isFallback": true
+    },
+    {
+      "id": "83bca0c4-582a-4afa-a313-223da49268b9",
+      "title": "天才モンスターズの元気が出るルーレット",
+      "artist": "USAGI Production",
+      "isrc": "TCJPY2343778",
+      "releaseDate": "2023-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/1TzyifMuQvU9JdVEN6NBS7",
+      "isFallback": true
+    },
+    {
+      "id": "22fb0431-a622-471d-92f3-c31c3c6eec65",
+      "title": "スタディ・ナイト・フィーバー",
+      "artist": "北⽩川かかぽ",
+      "isrc": "QMDA72525337",
+      "releaseDate": "2025-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/7H9Wt31rXbByilfiYqxvdS",
+      "isFallback": true
+    },
+    {
+      "id": "29a809e8-46d0-407a-83f4-93a97474ae23",
+      "title": "A Horny Money World ～伝説の夜～",
+      "artist": "宝鐘マリン",
+      "isrc": "JPV752409085",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6LEtKyIFzzigjaD142Nibx",
+      "isFallback": true
+    },
+    {
+      "id": "faa433bc-61da-4eba-86b6-41739c1416de",
+      "title": "Take me to Heaven",
+      "artist": "AZKi",
+      "isrc": "TCJPL2087251",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/0XrB9TqhEXabySz4NvJqBB",
+      "isFallback": true
+    },
+    {
+      "id": "1841228c-2bd3-4d55-b526-ed5361ce27b1",
+      "title": "starmine",
+      "artist": "音影カナ",
+      "isrc": "TCJPV2399361",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2nLr2aKHyXZX7vvq9yZMnA",
+      "isFallback": true
+    },
+    {
+      "id": "a15d3e54-0112-4e2c-bda2-d05121e56568",
+      "title": "DANCE is the answer",
+      "artist": "紡音れい",
+      "isrc": "TCJPK1910713",
+      "releaseDate": "2019-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/4QKWbPoQO8GYG6InrDLPwQ",
+      "isFallback": true
+    },
+    {
+      "id": "cedd018c-f1f7-4da3-b1c2-64a15e253f22",
+      "title": "A.S.A.P.",
+      "artist": "紡音れい",
+      "isrc": "TCJPN2005128",
+      "releaseDate": "2020-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/79rmF1D45INa9HDWeoRrur",
+      "isFallback": true
+    },
+    {
+      "id": "41aae899-5954-4b9b-9631-a3827a7aca35",
+      "title": "ヒラタナナミの自宅待機型恋愛観",
+      "artist": "ななひら",
+      "isrc": "JPJ931500286",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/21uyKBcbWqaM4AoLdlDKOq",
+      "isFallback": true
+    },
+    {
+      "id": "d08ca5c0-0b20-4aa2-a556-85c86cde6685",
+      "title": "みなえをチェック!",
+      "artist": "HaNaMiNa",
+      "isrc": "JPX302133300",
+      "releaseDate": "2020-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/4pxRqP8ZrS7nfwpupJXwz5",
+      "isFallback": true
+    },
+    {
+      "id": "0b1f9bb1-0fff-4ddf-9a35-fd58176c85a0",
+      "title": "ジンギスカン・オア・ダイ",
+      "artist": "Sugar Honey Babies",
+      "isrc": "JPPC01103162",
+      "releaseDate": "2011-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/7pO1FsAnAQ90472loOoNf7",
+      "isFallback": true
+    },
+    {
+      "id": "c7104c9d-050d-4102-abb4-1a6532a70baf",
+      "title": "whenever you want",
+      "artist": "D.watt",
+      "isrc": "TCJPV2367109",
+      "releaseDate": "2023-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/3VZgh7aAJeQLp7yFVmxyAC",
+      "isFallback": false
+    },
+    {
+      "id": "a9e01e92-b454-4f76-be0d-108f4ceb0ede",
+      "title": "The Twilight Heaven",
+      "artist": "IOSYS",
+      "isrc": "JPI961200108",
+      "releaseDate": "2012-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/6NQLjXKvQdEMSMXqWzZKXE",
+      "isFallback": true
+    },
+    {
+      "id": "48937890-c763-4d10-8b79-c18af7ed826e",
+      "title": "うみシーのさちハピ!",
+      "artist": "湊あくあ",
+      "isrc": "JPV752307230",
+      "releaseDate": "2023-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/5Ytwlro463fwxzTzdbWcwS",
+      "isFallback": true
+    },
+    {
+      "id": "d700c88c-ca03-4e7c-bdc6-fd76278fdac9",
+      "title": "タコですよ？",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02201440",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/4gcg7ax3PwLDFGkwk8Iwmj",
+      "isFallback": true
+    },
+    {
+      "id": "223cf496-b880-4418-b1f1-0a26652623fa",
+      "title": "一旦ステイ TONIGHT",
+      "artist": "不破湊",
+      "isrc": "JPY252400060",
+      "releaseDate": "2024-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/2mQiSRnAwxLfzQaKTt8h61",
+      "isFallback": true
+    },
+    {
+      "id": "6aaae58d-82d9-432a-959e-2ff5b1b2cfd9",
+      "title": "あたしのおへやジャングル",
+      "artist": "ななひら",
+      "isrc": "TCJPC2474041",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/43GnRPaeoKDB0CziYGi5Du",
+      "isFallback": true
+    },
+    {
+      "id": "1eb07b5e-59c5-4b39-8fef-195fdc1d28b1",
+      "title": "何色インユアドリーム",
+      "artist": "藤原夢路",
+      "isrc": "JPPC01003213",
+      "releaseDate": "2011-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/6scrNVmTAGW8iM0LqcOhdu",
+      "isFallback": true
+    },
+    {
+      "id": "34332a41-c4fc-4d79-838b-486b55d327e8",
+      "title": "恋の同人・ゴールデン８０１",
+      "artist": "IOSYS",
+      "isrc": "JPI960800163",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/3jKFrITuw75S3OIqkpfoQV",
+      "isFallback": true
+    },
+    {
+      "id": "6610ec58-e91c-4ed0-8929-0eff79779099",
+      "title": "13 Mar 20xx @ Ariake, Tokyo",
+      "artist": "IOSYS",
+      "isrc": "JPI961200104",
+      "releaseDate": "2012-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2PwDbGioXZd5V3eyt67PUm",
+      "isFallback": true
+    },
+    {
+      "id": "a176e798-d47d-447c-9245-b186dc6efd37",
+      "title": "TODO",
+      "artist": "ななひら",
+      "isrc": "TCJPX2399903",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/5BiLLDUd35rQ6MEhzuOSHm",
+      "isFallback": false
+    },
+    {
+      "id": "b629aa8e-6b62-4fe4-9b69-eba668ff6ec4",
+      "title": "キミの瞳にこまっちゃう",
+      "artist": "あおぎり高校",
+      "isrc": "TCJPX2329015",
+      "releaseDate": "2023-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0Kf1L85EAEzAI0lyd25xgC",
+      "isFallback": true
+    },
+    {
+      "id": "2b7ba55a-5bde-4e2b-892d-6f67dc78e9a8",
+      "title": "アオギリズ・エース！！！",
+      "artist": "あおぎり高校",
+      "isrc": "TCJPX2390888",
+      "releaseDate": "2023-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3UEHP9JGCu8hIDTbrciVHy",
+      "isFallback": true
+    },
+    {
+      "id": "2b0fc66c-7c53-47e3-97f5-521c0dac95aa",
+      "title": "080 XXXX XXXX @ ???",
+      "artist": "IOSYS",
+      "isrc": "JPI961200107",
+      "releaseDate": "2012-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/1G595yCgAtylrUwGttdYLH",
+      "isFallback": true
+    },
+    {
+      "id": "70e1ca9e-7b13-4399-8ba5-5cd595e1a6bf",
+      "title": "あの子が街に来なサンタ",
+      "artist": "イヴ・サンタクロース",
+      "isrc": "JPCO02409840",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/5Xk5UGWCuAds7hs88LotX7",
+      "isFallback": true
+    },
+    {
+      "id": "33cf0412-c4f4-4831-ac81-fc2aa2a8b9ac",
+      "title": "D.I.Y.",
+      "artist": "BOOGEY VOXX",
+      "isrc": "TCJPL2014716",
+      "releaseDate": "2020-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/1MC2BBQaOpt3LyhxupeT9p",
+      "isFallback": true
+    },
+    {
+      "id": "04f2d47b-8b6b-4fd2-968a-1252ab53e7f6",
+      "title": "シュバっと断罪！大空警察",
+      "artist": "大空スバル",
+      "isrc": "JPV752509857",
+      "releaseDate": "2025-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/65mDzoWVsgZFRxTQjdtGwv",
+      "isFallback": true
+    },
+    {
+      "id": "d3f6c4e4-88ef-4b86-902c-8923475fb0b1",
+      "title": "Starchild",
+      "artist": "電音部",
+      "isrc": "JPR502207981",
+      "releaseDate": "2022-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/0jskFZ8plgLtJEnpnhFBox",
+      "isFallback": true
+    },
+    {
+      "id": "3e36b0e8-865a-4903-b156-0ca73960c864",
+      "title": "STAR COASTER",
+      "artist": "D.watt",
+      "isrc": "JPE761400070",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/492QX2XPmkVIZM5BlYjB21",
+      "isFallback": true
+    },
+    {
+      "id": "41cf0b3e-bb90-4fad-aafe-8ef236cf714a",
+      "title": "オペレーション ネバーランド",
+      "artist": "猫宮ひなた",
+      "isrc": "TCJPP2120591",
+      "releaseDate": "2021-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/6JXrSbtopD5G6xRk5ZqHuz",
+      "isFallback": true
+    },
+    {
+      "id": "27a6f3ac-245c-4d52-97e3-5138be8b0585",
+      "title": "発見！ポジティブ☆モンスター！！",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602403691",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/60pFGGbEqj5w5YPGXh5JEq",
+      "isFallback": true
+    },
+    {
+      "id": "3c9dbd05-8f85-4cf2-9d5b-e9cb78c39e71",
+      "title": "デケえ女",
+      "artist": "大代真白",
+      "isrc": "TCJPU2347767",
+      "releaseDate": "2023-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/0KpVQGBvM0IQwgxBZgD782",
+      "isFallback": true
+    },
+    {
+      "id": "963c528d-7f76-434d-863d-5e4925b68525",
+      "title": "筋肉刑事は何度でも逝く",
+      "artist": "白粉花",
+      "isrc": "JPPC01103163",
+      "releaseDate": "2011-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/1aETnJfcGUAkYAvWR7uX5O",
+      "isFallback": true
+    },
+    {
+      "id": "48ac1fcc-6334-4dfd-8ecd-1f0c84d2da67",
+      "title": "White or Black?",
+      "artist": "絢辻詞",
+      "isrc": "JPPC01002570",
+      "releaseDate": "2010-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/3Yipat0zQXKMhmvHuAxxf6",
+      "isFallback": true
+    },
+    {
+      "id": "2ede32db-43af-4b14-a374-030a922e8cf7",
+      "title": "DETARAME ROCK&ROLL THEORY",
+      "artist": "箱部なる",
+      "isrc": "JPX301607020",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3xXLZNiWMy7rdOGMCqTpY2",
+      "isFallback": true
+    },
+    {
+      "id": "59c5ef39-ce79-4035-913c-1cc4b0c2e712",
+      "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+      "artist": "小仏凪",
+      "isrc": "JPX301607010",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3ok6IzQPXtTqhsObmjnWnD",
+      "isFallback": true
+    },
+    {
+      "id": "91cf1ed3-e5e9-4b85-a8d4-77947dee331f",
+      "title": "Only you can find",
+      "artist": "棗いつき",
+      "isrc": "",
+      "releaseDate": "2020-10-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

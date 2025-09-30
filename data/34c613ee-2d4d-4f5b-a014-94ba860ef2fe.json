@@ -1,0 +1,51 @@
+{
+  "name": "木暮晋也",
+  "sortName": "コグレシンヤ",
+  "tracks": [
+    {
+      "id": "a66e5a0e-791e-4913-aee9-9d530a2e4eec",
+      "title": "くちづけキボンヌ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01210503",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/4kXI7bhBN6gOQcVzHCMkCf",
+      "isFallback": true
+    },
+    {
+      "id": "3b278a64-c0a0-4e22-b9c0-53f5aadfbedf",
+      "title": "Hey! Hey! Alright",
+      "artist": "スチャダラパー",
+      "isrc": "JPB600874301",
+      "releaseDate": "2009-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/4Ea2oSA5OxBPaxMUBh1jGO",
+      "isFallback": true
+    },
+    {
+      "id": "4d9839a8-babe-4139-a7e1-99c8ad076a4a",
+      "title": "フワフワ・ブランニュー",
+      "artist": "HALCALI",
+      "isrc": "JPFL00402900",
+      "releaseDate": "2004-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/0cRlLc22Sg7l8P44f7eeVp",
+      "isFallback": true
+    },
+    {
+      "id": "1f539b83-0d16-4b6c-ae27-02b13a7280e1",
+      "title": "バイバイ･ブルース",
+      "artist": "舞",
+      "isrc": "JPB600636904",
+      "releaseDate": "2006-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/66fQOdafG8uWC3a3cEe2AN",
+      "isFallback": true
+    },
+    {
+      "id": "d6e3a3c1-7208-4286-b53c-287a839170a5",
+      "title": "冬へと走りだすお!",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01215702",
+      "releaseDate": "2013-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/2bwwKELiYWpkBwSeDtLqaS",
+      "isFallback": true
+    }
+  ]
+}

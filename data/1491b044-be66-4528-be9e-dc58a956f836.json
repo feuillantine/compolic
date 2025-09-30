@@ -1,0 +1,2472 @@
+{
+  "name": "菊谷知樹",
+  "sortName": "キクヤトモキ",
+  "tracks": [
+    {
+      "id": "3d4886bd-dbd8-411b-8bb3-54c9d008cae9",
+      "title": "…はぁ〜",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700369",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/11Q6ElLr3QPTsKJlAWZn0f",
+      "isFallback": true
+    },
+    {
+      "id": "665f0c06-8359-46ab-a2bd-3430dfa77fb1",
+      "title": "ご神体を取り戻せ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001430",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a9258e71-4f1a-4737-9261-41ee61e3a453",
+      "title": "これって平気?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000228",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/2RTC3ShAinFmscHDBEXdX2",
+      "isFallback": true
+    },
+    {
+      "id": "a458c692-f2ee-4a42-af67-592a7a4b839d",
+      "title": "a sunny place2",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700344",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2RgQZAmZF2hVMwX0fcGqj9",
+      "isFallback": true
+    },
+    {
+      "id": "16b2b476-8e90-420d-b759-8a4f846f8041",
+      "title": "いざ!",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700377",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7agvdmccf5wgcdeNvSICzR",
+      "isFallback": true
+    },
+    {
+      "id": "3c3aa08b-d37a-4522-aeca-1a26dc22b77e",
+      "title": "a sunny place1",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700341",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0j5o7Gwf19HbPuh02ZlMoQ",
+      "isFallback": true
+    },
+    {
+      "id": "32d79720-0aa0-457d-b44e-f101c70d8784",
+      "title": "Cozy",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400832",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5Jer7T3kcJON7YOIefGopq",
+      "isFallback": true
+    },
+    {
+      "id": "da6b4bda-70b5-44bc-b3f4-5bbb141aebae",
+      "title": "しんみり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700348",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4zw7sSR9qcvozNu4D3EWMP",
+      "isFallback": true
+    },
+    {
+      "id": "0e2294ea-c1b7-4adb-ab40-967df0d52387",
+      "title": "ああ情熱のバンバラヤー",
+      "artist": "LinQ",
+      "isrc": "JPB601703947",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/4HApHWXTBY2l3aLR02VIV6",
+      "isFallback": true
+    },
+    {
+      "id": "76855ffd-b38f-4c85-ab0f-a2e596a9118f",
+      "title": "しっとり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700346",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3owSJ0N10fQplhbqkv2ML4",
+      "isFallback": true
+    },
+    {
+      "id": "34ef006a-a589-4fcb-90ba-9a92bcf77297",
+      "title": "イマジネーション☆ハレーション☆彡",
+      "artist": "星奈ひかる",
+      "isrc": "JPD601900116",
+      "releaseDate": "2019-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/6F9MlfAYjTx9sE0FcSi9V3",
+      "isFallback": true
+    },
+    {
+      "id": "434bfd74-44b0-416f-a3a4-2095558665eb",
+      "title": "ゲラッポ・ダンストレイン",
+      "artist": "キング・クリームソーダ",
+      "isrc": "",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f6b6bc4d-a7c3-4240-9e6a-d4dfb5b88ed4",
+      "title": "Let me say",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400829",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/1FTuh5dNDPG1L9gx8JZqhh",
+      "isFallback": true
+    },
+    {
+      "id": "9af361ed-6ee3-48ac-b6a5-586af8c4f837",
+      "title": "アイドルはウーニャニャの件",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "isrc": "JPB681501409",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/1yKy8Ujm2wRJnGJfAWMaDa",
+      "isFallback": true
+    },
+    {
+      "id": "fd365a5e-ea8d-494b-92ca-20fe65f73767",
+      "title": "あなたといる世界",
+      "artist": "古川ゆい",
+      "isrc": "",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7b27c67-f7d6-4b1e-b436-8ac3f12306b5",
+      "title": "いってきます",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000239",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/6D9Ouf3jmsFp3RAcyR0IBu",
+      "isFallback": true
+    },
+    {
+      "id": "fbe2c5ff-6728-4d4e-8425-e09cd655d8b1",
+      "title": "おいでよ!竜のカギしっぽ亭",
+      "artist": "水野マリコ",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0fe26577-93d8-42fc-ac87-9dc892dc4ad8",
+      "title": "Teasing",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400837",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/73Al8ajZy6VZy9cBrg5ZVX",
+      "isFallback": true
+    },
+    {
+      "id": "4f8fe9b1-2034-4cbb-bf46-135dccb13f1d",
+      "title": "さてさて",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700340",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Kqk66R1imkIsoTZrUxxvh",
+      "isFallback": true
+    },
+    {
+      "id": "f13924c1-f12a-4972-ad9d-0cfbb4d17eee",
+      "title": "サニサニデイ♪",
+      "artist": "鷹野みゆき",
+      "isrc": "",
+      "releaseDate": "2007-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "25871a6b-4ae1-4c0a-b95e-6ac2fe60546a",
+      "title": "きょとん",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700364",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1Bhj9LD9BvmLAi9112xwnQ",
+      "isFallback": true
+    },
+    {
+      "id": "aac15472-07f6-4264-a1aa-475292df8674",
+      "title": "その日入った新人より使えないダメバイトのエレジー",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201180",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/6OSaJzkkyMcFRvBzLpRkY4",
+      "isFallback": true
+    },
+    {
+      "id": "ddf584bc-fa4c-43b6-9afc-8e9ea56f8eb1",
+      "title": "Just kidding…",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400831",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/2C94vjgCJiyvX13AEy5cQv",
+      "isFallback": true
+    },
+    {
+      "id": "ff3428bf-f70d-4441-a744-f4ebc2d1d3c0",
+      "title": "Relieving",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400847",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/2EZ918AEmbW1jVTtKzNmvo",
+      "isFallback": true
+    },
+    {
+      "id": "3b383668-0d9f-4bf7-b612-19d08da1a609",
+      "title": "クワガタとカブトムシ",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601502534",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/5VJIoBP4rAG9HfPfCt0V8R",
+      "isFallback": true
+    },
+    {
+      "id": "386a539f-14a5-4b0b-bb39-809b5e226c60",
+      "title": "ご、誤解ですぅ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001418",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1cfaafea-460d-4057-b99b-b93de8e65d7c",
+      "title": "NOISY CHASE",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100900548",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1VdZ8M8nlEab2X3DBt2n1P",
+      "isFallback": true
+    },
+    {
+      "id": "dc4f7c1d-2de7-4292-b93a-629e591c8de2",
+      "title": "a sunny place3",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700362",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3zvdNaAbBl8Hr1xXZbL4si",
+      "isFallback": true
+    },
+    {
+      "id": "6c32e9a4-50c2-4694-9b1e-0d4ecd326067",
+      "title": "chase！chase！chase！",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001440",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7211bd49-f6d1-42d8-bac9-4384736df31f",
+      "title": "Offensive",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400814",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5dD0xOcNPxrBdH72bNxPrh",
+      "isFallback": true
+    },
+    {
+      "id": "d4e7d705-850a-4262-bb65-191f7f2129ca",
+      "title": "コバルトブルーの海",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001424",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8a40992c-3739-46d5-8c21-6a90ef7f4689",
+      "title": "Outpowered",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400843",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/0kTcDOuLIIgcreyTELnrOw",
+      "isFallback": true
+    },
+    {
+      "id": "c4da885e-354e-45e5-abf2-9443ef87f40f",
+      "title": "Iffy situation",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400844",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6E6BTclK8r3DBlYxpuCzSj",
+      "isFallback": true
+    },
+    {
+      "id": "c2b6b5f2-33df-499a-972b-76637ab8c4d2",
+      "title": "A-LY-YA!",
+      "artist": "麻帆良学園中等部3-A",
+      "isrc": "JPKI00609358",
+      "releaseDate": "2007-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fafa8957-5939-4fd8-883e-e17a0e0fade8",
+      "title": "イジワルな唇",
+      "artist": "志村由美",
+      "isrc": "",
+      "releaseDate": "2007-03-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b48d4074-0b5a-4ce8-ab56-25442fd9b95d",
+      "title": "Everyday life",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400858",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4l5QmUKm8UAe2pzWPyztGa",
+      "isFallback": true
+    },
+    {
+      "id": "bede37af-8b1b-420c-ba18-58cb1c2c2527",
+      "title": "うきうき",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000217",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/0uvpEuogmwZ6eDAJMaPO3Z",
+      "isFallback": true
+    },
+    {
+      "id": "51704534-e4d3-4b5b-83c0-c61ec4d7eb3b",
+      "title": "ゾクゾク",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700356",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0B8LZ052Z2NEUcJTul4Mpp",
+      "isFallback": true
+    },
+    {
+      "id": "e824d08f-b0bf-4d88-87ac-eabbf39fe873",
+      "title": "snow drop",
+      "artist": "新谷良子",
+      "isrc": "JPI100702597",
+      "releaseDate": "2007-12-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c54805bb-3395-4e6c-b04f-20075b8fd66d",
+      "title": "しみじみ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700372",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5cPji1TTUMlwvbPmt0XzwZ",
+      "isFallback": true
+    },
+    {
+      "id": "31251686-871e-40af-8ead-259eda6f5e12",
+      "title": "うっとり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700347",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0r8UakWrCFlMYcJTay2NQu",
+      "isFallback": true
+    },
+    {
+      "id": "6bc05637-1079-403d-8490-17e92a159c4a",
+      "title": "CARNIVAL, CARNIVAL!",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100900541",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3r1S7hFXvjwIUoQfEAAqEg",
+      "isFallback": true
+    },
+    {
+      "id": "ad6219e6-e424-4f64-933d-d43aa0f0ff52",
+      "title": "Irrationality",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400856",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/066tin8UoNNaE45oDuoNQ1",
+      "isFallback": true
+    },
+    {
+      "id": "6228dab3-d8f6-4749-8546-735469b9944f",
+      "title": "アシストロイドのテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001425",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "739c8b96-7e5e-4b34-880e-6a7294a3522b",
+      "title": "おセンチ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700360",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5CSz3tyszQnXpJEmmG11kq",
+      "isFallback": true
+    },
+    {
+      "id": "f1174f32-b51c-4937-ad9a-bae537c1b7dc",
+      "title": "Pressed",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400815",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6YRfzIFI8YTYtS6hkOiAF3",
+      "isFallback": true
+    },
+    {
+      "id": "ff8356a2-ad98-49a7-88a0-1177bf5e4020",
+      "title": "A fearless smile",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400855",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6VN1p5SbswGmNNIrkgTKEa",
+      "isFallback": true
+    },
+    {
+      "id": "87798116-88c4-4f7e-9663-7d91ae70ec40",
+      "title": "UNDERCOVER",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100900547",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/2c1ECtd5JmegkGzi8gGQsV",
+      "isFallback": true
+    },
+    {
+      "id": "1aee2255-c1cd-4982-b282-89ee2adabbdc",
+      "title": "ある日の食卓",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000233",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/2tzHeDwtLppayqcsX5lIJ0",
+      "isFallback": true
+    },
+    {
+      "id": "cad2e374-2227-4154-bce3-306c89c5354f",
+      "title": "SURRE ACADEMY",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100900540",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/61olpqkZml3wxMDCavkOOi",
+      "isFallback": true
+    },
+    {
+      "id": "ce0dbb66-85fa-4e70-a45f-e4e9e8ebb04c",
+      "title": "Serious talk",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400836",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5llBCADYzpL03UROT4SjnU",
+      "isFallback": true
+    },
+    {
+      "id": "d9c23462-d420-446f-9544-52e9abfb6eec",
+      "title": "ゲラゲラポーのうた",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601401469",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/4HMKsJyQlww5Lbu72XTNh9",
+      "isFallback": true
+    },
+    {
+      "id": "e9b92074-4039-44c6-88dc-93133589286e",
+      "title": "Blah blah blah",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400819",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4OGd2Gs5BJVRLxR6aa4NYH",
+      "isFallback": true
+    },
+    {
+      "id": "5f370972-6fee-4051-80b0-bfb01c28ea28",
+      "title": "こんなんでどうでしょう",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700381",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/12cdkF7cuhSzwMuCtxoEiR",
+      "isFallback": true
+    },
+    {
+      "id": "195fb581-0197-4453-b353-708215dfeffb",
+      "title": "ゴロゴロしましょ♡",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001415",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a7babe96-6fd4-4f35-94f6-18ce2b94158e",
+      "title": "キャーティア奇跡のテクノロジー",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001427",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61c34b0a-60f8-4655-a234-5973892b7e8a",
+      "title": "あそびきにました！",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001413",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f550db62-0d07-41ef-bc7e-002c12e5d826",
+      "title": "かげろう",
+      "artist": "絶望少女達",
+      "isrc": "JPKI00707966",
+      "releaseDate": "2007-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/2VTbTkfD4clfiz5LPAyXQE",
+      "isFallback": true
+    },
+    {
+      "id": "06ea255f-da31-488e-92a3-3b3fcf131469",
+      "title": "EXCITING LIONET",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100900539",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/70W2mhWBp0xR9cEY0tfPEm",
+      "isFallback": true
+    },
+    {
+      "id": "dacb17fd-57f2-4001-b4c8-058cb442c837",
+      "title": "アオイのテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001422",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b93f633-1e0c-4313-aca0-41c4f52a7b2b",
+      "title": "Chatty",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400833",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/3YtKK7SKZ44EuWitAhMUVJ",
+      "isFallback": true
+    },
+    {
+      "id": "006e7338-0729-48c7-9e54-85b8860cb446",
+      "title": "Charge!",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400841",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5tMdMleqiDoPq9wKzLvxyl",
+      "isFallback": true
+    },
+    {
+      "id": "2df63611-c5c0-4beb-bd53-c1543877659a",
+      "title": "A bit troubled",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400817",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/610agKLZ9CCWDWtM7txgwy",
+      "isFallback": true
+    },
+    {
+      "id": "e9301cc2-a0f9-4db4-9ef1-b9231aab3e28",
+      "title": "DRAMATIC☆GIRLY",
+      "artist": "神田朱未",
+      "isrc": "",
+      "releaseDate": "2006-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53459e79-eb63-4520-bfd1-a15033f7137f",
+      "title": "Shake Shake 黄金のShake",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601600078",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/7DvD9PZTXGJp1cNHPIQgME",
+      "isFallback": true
+    },
+    {
+      "id": "b832631b-f288-4502-93c5-586f1737328d",
+      "title": "きょっと〜ん",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700366",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4MEx8f9c5Y7vV1wFeRvCQq",
+      "isFallback": true
+    },
+    {
+      "id": "6d24fa22-9bd6-4996-862a-d31db724f55d",
+      "title": "サヨナラ発情期",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001447",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8c43bcc-4bd5-4a29-8a48-10ad9484661a",
+      "title": "Savage",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400853",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5nbqIwiAgqbUJvbmGD3vsY",
+      "isFallback": true
+    },
+    {
+      "id": "c577ad98-a4eb-49f2-a328-bc9a955bae92",
+      "title": "しょんぼり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700351",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3miGXWBSii3XywIPNkqXhc",
+      "isFallback": true
+    },
+    {
+      "id": "36bfec48-ebaf-4406-a226-bfef29436783",
+      "title": "Go, go!",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400842",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4sZrJy0dXjkAsPrvr7cLO7",
+      "isFallback": true
+    },
+    {
+      "id": "f3ff691d-af6e-4c03-80b6-8d6edc48b672",
+      "title": "ありがとうのうた",
+      "artist": "百田夏菜子",
+      "isrc": "JPKI01914469",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/2UgtVslwixSxORY2F7dSQm",
+      "isFallback": true
+    },
+    {
+      "id": "198e4e44-15b9-47aa-9272-98ddc06bb9f3",
+      "title": "エリスのテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001414",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e73d45c-6419-4dae-b164-34da5157d30d",
+      "title": "それでもまた変態は走り出す",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fe399a7-2c5c-496f-b89d-9ca2f17ef93f",
+      "title": "DIAファイル",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001433",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f61fb62-9cba-47e3-ab51-db8279a9920a",
+      "title": "ギターは友達",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201181",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/1ug8HmCg0VklCW8Fdri9CA",
+      "isFallback": true
+    },
+    {
+      "id": "35048b6a-2e59-417e-a405-b2e9ca9dac0b",
+      "title": "Heartbreaking",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400825",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4e248BkDfn4xD9yBrwQFCy",
+      "isFallback": true
+    },
+    {
+      "id": "cafc41d3-3880-4faf-8457-778b73af41b5",
+      "title": "Come to mind",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400838",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/0yvQjWAI0VUtHdn1M9V1FW",
+      "isFallback": true
+    },
+    {
+      "id": "73ae765b-8cee-415a-a059-142b873f3da7",
+      "title": "To the core",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400824",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/3FjOOqAFbyA7XW4rkAcfkZ",
+      "isFallback": true
+    },
+    {
+      "id": "6c45167b-5ea9-4527-9aea-2de6d5f3706d",
+      "title": "Feeling ambient",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400846",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/0RqekA9klTAOXQbar57oQg",
+      "isFallback": true
+    },
+    {
+      "id": "3f680b5c-db05-4e20-99f3-c0983d13a80f",
+      "title": "Light and easy",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400830",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6Nszfi5HMNVrkqDrsrC9VY",
+      "isFallback": true
+    },
+    {
+      "id": "1b7c2ed3-fe45-43e0-843c-57b0756fa998",
+      "title": "The rival",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400840",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4fQmMlojuWEM5kz3Fl2q85",
+      "isFallback": true
+    },
+    {
+      "id": "ee51e3a7-4a96-450c-922a-1c960a09fa87",
+      "title": "Commander",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400860",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/0Y8Gb5kAlzA7JYNSHizCF5",
+      "isFallback": true
+    },
+    {
+      "id": "bb19670d-0534-497f-ad81-8f33a1691829",
+      "title": "Otaku",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400835",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/1cQGjBazzGuFqabSITrqyt",
+      "isFallback": true
+    },
+    {
+      "id": "ad9227c2-afc4-4728-aeed-e12019fe70f5",
+      "title": "Harmonies*",
+      "artist": "野中藍",
+      "isrc": "",
+      "releaseDate": "2006-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "889b4117-dce7-427a-b187-969aafda6d07",
+      "title": "ココロJUMP!!",
+      "artist": "西園信助",
+      "isrc": "JPB601300965",
+      "releaseDate": "2013-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0844111f-7f60-4ef2-9eaa-6fdf870bc56e",
+      "title": "Sadness",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400826",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4v7szW13ruwTun5L0ITRMy",
+      "isFallback": true
+    },
+    {
+      "id": "6faa855f-591c-4165-b18a-255c642d7666",
+      "title": "Lost In the Signbox",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400821",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6dEW7BHSX4IiFhPzdB4bSA",
+      "isFallback": true
+    },
+    {
+      "id": "88fd3a28-3756-4f5c-93fb-add70d314dc1",
+      "title": "ガタガタ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700374",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5H49KFMaPlneVBk5aiLaUd",
+      "isFallback": true
+    },
+    {
+      "id": "1d1ff0a8-9ce8-4c8d-be5f-bac9bff0aa0f",
+      "title": "Weird",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400857",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5ed3YDDR3NnhO2FrSfvnYT",
+      "isFallback": true
+    },
+    {
+      "id": "d9aeb73f-c4bb-4a3f-844c-5b33815a35a4",
+      "title": "それから",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700361",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0eg34MjD7yW8fHi6I4ivod",
+      "isFallback": true
+    },
+    {
+      "id": "ccaa6a56-7213-4adc-8608-5e2a748dc347",
+      "title": "HAJIKE-YO!!",
+      "artist": "空野葵",
+      "isrc": "JPA601200001",
+      "releaseDate": "2012-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/6JLFy7yKITLzOm7EOUt9CC",
+      "isFallback": true
+    },
+    {
+      "id": "3cbe8d2d-2446-408f-bf54-88d7ca1a4a6c",
+      "title": "カクテルの唄",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201178",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/20WX5WmbJDxPOlYBVbqd33",
+      "isFallback": true
+    },
+    {
+      "id": "4c74c17f-e8f4-4524-b6a6-ddb069350812",
+      "title": "Don’t rush",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400828",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5TWj42O8Dctw3o0h1wV9j5",
+      "isFallback": true
+    },
+    {
+      "id": "4bd06ba4-67b6-4f55-9152-d7250a8a6e13",
+      "title": "Steady effort",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400854",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/52jGHUKu9EfazLeN6Ximxp",
+      "isFallback": true
+    },
+    {
+      "id": "c2cfb06f-2a4f-4089-801d-4b41c52982d1",
+      "title": "オモシロックオン!",
+      "artist": "速水",
+      "isrc": "JPKI00913930",
+      "releaseDate": "2009-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/6c3YPAnN47Pl1uXCEwmAl5",
+      "isFallback": true
+    },
+    {
+      "id": "37ab2fd5-122d-474a-8e30-727c573cc079",
+      "title": "Feel uneasy",
+      "artist": "菊谷知樹",
+      "isrc": "JPD732400816",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/2WX92Wq70j41nlkB3lEAff",
+      "isFallback": true
+    },
+    {
+      "id": "88367db3-7f87-4d3b-aa0e-641c329cdbd2",
+      "title": "おめでとう",
+      "artist": "野中藍",
+      "isrc": "JPKI00817963",
+      "releaseDate": "2009-01-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cd85aaa5-d2e3-4cdb-8ee1-0fe2270b9e9b",
+      "title": "きらめくひかり",
+      "artist": "金元寿子",
+      "isrc": "JPVI01431190",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/7J8fALP0pAzwir5dCRB9gG",
+      "isFallback": true
+    },
+    {
+      "id": "e27b4f75-832c-437b-9275-03fe9a4c62b6",
+      "title": "ほれ、あいべ！",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02210382",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/55nMzf9VN538wtAz5aPkem",
+      "isFallback": true
+    },
+    {
+      "id": "4afb9a88-6bdb-4ffb-bef1-7d3e216308b3",
+      "title": "公公公公",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "52b7115b-ea1b-4ae9-9603-da616256a88c",
+      "title": "ひんやり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700378",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5G0RjpRfZ83IEQ6E73ku8F",
+      "isFallback": true
+    },
+    {
+      "id": "eaeff86c-7449-4d6e-b770-f0fd02c6b663",
+      "title": "どすどすどすこい!",
+      "artist": "ケロポンズ",
+      "isrc": "JPKI02016304",
+      "releaseDate": "2021-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/5loAsVa6XfWOmdKQSPMc8J",
+      "isFallback": true
+    },
+    {
+      "id": "53237da5-e86f-43dd-be1a-4912bada4b9d",
+      "title": "ルーロスのテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001426",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "30b7d26a-741c-499e-afcd-d2a2fbf4d1a3",
+      "title": "ひだまりな早朝",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000212",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/7uYjXz4uYCXRtrse4w1Ho3",
+      "isFallback": true
+    },
+    {
+      "id": "24cc740c-3fe9-46d0-9237-75e4b8d5598a",
+      "title": "ドタバタ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700363",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/04vVWCCpDfxlo0phOPBlpd",
+      "isFallback": true
+    },
+    {
+      "id": "c8747ed5-fd45-4ee8-98d2-c10d96cc2f69",
+      "title": "まったりアイデア",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700380",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2zxqySAuvZEOELIMW5Szm4",
+      "isFallback": true
+    },
+    {
+      "id": "95417454-9197-4641-8ca0-d71c11286d32",
+      "title": "マーチ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700370",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2RHySjaWWuAC8yQhqXdmUk",
+      "isFallback": true
+    },
+    {
+      "id": "4966b503-94de-4f2e-b13d-9babaa0494df",
+      "title": "わくわく",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700343",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5Mbrd7jiJ91YNAF2iHeU71",
+      "isFallback": true
+    },
+    {
+      "id": "9963ddfc-7880-4170-9e0d-d15d708e85fd",
+      "title": "ヒビ×ヒビ＝ハピネス",
+      "artist": "リコ",
+      "isrc": "JPKI00811786",
+      "releaseDate": "2008-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/559OGUYZffUUjCyJrtj1CL",
+      "isFallback": true
+    },
+    {
+      "id": "2795fd70-4ee4-4780-abcf-65fd30df8596",
+      "title": "トレビアンな俺に抱かれ",
+      "artist": "フランス",
+      "isrc": "",
+      "releaseDate": "2009-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa78b7bd-6f11-4560-9cc2-aef1f8b69b8b",
+      "title": "マタタビくらくらHappy♪",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001444",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bee71a18-67ff-4c23-a919-fd1bc6d3f393",
+      "title": "ちゅら海の奏",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001412",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3b328a2f-4daa-4bbf-afbc-9b4799a3091b",
+      "title": "ふら〜り",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700352",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/70oELxCi14yGbK50e2NezQ",
+      "isFallback": true
+    },
+    {
+      "id": "5f879be2-61cf-4e08-9ac4-382348f5c068",
+      "title": "はじまりサバイバル",
+      "artist": "宮子",
+      "isrc": "JPI100801649",
+      "releaseDate": "2008-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/3KvU1vncwrbWRrqZxWNIge",
+      "isFallback": true
+    },
+    {
+      "id": "5a92f1ff-0367-4302-b470-3ca3c719e54f",
+      "title": "妹らしくあれ ～もうひとつのみなみけ～",
+      "artist": "長男",
+      "isrc": "JPKI00913927",
+      "releaseDate": "2009-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/74wVdp6olQUt4IuiXYZ4Nb",
+      "isFallback": true
+    },
+    {
+      "id": "a75d53e8-00c1-4110-bd2e-f9ddb80aedba",
+      "title": "優しい彼",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001448",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b0ec0076-1bc1-4c60-991b-d51cf9e65496",
+      "title": "唐突フレンドリィ",
+      "artist": "葉月絵理乃",
+      "isrc": "",
+      "releaseDate": "2006-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5634eb27-b4b3-40d6-b2f6-44f52fa9919a",
+      "title": "君の背中は遠く",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001451",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ee199816-526c-4b11-b8c4-290d91c2e7fd",
+      "title": "実像と虚像と",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001419",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d126e301-5e24-4661-ae2a-c046af47f5f6",
+      "title": "告白",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500757",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/4QE2XRTjvHHNjJ5BICNxZl",
+      "isFallback": true
+    },
+    {
+      "id": "225940e2-c256-4dc9-b29b-f9bc07beed04",
+      "title": "始まりのResolution",
+      "artist": "カンノユキ",
+      "isrc": "",
+      "releaseDate": "2013-05-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f537515-5767-4770-a945-6c86952cfb68",
+      "title": "わたしは先輩",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000224",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/6x0Iw8j0ZpE9mkUmoKEZfE",
+      "isFallback": true
+    },
+    {
+      "id": "1013341d-f0b3-48f0-bdb2-d0ce929117d5",
+      "title": "なかよくしよっ!",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000226",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/6U3oP4SqPrqWN1oHIGyaKe",
+      "isFallback": true
+    },
+    {
+      "id": "56ca86bc-e48a-47dd-be5f-89e810a6fed8",
+      "title": "ふと気付けば",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700345",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2aNKqy2rHxC5YrNMEivDZM",
+      "isFallback": true
+    },
+    {
+      "id": "26b81c53-7afe-4aff-98c5-9fda9467bdd1",
+      "title": "倦怠ライフ・リターンズ!",
+      "artist": "キョン",
+      "isrc": "JPI100700086",
+      "releaseDate": "2007-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/7izsurWuXU2yGv8Pi5O3j1",
+      "isFallback": true
+    },
+    {
+      "id": "d283f1d2-abd8-432f-994c-9630f99c0b6b",
+      "title": "最新ニュースを待っててね。～風新新聞専売所のテーマ～",
+      "artist": "風新新聞専売所員",
+      "isrc": "JPKI00914971",
+      "releaseDate": "2009-09-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db112ffb-f6dc-41eb-a97d-f84569adc518",
+      "title": "変態の朝",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d03ac7c-95a3-4f2d-98c6-65ca429877b5",
+      "title": "ぶるぶる",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700376",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3DuNeNcK0jVhgILV7bZBtv",
+      "isFallback": true
+    },
+    {
+      "id": "49231bb9-edaf-4b87-9501-1eff44d88758",
+      "title": "ペルソナ",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "979d7230-0801-4ec4-9475-095405d49a36",
+      "title": "ひだまりっぽい数え唄",
+      "artist": "ゆの",
+      "isrc": "JPI100903427",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5xqtAcD9MxSLkdAy0hcwlW",
+      "isFallback": true
+    },
+    {
+      "id": "d1a998c7-2af4-46d8-92a0-6e8ea6989160",
+      "title": "人生ドラマチック",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601502715",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/6mTUjB62elxnAtMF2uRU4C",
+      "isFallback": true
+    },
+    {
+      "id": "65dcf4bc-274c-4452-ae2d-27e1f3074bc1",
+      "title": "ゆったりやまぶき高校",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000238",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/4VRVHca9OvX7bQ2ZPIouCl",
+      "isFallback": true
+    },
+    {
+      "id": "ea270da8-8a31-44e5-b153-7a0216d3127e",
+      "title": "勇躍",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500765",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13765319-63f6-4b56-aefe-600991b70140",
+      "title": "人生の主役コール!",
+      "artist": "谷口",
+      "isrc": "JPI100902927",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/2KTFNJmWvMWCYb4DD45d3B",
+      "isFallback": true
+    },
+    {
+      "id": "2dff2136-e47a-433b-86eb-a750b3b085a7",
+      "title": "宇宙ダンス!",
+      "artist": "コトリ with ステッチバード",
+      "isrc": "JPB601502718",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/0SFg04frNSGVWkO8fDfVL9",
+      "isFallback": true
+    },
+    {
+      "id": "e82d1dfe-20ca-438f-90a4-d624608f40dc",
+      "title": "ぼんやり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700353",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3jl7OJonMIZn0Q6lGLhc0R",
+      "isFallback": true
+    },
+    {
+      "id": "27e8015f-d0f5-40a8-bee1-4c56db97ecc2",
+      "title": "わたしも先輩",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000225",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/34WIMrUv6iXULHuk7fQ2ez",
+      "isFallback": true
+    },
+    {
+      "id": "9a310556-9be9-4b79-b78a-8f2942750565",
+      "title": "なんかズレてる?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000234",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/37sImybkRXYSpmrwoDwJ6k",
+      "isFallback": true
+    },
+    {
+      "id": "ba62f029-fb9b-4b1f-95a8-0dbf210dee59",
+      "title": "わたしのおもいで",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae2366df-03cb-4327-8735-6320b5731482",
+      "title": "なかよくできるかな?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000222",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1VcvXv2KZ97tIbkQOMgPHJ",
+      "isFallback": true
+    },
+    {
+      "id": "bef5bbc1-5344-4838-aaab-58fa9766e3aa",
+      "title": "ほがらか日曜日",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000219",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/7dKdcp5w2ZcvHuC9Ixwbdc",
+      "isFallback": true
+    },
+    {
+      "id": "b70f285d-7dd3-4c20-828d-88cd790da965",
+      "title": "どきどきおでかけ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000215",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/4t2j4E8Wm2X6yP2o5c3Vh4",
+      "isFallback": true
+    },
+    {
+      "id": "ed3b8cb5-8fbe-4620-b50d-3ad73a2dcfdd",
+      "title": "なにかズレてる?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000235",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1AuVgkOcXiXFQWwhU8Hcc6",
+      "isFallback": true
+    },
+    {
+      "id": "7be0eb54-6aec-48d3-84aa-82c333d6f6cd",
+      "title": "それどころじゃ、ない",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700354",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1H9FLwJ8RC8hlONlaxlWUB",
+      "isFallback": true
+    },
+    {
+      "id": "14641ae8-53cf-4047-bb3b-2d16b4b44c48",
+      "title": "地球人",
+      "artist": "コトリ with ステッチバード",
+      "isrc": "JPB601600465",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/6JO5voZTsGU36sEXF1LcaH",
+      "isFallback": true
+    },
+    {
+      "id": "64647b03-db5b-4ad1-a0a6-81ca39778f94",
+      "title": "めぐりあい",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101302406",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2bc671e1-b137-440d-84f0-656da7849846",
+      "title": "ひだまり荘の朝〜三年生〜",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000218",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/6B18IUzQtfGy6dD4y7GbrY",
+      "isFallback": true
+    },
+    {
+      "id": "b759d669-7ff3-41e6-b3cf-1a2144d35212",
+      "title": "夢のかたまり",
+      "artist": "空野葵",
+      "isrc": "JPA601200005",
+      "releaseDate": "2012-02-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b4dc5f7a-bcf5-47f4-b25f-2bd3149b69a0",
+      "title": "みにまむテンポ",
+      "artist": "小早川ゆたか",
+      "isrc": "JPI100701834",
+      "releaseDate": "2007-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Gxg1BKQ3w5lfDpmMwMrLH",
+      "isFallback": true
+    },
+    {
+      "id": "68be8cc0-8beb-4876-b136-8fbe3e021bb1",
+      "title": "内偵",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500759",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ee97432-2892-4f5b-b578-674d729886fe",
+      "title": "ようかい体操第一",
+      "artist": "Dream5",
+      "isrc": "JPB601401310",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/2OxpBoBM7oFmQ08ueSeP1z",
+      "isFallback": true
+    },
+    {
+      "id": "059e3cb5-576f-4c67-8ea7-5a49955b84fc",
+      "title": "ダン・ダン ドゥビ・ズバー!",
+      "artist": "Dream5",
+      "isrc": "JPB601402412",
+      "releaseDate": "2016-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/1lrROShLFgV3vckEBAVawP",
+      "isFallback": true
+    },
+    {
+      "id": "79c98608-207a-4537-ad30-df26b4b2b37b",
+      "title": "はてはて",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700358",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1lNJe1yxtHbYXkgoPy3gqq",
+      "isFallback": true
+    },
+    {
+      "id": "2cc98e53-e262-45c4-8154-5c214d4db3af",
+      "title": "ではでは",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700350",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6L0N9fZtETxnVmQpGje6AK",
+      "isFallback": true
+    },
+    {
+      "id": "00d5c374-33ff-4e9a-8166-a340c42dd52f",
+      "title": "ワンモア!",
+      "artist": "南 春香",
+      "isrc": "JPKI00818204",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2a7ca5af-b5a3-40ee-9aad-e43506a11d8a",
+      "title": "交歓",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500748",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ee664250-8747-4ea1-ba44-ab5c04951459",
+      "title": "奪還せよ！",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001438",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7d9eb988-47ec-4a8a-909c-4acf29cfca26",
+      "title": "ようかい体操第二",
+      "artist": "Dream5",
+      "isrc": "JPB601501953",
+      "releaseDate": "2015-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/43Hu7TXLiTTex2aveHsO4p",
+      "isFallback": true
+    },
+    {
+      "id": "d92fb8ff-72bc-4fc9-a469-598493989a62",
+      "title": "夜が更けて",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700384",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3taY9uxw4cx0Nnpp9XGUGh",
+      "isFallback": true
+    },
+    {
+      "id": "30cd2699-0bf8-4e71-a15d-e3ba89374df8",
+      "title": "たまにはこんな日も",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000232",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1i7eUj0gzHEWHoOZV4Zu38",
+      "isFallback": true
+    },
+    {
+      "id": "98985a27-a011-461d-9bc6-c91db8a247f7",
+      "title": "伝えたい気持ちは一つなのに",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001450",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c601bd7c-4dde-4de8-b55e-a743d8dbc2fb",
+      "title": "だがそれだけじゃない",
+      "artist": "キョン",
+      "isrc": "JPI100902920",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/29h8QL21d1Cpn0s08pje6I",
+      "isFallback": true
+    },
+    {
+      "id": "40a803b2-27df-40aa-b3ac-321a9604066e",
+      "title": "と、いうわけで",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700382",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6Ksa2CBnIwYk8ew2ObeWOo",
+      "isFallback": true
+    },
+    {
+      "id": "91940a8d-4a08-4d49-8a89-0bd8fa0c1e19",
+      "title": "どきどき",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700355",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/51H96rBy8A4xklIJVRkUjw",
+      "isFallback": true
+    },
+    {
+      "id": "3c7b2d63-7ff4-45e7-b842-c3e37c977030",
+      "title": "一日のはじめに",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700342",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/731K9HUyZUPjQA2kIEiAaG",
+      "isFallback": true
+    },
+    {
+      "id": "274ad468-3357-40ce-9ac1-90254399ab34",
+      "title": "ワタシと彼の事情",
+      "artist": "白石なごみ",
+      "isrc": "JPI100802006",
+      "releaseDate": "2008-11-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "363efe0a-833c-45ab-ae97-0b9643b77b9c",
+      "title": "ひだまり荘の朝〜二年生〜",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000216",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/38Kp0DJAiJ0gL8RfDklerF",
+      "isFallback": true
+    },
+    {
+      "id": "19a3e857-abde-40cf-b8dd-f211b9e1c9a0",
+      "title": "初恋峠でゲラゲラポー",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601403732",
+      "releaseDate": "2016-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/7fDpCljk8nRklnQ9nBUIfF",
+      "isFallback": true
+    },
+    {
+      "id": "85bb7fd0-d36a-4e8d-b542-d9dc1feb3af7",
+      "title": "たよりになる先輩?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000223",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/4sA9QKKUKVyH08BWxbCxdi",
+      "isFallback": true
+    },
+    {
+      "id": "983fbed0-aa6b-44a4-a362-06306129df00",
+      "title": "ひだまり荘のゆかいな変わりもの",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000237",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/3hGh1DPO1Are5KlsXep4zv",
+      "isFallback": true
+    },
+    {
+      "id": "80300d57-aca4-4762-9f13-8612fc4995b1",
+      "title": "ふるさとジャポン",
+      "artist": "LinQ",
+      "isrc": "JPB601602339",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/13Muvt9nHgT4IpYMM3g5i2",
+      "isFallback": true
+    },
+    {
+      "id": "61ddb6bd-e552-4d08-a2b3-13dfe767384b",
+      "title": "ナンダカンダDE♡",
+      "artist": "カナ",
+      "isrc": "JPKI00913923",
+      "releaseDate": "2009-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/1C3KHWHzxQBZG7zF3MAjwC",
+      "isFallback": true
+    },
+    {
+      "id": "7847da49-8742-4f66-ada3-758a43b20bc8",
+      "title": "友達としてはソレが",
+      "artist": "谷口",
+      "isrc": "JPI100902928",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/238fcocSWjjhNk7ZaAEH0U",
+      "isFallback": true
+    },
+    {
+      "id": "04a6a4c9-5c84-48fc-bf0a-e7df4a73bf53",
+      "title": "宝物のような想い出",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001423",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e1e1b9e-ea88-4192-ac1f-ebbad2821bf0",
+      "title": "みんなと一緒",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000227",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/4LLF18Ijql57P6WmMthdsk",
+      "isFallback": true
+    },
+    {
+      "id": "72f2a163-751e-439e-be8c-d2a08ac36221",
+      "title": "たぶんかなり普通の休日",
+      "artist": "高良みゆき",
+      "isrc": "JPI100701551",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/5Ap1y0hqkenSy6m5j3rOLF",
+      "isFallback": true
+    },
+    {
+      "id": "30a90ce8-76c7-48f3-9866-246a57e04942",
+      "title": "ゆるやか坂道",
+      "artist": "沙英",
+      "isrc": "JPI101203093",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/2rmG5DwTjLzkrUfMQBEXjx",
+      "isFallback": true
+    },
+    {
+      "id": "6adf769a-cfd9-4690-a837-5ab4f31a6fd3",
+      "title": "よかよかララバイ",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601600083",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/0aMydqpX8VhoiL1LOawQfs",
+      "isFallback": true
+    },
+    {
+      "id": "bc649ea8-2e06-4a25-925a-029d0276f9ba",
+      "title": "ゆったり",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700368",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4GEchiYqxyEKFZbcNF3lqd",
+      "isFallback": true
+    },
+    {
+      "id": "d29423ca-d793-4502-bfea-d85192127da6",
+      "title": "ダブル黒歴史ぼっち弾き語りversion",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201179",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/5p9juO9ObmqcmoZHOKpLzH",
+      "isFallback": true
+    },
+    {
+      "id": "82797322-3d65-40b3-a7c2-14681538459f",
+      "title": "ちゅぱ研の唄 〜きっと、いルーンヤ〜",
+      "artist": "ちゅぱかぶら研究会",
+      "isrc": "JPKI00608053",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8338879d-fe05-445b-870d-40013cf88095",
+      "title": "ららる〜",
+      "artist": "桃瀬くるみ",
+      "isrc": "JPKI00601301",
+      "releaseDate": "2006-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2MlEIkTlBID3g5KUUfve48",
+      "isFallback": true
+    },
+    {
+      "id": "29e5fa6e-b616-4c2b-942e-68c6bba8e0ee",
+      "title": "たのしみ新生活",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000220",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/5CRnKAg1GYiZvS9PR5mnxo",
+      "isFallback": true
+    },
+    {
+      "id": "e1cb22b3-950f-4836-ba4a-ee2774b8d059",
+      "title": "嗚呼 ! アクアフォール防衛隊",
+      "artist": "花澤香菜",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19f50859-ecb7-48ef-95a6-d644ac3e5f7e",
+      "title": "動転",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500764",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61d075eb-a155-44ff-a260-769ca55465cf",
+      "title": "ゆーがらお友達",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601602335",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/7rMcMNFIKomokfEBeGaisP",
+      "isFallback": true
+    },
+    {
+      "id": "aba3819e-3d4a-488d-9322-29e069f16e14",
+      "title": "ひだまり荘の朝〜一年生〜",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000214",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/3wM0UKMgbGmWy5le5GyWxD",
+      "isFallback": true
+    },
+    {
+      "id": "b163c6e1-b5f6-4291-8da9-1e8b19d071ef",
+      "title": "君が居なかった頃",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d479fbbc-06b0-4694-8e77-d12c3c0bd125",
+      "title": "一日のおわりに",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700389",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6WjfTbnotXT6ZNrS7Ed3IK",
+      "isFallback": true
+    },
+    {
+      "id": "8ee60884-8488-4fe2-a4be-ec55391207af",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン",
+      "isrc": "JPI100902919",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/0ncvJCkJMnzSBb0wUUCg7Q",
+      "isFallback": true
+    },
+    {
+      "id": "3edf5365-5652-41eb-a936-a34c6f6711d5",
+      "title": "CM:にちようまにあ",
+      "artist": "レベッカ宮本",
+      "isrc": "JPKI00601298",
+      "releaseDate": "2006-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "753df864-2b1f-46f4-a006-80a164496d68",
+      "title": "りんりん",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700385",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/0kXpy19GgyIkHoneHfLm1c",
+      "isFallback": true
+    },
+    {
+      "id": "29312f0e-71da-4b5c-a041-710958deb541",
+      "title": "みなうた",
+      "artist": "みなみけのみなさん",
+      "isrc": "JPKI01312322",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1Yyn1kFeslbv32dGixjxeh",
+      "isFallback": true
+    },
+    {
+      "id": "ea247083-e7cf-4f95-a3b4-cb7f730d56e9",
+      "title": "マジスキMAGIC",
+      "artist": "クローバー",
+      "isrc": "JPI100600095",
+      "releaseDate": "2006-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "37412c9f-8583-4282-9064-101ae97c064c",
+      "title": "なぜかズレてる?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000236",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1ARBNxEzO2wIqBqYeIdTPD",
+      "isFallback": true
+    },
+    {
+      "id": "560f919d-64de-4be4-ad60-31b8da2b5b76",
+      "title": "はじめまして、ひだまり荘",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000221",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/482RhkUZw3wRIyxQSRSpWO",
+      "isFallback": true
+    },
+    {
+      "id": "a211c990-8923-40b5-87bb-78268f57db30",
+      "title": "追撃を振り切って",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001439",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0c6f0dc-587b-4d20-a077-d66e9738aa8d",
+      "title": "雨の日に",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700359",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5sNGKF7sw9huZAWqOC2acR",
+      "isFallback": true
+    },
+    {
+      "id": "65fedd81-24ab-400e-bbd0-ac41b0fe4c6f",
+      "title": "競争だ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700371",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2OermuTYAecStg6K75O4Yc",
+      "isFallback": true
+    },
+    {
+      "id": "219a90de-08f1-4113-aaaa-fbcadaba9c0b",
+      "title": "悪運紅葉",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001420",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "496de9f4-4db6-407c-9c9f-161ea85b3c80",
+      "title": "肉迫",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500769",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "711ca008-0411-41e9-af60-2166a474b19a",
+      "title": "真奈美のテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001417",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7625e13f-ce4c-4e1a-93cf-4917ba882cb6",
+      "title": "押入れより愛をこめて",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201176",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/1PJr6r1W2IfYyK5OEgktGs",
+      "isFallback": true
+    },
+    {
+      "id": "ba77c781-f23d-4631-a345-60fd58c3ac11",
+      "title": "追憶",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500772",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "154df6ec-f134-4fcb-b153-c2f40cd596e6",
+      "title": "策謀",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500761",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55a26b05-795c-48d5-a3e0-01a18823c0dc",
+      "title": "恍惚",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500771",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd61078b-98f4-4015-805e-173c1a13c117",
+      "title": "故障かな?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700349",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3qUAXsh0rY3AwYORCUreNp",
+      "isFallback": true
+    },
+    {
+      "id": "f1904d23-b6e6-487a-a8c3-ce54b056e6b5",
+      "title": "艱難",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500768",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8a94ff78-b985-4e42-b97b-43c4d4c40046",
+      "title": "沖縄の風に吹かれて",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001452",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87c7f480-927f-441c-b64b-1dcf36bbaa2c",
+      "title": "引き渡す猫",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bad6db43-b966-4dc5-b0c1-00f883d02b32",
+      "title": "忖度",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500753",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c945eaea-902c-48ed-ab1a-557e55ed497e",
+      "title": "渇望",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500767",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a58ca10b-3b8b-44b9-a479-b95744c8bbf6",
+      "title": "湯船にて",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700383",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/6kp95zkw3M2J9PTDVJEus0",
+      "isFallback": true
+    },
+    {
+      "id": "39b85980-cc50-449b-a83f-0a1befd568b9",
+      "title": "明るい変態",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cd66e8a9-2e09-424c-a53c-0e1e8f85456a",
+      "title": "荘厳なる行進",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001436",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a57f54b7-79cd-45f1-aceb-dad9667ea856",
+      "title": "繁殖しましょ♡",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001446",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "79f0eca6-4cb5-40e2-ab96-cb96d692b239",
+      "title": "引き続き",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700373",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3XTb6Y04CuMQOTHOBfeJI2",
+      "isFallback": true
+    },
+    {
+      "id": "3e178beb-90ec-4143-ad76-8d39807a83c6",
+      "title": "星空レター",
+      "artist": "神楽坂明日菜",
+      "isrc": "JPKI00608052",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3d42d11f-a868-4165-8e36-ff65a374ffd1",
+      "title": "月の猫",
+      "artist": "菊谷知樹",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "67b3deed-f239-4c0c-9c42-4e8a3bb582d4",
+      "title": "騎央のテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001449",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a5d4b0a5-ad79-4e75-9208-c6c2cea2ba88",
+      "title": "懇篤",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500770",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b209bd9b-32f5-41b1-948b-cd0aa7c30d32",
+      "title": "故障だね",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700357",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1zykQKzi1uVYv5HLVmgHJ3",
+      "isFallback": true
+    },
+    {
+      "id": "7f833867-1f03-4514-8c4a-76a62789b2b6",
+      "title": "生徒会室REVOLUTION",
+      "artist": "天宮学美",
+      "isrc": "JPKI00606195",
+      "releaseDate": "2006-09-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "88953ee5-e7f4-43ad-ae46-4df4dab61757",
+      "title": "決戦迫る",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700375",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3qKiPke03Jb1bfgmdBeRK1",
+      "isFallback": true
+    },
+    {
+      "id": "20da8272-66d7-42ce-933e-61254ac03746",
+      "title": "決死の作戦",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001442",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "325f7d65-e05d-4475-b5fc-3be3528db1f0",
+      "title": "本日晴天",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700365",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5yqE4cTlcGnnRW3dezrp5X",
+      "isFallback": true
+    },
+    {
+      "id": "05193787-e0a7-4f2f-a1fe-434c700b6b95",
+      "title": "情報戦",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001431",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e7c17d6-932b-4458-82c1-0d22c5580559",
+      "title": "泰然",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500766",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef90518b-788e-425d-81c3-fe86aaea1017",
+      "title": "操練",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500754",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "89b52241-29a3-4024-a995-bf57dbd5f6ab",
+      "title": "校長先生 VS 吉野屋先生",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000231",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/232zZALzwELqluUqitGUHa",
+      "isFallback": true
+    },
+    {
+      "id": "042dd0a3-3c3b-48b1-949d-ee79abb3cff2",
+      "title": "憂患",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500750",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27f6ce5d-e74a-4450-ba39-23f31bdd0269",
+      "title": "諜報部のテーマ",
+      "artist": "綿貫響",
+      "isrc": "JPKI00507797",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/30sDrR11wLqDunqQ2AtoEy",
+      "isFallback": true
+    },
+    {
+      "id": "30f9cccb-8d97-46c8-9bc8-6935603304e7",
+      "title": "照國神社の熊手",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601600462",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1AHIFenVMBE7txacwirjXm",
+      "isFallback": true
+    },
+    {
+      "id": "8a94aa0d-6e09-4c9c-939b-ce7e9d05e6cf",
+      "title": "才覚",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500773",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3d31efd1-57ad-4d6e-b501-9046c36918bc",
+      "title": "甘味のち快晴",
+      "artist": "北岡ゆめ",
+      "isrc": "JPKI00914967",
+      "releaseDate": "2009-09-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "44dd77a9-ee3a-47dd-9ded-a6127390a4a3",
+      "title": "次回予告！！",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001453",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7033621b-d0d9-4706-8c47-902d12a95a1c",
+      "title": "解決",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500756",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26a38168-a419-4627-b639-a61f0bed0e20",
+      "title": "海と太陽とサングラス",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001416",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f783f3e3-9d4e-4e9c-95cd-24fa1c9b6177",
+      "title": "激突！",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001443",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ba27579-550c-4e18-8427-7a49b60d82a5",
+      "title": "結界",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001437",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/2OXWIgh4lDmMc5fU3q4DGP",
+      "isFallback": true
+    },
+    {
+      "id": "2a21b87e-e345-4eee-af70-6745885f2d73",
+      "title": "昨日の恋はどこ吹く風",
+      "artist": "空野葵",
+      "isrc": "",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8f997fe4-1ec2-49d6-8257-66a572202ca8",
+      "title": "闘争",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500755",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f9958fce-8117-477d-8e0b-9bc98c2a1170",
+      "title": "猫耳教団のテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001428",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d105f21-c80e-4516-925c-947b50dff318",
+      "title": "適応",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500760",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "603a9972-0657-47fc-b88f-530ed3461fb0",
+      "title": "風邪ひけの唄",
+      "artist": "後藤ひとり",
+      "isrc": "JPE302201177",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/2Q4CN1AQEQY2X2Gzj2JYGf",
+      "isFallback": true
+    },
+    {
+      "id": "bd539235-22ac-4986-a955-441aa60b192a",
+      "title": "肉球慕情",
+      "artist": "犬神つるぎ",
+      "isrc": "JPKI00507795",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/22Hbx8M6CYOo9HTXzH1fZf",
+      "isFallback": true
+    },
+    {
+      "id": "59419d44-2752-4f71-a4c6-e52909798d91",
+      "title": "明朗",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500749",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53e79bc9-8403-485f-8d5c-e2091496ce64",
+      "title": "平穏",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500751",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/1f9ecSWGKSRtwbGlMAIu83",
+      "isFallback": true
+    },
+    {
+      "id": "dff081b4-6328-4642-bc4e-2b486bf5c48b",
+      "title": "秘密結社·ビューティフルコンタクトのテーマ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001435",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ee6b301-687d-4535-b5eb-cb65872947ae",
+      "title": "戦闘準備",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001434",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "154178f1-6f89-473f-9e25-d4fe224a0939",
+      "title": "深夜のひまつぶし",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700386",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Q0kS8yt7we3QcieDg6jBz",
+      "isFallback": true
+    },
+    {
+      "id": "34485eb5-636f-4fc4-b966-f727a4983e46",
+      "title": "攻防",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001441",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e77b9f60-2e7f-44a6-8928-03f5a987c0f0",
+      "title": "恫喝",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500752",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6c2c27c8-ce85-4abc-a490-4db394923ca2",
+      "title": "肉球のワルツ",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001445",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f57b77f3-f78b-4f49-b923-65e81a8c248b",
+      "title": "心アンテナ",
+      "artist": "乃莉",
+      "isrc": "JPI101000669",
+      "releaseDate": "2010-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/4Rme6UYJ1mAgR711oCkm4i",
+      "isFallback": true
+    },
+    {
+      "id": "7720e516-f6fd-4409-bfb3-bfb4160d4057",
+      "title": "邂逅",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500758",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5bb1eeb9-ecf9-408c-8cc0-7851ffecca91",
+      "title": "狼狽",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500762",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "91f88cb1-a346-4d1b-a478-300f5c5c0c32",
+      "title": "追随",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500747",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ebddbed7-cdf3-4221-add3-4147b4dfc1ec",
+      "title": "進化し続ける吉野屋先生",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000230",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/3bHX6lZQDjXDu9AGmN7GTC",
+      "isFallback": true
+    },
+    {
+      "id": "e58b04b2-b403-4052-bbb8-2d65f587bc4a",
+      "title": "深夜のひつまぶし?",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700387",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/55ePMvtfNG7YzMTHcqc0UM",
+      "isFallback": true
+    },
+    {
+      "id": "d516c2c9-bd31-406c-8693-1b3fe56b4ef0",
+      "title": "遥かな夢",
+      "artist": "レベッカ宮本",
+      "isrc": "JPKI00507799",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7A67k0nmlGvgVa7s6WmFUw",
+      "isFallback": true
+    },
+    {
+      "id": "87e7ef30-3ea0-4ba2-a73f-55bb06cba09e",
+      "title": "必要は発明の母",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700379",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7m67O5uQ4xJjwsUtBHcVq5",
+      "isFallback": true
+    },
+    {
+      "id": "0ed050d8-07c7-4e8e-b602-0f53ccc8006b",
+      "title": "独立宣言",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601602337",
+      "releaseDate": "2017-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3LQjItSr6HIhqid9ZU9rDn",
+      "isFallback": true
+    },
+    {
+      "id": "9bf7e2a6-a9f6-42ce-b50c-211ec78d8c5c",
+      "title": "祭り囃子でゲラゲラポー",
+      "artist": "キング・クリームソーダ",
+      "isrc": "JPB601403730",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/0BgpH3NErsXzVTeFzizEYG",
+      "isFallback": true
+    },
+    {
+      "id": "4282e6a5-e1c0-41cc-acef-1155792fbb67",
+      "title": "迷い",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001421",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1cca1e95-d1c2-476b-a206-f1a5d17663b5",
+      "title": "少女Q",
+      "artist": "桃月学園1年C組",
+      "isrc": "JPKI00507933",
+      "releaseDate": "2005-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/0nfGhv24Bvjw63nokdamE3",
+      "isFallback": true
+    },
+    {
+      "id": "36e1c91f-fac1-4488-8e3e-ef09a3e53a6f",
+      "title": "月夜に愛秋",
+      "artist": "南 千秋",
+      "isrc": "JPKI00817494",
+      "releaseDate": "2008-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/3YpVdN7SU47kR1u8B16E4r",
+      "isFallback": true
+    },
+    {
+      "id": "732916f5-7ac4-459e-bdd3-27c2229b9203",
+      "title": "進化する吉野屋先生",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101000229",
+      "releaseDate": "2010-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/5dCuOosV3XlYh07siMBltu",
+      "isFallback": true
+    },
+    {
+      "id": "26676fb2-5fe9-4177-84a1-e450c864c4e5",
+      "title": "芸術紀行",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700367",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2mfQkrbqZC0MtcCckt2Q9W",
+      "isFallback": true
+    },
+    {
+      "id": "608dd98f-2fa6-461a-8fc4-3fe77d51b630",
+      "title": "忍び寄る影",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001432",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c67f4fb0-4c84-429c-8b14-4b114b7e4c21",
+      "title": "本物の強さ",
+      "artist": "三国太一",
+      "isrc": "JPA601200037",
+      "releaseDate": "2012-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/5P6AkuL43mQDEC796X9cfK",
+      "isFallback": true
+    },
+    {
+      "id": "cae2efb6-92d4-4016-a3ae-8b11eafe9c5c",
+      "title": "猫耳の福音",
+      "artist": "菊谷知樹",
+      "isrc": "JPI101001429",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5f0964d9-8441-477c-8c93-31feea7d44b1",
+      "title": "逸聞",
+      "artist": "菊谷知樹",
+      "isrc": "JPE301500763",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "355d7eef-3e94-4160-a778-f3065784d7b5",
+      "title": "明日もきっと",
+      "artist": "菊谷知樹",
+      "isrc": "JPI100700388",
+      "releaseDate": "2007-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3R6Z4D88kBaQrWp6dbvL7i",
+      "isFallback": true
+    }
+  ]
+}

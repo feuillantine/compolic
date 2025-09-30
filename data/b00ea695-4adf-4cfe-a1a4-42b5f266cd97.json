@@ -1,0 +1,1302 @@
+{
+  "name": "堀江晶太",
+  "sortName": "ホリエショウタ",
+  "tracks": [
+    {
+      "id": "46842ccc-0ad7-45a6-8ef3-1e517db5bf23",
+      "title": "SUPERCHARGER",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301600114",
+      "releaseDate": "2015-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/4OP9e6eyRcH5J97nWPazaG",
+      "isFallback": true
+    },
+    {
+      "id": "6fe430d3-1810-4fad-9af3-279995036efe",
+      "title": "Atlantico Blue",
+      "artist": "佐咲紗花",
+      "isrc": "JPI101501930",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/5yfWk0qd1C8AcAtsm5HHV3",
+      "isFallback": true
+    },
+    {
+      "id": "8edf69c9-e1fa-4418-92f9-1cfd3ad94875",
+      "title": "そして愛になる",
+      "artist": "米倉千尋",
+      "isrc": "TCJPL2063075",
+      "releaseDate": "2019-06",
+      "spotifyUrl": "https://open.spotify.com/track/71JU86isKvU9BInAK90DeT",
+      "isFallback": true
+    },
+    {
+      "id": "ee908c62-5684-427b-9a0a-703ddfb6088e",
+      "title": "たべてあげる",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902001712",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7L5HbQVI6Ch8CvfeCFcpKW",
+      "isFallback": true
+    },
+    {
+      "id": "47480397-3bbc-46e3-9e54-3a00f37f4c3b",
+      "title": "STRIKE THE BLOOD",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9aa0fffc-290e-49c9-88c5-4cd07100bd60",
+      "title": "Deep Invite",
+      "artist": "春猿火",
+      "isrc": "JPY392402723",
+      "releaseDate": "2025-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/7jL3mLMKgDJhb996CmvlUE",
+      "isFallback": true
+    },
+    {
+      "id": "db99d37a-a847-4dcc-aba9-6156776072d7",
+      "title": "イエロー・サンシャイン",
+      "artist": "金元寿子",
+      "isrc": "JPVI01431130",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/5c8eNDjDyFUaiLsgdEgHNn",
+      "isFallback": true
+    },
+    {
+      "id": "3c32adb9-6089-45ff-a077-441b317f9c08",
+      "title": "ストーリーテラー",
+      "artist": "田所あずさ",
+      "isrc": "JPI101701966",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/2SMjkh1Oc5NzrgRVJAh0Pc",
+      "isFallback": true
+    },
+    {
+      "id": "04f46b56-0e0d-468f-8414-d3a0edd781e1",
+      "title": "FIRST CRY",
+      "artist": "鷹嶺ルイ",
+      "isrc": "JPV752307349",
+      "releaseDate": "2023-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/4s59igkbowlLg6wuOSalQq",
+      "isFallback": true
+    },
+    {
+      "id": "e3c7f489-d327-4dc5-ac1a-29f19248155e",
+      "title": "who are you? who are you?",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU902402079",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4KpKt0t0tKXCDchR3a6BPF",
+      "isFallback": true
+    },
+    {
+      "id": "8a6d2d35-2ec8-4e6d-b5b5-5c1a5af9eba6",
+      "title": "ResoNAnce",
+      "artist": "あらき",
+      "isrc": "",
+      "releaseDate": "2025-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "404e7d9e-a4ba-4ffe-9168-d5e67f8f2d33",
+      "title": "Lightning",
+      "artist": "TERRASPEX",
+      "isrc": "JPQ461400170",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/6PnuzK0Etn3Eg26lunysNq",
+      "isFallback": true
+    },
+    {
+      "id": "5d80563f-0baa-4fa5-8fd0-6e30fe5ecbca",
+      "title": "just wonder",
+      "artist": "Nornis",
+      "isrc": "JPPO02401214",
+      "releaseDate": "2024-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/6ecxkAuRBzBykbdZLdzbwd",
+      "isFallback": true
+    },
+    {
+      "id": "dfabc808-1890-4073-ac17-ac86df0b21ef",
+      "title": "Straight Forward",
+      "artist": "田所あずさ",
+      "isrc": "JPI101501420",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/4wsaReFpLaf8e1vmC4uwJi",
+      "isFallback": true
+    },
+    {
+      "id": "2f69890c-0be2-4b9b-9eb1-9e7553b53f0e",
+      "title": "ネリヤカナヤ 〜美ら奄美〜",
+      "artist": "ReoNa",
+      "isrc": "JPU902202243",
+      "releaseDate": "2022-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi",
+      "isFallback": true
+    },
+    {
+      "id": "519d694e-7f0a-4d43-8898-f9bd7c9d7ae4",
+      "title": "My song",
+      "artist": "角巻わため",
+      "isrc": "JPV752105378",
+      "releaseDate": "2021-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0yr6hIJDc2k2KcOLM4VhBz",
+      "isFallback": true
+    },
+    {
+      "id": "18a19394-dc27-4e06-95e9-a3b8115ce0eb",
+      "title": "セカイ",
+      "artist": "星乃一歌",
+      "isrc": "JPX302137100",
+      "releaseDate": "2021-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/2payyOiLmhpZ16vXT4ZZFD",
+      "isFallback": true
+    },
+    {
+      "id": "9d1ec68e-0d38-4ffc-b20b-8e1ed7b57dff",
+      "title": "Ms. VICTORIA",
+      "artist": "トウカイテイオー",
+      "isrc": "JPZ922212602",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe",
+      "isFallback": false
+    },
+    {
+      "id": "0754abe8-dee8-48d4-8ec8-a4b59d80e90b",
+      "title": "LIKE YOU o(>< = ><)o LOVE YOU?",
+      "artist": "紫雲寺家の子供たち",
+      "isrc": "JPI102500635",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1bGfMSLJBVVmkGVUWUCCrL",
+      "isFallback": false
+    },
+    {
+      "id": "15c34d56-d63b-416b-ad18-9304fba79728",
+      "title": "A WILL",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301600115",
+      "releaseDate": "2016-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5cDY5wKpmlxu3NXKlvOEGH",
+      "isFallback": true
+    },
+    {
+      "id": "79d6e9b4-06a0-4e42-b3f8-d942f980dcde",
+      "title": "Letter",
+      "artist": "TRUE",
+      "isrc": "JPI101800789",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/7FA8ReZFwuXSkdpV4XlAqC",
+      "isFallback": true
+    },
+    {
+      "id": "a89e7242-c484-4a23-92e3-4ba6d0c34ec1",
+      "title": "After the Rain -instrumental-",
+      "artist": "東山奈央",
+      "isrc": "JPVI02202579",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/2ery7aBVeZzcMGJKsYq1pa",
+      "isFallback": true
+    },
+    {
+      "id": "0eddd270-131d-4b1a-b110-31dced2f3ca2",
+      "title": "REALiZE",
+      "artist": "LiSA",
+      "isrc": "JPU902301817",
+      "releaseDate": "2023-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8",
+      "isFallback": false
+    },
+    {
+      "id": "98ad17fe-addb-4cb1-b385-22ab716c9477",
+      "title": "Raise the FLAG",
+      "artist": "サジタリアス",
+      "isrc": "JPI101602679",
+      "releaseDate": "2017-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6",
+      "isFallback": false
+    },
+    {
+      "id": "2e369009-2733-40b4-bf42-80cb13658518",
+      "title": "ストライク・ザ・ブラッドII〜メインテーマ",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8465fcdd-f1aa-4bf2-99c0-a36d115f467f",
+      "title": "きっとビタミン",
+      "artist": "音門るき",
+      "isrc": "JPU902301951",
+      "releaseDate": "2023-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/4f8u6aCzxm4Nr57xUB7kME",
+      "isFallback": false
+    },
+    {
+      "id": "3ed8c3dc-4a04-4386-8b37-f43068a87044",
+      "title": "パステルレイン",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU901900386",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/54DrsC1rENuIqBnuM1l7AZ",
+      "isFallback": false
+    },
+    {
+      "id": "932d8767-58e3-4c5a-b5e8-d05d3e044ea2",
+      "title": "Because of",
+      "artist": "名瀬ゆかな",
+      "isrc": "",
+      "releaseDate": "2015-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f335956-1b78-426d-b232-0ff9b71ad8bf",
+      "title": "It’s my CUE.",
+      "artist": "田所あずさ",
+      "isrc": "JPI101601281",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2jHMXdp7EnA27BqWgwTOXv",
+      "isFallback": true
+    },
+    {
+      "id": "f72d62b4-44b3-4bdd-92c2-9ac791d327c3",
+      "title": "flower rhapsody",
+      "artist": "さくらみこ",
+      "isrc": "JPV752408867",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/5R2hMB33CsUYbWVHoQJpjf",
+      "isFallback": true
+    },
+    {
+      "id": "48443820-2c1b-494a-aeb1-09b93ffa391b",
+      "title": "✞animaるパーティ✞開催中✞",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562400201",
+      "releaseDate": "2024-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/5WvZy8C9QPzDYlYc4bmrO6",
+      "isFallback": true
+    },
+    {
+      "id": "32be958c-0af4-4ad2-8a09-49a3e7529389",
+      "title": "これくらいで",
+      "artist": "藍月なくる",
+      "isrc": "",
+      "releaseDate": "2019-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "24e09154-4a43-41e0-903e-a8894ebcce12",
+      "title": "SHINOBI",
+      "artist": "Reol",
+      "isrc": "JPU902404200",
+      "releaseDate": "2024-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/24gfv6xKvWBigrbEpOY1DB",
+      "isFallback": true
+    },
+    {
+      "id": "3b8a5953-ee7a-4ffe-97b9-c2a48e3fde32",
+      "title": "シフクノトキ",
+      "artist": "LiSA",
+      "isrc": "JPU902201609",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay",
+      "isFallback": true
+    },
+    {
+      "id": "c3f6200b-35bc-4bba-9963-5d77f4d24db1",
+      "title": "ダフネ",
+      "artist": "Appare!",
+      "isrc": "JPS752100138",
+      "releaseDate": "2021-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/4MmK9JUySLkZnqQrRljjjc",
+      "isFallback": true
+    },
+    {
+      "id": "0173e752-dc29-43de-9211-8848bb004a60",
+      "title": "Star light, Star bright",
+      "artist": "ナノ",
+      "isrc": "JPVI01811911",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/26Aipk8gIfaHZFNHQId1Vl",
+      "isFallback": true
+    },
+    {
+      "id": "3a8bfa63-f49c-42b6-bb29-4dc586d583f4",
+      "title": "ストラゴヴィゴス",
+      "artist": "棗いつき",
+      "isrc": "JPR502509841",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7eZo7LkbOoM3EMz6ZHAYqC",
+      "isFallback": false
+    },
+    {
+      "id": "0df3c6e2-9652-44c5-8ea6-d380d90f0509",
+      "title": "ESPADA",
+      "artist": "SHADE OF SPADE",
+      "isrc": "JPI102201986",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5qUa4Dn7vs1FEqG6IcTEEM",
+      "isFallback": false
+    },
+    {
+      "id": "94273a33-cb2c-4ac9-bc9d-f81311e355e4",
+      "title": "Visual Vampire",
+      "artist": "田所あずさ",
+      "isrc": "JPI102001571",
+      "releaseDate": "2020-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/3eP0jh59boGZbqPQ8kJ9BA",
+      "isFallback": true
+    },
+    {
+      "id": "d0a7fcc9-5809-40d5-804e-044c32a310fd",
+      "title": "Happy day to you!",
+      "artist": "角巻わため",
+      "isrc": "JPV752206793",
+      "releaseDate": "2022-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/5PAprSEeI7bTRjX8N2duiV",
+      "isFallback": true
+    },
+    {
+      "id": "a7089ce5-3fb0-4f75-9ba0-0dacea37ee14",
+      "title": "1センチ",
+      "artist": "LiSA",
+      "isrc": "JPU902002111",
+      "releaseDate": "2020-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/1UpTXz33U2cZzpGhaKaXzo",
+      "isFallback": true
+    },
+    {
+      "id": "56d61709-550b-4ae5-b66c-f3dbd8a93736",
+      "title": "アンダーワールドウタウタイ",
+      "artist": "Kotone",
+      "isrc": "TCJPI1997743",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/5mEIPxGn6xLKFE5n2ujHNA",
+      "isFallback": true
+    },
+    {
+      "id": "e7bc2609-534b-446a-a4d2-763b4c8d575d",
+      "title": "BIRTHDAY",
+      "artist": "ReoNa",
+      "isrc": "JPU902002154",
+      "releaseDate": "2020-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/53FAzarsMraZhylAz5UwXb",
+      "isFallback": true
+    },
+    {
+      "id": "922a16ce-91f7-4d21-9456-914d78039bce",
+      "title": "ハッピーヒプノシズム",
+      "artist": "しぐれうい",
+      "isrc": "JPPO02403507",
+      "releaseDate": "2024-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/1Sm5QXN40KjgWfCZtrG8JY",
+      "isFallback": true
+    },
+    {
+      "id": "97fc6fd4-6ea5-4089-b294-04713847ab24",
+      "title": "Pale Blaze",
+      "artist": "米倉千尋",
+      "isrc": "",
+      "releaseDate": "2025-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e2997c3-2e46-4385-8ade-867b8994cc78",
+      "title": "ハルトキ～Spring Moment～",
+      "artist": "米倉千尋",
+      "isrc": "TCJPL2063072",
+      "releaseDate": "2019-06",
+      "spotifyUrl": "https://open.spotify.com/track/32oniPBADSslGmZ7BNU6Gg",
+      "isFallback": true
+    },
+    {
+      "id": "46872890-31eb-41e8-9923-951186157115",
+      "title": "バキバキ",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01700659",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/5uKpSYf9sxXBixEtLtkPpW",
+      "isFallback": true
+    },
+    {
+      "id": "dd228d6d-8e7f-43cc-9d8d-266658a61b15",
+      "title": "Our Bright Parade (English ver.)",
+      "artist": "hololive English -Advent-",
+      "isrc": "JPV752408880",
+      "releaseDate": "2024-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1GbwxeZX5DbhZfGEcmRK5p",
+      "isFallback": true
+    },
+    {
+      "id": "ea2f75fd-2895-4967-87fb-d6dec5fc36a5",
+      "title": "アイレ",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102302450",
+      "releaseDate": "2024-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/4k882m0CmQlTAMBZdaEyjP",
+      "isFallback": false
+    },
+    {
+      "id": "6a2f8f8a-2e44-4cb8-a66e-55c0c7518222",
+      "title": "NEW ME",
+      "artist": "LiSA",
+      "isrc": "JPU902203038",
+      "releaseDate": "2022-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/0dFOw1Zip1KGCAC70MNtLC",
+      "isFallback": true
+    },
+    {
+      "id": "8e088309-375e-4c60-a535-f2a11310a51e",
+      "title": "あなただから。",
+      "artist": "ASSUMED SOUNDS",
+      "isrc": "",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d8007be-4b08-42a3-9970-679336396966",
+      "title": "UNION!!",
+      "artist": "765 MILLION ALLSTARS",
+      "isrc": "JPI101801960",
+      "releaseDate": "2018-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/06MpGtZrJ3AUlP9I1rgcLb",
+      "isFallback": false
+    },
+    {
+      "id": "c03aa749-cda0-476c-82d5-92aad3b73295",
+      "title": "wasteland",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301500559",
+      "releaseDate": "2016-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/4ydn5DcxUPAB7KtLyDpdu1",
+      "isFallback": true
+    },
+    {
+      "id": "6365d4e1-7c8e-485a-b14a-0e30c06dee85",
+      "title": "ジョーカーに宜しく",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301500558",
+      "releaseDate": "2016-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/2U6YmdMWC0g40egNO1TKvY",
+      "isFallback": true
+    },
+    {
+      "id": "d49780d0-9e32-44c2-b6f7-5b26f6639a2e",
+      "title": "SAKE OF LOVE",
+      "artist": "ALKALOID",
+      "isrc": "JPD642400520",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl",
+      "isFallback": false
+    },
+    {
+      "id": "0fffcc3a-9721-4e26-90af-35e433bcd846",
+      "title": "ギミーシェルター・ブライトネス",
+      "artist": "田所あずさ",
+      "isrc": "JPI101701967",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/2brUJY3jk1m3mM42F3uHrm",
+      "isFallback": true
+    },
+    {
+      "id": "5bcbf90b-4760-4629-9d23-b18e608de74d",
+      "title": "インプリンティング",
+      "artist": "▽▲TRiNITY▲▽",
+      "isrc": "JPPI02200810",
+      "releaseDate": "2022-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/6mgUd9z7uJdZ273185706d",
+      "isFallback": true
+    },
+    {
+      "id": "ade95e6e-a352-40f8-84d3-0fc54fe824bb",
+      "title": "AMAZING BREAK",
+      "artist": "TERRASPEX",
+      "isrc": "JPQ461400167",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/02vYtZKneLX8BexByZ6oPt",
+      "isFallback": true
+    },
+    {
+      "id": "3d904dee-03c4-47e6-a6f2-0d029ee64885",
+      "title": "FairyTaleじゃいられない",
+      "artist": "フェアリースターズ",
+      "isrc": "JPI101702260",
+      "releaseDate": "2017-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/2MJPXGJUWnSRbqfbHv837n",
+      "isFallback": false
+    },
+    {
+      "id": "0f4023bf-1f92-48d0-b683-d56b392123cb",
+      "title": "アッパライナ",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPCO01911480",
+      "releaseDate": "2019-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/1h5GGNU10IZy1uQMwCp9GH",
+      "isFallback": true
+    },
+    {
+      "id": "7e6476a7-891a-43a6-b95d-78daa1053cd7",
+      "title": "skylark",
+      "artist": "渡会雲雀",
+      "isrc": "JPY252300085",
+      "releaseDate": "2023-05-13",
+      "spotifyUrl": "https://open.spotify.com/track/3dirtQ2NlNto6WdWQmDc9U",
+      "isFallback": true
+    },
+    {
+      "id": "e380691d-2e0c-4b7d-b732-230beeca9b75",
+      "title": "キスのひとつで",
+      "artist": "佐咲紗花",
+      "isrc": "JPI101501936",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f01bfe9c-b7e8-4b00-9c0c-ec46c3455fe8",
+      "title": "ダーウィン先生の倦怠",
+      "artist": "majiko",
+      "isrc": "JPPO01800360",
+      "releaseDate": "2018-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/2b2vYtNhXc4Z7YUyaX42WZ",
+      "isFallback": true
+    },
+    {
+      "id": "54dd9d66-de23-4989-8d32-e5ef51f696ce",
+      "title": "raspberry cube",
+      "artist": "松下",
+      "isrc": "",
+      "releaseDate": "2018-09-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51747769-dcd4-4bc4-8e13-babc22dcfe9d",
+      "title": "バイバイレイニー",
+      "artist": "星街すいせい",
+      "isrc": "JPV752104958",
+      "releaseDate": "2021-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/3hJ6q2pF459fIGbuyaL7Jx",
+      "isFallback": true
+    },
+    {
+      "id": "44b95cd8-81c8-4869-ad4a-4bda7b810769",
+      "title": "アシタノツバサ",
+      "artist": "石田燿子",
+      "isrc": "JPCO01636540",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/7kmHKTDAMmGW6tz2jrPyYO",
+      "isFallback": true
+    },
+    {
+      "id": "8d0ffb9d-a30c-4e88-9a7a-30dbeea4decd",
+      "title": "ストレイシー",
+      "artist": "りぶ",
+      "isrc": "JPVI02501047",
+      "releaseDate": "2025-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/4ieSggByzDk0wiha2ERYPl",
+      "isFallback": true
+    },
+    {
+      "id": "ae08492a-d046-4521-a242-48b32e7054db",
+      "title": "Crossing!",
+      "artist": "765 MILLION ALLSTARS",
+      "isrc": "JPI102300071",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/5joqaslIG1VrSazqQADS7t",
+      "isFallback": false
+    },
+    {
+      "id": "37d119f2-2a68-40a4-bb87-f87ae8d16bed",
+      "title": "Hey Darling!",
+      "artist": "松下",
+      "isrc": "",
+      "releaseDate": "2017-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a77ce2fd-eedb-4521-8323-781d42636689",
+      "title": "Sincerely (English Version)",
+      "artist": "MindaRyn",
+      "isrc": "JPI102001341",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/7iPgqE3GNvVs2S4DBMPN5n",
+      "isFallback": true
+    },
+    {
+      "id": "9ceab607-f4aa-45a0-8df7-34460035643e",
+      "title": "Liberty & Freedom",
+      "artist": "葛葉",
+      "isrc": "JPPO02302099",
+      "releaseDate": "2023-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/1eSh1CNHLemDDwsVgUccop",
+      "isFallback": true
+    },
+    {
+      "id": "f3587b01-e747-4594-8364-6f0d97e1cc24",
+      "title": "HATENA",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU902000776",
+      "releaseDate": "2020-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/79Jpqsmno4iZV7ko4h5rqM",
+      "isFallback": true
+    },
+    {
+      "id": "65f9e5ac-d81e-4d3b-9943-5fdca0b6209b",
+      "title": "Critical Hit",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301500560",
+      "releaseDate": "2016-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/5AWgNeHXLxFLceu9Rw6d6F",
+      "isFallback": true
+    },
+    {
+      "id": "4c2c7cc2-f0f3-4ddd-a012-e68b3d4c1beb",
+      "title": "スカイラインファンファーレ!",
+      "artist": "Appare!",
+      "isrc": "JPS752100218",
+      "releaseDate": "2022-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/5TveQX1LWbTpBqMbBDWEtf",
+      "isFallback": true
+    },
+    {
+      "id": "4b432ef2-61b1-48b3-a216-90ea7cec1745",
+      "title": "MUSE",
+      "artist": "yama",
+      "isrc": "JPU902500156",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk",
+      "isFallback": false
+    },
+    {
+      "id": "c37060ab-89c9-4a15-a90b-a0ab4c2c966d",
+      "title": "NAME",
+      "artist": "綴",
+      "isrc": "JPVI02302413",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/3FVoVvl5qCGGwW1grb1rG4",
+      "isFallback": false
+    },
+    {
+      "id": "bd2b25e5-05ba-4b32-9a4b-1d083a67a5e0",
+      "title": "ストラゴヴィゴス",
+      "artist": "棗いつき",
+      "isrc": "JPR502401516",
+      "releaseDate": "2024-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2obZbmqYaVkPpZPimwKCBW",
+      "isFallback": false
+    },
+    {
+      "id": "f6664976-08ef-403b-a0a2-8af5a5b96249",
+      "title": "Fire and Fear",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU902401934",
+      "releaseDate": "2024-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/4u5RFaxm6oUbudUouNM2Ep",
+      "isFallback": true
+    },
+    {
+      "id": "07961393-1c7c-42a4-98d7-08f7687f9ea9",
+      "title": "Sincerely",
+      "artist": "TRUE",
+      "isrc": "JPI101702999",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/1774XGEDmmV7ynAzCQHrhU",
+      "isFallback": true
+    },
+    {
+      "id": "0ce854cf-7ef0-43ec-b22f-89fcb0b06107",
+      "title": "シンデレラじゃいられない",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01601736",
+      "releaseDate": "2016-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/303AneWkbYuFKOwlUPw3EN",
+      "isFallback": true
+    },
+    {
+      "id": "62bd0823-d59e-4b09-8122-f5829f0d68a2",
+      "title": "March",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902402240",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0ZCNHP7k5AhakfjF6VLfd3",
+      "isFallback": true
+    },
+    {
+      "id": "07e2d6d4-e7f5-414e-9b47-dbd7477fc81a",
+      "title": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752207077",
+      "releaseDate": "2023-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l",
+      "isFallback": true
+    },
+    {
+      "id": "efc75ca2-dd79-4592-afdd-68bc18f741cb",
+      "title": "Aster",
+      "artist": "明透",
+      "isrc": "JPY392402563",
+      "releaseDate": "2024-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4WmaKufWSnQqrjDzMe5Grn",
+      "isFallback": true
+    },
+    {
+      "id": "7512e1f7-daaa-422c-8698-6638546788f5",
+      "title": "FIGHT SONG",
+      "artist": "ナノ",
+      "isrc": "JPE502200102",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/4s1S0u7SjLrIEO7zNqWBbU",
+      "isFallback": true
+    },
+    {
+      "id": "bdde1da9-6f15-4228-8e96-fd0df0adef1c",
+      "title": "After the Rainbow -instrumental-",
+      "artist": "東山奈央",
+      "isrc": "JPVI02202587",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/6oVs5McyzVFMca7gfRBs8Q",
+      "isFallback": true
+    },
+    {
+      "id": "5cabee91-0b08-400b-b2d0-05608995c335",
+      "title": "Winter Sparkler",
+      "artist": "明透",
+      "isrc": "JPY392402236",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/5q4joaVs9wAtIi642Ijc7Y",
+      "isFallback": true
+    },
+    {
+      "id": "ed6c371d-9b13-4c7c-878a-314c571c65a5",
+      "title": "Awakening the World",
+      "artist": "茅原実里",
+      "isrc": "JPI101600153",
+      "releaseDate": "2016-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/4mGUkUCpzgR4Pu7ub0bfOF",
+      "isFallback": true
+    },
+    {
+      "id": "e5a9e64b-d60a-4a47-a757-542421a1cd90",
+      "title": "はよ、New World.",
+      "artist": "櫻川めぐ",
+      "isrc": "JP92E2401744",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/2sBW01HtHre0tv4HSdUJSb",
+      "isFallback": true
+    },
+    {
+      "id": "522bf444-b015-4a0a-b6c5-46dd21964906",
+      "title": "dawn",
+      "artist": "LiSA",
+      "isrc": "JPU902003101",
+      "releaseDate": "2021-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/1IRwNWiB2aDEoSdUgjJmay",
+      "isFallback": true
+    },
+    {
+      "id": "13a77246-3ec4-4176-bb55-ea534d427e7c",
+      "title": "dis/connect",
+      "artist": "LiSA",
+      "isrc": "JPU902203513",
+      "releaseDate": "2022-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO",
+      "isFallback": true
+    },
+    {
+      "id": "1285c4fb-65c6-4c06-8d56-9f4a875f06e7",
+      "title": "prayers",
+      "artist": "三枝明那",
+      "isrc": "JPY252400104",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/4hGYU1KcuUJtdECioky9ZQ",
+      "isFallback": true
+    },
+    {
+      "id": "61cee249-3d0c-44dc-bcbb-40cdc21bcecf",
+      "title": "エンパシア",
+      "artist": "CHiCO",
+      "isrc": "JPX402300197",
+      "releaseDate": "2024-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/1PK2DsJAzVxNHEtKsfWjuR",
+      "isFallback": true
+    },
+    {
+      "id": "c7b2bc43-d552-48f4-9024-0015cde3f79f",
+      "title": "夢と色でできている",
+      "artist": "佐咲紗花",
+      "isrc": "",
+      "releaseDate": "2019-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5407ff6-5966-4234-a886-571e4e9dec2b",
+      "title": "リトルハミング",
+      "artist": "葉加瀬冬雪",
+      "isrc": "JPY252100163",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/1nmQJOdozY11bL7qpInJDl",
+      "isFallback": true
+    },
+    {
+      "id": "5f3b6d4e-7089-4c14-b9e1-bfbc5c507dee",
+      "title": "恋はキライだ",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU901901983",
+      "releaseDate": "2019-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/4IbVUK6gEr80C00yIeHyqJ",
+      "isFallback": false
+    },
+    {
+      "id": "c4a4f63c-6af4-4ca0-b092-e9ca9bc694a5",
+      "title": "閃光Believer",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01600856",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/2hLv1uFwRmaV4FQmj19lbk",
+      "isFallback": true
+    },
+    {
+      "id": "bc4aa2e0-2af4-451d-bf19-a2cc277cfccf",
+      "title": "探検のススメ",
+      "artist": "ナギ",
+      "isrc": "",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c64458a4-13ba-42e4-ba19-5f1f5c0b81bf",
+      "title": "めいきゅう",
+      "artist": "存流",
+      "isrc": "JPY392300928",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/6uBX2pHetbmsnyOGV9UYss",
+      "isFallback": true
+    },
+    {
+      "id": "d587afc2-4699-4972-9001-edbdb724793a",
+      "title": "ベイビーステップ",
+      "artist": "ベイビーレイズ",
+      "isrc": "JPPC01400625",
+      "releaseDate": "2014-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/2k95WsfcjUE08PNwb8repG",
+      "isFallback": true
+    },
+    {
+      "id": "12e09d97-a0bc-46f9-8b95-0bd4e5ba54e0",
+      "title": "大快晴ボンボヤージュ！",
+      "artist": "Appare!",
+      "isrc": "TCJPB2452435",
+      "releaseDate": "2024-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/79Bgn4VV9JWnCzWNdBOY93",
+      "isFallback": true
+    },
+    {
+      "id": "c156bd59-42c6-4e6a-b243-1b6fa2847483",
+      "title": "夜明けBrand New Days",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01403088",
+      "releaseDate": "2015-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/5sDnp8MUSvMexUsHNj3qib",
+      "isFallback": true
+    },
+    {
+      "id": "9590a2d2-05c5-4e70-b161-837c933203e0",
+      "title": "大切なタカラモノ",
+      "artist": "キュアロゼッタ",
+      "isrc": "JPD601300383",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2waxAljlHugGUcLzdRimCh",
+      "isFallback": true
+    },
+    {
+      "id": "7d4ccea0-f787-49d3-affc-499a62ed1319",
+      "title": "ハローグッデイ",
+      "artist": "LiSA",
+      "isrc": "JPU901801120",
+      "releaseDate": "2018-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/2HeoW34oznLWvuH3q43alB",
+      "isFallback": true
+    },
+    {
+      "id": "82e88694-e1f6-4ab6-a327-f350b7adeb8d",
+      "title": "一冊のアロー",
+      "artist": "櫻川めぐ",
+      "isrc": "",
+      "releaseDate": "2022-11-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2cb570bb-833f-4306-bcd8-159ffcf94ce9",
+      "title": "三月がずっと続けばいい",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU901900345",
+      "releaseDate": "2019-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/0qd0wR0SfLHtFkCxpXPFqX",
+      "isFallback": false
+    },
+    {
+      "id": "4e5051ca-7143-4a72-8a3c-d77041284c07",
+      "title": "わたしのせいだ",
+      "artist": "天音かなた",
+      "isrc": "JPV752510265",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/3hwbHnDOxYybQfnMwgcG8P",
+      "isFallback": false
+    },
+    {
+      "id": "60b3628a-8126-4c82-9399-23400ad05976",
+      "title": "奇祭狂祭",
+      "artist": "ChroNoiR",
+      "isrc": "JPY252300196",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/2uS2ZswBkYBXXxvL21UYoW",
+      "isFallback": true
+    },
+    {
+      "id": "55cbe11d-a349-450e-9d21-e89558440ae4",
+      "title": "天気雨の旅",
+      "artist": "棗いつき",
+      "isrc": "JPR502410572",
+      "releaseDate": "2024-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/0cyMk6hbj69NimKkbhPhYG",
+      "isFallback": true
+    },
+    {
+      "id": "7eed79ae-8642-43a3-b99b-4033b5baf9c0",
+      "title": "雪は何色",
+      "artist": "Kotoha",
+      "isrc": "TCJPY2351596",
+      "releaseDate": "2023-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4aISoWI3spTzdWKGgR5a84",
+      "isFallback": false
+    },
+    {
+      "id": "a2a7c0c6-ec88-41f3-b35e-6d7076f29251",
+      "title": "ビッグマウス",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562400023",
+      "releaseDate": "2024-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3aeyG6JWxhYzfFQ2iZPl2n",
+      "isFallback": true
+    },
+    {
+      "id": "405634d1-0f02-4992-8bcb-d84ba7449007",
+      "title": "ぼくらのうた",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPKI01914546",
+      "releaseDate": "2019-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/7rTkrW5yJPZdqNc0h3ZdRA",
+      "isFallback": true
+    },
+    {
+      "id": "f6595514-48e9-4c56-86bb-9da29bffcb44",
+      "title": "まぼろし",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902302458",
+      "releaseDate": "2023-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/0v0NhCkFy3xt7GYvfEQqRT",
+      "isFallback": false
+    },
+    {
+      "id": "2cb5258c-4061-49a8-a5d5-8c2cd84c1512",
+      "title": "純真Always",
+      "artist": "田所あずさ",
+      "isrc": "JPI101600007",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/7a01xpTx2dDMifGLVUyRYV",
+      "isFallback": true
+    },
+    {
+      "id": "df6be128-ae65-4289-97ca-63a4ef7da0eb",
+      "title": "私たちの讃歌",
+      "artist": "ReoNa",
+      "isrc": "JPU902402224",
+      "releaseDate": "2024-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg",
+      "isFallback": true
+    },
+    {
+      "id": "304ea90a-7b02-4173-bd32-7d42ac9f7686",
+      "title": "マリンブルーに沿って",
+      "artist": "佐咲紗花",
+      "isrc": "JPI101501931",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62ba0225-f46d-486b-bf78-9a61744045c6",
+      "title": "魔法",
+      "artist": "沼倉愛美",
+      "isrc": "JPVI01900017",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/54WpBBNWYrl9slhEwlwuRs",
+      "isFallback": true
+    },
+    {
+      "id": "12b7450e-9e79-4128-a481-721470c015c3",
+      "title": "フローズン",
+      "artist": "TRUE",
+      "isrc": "JPI102401638",
+      "releaseDate": "2024-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/2T2pBE3EZFQDYSwJ9Mgz3Z",
+      "isFallback": true
+    },
+    {
+      "id": "b202209a-e145-4119-b65b-2a8dd58e97fe",
+      "title": "ミチシルベ",
+      "artist": "ベイビーレイズ",
+      "isrc": "JPPC01401177",
+      "releaseDate": "2014-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/43pwKZw7N0ELE69xVdS8lx",
+      "isFallback": true
+    },
+    {
+      "id": "94c44ac9-c157-451c-ba53-cc7d59d83566",
+      "title": "雷鳴",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301600116",
+      "releaseDate": "2016-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/0QkAagFniv0vAnfcsXRJvW",
+      "isFallback": true
+    },
+    {
+      "id": "87aae912-05f9-4877-bdef-50db99f46634",
+      "title": "夜光通信",
+      "artist": "大神ミオ",
+      "isrc": "JPV752206772",
+      "releaseDate": "2022-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/2g8S365iQeXFObwyFHPwAt",
+      "isFallback": true
+    },
+    {
+      "id": "5b3ded53-4353-409d-9b7d-e55d3537f0fd",
+      "title": "逆さまのLady",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902001101",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/6Yay2OwaRcdax8VdhALir0",
+      "isFallback": true
+    },
+    {
+      "id": "5ba9125f-1cdc-4b0a-aaad-46c2b287c0a1",
+      "title": "舟",
+      "artist": "Albemuth",
+      "isrc": "JPY392301553",
+      "releaseDate": "2023-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/20L6BKoxEgLDpUC8agnTAD",
+      "isFallback": false
+    },
+    {
+      "id": "f7c900ef-2658-4e3c-88e8-68b709546d52",
+      "title": "薄明光線",
+      "artist": "不知火フレア",
+      "isrc": "JPV752510045",
+      "releaseDate": "2025-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/0LKce9Eg2Af1yKd17CjzAu",
+      "isFallback": false
+    },
+    {
+      "id": "a0e73fe3-612d-4eda-bac0-3b8545f31c7d",
+      "title": "ボタン",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU901601740",
+      "releaseDate": "2016-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/7imjEANEvj4VgmZqNt7w4A",
+      "isFallback": true
+    },
+    {
+      "id": "4249e90d-3af1-41ba-be31-33a7d1381e89",
+      "title": "透明な心臓が泣いていた",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252100151",
+      "releaseDate": "2022-05-07",
+      "spotifyUrl": "https://open.spotify.com/track/2ORznrdBF0HPN2QD69Bmk8",
+      "isFallback": true
+    },
+    {
+      "id": "0cd0e995-fbcf-43f3-a197-ea7b66e96e87",
+      "title": "世界最後の日に",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPP301600117",
+      "releaseDate": "2016-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/1PwlooNcdGvtyOGuwp9jkf",
+      "isFallback": true
+    },
+    {
+      "id": "0257c814-b6d6-483a-a67d-930d5d6cf444",
+      "title": "フローズン (TV size)",
+      "artist": "TRUE",
+      "isrc": "JPI102401642",
+      "releaseDate": "2024-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/1NQ2JiQcID8k8SM5rQwOFS",
+      "isFallback": true
+    },
+    {
+      "id": "f12da37d-4be2-4c3a-9c70-97b065c8e6e6",
+      "title": "春を連れて",
+      "artist": "Kotoha",
+      "isrc": "TCJPY2351598",
+      "releaseDate": "2023-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/4IGOiwApc0Cl0WwYsvTxx5",
+      "isFallback": false
+    },
+    {
+      "id": "daee74c5-6586-4d29-9d59-9af59b33f6c9",
+      "title": "天気雨の旅",
+      "artist": "棗いつき",
+      "isrc": "JPR502509843",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1jZsUr8vMVLiEis52x60uB",
+      "isFallback": false
+    },
+    {
+      "id": "dd04caa6-6ec3-40c8-98f6-c7b4e49a1746",
+      "title": "言花Letter(s)!",
+      "artist": "雁矢よしの",
+      "isrc": "JPPO02301764",
+      "releaseDate": "2023-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/091RaQaVgQwMfolLlT6vsk",
+      "isFallback": false
+    },
+    {
+      "id": "d8397e61-718e-419b-afc0-9e70842bf61f",
+      "title": "恋",
+      "artist": "茅原実里",
+      "isrc": "JPI101501926",
+      "releaseDate": "2015-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/2ci2HBXdOrHG36VD9hvjSU",
+      "isFallback": true
+    },
+    {
+      "id": "bcc1ef3a-9572-4901-8ec8-ebde6b64b014",
+      "title": "幸福なわがまま",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902100953",
+      "releaseDate": "2021-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/2cUmjlr7vH2xiatFSpZroC",
+      "isFallback": false
+    },
+    {
+      "id": "f68e0daa-92ad-45ea-83c0-c7113ffeed08",
+      "title": "約束の続き",
+      "artist": "Appare!",
+      "isrc": "JPS752100130",
+      "releaseDate": "2021-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/5z16k1weMCg9owvNuPEqS8",
+      "isFallback": true
+    },
+    {
+      "id": "ee2d51b1-7582-453b-9474-812c412129e9",
+      "title": "ロングタイムトラベラー",
+      "artist": "mono palette.",
+      "isrc": "JPCO01830210",
+      "releaseDate": "2018-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/2QHXsC4LOVgfxyM5ER83bt",
+      "isFallback": true
+    },
+    {
+      "id": "166486bd-003a-4ecf-906e-94f9513d0913",
+      "title": "ゆびきりの唄",
+      "artist": "サンドリオン",
+      "isrc": "JPCO02329840",
+      "releaseDate": "2023-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/0bJg301rUVNzgIYrnqhT18",
+      "isFallback": false
+    },
+    {
+      "id": "2079ab4e-f774-4aaa-81b5-9ed747398f5b",
+      "title": "何色",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252300081",
+      "releaseDate": "2023-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/3oLlP5I3UfAR7wlIuRlUjk",
+      "isFallback": true
+    },
+    {
+      "id": "4ee5156e-4ae2-40c5-9a47-42434898f467",
+      "title": "危ないくらいに熱くなれ",
+      "artist": "茅原実里",
+      "isrc": "JPI101500802",
+      "releaseDate": "2015-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/2cstQqvQIpmS47SgOuC3Zc",
+      "isFallback": true
+    },
+    {
+      "id": "3588d1ac-cd04-4483-9e9c-9cfaaf6bdc58",
+      "title": "走れ、走れ",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01502868",
+      "releaseDate": "2016-01-06",
+      "spotifyUrl": "https://open.spotify.com/track/0Pd1utadGZ0F7XPKebIhHB",
+      "isFallback": true
+    },
+    {
+      "id": "8cbe481c-6e6e-4452-807c-bf3387b93f83",
+      "title": "才能が無いから何だ",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252400009",
+      "releaseDate": "2024-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/23w0OiSlWiUemEyZTr8Eow",
+      "isFallback": true
+    },
+    {
+      "id": "c68bf5a8-630e-4e35-95a5-3194fcb3b3fb",
+      "title": "夢見る羊",
+      "artist": "角巻わため",
+      "isrc": "JPV752206084",
+      "releaseDate": "2022-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/7qBzHbL0udBfZ8lOIqbyjZ",
+      "isFallback": true
+    },
+    {
+      "id": "308a7ded-c545-448a-8bf8-574dd0898f42",
+      "title": "ブルーデイズ",
+      "artist": "TRUE",
+      "isrc": "JPI102302818",
+      "releaseDate": "2024-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/5oitGbOGeMSGdvEnOin3Ya",
+      "isFallback": true
+    },
+    {
+      "id": "cb602a7c-7bd5-418b-a221-c0fcc577d8da",
+      "title": "蝉人間",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU902402078",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/1p9EOqYCLvpt2eAYn55oTU",
+      "isFallback": true
+    },
+    {
+      "id": "aec43bcb-c876-4421-a945-8bf206f84fcc",
+      "title": "僕らはここにいる",
+      "artist": "ベイビーレイズ JAPAN",
+      "isrc": "JPPC01701934",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/7dihsKp89RHJCZod8aaToY",
+      "isFallback": true
+    },
+    {
+      "id": "a97c1b37-0ac8-41bc-a93a-cfb7ea6435e9",
+      "title": "ホントノトコロ",
+      "artist": "名瀬ゆかな",
+      "isrc": "",
+      "releaseDate": "2015-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

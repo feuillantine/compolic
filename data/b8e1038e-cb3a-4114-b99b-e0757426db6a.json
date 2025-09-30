@@ -1,0 +1,204 @@
+{
+  "name": "キノシタ",
+  "sortName": "キノシタ",
+  "tracks": [
+    {
+      "id": "d54e3865-b9a1-4cff-8ce1-efb43cf6806f",
+      "title": "はやくそれになりたい!",
+      "artist": "キノシタ",
+      "isrc": "JPPI01701530",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/2Hiydj7yCXzBd8c4VcRaEg",
+      "isFallback": true
+    },
+    {
+      "id": "d8579874-d6e8-4445-9e8e-d9ff4882a1a6",
+      "title": "Present for you!",
+      "artist": "えのぐ",
+      "isrc": "JPX262100071",
+      "releaseDate": "2021-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/3YniJv0mtmgwWRbC03inHs",
+      "isFallback": false
+    },
+    {
+      "id": "fd30d804-53a3-4fb4-b295-f1fe0874b096",
+      "title": "なっちゃった！",
+      "artist": "アーリオ・オーリオ・エ・ペペロンチーノ",
+      "isrc": "JPU902401274",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/3lwSjCwHiJ2qzEk7dSAA0g",
+      "isFallback": true
+    },
+    {
+      "id": "4b1a9fb1-7c03-4f8f-b09f-6b5aa247b078",
+      "title": "ダッシュでにげろ！",
+      "artist": "キノシタ",
+      "isrc": "JP92E2200057",
+      "releaseDate": "2023-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/4KByqaUdj7DO75MHi9iPDY",
+      "isFallback": true
+    },
+    {
+      "id": "7663ca24-1eb3-46b8-b2a8-7d61de157ac8",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "ワンダーランズ×ショウタイム",
+      "isrc": "JPX302137730",
+      "releaseDate": "2022-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/1nXsyiTXXGAnkqCF7xDv6S",
+      "isFallback": true
+    },
+    {
+      "id": "4066a99b-4915-416d-bcc7-5b3a4dc5322a",
+      "title": "マイオドレ！舞舞タイム",
+      "artist": "キノシタ",
+      "isrc": "JPVI02002128",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/245o74jaAOpV3vNWzYX4Oa",
+      "isFallback": true
+    },
+    {
+      "id": "40c27298-039b-453a-93f4-c05ad837fa1f",
+      "title": "スターリースカイ☆パレード",
+      "artist": "キノシタ",
+      "isrc": "JPE562010347",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/2BTZKBmwdo0Q9qtc1RfAzo",
+      "isFallback": true
+    },
+    {
+      "id": "b8b82894-e52b-47de-94cf-c035a1160128",
+      "title": "イイカンジ!!",
+      "artist": "流石乃ルキ／流石乃ロキ",
+      "isrc": "JPR501926358",
+      "releaseDate": "2019-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/6NnKjikO6Rud6YIBFwVSRb",
+      "isFallback": true
+    },
+    {
+      "id": "9dfd7603-96bf-4c05-806f-3a741a9b327b",
+      "title": "e☆Jump!→Dream!!",
+      "artist": "えのぐ",
+      "isrc": "JPX261900062",
+      "releaseDate": "2020-06-28",
+      "spotifyUrl": "https://open.spotify.com/track/06qmdDX8YU7h0QWRpaL2Qm",
+      "isFallback": false
+    },
+    {
+      "id": "dc4d4cc9-ccc9-402f-9356-bfe23b680f6e",
+      "title": "Glory Steady Go!",
+      "artist": "ワンダーランズ×ショウタイム",
+      "isrc": "JPX302240630",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/1nWlofzYnQ2vs7LTd8Y77o",
+      "isFallback": true
+    },
+    {
+      "id": "8ca2c8be-8168-48ba-b20c-afd78a137017",
+      "title": "マイネームイズエリート☆",
+      "artist": "さくらみこ",
+      "isrc": "JPV752205405",
+      "releaseDate": "2021-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/4b17n5DftDpNlqZ69hoN8l",
+      "isFallback": true
+    },
+    {
+      "id": "f9ac3f43-53ca-4008-bd9b-7581c5ce7268",
+      "title": "きゅんきゅんみこきゅんきゅん♡",
+      "artist": "さくらみこ",
+      "isrc": "JPV752408327",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/4Q9ANPcdPxpZfNd0zddE3l",
+      "isFallback": true
+    },
+    {
+      "id": "6dbb674b-c0af-4b55-b30b-ce3857beec93",
+      "title": "ブレイブリーダンス",
+      "artist": "アーリオ・オーリオ・エ・ペペロンチーノ",
+      "isrc": "JPU902404271",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/47DQ0ENpHHxNMBBc7Eq68D",
+      "isFallback": true
+    },
+    {
+      "id": "9e38bd7c-831e-4503-9b70-ffe86234ab8e",
+      "title": "テルミーアンサー",
+      "artist": "キノシタ",
+      "isrc": "JP92Q2301543",
+      "releaseDate": "2023-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7hOWkW9rftSTBKHSJpJTCz",
+      "isFallback": true
+    },
+    {
+      "id": "e0bc9406-8f02-4f23-a5a7-5cf2c35169bb",
+      "title": "Dream☆Story",
+      "artist": "ときのそら",
+      "isrc": "JPVI01900522",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/5cNX1K6xEkEvA66SXGSoJP",
+      "isFallback": true
+    },
+    {
+      "id": "468f4832-53cd-44fc-a0a4-6cd1808f30ea",
+      "title": "Be The MUSIC!",
+      "artist": "「All Music MIKUdemy」一同",
+      "isrc": "JPX302352620",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/3U0uXsxt0F4hRa2Icr5Qvo",
+      "isFallback": true
+    },
+    {
+      "id": "8a8c846f-5003-4ffa-976b-d603546ff39d",
+      "title": "Original Color Girls!!!!",
+      "artist": "えのぐ",
+      "isrc": "JPX262000071",
+      "releaseDate": "2020-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/0jEVRvDVs3xOD8q4w4mQQd",
+      "isFallback": false
+    },
+    {
+      "id": "fc8f344b-1a8d-4444-8782-48279c9689c2",
+      "title": "ワックワクがとまらない!",
+      "artist": "スゥシィ・エルネア・オルトリンデ",
+      "isrc": "JPC231700248",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/1mP2pt1WsRbOcUA1k2BWxC",
+      "isFallback": true
+    },
+    {
+      "id": "bfb3e00d-7b18-474d-bc10-d864285a7743",
+      "title": "ポッピンキャンディ☆フィーバー！",
+      "artist": "キノシタ",
+      "isrc": "JPE562010282",
+      "releaseDate": "2018-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/79IJsjFVAvDVgk1tooBwtS",
+      "isFallback": true
+    },
+    {
+      "id": "0e09137f-0bb8-4b1c-aa1e-f342316445d7",
+      "title": "I LOVE MEでいられるように",
+      "artist": "ナナヲアカリ",
+      "isrc": "JPU902400169",
+      "releaseDate": "2024-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/4pXbAglLeVpxeCsg1bVYcj",
+      "isFallback": false
+    },
+    {
+      "id": "1340df3e-1dad-43b7-9e80-285494d71cfd",
+      "title": "はちゃめちゃParty Days!",
+      "artist": "ラブリコット",
+      "isrc": "TCJPH1857182",
+      "releaseDate": "2018-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/3ymGxIGeOZndj4YNJyDEzF",
+      "isFallback": false
+    },
+    {
+      "id": "afce3dc1-3761-435a-a001-0f44f1da5d8f",
+      "title": "ケンカするほど仲がいい！？",
+      "artist": "キノシタ",
+      "isrc": "",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

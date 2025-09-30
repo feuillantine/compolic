@@ -1,0 +1,60 @@
+{
+  "name": "filmiiz",
+  "sortName": "フィルミーズ",
+  "tracks": [
+    {
+      "id": "a0e0b499-5245-4c22-b48f-7e4eb66f620c",
+      "title": "Dreamin' of who",
+      "artist": "filmiiz",
+      "isrc": "TCJPV2369376",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/4RuAZUYCo9sOz2IfmPaSi9",
+      "isFallback": false
+    },
+    {
+      "id": "8ed818df-b733-4c85-ade8-9a1ebab8a111",
+      "title": "Bluetiful",
+      "artist": "紡音れい",
+      "isrc": "TCJPN2003271",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/361UseHXcAvsT68NQbR9Af",
+      "isFallback": true
+    },
+    {
+      "id": "c765f2d5-ac16-43cc-b26e-27789f486917",
+      "title": "泡沫の",
+      "artist": "filmiiz",
+      "isrc": "TCJPV2367547",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/7256PzinagplGvBh8HBsYC",
+      "isFallback": false
+    },
+    {
+      "id": "1160bebc-544b-460b-b857-3cc1e9b7331f",
+      "title": "幸せフィルター",
+      "artist": "音影カナ",
+      "isrc": "TCJPV2319582",
+      "releaseDate": "2022-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/42eEUcCZWyUyuJmYB0hfTl",
+      "isFallback": true
+    },
+    {
+      "id": "19bfaf9c-1481-4d94-8fe6-3f3da9fefea6",
+      "title": "Dear me",
+      "artist": "紡音れい",
+      "isrc": "TCJPQ2121860",
+      "releaseDate": "2021-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/6Ev2VjP5KHkECIiZiLvDOr",
+      "isFallback": true
+    },
+    {
+      "id": "0139d9cb-34f6-4769-b32e-dbbdd1133e0c",
+      "title": "紙ヒコーキガール",
+      "artist": "ChumuNote",
+      "isrc": "TCJPX2353430",
+      "releaseDate": "2023-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/534encGg0Qw7MP51RWwIMS",
+      "isFallback": false
+    }
+  ]
+}

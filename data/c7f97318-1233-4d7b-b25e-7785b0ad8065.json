@@ -1,0 +1,564 @@
+{
+  "name": "瀬尾祥太郎",
+  "sortName": "セオショウタロウ",
+  "tracks": [
+    {
+      "id": "d1b21eef-31f0-4561-9976-18671de119a4",
+      "title": "Kagerō - 陽炎",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300764",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/1Q5zcSeaXp4S2pk8CDTkFP",
+      "isFallback": true
+    },
+    {
+      "id": "87c1e2f7-ad6b-4a6d-b8d4-f8f766a1418c",
+      "title": "オンリー・マイ・フレンド",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002868",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/6xyvJ9GDfaRs0yIuQdxLxF",
+      "isFallback": true
+    },
+    {
+      "id": "418990e1-27ae-4ad5-a6cf-e25e934de05a",
+      "title": "帰りたい場所",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201114",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5pKBtFG2t6ITW4EmIEIVxr",
+      "isFallback": false
+    },
+    {
+      "id": "e30cd252-e37c-4f5b-9a49-c9e5ac2cab68",
+      "title": "夏色DROPS",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602102318",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2Sd2fIfVHszcluV2bV0Z4R",
+      "isFallback": false
+    },
+    {
+      "id": "69a09329-cc67-4772-87ce-021e8b66c38c",
+      "title": "長いお別れ",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201015",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/1ROGNbEsGsGHoQV9LGy6Mc",
+      "isFallback": false
+    },
+    {
+      "id": "7ebad36d-f16d-4a7d-ab7a-d97a0b20363c",
+      "title": "Memento Vivere",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842400029",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/5OQDd6OZR5NMmXsbAKwUx1",
+      "isFallback": true
+    },
+    {
+      "id": "c6973f0e-cea1-4fe4-89f1-a8b043fd0bf8",
+      "title": "未来への道しるべ",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201106",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/3in4wfYfcpUNmKxFGFO1G0",
+      "isFallback": false
+    },
+    {
+      "id": "7d457613-d0b3-4371-b83c-97d87e88af9d",
+      "title": "起源へと還る道",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201107",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5SkwYwzNFTFxxzcufjI0HS",
+      "isFallback": false
+    },
+    {
+      "id": "9ca60bd4-42c3-4315-ab69-5c815b5cf063",
+      "title": "Tear-Gazer",
+      "artist": "博衣こより",
+      "isrc": "JPV752307953",
+      "releaseDate": "2023-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/110odvQ6YbhfNcaWPL9Je7",
+      "isFallback": false
+    },
+    {
+      "id": "35bfb49e-af0d-4cb5-a271-d0e7532c9323",
+      "title": "Hajimari - 始マリ",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842100077",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/2WE3hvQjYxfQ2hFEqy7Uap",
+      "isFallback": true
+    },
+    {
+      "id": "0cb6ab50-da0a-4b40-b7d6-20694e8dd92b",
+      "title": "イルミナージュ・ランド",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT552000370",
+      "releaseDate": "2020-05-20",
+      "spotifyUrl": "https://open.spotify.com/track/28hF0hvhly5YAyC8dAcLG8",
+      "isFallback": true
+    },
+    {
+      "id": "7e647a39-6443-4e42-ab1c-38b707b3af13",
+      "title": "Tōriame - 通リ雨",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842100082",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/39ASCHMgQibgbF2jn8khx7",
+      "isFallback": true
+    },
+    {
+      "id": "2114ce38-6604-44aa-899e-ed001072fa07",
+      "title": "約束ハニビー",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602304815",
+      "releaseDate": "2023-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/22vH33izlj1HMRXHfGZPCK",
+      "isFallback": false
+    },
+    {
+      "id": "e819705a-b9ce-44bc-b5dc-0a2bebdedfb3",
+      "title": "Dustin’",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842400018",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/1tuuVhBLQM8xX0DUpW8Hfz",
+      "isFallback": true
+    },
+    {
+      "id": "56f292c7-8240-4bf7-b791-d9d6d069c025",
+      "title": "ソウル・マトリクス",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201002",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7GUyKvMEyxnHTLiK3JuSSt",
+      "isFallback": false
+    },
+    {
+      "id": "7525d12c-42a7-4f11-826f-bdb5a615e9be",
+      "title": "アクシス",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652201001",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6qlxPbCToSUbir7jUzzMs3",
+      "isFallback": false
+    },
+    {
+      "id": "b67e8b96-c32b-4e03-83c4-fc9384346b9d",
+      "title": "チアリータ♡チアガール",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602203218",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/70sWrQsU1JUxIo8k8ie3ld",
+      "isFallback": false
+    },
+    {
+      "id": "671f273d-bf90-4e63-9e45-e117c133c254",
+      "title": "トワノユメ",
+      "artist": "カラス",
+      "isrc": "JPA842301437",
+      "releaseDate": "2023-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/4yGF5GMlSvRrtAnglQ7ZxU",
+      "isFallback": true
+    },
+    {
+      "id": "134b8e8e-73db-4e6d-bab1-245a18565031",
+      "title": "Madoromi - 微睡",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300754",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/3ZHdbwHyA4sZfLy0nqaRhJ",
+      "isFallback": true
+    },
+    {
+      "id": "adc6643d-2bf2-4ee4-a8a2-4831275894ff",
+      "title": "Mama no Otsukai - ママノオツカイ",
+      "artist": "岡部啓一",
+      "isrc": "JPA842300768",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/2U3SuNZMZFoiqgwfaH7Sk6",
+      "isFallback": true
+    },
+    {
+      "id": "a7ccd6e8-8a25-4d8f-b4e0-40371d4a0733",
+      "title": "辞世的幻想曲",
+      "artist": "fulfill",
+      "isrc": "JPB602303801",
+      "releaseDate": "2023-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/6KsWATyQKKKwd7g67aM7tI",
+      "isFallback": false
+    },
+    {
+      "id": "0725386e-fe62-45fa-895e-5158633c5758",
+      "title": "Yellow Big Bang!",
+      "artist": "初星学園",
+      "isrc": "JPX832004732",
+      "releaseDate": "2024-06-11",
+      "spotifyUrl": "https://open.spotify.com/track/4X3AC1xSrNQhfKIWG2iI4X",
+      "isFallback": true
+    },
+    {
+      "id": "9bf4c39b-4ad4-4c57-8ee3-1e54dd7967f0",
+      "title": "Pop!",
+      "artist": "Robert Wilson",
+      "isrc": "JPA842400004",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/2IVcHEpjZ2ItBSu0ZP2xAj",
+      "isFallback": true
+    },
+    {
+      "id": "405d75e7-4a60-41c5-8282-f3c9852061a5",
+      "title": "Sekiryō - 寂寥",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300763",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/2xG44JPDGZUNR98FkOw63o",
+      "isFallback": true
+    },
+    {
+      "id": "2750974a-9901-4fdf-9de0-55dc0db050ee",
+      "title": "メッセージ",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002866",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0R22KRIUpqbhX80y9YSyYd",
+      "isFallback": true
+    },
+    {
+      "id": "dc4b2a51-7776-48cb-80fb-427631b604ff",
+      "title": "しゃかりきマイライフ！",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002867",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/12lYbPEdSV11Tx6xTdnpPG",
+      "isFallback": true
+    },
+    {
+      "id": "a54a9b4f-1c0a-467d-a3f1-0dcf2ad09767",
+      "title": "追憶のフラグメント",
+      "artist": "NAHO",
+      "isrc": "JPK652201116",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5CXbQxYAfgl6ND4RqnbvgI",
+      "isFallback": false
+    },
+    {
+      "id": "db7e23f9-75c6-4e58-b593-491ed9e07ea8",
+      "title": "High on Life",
+      "artist": "J’Nique Nicole",
+      "isrc": "JPA842400007",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3wW7QjzwslxsmoMxH5NYGz",
+      "isFallback": true
+    },
+    {
+      "id": "3e0edfd9-4697-45bc-8aa4-b74163df49f6",
+      "title": "夢を追い駆ける者たちへ",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602303954",
+      "releaseDate": "2023-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/4yfA7W9EuasNirKJ72T2rw",
+      "isFallback": false
+    },
+    {
+      "id": "6a89ff10-8db3-46ca-8236-e3d396ac0666",
+      "title": "Sōheki - 双璧",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300760",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/7c3EKT1IRJvu4yFlKntYR4",
+      "isFallback": true
+    },
+    {
+      "id": "3716d57b-ff65-4915-a428-fdc1ce7726ab",
+      "title": "回転木馬とワルツ -トワツガイ-",
+      "artist": "エナガ",
+      "isrc": "",
+      "releaseDate": "2024-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/5r8EY0ACut7Typ6BoUkPOp",
+      "isFallback": false
+    },
+    {
+      "id": "cd072a1e-8cfc-469c-989a-1416900eb28e",
+      "title": "STARRY REPORT",
+      "artist": "平山笑美",
+      "isrc": "JPG642008007",
+      "releaseDate": "2022-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/5hg4QQvL9aqf2vgdhmd80N",
+      "isFallback": false
+    },
+    {
+      "id": "d0f20577-53ef-4a73-b459-407bd18ad2ed",
+      "title": "Vitamin U",
+      "artist": "Eric Fukusaki",
+      "isrc": "JPA842400024",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/481YKa2iFBrnT0CsIUQVqO",
+      "isFallback": true
+    },
+    {
+      "id": "ab4730af-e0ff-4a5c-8174-8633edd09cc0",
+      "title": "Endless Dreamer",
+      "artist": "平山笑美",
+      "isrc": "JPG642008001",
+      "releaseDate": "2022-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/3bPR0swJA0JP76qTIRL6qQ",
+      "isFallback": false
+    },
+    {
+      "id": "5bad61a7-1c14-435a-9cc1-ced42021718f",
+      "title": "Shūu - 驟雨",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300766",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/4Il45hNde1VZIttj5a7mOK",
+      "isFallback": true
+    },
+    {
+      "id": "a45f1d10-e9f2-4cc2-bbb6-722f22502434",
+      "title": "メロウ",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002862",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/1aLu4N4Wpb65h2SnJ4RsKF",
+      "isFallback": true
+    },
+    {
+      "id": "f19472a6-62e8-481c-ac13-ff4069b8387c",
+      "title": "Omokage - 面影",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842100092",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/2j9pfQ3dElfuhC1NPjikB1",
+      "isFallback": true
+    },
+    {
+      "id": "ab864b8b-7e3f-47ee-b36d-db72305087f8",
+      "title": "Vida Limpa",
+      "artist": "折田雪乃",
+      "isrc": "JPA842400020",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/1tU67xj1EuLzKVzbJ9gXkq",
+      "isFallback": true
+    },
+    {
+      "id": "53aa484c-af9a-49b5-8c12-5595b670c4c9",
+      "title": "ゴールデンスパイス",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002859",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/72SCfshOX2x8bsnBYmfVXl",
+      "isFallback": true
+    },
+    {
+      "id": "91a22a2d-a454-44ea-a01a-9e6c264ddbfc",
+      "title": "人の世界の終わり",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652200916",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7H9KEX9IS7wznthjAkFQaT",
+      "isFallback": false
+    },
+    {
+      "id": "efe77b82-0041-48d6-b0da-7e13743b1e97",
+      "title": "T.G.I.YAY",
+      "artist": "Eric Fukusaki",
+      "isrc": "JPA842400038",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/40E0QZZGmp1HRo2xqmcJrV",
+      "isFallback": true
+    },
+    {
+      "id": "c602eb1a-bef9-4cc4-95c7-051b2285a04d",
+      "title": "Hoshi no Mebuki - 星ノ芽吹キ",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842100087",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/1xM7o60gnAhBJfiy9Lx3vB",
+      "isFallback": true
+    },
+    {
+      "id": "274877be-7a4a-4668-b59f-dba89de9ab7b",
+      "title": "フライング・ハイ！",
+      "artist": "平山笑美",
+      "isrc": "JPR502302736",
+      "releaseDate": "2019-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/3a2xdgrm7riQM9nVuEpz9V",
+      "isFallback": false
+    },
+    {
+      "id": "a7f622ad-c879-4f60-bc30-1585e061b992",
+      "title": "ときめきドリームライン",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002858",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/1ClUj0gFgPq8OC61IyVuxv",
+      "isFallback": true
+    },
+    {
+      "id": "30b67b0b-6594-4bc3-86d8-90e95423f5fe",
+      "title": "TRAVEL RIBBON",
+      "artist": "るか",
+      "isrc": "JPI102203181",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/6bgwlVOZqbrRdmw1s4F7Lf",
+      "isFallback": false
+    },
+    {
+      "id": "e3fab605-a01b-4a98-a177-9ea1100d6c75",
+      "title": "DESIGNED LOVE",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002864",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/00WUSayWx6opN67L0D9ghI",
+      "isFallback": true
+    },
+    {
+      "id": "fdb4ee99-d68f-4e6d-a950-8141df896ddb",
+      "title": "Sajin - 砂塵",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300765",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/72OQYP11uHixD6vlaZrgJN",
+      "isFallback": true
+    },
+    {
+      "id": "7bf1dbca-d200-4d7b-b052-a88dcc100ed6",
+      "title": "リコリス",
+      "artist": "瀬尾祥太郎",
+      "isrc": "",
+      "releaseDate": "2018-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7af5a282-3b1b-4cb7-905a-5d61358b9e24",
+      "title": "Unei no Tsubomi - 雲翳ノ蕾",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300761",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/0ACuFmjavn3ETbv2nQ7g0L",
+      "isFallback": true
+    },
+    {
+      "id": "40e45c1c-48cb-4918-9092-bf38d7fa057f",
+      "title": "凛と舞いましはんなり小町",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602203219",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/42MBDOH36l1Z6cEbS7P2YU",
+      "isFallback": false
+    },
+    {
+      "id": "78114c2f-a29e-410a-a5c0-f4a700ca1f3b",
+      "title": "Komorebi - 木漏レ日",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842300752",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/0OJFZ6JFrGgBrYaqeBXJK4",
+      "isFallback": true
+    },
+    {
+      "id": "eadd5f93-bbaf-43b8-a5f2-bf8d99f80ec0",
+      "title": "Spin Cycle",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842400034",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3MMbYSe5s1pSJDkYwAnbWg",
+      "isFallback": true
+    },
+    {
+      "id": "6331a3ec-4c25-40ac-b812-b0525a3046a5",
+      "title": "デラマンチャ",
+      "artist": "瀬尾祥太郎 (MONACA)",
+      "isrc": "JPK652200921",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2OZ00B2DGPhTluspyVZ74d",
+      "isFallback": false
+    },
+    {
+      "id": "418d6793-f3b2-4c99-8737-3e6c6d72d297",
+      "title": "プリンセス・フィロソフィー",
+      "artist": "ERINGIBEAM.",
+      "isrc": "JPB602303793",
+      "releaseDate": "2023-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/2DnfK7b9w4oSRbOPNY57ZC",
+      "isFallback": false
+    },
+    {
+      "id": "02e6cd8b-0365-4578-a0f8-cbfc7f3c8ce4",
+      "title": "少女聖戦パラドクス",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002861",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/422sKpnsVMqlxog8xo1YMm",
+      "isFallback": true
+    },
+    {
+      "id": "a3121638-882a-46fa-b9ab-d0a7484d6cf9",
+      "title": "形而境界のモノローグ",
+      "artist": "GEMS COMPANY",
+      "isrc": "JPB602002865",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/5IusybSe9oLIyL9zXtYTW0",
+      "isFallback": true
+    },
+    {
+      "id": "8c275ef8-e0c8-4116-a443-4d493907ac89",
+      "title": "窓辺の灯り",
+      "artist": "瀬尾祥太郎",
+      "isrc": "",
+      "releaseDate": "2018-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d3e26fd-b658-4e19-a8c3-099c27dfb883",
+      "title": "Go! Up! スターダム!",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT551800773",
+      "releaseDate": "2018-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/4nhUmraGjDRkJB3Zk16o6e",
+      "isFallback": true
+    },
+    {
+      "id": "58e305e1-6f63-42b8-a75d-f2862b243c5f",
+      "title": "Ring‐a‐Ding‐Ding",
+      "artist": "blackcatpopo",
+      "isrc": "JPA842400006",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/0C1fL7CCHPwT4qvLBTSxuN",
+      "isFallback": true
+    },
+    {
+      "id": "3907a691-36c3-4545-809d-7daf115f4c86",
+      "title": "I’ll Be There",
+      "artist": "LIV LI",
+      "isrc": "JPA842400037",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/42gt9NGYYb06aSr1jyvhR6",
+      "isFallback": true
+    },
+    {
+      "id": "a6ad6ea2-3da1-44ef-84b2-c09faef61ca1",
+      "title": "Sabigoe - 寂声",
+      "artist": "瀬尾祥太郎",
+      "isrc": "JPA842100088",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/3mODyo52HuvtzW7UQuJVaI",
+      "isFallback": true
+    },
+    {
+      "id": "4420f7f6-4ba3-4ce2-a32e-075b97b0a340",
+      "title": "風よ風よと胸の内",
+      "artist": "風巻祭里♀",
+      "isrc": "JPE302300701",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/14CYExmTf5sxjr84q11o37",
+      "isFallback": true
+    }
+  ]
+}

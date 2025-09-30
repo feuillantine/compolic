@@ -1,0 +1,366 @@
+{
+  "name": "hisakuni",
+  "sortName": "ヒサクニ",
+  "tracks": [
+    {
+      "id": "facd7a42-52ea-44f4-8d35-d3e278d9a499",
+      "title": "ふたつのことば",
+      "artist": "MADKID",
+      "isrc": "JPCO02405700",
+      "releaseDate": "2024-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/5JjSALkZI3GbVsxtGXXU2B",
+      "isFallback": true
+    },
+    {
+      "id": "ee14580c-041b-46a9-ade9-29d6a4206feb",
+      "title": "Oh my love",
+      "artist": "hisakuni",
+      "isrc": "JPR502035354",
+      "releaseDate": "2020-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/4JboxXFu8x4KQ2a5tW0Rqu",
+      "isFallback": true
+    },
+    {
+      "id": "cf2458b0-4bc9-409d-bc1e-46bccbbeb7c3",
+      "title": "with you",
+      "artist": "内田彩",
+      "isrc": "JPS231300097",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/6h0rn3ksRNl6NX7E37Zr44",
+      "isFallback": true
+    },
+    {
+      "id": "ec573af4-9c8c-4edc-a1d6-14288ece9845",
+      "title": "ライバルをLOCK ON！",
+      "artist": "バクステ外神田一丁目",
+      "isrc": "JPWP01371034",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/2JkoLLLbHXLpo6J7d4UZqf",
+      "isFallback": true
+    },
+    {
+      "id": "4abcc9d1-91ea-4062-9163-595df446cf84",
+      "title": "絶望アンバランス",
+      "artist": "内田彩",
+      "isrc": "JPS231300134",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/5cxLm4Mpz8Yy08GRt6HfLe",
+      "isFallback": true
+    },
+    {
+      "id": "1fe36699-4dd8-4635-a985-ca403550cae5",
+      "title": "Baby, My First Kiss",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01607920",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6gk9ruEgd6cwFHL9mVu1Rp",
+      "isFallback": true
+    },
+    {
+      "id": "b7fa8694-ccfe-4f2a-979b-e7d08cd504b2",
+      "title": "Canary Yellow",
+      "artist": "内田彩",
+      "isrc": "JPCO02124300",
+      "releaseDate": "2021-11-10",
+      "spotifyUrl": "https://open.spotify.com/track/6lCN8f3K5jKjAHy8cenkxb",
+      "isFallback": false
+    },
+    {
+      "id": "33e40f2a-ca87-4297-8863-0d812d6536c7",
+      "title": "Flavored hug",
+      "artist": "高野麻里佳",
+      "isrc": "JPCO02134740",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/48UkPsa6llgIlxu3NyyBkx",
+      "isFallback": true
+    },
+    {
+      "id": "2ced2274-4651-42ae-9e99-fd5abf27c260",
+      "title": "Break down",
+      "artist": "悠木碧",
+      "isrc": "JPCO01930910",
+      "releaseDate": "2020-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/4beV0qYfRrPvXr4mUu3pcg",
+      "isFallback": true
+    },
+    {
+      "id": "e5d237fb-d94a-41d2-a7fd-57991198811c",
+      "title": "Everlasting Parade",
+      "artist": "内田彩",
+      "isrc": "JPS231600037",
+      "releaseDate": "2016-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/35GuEJGsNqDmhcIkuv9Yc1",
+      "isFallback": true
+    },
+    {
+      "id": "837c3093-ce78-4e12-955a-2f3f64e182b7",
+      "title": "ウェイク・アップ・ダンス",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902101822",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/7aTFbG56J5fxckEWrIasvl",
+      "isFallback": false
+    },
+    {
+      "id": "65ea4303-35f0-40c9-b205-8e8ae9e95921",
+      "title": "Flowery",
+      "artist": "青山吉能",
+      "isrc": "JPTE02400430",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/10iF6X1YlXEHVInVLxaI3r",
+      "isFallback": false
+    },
+    {
+      "id": "11e33706-44cc-4e7b-921f-ea2901369359",
+      "title": "クリームソーダとエンドロール",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01639720",
+      "releaseDate": "2017-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/4JLC7BoY8PLSamhRpReYEE",
+      "isFallback": true
+    },
+    {
+      "id": "f5bd4920-a83d-4d30-97ef-034f1cb99507",
+      "title": "ナイショの接待ゴルフ",
+      "artist": "S★スパイシー",
+      "isrc": "JPR651400088",
+      "releaseDate": "2014-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/0DZQAYz9LLMUpbCQyQWv21",
+      "isFallback": true
+    },
+    {
+      "id": "438d1b90-4773-4419-be15-4f6c7446378e",
+      "title": "DECORATE",
+      "artist": "内田彩",
+      "isrc": "JPCO01927160",
+      "releaseDate": "2019-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/0Qx1gKQTXU9agFV0rjoOam",
+      "isFallback": true
+    },
+    {
+      "id": "2493b61f-b7ca-464d-901f-3bf1082ae4be",
+      "title": "Yellow Sweet",
+      "artist": "内田彩",
+      "isrc": "JPS231700022",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/51BMgXqqqQ5xRSdMDTOE9H",
+      "isFallback": true
+    },
+    {
+      "id": "4bd4c3a1-7a79-4c59-98ab-97a2d0b087cb",
+      "title": "Absolute NIne",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS!!",
+      "isrc": "JPCO01525220",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ccc2e906-d52b-4889-be7a-8e2dadbb8b9b",
+      "title": "Floating Heart",
+      "artist": "内田彩",
+      "isrc": "JPS231300123",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/7BRKnlwA3yWXuxpN8krJ1u",
+      "isFallback": true
+    },
+    {
+      "id": "475220be-63bb-44cf-aaaa-115b943435ce",
+      "title": "過惰幻",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400285",
+      "releaseDate": "2024-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/7EJMcPny2wB3Loh0OQ8XaR",
+      "isFallback": true
+    },
+    {
+      "id": "25bb5361-843c-42c6-b960-9e27ba2661fd",
+      "title": "トンでもSUMMER ADVENTURE [Extra Drop Mix]",
+      "artist": "ドレッシングふらわー",
+      "isrc": "JPT551700490",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/2ZIzup7FNv5yMXcXZs3N11",
+      "isFallback": true
+    },
+    {
+      "id": "63005be4-ffe4-42b4-bfe2-8639f45502a3",
+      "title": "ReCoda",
+      "artist": "TRUE",
+      "isrc": "JPI102302817",
+      "releaseDate": "2024-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/4ZGmiLKniLBHN1HF3wG0lj",
+      "isFallback": true
+    },
+    {
+      "id": "0184a003-2d2f-40ad-a8c9-466c8bd10fa0",
+      "title": "Elder flower",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02136260",
+      "releaseDate": "2021-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/4V9jVUf1Tus0Oh2PH7wyRO",
+      "isFallback": false
+    },
+    {
+      "id": "26083dac-7b3e-4d3d-a200-f054617ed4d6",
+      "title": "声",
+      "artist": "内田彩",
+      "isrc": "JPCO02001970",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/1LGsb4xCUQsKDcVIIFA7pd",
+      "isFallback": false
+    },
+    {
+      "id": "b8ef1667-5bd2-49fa-8345-996e1dd336cd",
+      "title": "I Don't Even Know...",
+      "artist": "亜咲花",
+      "isrc": "JPK632402003",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2yxgw3QFaLqd4lAhbTxA2b",
+      "isFallback": true
+    },
+    {
+      "id": "cea0b2b5-9383-4ca7-8468-6376aa8fca72",
+      "title": "Orange Flamingo",
+      "artist": "十王院カケル",
+      "isrc": "JPT551900704",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/6FOvn1wbWEXS4tlDjWaKaw",
+      "isFallback": true
+    },
+    {
+      "id": "61f8e449-7aae-4d7d-91f4-66140a6431a6",
+      "title": "放課後のデカダンス",
+      "artist": "近藤玲奈",
+      "isrc": "JPCO02122870",
+      "releaseDate": "2021-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/0FUsUWctuUKo9I8nrDQ8R1",
+      "isFallback": true
+    },
+    {
+      "id": "d838546d-ea18-4577-80a1-a98dad90feaa",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400027",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/0SVVKUSULjtBuAsQ2SnsfD",
+      "isFallback": true
+    },
+    {
+      "id": "489b02fa-4eb6-4465-a584-19dc90b8b891",
+      "title": "Pale Blue",
+      "artist": "内田彩",
+      "isrc": "JPCO02112060",
+      "releaseDate": "2021-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/0zIcrh9GdCwGows2I6THF4",
+      "isFallback": false
+    },
+    {
+      "id": "8212eceb-e975-4665-8a5d-4dfdae3f3ff4",
+      "title": "Pistachio",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01918460",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4EJdVWXcaZDZOWzmv9A6pZ",
+      "isFallback": true
+    },
+    {
+      "id": "7edafd95-efa9-4ec0-af8f-b4de2e38c570",
+      "title": "かりすま〜とGIRL☆Yeah!",
+      "artist": "TRiANGLE",
+      "isrc": "JPT551600940",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/0lwJrx05HPwOmaJwU1OM7k",
+      "isFallback": true
+    },
+    {
+      "id": "1b919694-c817-44c1-ad19-a5e4190a8a2d",
+      "title": "Colorful Parade",
+      "artist": "新田恵海",
+      "isrc": "JPR561700297",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/511ZjISkU9S4eP3H5YFuaO",
+      "isFallback": true
+    },
+    {
+      "id": "479c971e-52df-4f55-acae-504b228f1ce2",
+      "title": "My Tale",
+      "artist": "青山吉能",
+      "isrc": "JPTE02207460",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/4qFgnFwVmOmuf1DHlT84uv",
+      "isFallback": false
+    },
+    {
+      "id": "b44afe4c-bb38-41fe-b898-00bdce5edc25",
+      "title": "ジュピターラプソディー",
+      "artist": "ピュアリーモンスター",
+      "isrc": "JPK632204102",
+      "releaseDate": "2022-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/75OkMxJEdswVHtvTCkMqfa",
+      "isFallback": true
+    },
+    {
+      "id": "d8c4b812-f17b-420e-9096-7cb4aca5da6e",
+      "title": "帰る場所があるということ",
+      "artist": "悠木碧",
+      "isrc": "JPCO01806700",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/2a38rhutIKLK2ro0CWOgDE",
+      "isFallback": true
+    },
+    {
+      "id": "d8e293b0-2a92-461e-8458-38c6c5692896",
+      "title": "笑顔のパスポート",
+      "artist": "武笠美姫",
+      "isrc": "JPCO01924690",
+      "releaseDate": "2019-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/3cScLSeO7pGgn5T7tOkvz3",
+      "isFallback": true
+    },
+    {
+      "id": "11e01e04-bd7a-463a-9dce-eb5b15f8adb9",
+      "title": "壱雫空",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562300271",
+      "releaseDate": "2023-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/1OVlUHWAK5KwWkWoLyMDjZ",
+      "isFallback": false
+    },
+    {
+      "id": "f1a4e847-1931-4132-8da1-2f0c33993571",
+      "title": "恋をしてもいいですか",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902203003",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2AGH7trAQai6NJHzD65dGB",
+      "isFallback": false
+    },
+    {
+      "id": "9f262a8c-e904-49da-8851-084ec578be1e",
+      "title": "なんで?",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902002039",
+      "releaseDate": "2020-09-23",
+      "spotifyUrl": "https://open.spotify.com/track/7gUtneouCj7bCArtnuFpAI",
+      "isFallback": false
+    },
+    {
+      "id": "9be03a95-0301-44c0-8d91-ae89639eca9f",
+      "title": "ぐんまちゃん えかきうた",
+      "artist": "内田彩",
+      "isrc": "JPCO02100950",
+      "releaseDate": "2021-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/0RnXPcEmywAioYVQ9gy3ay",
+      "isFallback": false
+    },
+    {
+      "id": "897d31a4-2c6c-4918-8f22-d5289a572db7",
+      "title": "カレイドスコープロンド",
+      "artist": "内田彩",
+      "isrc": "JPS231700027",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/5W564zaoINuREouXe5Z5VD",
+      "isFallback": true
+    }
+  ]
+}

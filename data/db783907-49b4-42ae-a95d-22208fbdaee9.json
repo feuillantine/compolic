@@ -1,0 +1,51 @@
+{
+  "name": "水口浩次",
+  "sortName": "ミズグチコウジ",
+  "tracks": [
+    {
+      "id": "015993c4-11ab-4d0d-ac99-2bcb7aa66af4",
+      "title": "カーテン",
+      "artist": "Machico",
+      "isrc": "JPCO01707090",
+      "releaseDate": "2017-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/0aj12TUh3LKvKAG4AGAQJZ",
+      "isFallback": true
+    },
+    {
+      "id": "c7422408-8348-4a20-806d-ba9c8f8b5ac7",
+      "title": "クローバー",
+      "artist": "坂本真綾",
+      "isrc": "JPVI02000676",
+      "releaseDate": "2020-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/6hVThNX3Z0TJJ67Bj6VW24",
+      "isFallback": true
+    },
+    {
+      "id": "79675356-e748-4c8a-8fbd-5a9981fb6cf5",
+      "title": "ワイズルーのグレイテストラストショータイム",
+      "artist": "ワイズルー",
+      "isrc": "JPCO01933860",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/1OJpwWvk3UfciqJdset3vi",
+      "isFallback": true
+    },
+    {
+      "id": "9e0d9012-85ba-49b3-9b66-2caf1be914ea",
+      "title": "Teardrop of Rain",
+      "artist": "麻生夏子",
+      "isrc": "JPI101000566",
+      "releaseDate": "2010-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/7pUINfruJUkbHjAd0GGoLO",
+      "isFallback": true
+    },
+    {
+      "id": "ee0011fb-3ecd-42d4-b9f4-0673b0af076b",
+      "title": "Moonlight",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01722820",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/6BgL1RibpH8vTWaF007OWU",
+      "isFallback": true
+    }
+  ]
+}

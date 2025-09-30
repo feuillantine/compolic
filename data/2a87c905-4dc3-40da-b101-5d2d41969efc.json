@@ -1,0 +1,711 @@
+{
+  "name": "大石昌良",
+  "sortName": "オオイシマサヨシ",
+  "otherNames": [
+    "オーイシマサヨシ"
+  ],
+  "tracks": [
+    {
+      "id": "d60e3e44-ed46-4b72-89a4-6467f3293d1b",
+      "title": "ギフト",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02213069",
+      "releaseDate": "2023-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/0LZJriNWC1Keg1llXfsCuL",
+      "isFallback": false
+    },
+    {
+      "id": "7cd53af0-028d-41ad-a1b1-1bc3dbae9b38",
+      "title": "5 soul MATE''S''",
+      "artist": "アイベヤ",
+      "isrc": "JPPC01402814",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4kxvOwxbHfOvghNYlawlEX",
+      "isFallback": true
+    },
+    {
+      "id": "ce317142-8946-40e8-97c2-cf0609ea78be",
+      "title": "ブラッドタイプ☆ハートビート",
+      "artist": "アース・スタードリーム",
+      "isrc": "JPZ921500815",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/3o4rU7AfHNzh1kAVq1VyYk",
+      "isFallback": true
+    },
+    {
+      "id": "a486cd76-0542-4693-b46a-d3e9f0e93ac9",
+      "title": "しあわせチャンピョン",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02211086",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/601bekRBqgiHSUHrcBcXAq",
+      "isFallback": true
+    },
+    {
+      "id": "dcea2154-288d-44d9-baa8-6ae31e34754e",
+      "title": "星色のカレイドスコープ",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402400087",
+      "releaseDate": "2024-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0WXs8PYQ2SHulEyiclN5OC",
+      "isFallback": true
+    },
+    {
+      "id": "eb87e5b9-8297-469b-aef1-3b41e4045071",
+      "title": "パワフルバディ",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02100744",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/57VdZY4inM2yo9Er4kvlvj",
+      "isFallback": true
+    },
+    {
+      "id": "5f9ea88d-080f-4962-a4f4-206e75b7bebd",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア",
+      "isrc": "JPD731600779",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/35SZLYobV2wFGbTSLo5vnP",
+      "isFallback": true
+    },
+    {
+      "id": "e93bf28d-61b7-4ed9-9da7-8e4c8eaf5a4f",
+      "title": "オトモダチフィルム",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPD731800246",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/1s4sRRnzMaQDvVyvKJ7b8t",
+      "isFallback": false
+    },
+    {
+      "id": "30d3b52c-54fd-465c-b416-62b820cd6d9c",
+      "title": "スーパーヒーロー",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901905480",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/5AxVT38NRKqkdJuHX8LzqY",
+      "isFallback": true
+    },
+    {
+      "id": "e6f30c4a-55be-43b1-b0cf-9530fd9cb706",
+      "title": "最強の推し！",
+      "artist": "鈴木愛理",
+      "isrc": "JPU902304022",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/13OncRZDd1JH5MPB1d5afI",
+      "isFallback": true
+    },
+    {
+      "id": "ff9e3040-1b49-4059-aa76-39631bfd0cd4",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ",
+      "isrc": "JPVI01638830",
+      "releaseDate": "2017-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0",
+      "isFallback": false
+    },
+    {
+      "id": "8dab665a-a748-4896-86dc-ccfb9016d10e",
+      "title": "ハッピーエンドプリンセス",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI02313588",
+      "releaseDate": "2023-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/0W3B6GWOkcCQ6gzfOr4bRo",
+      "isFallback": false
+    },
+    {
+      "id": "13544bd1-3351-4bc5-a299-b5c12be38665",
+      "title": "ワンダーランド・ア・ゴーゴー!!",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901905500",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/1NBDUXCwYFkTjqkB7jX4YH",
+      "isFallback": true
+    },
+    {
+      "id": "02cc4ed3-539a-403d-b47b-fb9f9a4ae081",
+      "title": "Nice to Me CHU!!!",
+      "artist": "鈴木このみ",
+      "isrc": "JPD731501209",
+      "releaseDate": "2015-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3r4abl65AMZpoanqHOBZGW",
+      "isFallback": true
+    },
+    {
+      "id": "ae686c0e-3a4f-4ade-be73-77bf47c55daf",
+      "title": "なまらめんこいギャル",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02410036",
+      "releaseDate": "2024-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/0rIt9yUhe7lEvwG5AF1V2u",
+      "isFallback": false
+    },
+    {
+      "id": "84ead815-fea2-498d-b02f-10105a9b5599",
+      "title": "ゴールデンアフタースクール",
+      "artist": "OxT",
+      "isrc": "JPPC01900154",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/5CoX3aCqEvdgYGUWHoui00",
+      "isFallback": true
+    },
+    {
+      "id": "15f92ceb-f452-4f28-ac0c-b44ff7dad92f",
+      "title": "シンガロン進化論",
+      "artist": "大橋彩香",
+      "isrc": "JPI101801414",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/47kJGOXCJZqgJhHhfpfODn",
+      "isFallback": true
+    },
+    {
+      "id": "7b6cc7ba-af31-4f8d-ac4c-10c84599405f",
+      "title": "BRAND NEW BLUE",
+      "artist": "沢村栄純",
+      "isrc": "JPPC01502924",
+      "releaseDate": "2016-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/3CMAPebUU39RXReWgqYIGZ",
+      "isFallback": true
+    },
+    {
+      "id": "a97433b7-1f6c-44b1-abfe-aeb2261db10f",
+      "title": "死んだ!",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02310656",
+      "releaseDate": "2023-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/27ikIyMTMQ2S0fVpYEI6Dw",
+      "isFallback": false
+    },
+    {
+      "id": "6c6d582a-d320-4eb1-b869-4be4bb92a807",
+      "title": "あはっててっぺんっ",
+      "artist": "May’n",
+      "isrc": "JPX742000157",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6yKSysGcSV75EW3tLq5E8d",
+      "isFallback": false
+    },
+    {
+      "id": "e27ec20e-a6d0-4ea5-9847-0aaebf07b5d5",
+      "title": "世界が君を必要とする時が来たんだ",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02000212",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/4zO9QdJrLK2s5f0xg9JiA9",
+      "isFallback": true
+    },
+    {
+      "id": "f7628b6a-555f-4629-9e11-a9b2f2ffcb5c",
+      "title": "異世界かるてっと",
+      "artist": "アインズ",
+      "isrc": "JPD731900169",
+      "releaseDate": "2019-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/0Phmrco0XpNxapHaVPakrp",
+      "isFallback": true
+    },
+    {
+      "id": "b10acea9-e0e5-4c3c-8e9d-be0d4fde79fd",
+      "title": "乗ってけ!ジャパリビート",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901905510",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/6hIcjuzT7H3vFf4OF8zRt2",
+      "isFallback": true
+    },
+    {
+      "id": "2cc2f8a8-4784-489b-8a09-3e0eba43c458",
+      "title": "ベイビーミュージックライダー",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901905490",
+      "releaseDate": "2019-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/5BW06v7MlvSSiJ8k8DB2VP",
+      "isFallback": true
+    },
+    {
+      "id": "610cbdf9-86ca-4778-b8b0-526844c4b5ef",
+      "title": "サヨナラから始まる物語",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402000062",
+      "releaseDate": "2020-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/4XfbtHUfXzBwRtC1vtQ9kz",
+      "isFallback": false
+    },
+    {
+      "id": "ec0cc505-4559-40e0-a03e-49306fe019bb",
+      "title": "Act! Addict! Actors!",
+      "artist": "A3ders!",
+      "isrc": "JPPC01902035",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7",
+      "isFallback": true
+    },
+    {
+      "id": "fdc36c5f-12d8-4c33-80d5-3231b2372a88",
+      "title": "ふたりキャンプ",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02510051",
+      "releaseDate": "2025-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/3LaeEs5Dgf0jRjvIh0BeGU",
+      "isFallback": true
+    },
+    {
+      "id": "0d163a91-f52b-4771-aa8b-c7d19d5f5ac8",
+      "title": "英雄の歌",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02000663",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/2V9vuPonpAqGzqCYXHT2ZW",
+      "isFallback": true
+    },
+    {
+      "id": "f8ee4d89-de8f-47a4-8fc4-5c265a61521c",
+      "title": "Ready!! Steady!! Derby!!",
+      "artist": "ジャングルポケット",
+      "isrc": "JPZ252400247",
+      "releaseDate": "2024-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/3kFUQwyd9JplDK5qHGEAaa",
+      "isFallback": true
+    },
+    {
+      "id": "7bc5b133-da59-4352-a358-2f81c379b7fc",
+      "title": "リングオブドランカー",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901706300",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/4BtL0nslk3J4uOCb6Pf3tV",
+      "isFallback": true
+    },
+    {
+      "id": "0a055ba7-e6c2-4f7e-b60d-011db40de5f0",
+      "title": "フィッシュストーリー",
+      "artist": "斉藤壮馬",
+      "isrc": "JPU901701207",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/1aMj170WHvrdDTtwbkHLdp",
+      "isFallback": true
+    },
+    {
+      "id": "6a5e53bc-0d7c-44d6-9124-28baaa8e7f53",
+      "title": "主人公になろう!",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02412713",
+      "releaseDate": "2025-01-03",
+      "spotifyUrl": "https://open.spotify.com/track/1fJn2HIlLL0ERGw5NIjb6R",
+      "isFallback": true
+    },
+    {
+      "id": "bb0f1150-7451-4ac2-b000-5ee841a4a271",
+      "title": "フレ！フレ！ベストフレンズ",
+      "artist": "どうぶつビスケッツ",
+      "isrc": "JPVI01743070",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/54URYrsQij0Qn2rULJRtdU",
+      "isFallback": true
+    },
+    {
+      "id": "90d8598c-d681-4ac9-9b18-c462983bc2c2",
+      "title": "Tears of a Genius(Ballad ver.)",
+      "artist": "OxT",
+      "isrc": "JPPC02001137",
+      "releaseDate": "2020-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/0I7TpRVc5aV3ZkLU4fdRWG",
+      "isFallback": true
+    },
+    {
+      "id": "a2d90fae-e20d-4168-a070-9a1aaf65c5b4",
+      "title": "ゴクドルミュージック",
+      "artist": "ゴクドルズ虹組",
+      "isrc": "JPPO01803368",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/3x3BqSrtE0hXSHXjZmjD0w",
+      "isFallback": true
+    },
+    {
+      "id": "85c26536-305d-492c-8a4d-db8935b4d137",
+      "title": "Clattanoia(penumbral)",
+      "artist": "MYTH & ROID",
+      "isrc": "JPD732200144",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/1f6OoiBxvC3ROJ2NsgvV8j",
+      "isFallback": true
+    },
+    {
+      "id": "583272ce-1db5-4c38-bf1e-e2957d6bbb91",
+      "title": "好きになっちゃダメな人",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02311850",
+      "releaseDate": "2023-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/33nCtzovNzZ5mKD53pYwcE",
+      "isFallback": false
+    },
+    {
+      "id": "f0bf356f-b4f3-4ac5-84e0-fc986bf35fe5",
+      "title": "Number One",
+      "artist": "OxT",
+      "isrc": "JPPC01702449",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/44Hd9UryauSuoGmSYuJOwP",
+      "isFallback": true
+    },
+    {
+      "id": "1b883b07-8248-47e2-8a94-f70a5aeced42",
+      "title": "かかった魔法はアマノジャク",
+      "artist": "愛美",
+      "isrc": "JPKI02211485",
+      "releaseDate": "2022-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX",
+      "isFallback": true
+    },
+    {
+      "id": "e37a5b4c-3e0b-43a3-b00c-ebace3be080c",
+      "title": "ぜんぶ君のせいだ",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPD731800247",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/51rnqMVO0RmOo9ITwi5vTs",
+      "isFallback": false
+    },
+    {
+      "id": "9375c705-cdc1-4ebe-8a2d-e989ee8a4721",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "isrc": "JPD732200123",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/3RNSTLShlhmMXtixgofPlX",
+      "isFallback": true
+    },
+    {
+      "id": "a43c0bb6-ee65-42b4-ad38-4b973790a479",
+      "title": "恋はエクスプロージョン",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02111901",
+      "releaseDate": "2022-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1QH7w8jyeyLhJZvczjKbEv",
+      "isFallback": false
+    },
+    {
+      "id": "3dc736b0-0f5f-45b5-b7f4-555793c97b7f",
+      "title": "不可侵領域デストロイヤー",
+      "artist": "りぶ",
+      "isrc": "JPVI01440430",
+      "releaseDate": "2015-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/3DjCqHjsZAuqxKhVFexKK8",
+      "isFallback": true
+    },
+    {
+      "id": "8f4e91ae-abf5-4b97-83d3-28e930bbaadb",
+      "title": "神或アルゴリズム",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02100388",
+      "releaseDate": "2021-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4P7ElkXA3MnMAQFBIreM7F",
+      "isFallback": true
+    },
+    {
+      "id": "2afff639-3d75-4b07-82f1-9f1a73fa5ced",
+      "title": "未来ノート",
+      "artist": "May’n",
+      "isrc": "JPZ922103280",
+      "releaseDate": "2021-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/6neSjfBAHHUkA7rVjKykI6",
+      "isFallback": true
+    },
+    {
+      "id": "34d8fa84-8d29-40f0-8aa9-efd33cf537c3",
+      "title": "楽園都市",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC01900968",
+      "releaseDate": "2019-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0ZBFfztO6e114GIuwAJVqS",
+      "isFallback": true
+    },
+    {
+      "id": "c4417da6-9b56-4609-8fa0-93efe55d9006",
+      "title": "異世界ショータイム",
+      "artist": "アインズ",
+      "isrc": "JPD731900681",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/0srkS1bT4M7Q39Jo9iX6g2",
+      "isFallback": true
+    },
+    {
+      "id": "e0138049-fc98-4764-b5b8-cbccf6196230",
+      "title": "け・も・の・だ・も・の",
+      "artist": "どうぶつビスケッツ",
+      "isrc": "JPVI01903070",
+      "releaseDate": "2019-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/67q8caFftg7kStkERSsA91",
+      "isFallback": false
+    },
+    {
+      "id": "8ce3add2-043d-419a-96db-9956226b3f83",
+      "title": "チャンス!(OxT ver.)",
+      "artist": "OxT",
+      "isrc": "JPPC02001136",
+      "releaseDate": "2020-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/2vsBqE87dPh3ppafJuKgjy",
+      "isFallback": true
+    },
+    {
+      "id": "7ffe7903-0eb9-439a-8bd4-25b29a81cb02",
+      "title": "インパーフェクト",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02001928",
+      "releaseDate": "2021-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/6VOn7oApMrmVi5jEmgBVAa",
+      "isFallback": true
+    },
+    {
+      "id": "5380fb23-b14f-4f49-a3a4-87dcba94b406",
+      "title": "エレクトリックパレード",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02410271",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/19yBABt2127wYg1bZYJSko",
+      "isFallback": false
+    },
+    {
+      "id": "63ad4d5c-cf28-4ff9-a97f-37c986d2ad9e",
+      "title": "BLOOM OF YOUTH",
+      "artist": "OxT",
+      "isrc": "JPPC01502106",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/7utUlBXMC9kCYMPesIxRC2",
+      "isFallback": true
+    },
+    {
+      "id": "75c11e7c-97f0-4227-8ba6-2e970499e6e3",
+      "title": "僕らの箱庭",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02410272",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/0RCOZVIzrrLav4qa8VUbAY",
+      "isFallback": false
+    },
+    {
+      "id": "a4f94a54-d279-471a-aa19-dde45656a47b",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPD731400709",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/7MZM1EnB7uyDbtAGfe1HrK",
+      "isFallback": false
+    },
+    {
+      "id": "fca88b7b-9c40-436d-9d33-7359e4199b31",
+      "title": "なんてカラフルな世界!",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPA652005065",
+      "releaseDate": "2020-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/4CVSdX1F4imXA3p9p2u0mj",
+      "isFallback": true
+    },
+    {
+      "id": "de6e74f7-19fb-43b2-963f-a23d9c9fd507",
+      "title": "キンカンのうた2020",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02000977",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/6eDedSxMLlV6Z7VuwyhAPP",
+      "isFallback": true
+    },
+    {
+      "id": "ae650be6-ce56-4b65-8edf-a5e0286b4e2c",
+      "title": "わやわやわー!",
+      "artist": "亜咲花",
+      "isrc": "JPK632400401",
+      "releaseDate": "2024-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/1Cfq2MGVnhT4ovbSRRmYab",
+      "isFallback": true
+    },
+    {
+      "id": "588f13ac-1035-497d-89d3-5da77259a148",
+      "title": "Clattanoia",
+      "artist": "OxT",
+      "isrc": "JPD731500892",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/6DQgVAFIpmbXcJoRZbXRLc",
+      "isFallback": true
+    },
+    {
+      "id": "b0d2d40a-b948-44cc-8047-b624db13d20a",
+      "title": "純情可憐書店屋ガール",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPD731400710",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/1ijkpVh9f7h37nPRkgR7Ew",
+      "isFallback": false
+    },
+    {
+      "id": "9afc5527-54c1-4a8a-bb99-dc63902c4829",
+      "title": "メガネゴーラウンド",
+      "artist": "マサヨシがめがねを忘れた",
+      "isrc": "JPVI02302437",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/2yTxnxmUNj2MxSxlMdtdEh",
+      "isFallback": false
+    },
+    {
+      "id": "a078639b-126f-43f1-84c2-74f5f45d7bad",
+      "title": "春夏秋冬☆Blooming!",
+      "artist": "A3ders!",
+      "isrc": "JPPC01800149",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/45RpTPKeWsGGRkX5onDCf4",
+      "isFallback": true
+    },
+    {
+      "id": "cd4429f2-8fc7-4bc6-b4ee-2a2b95a81dc6",
+      "title": "GO CRY GO",
+      "artist": "OxT",
+      "isrc": "JPD731700614",
+      "releaseDate": "2018-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3QH93rAs2Od0Gbxs2fn4gI",
+      "isFallback": true
+    },
+    {
+      "id": "58f6b9b9-5434-4103-8666-af9aae32d170",
+      "title": "モラトリアムダンスフロア",
+      "artist": "内田真礼",
+      "isrc": "JPPC01602707",
+      "releaseDate": "2017-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/4cf0cwQP4SAmBEnruVHpSx",
+      "isFallback": true
+    },
+    {
+      "id": "adc8c962-b45a-478b-b49f-225c09eae1ed",
+      "title": "かごめかごめ",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02511560",
+      "releaseDate": "2025-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/7jxgUPV1rXpPEBEltKxDRl",
+      "isFallback": false
+    },
+    {
+      "id": "fa35e980-821c-4a57-a3e5-02c700909df2",
+      "title": "UNION",
+      "artist": "OxT",
+      "isrc": "JPPC01801733",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ",
+      "isFallback": true
+    },
+    {
+      "id": "a9c7a4bd-e8f5-4fdb-a9cd-023b6a6b0f2b",
+      "title": "Lost you",
+      "artist": "OxT",
+      "isrc": "JPD731500893",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/5e3SBMrPzNnozCmcqEiMPz",
+      "isFallback": true
+    },
+    {
+      "id": "ad804515-1e7e-45a6-a518-8b2658b978e8",
+      "title": "碧い砲撃",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02212095",
+      "releaseDate": "2022-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/1ffqaFdXniZkphC1X5M4Ly",
+      "isFallback": false
+    },
+    {
+      "id": "f9ab21a0-9740-4001-88e9-2dfb6bc4949f",
+      "title": "ヒーローインポッシボー",
+      "artist": "花江夏樹",
+      "isrc": "JPS231600018",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/3EJO9ApZrY39AWSkIeMCRU",
+      "isFallback": true
+    },
+    {
+      "id": "a4d79ee0-aa1d-4f69-a5a6-0eabaae4589a",
+      "title": "BIG LOVE",
+      "artist": "内田真礼",
+      "isrc": "JPPC02412775",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3fyGU0eOSPtOkRApZiJVgt",
+      "isFallback": true
+    },
+    {
+      "id": "56d662c6-9e22-4f57-be5b-49b2d1a1c963",
+      "title": "ロールプレイング",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02001927",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/5jfB4JaslBMCTzKRKnVCo8",
+      "isFallback": true
+    },
+    {
+      "id": "2fe62bcd-0432-4d7f-9fd6-03fe0a4563ac",
+      "title": "MANKAI☆開花宣言",
+      "artist": "A3ders!",
+      "isrc": "JPPC01602322",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/0PoSGBxDcfyb6GXJ3Bn6qy",
+      "isFallback": true
+    },
+    {
+      "id": "0da7aae6-6401-4900-b981-c1d19eded3a4",
+      "title": "ドラゴンエネルギー",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901807590",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/1fCm4P2VP5SUeC3uswHs7N",
+      "isFallback": true
+    },
+    {
+      "id": "17ad5d3e-8c62-474f-9365-99479c1a1157",
+      "title": "黄金航路",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02311952",
+      "releaseDate": "2023-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/0HEBnfrJ4ABLT09sDG1pco",
+      "isFallback": false
+    },
+    {
+      "id": "714d864c-13e8-4679-b7f4-a11ded9546e8",
+      "title": "君のヒロインでいるために",
+      "artist": "内田真礼",
+      "isrc": "JPPC01801366",
+      "releaseDate": "2018-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/2CBiPijPZtqjgXgNIhQUuU",
+      "isFallback": true
+    },
+    {
+      "id": "3fc3cbf5-443d-4722-8868-56c6b95f366f",
+      "title": "枕男子",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPJ901706250",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/7KePoY29Fbr9EBI5pFQVWL",
+      "isFallback": true
+    },
+    {
+      "id": "ee80c4c1-3168-49cc-89b3-4b030df3293d",
+      "title": "サインはB (ドラマ ver.)",
+      "artist": "B小町",
+      "isrc": "JPY862401410",
+      "releaseDate": "2024-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/1cpn7JKkg7Y8xsBEmduS5X",
+      "isFallback": true
+    },
+    {
+      "id": "87ead492-c44d-451c-a6fb-f9d4d0dd99ba",
+      "title": "☆トリルで始まっちゃう！",
+      "artist": "Prima Porta",
+      "isrc": "JPE621900173",
+      "releaseDate": "2019-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "92a322cf-6320-4862-872c-69b06f17f4b7",
+      "title": "uni-verse",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02310280",
+      "releaseDate": "2023-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/011DVses8HNi3QU6JYc0co",
+      "isFallback": false
+    }
+  ]
+}

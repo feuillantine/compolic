@@ -1,0 +1,195 @@
+{
+  "name": "ヤナガワタカオ",
+  "sortName": "ヤナガワタカオ",
+  "tracks": [
+    {
+      "id": "bcee423b-45c5-4d48-967b-9994cf4318e6",
+      "title": "輝きフォトグラフ",
+      "artist": "あかせあかり",
+      "isrc": "JPU902200083",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/7yXq3n9ijuO6NdMGCbgmZF",
+      "isFallback": true
+    },
+    {
+      "id": "c33456f0-13c9-4a3c-bf19-a27a5ce23eeb",
+      "title": "BULLET MERMAID",
+      "artist": "波黄凛",
+      "isrc": "JPI101901667",
+      "releaseDate": "2019-10-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7f0810d-57cf-4938-addb-addea9ee8b6f",
+      "title": "Never Looking Back",
+      "artist": "ダイワスカーレット",
+      "isrc": "JPZ922109789",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/55SrcD8ihPqf5Ml6QdpczU",
+      "isFallback": false
+    },
+    {
+      "id": "2d09f1e1-a6fb-48bc-99f1-947e1d002528",
+      "title": "Turning Point",
+      "artist": "井口裕香",
+      "isrc": "JPQ461900236",
+      "releaseDate": "2019-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/67RhPCZcUL644EeEbu2wau",
+      "isFallback": true
+    },
+    {
+      "id": "b7108606-df64-4638-9e14-ef6454f37c88",
+      "title": "こはくいろパンプキン",
+      "artist": "松原穂乃花",
+      "isrc": "JPVI01504960",
+      "releaseDate": "2015-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/315RPkEi1dKWTmz4rJ3llF",
+      "isFallback": true
+    },
+    {
+      "id": "542e2191-41cf-40af-83fb-bb20cff47590",
+      "title": "Over The Testament (Ver.1)",
+      "artist": "Metamorphose",
+      "isrc": "JPCO01535911",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bcf461e9-2b27-4d23-84f7-6d6795e9c78f",
+      "title": "リジェネレイト",
+      "artist": "らん(ヴァルヴァラン)",
+      "isrc": "JPVI01900608",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/43JsqTGm24Y8gjBSZrN3LQ",
+      "isFallback": true
+    },
+    {
+      "id": "26019435-0929-4090-b130-4568a6b92e3b",
+      "title": "ファンタスティック Q&A",
+      "artist": "菜波・K・ブレードフィールド",
+      "isrc": "",
+      "releaseDate": "2014-06-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5a87db1e-0951-430b-89c9-65c2b6d087ef",
+      "title": "HERO",
+      "artist": "恵飛須沢胡桃",
+      "isrc": "JPPI01552410",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3pqzKSfqRCYeBOELvzwifl",
+      "isFallback": true
+    },
+    {
+      "id": "5eeb8ebb-c74c-478b-b35e-30d42dfb2b0d",
+      "title": "群青セツナ",
+      "artist": "岬なこ",
+      "isrc": "JPI102301322",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/2IvRWfNmi01oRdE1vEoa3c",
+      "isFallback": false
+    },
+    {
+      "id": "73154964-b181-4b2f-a357-d0a6b62b88eb",
+      "title": "恋のカウント1・2・3",
+      "artist": "岬なこ",
+      "isrc": "JPI102301327",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/2KtEd5RwrtZG15Cr8SU2zX",
+      "isFallback": false
+    },
+    {
+      "id": "0d4b2a67-2bb3-40fc-906a-fe42bece1e9a",
+      "title": "Cat-Cat Romance",
+      "artist": "f*f",
+      "isrc": "JPVI01640440",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4CtTq6Tkmsrqv7El6J8hex",
+      "isFallback": true
+    },
+    {
+      "id": "7363e154-9786-40c4-ab45-4849894f8958",
+      "title": "街角カレイドスコープ",
+      "artist": "岬なこ",
+      "isrc": "JPI102301321",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/5jzOJS55QHL178b9LqjH5h",
+      "isFallback": false
+    },
+    {
+      "id": "46ed79e0-a332-479d-9be0-3141aa8ba5b2",
+      "title": "おぼろ花火",
+      "artist": "いぎなり東北産",
+      "isrc": "JPR652000267",
+      "releaseDate": "2020-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/4JfpaoQ9yXcK9aBB0mRCOC",
+      "isFallback": true
+    },
+    {
+      "id": "0517dee1-1cf3-4be8-a7a8-6fedb702cf91",
+      "title": "鈴生り時にて",
+      "artist": "前田藤四郎",
+      "isrc": "JPV431800007",
+      "releaseDate": "2018-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/2AbCMAIPk7nhKEI4924mxn",
+      "isFallback": true
+    },
+    {
+      "id": "8a669979-ba18-4ce5-8acc-3e91cdaa40cb",
+      "title": "フレ!フレ!サイリウム",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPN101300899",
+      "releaseDate": "2013-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/3FZmMTyNsl27qaZNqLpwUd",
+      "isFallback": true
+    },
+    {
+      "id": "f549dfd1-e05f-4f1a-8b34-5fa617e63123",
+      "title": "Migratory Echoes",
+      "artist": "シャイニーカラーズ",
+      "isrc": "JPI102403417",
+      "releaseDate": "2025-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/726pdOZ8LI4IAYrzV3A3hL",
+      "isFallback": true
+    },
+    {
+      "id": "d1422c3a-572d-40ed-bab8-2a45fbe93782",
+      "title": "Dream Believer",
+      "artist": "チーム総北",
+      "isrc": "JPZ921404909",
+      "releaseDate": "2014-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/28TmwytTJsmvkSfWgWIz1d",
+      "isFallback": true
+    },
+    {
+      "id": "a1b54d82-a610-40f3-a374-253b81d2b587",
+      "title": "卒業あるばむ",
+      "artist": "学園生活部",
+      "isrc": "JPPI01553350",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/5vPsS1AYVOcfxpGYo5fuIa",
+      "isFallback": true
+    },
+    {
+      "id": "95db2b25-7a5e-4966-b932-10863be52ed9",
+      "title": "ひだまり",
+      "artist": "ペコリーヌ",
+      "isrc": "JPCO01904990",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/24WpyKvGqguBXBFHJh8ay1",
+      "isFallback": false
+    },
+    {
+      "id": "87ead6d7-f522-43df-9a10-bff16deb6d6e",
+      "title": "リアルダイヤモンド",
+      "artist": "Gemstone7",
+      "isrc": "JPPC02213389",
+      "releaseDate": "2023-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/42L52qUeQ1yj4QAr6DAWIL",
+      "isFallback": false
+    }
+  ]
+}

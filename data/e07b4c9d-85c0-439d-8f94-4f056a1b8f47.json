@@ -1,0 +1,1536 @@
+{
+  "name": "坂部剛",
+  "sortName": "サカベゴウ",
+  "tracks": [
+    {
+      "id": "8ee60d16-3f80-4175-b568-6ac34bb84ff8",
+      "title": "Fly up so high",
+      "artist": "ペリーヌ・クロステルマン",
+      "isrc": "JPCO01921103",
+      "releaseDate": "2019-09-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f7c37ed-d5de-42fb-aef2-db4999e37737",
+      "title": "S.O.S",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO02206700",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/0PQq6VYNSo9jWPwMBr1JLr",
+      "isFallback": true
+    },
+    {
+      "id": "5a769284-547b-4c0c-9f5d-8e3ca8a79e3d",
+      "title": "VS Polimar Artemis 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709220",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f5f44801-6efd-4465-b60e-76cb42f0d640",
+      "title": "Take me☆Take you",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS!!",
+      "isrc": "JPCO01636560",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b3dcac29-e031-4707-b478-15d49b575f8e",
+      "title": "ヒトヒラ",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO02406250",
+      "releaseDate": "2024-05-15",
+      "spotifyUrl": "https://open.spotify.com/track/0Kw5ASvmsF24seQzJvx16d",
+      "isFallback": true
+    },
+    {
+      "id": "100b79db-ca9b-4159-b86e-b09211cbff6e",
+      "title": "VS Bad Guys",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708990",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4c66e46f-aaf6-42ea-a628-77bdfd624bda",
+      "title": "仮面ライダーゴースト 不滅",
+      "artist": "坂部剛",
+      "isrc": "JPB601602815",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/47TfAcpREKsVf59sl4p5xf",
+      "isFallback": true
+    },
+    {
+      "id": "1a6e33f4-c507-446e-a349-1d50391cc276",
+      "title": "Destin Histoire",
+      "artist": "yoshiki*lisa",
+      "isrc": "JPCO01103940",
+      "releaseDate": "2011-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/3qaywuuaEBUWdowIerY0J7",
+      "isFallback": true
+    },
+    {
+      "id": "658b63a7-6460-449b-bb8f-6a5ab62807be",
+      "title": "バレット・ウォン",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709040",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4b9302f4-1661-4529-88cb-5d3f258f5d61",
+      "title": "message",
+      "artist": "さくら学院",
+      "isrc": "JPTF01100907",
+      "releaseDate": "2011-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/0fe5Yd6ejl66k9J0lZ7bU6",
+      "isFallback": true
+    },
+    {
+      "id": "20ef0cbe-7492-4991-8184-cb3ffa6d8aa6",
+      "title": "Resuscitated Hope",
+      "artist": "コミネリサ",
+      "isrc": "JPCO01109990",
+      "releaseDate": "2011-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2uwAIisW0azzxvqGu4XXbS",
+      "isFallback": true
+    },
+    {
+      "id": "7b5c7e57-b8ec-4f5d-9bf5-0d0cbb080dd0",
+      "title": "Blue Flower",
+      "artist": "内田彩",
+      "isrc": "JPS231700028",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/0phWXAumho97ohrV2XexMC",
+      "isFallback": true
+    },
+    {
+      "id": "29be338d-b730-4136-8cc8-f4132712cd40",
+      "title": "Go!Go! トッキュウジャー",
+      "artist": "伊勢大貴",
+      "isrc": "JPCO01406850",
+      "releaseDate": "2014-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/5RYBc4147YDAVKRNlq7kUc",
+      "isFallback": true
+    },
+    {
+      "id": "6b756209-820e-463a-a43b-57fa0d0fb3bc",
+      "title": "VS Polimar Titan",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709260",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "60a8a1c7-af88-4b6c-851e-e44869b9005a",
+      "title": "goddess of victory",
+      "artist": "ブラックハート",
+      "isrc": "JPK631205502",
+      "releaseDate": "2012-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ecc6cd9-fadc-4bba-8f6b-bc4c0bce0d95",
+      "title": "デート・イン・ユートピア",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01308270",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/4beZVDbigXpM8GJQyzXFxl",
+      "isFallback": true
+    },
+    {
+      "id": "d89674dc-d657-4009-aa95-1f547be9cc9b",
+      "title": "Paradoxes",
+      "artist": "富田美憂",
+      "isrc": "JPCO02405650",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d",
+      "isFallback": true
+    },
+    {
+      "id": "9cd154d5-7054-44b3-b6d9-4440b2afd40b",
+      "title": "ピンチ",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708920",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/5rfWpHlrcYwTp1zyAh5zHi",
+      "isFallback": true
+    },
+    {
+      "id": "14b51798-a2c3-49f4-a648-8534a71c2fa5",
+      "title": "仙人 奇怪～威厳",
+      "artist": "坂部剛",
+      "isrc": "JPB601602836",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6fu7enJTszIIDqCNMhPdyh",
+      "isFallback": true
+    },
+    {
+      "id": "4dfbfa2c-699b-440e-9503-884f0f242f40",
+      "title": "Only Wish -Chinese Version-",
+      "artist": "Mes",
+      "isrc": "JPCO02022940",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "68e37966-2c86-471c-a41b-79ecb05e04db",
+      "title": "VS Polimar Arm Custom 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709000",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5861b867-1ad2-4dd2-8e5d-948858d03d65",
+      "title": "モノリス 神秘～物語",
+      "artist": "坂部剛",
+      "isrc": "JPB601602845",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6UUsJ6Vl89pP6P3VpHepgU",
+      "isFallback": true
+    },
+    {
+      "id": "e642001b-8c2f-48cf-8bee-633ba595e0e7",
+      "title": "ひだまりの中で",
+      "artist": "小日向美穂",
+      "isrc": "JPCO02513010",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/3fiOoySdvUZAcBqqj32rot",
+      "isFallback": true
+    },
+    {
+      "id": "47d60fc8-59af-4929-a3ff-13d70e25bd98",
+      "title": "Invisible Date",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01526100",
+      "releaseDate": "2015-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/7jVx2FW5cG72zo3eugwZL9",
+      "isFallback": true
+    },
+    {
+      "id": "34e118dd-b4c7-4926-8332-91cf543ceec6",
+      "title": "OveR",
+      "artist": "富田美憂",
+      "isrc": "JPCO02202900",
+      "releaseDate": "2022-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU",
+      "isFallback": true
+    },
+    {
+      "id": "4f61b001-2d45-40e7-af60-ddc8d48c4601",
+      "title": "Hello! IVY",
+      "artist": "さくら学院",
+      "isrc": "JPTF01008802",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/58y92YMMPyxpdpCyKnGXBa",
+      "isFallback": true
+    },
+    {
+      "id": "e216ba35-4afe-4ddd-98d7-dc2d3664f359",
+      "title": "Only wish",
+      "artist": "Luiza",
+      "isrc": "JPCO02017430",
+      "releaseDate": "2020-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/7fDDWsoiYumSRqsx7KuDPW",
+      "isFallback": true
+    },
+    {
+      "id": "a15a1601-ee86-4fed-ac14-4d7d9f0e1e8a",
+      "title": "with you",
+      "artist": "八舞夕弦",
+      "isrc": "JPCO01603250",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/593wUlHGUH8TPEvoTFX0PD",
+      "isFallback": true
+    },
+    {
+      "id": "689e0935-d049-4a75-a45f-3b15bfbed628",
+      "title": "with confidence",
+      "artist": "ノワール",
+      "isrc": "JPK631205501",
+      "releaseDate": "2012-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6dde0300-b170-4e13-9775-3d6a045f5746",
+      "title": "VS Polimar Arm Custom 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709010",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "24d4301b-56bb-4ce4-8397-86fd0283e244",
+      "title": "Lollipop Baby",
+      "artist": "五河琴里",
+      "isrc": "JPCO01603300",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/1scr28mFyeUuUJVMxAKSfU",
+      "isFallback": true
+    },
+    {
+      "id": "6882875d-04cd-47c7-8310-79d74280c8c7",
+      "title": "Pour fille ～約束の子守唄～",
+      "artist": "コルデリア・ギャロ",
+      "isrc": "JPCO01123750",
+      "releaseDate": "2011-08-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "576e0ee1-fb38-45b3-82dd-ed97c104bfef",
+      "title": "Street Fight 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708810",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a4cf8e3d-c7a2-4d77-b0cd-7253867746d2",
+      "title": "Polimar System 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708900",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d447611-5760-43f4-b4d7-94a0c6b7d09f",
+      "title": "Overture ~Invitation to the aquaveil~",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01722800",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/66nWQd5Y7JFb9276duKPzL",
+      "isFallback": true
+    },
+    {
+      "id": "ede7be26-e9ea-4fc6-b0dc-03b99d536d27",
+      "title": "Resolution",
+      "artist": "万由里",
+      "isrc": "JPCO01603260",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/6qw2jCtKAO2m34NFyVV5tI",
+      "isFallback": true
+    },
+    {
+      "id": "c3cd6eff-466f-4a98-9b60-19606df8c57e",
+      "title": "Chronicle the story of Sailor Moon",
+      "artist": "セーラームーン",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7b5ef810-bc2f-4123-a553-d0f33f331fd9",
+      "title": "VS Polimar Artemis 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709210",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eaae3a81-4b7f-4f72-a8bf-0fd498b900db",
+      "title": "仙人 道化～ユルセン",
+      "artist": "坂部剛",
+      "isrc": "JPB601602837",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6Py8vlKonKs5U68b1gAfSi",
+      "isFallback": true
+    },
+    {
+      "id": "d5c0057a-a808-4a17-bbb9-be9166387a1d",
+      "title": "チェイス",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708840",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c454f1f5-48ff-449b-aa28-5a65c7d498f7",
+      "title": "The Starry Heavens",
+      "artist": "セーラー10戦士",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c229e465-3eaf-4542-9789-98ed245c66a8",
+      "title": "Daydream",
+      "artist": "内田彩",
+      "isrc": "JPS231300096",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/3owRMsIw5KfGH33h6XOgUe",
+      "isFallback": true
+    },
+    {
+      "id": "d90916f2-45ce-4407-a511-2651f31bc2d4",
+      "title": "Street Fight 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708820",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "332a2f58-5d8f-414c-b7fe-461f7a911f7b",
+      "title": "Follow me!",
+      "artist": "八舞耶倶矢",
+      "isrc": "JPCO01603290",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/438nqjkaGdcCsereYlP4Pn",
+      "isFallback": true
+    },
+    {
+      "id": "c350cbcd-18a6-45a3-8dc9-a247b990e9c9",
+      "title": "ウォン急襲",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709050",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8cddbadf-c034-4a8c-b252-fa133d7c0201",
+      "title": "不穏な影",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709110",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34ad955b-c1a3-486d-901f-06942b001601",
+      "title": "I SAY YES",
+      "artist": "ICHIKO",
+      "isrc": "JPA990700228",
+      "releaseDate": "2007-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cbcac379-e8b7-4d74-a9cc-19f523bb2756",
+      "title": "Black & White",
+      "artist": "ウォズ",
+      "isrc": "JPB601901464",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/3uD3KbDrOu5i5eTbNMHdCO",
+      "isFallback": true
+    },
+    {
+      "id": "09139a24-8703-4d92-a761-7e501a722e3d",
+      "title": "キセキの証",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS for BEST5!",
+      "isrc": "JPCO02134830",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3714eb3-ddc8-4e42-9be8-36fc16667d31",
+      "title": "Infermata",
+      "artist": "Spotlight Kids",
+      "isrc": "JPCO02017450",
+      "releaseDate": "2020-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/1xvjaIn6BLGUH1bqGCRZHl",
+      "isFallback": true
+    },
+    {
+      "id": "0051c7e4-3139-4050-bec3-d85f203d384f",
+      "title": "Eternal Cycle",
+      "artist": "セーラー10戦士",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d70f99f7-73d5-487a-a5c7-6468508c4041",
+      "title": "Trust in you",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01406930",
+      "releaseDate": "2014-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/36ondHOaPPX5uBvComTjmE",
+      "isFallback": true
+    },
+    {
+      "id": "c782fbeb-167d-41d7-8002-a18197026b3c",
+      "title": "Blue Flame",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709240",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "18d848ea-b0be-493b-9477-8e335f4400eb",
+      "title": "Starry Night",
+      "artist": "松永涼",
+      "isrc": "JPCO02301190",
+      "releaseDate": "2023-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/1xWumnVBc0JjYEzGNDOUNx",
+      "isFallback": true
+    },
+    {
+      "id": "287f452c-6cae-4b2a-953a-35b4114445b0",
+      "title": "ビロードの幕",
+      "artist": "悠木碧",
+      "isrc": "JPCO01806720",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1vngiyP8alByhbBgszYupE",
+      "isFallback": true
+    },
+    {
+      "id": "63a8bb50-1f9b-4bd1-bbb2-4dd5277b929d",
+      "title": "Polimar System 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708830",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "abb52142-5a8c-4e18-a2d2-3f76bed6b130",
+      "title": "デート・ア・ライブ",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01306930",
+      "releaseDate": "2013-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/7CoXiUY4GvZqnKtM6oWvYT",
+      "isFallback": true
+    },
+    {
+      "id": "744b02fd-2d2c-40e7-9d3a-242424524d3d",
+      "title": "つなぐ",
+      "artist": "ukka",
+      "isrc": "JPTE02307960",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/1lCLrduJW1N3vpCRi74lh5",
+      "isFallback": false
+    },
+    {
+      "id": "c81f1103-0d36-42a4-9fca-12b2b37c51cf",
+      "title": "GAME CHANGER",
+      "artist": "貴水博之",
+      "isrc": "JPB602101187",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/6cx4nlxN2fCYtwVOcILWax",
+      "isFallback": true
+    },
+    {
+      "id": "9138aafa-fcdd-4d60-88aa-4f65e4c615c6",
+      "title": "HOME MADE HAPPY",
+      "artist": "プリマベーラ",
+      "isrc": "JPCO01028770",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6326cec-6cfe-4736-b303-f82340b558a0",
+      "title": "Fly Beyond",
+      "artist": "フランチェスカ・ルッキーニ",
+      "isrc": "JPCO01509790",
+      "releaseDate": "2016-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/5Wpvh00dcHz7gMbj2sqgCU",
+      "isFallback": true
+    },
+    {
+      "id": "2d76dd5c-74cb-48d7-b879-9e716468c1ce",
+      "title": "ふたりでひとつ",
+      "artist": "ロム",
+      "isrc": "",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "979a4384-437e-4c3b-96ee-b00f9a34b5dc",
+      "title": "You’re my universe",
+      "artist": "セーラー10戦士",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "612b0e8e-3f59-4147-92b8-3aebc608435d",
+      "title": "Once Upon a Rainy Day",
+      "artist": "四糸乃",
+      "isrc": "JPCO01603240",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3RLjLgSgkFOg1FAi6SyYVj",
+      "isFallback": true
+    },
+    {
+      "id": "fba85c11-8587-446f-90e8-439c0973d267",
+      "title": "School days",
+      "artist": "さくら学院",
+      "isrc": "JPTF01008803",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/2kHxxM6WIfIHluEmhm2Nqz",
+      "isFallback": true
+    },
+    {
+      "id": "02fae4d2-6d10-4e60-b5a1-7c0b44bf4a5f",
+      "title": "ハートをつないで",
+      "artist": "ロム",
+      "isrc": "",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3079c191-6908-4f44-af79-c7800ec51096",
+      "title": "チャイナタウン",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708970",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "156f53d5-8246-4178-a85a-e5ee3ffd8546",
+      "title": "Fatal Ironies",
+      "artist": "ブライアン・ロスコー",
+      "isrc": "JPCO01123740",
+      "releaseDate": "2011-08-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c98351f7-f13d-4d57-b782-11a45b0ca337",
+      "title": "ピンク・マゼンダ",
+      "artist": "内田彩",
+      "isrc": "JPZ921412326",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/7cLMESTapXZmFIXP2CKjO4",
+      "isFallback": true
+    },
+    {
+      "id": "8170e125-4da3-48a4-99e2-d0078966f80d",
+      "title": "ポリメット強奪",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708950",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cfd3b0c9-461b-4826-8ddb-6faab8606bfd",
+      "title": "きっと ずっと",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01313420",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/6xlRA16qZiUVcBekaaQwTl",
+      "isFallback": true
+    },
+    {
+      "id": "adaef19e-afd9-41c0-9c94-a7c233b38963",
+      "title": "WINTER and WINDOW",
+      "artist": "THE IDOLMASTER CINDERELLA GIRLS for BEST5!",
+      "isrc": "JPCO02336580",
+      "releaseDate": "2024-05-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5f5a4f64-9889-43f9-b0ac-1c98deb46fa0",
+      "title": "トキメキハート",
+      "artist": "ラム",
+      "isrc": "",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8712084-e5e6-40e9-99c3-c3ec93b9624d",
+      "title": "カケラ",
+      "artist": "プリンセス・スノー・カグヤ",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3d71953e-f82f-4218-9dde-10a217b24a13",
+      "title": "Let's Go Polimar 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708930",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13b73505-62b9-4e82-8fc6-3189aab166a1",
+      "title": "I swear",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01831580",
+      "releaseDate": "2019-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/5Q04gnDJdFGmGRx0Df3wJf",
+      "isFallback": true
+    },
+    {
+      "id": "1968241b-ceb0-449c-94b2-c5050095fd37",
+      "title": "INFERNO",
+      "artist": "ナノ",
+      "isrc": "JPCO02305870",
+      "releaseDate": "2023-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/6aVbGlqLBHf2g4gmQIJur2",
+      "isFallback": true
+    },
+    {
+      "id": "23fd5dd9-f912-4966-8a60-44bb50023d26",
+      "title": "Precious",
+      "artist": "RinamooN",
+      "isrc": "JPCO02025620",
+      "releaseDate": "2020-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/4OjZtnMadQRVRSwL48Ui30",
+      "isFallback": true
+    },
+    {
+      "id": "a9e17818-6654-4f6c-8c76-e10b0c634163",
+      "title": "Bank Robbery",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708910",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "028a91f9-8d87-4292-bb6d-54a225ec438d",
+      "title": "Max Beat",
+      "artist": "高垣楓",
+      "isrc": "JPCO01913940",
+      "releaseDate": "2019-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/6H5BDT0tGxgN7uXPOqvU91",
+      "isFallback": true
+    },
+    {
+      "id": "2040da5c-ef61-4858-b40f-8b33872deccd",
+      "title": "Don't Boo!ドンブラザーズ",
+      "artist": "MORISAKI WIN",
+      "isrc": "JPCO02202290",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/3WVmoZcQ8vuiEOgO1Splpm",
+      "isFallback": true
+    },
+    {
+      "id": "9352055b-88f8-48ac-ab48-622817a26bd9",
+      "title": "インストレーション",
+      "artist": "sweet ARMS",
+      "isrc": "JPCO01408100",
+      "releaseDate": "2014-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/3hwXJ2LlayUrmgJbAiK8HX",
+      "isFallback": true
+    },
+    {
+      "id": "49c7f69c-2a65-4159-9fd4-f39f626764eb",
+      "title": "Start Over",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709030",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "310353a5-0eb4-4b00-930e-37e4aab6aa98",
+      "title": "GO☆サマーガール",
+      "artist": "誘宵美九",
+      "isrc": "JPCO01534170",
+      "releaseDate": "2015-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/2yEx1cbr799HWxfqatmoG7",
+      "isFallback": true
+    },
+    {
+      "id": "5df4b61f-e14a-4631-b51a-509d23f0b71f",
+      "title": "ONE WAY",
+      "artist": "内田彩",
+      "isrc": "JPZ921412321",
+      "releaseDate": "2014-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/59OUnBTCQX93AQDn8aHffw",
+      "isFallback": true
+    },
+    {
+      "id": "3eb99d16-d095-4d44-b894-1c79490b361f",
+      "title": "仮面ライダーゴースト テーマ 命燃やすぜ!",
+      "artist": "坂部剛",
+      "isrc": "JPB601602809",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4VTSvThbl9lMtGQioCp4FL",
+      "isFallback": true
+    },
+    {
+      "id": "e2cf5edc-fa62-4cbc-bf87-8820b36bae51",
+      "title": "ドキドキの風",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01630880",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/3Scx8KZo16C7LQdk1KX1TX",
+      "isFallback": true
+    },
+    {
+      "id": "d7a87fec-3211-4947-9b4d-f824104b51a8",
+      "title": "シャーロック",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709280",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fbdbce04-0cef-428e-b513-1373b6082b15",
+      "title": "Tomorrow",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709310",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/5bCjpdv6OtWu9Becthire7",
+      "isFallback": true
+    },
+    {
+      "id": "83253b8a-1fda-453a-9d46-f9c58785d3e9",
+      "title": "Virtual Line",
+      "artist": "伊勢大貴",
+      "isrc": "JPCO01423600",
+      "releaseDate": "2014-09-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "198e4fd0-95ab-44fe-a7bd-b1341af8580b",
+      "title": "そして王子さまが",
+      "artist": "グリッタ嬢",
+      "isrc": "JPCO01420720",
+      "releaseDate": "2014-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/4UDFp2EZNsbQG8rwZtrEVG",
+      "isFallback": true
+    },
+    {
+      "id": "fbac72d9-967b-4bda-bbda-2fa1e2253f0b",
+      "title": "Let's Go Polimar 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708940",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8f38f19-0d59-4730-bce5-87de6a706b11",
+      "title": "ワタシイロ",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01722790",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/3Ik6cAPC0P4UtC5HaIVJfD",
+      "isFallback": true
+    },
+    {
+      "id": "94d83b3f-f2fd-4083-a61c-9ac1075dbd3c",
+      "title": "Last Kiss",
+      "artist": "三船美優",
+      "isrc": "JPCO01806490",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/74olz3d96veBrPjJ9pjeXg",
+      "isFallback": true
+    },
+    {
+      "id": "6e8ffe18-473a-4b6e-90c5-42bc4b645cd8",
+      "title": "テロの脅威",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708890",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "968ea1e5-00dd-46ac-aea1-63e42e420f09",
+      "title": "鳴き唄",
+      "artist": "セーラームーン",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "08406cc0-ba34-4f08-afd4-4a288a23b199",
+      "title": "父の記憶",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709090",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "04afcff0-c6b8-43ce-ad04-cd4cc5ca7a18",
+      "title": "残酷な現実",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709160",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e183143-cee0-477b-a7bf-3fd18e666885",
+      "title": "潜入シャーロック",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709150",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6e15d33b-aed9-467c-bf81-ac0fd9e73cf8",
+      "title": "仮面ライダースペクター 俺の生き様見せてやる!",
+      "artist": "坂部剛",
+      "isrc": "JPB601602819",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/0msKyz3vKGIY9cBdJdFMNU",
+      "isFallback": true
+    },
+    {
+      "id": "797c923b-4877-4f1b-b4fa-1acdf91d11c4",
+      "title": "仮面ライダーゴースト 苦闘",
+      "artist": "坂部剛",
+      "isrc": "JPB601602817",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/7aqdWClxtyqHP6Jehj8LAn",
+      "isFallback": true
+    },
+    {
+      "id": "e81104ef-f3e9-4179-8a71-697eead22772",
+      "title": "仮面ライダーゴースト 闘魂",
+      "artist": "坂部剛",
+      "isrc": "JPB601602814",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/5k7Er6d6dmVcGPcBwid3Lk",
+      "isFallback": true
+    },
+    {
+      "id": "12a1e1c8-e298-4e6e-b9cb-a383ff1fe913",
+      "title": "手掛かり 2",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709140",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86bf87fc-cc8e-403f-9526-19f69dc32e20",
+      "title": "瑞樹",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709080",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3a352c69-e541-4255-a983-2573380e9e10",
+      "title": "眼魂 出現～謎～発動",
+      "artist": "坂部剛",
+      "isrc": "JPB601602840",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/519kygrO54lBfDhin6r9n6",
+      "isFallback": true
+    },
+    {
+      "id": "dac524ff-ab0c-4bc7-977b-053296664f15",
+      "title": "仮面ライダーネクロム テーマ",
+      "artist": "坂部剛",
+      "isrc": "JPB601602823",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/7mdLZoLH5jBDKkJurh7NLn",
+      "isFallback": true
+    },
+    {
+      "id": "4e5f3c32-7e4c-43c4-9f5f-ef7fab034072",
+      "title": "大帝アドニス 光～闇",
+      "artist": "Ayasa",
+      "isrc": "JPB601602843",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4Oj5EV5wqkvRWBTwpyxUt4",
+      "isFallback": true
+    },
+    {
+      "id": "77104d47-ad95-4ee9-95f9-55c8465812e3",
+      "title": "作戦会議",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708980",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "332862d1-a67d-4e84-b392-b62f6e1290e7",
+      "title": "仮面ライダーネクロム 敵意～襲撃",
+      "artist": "坂部剛",
+      "isrc": "JPB601602825",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1PCd5TekWuuvhdWNqMei9B",
+      "isFallback": true
+    },
+    {
+      "id": "207284d2-6ba2-4b75-a884-4391b6e4cb75",
+      "title": "胸の内",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709100",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "127d2de4-8e14-4635-888f-b832615b9873",
+      "title": "烈車戦隊トッキュウジャー",
+      "artist": "伊勢大貴",
+      "isrc": "JPCO01401520",
+      "releaseDate": "2014-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/5fpZHbh3zvGZVXnAu1Of5N",
+      "isFallback": true
+    },
+    {
+      "id": "0d94279c-a375-4491-aecf-760b5ffdd044",
+      "title": "仮面ライダースペクター 進撃",
+      "artist": "坂部剛",
+      "isrc": "JPB601602822",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4kcYbl5oKpUqIH1ZurnY3s",
+      "isFallback": true
+    },
+    {
+      "id": "24487cf4-dc45-4398-b2c3-ee8282659294",
+      "title": "謎の男",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708850",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2bb80dc-bac1-463d-a78b-fd8b4798a194",
+      "title": "行き場のない気持ちは",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709020",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f57afe34-26f4-476b-80a0-3afd98fa7e7d",
+      "title": "仮面ライダースペクター 画策～苦悩",
+      "artist": "坂部剛",
+      "isrc": "JPB601602820",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1Kueg9OYHZ3XacSq1ddFJp",
+      "isFallback": true
+    },
+    {
+      "id": "ace8f2d4-5cea-4790-9b5b-3e0cc79acf05",
+      "title": "眼魔 支配～進撃",
+      "artist": "坂部剛",
+      "isrc": "JPB601602833",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2LxM4Wk29Z0EU5jWjQHEEW",
+      "isFallback": true
+    },
+    {
+      "id": "efb41e03-5671-48a2-a953-c1da473c1758",
+      "title": "約束の空へ 〜私のいた場所〜",
+      "artist": "石田燿子",
+      "isrc": "JPCO01206430",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/01u4uTc05gNN2palxOdgeD",
+      "isFallback": true
+    },
+    {
+      "id": "7cf62cf3-4b87-4707-83f7-4b08295588bd",
+      "title": "仮面ライダースペクター 攻勢",
+      "artist": "坂部剛",
+      "isrc": "JPB601602821",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1SlRLxc1qltsoNf5HGN0xH",
+      "isFallback": true
+    },
+    {
+      "id": "9619812c-0f23-43fb-a532-0074fb0791ac",
+      "title": "仮面ライダーゴースト 無限大",
+      "artist": "坂部剛",
+      "isrc": "JPB601602816",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/5CkSAc1oaYIV6PdICvims0",
+      "isFallback": true
+    },
+    {
+      "id": "bf54ccd2-de3a-4eac-a8a7-eb025fb28d44",
+      "title": "仮面ライダーゴースト 撃破",
+      "artist": "坂部剛",
+      "isrc": "JPB601602810",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/3z5mhiq3mU13LAvEL7Bebh",
+      "isFallback": true
+    },
+    {
+      "id": "a27055e7-9e2c-44d2-96d1-46dace7167eb",
+      "title": "結末は",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709290",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50711b8c-e65d-4259-a2b6-5d3bb6efe728",
+      "title": "奇行～焦燥",
+      "artist": "坂部剛",
+      "isrc": "JPB601602846",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/7bmERwmiiB1cEahzMSJbvj",
+      "isFallback": true
+    },
+    {
+      "id": "9fd46adc-0d2d-4d00-8b1b-6936ac7d06b9",
+      "title": "Hi Ni Moeru Hitomi",
+      "artist": "沢城みゆき",
+      "isrc": "JPVP01201301",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/0EBK5I8z2QgqchxCQWJ6of",
+      "isFallback": true
+    },
+    {
+      "id": "731a8aa2-2ffb-48b3-a142-e7720e0c3041",
+      "title": "仮面ライダーゴースト 優勢",
+      "artist": "坂部剛",
+      "isrc": "JPB601602812",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2TtuFKrv428cICGMtgc6t0",
+      "isFallback": true
+    },
+    {
+      "id": "84534048-9549-4ae9-a8de-a9b3933d3557",
+      "title": "玲の真実",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709200",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8cc07e5d-c583-41c1-a109-d1c971602cf5",
+      "title": "愛慕",
+      "artist": "鳶一折紙",
+      "isrc": "JPCO01603320",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3HwpXq9tEx3yjBPjwR5BeU",
+      "isFallback": true
+    },
+    {
+      "id": "728969f1-ff01-40e9-bf4f-ed0a9e309099",
+      "title": "盗まれた奥義",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709070",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "974932d4-39b3-44e3-87f0-e446bc5b4c1a",
+      "title": "高嶺のレディ",
+      "artist": "亜美",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "81b7283c-d263-4bba-9fd7-1699b0334cfa",
+      "title": "挫折～再起",
+      "artist": "坂部剛",
+      "isrc": "JPB601602848",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2EZjwp6idhZjrbWV5d3SR6",
+      "isFallback": true
+    },
+    {
+      "id": "26da7811-daec-4e16-a3be-ca7382cf716d",
+      "title": "天空寺タケル テーマ",
+      "artist": "坂部剛",
+      "isrc": "JPB601602808",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/0CB348GxxYv04Te1LGBjAP",
+      "isFallback": true
+    },
+    {
+      "id": "20bfed3d-dd0e-412b-95e3-cec31825748b",
+      "title": "仮面ライダーネクロム 心の叫びを聞け!",
+      "artist": "坂部剛",
+      "isrc": "JPB601602824",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6kGnBI6C3DU48MdZoIJnOl",
+      "isFallback": true
+    },
+    {
+      "id": "609c77db-43e8-4584-9a29-7a5457560935",
+      "title": "茶目～のんき～呆け",
+      "artist": "坂部剛",
+      "isrc": "JPB601602847",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/5Yrw9IeWtlCtfW4eltCJLq",
+      "isFallback": true
+    },
+    {
+      "id": "e2aa6633-b644-446a-b118-b3690e6db83d",
+      "title": "仮面ライダーゴースト 危機",
+      "artist": "坂部剛",
+      "isrc": "JPB601602813",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4YShYWuZS8TwowJXe6ItSZ",
+      "isFallback": true
+    },
+    {
+      "id": "25b32d6c-cfdd-42e2-b4bf-cd4ca86d2f69",
+      "title": "玲の独白",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709170",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6dee4f01-b58d-4eb4-a384-d79e2aa8e0a1",
+      "title": "硝子の扉",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01800130",
+      "releaseDate": "2018-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/4mxNoQ5zWvhMAwx82bxMxG",
+      "isFallback": true
+    },
+    {
+      "id": "13fb8daa-bced-466a-a9f9-7e1bdd13ec9a",
+      "title": "点と線",
+      "artist": "伊藤美来",
+      "isrc": "JPCO02329370",
+      "releaseDate": "2023-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/6Ay2JS645i4rwRGMPirynZ",
+      "isFallback": false
+    },
+    {
+      "id": "1b9a0504-3fe5-4485-84fd-de7cd05eee0a",
+      "title": "仮面ライダーネクロム 対決",
+      "artist": "坂部剛",
+      "isrc": "JPB601602826",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4wRtBpIyW9aytDcGKiDD1l",
+      "isFallback": true
+    },
+    {
+      "id": "a65a7426-2b40-4d9c-98e2-2ef97a306b55",
+      "title": "仮面ライダーネクロム 誓い",
+      "artist": "Ayasa",
+      "isrc": "JPB601602827",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/70RuBpukGIri8f48GjrIbu",
+      "isFallback": true
+    },
+    {
+      "id": "ee610d5c-342f-4618-b1aa-4eb147486e9f",
+      "title": "眼魔 グンダリ～奇妙怪人",
+      "artist": "坂部剛",
+      "isrc": "JPB601602834",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2zjK1ACjdO50Ju1IqFrASv",
+      "isFallback": true
+    },
+    {
+      "id": "4cbf5029-fcc6-46c5-920e-664200a05404",
+      "title": "鎧探偵事務所",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708870",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c99e2366-0d78-4dae-a2c2-f65ede1ca362",
+      "title": "対峙",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709250",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16b5264a-1e6d-4e36-a8a8-09fb553c75a0",
+      "title": "狂気",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709190",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51a0128d-6214-4d69-91bd-012d38b6d512",
+      "title": "仮面ライダースペクター テーマ",
+      "artist": "坂部剛",
+      "isrc": "JPB601602818",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/00kovpocVMiMNHt9jivjbv",
+      "isFallback": true
+    },
+    {
+      "id": "fc8c831b-ac0b-4136-82b1-d631289737a9",
+      "title": "遠隔旅行",
+      "artist": "ルナ(人間の姿)",
+      "isrc": "",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6928d526-a974-4713-a161-d976ecc3a0ce",
+      "title": "調査～潜入",
+      "artist": "坂部剛",
+      "isrc": "JPB601602842",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6Ad1hcO9rAZ7MwzShjNdWm",
+      "isFallback": true
+    },
+    {
+      "id": "833908c3-0be2-4e9b-9a53-7d81d80bd53c",
+      "title": "怒りに燃える",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709270",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "66e21633-77ce-4a07-8763-0594cfa5c567",
+      "title": "前提供～後提供",
+      "artist": "坂部剛",
+      "isrc": "JPB601602849",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/5a2i3eZ8PxCsSd59OxSpto",
+      "isFallback": true
+    },
+    {
+      "id": "61574fea-4b33-43e4-ad39-bd1d9cecc813",
+      "title": "友の死",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709060",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c151c9c-4e51-4223-99e4-edaa3a0a353b",
+      "title": "月のlx",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01800150",
+      "releaseDate": "2018-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/4xSy8mmGMNrXfiolH0ld12",
+      "isFallback": true
+    },
+    {
+      "id": "c001a73a-8e15-42b6-a7d6-7129ab1863d3",
+      "title": "助手テル",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708880",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b75d2463-a4b7-472d-93fd-6c42903503d2",
+      "title": "通じ合う二人",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709130",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "57648fe2-cc35-4a57-b86d-2b3801538589",
+      "title": "疾走",
+      "artist": "坂部剛",
+      "isrc": "JPB601602841",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4ZKUsqp5Po9JHX0FJIYoKI",
+      "isFallback": true
+    },
+    {
+      "id": "82682d87-5bbe-4c65-9854-a278c7b8dab2",
+      "title": "手掛かり 1",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708960",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fbc5b03-6c13-4457-9a3d-0d806ebdfcfd",
+      "title": "鎧たちの戦い",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709180",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5eb9d9f7-b481-4665-a4ac-5ed495cea4f8",
+      "title": "探偵鎧武士",
+      "artist": "坂部剛",
+      "isrc": "JPCO01708860",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0cf13a87-eeda-4b18-ae94-ac7f0f8e7427",
+      "title": "眼魔 出現",
+      "artist": "坂部剛",
+      "isrc": "JPB601602828",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/3pPfnL5NtzQ2DqxnKtB0NH",
+      "isFallback": true
+    },
+    {
+      "id": "541c9ac9-ac3d-4aa4-b6b9-c1513c3f267c",
+      "title": "美味しいデェト",
+      "artist": "夜刀神十香",
+      "isrc": "JPCO01603310",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/7Lih4QNAqalexX2wRljmXK",
+      "isFallback": true
+    },
+    {
+      "id": "129ad291-5f11-41ae-b2f0-6de8d882d069",
+      "title": "眼魔 破壊～壊滅",
+      "artist": "坂部剛",
+      "isrc": "JPB601602830",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/5dMu2oRPoB1b8iXt8QJAoS",
+      "isFallback": true
+    },
+    {
+      "id": "54b36685-a05e-4b1f-aa96-6c96456c0df8",
+      "title": "眼魔 凶暴～強襲",
+      "artist": "坂部剛",
+      "isrc": "JPB601602829",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/373WF8UMXuA5PrjAXYseNq",
+      "isFallback": true
+    },
+    {
+      "id": "2fc66a18-9850-4f8c-b14a-a118d16d4cca",
+      "title": "大切なもの",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709300",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26e8adf8-55b3-47cb-8d1d-4073aed3a9a6",
+      "title": "仮面ライダーゴースト 逆転",
+      "artist": "坂部剛",
+      "isrc": "JPB601602811",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2rqiScBYswky8TlTddbJv1",
+      "isFallback": true
+    },
+    {
+      "id": "5144fd15-cf61-44a1-b8c4-db7a4a56f61f",
+      "title": "眼魔 完璧なる世界",
+      "artist": "坂部剛",
+      "isrc": "JPB601602832",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1Le6tl74APQ6tpH9icXKvR",
+      "isFallback": true
+    },
+    {
+      "id": "14ba835b-abbb-4bb0-9d06-946de6d17083",
+      "title": "眼魔 策略～悪意",
+      "artist": "坂部剛",
+      "isrc": "JPB601602831",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/4U9ABBtImvCwN4X0HtAq7S",
+      "isFallback": true
+    },
+    {
+      "id": "75a773e0-d11a-44b5-9de6-23531a1ea451",
+      "title": "突然の死",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709120",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "03cdd4a7-e80c-4005-afea-bc3461e7e54b",
+      "title": "大天空寺",
+      "artist": "Ayasa",
+      "isrc": "JPB601602835",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6yZgaTSZbuz1e5AwTFi4Tg",
+      "isFallback": true
+    },
+    {
+      "id": "f1ea91ff-86ba-4ef0-a884-86b4bd729dc4",
+      "title": "失意～仲間",
+      "artist": "坂部剛",
+      "isrc": "JPB601602838",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/0xJqdT5yVitHrcD4SwV9NF",
+      "isFallback": true
+    },
+    {
+      "id": "a754a38a-38a8-4be4-89f9-eb0bc0453f04",
+      "title": "眼魂の秘密～策謀",
+      "artist": "坂部剛",
+      "isrc": "JPB601602839",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/0Mar6HT6oDLNkUbi2U30EM",
+      "isFallback": true
+    },
+    {
+      "id": "368104d0-a1cf-4db5-9ce0-86fb0892b4f8",
+      "title": "玲",
+      "artist": "坂部剛",
+      "isrc": "JPCO01709230",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/7B98NalRwQKQfa0eeJ4PjI",
+      "isFallback": true
+    },
+    {
+      "id": "088ab2e0-e884-4857-b40e-6b42406d2d84",
+      "title": "闘魂～友情",
+      "artist": "坂部剛",
+      "isrc": "JPB601602844",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/53WRblPbstP9ddRu7XChFZ",
+      "isFallback": true
+    },
+    {
+      "id": "3aa18966-394d-4181-b387-1f8835cf6333",
+      "title": "透明のペダル",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02017060",
+      "releaseDate": "2020-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/4YZ7n8wB2OrpsQZ2B4qYfo",
+      "isFallback": true
+    }
+  ]
+}

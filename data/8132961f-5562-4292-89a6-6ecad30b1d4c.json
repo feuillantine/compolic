@@ -1,0 +1,1212 @@
+{
+  "name": "太田雅友",
+  "sortName": "オオタマサトモ",
+  "tracks": [
+    {
+      "id": "1c7ed299-0267-494a-a7f1-24b9f51bc3f3",
+      "title": "Romantic Chaser",
+      "artist": "小枝",
+      "isrc": "",
+      "releaseDate": "2005-04-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ab7fdee-76e8-429c-be31-cd1ad95ef64a",
+      "title": "ち・ぐ・は・ぐ",
+      "artist": "天宮学美",
+      "isrc": "JPKI00703425",
+      "releaseDate": "2007-05-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d49900c-0419-4aeb-8f52-fdd84a69f68a",
+      "title": "Cursed Lily",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600511",
+      "releaseDate": "2006-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/2ZnoSjbKGMDlSviiaJGMMv",
+      "isFallback": true
+    },
+    {
+      "id": "92ad4a5b-d1e5-4f9c-92a6-708b6e8a4ce8",
+      "title": "もうちょっとFall in Love",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01311533",
+      "releaseDate": "2013-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/2H5MGrLHQstPpw7MWNeaHJ",
+      "isFallback": true
+    },
+    {
+      "id": "acc5438a-bc47-4f0d-a123-9886076f4ade",
+      "title": "Girlish Lover",
+      "artist": "自らを演出する乙女の会",
+      "isrc": "JPE301300201",
+      "releaseDate": "2013-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "44ec81d1-0c41-44d2-bc88-1b208bc3f647",
+      "title": "Let me Love you",
+      "artist": "桃井はるこ",
+      "isrc": "JPI100500501",
+      "releaseDate": "2005-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c15e7e08-3f27-452e-ae4d-fe16877d8814",
+      "title": "チェルシーガール",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00810447",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/6RYTIhkv6hf7YNwc7wM8KY",
+      "isFallback": true
+    },
+    {
+      "id": "7f517283-05cc-4ac5-a2c2-413a936751b3",
+      "title": "Papillon",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316334",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/5vJ15KKTCrmfIj5zVzyJYO",
+      "isFallback": true
+    },
+    {
+      "id": "3998ca5b-ec81-46af-95cc-8d4ea9f0343a",
+      "title": "TINY TRAIN TOUR",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01601556",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/7CsyUUvroMvzOjvFsQTjXq",
+      "isFallback": true
+    },
+    {
+      "id": "21f7446d-d646-4763-a2a1-551eb1b50446",
+      "title": "Amazing Kiss",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600508",
+      "releaseDate": "2006-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/6SslBgLCmo4AcYlI3CP5XZ",
+      "isFallback": true
+    },
+    {
+      "id": "a6cbb2c2-670e-4a37-ae95-219eb60caa1d",
+      "title": "Bloody Rain",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402658",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/5aThF6XFJ0EEyCNAoqX0BX",
+      "isFallback": true
+    },
+    {
+      "id": "38a038bf-7705-457f-81db-051693796c0f",
+      "title": "Love Sick",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014609",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/70TYMA0d9WTWgDsvucaFUH",
+      "isFallback": true
+    },
+    {
+      "id": "db2feada-e8a4-402f-b66d-c9da9f5783d6",
+      "title": "SUKI…っていいでしょ？",
+      "artist": "神楽坂ゆか",
+      "isrc": "JPKI01314822",
+      "releaseDate": "2013-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/47KQAAMrg1TPT7Wa27E3O6",
+      "isFallback": true
+    },
+    {
+      "id": "3c697509-88a3-4c91-a09b-91ce3183806a",
+      "title": "Endless Story",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215492",
+      "releaseDate": "2011-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/43wTilgpq3p1INxDPzOugR",
+      "isFallback": true
+    },
+    {
+      "id": "e8c2a9fa-0acc-4a9e-960a-5747b861d7c4",
+      "title": "W:Wonder tale",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01218557",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/1fipeXkeQo8nXoWU2Rbu29",
+      "isFallback": true
+    },
+    {
+      "id": "5396197c-38b2-48b4-924d-5af12876f655",
+      "title": "Beautiful Amulet",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00706546",
+      "releaseDate": "2007-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/6eOJBmoObjznVNhX881eFb",
+      "isFallback": true
+    },
+    {
+      "id": "df3faccf-ebef-4325-a2ec-34c8be821a19",
+      "title": "Brand‐new land",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500949",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/5kAvDLbttatME2NQGRhKR0",
+      "isFallback": true
+    },
+    {
+      "id": "0efc4b73-0f9e-4ff9-b2a7-ec4b5f95add5",
+      "title": "フィロソフィー",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101302542",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9019f308-14ec-4356-a144-42586f008d32",
+      "title": "アイ マイ ボーダー",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118354",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/3BJyEpeaeSDTwlfUbGpvQr",
+      "isFallback": true
+    },
+    {
+      "id": "aacf61cd-2262-4a04-8716-8a93a43c7fba",
+      "title": "キミとボクの願いのまま",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402217",
+      "releaseDate": "2014-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/4c2KmFPEnw7eyeNmDvRYUr",
+      "isFallback": true
+    },
+    {
+      "id": "5bdeec67-9787-41ad-9529-61281fc05adb",
+      "title": "スパークリング☆トラベラー",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316315",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Kz8G6jcAzwX5GrQSFMY0Y",
+      "isFallback": true
+    },
+    {
+      "id": "3743b261-8765-4310-b68c-6755a22d2afe",
+      "title": "Spiritual Garden",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200500964",
+      "releaseDate": "2005-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/4wwJftlpA2h4ELf6NFqQyz",
+      "isFallback": true
+    },
+    {
+      "id": "8b084b4b-b2cd-4422-8800-20ce70db6a42",
+      "title": "おしえて A to Z",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215490",
+      "releaseDate": "2010-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/064lm3KdQG1zv48HkjboNf",
+      "isFallback": true
+    },
+    {
+      "id": "d2046f03-7a5d-42d6-bff9-77b435cdef58",
+      "title": "GIFTED",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101801984",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/4jPEfCnaIaVeQCh6gx7LFu",
+      "isFallback": true
+    },
+    {
+      "id": "174c4abb-167a-4f0d-96f0-1caef2157726",
+      "title": "†メタウサ姫 〜黒ゆかり王国ミサ〜†",
+      "artist": "ゆかり姫",
+      "isrc": "JPKI00910184",
+      "releaseDate": "2009-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/3ZT7B43s9N2Vdi5MYvDC36",
+      "isFallback": true
+    },
+    {
+      "id": "7823ef2f-bcf5-4bc9-8d8e-e7d00e539e18",
+      "title": "and Again",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401372",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/0K9h5wTasuE4awrsdCxQAL",
+      "isFallback": true
+    },
+    {
+      "id": "0f0eb58d-8b75-4b13-a692-c845c444ae6d",
+      "title": "Mr.Satisfaction",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601966",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5PapFIctUEMif8meM82A6e",
+      "isFallback": true
+    },
+    {
+      "id": "1476a9cd-c3b1-4e32-ba8d-1f5b8cecc500",
+      "title": "Re:Evolution",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101302543",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb93e9c2-e07c-419d-ac37-f1310a61da54",
+      "title": "Higher Dimension",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01916769",
+      "releaseDate": "2019-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/7By2EbJ3C5UZR0HaoDrTII",
+      "isFallback": true
+    },
+    {
+      "id": "beb33979-4c32-46eb-b466-ddabc452a634",
+      "title": "トラウマの耳たぶ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118393",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/0alDB6i4GXXKNkKGXlkFAG",
+      "isFallback": true
+    },
+    {
+      "id": "47030c8b-b16a-47ca-a81a-6e2a08f5c36e",
+      "title": "めろ〜んのテーマ 〜ゆかり王国国歌〜",
+      "artist": "ゆかり姫",
+      "isrc": "JPKI00811368",
+      "releaseDate": "2008-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/58M8dkhh0r7NftXpt8QtRP",
+      "isFallback": true
+    },
+    {
+      "id": "f098fdad-b5ff-4d45-b619-d5e9d314e340",
+      "title": "Happiness!",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500362",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/1UgdIeCAAt0HNLygp4AqKf",
+      "isFallback": true
+    },
+    {
+      "id": "748043dc-62f6-41a5-a7f1-4f35b3ddc2b9",
+      "title": "キャンディスターにお願い",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316317",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/6m4MtHd4rLZzpQtO1gl1xo",
+      "isFallback": true
+    },
+    {
+      "id": "81a9c16d-fa43-41ee-a3c0-625628a5b441",
+      "title": "ハジマルメロディ",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500952",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/1wT0SfMfRbc7OBiJxcPqx9",
+      "isFallback": true
+    },
+    {
+      "id": "fa1bd130-3b2b-4644-b1ce-460b908f131c",
+      "title": "STAR PARK",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401802",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/26rQRCrMXYczjaAyTMX7nY",
+      "isFallback": true
+    },
+    {
+      "id": "8d62de9f-55c9-4260-b84f-aadc9db3901f",
+      "title": "Reason Living",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601965",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6OxshsKktUpFcSaN1NAP4h",
+      "isFallback": true
+    },
+    {
+      "id": "5c233642-2dbd-40e4-a743-4c15b26b800a",
+      "title": "〜Interlude〜",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401803",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/3KKGT4VHG6EGLfOVnbRTCp",
+      "isFallback": true
+    },
+    {
+      "id": "520d5309-593f-4d73-a48c-61f1e551e539",
+      "title": "Gratitude",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014604",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/5D25k4L7BlOWt0lVuf5COf",
+      "isFallback": true
+    },
+    {
+      "id": "662a6345-5cd1-470b-bd18-ef2d911b52d6",
+      "title": "〜postlude〜",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500954",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/1OdurEVTNiFkLIlk1a3Gcf",
+      "isFallback": true
+    },
+    {
+      "id": "94c93c37-37c2-4945-a921-102f43d89227",
+      "title": "優しい夜に。",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600515",
+      "releaseDate": "2006-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/3NBqEHiPXswYtYF2O8gkUc",
+      "isFallback": true
+    },
+    {
+      "id": "b38b17bb-3389-4f82-a71b-29f046b0fb79",
+      "title": "Fantastic future",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01311530",
+      "releaseDate": "2013-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/2ddvvAWIGyqJjeM0u2o853",
+      "isFallback": true
+    },
+    {
+      "id": "2b016be8-55a8-405a-9940-37f9dca4fa18",
+      "title": "アンビバレンス",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500360",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/6kGyOjPtRHP0P2yWwkzG1V",
+      "isFallback": true
+    },
+    {
+      "id": "d29ff19b-766b-4ba1-9fd7-9021ced640a9",
+      "title": "メタモルフレンズ",
+      "artist": "クローバー",
+      "isrc": "JPI100602327",
+      "releaseDate": "2006-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db062a47-ef60-4770-a8f5-0713ed95717b",
+      "title": "My wish My love",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215489",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0oX4U8oYVEvTCSRc4VOSYt",
+      "isFallback": true
+    },
+    {
+      "id": "df340120-a636-4dd7-a612-1546c05439ac",
+      "title": "One!",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402659",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/1VrzC8pzVvTovx3MWFIT9j",
+      "isFallback": true
+    },
+    {
+      "id": "4cd72f03-1c42-4a14-acbd-62aaf3c12fc0",
+      "title": "marionette",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500361",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/5wwCn234qLYvgm5AXn22Od",
+      "isFallback": true
+    },
+    {
+      "id": "867456a0-1ef3-4e04-8f29-e70a72d950cd",
+      "title": "Goody & Happy",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014614",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/7MMVWgYq8DBSx60xQ1i9yd",
+      "isFallback": true
+    },
+    {
+      "id": "f8548a81-4e95-4aa9-b5ea-a21c6179eabc",
+      "title": "ROUGH DIAMONDS",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601413",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/2t9txwVeiYmbMXsb6q8YPS",
+      "isFallback": true
+    },
+    {
+      "id": "82ebd4ef-1934-47ce-beff-a1121a92d24f",
+      "title": "Little Wish 〜first step〜",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200500297",
+      "releaseDate": "2005-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/7G2dc9GiB9eC0dczU8sCHU",
+      "isFallback": true
+    },
+    {
+      "id": "93399b12-4ab8-48a7-a5a4-c9970c88a374",
+      "title": "Rainy Rainy Sunday",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01116457",
+      "releaseDate": "2011-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/703Gcmcc6YncAtRQZaKb7J",
+      "isFallback": true
+    },
+    {
+      "id": "48e638a2-b6c8-4b66-9263-3f8383fbc17a",
+      "title": "mon chéri",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00811366",
+      "releaseDate": "2008-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/0VklTGBk6oBjm7l7PNihy3",
+      "isFallback": true
+    },
+    {
+      "id": "d41de1ef-de57-4fb3-bd93-b30e168f6c47",
+      "title": "スキミ→♥",
+      "artist": "田所あずさ",
+      "isrc": "JPI101401427",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/0dHBnCJ2nFt6ntDuveuNrT",
+      "isFallback": true
+    },
+    {
+      "id": "96489664-d165-4ae1-a354-da96832ab997",
+      "title": "if",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118400",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/73p9Ba6Dkxca8HIMg5O5XU",
+      "isFallback": true
+    },
+    {
+      "id": "4ca91672-b770-4d57-9174-eba854a7f551",
+      "title": "MEMENTO",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401805",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/610pwcSCHXSceHO66SGBTp",
+      "isFallback": true
+    },
+    {
+      "id": "db2d721f-1127-44c5-84cf-ba1e58e2455d",
+      "title": "Naked Dive",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101502489",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/7CVpqLANmdV127gH7z6Rzc",
+      "isFallback": true
+    },
+    {
+      "id": "69587ec1-4d65-407d-89ac-0e5ff673db74",
+      "title": "Sympathy of Love",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118407",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/56bgkkDDkxsKgHJhq9SXcJ",
+      "isFallback": true
+    },
+    {
+      "id": "cba69452-0e37-486b-88c6-13ea9b58a6c2",
+      "title": "ROCKET SOUL",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401801",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/3FjhJ8XQxYdCxcQC5DmAW8",
+      "isFallback": true
+    },
+    {
+      "id": "6742537f-365b-4199-9c34-0f8f0002fd7f",
+      "title": "Make New STORY!",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101801985",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/2h7WPiRcVTSsKmjC7dyTlS",
+      "isFallback": true
+    },
+    {
+      "id": "d0dcc14a-ae5f-4b24-a90f-e5bcdb2bc1f1",
+      "title": "floral blue",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01018287",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/19Oc0QzRUi9ikKUXrswNN7",
+      "isFallback": true
+    },
+    {
+      "id": "259fa5b3-4aea-4454-a198-303d53a2584a",
+      "title": "レゾンデートルの鍵",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014612",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/6t1ueWdR3F4QFQJ4qAu275",
+      "isFallback": true
+    },
+    {
+      "id": "06ccbb8e-863e-41af-8ed6-a2dbf19230e6",
+      "title": "パーティーは終わらない",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215615",
+      "releaseDate": "2012-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/0GjG1E80TzZsojnGALnowD",
+      "isFallback": true
+    },
+    {
+      "id": "f8b8b2cb-66e2-46d8-86a3-61c939b7b41b",
+      "title": "Super Special Smiling Shy girl",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00917795",
+      "releaseDate": "2009-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/6cudHIqhU86nmXZIlAR4N5",
+      "isFallback": true
+    },
+    {
+      "id": "6cfcc3ab-de6c-42ac-9ec4-20928dbeb618",
+      "title": "Honey Moon",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00310839",
+      "releaseDate": "2003-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2Y2i0yPFcl3w1e0XTUN4OD",
+      "isFallback": true
+    },
+    {
+      "id": "2b20fd6f-70bd-426d-ba11-103e8f341454",
+      "title": "SAKURA dreamers",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01800809",
+      "releaseDate": "2018-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/7A09JU0IiQ3rI99E2NzIOF",
+      "isFallback": true
+    },
+    {
+      "id": "2e15a998-ae67-4b9e-b027-818486f149c9",
+      "title": "傷つく宝石",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01311531",
+      "releaseDate": "2013-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/6cyVsg1tFrIXW0RVhlDMPh",
+      "isFallback": true
+    },
+    {
+      "id": "96130780-4ddd-4d2b-b1fe-d3e59c42cff9",
+      "title": "ふしぎの国のおヒメさま",
+      "artist": "秋篠姫香",
+      "isrc": "",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "18a9f685-6b6c-4066-9910-e4e73f27e250",
+      "title": "RED AND BLACK",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101502491",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2ghhYMDpXkESzgoY7KgLDf",
+      "isFallback": true
+    },
+    {
+      "id": "feca53fc-ab37-4f81-8e04-a1f7027f4c3b",
+      "title": "Tiny Rainbow",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00918439",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/77M4ebln43oUrth3jawBVZ",
+      "isFallback": true
+    },
+    {
+      "id": "10609fc9-bed6-4943-a21c-07590efb61fd",
+      "title": "Heavenly Stars",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014601",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/4ldAVV3zdQJJWGqGeK2PwB",
+      "isFallback": true
+    },
+    {
+      "id": "d1a6f37b-178d-4175-8b7f-c55c1b6a2f2a",
+      "title": "すーぱー☆あふぇくしょん",
+      "artist": "栗林みな実",
+      "isrc": "JPI101101736",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/2CiHVrvqFtoySSKNJ96ttF",
+      "isFallback": true
+    },
+    {
+      "id": "b21bc1db-4091-4d01-a1f9-2da1c81a67ad",
+      "title": "ミンナノナマエヲイレテクダサイ",
+      "artist": "柴崎芦花",
+      "isrc": "JPD731400131",
+      "releaseDate": "2014-03-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ced18030-18a7-4fee-b23b-858e12063b9e",
+      "title": "ワナガナCHANGE!",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401373",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/1yCCtIM8XMtScXqeb86Fdi",
+      "isFallback": true
+    },
+    {
+      "id": "1befda93-7571-4f47-8646-92654f7bf859",
+      "title": "Moonlight secret",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316316",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/3fov5E8WdC3T39ULPFQnAc",
+      "isFallback": true
+    },
+    {
+      "id": "16feb6c5-947d-45ba-ad4f-f205ca450364",
+      "title": "LOVE ME NOW!",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014615",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/4fQ9SARGmTFM6mZULs2A4k",
+      "isFallback": true
+    },
+    {
+      "id": "1f437662-0c76-438a-a756-67d7ef8d62e9",
+      "title": "チアガール in my heart",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118411",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/15teFxgJTXMrZIcpdPMerv",
+      "isFallback": true
+    },
+    {
+      "id": "998958b5-070a-4e9f-b908-8ea54f0c6fea",
+      "title": "イノセント",
+      "artist": "結城奈緒",
+      "isrc": "JPI100500162",
+      "releaseDate": "2005-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/625kgeM25UuBHxCWS25YkI",
+      "isFallback": true
+    },
+    {
+      "id": "91c73ce1-5e0e-4004-83f1-f74b7de8c8ce",
+      "title": "プラチナLover's Day",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01018285",
+      "releaseDate": "2012-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/5r8gzuVAN5yjItHOGW0qPF",
+      "isFallback": true
+    },
+    {
+      "id": "727d7313-9ad6-4c48-9968-277fdbd9cdc3",
+      "title": "I.N.G.",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01218566",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/6e03pTbf8RZszRnio0Ml9H",
+      "isFallback": true
+    },
+    {
+      "id": "81dd02af-a845-4d18-9c44-bb57868998ea",
+      "title": "Crystal Kiss",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401804",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/2x9GkcUm2eWE8XhAZYoLjq",
+      "isFallback": true
+    },
+    {
+      "id": "32c1dbce-bbc0-42dc-86c0-5289d88ee9d2",
+      "title": "ナルシスが嘘をつく",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316320",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0Fgr7gCY4ZWnKjPy7F296T",
+      "isFallback": true
+    },
+    {
+      "id": "8ceccdbc-be7c-450b-bad6-e7d907791cbb",
+      "title": "IMPACT",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601415",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/4or9CSTLG0icCqnQSRB6dn",
+      "isFallback": true
+    },
+    {
+      "id": "6d373acb-4f29-434e-b56e-f94a888f045d",
+      "title": "フラクタル",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500953",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/4sNx8WRuFqrdtbpw7pmAPu",
+      "isFallback": true
+    },
+    {
+      "id": "27dc49a6-8f2b-46e3-ae76-df8ac1717093",
+      "title": "からの、愛!",
+      "artist": "冬海愛衣",
+      "isrc": "",
+      "releaseDate": "2013-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "78c352ae-d36d-436a-8a56-9a584275f463",
+      "title": "fancy baby doll",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215493",
+      "releaseDate": "2012-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/1BuhBSpSaJeRfQGWtVHkmE",
+      "isFallback": true
+    },
+    {
+      "id": "f3fa8592-118b-4149-a4bd-fc95458b92b4",
+      "title": "Swing Heart",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00810440",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/4S4wMJ9FyxtlJ3erQOHJXY",
+      "isFallback": true
+    },
+    {
+      "id": "e42dc2da-61fc-45b2-8a44-4274536103ed",
+      "title": "Distance 〜風の先へ〜",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601967",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/56b94ATHt1Ep21BDuqW2mB",
+      "isFallback": true
+    },
+    {
+      "id": "5cc13e35-f6a1-4bee-a308-f2be0ad57467",
+      "title": "〜prelude〜",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500951",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/5hizCUZDL54zfmDXcph6FC",
+      "isFallback": true
+    },
+    {
+      "id": "f35d6bfb-2950-40d1-8e34-89a9ab323b11",
+      "title": "Passion Error",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316321",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/6BRaEETPML5JuSCBj8wGKA",
+      "isFallback": true
+    },
+    {
+      "id": "d2e54577-4cb3-4418-a23a-ab2e332f8376",
+      "title": "トレモロ",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402216",
+      "releaseDate": "2014-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/08f75xmWD0UUHiEXlCRYZO",
+      "isFallback": true
+    },
+    {
+      "id": "c8fa12b5-5f37-4b0c-bf69-1ca21db0a022",
+      "title": "めろ〜ん音頭 〜Festival of Kingdom〜",
+      "artist": "ゆかりおねいさん",
+      "isrc": "JPKI01111666",
+      "releaseDate": "2011-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/3Ovda3q8mXPZpAjMUWUQke",
+      "isFallback": true
+    },
+    {
+      "id": "ceb6a634-804d-4a4f-aa92-97b77bea4a49",
+      "title": "LφVEST",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401371",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/04vr8Cbg8TLncKvGXb3tps",
+      "isFallback": true
+    },
+    {
+      "id": "37e407b5-cf51-4767-ad53-15be2be11377",
+      "title": "ファンタジック♡ファンファーレ",
+      "artist": "岡咲美保",
+      "isrc": "JPKI02213034",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/3EFrincqXD01RXyABwwfVk",
+      "isFallback": true
+    },
+    {
+      "id": "b9bde567-fb2c-427b-bf80-73c061234b5d",
+      "title": "この指とまれ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01018286",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/0ZFTDY1gO97FG0PwXXJg2i",
+      "isFallback": true
+    },
+    {
+      "id": "001fd931-67e4-4682-bce4-09fdcefb4e78",
+      "title": "アメイジング ザ ワールド",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402215",
+      "releaseDate": "2014-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/6MAo0liMppJQkQBhqSGz1N",
+      "isFallback": true
+    },
+    {
+      "id": "e2e65116-e396-49b2-a9e6-97b70d22f6ed",
+      "title": "バンビーノ・バンビーナ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00815010",
+      "releaseDate": "2008-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/45rqFthoO760lJt8wRZZeK",
+      "isFallback": true
+    },
+    {
+      "id": "b759b94a-4be8-4656-a32a-97a0925c569f",
+      "title": "LOVE and FAKE",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101500950",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/1pzxjH5P2BU7j6z7fwBTPV",
+      "isFallback": true
+    },
+    {
+      "id": "cbb1789a-8392-4e17-8dc3-edd30a9db877",
+      "title": "〜Introduction〜",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401800",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/61A5T8TyfFsbdIbNVtmIJy",
+      "isFallback": true
+    },
+    {
+      "id": "fe5c3497-f2fa-4039-9d2c-2be65257a9dc",
+      "title": "START LINE",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101502490",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/65Nbkj2j6dIobcDnUBJS2D",
+      "isFallback": true
+    },
+    {
+      "id": "cfb4f1f6-9d57-4a44-9d21-5a0443f2731a",
+      "title": "Always Together",
+      "artist": "佐藤ひろ美",
+      "isrc": "JPZ920807584",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/5EFbFPkjyCNcvykXWAye21",
+      "isFallback": true
+    },
+    {
+      "id": "5710cf85-d03f-4ae1-ad06-39ce19aac88c",
+      "title": "Hello HALO",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101401806",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/4u4SiMivVmWAVXB2nr9XCN",
+      "isFallback": true
+    },
+    {
+      "id": "fb0d6179-28a3-4a52-a39b-d1a3664104d3",
+      "title": "虹色バルーン",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00706547",
+      "releaseDate": "2007-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/5YBP0xfo3oKONI0r8sNUR9",
+      "isFallback": true
+    },
+    {
+      "id": "15f4d296-846d-4c61-b0de-2d2a7597b392",
+      "title": "星屑スパイラル",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00917794",
+      "releaseDate": "2009-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/766bILZHa3iW8M8kfbrEmf",
+      "isFallback": true
+    },
+    {
+      "id": "8bfe4ccc-5054-4bf5-8c5a-295642a4a806",
+      "title": "滑空の果てのイノセント",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118395",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1IQYh3nGpM5Fyww1SEuSF5",
+      "isFallback": true
+    },
+    {
+      "id": "c0f0a0bd-6ffc-47db-92ca-fcb91c921fe6",
+      "title": "約束train",
+      "artist": "Ray",
+      "isrc": "JPPI01600700",
+      "releaseDate": "2016-06-08",
+      "spotifyUrl": "https://open.spotify.com/track/2El0q02g0395O0e89orrsk",
+      "isFallback": true
+    },
+    {
+      "id": "4a890704-53e7-4d06-ae16-0fd30a8c46a1",
+      "title": "咲かせて乙女",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01214174",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/2AOmSI6Y0Qt4KnvknmHDWZ",
+      "isFallback": true
+    },
+    {
+      "id": "359455b4-dc7f-44f0-a03e-6978ee6c1843",
+      "title": "心がキミでできてる",
+      "artist": "春咲千和",
+      "isrc": "",
+      "releaseDate": "2013-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ad549c4-3367-4dfc-adeb-ad83d54dcb05",
+      "title": "恋は波のように",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00810448",
+      "releaseDate": "2008-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/1z3UJhV9ShJ3mSZ4KQtetV",
+      "isFallback": true
+    },
+    {
+      "id": "acff7cbc-df7f-4b9d-b75f-6cdc2984e010",
+      "title": "満月のセンシビリティー",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00918441",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/7rTLtOzvGHwYaKkdOtDpwV",
+      "isFallback": true
+    },
+    {
+      "id": "5a9c9a1c-33c1-44c9-82a7-1e875fd9b04c",
+      "title": "女豹",
+      "artist": "神楽坂ゆか",
+      "isrc": "JPKI01314821",
+      "releaseDate": "2013-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/78moJPjIicHuGj0A6i6akS",
+      "isFallback": true
+    },
+    {
+      "id": "d35afed3-66b5-479c-8191-259e6f1e6a3f",
+      "title": "微笑みのプルマージュ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01214171",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/6g7LUp5GBpaCOOUlmdtxHP",
+      "isFallback": true
+    },
+    {
+      "id": "055d1547-0dec-483c-ae21-769722a197f0",
+      "title": "雨音はモノクローム",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118392",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5fPQD52UGYljvi1catKjxl",
+      "isFallback": true
+    },
+    {
+      "id": "8136fe27-ac5e-46b9-b242-1de9dbc31018",
+      "title": "恋と夢と空時計",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316324",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Ke6c5olUOykCBCIHAZKCW",
+      "isFallback": true
+    },
+    {
+      "id": "fc2c69cc-40e5-4856-93ca-7675e2fc91ca",
+      "title": "宇宙で恋は☆るるんルーン",
+      "artist": "ルーンエンジェル隊",
+      "isrc": "JPI100601874",
+      "releaseDate": "2006-10-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0afc5bca-b46b-4998-9858-7f0cd784e627",
+      "title": "名もなき花",
+      "artist": "葉山陽和",
+      "isrc": "JPKI02212962",
+      "releaseDate": "2022-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1vHOOmfnQsqCMWqLnVKsB4",
+      "isFallback": false
+    },
+    {
+      "id": "630f7adb-17e0-4ca4-b00e-933c6f998150",
+      "title": "増殖罵倒少女の愚恋",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01720357",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/0syW92E3aYHxrlUh5R6HVl",
+      "isFallback": true
+    },
+    {
+      "id": "62ac398c-45b0-4840-b39d-45db1b5a080d",
+      "title": "神聖炉",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014611",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/0YfPiPy23mr4bJ6IdaHyV1",
+      "isFallback": true
+    },
+    {
+      "id": "22047eb7-27ad-423e-9d8e-f4489deee4b4",
+      "title": "夢色ラビリンス",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01215495",
+      "releaseDate": "2012-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/0NdJ5m3cGeCwO4eTDdcBgb",
+      "isFallback": true
+    },
+    {
+      "id": "8cdc15d8-7ad3-4a47-a9da-752550174902",
+      "title": "裸足のプリンセス",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01011721",
+      "releaseDate": "2010-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/3kXO7dLaTrI6MXQ2AVjhx7",
+      "isFallback": true
+    },
+    {
+      "id": "7d829f61-e4cd-4312-8fb3-0466ed07fa44",
+      "title": "流れ星ジェニー",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01111667",
+      "releaseDate": "2011-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/5Z2JZA4CFlAQzmKYcx66PF",
+      "isFallback": true
+    },
+    {
+      "id": "2bb90926-d842-46f2-90e2-0ebd2a99f18d",
+      "title": "永遠",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200400609",
+      "releaseDate": "2004-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0nEeflPY5S7L9X2WHjKlpC",
+      "isFallback": true
+    },
+    {
+      "id": "30819a2a-c150-4710-86e4-a007da4ec689",
+      "title": "秘密の扉から会いにきて",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01317971",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR",
+      "isFallback": true
+    },
+    {
+      "id": "ac5007e8-fd90-4117-8d7e-2d01721b275a",
+      "title": "恋におちたペインター",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01014613",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/363PDvfq3bNlzIhddAza9N",
+      "isFallback": true
+    },
+    {
+      "id": "399ba5c5-14bd-4082-956e-b780ac174040",
+      "title": "真新しいカレンダー",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118391",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2KbgdkdokMSTlzJKUnHn88",
+      "isFallback": true
+    },
+    {
+      "id": "e4717229-f3b6-43b9-a713-49e2346949a8",
+      "title": "涙のループ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01011722",
+      "releaseDate": "2010-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/36DlqH1nNeMoCMAzJxMP3X",
+      "isFallback": true
+    },
+    {
+      "id": "d80c34e7-2f68-425e-905c-72de1da7cfc2",
+      "title": "好き…でもリベンジ",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01118414",
+      "releaseDate": "2011-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6BFpI29IkdneZrgJDUpOOo",
+      "isFallback": true
+    },
+    {
+      "id": "f9147757-6d98-43dd-a08a-04b59f06cd29",
+      "title": "片方だけのイヤリング",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01218558",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/4DJs62RLMN1cyjPn2gyMOF",
+      "isFallback": true
+    },
+    {
+      "id": "9c98f349-577d-45e3-92c3-71c46454a17e",
+      "title": "星空のSpica",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI00704549",
+      "releaseDate": "2007-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/5Uodi8h1F1kcuC5APBoJ1x",
+      "isFallback": true
+    },
+    {
+      "id": "a2355e16-d2d6-4e58-b1a6-2f501b7f66c0",
+      "title": "極限Dreamer",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101402657",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/45Je9ebLaGXBEObwlAebIg",
+      "isFallback": true
+    },
+    {
+      "id": "a5419d37-bac4-4842-bb6e-72bbc4c85ade",
+      "title": "君とLOVE",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01214173",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/7pq8L4JQvRGx176SN4cF14",
+      "isFallback": true
+    },
+    {
+      "id": "38152bf6-6ffc-49f2-9daf-17e567bf7ae2",
+      "title": "青空に逢えるよ",
+      "artist": "葉山陽和",
+      "isrc": "JPKI02212964",
+      "releaseDate": "2022-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/5uIALhvSFPkzC67tBldxxR",
+      "isFallback": false
+    },
+    {
+      "id": "992a361e-2079-42d1-b8b7-a66d93a4768a",
+      "title": "純愛レッスン",
+      "artist": "田村ゆかり",
+      "isrc": "JPKI01316323",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0RTrLOV0zwuowMQIVJAYoP",
+      "isFallback": true
+    },
+    {
+      "id": "ecdc6a80-0284-41f0-ac24-35e70b9b482a",
+      "title": "月光STORY",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101302541",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/21hJ11GSYzAQ1rJsH7qBwp",
+      "isFallback": true
+    },
+    {
+      "id": "0eba625c-271c-424a-b437-ccd92a429cf5",
+      "title": "童話迷宮",
+      "artist": "田村ゆかり",
+      "isrc": "JPM200600555",
+      "releaseDate": "2006-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/65uCtP5H8emHcBLGtBazD5",
+      "isFallback": true
+    },
+    {
+      "id": "c1eaeaa2-b6c6-43d9-9c11-ad81d7ca0ad9",
+      "title": "雨のち晴れ",
+      "artist": "SCREEN mode",
+      "isrc": "JPI101601414",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/6VOUsv8qM6QzA6mtVXwesi",
+      "isFallback": true
+    }
+  ]
+}

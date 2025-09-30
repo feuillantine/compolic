@@ -1,0 +1,1158 @@
+{
+  "name": "やしきん",
+  "sortName": "ヤシキン",
+  "tracks": [
+    {
+      "id": "f6e55ab5-4bc3-4268-9dd2-4bb3553bd994",
+      "title": "Hey!カロリーQueen",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01502563",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/342MWJYT7mL2b6kP8jUlRp",
+      "isFallback": true
+    },
+    {
+      "id": "ff74199e-500a-49ef-8f41-da23800b8239",
+      "title": "ジンジャーYell",
+      "artist": "香椎愛莉",
+      "isrc": "JPQ461300091",
+      "releaseDate": "2013-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/1T0r3DGmieEDcirkIAMmyU",
+      "isFallback": true
+    },
+    {
+      "id": "32aef911-cc3e-44f2-981e-f388aa48bce4",
+      "title": "マジBo@ちゃんねる",
+      "artist": "やしきん",
+      "isrc": "JPK631705007",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34ad8858-4c23-49de-8c84-18735a7bd78e",
+      "title": "アニマルま～る",
+      "artist": "名取さな",
+      "isrc": "JPW462424362",
+      "releaseDate": "2024-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/44kaKegiz72JqAtzaM6k14",
+      "isFallback": true
+    },
+    {
+      "id": "bdb2e769-13ac-42ef-80eb-119cd1647718",
+      "title": "マジ争いの歴史",
+      "artist": "やしきん",
+      "isrc": "JPK631705035",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d07f475b-6f78-4ceb-96ed-3b3692a4e057",
+      "title": "マジSEPPO",
+      "artist": "やしきん",
+      "isrc": "JPK631705012",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "38812a13-2e65-4255-89d5-d667d53319c2",
+      "title": "こころのアビッシー",
+      "artist": "月ノ美兎",
+      "isrc": "JPY252400151",
+      "releaseDate": "2025-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/2eqflGsk5QQ5X8gFtHgt6h",
+      "isFallback": false
+    },
+    {
+      "id": "c30f41d3-99ea-427f-bab3-11f2d75bc88a",
+      "title": "Overwrite (Inst)",
+      "artist": "やしきん",
+      "isrc": "JPK631705030",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26faa70c-4afe-4ff0-875f-eb13ac36783f",
+      "title": "minority emotions",
+      "artist": "永野愛理",
+      "isrc": "JPT551800120",
+      "releaseDate": "2018-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/5zcy9VBpyek9kMI8B30sbd",
+      "isFallback": true
+    },
+    {
+      "id": "2e61f16b-d665-406c-b4a1-b42c45dd8a82",
+      "title": "again, サイダー (Inst)",
+      "artist": "やしきん",
+      "isrc": "JPK631705029",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85299107-61e4-4e0f-93f3-37fcffac9ca1",
+      "title": "シアワセ辛略計画",
+      "artist": "カグラナナ",
+      "isrc": "TCJPX2310093",
+      "releaseDate": "2023-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4Bcp9IfIlWtpnsBazBTYRA",
+      "isFallback": false
+    },
+    {
+      "id": "f0a94136-bc3b-439d-8c46-0b0eae46749f",
+      "title": "アイデン貞貞メルトダウン",
+      "artist": "えなこ",
+      "isrc": "JPPC02310005",
+      "releaseDate": "2023-01-06",
+      "spotifyUrl": "https://open.spotify.com/track/3F0hvTxaTJV6OsFnRqefXc",
+      "isFallback": true
+    },
+    {
+      "id": "c15a947d-b209-4619-bb14-aae56842d210",
+      "title": "マジリア充爆発霧散しろし",
+      "artist": "やしきん",
+      "isrc": "JPK631705036",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "91cd39fe-4c92-4fc0-a75a-92f279c618d7",
+      "title": "All we need is Yang",
+      "artist": "Allo",
+      "isrc": "JPPC01900483",
+      "releaseDate": "2019-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3EtR6kndwLo5c3sQJ0htk8",
+      "isFallback": true
+    },
+    {
+      "id": "750b50fe-dd13-4692-9e27-fc3aa95b7928",
+      "title": "マジお色気 (Normal)",
+      "artist": "やしきん",
+      "isrc": "JPK631705003",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bef35c64-b365-4567-8aee-4793edc577de",
+      "title": "トリドリ⇒モリモリ!Lovely fruits☆",
+      "artist": "柏木美亜",
+      "isrc": "JPD731900596",
+      "releaseDate": "2019-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/7DDG2xECZkcaUzgQFO9VE9",
+      "isFallback": true
+    },
+    {
+      "id": "e9f1b2b6-eb76-4efb-a71c-647692b6f196",
+      "title": "ReSound",
+      "artist": "夜空メル",
+      "isrc": "JPV752307841",
+      "releaseDate": "2023-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/2MPSHl3DuugADryC1QhoVP",
+      "isFallback": true
+    },
+    {
+      "id": "908977bd-4c6d-4434-96c3-a316e25176af",
+      "title": "クロッカスの扉",
+      "artist": "天動瑠依",
+      "isrc": "JPX402200187",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/3XzBp2TOEQ8DrjHpxAK2oX",
+      "isFallback": false
+    },
+    {
+      "id": "a2a86f9c-037f-4ca8-b12f-2ffa1b2a1779",
+      "title": "だじゃれーぞんでぇとる",
+      "artist": "名取さな",
+      "isrc": "JPW462532842",
+      "releaseDate": "2025-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/2qrfY6fXtAe5UpvI8U2opG",
+      "isFallback": true
+    },
+    {
+      "id": "b026a301-4a55-4211-813e-bea5ea462867",
+      "title": "マジ3バカがゆく",
+      "artist": "やしきん",
+      "isrc": "JPK631705011",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e1ff20ed-5315-4e32-967f-ab34d23c2feb",
+      "title": "あっちこっちプリンセス",
+      "artist": "灯里愛夏",
+      "isrc": "JPR502501294",
+      "releaseDate": "2025-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3khAhMGK6uBKSScIX7Kur5",
+      "isFallback": true
+    },
+    {
+      "id": "cf101da6-1f39-4983-a334-41f8b44717b7",
+      "title": "summer dream syndrome",
+      "artist": "るん",
+      "isrc": "",
+      "releaseDate": "2011-06-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "63d60e9e-a552-4149-9fd3-81426d514ec2",
+      "title": "マジシリアスな空気",
+      "artist": "やしきん",
+      "isrc": "JPK631705023",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a063af9-9e13-47fe-a34c-95f32ef77e78",
+      "title": "ナイショのはなしは夢の中で",
+      "artist": "メグ",
+      "isrc": "JPPI01551950",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/0W2sfInP0NQVLhMRjiUGHB",
+      "isFallback": true
+    },
+    {
+      "id": "b3f25a07-07b6-4289-ab3f-10f25a43e268",
+      "title": "マジ喧嘩 (物理)",
+      "artist": "やしきん",
+      "isrc": "JPK631705024",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4245a76-2b2f-41cb-915c-6881e424e6e7",
+      "title": "ないた赤鬼、わらう青空",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU901603786",
+      "releaseDate": "2017-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/08mhRW8pappLg1bP1GtY2X",
+      "isFallback": true
+    },
+    {
+      "id": "07e48cd0-663e-4560-b3db-db1390daf0d2",
+      "title": "☆Lovely Super Idol☆",
+      "artist": "シリカ",
+      "isrc": "JPE301202802",
+      "releaseDate": "2012-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/1VQfuv9mSuhw55inKRAzwu",
+      "isFallback": true
+    },
+    {
+      "id": "31ebf57a-4a34-4a76-918e-a517ec2e0d3a",
+      "title": "カタルシス⇒くらいしす 〜大人はこどもの5倍でさけべ〜",
+      "artist": "ななひら",
+      "isrc": "JPC231501211",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/7pEf3VDct6rrjaOkYZeDo7",
+      "isFallback": true
+    },
+    {
+      "id": "fe9bc5d6-650d-4b48-94c7-00afbab3f12a",
+      "title": "Holding the shadows",
+      "artist": "結城明日奈",
+      "isrc": "JPE301900084",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6c6d582a-d320-4eb1-b869-4be4bb92a807",
+      "title": "あはっててっぺんっ",
+      "artist": "May’n",
+      "isrc": "JPX742000157",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6yKSysGcSV75EW3tLq5E8d",
+      "isFallback": false
+    },
+    {
+      "id": "f508b59a-77af-4562-a782-30313c982763",
+      "title": "あにトレケイデンス",
+      "artist": "星あさみ",
+      "isrc": "JPZ921512608",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/1QnZXh3AiFzcTVQW6Z5VVb",
+      "isFallback": true
+    },
+    {
+      "id": "63e42e77-f4d8-442e-9465-d35d8d032613",
+      "title": "イケ贄",
+      "artist": "さくらみこ",
+      "isrc": "JPV752408864",
+      "releaseDate": "2024-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/0tab6b8CzVSTiAoMdPrEHj",
+      "isFallback": true
+    },
+    {
+      "id": "f1c36a27-b0d9-4386-8cab-3ca490ccb96e",
+      "title": "MC DT a.k.a. 童貞の怨念 (Inst)",
+      "artist": "やしきん",
+      "isrc": "JPK631705032",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "953ba225-6593-4a9a-85d4-6f2b78625936",
+      "title": "キセキ的Shining!",
+      "artist": "Hop Step Sing!",
+      "isrc": "JPI101602558",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2XkKx0dlAgaioRclMzuWWY",
+      "isFallback": false
+    },
+    {
+      "id": "24854234-2598-4a19-a2f5-5dba01df490a",
+      "title": "マジお色気 (Easy)",
+      "artist": "やしきん",
+      "isrc": "JPK631705010",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34844150-afa5-49d5-8961-01d765d704c1",
+      "title": "MAD BULLET\"S\"",
+      "artist": "デス・ガン",
+      "isrc": "JPE301401427",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4wyYy0nfXGMrxSNWCOsyP9",
+      "isFallback": true
+    },
+    {
+      "id": "136d90b1-107b-4e82-8d9b-29faaef54ecc",
+      "title": "Happy Lucky Life!!",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01800804",
+      "releaseDate": "2018-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/7pZaug5AoGbxnzw6RePdhD",
+      "isFallback": true
+    },
+    {
+      "id": "5b63c5ec-a1fc-4a7a-8765-bfdeb3a0cb91",
+      "title": "はわはわアワー",
+      "artist": "桃井日奈",
+      "isrc": "JPPC01800147",
+      "releaseDate": "2018-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/5SHKTXlq211dtVCJWgUVOG",
+      "isFallback": true
+    },
+    {
+      "id": "9353916d-cf8d-46db-b156-057db747eb62",
+      "title": "マジあーし",
+      "artist": "やしきん",
+      "isrc": "JPK631705002",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75e5506b-d497-4a2f-b741-2757164ba71a",
+      "title": "オレンジ空の下",
+      "artist": "天道花憐",
+      "isrc": "JPPI01752880",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5UVa05umJ6mYGGBcOHhGUU",
+      "isFallback": false
+    },
+    {
+      "id": "3f0b5be9-fe2a-4f29-9104-50c430a20a33",
+      "title": "METRO BAROQUE",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01212689",
+      "releaseDate": "2012-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/3DJWi9sgQLFdhhUkyt7KTN",
+      "isFallback": true
+    },
+    {
+      "id": "c3ecd169-7e1b-4e4c-a59b-faf6b09375ef",
+      "title": "Happy Moviegenic!",
+      "artist": "霧山アン",
+      "isrc": "JPE302500560",
+      "releaseDate": "2025-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/3FP4jtKyHvMjXZ2uIDO7ib",
+      "isFallback": false
+    },
+    {
+      "id": "9f86264f-b88c-446e-ae02-6fa79f6a82ee",
+      "title": "ココロセンチ",
+      "artist": "柊真琴",
+      "isrc": "JPPC01700831",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/6nIRHa6rc4oPjsub4IH4KS",
+      "isFallback": false
+    },
+    {
+      "id": "a422f100-33c2-4184-a102-e3aba9a742a7",
+      "title": "I know \"ai\"",
+      "artist": "ユイ",
+      "isrc": "JPE301300021",
+      "releaseDate": "2013-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/28KRGP3ZbAPSn6qBfxyPgP",
+      "isFallback": true
+    },
+    {
+      "id": "84b11264-331c-4a3c-a9c4-0dc4addbb625",
+      "title": "Meaning the start",
+      "artist": "アリス",
+      "isrc": "JPE301901384",
+      "releaseDate": "2019-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "609a2f5d-7df9-411d-b5bf-88aca2e36198",
+      "title": "Sharry Baby!",
+      "artist": "鹿乃",
+      "isrc": "JPQ461700458",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/1EC4ubo9SH7bewndCA9YYr",
+      "isFallback": true
+    },
+    {
+      "id": "b1b793e5-2cc2-4e97-bf09-90fa8caaf160",
+      "title": "Heart Sweet Heart",
+      "artist": "ユイ",
+      "isrc": "JPE301400321",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/42lossxkK17RPqKWte0sTP",
+      "isFallback": true
+    },
+    {
+      "id": "131bc020-5c4e-4475-93cf-98f353d505f0",
+      "title": "マジダーッ!!",
+      "artist": "やしきん",
+      "isrc": "JPK631705034",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "df1a2852-03e8-4494-8d28-48e28f846cad",
+      "title": "ファッとして桃源郷",
+      "artist": "アース・スタードリーム",
+      "isrc": "JPZ921600290",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/55z3HTkfjVXo1iEwJivlyq",
+      "isFallback": true
+    },
+    {
+      "id": "043e8c5b-8b3e-4550-a91f-797ab584fcfd",
+      "title": "Memorial Calibur",
+      "artist": "リーファ",
+      "isrc": "JPE301500176",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/2bHfPiDaXYnoFJEw32TJst",
+      "isFallback": true
+    },
+    {
+      "id": "9eb2ae7a-1c5c-44a0-8a2b-fe92919b07d9",
+      "title": "29-Q",
+      "artist": "鹿乃",
+      "isrc": "JPQ461700164",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/1gRmoBvm5GUPOVPLevY77A",
+      "isFallback": true
+    },
+    {
+      "id": "9f023cb7-42a0-4494-b353-84783d35ac85",
+      "title": "すれちがいクエスト",
+      "artist": "天道花憐",
+      "isrc": "JPPI01751910",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/1C8HY5qKucW103ElbOEbAq",
+      "isFallback": true
+    },
+    {
+      "id": "de09f0d9-1776-4aab-a25e-54d4d31340df",
+      "title": "あおはる探検隊",
+      "artist": "抜丸",
+      "isrc": "JPPC02100781",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/6Kpwgmr77yRIG3AoCJFSnO",
+      "isFallback": true
+    },
+    {
+      "id": "aa39772f-0898-4452-8aa6-b358d803264d",
+      "title": "Operation Z",
+      "artist": "AZKi",
+      "isrc": "JPVI02401848",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/0xupdNPqyswTKh9gW51Y9m",
+      "isFallback": true
+    },
+    {
+      "id": "01242a31-2c4e-4786-a12d-784e861f50dc",
+      "title": "マジないわー、なえるわー",
+      "artist": "やしきん",
+      "isrc": "JPK631705026",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ecc6121-b00d-4581-806c-e6480485d3dd",
+      "title": "For you! For みい!",
+      "artist": "長谷川みい",
+      "isrc": "JPPC01901341",
+      "releaseDate": "2019-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/2sT7NJbtaCRHRZ16Rj1zUh",
+      "isFallback": true
+    },
+    {
+      "id": "bc790f28-d151-4f0d-98c6-7097ecd297ac",
+      "title": "LOVescapE",
+      "artist": "天道花憐",
+      "isrc": "JPPI01752840",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/7I6yOnNLWgB9QwxcHx0jH9",
+      "isFallback": false
+    },
+    {
+      "id": "137e9d32-0a93-40ac-bc35-842ba990f037",
+      "title": "マジ喧嘩 (論理)",
+      "artist": "やしきん",
+      "isrc": "JPK631705022",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c542a985-1317-486e-9c48-c365135255d7",
+      "title": "Sing All Overtures",
+      "artist": "キリト",
+      "isrc": "JPE301301822",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/17GZ37fOhA73A7hXllt2e0",
+      "isFallback": true
+    },
+    {
+      "id": "53e7751c-ab14-497b-a080-13787d876069",
+      "title": "Believers-ING!!",
+      "artist": "ときめきアイドル project Rhythmixxx",
+      "isrc": "JPM201900002",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/00wifCTJJrJAxXeJHvnV3m",
+      "isFallback": true
+    },
+    {
+      "id": "760aff36-e313-40c5-b6ee-b2b5504d64b0",
+      "title": "シロイトイキ",
+      "artist": "LiSA",
+      "isrc": "JPE301300043",
+      "releaseDate": "2013-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/7wSw02pU8EDhGIGSCkGR2w",
+      "isFallback": true
+    },
+    {
+      "id": "83f55ce0-5c47-4209-b8c3-a4da8b27d18f",
+      "title": "アキハバラ☆だんす☆なう!!",
+      "artist": "高坂桐乃",
+      "isrc": "",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e92f8e6b-ae04-4f3d-aad2-97ae28c15547",
+      "title": "マジ下校",
+      "artist": "やしきん",
+      "isrc": "JPK631705017",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a9e2f00d-095f-41f0-83eb-57676b5eaca8",
+      "title": "マジぬvごいsjvにおs",
+      "artist": "やしきん",
+      "isrc": "JPK631705027",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b0fea176-998e-4a2d-9c29-cc5b69346d9e",
+      "title": "Heart wrench♡マイニング",
+      "artist": "風巻祭里♀",
+      "isrc": "JPE302400058",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/0B8RQwBFuwUdMLwVn0gMgi",
+      "isFallback": true
+    },
+    {
+      "id": "966d285a-4cbe-479c-b35c-9a5d6bb1a2aa",
+      "title": "エッビーナースデイ",
+      "artist": "名取さな",
+      "isrc": "JPX562100156",
+      "releaseDate": "2021-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/6zWn3u7QWTXuNrk6fimkT8",
+      "isFallback": false
+    },
+    {
+      "id": "719aee00-13e3-4f1f-a0ff-e433170a19b5",
+      "title": "Ubiquitous dB",
+      "artist": "ユナ",
+      "isrc": "JPE301601118",
+      "releaseDate": "2017-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/4QbDafBvBlc0FYgMHvWWo1",
+      "isFallback": true
+    },
+    {
+      "id": "43a2ec52-2456-40b9-ae5a-0fc71a7ef1c7",
+      "title": "マジランドへようこそ",
+      "artist": "やしきん",
+      "isrc": "JPK631705038",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "efe3a342-9eb2-4f97-8682-1a66dd5fe3db",
+      "title": "マジバイト",
+      "artist": "やしきん",
+      "isrc": "JPK631705019",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c38805ce-7515-4a03-adc2-037199907b16",
+      "title": "マジお色気 (Hard)",
+      "artist": "やしきん",
+      "isrc": "JPK631705004",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b5dd5d4-0133-4d39-a669-f1de3ec818e6",
+      "title": "マジデート",
+      "artist": "やしきん",
+      "isrc": "JPK631705018",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fc7beb62-660d-44cf-9d4e-f2bac1e060bb",
+      "title": "だじゃれくりえぃしょん",
+      "artist": "名取さな",
+      "isrc": "JPX562200409",
+      "releaseDate": "2022-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/1Lzfxt4Kqwm96ohZZKFA3C",
+      "isFallback": false
+    },
+    {
+      "id": "e9b1d569-b3ac-4887-9004-5d261c1133b9",
+      "title": "ゲキテキ!",
+      "artist": "亜玖璃",
+      "isrc": "JPPI01752870",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/2qEhnsPBsBVHurwvMKEcWC",
+      "isFallback": false
+    },
+    {
+      "id": "836159fa-99cb-46e1-8624-e8a15014a60f",
+      "title": "カメレオンドーター",
+      "artist": "沙織・バジーナ",
+      "isrc": "",
+      "releaseDate": "2011-03-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d29de9f6-0d0d-4b66-8b6c-0e9734b1d7de",
+      "title": "マジおつ～",
+      "artist": "やしきん",
+      "isrc": "JPK631705025",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f3cef1b1-4a7a-4d08-bf46-33a2a1798b27",
+      "title": "けんけん Party Time!",
+      "artist": "太陽と踊れ",
+      "isrc": "JPPC02311191",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/1SmvIbJ5IabKUYEzKv8cOn",
+      "isFallback": false
+    },
+    {
+      "id": "78ff55e7-fbd1-443a-8133-85497e000123",
+      "title": "kiss×kiss×kiss",
+      "artist": "Hop Step Sing!",
+      "isrc": "JPI101602560",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/5XzE957Mfwd72J7CwihMOs",
+      "isFallback": false
+    },
+    {
+      "id": "9bed1c5a-dff5-41b1-b729-774b0d38688b",
+      "title": "ファンタスティック・エボリューション",
+      "artist": "名取さな",
+      "isrc": "JPW462419150",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/0wldiQILgCMNUwwqTK7rX1",
+      "isFallback": true
+    },
+    {
+      "id": "d0d23926-efa1-414c-b8c9-9c59b61cd059",
+      "title": "マジイケメン降臨",
+      "artist": "やしきん",
+      "isrc": "JPK631705014",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c1299a91-817a-4d75-8baf-2a35fc98f981",
+      "title": "ハートウォッチャー (Inst)",
+      "artist": "やしきん",
+      "isrc": "JPK631705031",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3a785eeb-3654-41f1-b94d-0cdd66974cbe",
+      "title": "おしりぷり音頭",
+      "artist": "名取さな",
+      "isrc": "JPX562300633",
+      "releaseDate": "2023-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/091r8n6R0wUEOImGiiSU3d",
+      "isFallback": false
+    },
+    {
+      "id": "375d59ab-8397-4ae0-9fff-6438ed99187a",
+      "title": "Qunka!",
+      "artist": "板東まりも",
+      "isrc": "JPR501512123",
+      "releaseDate": "2015-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1UWF3pDILLkqgzMNfe3l1X",
+      "isFallback": true
+    },
+    {
+      "id": "8a06294d-6dc8-470a-865f-1205ba9410ff",
+      "title": "Sync",
+      "artist": "RO-KYU-BU!",
+      "isrc": "JPQ461300187",
+      "releaseDate": "2013-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/5jjBRUA1LIxUDYe0ltBH4s",
+      "isFallback": true
+    },
+    {
+      "id": "c733a684-8cbd-4135-ac01-ce48e332323e",
+      "title": "マジ旅行",
+      "artist": "やしきん",
+      "isrc": "JPK631705020",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17e9bd8c-2cd7-4308-ae04-3452bb79890a",
+      "title": "星の海の記憶",
+      "artist": "長瀬麻奈",
+      "isrc": "JPX402000061",
+      "releaseDate": "2020-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/402OqaTC3ovxdGYrs6U0PC",
+      "isFallback": false
+    },
+    {
+      "id": "0fa0c51a-3742-42be-bd13-ef08692bdb56",
+      "title": "恋、堕ちるコトナカレSS",
+      "artist": "天道花憐",
+      "isrc": "JPPI01752850",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/578dhFfFFTHKvnh6261Ush",
+      "isFallback": false
+    },
+    {
+      "id": "c0924652-cc6c-4057-aded-784331158cab",
+      "title": "マジ天使な正統派ヒロイン",
+      "artist": "やしきん",
+      "isrc": "JPK631705006",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf9ac853-c5ab-43f9-918d-d28cddabcee7",
+      "title": "マジ昼休み",
+      "artist": "やしきん",
+      "isrc": "JPK631705016",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e802c31-a3c5-4025-b96b-5aa0123b6d90",
+      "title": "笑顔乱舞",
+      "artist": "黄歩鈴",
+      "isrc": "JPPC02310624",
+      "releaseDate": "2023-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/2W87COlzKQoS0wcFCfPbvU",
+      "isFallback": true
+    },
+    {
+      "id": "7bad7b9e-1e18-4cf1-b4f9-ec31a753b59a",
+      "title": "マジ思い出",
+      "artist": "やしきん",
+      "isrc": "JPK631705021",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0467e5a6-a8c0-41e1-b25a-c00022aae5a3",
+      "title": "君と好きなコト",
+      "artist": "星ノ守千秋",
+      "isrc": "JPPI01752860",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/0jUoieqdzfNjPoSfudjVHL",
+      "isFallback": false
+    },
+    {
+      "id": "bfacbb57-dd73-4484-8241-cdfe4405f737",
+      "title": "マジ怖ぇ…",
+      "artist": "やしきん",
+      "isrc": "JPK631705005",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a4f28c4b-dd1a-4a9a-a01a-e11fb11559fb",
+      "title": "華よ心々から",
+      "artist": "御華見衆 椿組",
+      "isrc": "JPPC02000637",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/1yfqHTBsCW91oyAFH0sm7t",
+      "isFallback": true
+    },
+    {
+      "id": "ba908b56-ea01-4b83-b2b2-aaee859db8d9",
+      "title": "鏡合わせのアンビバレット",
+      "artist": "リゼ",
+      "isrc": "JPPI01651320",
+      "releaseDate": "2016-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/4oFTlBecS4AcaMor3ISa30",
+      "isFallback": true
+    },
+    {
+      "id": "5303719f-631b-4a6d-bd23-99d3cfc97d4f",
+      "title": "マジ妹のような存在系",
+      "artist": "やしきん",
+      "isrc": "JPK631705008",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "291de5b4-ed93-4b4d-950e-ec3f857d6728",
+      "title": "桜色クレッシェンド",
+      "artist": "永野愛理",
+      "isrc": "JPT551700235",
+      "releaseDate": "2017-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3Kiwv58ChxyCKnwVxcr0bm",
+      "isFallback": true
+    },
+    {
+      "id": "15a36947-5392-455b-b19f-acd390c09e55",
+      "title": "全天候型いらっしゃいませ",
+      "artist": "ココア",
+      "isrc": "JPPI01451400",
+      "releaseDate": "2014-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/7FgyWLX9LzLNbz5s5AinG6",
+      "isFallback": true
+    },
+    {
+      "id": "26cfec68-ac9c-40b5-8e25-b3a4e59a848f",
+      "title": "恋の大運動会",
+      "artist": "虎御前の太刀",
+      "isrc": "JPPC01901533",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/7tmKNrtllNIqsNKCTwOD1Y",
+      "isFallback": true
+    },
+    {
+      "id": "cbbfcd4a-20b4-4c02-9b77-8d92cd1a2712",
+      "title": "マジ流行りのあの曲、なんていうんだっけ",
+      "artist": "やしきん",
+      "isrc": "JPK631705037",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b3b7ea60-1ba5-49b0-9dc1-3b8ddc938af2",
+      "title": "紅、華を咲かせて",
+      "artist": "御華見衆 椿組",
+      "isrc": "JPPC01901581",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/2kWM9Ba0HuGcoCmac3Ky6l",
+      "isFallback": true
+    },
+    {
+      "id": "5bd23041-9e80-4951-aec1-0f9deff16eec",
+      "title": "満月とシルエットの夜",
+      "artist": "坊ちゃん",
+      "isrc": "JPPI02150350",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2UtllBFFQrnojIsmdfAiDq",
+      "isFallback": false
+    },
+    {
+      "id": "f29d49c5-b5d3-4d1e-902e-1def3fb76859",
+      "title": "やきもち風味のカモミール",
+      "artist": "千夜",
+      "isrc": "JPPI01650660",
+      "releaseDate": "2016-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/3fkIc2p0FgdVS4ut124I8w",
+      "isFallback": true
+    },
+    {
+      "id": "99bc6c38-d298-4bb0-9f29-575a5ab1e1f5",
+      "title": "進化系Colors",
+      "artist": "衛藤可奈美",
+      "isrc": "JPD731800144",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/4nyGrtmpnfABJ8lpnVnSz3",
+      "isFallback": true
+    },
+    {
+      "id": "f56916cb-3e56-4bcf-a819-8b9dd9e017a1",
+      "title": "煽動海獣ダイパンダ",
+      "artist": "笹木咲",
+      "isrc": "JPZ922004934",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/4ZhRmL9viOvvkZ7hfxa4i5",
+      "isFallback": true
+    },
+    {
+      "id": "a6872893-3c49-4f34-bce4-7d6430c22036",
+      "title": "愛 舞 ミライ!",
+      "artist": "チャペの泉",
+      "isrc": "JPTF02120404",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/5dNqWCuA6TT61jEjAjJqQM",
+      "isFallback": true
+    },
+    {
+      "id": "0b04b19b-2563-453e-a202-64b001b91a1b",
+      "title": "星屑カンパネラ",
+      "artist": "成宮すず",
+      "isrc": "JPX402400097",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/36tBKYNRqRxv5UMt1MQyvP",
+      "isFallback": true
+    },
+    {
+      "id": "541efcf4-85e6-4b62-a344-3fd22aa087f3",
+      "title": "金魚",
+      "artist": "高槻かなこ",
+      "isrc": "JPI102101607",
+      "releaseDate": "2021-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/1vaHDeW1xjE1x78uacz4Z7",
+      "isFallback": true
+    },
+    {
+      "id": "bdb17951-6ca9-4e7c-8df3-6b2a14a6c0c3",
+      "title": "マジ次回予告",
+      "artist": "やしきん",
+      "isrc": "JPK631705040",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d168331c-3ed3-44f9-93e5-098f55a09979",
+      "title": "放課後マーメイド",
+      "artist": "しぐれうい",
+      "isrc": "JPZ922204338",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/4EwRjHviKXIlmEUfIItkqP",
+      "isFallback": true
+    },
+    {
+      "id": "5da82a3e-c63a-4a80-ade4-2eb449b19a40",
+      "title": "君とレヴュー",
+      "artist": "坊ちゃん",
+      "isrc": "JPPI02350750",
+      "releaseDate": "2023-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/2cAhy0nreIKsXAC3WM1FsP",
+      "isFallback": false
+    },
+    {
+      "id": "931592db-dae6-4086-9d68-790e55dedb1c",
+      "title": "マジ土下座からはじまる恋",
+      "artist": "やしきん",
+      "isrc": "JPK631705001",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ab614801-b0ec-456b-a6f1-54c5f5a0b24e",
+      "title": "マジ煩悩大戦争",
+      "artist": "やしきん",
+      "isrc": "JPK631705033",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8135cc4-9f04-4989-80c3-1cac0d9d5f51",
+      "title": "弱酸性ラジオブレイク",
+      "artist": "名取さな",
+      "isrc": "JPX562300740",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/2rfKNpXaYrakthqPWtexRW",
+      "isFallback": false
+    },
+    {
+      "id": "51e66381-481a-483f-9652-e3b67e1385f8",
+      "title": "メタモル・カレイドスコープ",
+      "artist": "ネネカ",
+      "isrc": "JPCO02326630",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/2B383uTokUkgo8KPXPkBYC",
+      "isFallback": false
+    },
+    {
+      "id": "2f207d78-e521-4c4d-a23d-78199cdac2c2",
+      "title": "召喚ショーケース ～異世界転移した先でフェネックが悪魔の象徴！？冒険から追放された ので、歌とダンスで世界を変えます！～",
+      "artist": "尾丸ポルカ",
+      "isrc": "JPV752509765",
+      "releaseDate": "2025-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/6je00F5k2akbd7gB2h9aMK",
+      "isFallback": true
+    },
+    {
+      "id": "41fbf5ca-3680-402b-803b-4c0c04c0b6c1",
+      "title": "偉人先人 Oh, Hero!!",
+      "artist": "シャーロック・シェリンフォード",
+      "isrc": "JPPC01603021",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/691t4gYveS2ueQpwczcFCD",
+      "isFallback": true
+    },
+    {
+      "id": "79419fc8-08e6-4935-a2fd-7c2664ed96a8",
+      "title": "マジ土下座からはじまった恋",
+      "artist": "やしきん",
+      "isrc": "JPK631705028",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "79290ea2-55f3-4444-ac71-e8fdeb616405",
+      "title": "マジ登校",
+      "artist": "やしきん",
+      "isrc": "JPK631705015",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fafdb971-5509-417d-952f-d4ea4710c4aa",
+      "title": "夕暮れアフター",
+      "artist": "鳴海杏子",
+      "isrc": "",
+      "releaseDate": "2014-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7410b4bd-c33c-4660-b140-b09e6504d126",
+      "title": "夏のジレンマ",
+      "artist": "皇天馬",
+      "isrc": "JPPC01700603",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/4k2jIsLKfddlm52JOj2egz",
+      "isFallback": true
+    },
+    {
+      "id": "ce64ccde-9714-4d5f-babc-cd97cf8cd30e",
+      "title": "仰げば尊Mission!",
+      "artist": "アグネスデジタル",
+      "isrc": "JPZ252400845",
+      "releaseDate": "2025-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/1nkdS4VFPZ8YoWP9ExKfpt",
+      "isFallback": true
+    },
+    {
+      "id": "606f8ddf-76a2-4193-97ed-78203c1760d8",
+      "title": "マジ脳内会議",
+      "artist": "やしきん",
+      "isrc": "JPK631705013",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09fd2859-34d8-4020-9b54-e82330f52a07",
+      "title": "ルナリア",
+      "artist": "オルタナティブガールズ",
+      "isrc": "JPJ931600094",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/59SAyhbFQYrst1xTc9Pmic",
+      "isFallback": true
+    },
+    {
+      "id": "7dd52696-e64e-43c3-ab17-6c0a1a5b7e7b",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの",
+      "isrc": "JPZ921309422",
+      "releaseDate": "2013-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN",
+      "isFallback": true
+    },
+    {
+      "id": "7277f0bd-5dda-41ed-8162-515f30b183d7",
+      "title": "饒舌スキャンダラス",
+      "artist": "霞ヶ丘詩羽",
+      "isrc": "JPE301401165",
+      "releaseDate": "2014-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "03234a9b-b7ff-4baf-909d-547acc5e8105",
+      "title": "剣鬼恋歌 第二幕",
+      "artist": "リリアナ・マスカレード",
+      "isrc": "JPD732401866",
+      "releaseDate": "2024-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/1xCrFSUqmONSnGY2bafmlk",
+      "isFallback": true
+    },
+    {
+      "id": "9bfc7639-ecc7-4a4c-bf58-6fa75e9bca49",
+      "title": "銀河系フィロソフィー",
+      "artist": "ネオユニヴァース",
+      "isrc": "JPZ252300317",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/2QkMJpuRyh0nrJvXZ4Y5jD",
+      "isFallback": false
+    },
+    {
+      "id": "245ceea6-66be-4039-a231-dbd0650f793d",
+      "title": "マジ妹の方向性がday after tomorrow",
+      "artist": "やしきん",
+      "isrc": "JPK631705009",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

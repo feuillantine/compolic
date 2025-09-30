@@ -1,0 +1,537 @@
+{
+  "name": "Q-MHz",
+  "sortName": "キューメガヘルツ",
+  "tracks": [
+    {
+      "id": "9f3438cf-3504-4211-bb24-d88bda9a68f5",
+      "title": "Catch me if you JAZZ",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703202",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/0jyXo0DB8chFj2kHdQkMNu",
+      "isFallback": true
+    },
+    {
+      "id": "4fb9adba-664f-46a7-b9d0-8b62a2685038",
+      "title": "Love? Reason why!!",
+      "artist": "鈴木このみ",
+      "isrc": "JPD732200447",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6mxGQEjIxL6grFLPuvT3kg",
+      "isFallback": true
+    },
+    {
+      "id": "cebb56ec-3297-4694-b847-f84773baf381",
+      "title": "Fight oh! MIRAI oh!",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402000112",
+      "releaseDate": "2021-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/6dlCheSa8S55eaaVKSV6kU",
+      "isFallback": false
+    },
+    {
+      "id": "83ac2783-91cb-4e96-a29b-1f6b0da65126",
+      "title": "Chaotic inner world",
+      "artist": "AZKi",
+      "isrc": "JPVI02401849",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/5jdyeLEcP2L9LTqPtv8efK",
+      "isFallback": true
+    },
+    {
+      "id": "a7fbfc47-c8e6-46bb-9f49-1479f93e2b7c",
+      "title": "Original My Life",
+      "artist": "小林愛香",
+      "isrc": "JPTF02321601",
+      "releaseDate": "2023-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/4Sj4iTl3ZhPUUNcCXEjG47",
+      "isFallback": false
+    },
+    {
+      "id": "63f215c1-3445-4fa5-8420-dbcac7b39b35",
+      "title": "キメマスター!",
+      "artist": "バンドじゃないもん!",
+      "isrc": "JPPC01600768",
+      "releaseDate": "2016-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/4Z2EQL4J2BL0NJmfyUDpKM",
+      "isFallback": true
+    },
+    {
+      "id": "96861a10-d817-4fe6-b831-853afa19cef5",
+      "title": "Courageous‐Clap",
+      "artist": "田所あずさ",
+      "isrc": "JPI101901810",
+      "releaseDate": "2019-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/11b0tt4sv4NcnWBAT9LA4y",
+      "isFallback": true
+    },
+    {
+      "id": "24321cae-3c1b-4c72-ba46-88eccc18a599",
+      "title": "HEARTRAIL",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703209",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2kSw2LTNl5m8aK0T26wSGJ",
+      "isFallback": true
+    },
+    {
+      "id": "6f5dc113-6502-4939-9715-96647715717c",
+      "title": "魁",
+      "artist": "常闇トワ",
+      "isrc": "JPV752307594",
+      "releaseDate": "2023-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/5XzxVOU8ap4kjAy2Qb8YgA",
+      "isFallback": true
+    },
+    {
+      "id": "3a96135e-d659-4c6a-835c-2d79c0c33b2b",
+      "title": "涙 one of them",
+      "artist": "田所あずさ",
+      "isrc": "JPI101701965",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/534WmqDG4AR7fieiS9D7Ew",
+      "isFallback": true
+    },
+    {
+      "id": "0978b3a0-a5ee-4951-932f-4711ec6a095b",
+      "title": "Fighter’s high",
+      "artist": "田所あずさ",
+      "isrc": "JPI101601282",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/0fmtrjxeddZQ4easS5ZsPu",
+      "isFallback": true
+    },
+    {
+      "id": "fba29575-f4cc-42c1-ac3a-abbe3a878921",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "isrc": "JPI101700517",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3yGMNQFdIflEty0tdKlEdd",
+      "isFallback": true
+    },
+    {
+      "id": "857ba64c-f2c3-4932-acfb-f98951b81c3c",
+      "title": "Shock out, Dance!!",
+      "artist": "LizNoir",
+      "isrc": "JPX402000057",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/1QLHeEWIz3iKZ7hHhaFlbh",
+      "isFallback": false
+    },
+    {
+      "id": "c0b97703-e613-4334-b041-0bedac70b761",
+      "title": "Splash Dance!!",
+      "artist": "星咲あかり",
+      "isrc": "JPD732000065",
+      "releaseDate": "2020-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/23c7So7FNLr0XoBTTjYEiN",
+      "isFallback": true
+    },
+    {
+      "id": "c4227a32-c52a-4a03-9f95-3cd68e9165f1",
+      "title": "悔しいことは蹴っ飛ばせ",
+      "artist": "小松未可子",
+      "isrc": "JPTF02106501",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/2LC8TbA5LPezxhnNqu0UGT",
+      "isFallback": true
+    },
+    {
+      "id": "c4ca6211-ecdf-4dcd-ad22-fff082c62409",
+      "title": "Rosy future",
+      "artist": "▽▲TRiNITY▲▽",
+      "isrc": "JPPI02100970",
+      "releaseDate": "2021-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/0qP2u5AixKdWG4z4hibzNn",
+      "isFallback": true
+    },
+    {
+      "id": "2fd3e8ee-8845-4b03-a891-1ece44216d41",
+      "title": "Blue sky summer",
+      "artist": "LizNoir",
+      "isrc": "JPX402200191",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/36OPhNIeKhwRwuczXEuOef",
+      "isFallback": false
+    },
+    {
+      "id": "e0c8f704-ed64-444e-b17e-7538ea929e65",
+      "title": "Heartache soldier",
+      "artist": "小林愛香",
+      "isrc": "JPTF02110901",
+      "releaseDate": "2021-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/5tswenkSsUnvpTJbZwNWkF",
+      "isFallback": true
+    },
+    {
+      "id": "e4049ef4-7e31-46dc-a47a-9e1fddd433e8",
+      "title": "純真エチュード",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703204",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/0cTqliZ6FaZUXBa7A6yANV",
+      "isFallback": true
+    },
+    {
+      "id": "da47db6d-c632-4601-96e6-896dc7831ac4",
+      "title": "Dash&Daaash!!",
+      "artist": "風男塾",
+      "isrc": "JPTE01904030",
+      "releaseDate": "2022-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/0ge2zRZX5VqECf4uDR7HQt",
+      "isFallback": true
+    },
+    {
+      "id": "df213500-3de4-4401-add1-da2c3509adb2",
+      "title": "Imagine day, Imagine life!",
+      "artist": "小松未可子",
+      "isrc": "JPTF01614001",
+      "releaseDate": "2016-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/2pPXWAoHE4dcRxuOSrEVaK",
+      "isFallback": true
+    },
+    {
+      "id": "83e7bfda-90b5-43c4-8204-66f7acd01354",
+      "title": "また、はじまりの地図",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703201",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2UsN5LeslF5VKUnKjG4KTC",
+      "isFallback": true
+    },
+    {
+      "id": "b1c3b3e9-3577-438f-a5b8-e03e9e2a605e",
+      "title": "流れ星じゃないから",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703207",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/1TZ3cHYKLr2kEID0dY4xSJ",
+      "isFallback": true
+    },
+    {
+      "id": "dede4e23-86d2-4005-bb5e-24a1975f5983",
+      "title": "MI‐RA‐I miracle circle",
+      "artist": "小林愛香",
+      "isrc": "JPTF02221001",
+      "releaseDate": "2022-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/2teuGbYmx8unEiMqAGjeBW",
+      "isFallback": false
+    },
+    {
+      "id": "1fec1064-11d7-4a97-9296-027eeb96fc0f",
+      "title": "UNITY",
+      "artist": "三枝明那",
+      "isrc": "JPY252400141",
+      "releaseDate": "2024-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/7MSXFQhtzptMWF7GS926sA",
+      "isFallback": true
+    },
+    {
+      "id": "d0931e60-1e0e-4c7f-b261-87a4f66b0c23",
+      "title": "だから返事はいらない",
+      "artist": "小松未可子",
+      "isrc": "JPTF01614002",
+      "releaseDate": "2016-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/2AGu49OdOI2algsg1zYjop",
+      "isFallback": true
+    },
+    {
+      "id": "371356e9-feda-4feb-a819-0c0daee8f0fd",
+      "title": "運命の太陽",
+      "artist": "May’n",
+      "isrc": "JPVI01730090",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6bccf94b-4b07-44dc-9d2c-a53db6645ee7",
+      "title": "永遠と言ってみたい",
+      "artist": "小松未可子",
+      "isrc": "JPTF02106502",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/5jDVg2Sf5fzN9AglkXWUo5",
+      "isFallback": true
+    },
+    {
+      "id": "9884a972-08a9-4788-a550-13fbbb5a1f73",
+      "title": "硝子の地球儀",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703205",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2NWZbtZZi4suIe31UzCBN0",
+      "isFallback": true
+    },
+    {
+      "id": "e76d8211-90ff-41ab-b6d8-aaebb95bc70b",
+      "title": "青春カラダダダッシュ!",
+      "artist": "バンドじゃないもん!",
+      "isrc": "JPPC01700184",
+      "releaseDate": "2017-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/5m7UWrdRsPems9oF0GuKsh",
+      "isFallback": true
+    },
+    {
+      "id": "699b68a3-8d21-4ba7-b08c-7c8861eb49d8",
+      "title": "Thunderclap in the sky",
+      "artist": "吉河順央",
+      "isrc": "JPR502147574",
+      "releaseDate": "2021-05-04",
+      "spotifyUrl": "https://open.spotify.com/track/5dsUdVo84FVDlMwl8iZO2N",
+      "isFallback": true
+    },
+    {
+      "id": "1d5c7a04-e9a4-4f3b-bd44-ada1cadd039c",
+      "title": "I know “The Unknown World\"",
+      "artist": "▽▲TRiNITY▲▽",
+      "isrc": "JPPI02203730",
+      "releaseDate": "2022-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/45YgErzSNdoA7c31V16KQr",
+      "isFallback": false
+    },
+    {
+      "id": "8a287b56-6ef4-4be4-86f0-144843b7ac37",
+      "title": "NINJA NAKAYOSHI",
+      "artist": "バンドじゃないもん!MAXX NAKAYOSHI",
+      "isrc": "JPTE02400670",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/2U7uwy20jcyVy8bvzI0LtC",
+      "isFallback": false
+    },
+    {
+      "id": "f878ed14-977a-4579-a963-fb004d8a924e",
+      "title": "Alf Laylah Party",
+      "artist": "井口裕香",
+      "isrc": "JPQ461600357",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/3AKINcYP5TNuybKv3oUsDY",
+      "isFallback": true
+    },
+    {
+      "id": "053d7dd7-3580-4f00-9ad5-e404184b1181",
+      "title": "星のように夜を照らせ (LizNoir ver.)",
+      "artist": "LizNoir",
+      "isrc": "JPX402400010",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/6p1QwFn8FFIIWhIY0i1bdQ",
+      "isFallback": true
+    },
+    {
+      "id": "ecb31886-3c63-4a64-976e-d505926fe18f",
+      "title": "最高優美ロンリネス",
+      "artist": "LizNoir",
+      "isrc": "JPX402200188",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/0RtnC2xtRU1BVshh33fKsR",
+      "isFallback": false
+    },
+    {
+      "id": "5751c20a-3c76-4c9d-aad9-b67a8944c490",
+      "title": "My sky Red sky",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703206",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/4CNoQTtrvYtF6MNO9UzHgh",
+      "isFallback": true
+    },
+    {
+      "id": "86f1dd3b-f088-4d7a-9605-1f9b50280d63",
+      "title": "NO LIFE CODE",
+      "artist": "小林愛香",
+      "isrc": "JPTF02001701",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6dE1dODA05laxJ0V9fOPh1",
+      "isFallback": true
+    },
+    {
+      "id": "4daab80c-fef1-4c10-ab83-bcbadd0ca89e",
+      "title": "ランダムメトロノーム",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703203",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/7aYb7qQb59vh2Hn6JLV5e0",
+      "isFallback": true
+    },
+    {
+      "id": "b46fcbf6-f94b-4ecb-ad0f-1f18b708deb8",
+      "title": "Tough Heart",
+      "artist": "小林愛香",
+      "isrc": "JPTF02022801",
+      "releaseDate": "2021-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/0L9K9LAP1sE58F4Z0v6A01",
+      "isFallback": true
+    },
+    {
+      "id": "6acc04b9-324d-42a6-af31-912ad9e090ae",
+      "title": "愛と呼びたい花がある",
+      "artist": "ささきいさお",
+      "isrc": "",
+      "releaseDate": "2016-09-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b210f7e-3615-46e2-8a7c-c28adbbb2f47",
+      "title": "GIRI-GIRI borderless world",
+      "artist": "LizNoir",
+      "isrc": "JPX402100013",
+      "releaseDate": "2021-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/3WpGtfLL6Tl10WShVb7XJh",
+      "isFallback": false
+    },
+    {
+      "id": "d4914a54-72d0-4d4d-be65-041887bca0c1",
+      "title": "Aiming for Utopia",
+      "artist": "田所あずさ",
+      "isrc": "JPI101701973",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/3IqzvIxXCFCluhs6Wt2WlK",
+      "isFallback": true
+    },
+    {
+      "id": "16e6b660-5f1f-4c95-8596-ebb25d909c3c",
+      "title": "Pajama KINGDOM",
+      "artist": "田所あずさ",
+      "isrc": "JPI101701969",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/6JaoqTSs9Xe73usUgtdhh9",
+      "isFallback": true
+    },
+    {
+      "id": "5159f322-b9df-4c2a-a7f6-13060e7b02d5",
+      "title": "1HOPE SNIPER",
+      "artist": "田所あずさ",
+      "isrc": "JPI101601968",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0v8gjOIyxI5qxVbc3mwWJ6",
+      "isFallback": true
+    },
+    {
+      "id": "bd68611e-c09f-4759-ab17-b930cd39e818",
+      "title": "my dress code",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703210",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/4b4w9X7kTo21JByiHMUT87",
+      "isFallback": true
+    },
+    {
+      "id": "d5e086b2-7a39-4ce9-9475-5ff0aff59599",
+      "title": "Lonely Flight",
+      "artist": "小林愛香",
+      "isrc": "JPTF02419201",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/2bKFybrQXNytFr7D5qRH9R",
+      "isFallback": true
+    },
+    {
+      "id": "7f774c29-0cc3-4b2c-922f-96402421d328",
+      "title": "Lonely Battle Mode",
+      "artist": "小松未可子",
+      "isrc": "JPTF01703208",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/6UTCvq5AdDkRqfRiBOkQR4",
+      "isFallback": true
+    },
+    {
+      "id": "ebd0381a-8ea0-4150-bf33-7906b9cb8f22",
+      "title": "White ambitions",
+      "artist": "茅原実里",
+      "isrc": "JPI101703006",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/0HNS5ECbBrBPHhNJeJT6NJ",
+      "isFallback": true
+    },
+    {
+      "id": "1b42fab5-5c7d-4426-afc8-17b337eab680",
+      "title": "AMBITIOUS GOAL",
+      "artist": "小林愛香",
+      "isrc": "JPTF02104801",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/05guRRGLnEKPhfFs5kZsDi",
+      "isFallback": true
+    },
+    {
+      "id": "35c2b8b8-d85f-47c1-9639-8946f1874309",
+      "title": "Please! Please! Please!",
+      "artist": "小林愛香",
+      "isrc": "JPTF02110906",
+      "releaseDate": "2021-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/5vVAz1q378zuYeFxJd0EsP",
+      "isFallback": true
+    },
+    {
+      "id": "0a7fc505-5aca-481d-b607-08785e85de0d",
+      "title": "The Last Chance",
+      "artist": "LizNoir",
+      "isrc": "JPX402000077",
+      "releaseDate": "2021-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/0fX5rfXL3MyxHyx1HDyltB",
+      "isFallback": false
+    },
+    {
+      "id": "2da9a3e0-de46-43fb-9e60-6bbbd2777992",
+      "title": "情熱だけで生きてみろ",
+      "artist": "LizNoir",
+      "isrc": "JPX402400169",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1nv63fvOdzi7QEC0LrhzRV",
+      "isFallback": true
+    },
+    {
+      "id": "c202dc2b-59a2-4043-8fc6-3faf1183dc8e",
+      "title": "夢で世界を変えるなら",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102100009",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/3YJPGcqbx49y1h13FlXBDJ",
+      "isFallback": true
+    },
+    {
+      "id": "39587ecb-f86f-4111-a988-66d2e97aac4c",
+      "title": "空は誰かのものじゃない",
+      "artist": "小林愛香",
+      "isrc": "JPTF02110903",
+      "releaseDate": "2021-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/4TFPrxAaq0yZjBgZxqPAVT",
+      "isFallback": true
+    },
+    {
+      "id": "8ada0a9b-b5c1-4c15-b001-287a2790e36a",
+      "title": "Darkness sympathizer",
+      "artist": "LizNoir",
+      "isrc": "JPX402200015",
+      "releaseDate": "2022-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/31yGjw8MFldT8sWDp81qYS",
+      "isFallback": false
+    },
+    {
+      "id": "48461945-b81e-4d5e-b5c8-716d6023d9c8",
+      "title": "セカイは夢を燃やしたがる",
+      "artist": "LizNoir",
+      "isrc": "JPX402100187",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7EB6OXtr3bZdnA5bApT34W",
+      "isFallback": false
+    },
+    {
+      "id": "47d0bb27-07a8-42d4-a445-3af0a429a805",
+      "title": "微炭酸SWIMMER",
+      "artist": "しぐれうい",
+      "isrc": "JPPO02403509",
+      "releaseDate": "2024-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/2sp3yvzgeojK3Jwb9EsR6F",
+      "isFallback": true
+    },
+    {
+      "id": "61a16f1a-a007-4a96-87a7-8fd2d311b4cb",
+      "title": "Shiny Mystery Tour",
+      "artist": "LizNoir",
+      "isrc": "JPX402400033",
+      "releaseDate": "2024-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/6K9SFL5OiwoahB7qTDNIxG",
+      "isFallback": true
+    }
+  ]
+}

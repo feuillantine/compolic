@@ -1,0 +1,141 @@
+{
+  "name": "新井健史",
+  "sortName": "アライケンジ",
+  "tracks": [
+    {
+      "id": "44ecff46-821c-4364-a5cc-5f7bb4f82e84",
+      "title": "第七楽章 アセノスフェアの審判／第二節 Raging Planet",
+      "artist": "DystopiaGround",
+      "isrc": "",
+      "releaseDate": "2010-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "be667995-c379-4f80-898c-2234fcb19298",
+      "title": "fictional moon (album version)",
+      "artist": "fripSide",
+      "isrc": "",
+      "releaseDate": "2008-09-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c162a25-ca30-4573-a2a3-9685e86fd344",
+      "title": "ステップ",
+      "artist": "カサンドラ",
+      "isrc": "USBN29801075",
+      "releaseDate": "2023-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/5C9CZJVwevz17Itnp64Hz7",
+      "isFallback": true
+    },
+    {
+      "id": "ab2e5a25-f23f-462a-9335-92fb107ad938",
+      "title": "そのハート、危険物につき取り扱いChu♥意！！",
+      "artist": "KOTOKO",
+      "isrc": "",
+      "releaseDate": "2023-06-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7c2bc79-bcc3-4ea8-8e02-f5a9f68e9795",
+      "title": "Dimension tripper!!!!",
+      "artist": "nao",
+      "isrc": "JPK631303101",
+      "releaseDate": "2013-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/2F6WcCHOdRzhOjFPrIHzJ9",
+      "isFallback": true
+    },
+    {
+      "id": "51e198df-7a28-4807-991e-a20d86a035ea",
+      "title": "ぱすてるチャイム",
+      "artist": "nao",
+      "isrc": "JPK631007601",
+      "releaseDate": "2011-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/3s3xJ1IzVynmTpQlEyFuME",
+      "isFallback": true
+    },
+    {
+      "id": "3584da92-1271-4371-937d-465bf55e8554",
+      "title": "羅針盤",
+      "artist": "クサカンムリ",
+      "isrc": "",
+      "releaseDate": "2008-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c2b8e013-c6f7-4fea-9c0d-cd67718b8a62",
+      "title": "cheer up forever",
+      "artist": "fripSide",
+      "isrc": "JPPI00905910",
+      "releaseDate": "2019-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/4cFOOesTfbKHcG30Epz734",
+      "isFallback": true
+    },
+    {
+      "id": "a6341a17-5c93-4181-8152-81c8cc218823",
+      "title": "vanity destroyer -fripSide edition-",
+      "artist": "fripSide",
+      "isrc": "JPPI00513880",
+      "releaseDate": "2005-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/2Oy2uKOVNmv7wThs5HIC27",
+      "isFallback": true
+    },
+    {
+      "id": "9100e6d2-5f00-4651-a541-1cc8b6a3b90c",
+      "title": "君へのトビキリ☆応援歌。",
+      "artist": "nao",
+      "isrc": "JPK631000802",
+      "releaseDate": "2010-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/4RBhFwJIoQTaUBwEvk0TaY",
+      "isFallback": true
+    },
+    {
+      "id": "b7fcbc0f-2e00-4184-9416-6d9b7a423bdf",
+      "title": "星の絆",
+      "artist": "カサンドラ",
+      "isrc": "",
+      "releaseDate": "2020-01-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cf178341-4198-4861-a3f3-90265eb1da2c",
+      "title": "ゆうかげ",
+      "artist": "nao",
+      "isrc": "TWCC32415847",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/5TPVTqMNiBAyTOxuDqlXeA",
+      "isFallback": true
+    },
+    {
+      "id": "7d8b5881-f175-49b2-892f-039cb8b8e232",
+      "title": "咆哮！ド田舎ちゃんねる５！",
+      "artist": "NAO",
+      "isrc": "",
+      "releaseDate": "2010-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "67ce3b5e-3011-484d-b59a-76b7961ae306",
+      "title": "sincerely",
+      "artist": "nao",
+      "isrc": "JPK631003702",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/5TpCyRQPcxmmCRXuoxXrtq",
+      "isFallback": true
+    },
+    {
+      "id": "d990ef5b-b4b0-4ec5-94dd-1ce122a919bf",
+      "title": "プール・バケーション",
+      "artist": "fripSide NAO project!",
+      "isrc": "",
+      "releaseDate": "2008-08-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

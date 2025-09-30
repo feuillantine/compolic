@@ -1,0 +1,393 @@
+{
+  "name": "クボナオキ",
+  "sortName": "クボナオキ",
+  "tracks": [
+    {
+      "id": "bef6eb9b-72eb-4036-826d-c19134a91ca6",
+      "title": "プルケリマを朝に",
+      "artist": "石原夏織",
+      "isrc": "JPPC02410930",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1F3tuhd8ahltIJifWHrqBp",
+      "isFallback": true
+    },
+    {
+      "id": "9bd45a8a-d6ba-4b2b-85f1-642ec5a338d5",
+      "title": "alarm",
+      "artist": "Silent Siren",
+      "isrc": "JPN901502410",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/7r1Iw5pkjxzP7gF5ldagBa",
+      "isFallback": true
+    },
+    {
+      "id": "4d2124d3-1968-46e4-9e0f-c49ffca8400b",
+      "title": "ちゅるサマ!",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPPO01902840",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/3IdBaZC2EJAtzDZIYjryMO",
+      "isFallback": true
+    },
+    {
+      "id": "1f71c947-502b-4027-bde4-2a91386bfe66",
+      "title": "More Fantastic",
+      "artist": "B.O.L.T",
+      "isrc": "JPKI02116861",
+      "releaseDate": "2021-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/4lMR3vGjTY5sE6xOpGSSIQ",
+      "isFallback": true
+    },
+    {
+      "id": "4c3a3436-5cfd-4d00-b613-892f70738edc",
+      "title": "フジヤマディスコ",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO01700277",
+      "releaseDate": "2017-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/5VBjgiTYtgcSwLa2osNX3P",
+      "isFallback": true
+    },
+    {
+      "id": "6eef5221-f398-46db-b53b-f2ea01d40d3e",
+      "title": "宇宙戦争宣戦布告",
+      "artist": "Micro Mix Mountain",
+      "isrc": "JPU901503420",
+      "releaseDate": "2015-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/4qxFIylnCExhKs0w7V1qAD",
+      "isFallback": true
+    },
+    {
+      "id": "9a2e7cdc-97c5-4e62-ac47-f049b4e6164c",
+      "title": "キミノスキピ",
+      "artist": "白上フブキ",
+      "isrc": "JPV752409351",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/5XRv3XpqMSDbNRaEKfpNKS",
+      "isFallback": true
+    },
+    {
+      "id": "e6f2368b-1a7f-4f09-b806-c84bb082d1eb",
+      "title": "最強?最高!Brave My Heart",
+      "artist": "立花日菜",
+      "isrc": "JPPC02411814",
+      "releaseDate": "2024-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/0zY0eSjFswM5srLCx4dvYl",
+      "isFallback": true
+    },
+    {
+      "id": "38535036-4834-4894-b17a-9d76acf22661",
+      "title": "半透明の世界で",
+      "artist": "石原夏織",
+      "isrc": "JPPC01800934",
+      "releaseDate": "2018-07-11",
+      "spotifyUrl": "https://open.spotify.com/track/7l04agEOiakXsQrqxyIxn0",
+      "isFallback": true
+    },
+    {
+      "id": "bc59ce83-f82f-4d69-898e-37fe8d4f2445",
+      "title": "恋い雪",
+      "artist": "Silent Siren",
+      "isrc": "JPN901402520",
+      "releaseDate": "2014-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/5bHFXKCgekLxBXzu0s867W",
+      "isFallback": true
+    },
+    {
+      "id": "9ffe820e-bf98-4dc8-a83d-30f734841502",
+      "title": "チェリボム",
+      "artist": "Silent Siren",
+      "isrc": "JPN901503100",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/343QgBIgEHYO4HtDNsblkn",
+      "isFallback": true
+    },
+    {
+      "id": "9e4a93fd-ce13-4856-ac7a-fb0ca278b2c7",
+      "title": "Attack",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO01806675",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/1Yf27k6l9VpNa7Bf2bXfYD",
+      "isFallback": true
+    },
+    {
+      "id": "4f53c88f-f474-41b1-8852-d932eb826e38",
+      "title": "ラヴなのっ♡",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602102504",
+      "releaseDate": "2021-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/0TQgLfGm9XuQfroL7Lmfb1",
+      "isFallback": true
+    },
+    {
+      "id": "04d762f6-a625-491d-9d6c-83384ea03ed6",
+      "title": "Happy Smile",
+      "artist": "テラス×テラス",
+      "isrc": "",
+      "releaseDate": "2022-06-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8e8113ae-6474-42a8-9a9b-c0d2fa346a23",
+      "title": "Have a good Game",
+      "artist": "星美彩花",
+      "isrc": "JPPC02413694",
+      "releaseDate": "2025-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/1Z72aXnU5nusOxklzkcbcQ",
+      "isFallback": true
+    },
+    {
+      "id": "8bbe3503-7ff3-4d9b-8c58-8c7083b1d5df",
+      "title": "太陽 SUMMER!",
+      "artist": "Appare!",
+      "isrc": "TCJPA2486919",
+      "releaseDate": "2024-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/6qKVnKY98CNg7am2zvdUvV",
+      "isFallback": true
+    },
+    {
+      "id": "37cfee31-0c5b-43c5-b443-93ec83d69edd",
+      "title": "BANG!BANG!BANG!",
+      "artist": "Silent Siren",
+      "isrc": "JPN901401120",
+      "releaseDate": "2014-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/00MGR4t48x18zYs54hD8Dr",
+      "isFallback": true
+    },
+    {
+      "id": "66589dbe-4347-454c-b6bd-7e3b05b829db",
+      "title": "ハローハロー",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPPO01902844",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/0RiIBudUXfaKMhNFsOFyUb",
+      "isFallback": true
+    },
+    {
+      "id": "2fac742d-6dc7-4e8a-bda5-b3cffcbc6198",
+      "title": "Poppin' Up!",
+      "artist": "中須かすみ",
+      "isrc": "JPI102001564",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe",
+      "isFallback": false
+    },
+    {
+      "id": "5a24b54b-b9f9-4a07-b784-5b58b8054c69",
+      "title": "GoWay",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPS602203169",
+      "releaseDate": "2017-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/7sW7bNiJ19CcIFH86TaKqs",
+      "isFallback": true
+    },
+    {
+      "id": "881a0e35-d467-416f-a9ba-144a5faf2205",
+      "title": "ラブシーフ",
+      "artist": "パラディーク",
+      "isrc": "TCJPU2209618",
+      "releaseDate": "2022-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/1FxlIn2j45xKBHYUQXQwp1",
+      "isFallback": true
+    },
+    {
+      "id": "207dc813-9680-423b-a9b0-097085be80e8",
+      "title": "Happyyyy Pop!",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602202780",
+      "releaseDate": "2022-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/4YoB1mC5SUEe3zIaP3v5f9",
+      "isFallback": true
+    },
+    {
+      "id": "c3348e7a-125f-4447-95d5-86b0254f87ec",
+      "title": "明日もSunny Days!",
+      "artist": "テラス×テラス",
+      "isrc": "",
+      "releaseDate": "2022-06-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4dd65b38-12dc-4ab2-a3db-3b20e6e11a44",
+      "title": "stella☆",
+      "artist": "Silent Siren",
+      "isrc": "JPN901202180",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/4l42ZN6CPoin39K7xYzaYa",
+      "isFallback": true
+    },
+    {
+      "id": "a6b3fd5e-8a01-4540-9a9c-a4f38e06946b",
+      "title": "Sus4",
+      "artist": "SILENT SIREN",
+      "isrc": "TCJPY2498952",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/4ROkTottnNXqTSjEgAGNkG",
+      "isFallback": false
+    },
+    {
+      "id": "5c2f8266-4486-4771-b54b-e122ad1b7f2c",
+      "title": "ときどきセンチメンタル",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602403688",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/4U68I2kU7p2Dez0EJShWt6",
+      "isFallback": true
+    },
+    {
+      "id": "933ea68d-36fc-439f-958c-a04b24c26ce4",
+      "title": "夜とワンダーランド",
+      "artist": "石原夏織",
+      "isrc": "JPPC02000984",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/1ZlQWIhrmLGKqG9Y82SP3S",
+      "isFallback": true
+    },
+    {
+      "id": "2e6eca14-e5ae-461a-8b6c-83bb3ab8b24a",
+      "title": "テレテレパシー",
+      "artist": "天王寺璃奈",
+      "isrc": "JPI101901546",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL",
+      "isFallback": false
+    },
+    {
+      "id": "a4e12acc-d4b9-4827-87d7-cf4a54115c84",
+      "title": "ビタースイート",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPS602203179",
+      "releaseDate": "2018-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/1HvDL5nZx4IJe0Wz5OvcIU",
+      "isFallback": true
+    },
+    {
+      "id": "aeee1a5e-7e9d-4f3f-a7a3-ba9fb8a747f8",
+      "title": "≒",
+      "artist": "愛美",
+      "isrc": "JPKI02211484",
+      "releaseDate": "2022-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/57ye8XgQtyaZpa5iw4FJbS",
+      "isFallback": true
+    },
+    {
+      "id": "e385bd98-5386-4b1d-aaef-e02d0120a222",
+      "title": "愛ゆえ",
+      "artist": "星川サラ",
+      "isrc": "JPR502300928",
+      "releaseDate": "2023-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/2DrlRZIUZwJL3abYI9IvZV",
+      "isFallback": true
+    },
+    {
+      "id": "66c216ce-589d-4448-9ecf-ac195d0058b3",
+      "title": "常夏パーティータイム",
+      "artist": "えのぐ",
+      "isrc": "JPPO02000116",
+      "releaseDate": "2020-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/5W8Es2BfR0sgjfNPzL0oiJ",
+      "isFallback": false
+    },
+    {
+      "id": "8790dd42-b6c4-46e6-a2fb-ffba53631673",
+      "title": "君を照らす",
+      "artist": "テラス×テラス",
+      "isrc": "",
+      "releaseDate": "2022-06-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d053873c-e60a-41da-8ab8-c7fa17f4efb5",
+      "title": "ハートサングラス",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPPO01902845",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/7p0PWcQWSvYvR07PHm4ruV",
+      "isFallback": true
+    },
+    {
+      "id": "9831607a-0cdc-4c12-88c4-f8740ac288b9",
+      "title": "バトン",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602301775",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3lvmamnh3IDWsxFgTTwEe2",
+      "isFallback": true
+    },
+    {
+      "id": "0f4b9ab4-9f28-4f19-b8eb-86b8fcf982d7",
+      "title": "ショコラ",
+      "artist": "小倉唯",
+      "isrc": "JPKI01910304",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Od2fEudobEt5kyCJ2H1HG",
+      "isFallback": true
+    },
+    {
+      "id": "0abdcdc8-ef9e-4943-9444-4e96d01aa29c",
+      "title": "エンジェルナンバー",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPPO01902841",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/5EXDXM0iEOy1QJi4TYvjKA",
+      "isFallback": true
+    },
+    {
+      "id": "5e5a0436-f17b-4e85-85d9-df19b78c28c2",
+      "title": "Sweet Pop! (DJ Laxxell's Master Pop Remix)",
+      "artist": "SILENT SIREN",
+      "isrc": "",
+      "releaseDate": "2016-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f662cc41-9b04-4653-a6d4-3e8249bbb18b",
+      "title": "恋のレモネード",
+      "artist": "テラス×テラス",
+      "isrc": "TCJPY2318808",
+      "releaseDate": "2023-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/3GJ15ytJcPuhc5hNfq2qFt",
+      "isFallback": true
+    },
+    {
+      "id": "32bb73ab-9a9c-4dd3-97bc-94e59f2b07a2",
+      "title": "はじまりのはじまり",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602106039",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/5UCXr45NMnVNRw8yqgSz4V",
+      "isFallback": true
+    },
+    {
+      "id": "9a0daacd-853f-4d5d-9eca-b30675e06264",
+      "title": "ワスレナグサ",
+      "artist": "26時のマスカレイド",
+      "isrc": "JPS602203172",
+      "releaseDate": "2017-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/18mtEks4pc1SVjxT8khPMA",
+      "isFallback": true
+    },
+    {
+      "id": "faca7028-57c1-4a65-b599-6428912b7858",
+      "title": "ブルーリーアイス",
+      "artist": "AOAO",
+      "isrc": "TCJPB2426619",
+      "releaseDate": "2024-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/2pd4Wc91syYE3qdSfF8Ghx",
+      "isFallback": true
+    },
+    {
+      "id": "01767862-7d2f-460a-95fc-ed9ce04513fc",
+      "title": "EVERYDAY!",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602202781",
+      "releaseDate": "2022-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/1qiUzAnPAFmXH3CImZdm72",
+      "isFallback": true
+    }
+  ]
+}

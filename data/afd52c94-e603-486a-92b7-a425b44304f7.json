@@ -1,0 +1,402 @@
+{
+  "name": "5u5h1",
+  "sortName": "スシ",
+  "tracks": [
+    {
+      "id": "a65f4de5-50bd-479e-9cb1-9c13524692a2",
+      "title": "Autonomy",
+      "artist": "Kotone",
+      "isrc": "JPPO02100509",
+      "releaseDate": "2021-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/1PK0rOUgn6oqYku5XdrqzF",
+      "isFallback": true
+    },
+    {
+      "id": "c2344d25-b9b6-4dd9-af2d-7e8f33a71b95",
+      "title": "ENDGATE",
+      "artist": "2_wEi",
+      "isrc": "JPE502100144",
+      "releaseDate": "2022-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/0cqCJ5A06fs4wKJosPPeO2",
+      "isFallback": false
+    },
+    {
+      "id": "9532aed9-1852-404a-8e7b-59a3db68c423",
+      "title": "ミラクルキャンディファンシー",
+      "artist": "ななひら",
+      "isrc": "TCJPA2448388",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/5jQ5rgLOCYWl4sisikfNOP",
+      "isFallback": true
+    },
+    {
+      "id": "6ed65398-58fd-448b-8d8c-7d646abfc434",
+      "title": "Outer Existence",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE501800047",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/3l5hfFg5mxVpy7jMYOhjDr",
+      "isFallback": false
+    },
+    {
+      "id": "2d5c8f58-ef03-4dae-89a2-fa872b4743a8",
+      "title": "お散歩日和",
+      "artist": "睦月",
+      "isrc": "JPVI02002443",
+      "releaseDate": "2020-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/6rhVzRg3aYs3ytzKXaYHJY",
+      "isFallback": true
+    },
+    {
+      "id": "921b06d9-f9b6-41a9-8617-59604e4d5a07",
+      "title": "ゴチャメチャ×ワンダーランド",
+      "artist": "RiPoP",
+      "isrc": "TCJPU2367072",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/0YRZwkXnbzwXFqvsd2ykCE",
+      "isFallback": false
+    },
+    {
+      "id": "ec4a71de-7f0b-4e4b-9f74-8a23ddec758a",
+      "title": "Inheaven",
+      "artist": "2_wEi",
+      "isrc": "JPE501900095",
+      "releaseDate": "2020-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/13fd9VTtiQiTEzHJ0vzTtg",
+      "isFallback": false
+    },
+    {
+      "id": "177b6b68-7609-4ddc-853c-614ea648eab5",
+      "title": "ルルカワイマ",
+      "artist": "Liyuu",
+      "isrc": "JPI102102890",
+      "releaseDate": "2021-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/4D4KGkGjdSXLTIoYWzKRlL",
+      "isFallback": true
+    },
+    {
+      "id": "2e70887a-99c0-4b60-a563-6502e42a5a41",
+      "title": "シュガーコート・ドリーム",
+      "artist": "白咲花",
+      "isrc": "JPVI01900095",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/6Z0jFvI2RMByktlKItYQ6e",
+      "isFallback": true
+    },
+    {
+      "id": "4cda6c58-ce32-4b61-b4e0-c7d4e6bda241",
+      "title": "Windshifter",
+      "artist": "佐々木李子",
+      "isrc": "JPI102400711",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/3agi2ulq0flZnX3hVeiwlV",
+      "isFallback": true
+    },
+    {
+      "id": "4d0a2050-0275-46ae-b024-3de8ecf35578",
+      "title": "Reborn",
+      "artist": "Kotone（天神 子兎音）",
+      "isrc": "TCJPA2419877",
+      "releaseDate": "2024-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/00SQBG6yKQE1RKAddBmz4p",
+      "isFallback": true
+    },
+    {
+      "id": "49a2fd26-5c94-4949-8687-abbd81f03e14",
+      "title": "ロマンティックダンサー",
+      "artist": "内田真礼",
+      "isrc": "JPPC01800372",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4oV8UvGk3RCiJ08mOE9fOP",
+      "isFallback": true
+    },
+    {
+      "id": "73da66c6-db44-4509-b2ae-f1f5dc500ae8",
+      "title": "Jailbreak",
+      "artist": "2_wEi",
+      "isrc": "JPE501900085",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/4KJSftfcRk82lNTyJ5fOhs",
+      "isFallback": false
+    },
+    {
+      "id": "cb73d141-3048-459b-8315-677a983839e4",
+      "title": "Loudness",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE502200003",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/4DouNVqd8lDYVwOA9wi4S2",
+      "isFallback": false
+    },
+    {
+      "id": "04aa347c-d15f-441b-bd5f-5c90886b7826",
+      "title": "ハートにＱ",
+      "artist": "みらくらぱーく!",
+      "isrc": "",
+      "releaseDate": "2025-10-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "69b6f1aa-fce2-4b54-9b05-b93ab09357ff",
+      "title": "Hypernova",
+      "artist": "永吉昴",
+      "isrc": "JPI102401762",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/65lRMUnsIFCLBn3jAoHl8M",
+      "isFallback": true
+    },
+    {
+      "id": "828a6db8-38f6-4330-9ae6-10f7623270a5",
+      "title": "Synergistic White",
+      "artist": "KARAKURI",
+      "isrc": "TCJPS2286578",
+      "releaseDate": "2022-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/3vae8epHUlEOFR91cq0MGO",
+      "isFallback": true
+    },
+    {
+      "id": "3573564a-1ecd-4836-a48b-b2cb3d935825",
+      "title": "わたしのCOLOR(S)",
+      "artist": "結衣",
+      "isrc": "JPD641800001",
+      "releaseDate": "2018-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/1zJcYZeVtHbIlikRwXK8a9",
+      "isFallback": false
+    },
+    {
+      "id": "dd5e4009-4afd-4fdd-a805-051783db9148",
+      "title": "Event Horizon",
+      "artist": "三角 葵",
+      "isrc": "",
+      "releaseDate": "2024-04-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d607762a-e55a-4d94-9f93-c7c0cbd0a610",
+      "title": "Minus",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE501800046",
+      "releaseDate": "2017-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/1UFBjDDCg5jjmVacbulRug",
+      "isFallback": false
+    },
+    {
+      "id": "1bf33597-a97e-4e7e-84cb-a86396fda594",
+      "title": "ひっさつマイマイモード",
+      "artist": "麻布麻衣",
+      "isrc": "JPI102501862",
+      "releaseDate": "2025-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/7n7JBYchOMRQX431dswTR7",
+      "isFallback": false
+    },
+    {
+      "id": "e9d8cfca-531a-49bc-9247-07a25256bf8a",
+      "title": "Good day, Mr. Liar",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE502200006",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/4tAj2k9SkRVj8R9l2iatO5",
+      "isFallback": false
+    },
+    {
+      "id": "05a9d6a2-ddda-4f37-8ce6-7019af3c6437",
+      "title": "バブリン",
+      "artist": "HIMEHINA",
+      "isrc": "JPZ922503968",
+      "releaseDate": "2025-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/0XaXBYehQBOWVn28LZT3LY",
+      "isFallback": false
+    },
+    {
+      "id": "f9426046-9f6d-43d8-9a15-42315c1f01dd",
+      "title": "My Sunny Side!",
+      "artist": "大室櫻子",
+      "isrc": "JPI102401644",
+      "releaseDate": "2024-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/23V4eW7wMMmizW30HeICJc",
+      "isFallback": true
+    },
+    {
+      "id": "7972f800-064e-49d7-8d44-5b1b1a17df50",
+      "title": "VERY BERRY LOVE",
+      "artist": "アルストロメリア",
+      "isrc": "JPI102201762",
+      "releaseDate": "2022-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/7gzthuIzXzuEkd4YQXTOLk",
+      "isFallback": false
+    },
+    {
+      "id": "5b69ae2e-aabe-465a-ac1c-0b4c6d295c5a",
+      "title": "Lv.0の勇者",
+      "artist": "笹木咲",
+      "isrc": "JPY252300178",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/0brBOylJdhDPChNVHpSJA3",
+      "isFallback": true
+    },
+    {
+      "id": "e9437a99-cfaa-408d-b01a-b9569dc442a2",
+      "title": "アクマチックシンドローム",
+      "artist": "山崎エリイ",
+      "isrc": "JPE502300099",
+      "releaseDate": "2023-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/1wRWMbLh2IjQujuswFPIcX",
+      "isFallback": false
+    },
+    {
+      "id": "0feca03a-be03-4122-8726-ec8194375aff",
+      "title": "スイーツランド・パラドックス",
+      "artist": "白咲花",
+      "isrc": "JPVI02002435",
+      "releaseDate": "2020-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/6NLMmTVmvvi3IN07zSKnA6",
+      "isFallback": true
+    },
+    {
+      "id": "030c59c8-fd91-462c-89c5-d0b3ab899117",
+      "title": "PROVE",
+      "artist": "佐々木李子",
+      "isrc": "JPI102400951",
+      "releaseDate": "2024-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/5hV4Ba5caN6vohW3bwfTq9",
+      "isFallback": true
+    },
+    {
+      "id": "317ae2f4-fe8d-40ff-82d5-62222aaa0a3e",
+      "title": "UNPLUG",
+      "artist": "2_wEi",
+      "isrc": "JPE501800055",
+      "releaseDate": "2018-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/40V2xE7iGhbDTSDOUMzCfg",
+      "isFallback": false
+    },
+    {
+      "id": "a0113033-a189-4b0a-bb55-8254ce40925e",
+      "title": "Pious Bullets",
+      "artist": "B.A.C",
+      "isrc": "JPE502000029",
+      "releaseDate": "2020-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/5p4cL6ukF0If7S3VftYCv5",
+      "isFallback": false
+    },
+    {
+      "id": "fe146fb7-011d-4d0c-be32-1c4e3b3a296e",
+      "title": "BAN [G]",
+      "artist": "Kotone（天神 子兎音）",
+      "isrc": "TCJPD2403186",
+      "releaseDate": "2024-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/2KnVM55QEqM7zjZaw1lmZg",
+      "isFallback": true
+    },
+    {
+      "id": "ab0f720a-d9cc-4a1d-8070-f73e15c967f1",
+      "title": "スーパースター",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE502200001",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/0AD2EBovBkyla5LoEIfCRg",
+      "isFallback": false
+    },
+    {
+      "id": "08c7daaf-80ae-40ae-a5f0-40f2642fba37",
+      "title": "トキメキズム",
+      "artist": "山崎エリイ",
+      "isrc": "JPE502300098",
+      "releaseDate": "2023-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/7JZCy4hsY1aJdB2hdiSgxC",
+      "isFallback": false
+    },
+    {
+      "id": "75c33b99-cedf-471a-bc2c-dc808e32d02b",
+      "title": "Prism Melody",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752205671",
+      "releaseDate": "2022-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6d9c5OBqFehugEm6K2iXB5",
+      "isFallback": true
+    },
+    {
+      "id": "2f03ad59-7b00-4871-9d4b-f1d3d0b7e5ff",
+      "title": "No Distance",
+      "artist": "麻倉もも",
+      "isrc": "JPX401700105",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/6zximsJR3U0JT5tcpoaBAQ",
+      "isFallback": true
+    },
+    {
+      "id": "2e3f0103-e1f4-4bc2-b089-9791290476ec",
+      "title": "わがままとPコート",
+      "artist": "Liyuu",
+      "isrc": "JPI102402873",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1VfVJukjvV9VIRXisJfikY",
+      "isFallback": true
+    },
+    {
+      "id": "e65e78c3-a64c-48b6-9f43-bd6d668e12c5",
+      "title": "INFINIT3!!",
+      "artist": "8/pLanet!!",
+      "isrc": "JPR501718590",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/6JMfDLXaKbN5RimkAZKFWv",
+      "isFallback": false
+    },
+    {
+      "id": "c230b0a3-d7b5-409f-953f-f8a18cb02797",
+      "title": "散歩道",
+      "artist": "TrySail",
+      "isrc": "JPU901800200",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/6gceN0LzaNH4rEL4rXtg69",
+      "isFallback": true
+    },
+    {
+      "id": "26315d53-a07a-4eae-af75-e6c088733c27",
+      "title": "Zenith",
+      "artist": "KARAKURI",
+      "isrc": "TCJPS2286574",
+      "releaseDate": "2022-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/0EfavCXUVJ3pwzFLSfr3hq",
+      "isFallback": true
+    },
+    {
+      "id": "f7ad1244-8167-4915-bafa-78d400ff8df6",
+      "title": "CuteBit",
+      "artist": "Liyuu",
+      "isrc": "JPI102302828",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/0yYfNoOXkCEJp3v0Vfo2IS",
+      "isFallback": true
+    },
+    {
+      "id": "452e893f-d39b-47d6-94f7-3d77228b677f",
+      "title": "Blessing After Cataclysm",
+      "artist": "B.A.C",
+      "isrc": "JPE502100001",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4VZLGJbkDdOZ7LfC7zHwmj",
+      "isFallback": false
+    },
+    {
+      "id": "782a8a7f-6cf8-475b-a488-ac6d763c5053",
+      "title": "Numb",
+      "artist": "2_wEi",
+      "isrc": "JPE501800054",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/73BhEigFAwpdQnmA6A1D3C",
+      "isFallback": false
+    },
+    {
+      "id": "49ca8d65-fb89-4f2b-a3ac-20137590da55",
+      "title": "CHARACTER",
+      "artist": "Kotone（天神子兎音）",
+      "isrc": "TCJPB2454860",
+      "releaseDate": "2024-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/19qhSZFkkTAZby8FFfAETg",
+      "isFallback": true
+    }
+  ]
+}

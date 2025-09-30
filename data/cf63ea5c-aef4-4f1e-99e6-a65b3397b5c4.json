@@ -1,0 +1,141 @@
+{
+  "name": "ESTi",
+  "sortName": "エスティ",
+  "tracks": [
+    {
+      "id": "fd88df0a-3b34-43ff-9d74-4a429628c3ed",
+      "title": "All flights are delayed",
+      "artist": "YUKIKA",
+      "isrc": "KRF922000011",
+      "releaseDate": "2020-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/4gqiMAAJGEbeyreuCDjRcK",
+      "isFallback": true
+    },
+    {
+      "id": "075ea527-e79f-4677-8f2e-2750bfb78aca",
+      "title": "R.o.S.E BLUE",
+      "artist": "DREAMCATCHER",
+      "isrc": "KRA382002553",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/7sOXsL2oJpa8dGXUKoTM0G",
+      "isFallback": false
+    },
+    {
+      "id": "22efb7f7-e090-4d7f-8ae8-31772641bb8e",
+      "title": "Memories",
+      "artist": "LOVE LAIKA",
+      "isrc": "",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5754ac3e-a977-4195-afe0-04340cfb0e80",
+      "title": "伝えたい、でも伝えられない",
+      "artist": "茶太",
+      "isrc": "TCJPH2549848",
+      "releaseDate": "2007-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/3ETUfeWgfjmmuPGo5GHViP",
+      "isFallback": true
+    },
+    {
+      "id": "507b2349-97e5-4b7b-83b4-ce2893d04a9c",
+      "title": "I Need a Friend",
+      "artist": "YUKIKA",
+      "isrc": "KRF922000009",
+      "releaseDate": "2020-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/57xov7XqPJbLUjWCfDsJ7x",
+      "isFallback": true
+    },
+    {
+      "id": "874a5c12-a7b1-4b25-99c2-7b46fa27fc58",
+      "title": "Anemone",
+      "artist": "ESTi",
+      "isrc": "JPX301713480",
+      "releaseDate": "2016-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/0XTZOAEENEf4iCiySBY4aS",
+      "isFallback": true
+    },
+    {
+      "id": "c2ee5299-ea2e-4237-a877-f8296d178972",
+      "title": "Little Match Girl",
+      "artist": "天海春香",
+      "isrc": "",
+      "releaseDate": "2013-02-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b94c95e4-ed22-4685-9a9a-0c94276e6cc9",
+      "title": "SOUL LADY",
+      "artist": "YUKIKA",
+      "isrc": "KRF922000004",
+      "releaseDate": "2020-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev",
+      "isFallback": true
+    },
+    {
+      "id": "992ec30f-1819-4e9d-93b6-692e880b7ae9",
+      "title": "Little More",
+      "artist": "三船美優",
+      "isrc": "JPCO02326390",
+      "releaseDate": "2023-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/4ptIVs00pUdtWlX4lh2b0o",
+      "isFallback": true
+    },
+    {
+      "id": "38e57fa1-8b36-4191-bd31-16733a8a3b38",
+      "title": "OBLIVION (Rockin' Night Style)",
+      "artist": "NieN",
+      "isrc": "",
+      "releaseDate": "2006-01-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "514936ea-24c2-4e40-aa60-4869a51554d9",
+      "title": "Never ends",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS for BEST5!",
+      "isrc": "JPCO02026530",
+      "releaseDate": "2020-12-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "260a1479-c19a-472d-a443-fd0b8b249618",
+      "title": "2nd SIDE",
+      "artist": "神谷奈緒",
+      "isrc": "JPCO01407480",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/704SO2asM3hYJ8FjT839g1",
+      "isFallback": true
+    },
+    {
+      "id": "482820dc-de9a-4fa6-abb9-424f6d3b5462",
+      "title": "恋が咲く季節",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS!!",
+      "isrc": "JPCO01731830",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3652f3fc-5823-4f5c-ad57-baaa6d2eb03f",
+      "title": "ソラミミ",
+      "artist": "茶太",
+      "isrc": "TCJPH2549855",
+      "releaseDate": "2007-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2IiTunrYK0rYdWUB0XibWl",
+      "isFallback": true
+    },
+    {
+      "id": "aa1b95c1-dfa6-4676-99f3-ec9597acc304",
+      "title": "farewell",
+      "artist": "茶太",
+      "isrc": "uscgh2012853",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/5TL3wrmTSrGhWGcP2SFmVy",
+      "isFallback": true
+    }
+  ]
+}

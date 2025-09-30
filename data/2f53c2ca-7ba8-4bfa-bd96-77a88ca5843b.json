@@ -1,0 +1,33 @@
+{
+  "name": "ふじそば",
+  "sortName": "フジソバ",
+  "tracks": [
+    {
+      "id": "bfed4314-a19e-461c-b025-453213f95c98",
+      "title": "Drawing World",
+      "artist": "白丸美兎",
+      "isrc": "JPI102302338",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5bxU5Z45bRjdGDSbmyQNxd",
+      "isFallback": true
+    },
+    {
+      "id": "7677492d-9acc-4827-b202-a9edd7e3cf4b",
+      "title": "年中無休エンジョイ宣言",
+      "artist": "のんふぃく！",
+      "isrc": "TCJPY2320569",
+      "releaseDate": "2023-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/6dD2KUHXhCZBCdSJO7eOfe",
+      "isFallback": true
+    },
+    {
+      "id": "6d6b24b8-0e2c-47f6-9774-bdba41d9f47b",
+      "title": "一方通行ステップアップ",
+      "artist": "のんふぃく！",
+      "isrc": "TCJPY2320518",
+      "releaseDate": "2023-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/7E6nRfZsCofHPvOabqbFmg",
+      "isFallback": true
+    }
+  ]
+}

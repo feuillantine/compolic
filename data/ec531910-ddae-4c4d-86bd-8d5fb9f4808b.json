@@ -1,0 +1,361 @@
+{
+  "name": "沖井礼二",
+  "sortName": "オキイレイジ",
+  "otherNames": [
+    "Cymbals",
+    "TWEEDEES"
+  ],
+  "tracks": [
+    {
+      "id": "cb3eec5f-9d44-41a5-b067-2ae84109789b",
+      "title": "ビー・ウィズ・ユウ",
+      "artist": "鈴村優",
+      "isrc": "JPX402400167",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/7qhEbFYAFA7Dax22DGsq4T",
+      "isFallback": true
+    },
+    {
+      "id": "87eedbba-f019-423d-aee9-f84682ddcd78",
+      "title": "Dear Mr. Socrates",
+      "artist": "バトン部 Twinklestars",
+      "isrc": "JPA961000379",
+      "releaseDate": "2010-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/2oJJuakCCwJSei6gq12rbl",
+      "isFallback": true
+    },
+    {
+      "id": "113ed9c7-5306-4b8e-a078-92f9fdb84162",
+      "title": "カレイドスコープ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700088",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/1cNtLquaPpFGW13TZBxYPZ",
+      "isFallback": true
+    },
+    {
+      "id": "341c193b-31fb-4487-9669-6d02ef488156",
+      "title": "あしたの向こう",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02410485",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/5dxAN9nbxAKavud3mpQV9S",
+      "isFallback": true
+    },
+    {
+      "id": "49c4584a-c979-4cf5-9eb1-e0a280f1a231",
+      "title": "愛しい人はいつも遠い",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922113281",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/1pYt54kBSUDOeWibglPKQh",
+      "isFallback": true
+    },
+    {
+      "id": "b3431720-d252-4bc9-815d-dc0557f4c881",
+      "title": "ファズる心",
+      "artist": "SOLEIL",
+      "isrc": "JPVI01901877",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/28keWfBy6hQ1rfW5oHCFxh",
+      "isFallback": true
+    },
+    {
+      "id": "68dd0cf0-9306-4673-9ec9-e39f3719e567",
+      "title": "午前8時の脱走計画",
+      "artist": "Cymbals",
+      "isrc": "JPVI09904680",
+      "releaseDate": "2003-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/40PAeO0SUovPKAypbWA1SZ",
+      "isFallback": true
+    },
+    {
+      "id": "9a7cbd2e-e017-4f12-bce8-fe23fad4090d",
+      "title": "ターミナル",
+      "artist": "RYUTist",
+      "isrc": "JPE872304815",
+      "releaseDate": "2023-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0STiQMPFxMEL92IVlqh2yU",
+      "isFallback": false
+    },
+    {
+      "id": "235ae2ba-f987-47b1-8631-ecf704c2f276",
+      "title": "Higher than the Sun",
+      "artist": "Cymbals",
+      "isrc": "JPVI00120540",
+      "releaseDate": "2001-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/4hZnNpjUHBO3xzm9XciEyh",
+      "isFallback": true
+    },
+    {
+      "id": "c469e5d6-8b41-4be4-9d01-4f4f52ab8afd",
+      "title": "Endless Symphony",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC02211950",
+      "releaseDate": "2023-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/77fAM6T5k2KdAwWC4KZL6I",
+      "isFallback": true
+    },
+    {
+      "id": "a46d1c0a-0ac6-4120-83f5-ca86f4b9c5ce",
+      "title": "青空シグナル",
+      "artist": "RYUTist",
+      "isrc": "JPE871802769",
+      "releaseDate": "2020-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/3C0wZwx2LovQtnrycNjXDf",
+      "isFallback": true
+    },
+    {
+      "id": "9d3615c4-9cad-4064-91ae-d29ff179cfee",
+      "title": "スパニッシュ・アパートメント",
+      "artist": "花澤香菜",
+      "isrc": "JPE301302943",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1UUHMaTr03CqiUD9zEFpZ7",
+      "isFallback": true
+    },
+    {
+      "id": "03b8410a-e0d1-4aa0-bc6b-858ea58e07ba",
+      "title": "パラダイス!",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402400105",
+      "releaseDate": "2024-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/7kYiy8hmlTGzg0NVmeetIl",
+      "isFallback": true
+    },
+    {
+      "id": "a675ebbe-53b1-4a83-b39c-0a36e5dba501",
+      "title": "フルーツバスケットの世界",
+      "artist": "小日向いちご",
+      "isrc": "JPPC01700334",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/5gVySlv5JP9JCqm17uefGy",
+      "isFallback": false
+    },
+    {
+      "id": "6e50b310-4a9d-4b62-a617-39a39ef2455f",
+      "title": "僕のタイムマシン",
+      "artist": "尾崎由香",
+      "isrc": "JPWP01870521",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/3hqJ4KCIhIFG25U1ynkOUC",
+      "isFallback": true
+    },
+    {
+      "id": "2d8cda1b-4196-4647-b16e-a56046693e0a",
+      "title": "十月革命駅のテーマ",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922109024",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/1BahtIrweXmzLBQ6zI1YNR",
+      "isFallback": true
+    },
+    {
+      "id": "8f0bec68-10d5-4825-9697-065c8b4b1f45",
+      "title": "新しい世界の歌",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204028",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7akVqKSokOPeEs3q6N4D14",
+      "isFallback": true
+    },
+    {
+      "id": "ff3a496e-b196-4a12-a047-1656a3da7df1",
+      "title": "朝焼けと約束の歌",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01502564",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5earmhr93VGeUhI3rr6R2m",
+      "isFallback": true
+    },
+    {
+      "id": "149b7dd7-9a6e-4c0e-8e50-e4aee0fdcf6f",
+      "title": "SO YOU WANT TO BE A ROCK’N ROLL STAR",
+      "artist": "Cymbals",
+      "isrc": "JPVI09908210",
+      "releaseDate": "2023-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/7F9Hfki0w1fLxaZ7pB140n",
+      "isFallback": false
+    },
+    {
+      "id": "9a5c8d74-fedf-459a-baf9-9b0b644024a6",
+      "title": "境界線上に吹く風",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922109023",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/6KRZbLWwKNUrimgioamSRO",
+      "isFallback": true
+    },
+    {
+      "id": "d9895c42-5e88-4b29-b419-5745ecc6ca5f",
+      "title": "The Sun, Moon and Stars",
+      "artist": "星見プロダクション",
+      "isrc": "JPX402000076",
+      "releaseDate": "2021-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/2C3G8pQVpRSyKoRnD3XwQo",
+      "isFallback": false
+    },
+    {
+      "id": "4eb55592-e250-4157-848a-752ec7ca14e5",
+      "title": "Miss You",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210061",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3ngNpVs5JBWUx3fDE9gYu5",
+      "isFallback": true
+    },
+    {
+      "id": "1e4a2d36-ffa3-4791-8949-7efaedcf288d",
+      "title": "Sinfonia! Sinfonia!!!",
+      "artist": "竹達彩奈",
+      "isrc": "JPPC01200289",
+      "releaseDate": "2012-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/5VBySFJYDM8p7qyscy6Qdd",
+      "isFallback": true
+    },
+    {
+      "id": "c079f7c8-08aa-4ba7-b239-86b0db525a8b",
+      "title": "プリーズ！プリーズ！プリーズ！",
+      "artist": "Twinklestars",
+      "isrc": "JPA961110001",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/6eFNKnOkVFsDNnaxIZJClV",
+      "isFallback": true
+    },
+    {
+      "id": "6b08c2e4-2de9-4908-a1b1-06db742bd04e",
+      "title": "Highway Star, Speed Star",
+      "artist": "Cymbals",
+      "isrc": "JPVI00024890",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz",
+      "isFallback": true
+    },
+    {
+      "id": "43dac160-60a5-49b9-af3b-63b47cdff13d",
+      "title": "天使と悪魔",
+      "artist": "バトン部 Twinklestars",
+      "isrc": "JPPO01502650",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/5uOyaNgQJHsWX33kEU4B61",
+      "isFallback": true
+    },
+    {
+      "id": "32df4c6d-088d-4a78-93d5-82d23b37aceb",
+      "title": "PHILLIP",
+      "artist": "TWEEDEES",
+      "isrc": "JPCO01625660",
+      "releaseDate": "2016-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/4UqBuqH9Bh2NGS9lviiVvE",
+      "isFallback": true
+    },
+    {
+      "id": "565b719c-c72d-4de4-9e54-ba907d60586a",
+      "title": "アメリカの女王",
+      "artist": "Cymbals",
+      "isrc": "JPVI00309090",
+      "releaseDate": "2003-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/2aTgrogY6Iz2cty2TzOMo4",
+      "isFallback": true
+    },
+    {
+      "id": "fd67a61c-2593-4216-9dc5-e95b67f0a42d",
+      "title": "愛のテーマ～東トウキョウのテーマ",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922113278",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/6PKnn7DrcFW7wvsqF3kFpX",
+      "isFallback": true
+    },
+    {
+      "id": "e7bd0a9f-8775-4d37-b8c7-2a612a753aa7",
+      "title": "ペンタトニック・ラブ",
+      "artist": "江藤くるみ",
+      "isrc": "JPPC01700057",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/2t8oZHkguYVj9N4HLDAD79",
+      "isFallback": false
+    },
+    {
+      "id": "89f91543-1f75-4118-beef-e0f0f3abb653",
+      "title": "二気筒の相棒",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922113279",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/2JH5cqoEjoA8S6xhx5dGWA",
+      "isFallback": true
+    },
+    {
+      "id": "02cf9756-5d8f-476f-a155-6ee8192ad5f5",
+      "title": "Make up! Wake up!",
+      "artist": "スタイリッシュスタイリング",
+      "isrc": "JPPC01701215",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/0p9W9GdvsPGXW2b6scc9d7",
+      "isFallback": false
+    },
+    {
+      "id": "0f2c6679-513d-4739-8f36-29fdcf14b995",
+      "title": "ウラゾフ警部のテーマ",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922113280",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/5CZ2ClzDdYAEmpSdtHNBax",
+      "isFallback": true
+    },
+    {
+      "id": "cb5ff8d4-82c9-420d-9085-7da45ca2dc6f",
+      "title": "旅立つ彼女と古い背表紙",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400029",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/7FU6ZqiThooVAbzk0VZvnw",
+      "isFallback": true
+    },
+    {
+      "id": "e89c8613-f949-4bb1-a3ed-2e8722a48e33",
+      "title": "Do You Believe In Magic?",
+      "artist": "Cymbals",
+      "isrc": "JPVI00015190",
+      "releaseDate": "2000-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/0jqyXND4Ma9ZDYobY9OPeB",
+      "isFallback": true
+    },
+    {
+      "id": "d009ef42-3a71-44e9-a639-4e71fb02c9fd",
+      "title": "Wingspan",
+      "artist": "Cymbals",
+      "isrc": "JPVI00210230",
+      "releaseDate": "2002-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/2RH5sxhP2st4N4ke0eXFy6",
+      "isFallback": true
+    },
+    {
+      "id": "4f7cce8f-00a0-4524-9c82-9ec5deaede44",
+      "title": "ANSWER SONG",
+      "artist": "Cymbals",
+      "isrc": "JPVI09904690",
+      "releaseDate": "1999-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/2dhX8j6LsSfno13oZeqIsz",
+      "isFallback": false
+    },
+    {
+      "id": "4ebc0052-8cbe-4dca-9e55-860e05285193",
+      "title": "黄昏のダイアリー",
+      "artist": "RYUTist",
+      "isrc": "JPE871803091",
+      "releaseDate": "2020-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/45SRm2AEVSqbfgmdFM4POi",
+      "isFallback": true
+    },
+    {
+      "id": "84debfe9-301e-4063-a73c-e42a830dbd31",
+      "title": "美しい歌はいつも悲しい ver.2021",
+      "artist": "TWEEDEES",
+      "isrc": "JPZ922109025",
+      "releaseDate": "2021-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/6lvM2T33HZ0zwWJ7IsJSeo",
+      "isFallback": true
+    }
+  ]
+}

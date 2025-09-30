@@ -1,0 +1,69 @@
+{
+  "name": "山田祐輔",
+  "sortName": "ヤマダユウスケ",
+  "tracks": [
+    {
+      "id": "09ead5ea-66b8-468b-9e69-0493ab84ab51",
+      "title": "MoonRise Romance",
+      "artist": "麻生夏子",
+      "isrc": "JPI101302450",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2TajXsbz2YQysJFjvccpcP",
+      "isFallback": true
+    },
+    {
+      "id": "b115801c-f1ec-4ebe-9e3d-a441c443b267",
+      "title": "My dream",
+      "artist": "SUPER☆GiRLS",
+      "isrc": "JPB601174407",
+      "releaseDate": "2012-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/2lfJUXNasA285tIGahI0QV",
+      "isFallback": true
+    },
+    {
+      "id": "4aa96a1c-ec4b-4a11-bb28-909f9a659172",
+      "title": "Run for you",
+      "artist": "麻倉もも",
+      "isrc": "JPX401800100",
+      "releaseDate": "2018-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/5tTX0PHABKw98rFOk2ckZn",
+      "isFallback": true
+    },
+    {
+      "id": "264860ac-6c85-42a6-8640-172180d77033",
+      "title": "Morning glow",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02003016",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/2jkuUksPAO7uyk2jsU0W5d",
+      "isFallback": true
+    },
+    {
+      "id": "65d11bf2-dcca-4aa1-a014-db2f68daca46",
+      "title": "LOVE YOU FOREVER",
+      "artist": "吉川友",
+      "isrc": "JPPO01148021",
+      "releaseDate": "2011-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/2Bohxp0PkGxHEOsCS416ll",
+      "isFallback": true
+    },
+    {
+      "id": "2010b17d-f56c-4663-9d91-63b821675940",
+      "title": "Fleeting Dream",
+      "artist": "雨宮天",
+      "isrc": "JPX401700066",
+      "releaseDate": "2017-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/65s2kWaE59toLg2bl9ZmL1",
+      "isFallback": true
+    },
+    {
+      "id": "2621e0c1-8793-492a-8786-dd56295c571e",
+      "title": "初恋サンライズ",
+      "artist": "つばきファクトリー",
+      "isrc": "JPA601700022",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

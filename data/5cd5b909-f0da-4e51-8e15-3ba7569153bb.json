@@ -1,0 +1,96 @@
+{
+  "name": "きなみうみ",
+  "sortName": "キナミウミ",
+  "tracks": [
+    {
+      "id": "637f8ef9-992c-42e1-89b9-3d95857fda90",
+      "title": "恋景色昭和ロマン",
+      "artist": "スリーズブーケ",
+      "isrc": "JPI102500386",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6rIVZEeWs4t7qbFq87ajQ5",
+      "isFallback": true
+    },
+    {
+      "id": "3fb8d444-90a5-4cd0-9494-fceb2d6b76ef",
+      "title": "つなぎあい (TVサイズ)",
+      "artist": "谷本貴義",
+      "isrc": "JPCO02405990",
+      "releaseDate": "2024-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/29wicQSl5YcVHLNBkA6mN2",
+      "isFallback": true
+    },
+    {
+      "id": "6de41e52-e046-4461-b8ea-35a425cb9fc7",
+      "title": "waving",
+      "artist": "Ringwanderung",
+      "isrc": "JPB622201354",
+      "releaseDate": "2022-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/4sZxpQd4erHGI8JaJgffzh",
+      "isFallback": true
+    },
+    {
+      "id": "31374508-e997-4f16-a12e-4ff42d8e919e",
+      "title": "TOKIMEKI",
+      "artist": "立花日菜",
+      "isrc": "JPPC02411862",
+      "releaseDate": "2024-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/32mgPD9pebf6WmtHs3KLIJ",
+      "isFallback": true
+    },
+    {
+      "id": "79a4668a-ed13-445a-b181-692a907848f2",
+      "title": "my room",
+      "artist": "Ringwanderung",
+      "isrc": "JPB622201356",
+      "releaseDate": "2022-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/44uf8KAmmcW76sT59xhqiw",
+      "isFallback": true
+    },
+    {
+      "id": "ce95f9d8-eb51-4335-9fa5-570b2fbc78fe",
+      "title": "君色のひかり",
+      "artist": "高城れに",
+      "isrc": "JPKI02412441",
+      "releaseDate": "2024-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/4QlrIrDErzRlBtd6g2Tuk1",
+      "isFallback": true
+    },
+    {
+      "id": "1ab2f8e6-7565-4e67-a728-a00948cb2709",
+      "title": "2:30am",
+      "artist": "東京女子流",
+      "isrc": "JPB602400682",
+      "releaseDate": "2024-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7uQWWsJwIWYl70fKI5S9ZR",
+      "isFallback": true
+    },
+    {
+      "id": "be8a7d0e-c8eb-4b78-9323-49bd9f69748c",
+      "title": "Hope",
+      "artist": "レオス・ヴィンセント",
+      "isrc": "JPY252100176",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5nAofqWcytE35T9YPSRuVG",
+      "isFallback": true
+    },
+    {
+      "id": "4c1b1347-218c-4bbb-9e9f-66b5a1887842",
+      "title": "サンバーント・ロマンス",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902302968",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/3uSj3LrEYrfGIcFvVhrs3f",
+      "isFallback": false
+    },
+    {
+      "id": "a062e950-bc5b-49f4-852c-1f8b00d66c18",
+      "title": "だけど、わたし、アイドル",
+      "artist": "文坂なの",
+      "isrc": "JPS802353522",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/2W9gQRyeCHsCpbuFvd8kVy",
+      "isFallback": false
+    }
+  ]
+}

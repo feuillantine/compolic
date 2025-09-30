@@ -1,0 +1,627 @@
+{
+  "name": "橋咲透",
+  "sortName": "ハシザキトオル",
+  "tracks": [
+    {
+      "id": "fac4d195-fd9e-4797-8392-c3ba92d0fc52",
+      "title": "Happy Beat!",
+      "artist": "美郷あき",
+      "isrc": "TCJPK2027966",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/6kYQCJtEQBOx79cuIs3sFU",
+      "isFallback": true
+    },
+    {
+      "id": "fc37d6e1-5d4c-439d-b132-18f15af418aa",
+      "title": "にゃんだふるdays",
+      "artist": "夢乃ゆき",
+      "isrc": "",
+      "releaseDate": "2023-09-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c8b6b6b-0815-4311-9417-fc6d2ee04c27",
+      "title": "背徳の花",
+      "artist": "solfa",
+      "isrc": "TCJPT2216153",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/6CWVipisMkzmwOF0SJS3Ty",
+      "isFallback": true
+    },
+    {
+      "id": "8271bcdd-a5d6-4c6c-843f-a3ee296e350f",
+      "title": "summerly I wish",
+      "artist": "solfa",
+      "isrc": "TCJPS2264176",
+      "releaseDate": "2018-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5rgtE7oM5Pvk67OgFs57gp",
+      "isFallback": true
+    },
+    {
+      "id": "7b6bbe2b-dd52-4206-951c-51901e6da54a",
+      "title": "ファムファタル",
+      "artist": "solfa",
+      "isrc": "TCJPE2512813",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2J3C0hEHk5VisykC2MnEJQ",
+      "isFallback": true
+    },
+    {
+      "id": "22ff0278-f5c1-475c-b163-b0f8f815e1d9",
+      "title": "いつもふたりで",
+      "artist": "nayuta",
+      "isrc": "TCJPK2052293",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/7D8T55RNaGxKMEs6bM78Kb",
+      "isFallback": true
+    },
+    {
+      "id": "ecc5e05e-0621-4faf-8194-c195e183cd1d",
+      "title": "虹色スプリング",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dee7c238-b0aa-4809-a63b-039c3832f43f",
+      "title": "Bum-out!",
+      "artist": "KOTOKO",
+      "isrc": "TCJPG1743014",
+      "releaseDate": "2015-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/7whtU888EnTkSNMRRyDONp",
+      "isFallback": true
+    },
+    {
+      "id": "a2055b63-e011-4f8f-b931-c02fe342ca9e",
+      "title": "Dark Kindness",
+      "artist": "solfa",
+      "isrc": "TCJPT2216663",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/56xS0aZIXwQ922JTVm1O84",
+      "isFallback": true
+    },
+    {
+      "id": "49cb6979-423d-40ce-87dd-1fb2d3242fa6",
+      "title": "study§steady day!",
+      "artist": "solfa",
+      "isrc": "TCJPN2173794",
+      "releaseDate": "2019-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/7Eis18qeJx4xOiUMMAqULS",
+      "isFallback": true
+    },
+    {
+      "id": "4fbbe6f7-cfa4-42c9-b69e-56a557b0d236",
+      "title": "shooting your rainbow",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64fbba80-aeef-4dd4-a10a-06a57b8d2a37",
+      "title": "Jewelry Kiss",
+      "artist": "Ceui",
+      "isrc": "TCJPK2027984",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/5ZboQXDwZNYXIpD9LMrujN",
+      "isFallback": true
+    },
+    {
+      "id": "a801180e-53e9-4cf3-96cd-bb978a27e964",
+      "title": "Fancy Game!?",
+      "artist": "KOTOKO",
+      "isrc": "TCJPG1860588",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/6yPKa30Pv1vOrvNvlawSYO",
+      "isFallback": true
+    },
+    {
+      "id": "63b11850-cba4-49ee-8f78-3c45f5de2323",
+      "title": "夏の色が消えるとき",
+      "artist": "solfa",
+      "isrc": "TCJPH1870753",
+      "releaseDate": "2015-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/4nOLMQbXJPAwsrZUbHxClP",
+      "isFallback": true
+    },
+    {
+      "id": "b166baee-52ab-49ea-b4d9-3f0eb08d0c08",
+      "title": "STUDY§STEADY",
+      "artist": "solfa",
+      "isrc": "TCJPT2295658",
+      "releaseDate": "2022-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/6Ma1SAyTfUS2o86iigWgBB",
+      "isFallback": true
+    },
+    {
+      "id": "ec038f37-9cd8-4c35-9ed9-fb5533ac071e",
+      "title": "Drown",
+      "artist": "solfa",
+      "isrc": "TCJPT2216297",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3LD93Eq1AwN09y8ELCdkuL",
+      "isFallback": true
+    },
+    {
+      "id": "0e0380e6-d9bb-49f1-a8dc-7232cbb71cb3",
+      "title": "my generate",
+      "artist": "藍月なくる",
+      "isrc": "TCJPN2177880",
+      "releaseDate": "2020-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/4u7RKUj55WFSo6paQHTEdY",
+      "isFallback": true
+    },
+    {
+      "id": "aca7b6e9-f8a1-4d6f-b8d0-72a53637b850",
+      "title": "君にしか聞こえない声で",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3b483b05-8779-43b1-b115-efc5daa56ff0",
+      "title": "Flower!!",
+      "artist": "KOTOKO",
+      "isrc": "uscgh2230516",
+      "releaseDate": "2013-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/59sptC4yY3amUbQwbT78uo",
+      "isFallback": true
+    },
+    {
+      "id": "58a748d4-e1c7-4336-9e2a-f6d5cd89c71c",
+      "title": "brand new day",
+      "artist": "Ceui",
+      "isrc": "TCJPG1737112",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/4jkXRnGkdSkT8ORQB3VpkI",
+      "isFallback": true
+    },
+    {
+      "id": "1bd925e8-ab82-4987-ba2b-4ea14ade5505",
+      "title": "ソムニウム",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2019-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "92da2165-9653-4549-a994-14bf33e437b5",
+      "title": "テルミナリア",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2022-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d3e426c0-0da1-4e18-889a-6be28655a0f0",
+      "title": "charging through the wave",
+      "artist": "コツキミヤ",
+      "isrc": "TCJPH1810111",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/1MBP9fbbYzLYali9ucnGh4",
+      "isFallback": true
+    },
+    {
+      "id": "98591f17-c158-4222-94f9-83aff3ed0fff",
+      "title": "Draw a tomorrow",
+      "artist": "片霧烈火",
+      "isrc": "",
+      "releaseDate": "2011-04-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e9cb99d-7656-4175-91db-1019242bbcb3",
+      "title": "スマイリィステディ",
+      "artist": "solfa",
+      "isrc": "TCJPN2174186",
+      "releaseDate": "2019-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/1eOgQdBEjibbrXt1gISj3y",
+      "isFallback": true
+    },
+    {
+      "id": "c459d2d6-1c0d-421f-904f-dc695b276b0e",
+      "title": "空色スマイル",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3cce9564-aeab-4861-865f-678fb8db24bd",
+      "title": "Blooming!!",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02000180",
+      "releaseDate": "2015-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21a7347d-7983-465c-842e-bae515db9fcc",
+      "title": "Want more need less",
+      "artist": "solfa",
+      "isrc": "TCJPH1870749",
+      "releaseDate": "2014-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/12rXA1XzxmzlkN8R4I6Mtf",
+      "isFallback": true
+    },
+    {
+      "id": "4eb56f95-8048-4ccd-9952-b865e1a1b733",
+      "title": "いつまでも恋して",
+      "artist": "茶太",
+      "isrc": "TCJPN2174181",
+      "releaseDate": "2019-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/1AuTgNZLhSJ5j9pI593Upr",
+      "isFallback": true
+    },
+    {
+      "id": "6aa3daee-9f39-4ac5-949d-a25c2467d23d",
+      "title": "brand new day",
+      "artist": "solfa",
+      "isrc": "TCJPG1737112",
+      "releaseDate": "2014-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/4jkXRnGkdSkT8ORQB3VpkI",
+      "isFallback": true
+    },
+    {
+      "id": "f221a3a2-be86-4d1f-8721-493b76802fc3",
+      "title": "有情の罠",
+      "artist": "solfa",
+      "isrc": "TCJPT2216462",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7CTK8SfudqvMPElhNHiqx2",
+      "isFallback": true
+    },
+    {
+      "id": "88d59375-7a3f-4017-8cda-fc00144bff4b",
+      "title": "LOVE❤コミュニケーション",
+      "artist": "nao",
+      "isrc": "TCJPL2095002",
+      "releaseDate": "2019-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/19kVIRTe7yuheoT82cNn14",
+      "isFallback": true
+    },
+    {
+      "id": "ab74609c-40d4-4e57-a559-a78c4227d2a8",
+      "title": "remember",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2018-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31875704-f7ed-4625-926e-4c02d399ba77",
+      "title": "Dear Future",
+      "artist": "solfa",
+      "isrc": "TCJPU2388408",
+      "releaseDate": "2022-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/5T4F4FQ80wO2pA5fzBqKRK",
+      "isFallback": true
+    },
+    {
+      "id": "1e7bab4e-5b8b-4b78-8683-2a9fb791d81f",
+      "title": "大好きを届けよう",
+      "artist": "大島はるな",
+      "isrc": "TCJPK2027983",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/4m3MNRTbDRawIdVXbCkZ2Y",
+      "isFallback": true
+    },
+    {
+      "id": "82092756-da51-4a30-81e9-2dcba9c0242d",
+      "title": "キミと繋ぐ心",
+      "artist": "結月そら",
+      "isrc": "TCJPK2027973",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/5nuf0juf3riH5vE6ghwynV",
+      "isFallback": true
+    },
+    {
+      "id": "25c071b6-3be4-41bb-a988-7e9fe1da44a4",
+      "title": "ideal world",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2024-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2eeadce7-5447-4c58-8d64-4d0799f330f5",
+      "title": "ましまろホイップ",
+      "artist": "月夜野兎姫",
+      "isrc": "TCJPN2173645",
+      "releaseDate": "2017-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/7xG9qb7ZoQX5YUrm0ZXpNq",
+      "isFallback": true
+    },
+    {
+      "id": "422299f3-f472-41f2-a6ce-54b1f42bcd6b",
+      "title": "coclea",
+      "artist": "Ceui",
+      "isrc": "TCJPG1860600",
+      "releaseDate": "2016-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/3xaFBfLLy8686zz7IBXKHf",
+      "isFallback": true
+    },
+    {
+      "id": "34595661-3a5c-4e7d-9621-577421ef6f6d",
+      "title": "キラキラDays☆",
+      "artist": "solfa",
+      "isrc": "TCJPU2388411",
+      "releaseDate": "2022-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/0c1JIECJ5hNHJBJWFwi7TO",
+      "isFallback": true
+    },
+    {
+      "id": "a072085e-c23b-4cff-b463-2062087d7775",
+      "title": "stay with you",
+      "artist": "iyuna",
+      "isrc": "",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cec7cec1-8752-4433-89de-c53fc29a8997",
+      "title": "れみぜら！",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2016-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7160deb-27f0-4c59-be7a-5d32ad9ce1bf",
+      "title": "夜明けの虹を越えて",
+      "artist": "小春めう",
+      "isrc": "TCJPK2027981",
+      "releaseDate": "2018-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/073r2zsgckX2TO9jsV0XUA",
+      "isFallback": true
+    },
+    {
+      "id": "9287a28c-868b-41a0-ac22-d09e9a835670",
+      "title": "sweet smile",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2de6220b-3e55-430f-b1bc-5b65d74b4aed",
+      "title": "smile again",
+      "artist": "solfa",
+      "isrc": "TCJPN2172744",
+      "releaseDate": "2015-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7uO8ZmOigz8NtGWDHsgHLk",
+      "isFallback": true
+    },
+    {
+      "id": "a964f1cf-cec0-4a3f-9260-7c662e4e455d",
+      "title": "瞳に宿す炎",
+      "artist": "小春めう",
+      "isrc": "TCJPK2027977",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/4ivfV0G3Mo5gGMKFGwFWHk",
+      "isFallback": true
+    },
+    {
+      "id": "d9c47278-c8aa-4290-9ede-1d2845ac7a68",
+      "title": "カナリア",
+      "artist": "Duca",
+      "isrc": "",
+      "releaseDate": "2020-05-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e40d3794-a3bf-46a5-9919-b181e22e3802",
+      "title": "桜色日曜日",
+      "artist": "ななひら",
+      "isrc": "TCJPO2158149",
+      "releaseDate": "2020-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/1opAEM99Y5ZwDC0aWAaD90",
+      "isFallback": true
+    },
+    {
+      "id": "349eeccc-fcc7-4b75-924f-ea367df1c000",
+      "title": "Loop iii -three-",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2024-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "512d3bd6-e31a-4250-9ca7-37daed2f131a",
+      "title": "affection",
+      "artist": "KOTOKO",
+      "isrc": "TCJPH1877591",
+      "releaseDate": "2014-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/1Ag2i46OmrlLWw7k3DFqs0",
+      "isFallback": true
+    },
+    {
+      "id": "f895c1d9-bc6d-473d-b93d-f1da995b0d1d",
+      "title": "my vision（挿入歌）",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "acaadfbc-d8de-4681-841c-b469f4ae4659",
+      "title": "孤籠の鶫 Full size",
+      "artist": "霜月はるか",
+      "isrc": "",
+      "releaseDate": "2025-02-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d59e1a1-c909-4150-b115-c6b63fec837f",
+      "title": "恋もよう",
+      "artist": "solfa",
+      "isrc": "TCJPU2388409",
+      "releaseDate": "2022-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/2fZPbpd8KET5idSaTM22B8",
+      "isFallback": true
+    },
+    {
+      "id": "818e1650-a201-4eb7-a715-11f258cd92d1",
+      "title": "初恋サンカイメ",
+      "artist": "橋本みゆき",
+      "isrc": "JPI101901208",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8de9ed04-773f-4804-8d40-234206486f6e",
+      "title": "Bloody truth",
+      "artist": "nao",
+      "isrc": "TCJPH1877983",
+      "releaseDate": "2017-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0kbwHKs1Ol2van714Ajo0K",
+      "isFallback": true
+    },
+    {
+      "id": "b580acfd-21a0-4ee1-80fd-e6ebe00dcd23",
+      "title": "ハピラキ☆ベジタボーイ",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02201430",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/4TtAGKM65VQ7U7mPrWNb5G",
+      "isFallback": true
+    },
+    {
+      "id": "3cc3554b-6523-4296-8af8-05d881f97ed9",
+      "title": "magic drive!",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2019-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bde04c69-9feb-418b-b85e-3c06148230e2",
+      "title": "恋色レシピ",
+      "artist": "Ceui",
+      "isrc": "TCJPH1877991",
+      "releaseDate": "2017-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/2sL5im2v5vbM0YBt6WKppr",
+      "isFallback": true
+    },
+    {
+      "id": "b1234300-d0df-4ac2-b1ed-db671c52047e",
+      "title": "罪の鳥",
+      "artist": "solfa",
+      "isrc": "TCJPT2216156",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/0hqOvuOQZqFchsdQZ0QrjR",
+      "isFallback": true
+    },
+    {
+      "id": "965065c8-df17-4a0b-a409-e10e7bd3b18f",
+      "title": "約束の夏",
+      "artist": "Duca",
+      "isrc": "",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2ac9c9fb-5ef0-43ab-bb6b-8bc7b8658866",
+      "title": "Seaside Heaven!",
+      "artist": "小春めう",
+      "isrc": "TCJPK2027963",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/55Zw1pHilIdpcFaeCVmaGN",
+      "isFallback": true
+    },
+    {
+      "id": "c26e6b53-f967-4fac-8eca-65575863be6a",
+      "title": "close to my heart",
+      "artist": "Rin",
+      "isrc": "DKLK40900505",
+      "releaseDate": "2020-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/1ja0oRwoFN8zSUhiUeqDhW",
+      "isFallback": true
+    },
+    {
+      "id": "c4bf4a65-ae81-4acc-b287-f5e02cfb8ca0",
+      "title": "アオイハル",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2015-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "715889f8-2bd7-4909-b011-426b08ffd472",
+      "title": "淡色の幻",
+      "artist": "結月そら",
+      "isrc": "TCJPH1810108",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/6ZZhQCXjGH0JISk6rHkNaW",
+      "isFallback": true
+    },
+    {
+      "id": "39053973-7765-4b55-a78a-0047a7ecf207",
+      "title": "my wonderful world",
+      "artist": "二谷天寅",
+      "isrc": "",
+      "releaseDate": "2021-09-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e89f65c1-a708-4925-abb3-f9429ca7384d",
+      "title": "primal",
+      "artist": "solfa",
+      "isrc": "TCJPG1721019",
+      "releaseDate": "2014-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/4vhXOw73tm3EPFN3kB34kG",
+      "isFallback": false
+    },
+    {
+      "id": "02095ab7-2aa4-4feb-819f-5565e4bf8bca",
+      "title": "isolated",
+      "artist": "solfa",
+      "isrc": "TCJPT2216117",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7FsUb13UM1UQH3JONwdsYT",
+      "isFallback": true
+    },
+    {
+      "id": "02efbd8c-aa12-4ea9-9580-4f90f3478298",
+      "title": "for dream",
+      "artist": "Rita",
+      "isrc": "TCJPH1810094",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/3aEVd1QGFUDKWrTyXFMbi8",
+      "isFallback": true
+    },
+    {
+      "id": "1a38fea7-de38-4d4d-9837-41c2b994cdf6",
+      "title": "温もりの意味",
+      "artist": "小春めう",
+      "isrc": "TCJPT2216632",
+      "releaseDate": "2020-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/05ohtojnptR92tFJvv03tX",
+      "isFallback": true
+    }
+  ]
+}

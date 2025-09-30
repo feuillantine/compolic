@@ -1,0 +1,168 @@
+{
+  "name": "矢野博康",
+  "sortName": "ヤノヒロヤス",
+  "tracks": [
+    {
+      "id": "91d2f992-5d1c-447b-b859-482334e181aa",
+      "title": "Seasons always change",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700094",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/01tmhCozGU7XzRN9yz1T1M",
+      "isFallback": true
+    },
+    {
+      "id": "0685a10a-57ac-4ebd-a3c2-bb9f89c8361a",
+      "title": "What A Beautiful World",
+      "artist": "牧野由依",
+      "isrc": "JPTE01606810",
+      "releaseDate": "2016-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/0fGabBnsM2g0tePtjURemy",
+      "isFallback": true
+    },
+    {
+      "id": "307ff564-d422-4bd8-8981-5b843fdc4edc",
+      "title": "You Can Make Me Dance",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210059",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3B6380yVEycfNu4LogJo4v",
+      "isFallback": true
+    },
+    {
+      "id": "8bdabfc6-fdc9-4657-82f8-dd8dc42b54c2",
+      "title": "ウイークエンド・ランデヴー",
+      "artist": "牧野由依",
+      "isrc": "JPTE01606820",
+      "releaseDate": "2016-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/3O9tWNfDQALjxb8pZVo6oY",
+      "isFallback": true
+    },
+    {
+      "id": "b0abde06-25ba-4e28-a94b-812f2aaf9faa",
+      "title": "無防備なリフレイン",
+      "artist": "平野綾",
+      "isrc": "JPPO01207028",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3n5szgrjyZgHSWAm53i61J",
+      "isFallback": true
+    },
+    {
+      "id": "febbb89d-726c-4626-8481-fd60371e53fe",
+      "title": "わたしのしるし",
+      "artist": "May’n",
+      "isrc": "JPG751300624",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/5LM4qYGavKuu1gdhgJZTtR",
+      "isFallback": true
+    },
+    {
+      "id": "bf58693f-66cf-46ae-9a2e-f89600e39bef",
+      "title": "We Are So in Love",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500282",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/1tRCrEdp6CYILYidz7165i",
+      "isFallback": true
+    },
+    {
+      "id": "62aebff4-304e-4b33-9206-bdb35e654f29",
+      "title": "わたしロマンス",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651700072",
+      "releaseDate": "2017-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/7gclDqyXqvQz7AI2sYhJ3n",
+      "isFallback": true
+    },
+    {
+      "id": "8020a7bc-9991-4435-97c0-d434fd0e13ee",
+      "title": "Brand New Days",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400024",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2YbATjccqJ005tPbRrUROP",
+      "isFallback": true
+    },
+    {
+      "id": "0e4cb85d-db67-49d5-8c3c-a3e5265bbc32",
+      "title": "虹のデスティネーション",
+      "artist": "星井美希",
+      "isrc": "",
+      "releaseDate": "2017-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "57e9f69e-b7a1-49b3-9683-96eacf59bca4",
+      "title": "グッバイ・マイ・フレンド",
+      "artist": "牧野由依",
+      "isrc": "JPTE01506150",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/1LrkA1BmlYaDHAn57rmD1U",
+      "isFallback": true
+    },
+    {
+      "id": "adb53257-9277-4d06-ba48-ea4103897055",
+      "title": "ワールドツアー",
+      "artist": "牧野由依",
+      "isrc": "JPTE01506090",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/0aE5lHK2y0O0qwbXznp64m",
+      "isFallback": true
+    },
+    {
+      "id": "9c6845d1-c84f-41b6-bb7e-f510c83a8784",
+      "title": "恋はイリュージョン",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01700355",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1Kfs4Umi0Zqc7jcMI0Nc3r",
+      "isFallback": true
+    },
+    {
+      "id": "0a065207-35cc-4d91-a23e-471acc9d36af",
+      "title": "シグナルは恋ゴコロ",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204027",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/2HRYIHQyMpmMehiaH58VlT",
+      "isFallback": true
+    },
+    {
+      "id": "67b32cbf-b30c-43fc-a0de-34621028758e",
+      "title": "アルメリア",
+      "artist": "牧野由依",
+      "isrc": "JPTE01506140",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/0nmYTSuvpp5qNniMsNS60H",
+      "isFallback": true
+    },
+    {
+      "id": "2483e01a-6b3b-4380-baf8-557f8e2adbf2",
+      "title": "Summer Breeze",
+      "artist": "安倍なつみ",
+      "isrc": "JPA601500200",
+      "releaseDate": "2015-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/5NeAZJifajePAQXidmYbe0",
+      "isFallback": true
+    },
+    {
+      "id": "af57b966-95ed-4f3f-a6f1-8eaee8be75d0",
+      "title": "into the night",
+      "artist": "RHYMESTER",
+      "isrc": "JPKS01101643",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/591ueIjaRY6KIUc60uJ0p9",
+      "isFallback": true
+    },
+    {
+      "id": "4a39fd09-14fc-4364-8586-22741ceba9e1",
+      "title": "It’s My Thing",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02410486",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/7hrf8iPl9lnIUut6sAOWyN",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "name": "小池竜暉",
+  "sortName": "コイケリュウキ",
+  "tracks": [
+    {
+      "id": "fa978afd-7725-4715-b66b-e4837a4620cc",
+      "title": "絶対アイドル辞めないで",
+      "artist": "=LOVE",
+      "isrc": "JPU902503333",
+      "releaseDate": "2024-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/28L67zSl5IPNzcGdr1jBTI",
+      "isFallback": true
+    },
+    {
+      "id": "54be3e52-ff42-438f-918e-93fea6454822",
+      "title": "今日も大天才っ！",
+      "artist": "一条莉々華",
+      "isrc": "JPV752409227",
+      "releaseDate": "2024-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/0IHCq8m7ay1t1aR7kRf0P9",
+      "isFallback": true
+    },
+    {
+      "id": "17108839-90c2-4254-84b3-122267825832",
+      "title": "SUPERNOVA",
+      "artist": "白上フブキ",
+      "isrc": "JPV752409314",
+      "releaseDate": "2024-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/6C1LVRb3AP1kxAHZxGF3dn",
+      "isFallback": true
+    },
+    {
+      "id": "05a6cbf8-c130-4be6-8823-e867a3533390",
+      "title": "UPDATE",
+      "artist": "GENIC",
+      "isrc": "JPB602000462",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3DwOGgmtYuBaRbMGHrWxX0",
+      "isFallback": true
+    },
+    {
+      "id": "26a484cc-5a3d-4d6a-8cfd-c07e29fa3bcd",
+      "title": "ちょ〜ゆめドデッカい！",
+      "artist": "ラプラス・ダークネス",
+      "isrc": "JPV752408872",
+      "releaseDate": "2024-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/35FqKydIuBqag3V2vrr2PW",
+      "isFallback": true
+    },
+    {
+      "id": "ed1b2a39-d713-4a88-8280-2968824b28f8",
+      "title": "FLY",
+      "artist": "GENIC",
+      "isrc": "JPB602001571",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/0frhlIE5Ko3rVjPqpLAtYi",
+      "isFallback": true
+    },
+    {
+      "id": "7753bee6-296f-456e-b1b1-8c4798e1647d",
+      "title": "シェキラ☆☆☆",
+      "artist": "Liella!",
+      "isrc": "JPI102302603",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR",
+      "isFallback": false
+    },
+    {
+      "id": "3b192932-2607-4f2c-b36e-8afb474a29cc",
+      "title": "春うらら",
+      "artist": "GENIC",
+      "isrc": "JPB602100445",
+      "releaseDate": "2021-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/5ZXRWl6ao09loqeA6MJbdb",
+      "isFallback": true
+    },
+    {
+      "id": "cfbe8ce8-8609-4142-833d-413b4517c91d",
+      "title": "Hurray!!",
+      "artist": "GENIC",
+      "isrc": "JPB602501054",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1wR0AInS6g4nIabFyJHlEB",
+      "isFallback": true
+    },
+    {
+      "id": "50717f2f-3821-4a40-8d1b-6b816fdfddbf",
+      "title": "カラカラ！",
+      "artist": "桃鈴ねね",
+      "isrc": "JPV752510777",
+      "releaseDate": "2025-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/55mOa9QTwF7hTzTc74utMW",
+      "isFallback": false
+    },
+    {
+      "id": "bdbc620f-b23b-4760-add5-0f16c52fda65",
+      "title": "ファイティングコール",
+      "artist": "Liella!",
+      "isrc": "JPI102402792",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64",
+      "isFallback": true
+    },
+    {
+      "id": "492e2a31-79f3-44d6-9f46-6cba5af982c8",
+      "title": "ニュートラル",
+      "artist": "KALEIDOSCORE",
+      "isrc": "JPI102400750",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/77mx2Mcq8pyGlB1W5TtGfT",
+      "isFallback": true
+    },
+    {
+      "id": "6a915240-7fb4-4ad8-9c3f-4125f55d6f7c",
+      "title": "てくてく日和",
+      "artist": "桜小路きな子",
+      "isrc": "JPI102501001",
+      "releaseDate": "2025-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/6zOXs8MD5EGmzxblLjLFbO",
+      "isFallback": true
+    },
+    {
+      "id": "2b0b57b6-2804-41a2-b73f-8813d217d1e5",
+      "title": "ハピハピになっちゃおっ!",
+      "artist": "三俣チョコ",
+      "isrc": "",
+      "releaseDate": "2025-09-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

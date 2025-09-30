@@ -1,0 +1,424 @@
+{
+  "name": "ミツキヨ",
+  "sortName": "ミツキヨ",
+  "otherNames": [
+    "Mitsukiyo",
+    "ユメガタリ"
+  ],
+  "tracks": [
+    {
+      "id": "af395dd4-44ed-47b8-8539-f0abed0454d6",
+      "title": "ごほうびトキメキモード",
+      "artist": "名取さな",
+      "isrc": "JPX562300729",
+      "releaseDate": "2023-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/3JRGeJYAfckT4rC8ZGFq5A",
+      "isFallback": false
+    },
+    {
+      "id": "98389563-871e-486e-80bc-f617b57aa9c2",
+      "title": "Target for love (KR)",
+      "artist": "이진아",
+      "isrc": "",
+      "releaseDate": "2021-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c685b1e-2d41-4df4-8f09-ae8c744438e3",
+      "title": "全力絶対Come☆True",
+      "artist": "イタズラ☆ストレート",
+      "isrc": "JPR502401299",
+      "releaseDate": "2024-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/6u7bkoKgkp21UcFxMiDE2f",
+      "isFallback": false
+    },
+    {
+      "id": "98e738c5-9848-4776-80a8-33b389e137cb",
+      "title": "スノーヘルツ",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d0b47d4-9da0-4074-a31f-75248e2c089e",
+      "title": "好きなんです!",
+      "artist": "ヒフミ",
+      "isrc": "JPR502410390",
+      "releaseDate": "2024-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/06VWpZuAkd8VAug60gFmJZ",
+      "isFallback": true
+    },
+    {
+      "id": "77cf7579-6552-4e9b-9f9c-e984243e9eae",
+      "title": "散歩道",
+      "artist": "ことの",
+      "isrc": "QT3EY2549741",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1BW1VMg7QkoRa5a7ndbee6",
+      "isFallback": true
+    },
+    {
+      "id": "369bf6e5-b967-432f-90aa-e0caa6a2458d",
+      "title": "Star♡Letter",
+      "artist": "天川はの",
+      "isrc": "TCJPR2258323",
+      "releaseDate": "2022-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/2lO9QS66wQoZBjIsGp4jEc",
+      "isFallback": false
+    },
+    {
+      "id": "12c1a938-adce-48ec-8801-16bbd42c4067",
+      "title": "私だけday by day",
+      "artist": "ことの",
+      "isrc": "TCJPL2565950",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4AcfIJ6u59gBcHr1Dag5tG",
+      "isFallback": true
+    },
+    {
+      "id": "2d00d705-c96c-4ff4-99fc-94130383c348",
+      "title": "放課後シャングリラ",
+      "artist": "卯月コウ",
+      "isrc": "JPY252300098",
+      "releaseDate": "2023-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/2AUAPw7xtm2hYHjNbixKea",
+      "isFallback": true
+    },
+    {
+      "id": "426616c9-a742-466d-9796-027e1fad3145",
+      "title": "トロイメ・ダイアリー",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da5f0c90-50f8-491a-9f84-7391d232dd56",
+      "title": "ハピラキ☆ビリーバー",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b78ae381-3c45-491c-8b24-10daef9c5442",
+      "title": "かがやきサマーデイズ",
+      "artist": "アビドス高等学校対策委員会",
+      "isrc": "JPR502205016",
+      "releaseDate": "2022-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/5XJbr0bPzTOeJpCzcn5iek",
+      "isFallback": false
+    },
+    {
+      "id": "076ad368-aa6a-453f-87c9-5b13bc80f2f3",
+      "title": "日差しの中のティータイム",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da3750a2-f9a9-4891-b0ad-ad0b5cc1eca9",
+      "title": "ドライブ",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPX2393817",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4cpsOfEevx23jwJSjUKINm",
+      "isFallback": false
+    },
+    {
+      "id": "fbf7f02c-bfd2-401d-a143-d03fb123f69d",
+      "title": "Hero in the heart",
+      "artist": "KMNZ",
+      "isrc": "TCJPK2589226",
+      "releaseDate": "2025-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/5NodIILnsio7nKNbCUZGbl",
+      "isFallback": false
+    },
+    {
+      "id": "29d90eb7-4ba8-45de-8e57-1a5681d1d486",
+      "title": "てら☆ふぉーみんぐ！",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "438949f7-2d31-4938-be87-f5b8abd15f80",
+      "title": "空色カフェテラス",
+      "artist": "ことの",
+      "isrc": "TCJPC2449951",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/13XXPpRqLHZICBD1yWIIRF",
+      "isFallback": true
+    },
+    {
+      "id": "4d3c45be-d682-445c-939a-d414e37a4197",
+      "title": "ふしぎな夜に冒険を",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75579cca-3a76-4771-8845-bbcb1a99d00e",
+      "title": "Target for love (EN)",
+      "artist": "Lee Jin Ah",
+      "isrc": "",
+      "releaseDate": "2021-11-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb6fd042-b114-4d12-9093-0b995bde8576",
+      "title": "昼想夜夢",
+      "artist": "Mitsukiyo",
+      "isrc": "TCJPF2587853",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5nv7W5HvlAMlHZ30YlHciB",
+      "isFallback": true
+    },
+    {
+      "id": "2aa5f8c2-0248-42b2-8742-363da4545e37",
+      "title": "Lemonade Diary",
+      "artist": "Mitsukiyo",
+      "isrc": "JPR502200285",
+      "releaseDate": "2022-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/19CjH6tQjeW70DPuC9AoNq",
+      "isFallback": true
+    },
+    {
+      "id": "74ef7860-3317-4292-b53b-490aa5a9952e",
+      "title": "わたしたちのクエスト",
+      "artist": "モモイ",
+      "isrc": "JPR502207150",
+      "releaseDate": "2022-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/0V2olgz0qfjQ4m6H7BxgYb",
+      "isFallback": false
+    },
+    {
+      "id": "0018354c-7f1f-442f-adbd-5effe5b46a10",
+      "title": "彩りキャンバス(Short Ver.)",
+      "artist": "SUGAR RUSH",
+      "isrc": "JPR502410396",
+      "releaseDate": "2024-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/1cEiI0dp2tLus4YYraNySs",
+      "isFallback": true
+    },
+    {
+      "id": "03b3c2f2-1a06-41ae-8f92-83221cbed2a4",
+      "title": "澄んだ青空、萌ゆる心",
+      "artist": "カスミ",
+      "isrc": "JPR502401270",
+      "releaseDate": "2024-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/0MfC65DXuLrKXETZzwZ86f",
+      "isFallback": false
+    },
+    {
+      "id": "fbf964be-dbf1-42f5-a90d-d37a20c6822a",
+      "title": "Our home",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cdec985d-18f7-4374-b542-86e668d9dfdb",
+      "title": "雨の日トロイメライ",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55379315-d84a-4847-9564-fdf2512cd1f9",
+      "title": "ワンダー・ファニー・ハーモニー",
+      "artist": "サクラコ",
+      "isrc": "JPR502303302",
+      "releaseDate": "2023-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/6281WxCq6gDhdLP4tDX5Da",
+      "isFallback": false
+    },
+    {
+      "id": "10238aeb-2fce-446e-91cd-4ba2bbfd2422",
+      "title": "これが私のハードボイルド!?",
+      "artist": "アル",
+      "isrc": "JPR502409055",
+      "releaseDate": "2024-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/7n1gsKWFdihu6kyT61LMG2",
+      "isFallback": true
+    },
+    {
+      "id": "d351887d-9cb9-4f24-9551-15b90b1488f2",
+      "title": "ユノのアトリエ",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d65ee4d-a51f-4be2-ad12-b2c7cf35c0b7",
+      "title": "時間の中の帰り道",
+      "artist": "Mitsukiyo",
+      "isrc": "TCJPF2587962",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/260fiM9i0hahluXRULPkPP",
+      "isFallback": true
+    },
+    {
+      "id": "c43ea9f9-dd29-4ab7-aa67-9d7f3dab18bf",
+      "title": "YU.ME.NO !",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2050718e-f59b-4bdf-8ba0-7d3bb0ff9580",
+      "title": "Operation☆DOTABATA!",
+      "artist": "ミツキヨ",
+      "isrc": "JPR502410401",
+      "releaseDate": "2024-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/63gc4cyfksT7P69ZbK1lTN",
+      "isFallback": true
+    },
+    {
+      "id": "9a676e86-98fd-48d5-954c-1533580b1e6c",
+      "title": "ミヤコワスレ",
+      "artist": "Mitsukiyo",
+      "isrc": "TCJPF2587818",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4hG8hSKpx99fx8yCKtHGo6",
+      "isFallback": true
+    },
+    {
+      "id": "44b579cc-3a9d-4c99-9607-ca20ea27846d",
+      "title": "エブリディいっしょ♪",
+      "artist": "アロナ",
+      "isrc": "JPR502304656",
+      "releaseDate": "2023-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/0RZHbrfZxIVwYOUfhkjhXY",
+      "isFallback": false
+    },
+    {
+      "id": "b7b45b2f-94fb-44ed-9e22-79b49f90b4a3",
+      "title": "昼下がりのメリエンダ",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f43e125c-a327-4258-819f-e232b941d11d",
+      "title": "猫ダッシュ★もふもふパラダイス！",
+      "artist": "ななひら",
+      "isrc": "TCJPL2082092",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/7H2UJRG7WcLeTKIXwaJRyR",
+      "isFallback": true
+    },
+    {
+      "id": "fc6bb410-14e6-49e6-b066-a72f6ec3bee8",
+      "title": "魔法",
+      "artist": "ことの",
+      "isrc": "TCJPR2221739",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/4wuFGNlgWEoVSNvpdFX2hb",
+      "isFallback": true
+    },
+    {
+      "id": "a0b24675-777b-4c86-b6d2-06bd35e4082a",
+      "title": "未完成ロマンチック",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2019-11-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5729f4d7-59e5-41a6-b05e-6232afd6d6e5",
+      "title": "Hifumi Daisuki",
+      "artist": "Mitsukiyo",
+      "isrc": "JPR502300092",
+      "releaseDate": "2023-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/7jYDeIgB1Aas2AVY8v9J4l",
+      "isFallback": true
+    },
+    {
+      "id": "c7a6f41a-7b77-42d7-a6af-09e4c623ebe3",
+      "title": "NEW DAYS",
+      "artist": "KMNZ",
+      "isrc": "TCJPD2536484",
+      "releaseDate": "2024-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/4e8AQFUM6HRNT97pySfvHR",
+      "isFallback": true
+    },
+    {
+      "id": "4ea1b280-03c4-4401-a9d2-21ac864485bf",
+      "title": "パステルトリップ",
+      "artist": "すずしろ",
+      "isrc": "TCJPP2191881",
+      "releaseDate": "2021-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/6rmcEeWGEYxjCchjxvk5Vf",
+      "isFallback": true
+    },
+    {
+      "id": "dabd9ae0-ad93-449b-816d-ec3c9f80481a",
+      "title": "choose♡happiness",
+      "artist": "ななひら",
+      "isrc": "TCJPW2306961",
+      "releaseDate": "2023-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/1xqGcC8YhadWtkdaxcGwpd",
+      "isFallback": false
+    },
+    {
+      "id": "a17b115c-1c69-4400-8f0a-a6b3afb5f9f2",
+      "title": "take off",
+      "artist": "ことの",
+      "isrc": "TCJPL2565243",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/5yaOZOdM6ybeszmuZBw10R",
+      "isFallback": true
+    },
+    {
+      "id": "ff327684-1a8b-4cfd-8c54-26d7b35e754e",
+      "title": "ようこそトロイメへ",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9d86989f-44fb-47ef-9b59-7c0aa1aab050",
+      "title": "ユメの喫茶店",
+      "artist": "ユメガタリ",
+      "isrc": "",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "052647d8-4aa4-4453-bc20-4e9146ad7bcb",
+      "title": "月下乱舞",
+      "artist": "電音部",
+      "isrc": "JPR502509510",
+      "releaseDate": "2025-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3TTNytlfWKSITK7DBGQZtz",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "name": "トミタカズキ",
+  "sortName": "トミタカズキ",
+  "tracks": [
+    {
+      "id": "5cef94d2-7e10-46b4-9626-54eb1c8107dc",
+      "title": "端程山",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562400187",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4Lcewcj2kPhVhbrjp0aUiA",
+      "isFallback": true
+    },
+    {
+      "id": "0be6001a-3c1b-4207-b43e-9fc55732a299",
+      "title": "Symbol III : ▽",
+      "artist": "Ave Mujica",
+      "isrc": "JPR562400186",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/4U18VEyWj8y6xGcVtgZWT3",
+      "isFallback": true
+    },
+    {
+      "id": "ebb22182-f9a3-409b-a4cd-e1c5ef44f8e0",
+      "title": "#超ジャングルのチキチキあどべんちゃー!",
+      "artist": "chuLa",
+      "isrc": "JPTK02102830",
+      "releaseDate": "2021-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/7GPkKfJhEoOcoFZ1pvuvum",
+      "isFallback": true
+    },
+    {
+      "id": "c0867c12-781c-4a46-80a2-d6864966c41a",
+      "title": "一番星",
+      "artist": "喜咲アリア",
+      "isrc": "JPPC02510845",
+      "releaseDate": "2025-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/2MIes19WlRVhHVuIxUWGSU",
+      "isFallback": true
+    },
+    {
+      "id": "48ac359d-f8f0-49e5-9317-c07bc8fee8f6",
+      "title": "Dear Teddy",
+      "artist": "富田美憂",
+      "isrc": "JPCO02427550",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/79UonVPHzGkPsn5WNJbM7u",
+      "isFallback": true
+    },
+    {
+      "id": "d8bf0aba-a73a-475e-99be-e90b7ece57e3",
+      "title": "ミライコンパス (M@STER VERSION)",
+      "artist": "望月聖",
+      "isrc": "JPCO02301120",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/5v2xdd9rJQdof7l3oWjSIn",
+      "isFallback": true
+    },
+    {
+      "id": "adb6b2e4-54f2-4441-a53f-93450d54ff96",
+      "title": "PARADOX",
+      "artist": "雨宮天",
+      "isrc": "JPX401900117",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1yyCK06zEaRQQwKBjh87Ji",
+      "isFallback": true
+    },
+    {
+      "id": "8dc63cf9-325e-48da-bfe4-77c9f8701a12",
+      "title": "書きかけのラブレター",
+      "artist": "関裕美",
+      "isrc": "JPCO02404130",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/4JiEfqqKfMSvAxdgYZNOoN",
+      "isFallback": true
+    },
+    {
+      "id": "950f8d4d-344b-401a-bb36-02c0f86fe37b",
+      "title": "白昼夢",
+      "artist": "Raon",
+      "isrc": "JPPO02304296",
+      "releaseDate": "2024-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/7HDS12gSf9f9Ky11a0iMEw",
+      "isFallback": true
+    },
+    {
+      "id": "3cc62efb-96a7-4b40-82f3-f588994c02d0",
+      "title": "プラットホーム",
+      "artist": "Mashumairesh!!",
+      "isrc": "JPPC01902303",
+      "releaseDate": "2020-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/7M8ekWrRTMT1sz52QvkZ0s",
+      "isFallback": true
+    },
+    {
+      "id": "02d91ba9-32ba-4f61-a2b4-d13b20146762",
+      "title": "ささくれ",
+      "artist": "久保あおい",
+      "isrc": "JPB602303749",
+      "releaseDate": "2023-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/2IggjcM8LKudTaoCDlCoJM",
+      "isFallback": true
+    },
+    {
+      "id": "8f8ecda3-8efc-415d-ac65-2fbf2959f4a7",
+      "title": "片思いはじめました",
+      "artist": "富田美憂",
+      "isrc": "JPCO02109320",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/6etIMFnELWxXh7LPgyEZz8",
+      "isFallback": true
+    },
+    {
+      "id": "1ac25af5-7ae8-4d1a-9ead-20db4cdbcb1c",
+      "title": "ツギハギ",
+      "artist": "青山吉能",
+      "isrc": "JPTE02300590",
+      "releaseDate": "2023-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/378HgVJtElKk0DXy51WnD7",
+      "isFallback": false
+    },
+    {
+      "id": "7b087355-a44c-4e3c-80f7-814999f7c093",
+      "title": "愛してるの言葉だけで",
+      "artist": "宮本佳林",
+      "isrc": "JPA602200152",
+      "releaseDate": "2022-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/3mHKXUUUlS1eq4BZUSeNCd",
+      "isFallback": true
+    },
+    {
+      "id": "63005be4-ffe4-42b4-bfe2-8639f45502a3",
+      "title": "ReCoda",
+      "artist": "TRUE",
+      "isrc": "JPI102302817",
+      "releaseDate": "2024-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/4ZGmiLKniLBHN1HF3wG0lj",
+      "isFallback": true
+    },
+    {
+      "id": "1fc6a567-3801-49a0-809e-e44ddea37849",
+      "title": "ネオンテトラの空",
+      "artist": "REIJINGSIGNAL",
+      "isrc": "JPPC01902489",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/22DWsYxLPwRHnes521LXvS",
+      "isFallback": true
+    },
+    {
+      "id": "1136e89f-27a5-45df-87d7-842af549a053",
+      "title": "星空ライトストーリー",
+      "artist": "Mashumairesh!!",
+      "isrc": "JPPC02001398",
+      "releaseDate": "2021-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/51rvmmGWGk8fVG0kuJHnzq",
+      "isFallback": true
+    },
+    {
+      "id": "f80b4ec0-62e2-45da-acde-c3dcf23bb44f",
+      "title": "Poison Girl",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02003017",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/4niqaER7xEr3CGD6aaUl6H",
+      "isFallback": true
+    },
+    {
+      "id": "c8f17184-5917-40b0-a038-2cfdb8bc00b9",
+      "title": "サワリタイミライ",
+      "artist": "halca",
+      "isrc": "JPU902000056",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/0cURxqNkTXCdTlTcEXuo7l",
+      "isFallback": true
+    },
+    {
+      "id": "3fba7f1d-fb01-45de-a9df-872e0d4dee09",
+      "title": "聿日箋秋",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562500057",
+      "releaseDate": "2025-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/2T2CK3npnaIYteSoAchj0L",
+      "isFallback": true
+    },
+    {
+      "id": "eb661291-02fa-469d-aa5e-f0a47c46d8f0",
+      "title": "揺れていたい",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02003018",
+      "releaseDate": "2020-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/3qyPnleQbHZJ2Z6udVHSak",
+      "isFallback": true
+    }
+  ]
+}

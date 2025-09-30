@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+*.tsbuildinfo
+data/files.json
+
+# VS Code
+.vscode/settings.json
+
+# Temporary
+temp/

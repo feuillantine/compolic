@@ -1,0 +1,24 @@
+{
+  "name": "sooogood!",
+  "sortName": "ソーグッド",
+  "tracks": [
+    {
+      "id": "67817080-adaf-4d36-94f8-df711683ee32",
+      "title": "broken",
+      "artist": "戦慄かなの",
+      "isrc": "TCJPU2224076",
+      "releaseDate": "2023-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/3Z4VOemPZJcP1Nh0ysYm7r",
+      "isFallback": true
+    },
+    {
+      "id": "e7ed048d-2afa-4f89-9315-87bf6576b7ce",
+      "title": "shiny shiny",
+      "artist": "早坂芽衣",
+      "isrc": "JPX402200195",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/3SFWA2MXQPiKay2bX806SM",
+      "isFallback": false
+    }
+  ]
+}

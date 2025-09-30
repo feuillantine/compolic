@@ -1,0 +1,159 @@
+{
+  "name": "ゆいにしお",
+  "sortName": "ユイニシオ",
+  "tracks": [
+    {
+      "id": "027d92e0-0826-4b43-b3bb-f655a411f494",
+      "title": "BFF",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401520",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/3YwIFcgXFrTwQMlLpHM0lT",
+      "isFallback": false
+    },
+    {
+      "id": "337f9bd3-1368-420e-b850-b799945bd822",
+      "title": "息を吸う ここで吸う 生きてく",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02112820",
+      "releaseDate": "2021-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/1fMvvep165vN1R3xyypqs5",
+      "isFallback": true
+    },
+    {
+      "id": "5e355ed8-48bc-4c9e-a0ac-5cc9b364fd4e",
+      "title": "hello new pink",
+      "artist": "伊藤美来",
+      "isrc": "JPCO02000470",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/0O6h3PFnb5wvzxFF38sYeP",
+      "isFallback": true
+    },
+    {
+      "id": "98bf2382-e0f0-4bef-bc6a-dc28f68f1c54",
+      "title": "TWO HANDS",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02337150",
+      "releaseDate": "2023-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82",
+      "isFallback": false
+    },
+    {
+      "id": "6b6d1146-1f1c-46bd-8d73-4ae699855fb1",
+      "title": "さくら",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401460",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0ibfNRdbjtU8xJFQNtfsqu",
+      "isFallback": false
+    },
+    {
+      "id": "94eaee78-8495-403f-b238-f3ece83796e0",
+      "title": "帰り道ランウェイ",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401490",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/7mTR1sUMojpPrpwvc5itfO",
+      "isFallback": false
+    },
+    {
+      "id": "188b62e3-9cff-4c41-ba34-c8c22ea81cc7",
+      "title": "me&cat",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401500",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5bAT1PxFzQ7izv4EeWu0Ei",
+      "isFallback": false
+    },
+    {
+      "id": "2436c9df-2053-46bd-abba-ceb3363748c6",
+      "title": "routine life (English Ver.)",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401530",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/6lfo51dMpM37CzfspTfWOJ",
+      "isFallback": false
+    },
+    {
+      "id": "39419dbb-aa45-47bc-98b9-6b43303fb642",
+      "title": "アイシャドウ",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401470",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/6J0MlBRoPtFANWPtuMIq5O",
+      "isFallback": false
+    },
+    {
+      "id": "c8adb4db-7e74-4abf-a1a7-2f3893a9872a",
+      "title": "yyyymmdd",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401450",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5dh8t3HTHYgDWiwunS7z5y",
+      "isFallback": false
+    },
+    {
+      "id": "63183c18-f208-4d14-8bb4-4facf8b11792",
+      "title": "おいしい温度",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401480",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/6vAbJe2A4QrkFxSMp8RDDk",
+      "isFallback": false
+    },
+    {
+      "id": "8ccfe19c-e017-424e-a456-d0a01682657c",
+      "title": "ユニットバス",
+      "artist": "伊藤美来",
+      "isrc": "JPCO02234290",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/4SNsXxItAKULsequ9ezghr",
+      "isFallback": true
+    },
+    {
+      "id": "43c7ced2-dce8-4f2c-afc2-6ed97f9dec90",
+      "title": "morning walk",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02401510",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/3WaHx9hQwRS8NagnoXBM6u",
+      "isFallback": false
+    },
+    {
+      "id": "fee24c6e-cb74-445c-8351-4e34db7d72d4",
+      "title": "SUMMER TUNE",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02320850",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/4yY7szHczA5iTHPwgCVI3p",
+      "isFallback": false
+    },
+    {
+      "id": "6b0d5e27-16ed-46e5-9f8f-9b246d859e78",
+      "title": "アイスコーヒー",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02320860",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/3NgShxZI9YXshoJLoCgEHz",
+      "isFallback": false
+    },
+    {
+      "id": "0520c63e-000c-489b-829a-58a1200d5bbf",
+      "title": "routine life",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02337320",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk",
+      "isFallback": false
+    },
+    {
+      "id": "4207a8e6-23dd-4bde-8af3-ba278ffc8d14",
+      "title": "We Are Girls Forever!",
+      "artist": "ゆいにしお",
+      "isrc": "JPCO02321800",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/29Xd411OfysfEQcWHbpd4i",
+      "isFallback": false
+    }
+  ]
+}

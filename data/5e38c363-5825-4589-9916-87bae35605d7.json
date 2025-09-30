@@ -1,0 +1,51 @@
+{
+  "name": "中野慎也",
+  "sortName": "ナカノシンヤ",
+  "tracks": [
+    {
+      "id": "dbfe8551-c3ee-4001-a9f4-316f5cbdba7a",
+      "title": "デリケートマジック",
+      "artist": "藤宮千紗",
+      "isrc": "",
+      "releaseDate": "2006-12-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "014704a1-5c81-4b6f-8d21-dfce4a218057",
+      "title": "Little Distance",
+      "artist": "桃田佳世子",
+      "isrc": "JPI100601312",
+      "releaseDate": "2006-07-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53eb7a4a-9bfe-425f-9c7d-d8c83459bda4",
+      "title": "MAGIC of HAPPINESS",
+      "artist": "鮎川天理",
+      "isrc": "JPPI01353340",
+      "releaseDate": "2013-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/5g3cfapau0IBltkTSz7ZY4",
+      "isFallback": true
+    },
+    {
+      "id": "afeea070-9c5f-4959-9fdb-6718e0b326c7",
+      "title": "虹色センチメンタル",
+      "artist": "橋本みゆき",
+      "isrc": "JPI100602018",
+      "releaseDate": "2006-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/04tpcbNGXKWXQ7DXfWPX4g",
+      "isFallback": true
+    },
+    {
+      "id": "34f1e629-96f9-49c0-8892-94271bd89d96",
+      "title": "なついろモーニンググローリー",
+      "artist": "小路綾",
+      "isrc": "",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

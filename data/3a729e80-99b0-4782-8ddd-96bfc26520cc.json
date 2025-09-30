@@ -1,0 +1,285 @@
+{
+  "name": "柏木るざりん",
+  "sortName": "カシワギルザリン",
+  "tracks": [
+    {
+      "id": "cefe6853-c2d7-4bdb-abac-a980a19af153",
+      "title": "Windy (STAGE 5)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "11406c27-54ea-4a6e-adb5-28b005050ab0",
+      "title": "ゼンブアタシノカワイイノ",
+      "artist": "藤原鞠菜",
+      "isrc": "",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2e8444bb-4fc9-4e61-a8f9-7e245e3e9b43",
+      "title": "ジャングルクッキング",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "899dce83-c4d6-4520-80f8-4149aedecc1e",
+      "title": "21st century dreamin' girl",
+      "artist": "MAKI",
+      "isrc": "JPC230901109",
+      "releaseDate": "2009-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/0MZp3ClWYrfsl7wd1wx6Kc",
+      "isFallback": true
+    },
+    {
+      "id": "dc40f6e2-a1f2-4fce-b49f-8076fcc483b4",
+      "title": "ショータイムはここまで。",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ab561da-7579-4c92-adf8-84718625b745",
+      "title": "チョビれんしゃ～",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bdf86ddc-cc6e-4479-a016-9291e6534811",
+      "title": "ウインドウズがこわれちゃった",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64c78a6e-ead6-4bea-98f0-baf258ed1a75",
+      "title": "サマートレイン",
+      "artist": "yuiko",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "949213bd-0b78-4b06-aab8-5d272ec05b86",
+      "title": "この世の果てでセ●に寝返った男 E-NO",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ec5f09b-770e-4c00-9c75-365c6fe2c7c2",
+      "title": "ねぇ、キスとかぁ・・・・・・したことある？",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0701df91-365f-4f88-8e90-ed3c13ca1af4",
+      "title": "俺の人生そう捨てたもんじゃないぜ (GAME OVER)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2893f94-c73c-42c7-ad6c-7f308d53f811",
+      "title": "恋のチェッカー・フラッグ",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ920501184",
+      "releaseDate": "2006-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/7f7uN5Xthe3tXpx8VJX6Ue",
+      "isFallback": true
+    },
+    {
+      "id": "c8a9c26e-bffc-413b-ac63-b1054552b31c",
+      "title": "Cookin' on the Hell (BOSS 3)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "213ad859-f1b6-494f-b769-642354ee759b",
+      "title": "Infinity... (STAGE 4)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a8c54a1a-c4be-4719-a98f-d757366cb05b",
+      "title": "だっこしてぎゅっ！ ～汝、隣の枕(よめ)を愛せ (MUZIK SERVANT Remix)",
+      "artist": "民安ともえ",
+      "isrc": "",
+      "releaseDate": "2012-11-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7fa7405-c292-4c31-898f-e05af0be0e64",
+      "title": "USDマン大ピンチ！",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0f82437-4dcf-46d1-99e9-35a3cd650e13",
+      "title": "We Love the E.A.R.T.H (NAME ENTRY)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ad600fe2-848a-4eaf-ace9-2e522a944d95",
+      "title": "巫女みこナース・愛のテーマ",
+      "artist": "Chu☆",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "18da42f0-a38e-480c-9949-fa1a9f0ca44d",
+      "title": "ちあぷり！",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2014-09-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "32e65dde-2196-49cd-95de-7514a2269eee",
+      "title": "Pleasure Trip -君を乗せて (STAGE 3)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a92e9af4-93f2-4069-9192-f493c8c5a777",
+      "title": "ウルトラスーパーデラックスマン",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "23581a97-c37b-478b-a36b-3a69c52d154b",
+      "title": "Justice of Galaxy (STAGE 2)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "841d62ef-ab34-478b-9d62-2dadae5e4303",
+      "title": "Planet the E.A.R.T.H (STAGE 1)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "45c2c854-295b-463d-8cc6-08ba80bc6328",
+      "title": "All or Nothing (STAGE 0)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8898b14e-d35d-4d19-9da7-9994398e1fa7",
+      "title": "I'm Fighting to Your Happiness (STAGE 6)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ca6da0a-9886-4561-bfc4-cfd53d9b7309",
+      "title": "ファミベのよっしん・魂の叫び",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2f6fdca-feab-4956-807f-3aa4ae47faeb",
+      "title": "夢見桜",
+      "artist": "KIRIKO",
+      "isrc": "",
+      "releaseDate": "2002-10-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e94d33d3-931e-4b88-9b2e-f6198423d1a0",
+      "title": "Chips!! (BOSS 1)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1f33ffc-6f3b-4449-bc09-ac3a06696708",
+      "title": "I'm Fighting to Your Happiness (STAGE 6)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c17160a6-9c51-4ec1-9add-3e0b3eade114",
+      "title": "Impossible One (BOSS 2)",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ddbd26f-f248-490e-b6f4-8f8bef747e7b",
+      "title": "サンシャイン",
+      "artist": "柏木るざりん",
+      "isrc": "",
+      "releaseDate": "2003-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

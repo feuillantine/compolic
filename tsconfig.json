@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    // バージョン
+    "target": "ESNext",
+    "lib": ["ESNext"],
+    // モジュール
+    "module": "Preserve",
+    "verbatimModuleSyntax": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    // 入出力
+    "noEmit": true,
+    "rootDir": ".",
+    "outDir": "dist",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    // チェック
+    "strict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "allowUnusedLabels": true,
+    "allowUnreachableCode": true,
+    "forceConsistentCasingInFileNames": true,
+    // パフォーマンス
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts", "preview/**/*.ts"],
+  "exclude": ["node_modules"]
+}

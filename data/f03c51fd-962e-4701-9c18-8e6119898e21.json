@@ -1,0 +1,195 @@
+{
+  "name": "奈須野新平",
+  "sortName": "ナスノシンペイ",
+  "tracks": [
+    {
+      "id": "b38b6e21-fef0-421b-9adc-539c55ae6080",
+      "title": "夏色微炭酸",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218034",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/0bumemSpy9WRVBNYbXM7j3",
+      "isFallback": true
+    },
+    {
+      "id": "03bb1018-436f-48df-9534-d13d37577d10",
+      "title": "Candy Days",
+      "artist": "きみにYORISOERU",
+      "isrc": "JPN902301040",
+      "releaseDate": "2023-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/3iIt9msODBB6xXInXvf8lC",
+      "isFallback": true
+    },
+    {
+      "id": "e84e4a11-1561-4f43-b73c-0d2e351b1042",
+      "title": "咲き誇れ！わたし、",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218079",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/4q658kknQeZfc6G1iXjSWm",
+      "isFallback": true
+    },
+    {
+      "id": "ca7e11b6-aa3b-4d76-8580-af24e45f9b06",
+      "title": "Swing by",
+      "artist": "月乃",
+      "isrc": "TCJPC2411962",
+      "releaseDate": "2021-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/0U6umfFFjyLgUdL6JJR3zU",
+      "isFallback": true
+    },
+    {
+      "id": "78f4ea84-b9d5-43d8-b4c5-a301943eafd7",
+      "title": "クローバーに纏わるいくつかの出来事",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218087",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/7q2pQWl0EfUjoa7knasUGH",
+      "isFallback": true
+    },
+    {
+      "id": "ee3eb0ec-e25a-4258-90f8-88824f39176c",
+      "title": "BOUQUET",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPT2218394",
+      "releaseDate": "2022-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/5IBmPSSfyXgM10D1vrMH3N",
+      "isFallback": true
+    },
+    {
+      "id": "74c32c5b-499d-49e3-ac33-d4d19b956cb1",
+      "title": "UNDERCOVER",
+      "artist": "電音部",
+      "isrc": "JPR502038630",
+      "releaseDate": "2022-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/5MxX8XMDhcNqAeW5Cbme66",
+      "isFallback": true
+    },
+    {
+      "id": "3dbd41bd-28b3-43ba-b0e4-27a2ab28731f",
+      "title": "VOMS BOOM!",
+      "artist": "VOMS Project",
+      "isrc": "TCJPU2347792",
+      "releaseDate": "2023-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/4CmmQ97UQWfKX7PZh82QVi",
+      "isFallback": true
+    },
+    {
+      "id": "79f3f18e-3e92-4d57-b1f5-c011412b4388",
+      "title": "décadence -デカダンス-",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01800540",
+      "releaseDate": "2018-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/0bhbwbvAQ99CWcr0nYoQui",
+      "isFallback": true
+    },
+    {
+      "id": "7e41b722-527c-4aa3-882e-ebd70147db9f",
+      "title": "ジャスミン",
+      "artist": "大橋彩香",
+      "isrc": "JPI101600886",
+      "releaseDate": "2016-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/5dHgtDaY2CJOWkiqdNKlRv",
+      "isFallback": true
+    },
+    {
+      "id": "3672121d-b1cf-4d42-b85b-b7af03f07b1d",
+      "title": "教えてlast note…",
+      "artist": "篠宮可憐",
+      "isrc": "JPI101800546",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/2wt8MiPfpfaDSoaCtufQot",
+      "isFallback": false
+    },
+    {
+      "id": "4a23b916-8161-42d2-8792-56619ada2ffb",
+      "title": "メルティ・ホワイト",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPR2226883",
+      "releaseDate": "2022-03-11",
+      "spotifyUrl": "https://open.spotify.com/track/6XimFojNBANBq8mHyN4ouM",
+      "isFallback": true
+    },
+    {
+      "id": "73736def-2545-4873-a3a6-0e9c2703c228",
+      "title": "KONVERSiON",
+      "artist": "USAGI Production",
+      "isrc": "TCJPY2343800",
+      "releaseDate": "2023-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/0fLEAai5Vkl8PlzLoxWIwf",
+      "isFallback": true
+    },
+    {
+      "id": "a485647b-8264-4999-9892-c48e5e5cde38",
+      "title": "大切がきこえる",
+      "artist": "五島潤",
+      "isrc": "JPI101701660",
+      "releaseDate": "2017-09-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed68f7df-a24a-4066-8036-d10483432d94",
+      "title": "全力☆I・N・G!!",
+      "artist": "ハルカトハルナ",
+      "isrc": "JPU901700141",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4pGmmaXFjXFhWLTd2m5SjA",
+      "isFallback": true
+    },
+    {
+      "id": "78a51929-db5a-435b-ab5a-2ad764da3fac",
+      "title": "ペルソナ",
+      "artist": "かすみ草とステラ",
+      "isrc": "TCJPV2309252",
+      "releaseDate": "2023-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/3101Q18LJGc43GZFqICrlb",
+      "isFallback": true
+    },
+    {
+      "id": "f0ea4192-961f-4894-9fd7-fdb0c8580e2f",
+      "title": "*g*4U",
+      "artist": "電音部",
+      "isrc": "JPR502301557",
+      "releaseDate": "2022-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/2htBdrIQbT04AwYJ2tAVxt",
+      "isFallback": true
+    },
+    {
+      "id": "e09ed533-b3bb-45b8-a35f-a6d2f001d6bb",
+      "title": "pop enemy",
+      "artist": "電音部",
+      "isrc": "JPR502150174",
+      "releaseDate": "2021-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4CpyN5QwMYjpGzx1Welw59",
+      "isFallback": true
+    },
+    {
+      "id": "cf9ff363-a97c-4396-abe7-8bd149639deb",
+      "title": "We Will",
+      "artist": "電音部",
+      "isrc": "JPR502200163",
+      "releaseDate": "2022-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2K2tpMWpussumi7C4UPuAb",
+      "isFallback": true
+    },
+    {
+      "id": "e4e92eee-60d3-4a57-8319-3b2c08e04cd8",
+      "title": "○●つけまSHOW?!",
+      "artist": "トール",
+      "isrc": "JPI101700216",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/0V8e6UCftchqypSNP9ySWe",
+      "isFallback": true
+    },
+    {
+      "id": "9a8dc24d-b532-4858-a35a-07e7d646a709",
+      "title": "poppin’ rain",
+      "artist": "迎羽織",
+      "isrc": "JPKI01816984",
+      "releaseDate": "2018-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/5ZYxWzOQc6AyslSwY7UERf",
+      "isFallback": true
+    }
+  ]
+}

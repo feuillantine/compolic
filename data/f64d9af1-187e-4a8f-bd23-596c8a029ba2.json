@@ -1,0 +1,123 @@
+{
+  "name": "金山秀士",
+  "sortName": "カナヤマシュウジ",
+  "tracks": [
+    {
+      "id": "b50e2997-eb1d-4fab-9b6b-308106ec4feb",
+      "title": "私、プリンセスだもん！",
+      "artist": "桜ひなの",
+      "isrc": "JPX952500023",
+      "releaseDate": "2025-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/04FH04VGmIncTs0kxJ4KBf",
+      "isFallback": true
+    },
+    {
+      "id": "0ddeed53-0122-446a-9b30-e2fcaa7e8b36",
+      "title": "くらりのうた",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI02313358",
+      "releaseDate": "2023-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/2HrQLoFZIZwTKlESPN8Pkm",
+      "isFallback": false
+    },
+    {
+      "id": "86c91f88-3616-4f07-ba13-6e9f077dc9e2",
+      "title": "ミュージカル",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI02204037",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/55bmh54sKpRWq7rBD0o9Hy",
+      "isFallback": true
+    },
+    {
+      "id": "3c05e992-2315-4867-8973-b97b975b9205",
+      "title": "カナエルカナタ",
+      "artist": "Liyuu",
+      "isrc": "JPI102302830",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/4pyyrGWNSAer1lBUGwaP12",
+      "isFallback": true
+    },
+    {
+      "id": "dab1cb53-92cb-455b-846d-089426129c0c",
+      "title": "らぶきゅん♡うぉんてっど",
+      "artist": "きゅるりんってしてみて",
+      "isrc": "TCJPZ2448806",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/0CaeTYtL57FfMSbGrII1tM",
+      "isFallback": true
+    },
+    {
+      "id": "cf97f3f1-b189-4d8e-a018-6701add04ccd",
+      "title": "はんなり乙女道中",
+      "artist": "マホ",
+      "isrc": "JPCO02226060",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/1uumcvgW5UM0Is6XCQ65cs",
+      "isFallback": false
+    },
+    {
+      "id": "7adde3c1-39c6-4edd-846b-3cfc8fe903fd",
+      "title": "Reward Sweets",
+      "artist": "春日未来",
+      "isrc": "JPI102500195",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6jTI3eVi5DzuBCDnL3lfwf",
+      "isFallback": true
+    },
+    {
+      "id": "f5b24636-d01a-4fe8-9e5c-40decc30b84d",
+      "title": "Tiny Twin Stars!!",
+      "artist": "メドゥーサ",
+      "isrc": "JPCO02500920",
+      "releaseDate": "2025-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1fAwxN8gDGqYPLKDE0T63a",
+      "isFallback": true
+    },
+    {
+      "id": "bbdf10fa-4187-493f-a5ff-5aef0035e6c2",
+      "title": "さあ舞い上がれ",
+      "artist": "放課後クライマックスガールズ",
+      "isrc": "JPI102403089",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6ZFLBBwsCKwhGUVkcf9YPj",
+      "isFallback": true
+    },
+    {
+      "id": "a79006cf-b748-40e2-aede-443bb334cbbb",
+      "title": "The Cute!!!",
+      "artist": "初星学園",
+      "isrc": "JPX832500041",
+      "releaseDate": "2025-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/0rX785m36FmJX7Kzp5OPU4",
+      "isFallback": false
+    },
+    {
+      "id": "1363f7e5-3926-4391-b0b7-ec4e9a0d9ce9",
+      "title": "夕色のねがいみち",
+      "artist": "甘神夕奈",
+      "isrc": "JPKI02414610",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/0F8otBj7C6B4GZw2HwpWxy",
+      "isFallback": true
+    },
+    {
+      "id": "8dd8ed09-b935-4ba8-b061-4c5d494a5578",
+      "title": "放課後マギア",
+      "artist": "放課後クライマックスガールズ",
+      "isrc": "JPI102401589",
+      "releaseDate": "2024-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/4whS7R5How6pnqO051Oo6V",
+      "isFallback": true
+    },
+    {
+      "id": "5d3c34fb-b82e-41f9-b8ca-5e6191291d0c",
+      "title": "ハナサカサイサイ",
+      "artist": "放課後クライマックスガールズ",
+      "isrc": "JPI102301157",
+      "releaseDate": "2023-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/2W7147b1WZMaIQ9DwiarDy",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "音猫さしみ",
+  "sortName": "オトネコサシミ",
+  "tracks": [
+    {
+      "id": "e892edd4-2b71-4a72-b639-b5d4a980bc8e",
+      "title": "星降るメモリー",
+      "artist": "ハニーストラップ",
+      "isrc": "TCJPJ1930482",
+      "releaseDate": "2019-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/1zTe9XRAUQkbmPzeCG2lZB",
+      "isFallback": true
+    },
+    {
+      "id": "da1e42b0-b96d-448a-b085-838b48c6e5cf",
+      "title": "Long Long Long Time",
+      "artist": "ハニーストラップ",
+      "isrc": "TCJPK1915887",
+      "releaseDate": "2019-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7yrDtfLQzr9Rjj7cMf8gzF",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "吹野クワガタ",
+  "sortName": "フキノクワガタ",
+  "tracks": [
+    {
+      "id": "d0270005-4274-4b01-a232-9da97f11e953",
+      "title": "ハズレジンセイ",
+      "artist": "ましろ爻",
+      "isrc": "JPY252300108",
+      "releaseDate": "2023-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/6BXpP3rKVwR7qdhPlj3f89",
+      "isFallback": true
+    },
+    {
+      "id": "d89c69c9-e64e-4f9a-b732-a1da0698e579",
+      "title": "この世界にサヨナラして",
+      "artist": "転校少女*",
+      "isrc": "TCJPJ1941724",
+      "releaseDate": "2018-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/65Ya1e6lxFoV12ATbOAdGX",
+      "isFallback": true
+    },
+    {
+      "id": "f73c5dcd-a798-47f7-96ec-7ed27978270b",
+      "title": "HAPPY TO DO WA!",
+      "artist": "唐可可",
+      "isrc": "JPI102200040",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/5AuzhUwtqasWbQgq9hWJBB",
+      "isFallback": true
+    },
+    {
+      "id": "591a5795-47ed-4a94-98fc-c3c0fdb13470",
+      "title": "Last minutes",
+      "artist": "佐藤ミキ",
+      "isrc": "JPU902100175",
+      "releaseDate": "2021-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/0zwMx63BfPRuiNxyqZBbPn",
+      "isFallback": true
+    },
+    {
+      "id": "98f67df5-8b9c-4ff7-9d8a-8ea3515ac139",
+      "title": "Dark hero",
+      "artist": "伶",
+      "isrc": "JPU902200354",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5HBW5ac81pIf3pnv0gDGDq",
+      "isFallback": true
+    },
+    {
+      "id": "6449ba60-6532-417f-a98a-89bb6acad712",
+      "title": "つよがりDecember",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE501800057",
+      "releaseDate": "2018-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4AvQ5wRT3wncpC52YiCzTx",
+      "isFallback": false
+    }
+  ]
+}

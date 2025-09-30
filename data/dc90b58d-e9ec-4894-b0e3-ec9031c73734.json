@@ -1,0 +1,105 @@
+{
+  "name": "ONIGAWARA",
+  "sortName": "オニガワラ",
+  "tracks": [
+    {
+      "id": "585a1a07-fc94-4a3f-8bc0-db6a81f5b3ed",
+      "title": "聴かせてよ、ミスター",
+      "artist": "ごいちー",
+      "isrc": "JPB622201276",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/6UOjAFG0zObHWwweBtzQPU",
+      "isFallback": false
+    },
+    {
+      "id": "1ab05fe7-38be-4c7b-8f94-5d1f11ff456d",
+      "title": "ウノ-ウノ",
+      "artist": "ukka",
+      "isrc": "JPR652000129",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/35PbnWzFsFg2FGyco5fxvp",
+      "isFallback": true
+    },
+    {
+      "id": "f5a5d77d-1cd0-43f7-8540-629152db12b5",
+      "title": "SLOW",
+      "artist": "ONIGAWARA",
+      "isrc": "TCJPW2395753",
+      "releaseDate": "2023-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/3MjSNozeUI9zVViMd5N1Js",
+      "isFallback": false
+    },
+    {
+      "id": "19909af8-47d2-4388-a782-32605d618016",
+      "title": "めっちゃオンリーユー",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02310129",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2FYwUaICCcyRuegNgaLhEH",
+      "isFallback": false
+    },
+    {
+      "id": "31dd2198-3b9d-4da8-a29b-904947f81927",
+      "title": "来世でも誇れる人生をっ！",
+      "artist": "吉川ひより(超ときめき♡宣伝部)",
+      "isrc": "JPB602503073",
+      "releaseDate": "2025-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/1W9KuEBMU9aQSS2vwmff8D",
+      "isFallback": true
+    },
+    {
+      "id": "a5b66ff5-d040-4237-8795-e6826623f078",
+      "title": "everything!",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02412118",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/4Mk5TR9Wi0xvSxTD9tATZZ",
+      "isFallback": true
+    },
+    {
+      "id": "398fbfc7-a7d7-4b09-811d-4a5500d80bbe",
+      "title": "大胆不敵に恋したい (Cover)",
+      "artist": "ONIGAWARA",
+      "isrc": "TCJPY2317626",
+      "releaseDate": "2023-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3KrpIIKl03HwpubeMa3PlD",
+      "isFallback": false
+    },
+    {
+      "id": "01ea7b97-cf99-4d8f-9eac-b45f521c06e5",
+      "title": "季節のカルテット",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI02204038",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/4FZNjUNxKwmhmb9r64P2Nm",
+      "isFallback": true
+    },
+    {
+      "id": "8b20825f-a4ec-4128-88fc-909fa599ea6b",
+      "title": "STEP BY STEP",
+      "artist": "星咲あかり",
+      "isrc": "",
+      "releaseDate": "2024-04-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5621ccce-d021-40c9-97c2-83b8d5741a8c",
+      "title": "それは月曜日の9時のように",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651900094",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/0vVzJkeiKRI0oaOd0tL6Id",
+      "isFallback": false
+    },
+    {
+      "id": "08029cdf-6aa8-40b4-a2ea-6e6205521021",
+      "title": "謎解きはキスのあとで",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02110605",
+      "releaseDate": "2021-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/4d4rnMi6ImEzNY8lYY58LJ",
+      "isFallback": false
+    }
+  ]
+}

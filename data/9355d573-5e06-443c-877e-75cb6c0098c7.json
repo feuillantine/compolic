@@ -1,0 +1,1017 @@
+{
+  "name": "ARM",
+  "sortName": "アーム",
+  "otherNames": [
+    "IOSYS"
+  ],
+  "tracks": [
+    {
+      "id": "62f78995-a6d8-41f3-8af9-baf0e68baf60",
+      "title": "FUN FUN MERRY JAM",
+      "artist": "小倉唯",
+      "isrc": "JPKI01511818",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0XDjhtipuuGtYGWOZfd9sU",
+      "isFallback": true
+    },
+    {
+      "id": "fca23189-47f6-43e2-8c1f-c267e749b05c",
+      "title": "DYING LIGHT",
+      "artist": "fallen shepherd",
+      "isrc": "JPI961900268",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6xnQevkI6qVZxLxiRvvnSt",
+      "isFallback": true
+    },
+    {
+      "id": "1a9a55c0-3cf9-450b-acb2-6fb5a2daf6f5",
+      "title": "オーギュメンテッドおじいちゃん",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02227304",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3ahwcSG2lFKQAhvtc0blo7",
+      "isFallback": true
+    },
+    {
+      "id": "19cdf263-87d9-44db-9fa0-91ca3e1e5adb",
+      "title": "けもののおうじゃ★めうめう",
+      "artist": "芽兎めう",
+      "isrc": "JPM201700950",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e766a20-25c8-4d15-8c76-8edc6dcfa60c",
+      "title": "えぐりて☆",
+      "artist": "山本椛",
+      "isrc": "",
+      "releaseDate": "2009-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64151658-eb9b-4472-b70d-8de6dc8790d9",
+      "title": "Path of Dolphins",
+      "artist": "ARM",
+      "isrc": "JPI961900265",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0Qe0lKMlTtnDiKvlifmk3k",
+      "isFallback": true
+    },
+    {
+      "id": "0637cd78-de68-445a-a0d0-bca137391608",
+      "title": "Cub Cub らいおんはーと",
+      "artist": "ARM",
+      "isrc": "JPI961900271",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/5PbF7BKmgjyhTzDBtM3HA0",
+      "isFallback": true
+    },
+    {
+      "id": "469e41d5-6bf5-49cd-b1dd-93fc6c658710",
+      "title": "それは、さいたま",
+      "artist": "IOSYS",
+      "isrc": "JPI961600235",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/1uNXAJtBmptPP8pZDxOjxj",
+      "isFallback": true
+    },
+    {
+      "id": "a5c11b44-c519-41b5-b608-1246c2ef9222",
+      "title": "ちくわパフェだよ☆CKP",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201300562",
+      "releaseDate": "2013-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/0Pz4tOrmHxfXZzuNuD4AG1",
+      "isFallback": true
+    },
+    {
+      "id": "e6a4b42e-e6bf-4901-8436-a6d8def7ee10",
+      "title": "ENDYMION",
+      "artist": "fallen shepherd",
+      "isrc": "JPC231900219",
+      "releaseDate": "2019-03-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5136c127-2007-4816-a3d2-87aa70637d32",
+      "title": "take me for a walk",
+      "artist": "ARM",
+      "isrc": "JPI961900273",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/3R9ohiK7h4orMgeHhhvQHl",
+      "isFallback": true
+    },
+    {
+      "id": "147b90fa-4166-4bac-8c6c-ba312fc844a8",
+      "title": "STARMAKER",
+      "artist": "ARM",
+      "isrc": "",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "14090b1e-1e4f-493a-8bd8-876a199d94f8",
+      "title": "「あーん♡」で! chu!",
+      "artist": "ラブリコット",
+      "isrc": "TCJPH1857178",
+      "releaseDate": "2018-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/0XZjcn8fK4VjvcHKbsKZar",
+      "isFallback": false
+    },
+    {
+      "id": "1c7ebaf2-ec2b-4e1f-922c-b0a0d4c2567f",
+      "title": "すているめいと!",
+      "artist": "イオシスjkガールズ",
+      "isrc": "JPD731400127",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b3cb21d-bdc0-45c0-b813-aa5d1d4b4b78",
+      "title": "お願い！コンコンお稲荷さま",
+      "artist": "ななひら",
+      "isrc": "TCJPC2474011",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/6A9WQ0vyJeBMW7gtNLBXG5",
+      "isFallback": true
+    },
+    {
+      "id": "cd9b964a-1c78-4d82-abc2-ba65fc053030",
+      "title": "ごま☆おつ ～乙女のラブちゅっCHU～",
+      "artist": "ARM",
+      "isrc": "",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0267907-e24a-45e1-8da7-b1cb6be9d905",
+      "title": "Come to Life",
+      "artist": "ARM",
+      "isrc": "JPC231900211",
+      "releaseDate": "2018-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/4p6PRqfjGUaVEHWs7mgBAx",
+      "isFallback": true
+    },
+    {
+      "id": "970622e7-d791-40a4-aaa0-af818ec8df2b",
+      "title": "あくたんのこと好きすぎ☆ソング",
+      "artist": "湊あくあ",
+      "isrc": "JPV752205479",
+      "releaseDate": "2022-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6ZHGW72sYXiUdij7OEu8bN",
+      "isFallback": true
+    },
+    {
+      "id": "58bf6a34-8e60-4512-9dc5-4f454d1ec95d",
+      "title": "しましま☆パンク",
+      "artist": "ななひら",
+      "isrc": "JPC231501219",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/78Mk09j635mvnZzQBHQcXy",
+      "isFallback": true
+    },
+    {
+      "id": "12b40ce5-3f4a-4dfc-b7c9-e56b63791918",
+      "title": "Only Only You",
+      "artist": "エリコ",
+      "isrc": "JPCO02120420",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/6q4kSkKvwuFIvRjdhEipri",
+      "isFallback": false
+    },
+    {
+      "id": "33a66538-482e-4102-890b-15dec29ef615",
+      "title": "Ahoy!! 我ら宝鐘海賊団☆",
+      "artist": "宝鐘マリン",
+      "isrc": "JPV752002667",
+      "releaseDate": "2020-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/675bIsZSXdxga1VKLfDvdv",
+      "isFallback": true
+    },
+    {
+      "id": "3ccaf2aa-a3ac-47fc-9e80-9d48012fc4df",
+      "title": "Firmamento + Nebbia",
+      "artist": "IOSYS",
+      "isrc": "JPI960800165",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/6tIDAjCPUWTw3666Gl0eIo",
+      "isFallback": true
+    },
+    {
+      "id": "d163d293-844f-4df5-b46b-4d075ba0ea79",
+      "title": "LET'S GO HAPPY!!",
+      "artist": "凸レーション",
+      "isrc": "",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0bd84fb2-e081-4706-aaae-48fd1641d499",
+      "title": "おでまし！シェイピと千夜一夜物語",
+      "artist": "ポヤッチオ",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "301af365-2e89-4a70-8b0a-1fcfe314bb57",
+      "title": "あっちでこっちで",
+      "artist": "あっち⇔こっち",
+      "isrc": "JPPC01104063",
+      "releaseDate": "2012-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/3DjGXMCyONKirLrx7Zrj3t",
+      "isFallback": true
+    },
+    {
+      "id": "449f5918-1c86-457a-82be-d34b129c90f2",
+      "title": "オタサー☆レボリューション",
+      "artist": "ARM",
+      "isrc": "JPM201400893",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "66b1cac0-2f1d-42f0-ba77-6ad5e9cb766c",
+      "title": "あわだっちゃ☆パニクリバニラ",
+      "artist": "榎津まお",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a14d43bb-4baa-468e-980d-b806faeda1b4",
+      "title": "Mission:Love sniper",
+      "artist": "棗鈴",
+      "isrc": "JPE450700080",
+      "releaseDate": "2007-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/57aUWwSS1KO2cunXhXlZTc",
+      "isFallback": true
+    },
+    {
+      "id": "dc5cf9a6-3487-449b-b0e5-49cceb9052c1",
+      "title": "entrance to you",
+      "artist": "nao",
+      "isrc": "",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cda83b15-a218-4bd8-9e50-ab4a126160b9",
+      "title": "22世紀のネコ型メイドロボ",
+      "artist": "IOSYS",
+      "isrc": "JPI961600230",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2YVTK3Vu8A3kmtLKPq5dGH",
+      "isFallback": true
+    },
+    {
+      "id": "dc505879-7f67-4be8-bd6e-c480efe27f07",
+      "title": "No Way Out",
+      "artist": "ARM",
+      "isrc": "JPE761400067",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/7uvWizfm8rnu5ArOCVY7ku",
+      "isFallback": true
+    },
+    {
+      "id": "f6d7dc5b-a50b-4c78-9c6a-1da7ff0ddb11",
+      "title": "第一楽章「ワーズペリアの久遠」／第二節 De;Laytion of snow",
+      "artist": "DystopiaGround",
+      "isrc": "",
+      "releaseDate": "2010-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62bb9213-f25b-4fed-be16-657ff44b246b",
+      "title": "おたすけ!アン子ちゃん (シノビアンレディーのテーマ 弐)",
+      "artist": "ARM",
+      "isrc": "JPM202102426",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d28e222e-8282-4edc-9ceb-f677c02a8ae6",
+      "title": "たたえよ!絶対覇権アリーシャ帝国",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201801848",
+      "releaseDate": "2018-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/3wk5S4cIsOE0ODIgUOhXzJ",
+      "isFallback": false
+    },
+    {
+      "id": "3a2ba272-2e7c-4735-b312-9a7b2923d38b",
+      "title": "jkパラダイス",
+      "artist": "イオシスjkガールズ",
+      "isrc": "JPM201500018",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "451875c0-478e-468e-a211-67669986c0f7",
+      "title": "スーパーすごたんクエスト",
+      "artist": "イオシスjkガールズ",
+      "isrc": "JPD731400128",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b1a636eb-0eb4-4185-b939-6aafc76a2a88",
+      "title": "エンドレスヘブン",
+      "artist": "山本椛",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ec9b248-db7c-4ab7-be90-b755a31ba6bd",
+      "title": "SKYSCRAPER",
+      "artist": "Dr. ARM",
+      "isrc": "JPE761400071",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/4QgREfRgFHU6rtbRH0r4QU",
+      "isFallback": true
+    },
+    {
+      "id": "2ced6efe-df8f-4ae3-86f0-39504f073b2a",
+      "title": "カジノファイヤーことみちゃん",
+      "artist": "ARM",
+      "isrc": "JPM201300814",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "167cd693-7586-49b7-b7e7-cb64d7072612",
+      "title": "Sparkling☆ファンタジスタ!",
+      "artist": "ARM",
+      "isrc": "JPI961600026",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/7CtOEFeXZgJumEJur8upyh",
+      "isFallback": true
+    },
+    {
+      "id": "7de60eb9-d8e5-4a31-a31c-99cacfa7611f",
+      "title": "あるてぃめいど↓↑下克上",
+      "artist": "IOSYS",
+      "isrc": "JPI961600224",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/5IeJ46PE0dt9wAyXheKwGW",
+      "isFallback": true
+    },
+    {
+      "id": "58e62d3e-9dc8-4062-8c70-2100ba127ce7",
+      "title": "うさぬこぬんぬんファンタジー！",
+      "artist": "ARM",
+      "isrc": "JPM201401089",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c9938e6-a371-492d-a490-068a01efe7ed",
+      "title": "いただき! 桃色ゾンビにあん",
+      "artist": "ARM",
+      "isrc": "JPM201700590",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d93f57e6-7c36-4e73-bcc9-06610a52eb6d",
+      "title": "お気楽ごくらくゆるゆるデイズ",
+      "artist": "赤座あかり",
+      "isrc": "JPPC01502187",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/300cOdOnePVQAGHxXsDc4Z",
+      "isFallback": true
+    },
+    {
+      "id": "ee0afa27-a9fc-4ead-abe6-57033b803724",
+      "title": "タイガー 〜 その孤高なる腕組み",
+      "artist": "ARM",
+      "isrc": "JPI961900267",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1KOkl1yx8VDqZ69RbA45QK",
+      "isFallback": true
+    },
+    {
+      "id": "2003b451-a776-48bf-a6e6-e1b244997087",
+      "title": "アバンギャルド・バンドガールズ",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900019",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "11f51e10-e951-43f0-ac5d-c910541eaa27",
+      "title": "ホロメン音頭",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752206373",
+      "releaseDate": "2022-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/15wG3R8mav5ikpYxamjcO8",
+      "isFallback": true
+    },
+    {
+      "id": "2b193249-a6e2-407f-b8fb-71e762f4b7ff",
+      "title": "ユメとキボーとアシタのアタシ",
+      "artist": "メリー・ナイトメア",
+      "isrc": "JPPC01002938",
+      "releaseDate": "2011-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/0ctN5ui4e77WNz4mue26ca",
+      "isFallback": true
+    },
+    {
+      "id": "3119b780-e4e6-43c6-86c1-104d67bebc84",
+      "title": "ちゅんだーCHU♡意報",
+      "artist": "偉雷アマエ",
+      "isrc": "QMFME2416077",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0RG6cpdZ4KfKB7z211Gdqd",
+      "isFallback": true
+    },
+    {
+      "id": "e7c8c909-a152-4a9a-80d1-800bdc66052c",
+      "title": "めうめうぺったんたん!!",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201300245",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6CjHcQD7QllAmx6zIpdb63",
+      "isFallback": true
+    },
+    {
+      "id": "f2d947e9-dba2-418d-98d3-2a796536124a",
+      "title": "你好!カンフー娘",
+      "artist": "IOSYS",
+      "isrc": "JPI961600233",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/758o6OhlFkvKIyfS202RwF",
+      "isFallback": true
+    },
+    {
+      "id": "d9e01521-c491-4cd7-8a30-7bbbf4387b3a",
+      "title": "我慢できない！あきらめない！",
+      "artist": "IOSYS",
+      "isrc": "JPI960800162",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/3w8s2akeZ2pLGcTfUu4XKO",
+      "isFallback": true
+    },
+    {
+      "id": "da19b7fd-670d-4a1b-b44e-37282138117b",
+      "title": "南無阿弥JKうらめしや?!",
+      "artist": "IOSYS",
+      "isrc": "JPI961600228",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7t3d5fHKAXWBzD9cbPTRtx",
+      "isFallback": true
+    },
+    {
+      "id": "b48a6c70-c5b9-4de2-8834-53adf0a6b006",
+      "title": "星屑ディスタンシア",
+      "artist": "ARM",
+      "isrc": "JPM201600292",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "798b4f72-5e9c-43d7-85c5-e9518a827acf",
+      "title": "古代アキバ伝説",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02302901",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/0EMwq3sBGdoT1QUlyn2lFR",
+      "isFallback": true
+    },
+    {
+      "id": "5e249c5d-3e0d-43da-b37c-fd170557e652",
+      "title": "ベスト・フレンズ",
+      "artist": "道明寺桜",
+      "isrc": "JPVP01320104",
+      "releaseDate": "2013-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1zCu6jUpByqITW4rRRFsAn",
+      "isFallback": true
+    },
+    {
+      "id": "8cc653cd-faa3-4f4d-a8e4-2e62cd8bbf7d",
+      "title": "ロボットガールズZ",
+      "artist": "きかい♡少女隊",
+      "isrc": "JPCO01330320",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2372c92a-5902-4187-a3e2-48fae5ed0173",
+      "title": "ハラショー!おにぎりサーカス団☆",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM202001357",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/1JL7zBtaD8tbeEAoNM4JTw",
+      "isFallback": false
+    },
+    {
+      "id": "9ed843fb-28a0-4a6d-a0a8-0700556eaeaa",
+      "title": "ホーンテッド★メイドランチ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201400020",
+      "releaseDate": "2014-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/2Tt0duilGEhftYnf7GSVxm",
+      "isFallback": true
+    },
+    {
+      "id": "0ed0190b-4540-4fd5-b75a-cb4e74b022e1",
+      "title": "宇宙変身クライシス！",
+      "artist": "IOSYS",
+      "isrc": "JPI960900051",
+      "releaseDate": "2009-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/59OMAJMO3XD0cwQQN8uXYA",
+      "isFallback": true
+    },
+    {
+      "id": "4f2f2afb-b330-4674-97bf-c1d394aa6b81",
+      "title": "ヒステリックソーダ",
+      "artist": "miko",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef3299c4-62e4-4f56-98da-11bcae57ac04",
+      "title": "みなぎれ!ボボボンバー",
+      "artist": "日野茜",
+      "isrc": "JPCO01812150",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/5XzuRXEK2LSeD6MNG6fDRW",
+      "isFallback": true
+    },
+    {
+      "id": "9262b4e7-0892-401e-9067-7e6018978756",
+      "title": "メーデー!くるくるクライシス学院",
+      "artist": "リサイタルズ",
+      "isrc": "JPW670100014",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/0O5vOBN0IqXUu4dtkvfJIt",
+      "isFallback": true
+    },
+    {
+      "id": "7b1d0d29-a97e-4129-af4d-1ace07418aff",
+      "title": "ドヒューン! オタカル最前線",
+      "artist": "IOSYS",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a42ec4fe-2cf4-41ea-9607-fff96e43e0a2",
+      "title": "みっころね×やってやんよ!!",
+      "artist": "さくらみこ",
+      "isrc": "JPV752409547",
+      "releaseDate": "2024-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/08pW0a40W0XtEvRHTzUuQ1",
+      "isFallback": true
+    },
+    {
+      "id": "5ef5ffaa-53a2-491c-aa4a-dcd150c781d7",
+      "title": "ネコドル☆オーバー・ザ・ワールド",
+      "artist": "前川みく",
+      "isrc": "JPCO02229180",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/4ww1KSNUwAc7n5Uyj34SJw",
+      "isFallback": true
+    },
+    {
+      "id": "b58c0a05-fc2f-4d35-a062-dfad15987e69",
+      "title": "刮目!魔法少女まじかる☆リーン",
+      "artist": "リーン",
+      "isrc": "JPC231700249",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/68VoQOZk08FjbBgNcyUCmm",
+      "isFallback": true
+    },
+    {
+      "id": "706acbb7-8bf9-43b0-af07-7c3f22e3fe4b",
+      "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
+      "artist": "ARM",
+      "isrc": "JPM201500199",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "10a70320-f13a-4338-94ba-a5e53dbef278",
+      "title": "ゆっくり揉んでね☆ぱいタッチ！",
+      "artist": "浅葱宗介",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "468e9a18-5e50-43a9-9386-07d7fe5c3aa8",
+      "title": "巫剣えれじぃ",
+      "artist": "笹貫",
+      "isrc": "JPPC01900420",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/5odd8w1W9OTpat9ms37Cov",
+      "isFallback": true
+    },
+    {
+      "id": "87903a3c-3d4d-4e4a-a983-d6be093efc60",
+      "title": "にょわにょわーるど☆",
+      "artist": "諸星きらり",
+      "isrc": "JPCO01640470",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/7tWUho16alY6GMvjA9Xtmk",
+      "isFallback": true
+    },
+    {
+      "id": "4143a165-75d1-4997-a239-9e8d734a4066",
+      "title": "咲いた、君の笑顔",
+      "artist": "ARM",
+      "isrc": "",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ec0427e1-e8d6-4726-adea-3f8a97bf5b36",
+      "title": "圧 倒 的 存 在 感",
+      "artist": "鈴原るる",
+      "isrc": "JPZ922004933",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3I7begypZ2AE7tRDvy8te3",
+      "isFallback": true
+    },
+    {
+      "id": "3b6ee7a7-4e37-4e1e-bbc7-d764870d9487",
+      "title": "みっころね×しょうたいむ!!",
+      "artist": "さくらみこ",
+      "isrc": "JPV752205414",
+      "releaseDate": "2022-01-03",
+      "spotifyUrl": "https://open.spotify.com/track/52GuOWf9PwTzj7oL7isgCO",
+      "isFallback": true
+    },
+    {
+      "id": "fbae97ca-746b-49aa-981b-d6640453c99e",
+      "title": "ドッキン☆サマーあばんちゅーる",
+      "artist": "L.E.D.-G",
+      "isrc": "JPM201500815",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "380152a2-a766-4c57-a3df-19b5da60a4ae",
+      "title": "揺れてはじけてあふれちゃう☆魅惑のペンギン娘 1.55倍速electroclash",
+      "artist": "PNGN4",
+      "isrc": "",
+      "releaseDate": "2008-07-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef59efb1-3b15-4c6d-bc98-c8387c1e9730",
+      "title": "みとらじギャラクティカ",
+      "artist": "月ノ美兎",
+      "isrc": "JPY252100005",
+      "releaseDate": "2021-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/6KZmsnf11d91L5MVIhx2BX",
+      "isFallback": true
+    },
+    {
+      "id": "7ffbdfa9-3b13-4447-90ff-b773331f8965",
+      "title": "全力ドラマティック",
+      "artist": "Blanc Bunny Bandit",
+      "isrc": "JPM201900018",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5203903a-fc0f-4863-b1cd-8118027fb94d",
+      "title": "ちゃっかり＋ちょっくり＋ななななー feat.ayumikos",
+      "artist": "あゆ",
+      "isrc": "",
+      "releaseDate": "2008-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d1f388a-31d5-40d5-af6e-299d336615ce",
+      "title": "偉大なる鍋 of GOD",
+      "artist": "pomme'tto",
+      "isrc": "JPJ931700145",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/2cP0Caf6jWLVRRQ8uMmywz",
+      "isFallback": true
+    },
+    {
+      "id": "3e2f40e0-a105-48c4-817e-546c84aafa12",
+      "title": "乳信！占いの館 [☆☆☆相談無料☆☆☆]",
+      "artist": "ARM",
+      "isrc": "JPI961900263",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/5BXlWpbPz248dWcEHBC1BE",
+      "isFallback": true
+    },
+    {
+      "id": "0edc922d-d2ec-4aea-9ca8-035df873ddd0",
+      "title": "ものがたりを探して",
+      "artist": "miko",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "819f5865-7130-41cd-b545-f431081d92a7",
+      "title": "メルヘンデビュー!",
+      "artist": "安部菜々",
+      "isrc": "JPCO01310070",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/0WXko1CQGx97fXEZhvZ18Z",
+      "isFallback": true
+    },
+    {
+      "id": "503855fb-c97b-4f52-a9f0-5899ee951d85",
+      "title": "円環のヴァルキュリア –lopulla tragedia–",
+      "artist": "ARM",
+      "isrc": "JPM201700658",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4301412e-a021-43e8-b957-ae2d20038219",
+      "title": "地方創生☆チクワクティクス",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500834",
+      "releaseDate": "2015-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/2jt59rxHFcoZpW73XjOjLJ",
+      "isFallback": true
+    },
+    {
+      "id": "1e6d2068-b78d-4527-9954-73e769ee0849",
+      "title": "命懸け!ななひら市長のどきどき☆マニフェスト",
+      "artist": "ななひら",
+      "isrc": "JPJ931500281",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/1qLashE1gyD10yZ7NdmIIj",
+      "isFallback": true
+    },
+    {
+      "id": "151e2d45-67a6-4c31-afb7-d37188fa4939",
+      "title": "女と女のゆりゲーム",
+      "artist": "あかり",
+      "isrc": "JPPC01103876",
+      "releaseDate": "2012-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/2ZrTu1w3ba4C76knBz73NZ",
+      "isFallback": true
+    },
+    {
+      "id": "0312d11b-7277-4f70-83d2-ea8739435c75",
+      "title": "突撃！ガラスのニーソ姫！",
+      "artist": "山本椛(monotone)",
+      "isrc": "JPM201102079",
+      "releaseDate": "2012-02-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4565d976-99d2-4ebb-911c-baeb58fd9474",
+      "title": "荒ぶる人魚はRIDE ON WAVE",
+      "artist": "ARM",
+      "isrc": "JPI961900260",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0EGDyBCjAyWzjiCGFIBozR",
+      "isFallback": true
+    },
+    {
+      "id": "0e650a78-18e4-48e0-81e0-a7b2d596259d",
+      "title": "進め！ラブリーアイドル☆ラプリエール",
+      "artist": "La prière",
+      "isrc": "TCJPM2056294",
+      "releaseDate": "2020-09-12",
+      "spotifyUrl": "https://open.spotify.com/track/1cm9yrav372g7aHQHE9kHB",
+      "isFallback": false
+    },
+    {
+      "id": "54e23556-e896-4c88-96dd-bc8de429ab3b",
+      "title": "飛んでK！ホロライブサマー",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752206371",
+      "releaseDate": "2022-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/7ciyuMD6SX6ndREw0j8q2v",
+      "isFallback": true
+    },
+    {
+      "id": "bc8d11d7-6396-4a2e-a2f5-cf4839e990cf",
+      "title": "激アツ☆マジヤバ☆チアガール",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500832",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/2bv6KI5SfhCpOZfIt6iutM",
+      "isFallback": true
+    },
+    {
+      "id": "1a2effb1-2e61-44da-bb0c-5c9f54befacc",
+      "title": "秋めいて Ding Dong Dang!",
+      "artist": "アナスタシア",
+      "isrc": "JPCO01730170",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/2hVCu8kCJ2HZT36WY0cyHX",
+      "isFallback": true
+    },
+    {
+      "id": "4ef991c6-0fec-4fdc-9a80-8f088a77fd24",
+      "title": "「煮コ☆ミュニケーション」",
+      "artist": "あまね",
+      "isrc": "JPD641900018",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c422a98-0863-485e-b816-e9cb56bfbc43",
+      "title": "爆なな☆てすとロイヤー",
+      "artist": "ARM",
+      "isrc": "JPM201501026",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "088fa9c1-72fd-4c99-9a37-477d06a95a4a",
+      "title": "電撃作戦トルネイド！ ～銀河の中心で恋を叫ぶ～",
+      "artist": "ニコラ・T・藤井",
+      "isrc": "",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "74c0bdbe-34bd-4225-9654-78f5df496e72",
+      "title": "衣装警察パトレイヤー",
+      "artist": "IOSYS",
+      "isrc": "JPI961600227",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/0VNnD36FnR7kcfhense7il",
+      "isFallback": true
+    },
+    {
+      "id": "6d73454e-5033-45ec-91f6-59fe349f06f0",
+      "title": "遠く遠く離れていても…",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201600007",
+      "releaseDate": "2016-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/1Y2Xz1itLWz4ATiixqteMt",
+      "isFallback": true
+    },
+    {
+      "id": "cbb27b48-93c4-4d33-9ae3-fe3fc943e7dd",
+      "title": "真・ひまわりんぐナイト ～慟哭だも～ん～",
+      "artist": "本間ひまわり",
+      "isrc": "JPY252300131",
+      "releaseDate": "2023-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/7MQkVxPMaKKcmDW8Wsa89c",
+      "isFallback": true
+    },
+    {
+      "id": "da1cd5a9-1875-460b-ba58-fb75da93a045",
+      "title": "私立七条学園ビタースイート探偵同好会",
+      "artist": "IOSYS",
+      "isrc": "JPI960900053",
+      "releaseDate": "2009-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/0RJFwobhrLiAMcsJ8JQ8q5",
+      "isFallback": true
+    },
+    {
+      "id": "87938ff4-2f37-4a6b-9040-aa85faef5497",
+      "title": "葉隠",
+      "artist": "龍波しゅういち",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c659e65d-29d3-4e4e-97f6-ef75072547b8",
+      "title": "背景",
+      "artist": "赤座あかり",
+      "isrc": "JPPC01101823",
+      "releaseDate": "2011-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1oYMlkpYxeBnRk26b4yZr9",
+      "isFallback": true
+    },
+    {
+      "id": "eaf9270c-4ccc-4794-b3f3-b1ec2ee17efc",
+      "title": "絶対に負けられない戦い 〜 Kill the Nyanko",
+      "artist": "ARM",
+      "isrc": "JPI961900269",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6r1nBtuzou0jFb6njDC55N",
+      "isFallback": true
+    },
+    {
+      "id": "a3365b77-d5c5-4744-b80c-120808334f9e",
+      "title": "都会征服Girls☆",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201400540",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/4aVPNkZUDWebZRJx6SlagK",
+      "isFallback": true
+    },
+    {
+      "id": "43b4613b-6f72-434d-94fa-8796a3d61a70",
+      "title": "私、主役の赤座あかりです",
+      "artist": "赤座あかり",
+      "isrc": "JPPC01101822",
+      "releaseDate": "2011-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4VosMIk7tJHxVd4GeRaIEj",
+      "isFallback": true
+    },
+    {
+      "id": "0b19ec5c-0eea-4ae8-ac0d-8bc2eeb565d3",
+      "title": "青の一番星",
+      "artist": "塩見周子",
+      "isrc": "JPCO01537280",
+      "releaseDate": "2015-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/4li4T7T2nVgNmJGwCufyH0",
+      "isFallback": true
+    },
+    {
+      "id": "7d571be1-0c23-463a-9705-bae1162f51fe",
+      "title": "聖夜のスペシャルシューティングスター",
+      "artist": "鷹月さくら",
+      "isrc": "",
+      "releaseDate": "2009-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "78e2f268-5d0c-47ff-a8c1-197fac60020f",
+      "title": "滅亡天使 † にこきゅっぴん",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201401012",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2lJwguWjV2orcb3zudiohb",
+      "isFallback": true
+    },
+    {
+      "id": "3d729e66-99e5-49bc-90fc-df333a490835",
+      "title": "琴乃サファリパーク",
+      "artist": "ラブリコット",
+      "isrc": "TCJPN2187176",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3Ok9XktV8v2pBJ1bJDa7xz",
+      "isFallback": true
+    },
+    {
+      "id": "56929270-3fad-42a2-b52e-669aabfcb567",
+      "title": "花簪 HANAKANZASHI",
+      "artist": "小早川紗枝",
+      "isrc": "JPCO01407660",
+      "releaseDate": "2014-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/1NH9VNaKSoTLktHyH95yMn",
+      "isFallback": true
+    },
+    {
+      "id": "21159f40-eff6-4266-888f-e918f606e12e",
+      "title": "超マジ!?爆マジ!?まじかる☆くのへ",
+      "artist": "九戸来国行",
+      "isrc": "JPPC01901717",
+      "releaseDate": "2020-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/49SteYETq7rFnrBz02P4qg",
+      "isFallback": true
+    },
+    {
+      "id": "ce677362-a88c-4789-80c1-da1682a68dcb",
+      "title": "満願成就♪巫女の神頼み!",
+      "artist": "道明寺歌鈴",
+      "isrc": "JPCO02105200",
+      "releaseDate": "2021-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/2VvG1i6YBrNt6UoG60ZUfr",
+      "isFallback": true
+    }
+  ]
+}

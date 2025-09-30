@@ -1,0 +1,231 @@
+{
+  "name": "MOSAIC.WAV",
+  "sortName": "モザイクウェブ",
+  "tracks": [
+    {
+      "id": "d99f11ee-de8c-4707-ad71-9bda33e4f9a2",
+      "title": "発光体ソーラーサイクル",
+      "artist": "AZKi",
+      "isrc": "TCJPN2003551",
+      "releaseDate": "2020-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/7hQUs8FOrgjtpzZVQpFaAj",
+      "isFallback": true
+    },
+    {
+      "id": "74e14f73-409f-4f3b-932b-ccb106ce26e9",
+      "title": "モノクローム・アンサー",
+      "artist": "舞園さやか",
+      "isrc": "",
+      "releaseDate": "2013-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a9a55c0-3cf9-450b-acb2-6fb5a2daf6f5",
+      "title": "オーギュメンテッドおじいちゃん",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02227304",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3ahwcSG2lFKQAhvtc0blo7",
+      "isFallback": true
+    },
+    {
+      "id": "f633becc-124c-49d6-8a23-da46901d1c03",
+      "title": "ココナナなのね",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ922014752",
+      "releaseDate": "2011-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/1rLaE0Vmp0MqL2QzcIkjDN",
+      "isFallback": true
+    },
+    {
+      "id": "696941cf-7ec9-46c9-9245-cd857ed286b4",
+      "title": "♡をつければかわいかろう",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01614832",
+      "releaseDate": "2016-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/4sh0lAQQPWR26ZxP0YKzBA",
+      "isFallback": true
+    },
+    {
+      "id": "c7f5e211-8612-408d-93f9-808ab04697d7",
+      "title": "AKIBA-POP the Future",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ920704811",
+      "releaseDate": "2007-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/10PiuLYx6kb8sS6JJ8m5RO",
+      "isFallback": true
+    },
+    {
+      "id": "f07a0917-419f-4d28-890b-c954ae75c0e1",
+      "title": "とーきょー全域★アキハバラ?",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPX301503890",
+      "releaseDate": "2015-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/2QdcXa7f7TCEaLA4uirdue",
+      "isFallback": true
+    },
+    {
+      "id": "494aa9dd-4cf0-4aab-93c7-93a66eb9bcbd",
+      "title": "あるいは夢眠ねむという概念へのサクシード",
+      "artist": "夢眠ねむ",
+      "isrc": "JPTF01707812",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/1JgpUW48dBT0p9qEvcRajj",
+      "isFallback": true
+    },
+    {
+      "id": "798b4f72-5e9c-43d7-85c5-e9518a827acf",
+      "title": "古代アキバ伝説",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02302901",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/0EMwq3sBGdoT1QUlyn2lFR",
+      "isFallback": true
+    },
+    {
+      "id": "2247345f-a796-41fe-8089-8d1e7c4e1bd7",
+      "title": "Kissして me! me!",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPPI01355620",
+      "releaseDate": "2006-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/0oPB4pFdffg8xwIbY25hYb",
+      "isFallback": true
+    },
+    {
+      "id": "2d1f776f-b78a-4639-95bb-f92a72ca48cb",
+      "title": "Grateful Friends",
+      "artist": "学園生活部",
+      "isrc": "JPPI01552000",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/4TK7rjVaRGSXnnwuzYBvvP",
+      "isFallback": true
+    },
+    {
+      "id": "6edca457-a0da-4f70-8b85-d0518924a75a",
+      "title": "脳・内・再・醒〜ecphoric dance〜",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ921102024",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/75uLLp3LVwOJATekS6l2BU",
+      "isFallback": true
+    },
+    {
+      "id": "acf6208a-8842-4944-b956-62f7dc845fea",
+      "title": "Vela",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ921102026",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/0oTXNEwkNzSy6xPJA3O6BH",
+      "isFallback": true
+    },
+    {
+      "id": "778b73e5-abf0-457e-8958-5a5f158b0366",
+      "title": "夢中にちゅ・ちゅ・ちゅ・ちゅーにんぐあっぷ！",
+      "artist": "茅野ふたば",
+      "isrc": "JPR502303339",
+      "releaseDate": "2023-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/6pLmajas99yHD4MyEG9rjL",
+      "isFallback": false
+    },
+    {
+      "id": "75014cae-b05c-48d8-ab5d-be4ca79117e8",
+      "title": "ビギナーズラブ",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JP92N2303219",
+      "releaseDate": "2011-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/379YWYAmcCAuualcVPVybL",
+      "isFallback": true
+    },
+    {
+      "id": "da7ea2a5-d35f-4dd8-9654-b2e0896f12a2",
+      "title": "Singing & Ringing",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ921102025",
+      "releaseDate": "2010-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/6SNyOZqpONkeSnmsUpI2c1",
+      "isFallback": true
+    },
+    {
+      "id": "f6878a65-3a3a-425b-8eb8-740a50cc6768",
+      "title": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPM202102797",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "958213ad-49cf-48e1-8471-e84715660273",
+      "title": "エキサイティング!!も・ちゃ・ちゃ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500835",
+      "releaseDate": "2016-01-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4d75dfca-0e3c-42c9-87cf-8acb261f8a45",
+      "title": "どうして! ルイ先生",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01716155",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/4dM26CToMGHRHg7DMhwyoW",
+      "isFallback": true
+    },
+    {
+      "id": "a9a45088-027c-41a4-b00e-7ed426f62f5c",
+      "title": "すーぱー呂布呂布ぱらだいす!",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01916902",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/7tC7mKGshxG6hcF9fvNlPX",
+      "isFallback": true
+    },
+    {
+      "id": "5a7ecc20-bf8e-4302-a412-803e2431045f",
+      "title": "オンゲキ全域★アカネサマ?",
+      "artist": "逢坂 茜",
+      "isrc": "JPD731900544",
+      "releaseDate": "2019-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/0nzIouDXE2omfvc3FQvfD6",
+      "isFallback": true
+    },
+    {
+      "id": "648ec184-6f9d-4c6e-9626-a3966c9911c4",
+      "title": "かぼちゃタンデム",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01812203",
+      "releaseDate": "2018-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/3wUtqkqF3Oqbyi0QrBRPFH",
+      "isFallback": true
+    },
+    {
+      "id": "42229533-6beb-41c5-9fb6-57fb75f53e72",
+      "title": "引き出せ!ポテンシャル",
+      "artist": "Study",
+      "isrc": "",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3d947d4-9478-4f5e-ad48-4948acb6bf80",
+      "title": "即席！脳直★ミュージックシステム",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPM201300817",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5cpGAgZIzs42nWNBHCPq1Y",
+      "isFallback": true
+    },
+    {
+      "id": "48c703f0-a409-4f2b-af87-6849d99a9199",
+      "title": "2.5次元の足音",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPPI01355650",
+      "releaseDate": "2007-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/6y0YZRpNwGv8bIrbPoOSb8",
+      "isFallback": true
+    }
+  ]
+}

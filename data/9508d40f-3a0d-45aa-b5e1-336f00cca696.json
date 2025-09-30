@@ -1,0 +1,195 @@
+{
+  "name": "えとゆま",
+  "sortName": "エトユマ",
+  "tracks": [
+    {
+      "id": "c0e1a3d3-9282-4139-8ef4-47af980d793b",
+      "title": "レモネードソーダ",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPW2305880",
+      "releaseDate": "2023-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/2ugRcb8aDYAbLvc36qCMcQ",
+      "isFallback": true
+    },
+    {
+      "id": "dac96179-b4b0-4d2f-ad51-f4f2f2cf7f71",
+      "title": "ゴーゴー!GO MY WAY!",
+      "artist": "脳内パステル",
+      "isrc": "TCJPU2387387",
+      "releaseDate": "2023-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/5szNy7C7CLzo6rrV3PEX3q",
+      "isFallback": true
+    },
+    {
+      "id": "44e234fc-1ae5-4fa1-8a75-ec3a1ca82139",
+      "title": "透明フィルター",
+      "artist": "シャニムニ＝パレード",
+      "isrc": "JPB822204010",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/264EO3HClEhjmyNFxuOlOx",
+      "isFallback": true
+    },
+    {
+      "id": "b30375b9-38b2-47a1-9ece-793b0cf75652",
+      "title": "ララルハレルヤ",
+      "artist": "駒形友梨",
+      "isrc": "JPTE01904770",
+      "releaseDate": "2019-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/0XgPtpzHGDEooJk5pdjNK6",
+      "isFallback": true
+    },
+    {
+      "id": "22044991-5549-4515-85b8-a3edf515a361",
+      "title": "きみドローム",
+      "artist": "メイビーME",
+      "isrc": "TCJPR2214175",
+      "releaseDate": "2022-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/3uK05hqekildjn8xjuZss4",
+      "isFallback": true
+    },
+    {
+      "id": "48743265-bd9a-4ddc-bb35-0d982828f168",
+      "title": "Hello, My sunshine",
+      "artist": "HY:RAIN",
+      "isrc": "JPT552500340",
+      "releaseDate": "2025-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/6vbhGLGtdqOQioPCVCBOLi",
+      "isFallback": true
+    },
+    {
+      "id": "70ca1567-daec-4a36-9cd1-4d372238fae5",
+      "title": "☆Twinkle☆",
+      "artist": "メイビーME",
+      "isrc": "TCJPZ2452578",
+      "releaseDate": "2024-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/3fPrNpXYOX3JRJi2y5k11o",
+      "isFallback": true
+    },
+    {
+      "id": "ddd96409-84d4-4afc-a6d1-e3654116add8",
+      "title": "Welcome to Live",
+      "artist": "えのぐ",
+      "isrc": "JPX262000067",
+      "releaseDate": "2020-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/02mSEFuwl44kRBoGlu6Sfa",
+      "isFallback": false
+    },
+    {
+      "id": "2b66d3be-0197-477e-953b-c5abc7f0bdd6",
+      "title": "初恋ユース",
+      "artist": "POPUP",
+      "isrc": "TCJPA2430568",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/2dX6LNjx3PRzha0k0c3TwA",
+      "isFallback": true
+    },
+    {
+      "id": "9d0289fc-966f-4f41-a885-40acfde2cd27",
+      "title": "夢見るスターダスト",
+      "artist": "夏空のオリオン",
+      "isrc": "TCJPD2425329",
+      "releaseDate": "2025-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/0IMmYQrILdZHmhUk1gDzaq",
+      "isFallback": true
+    },
+    {
+      "id": "5a43f09d-b2bb-4ee5-8a1d-2253a08c977d",
+      "title": "片想いJewelry♡",
+      "artist": "Lollipop♡CHU",
+      "isrc": "TCJPB2486111",
+      "releaseDate": "2024-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/2PMZgQ1DgoOxGFBiMl3Sju",
+      "isFallback": true
+    },
+    {
+      "id": "76f644a1-ae12-4c0d-b204-4ac8435df8ec",
+      "title": "MAMAMAMA☆マッスルママ",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPQ2120461",
+      "releaseDate": "2021-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/5i9uZsqz6pFjNhxdKMgDj5",
+      "isFallback": true
+    },
+    {
+      "id": "b58a9da8-d82b-4dad-84a0-f35e4b4a10da",
+      "title": "cresc. style",
+      "artist": "8/pLanet!!",
+      "isrc": "JPE502200005",
+      "releaseDate": "2022-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/5lRg5rpKK1LeDfB5XHx8MT",
+      "isFallback": false
+    },
+    {
+      "id": "42d4e88e-b8d1-4c77-bba0-cf313cb90f95",
+      "title": "ワガママジック",
+      "artist": "メイビーME",
+      "isrc": "TCJPR2214164",
+      "releaseDate": "2022-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2axnhfUygZAxLMQdMdAbSN",
+      "isFallback": true
+    },
+    {
+      "id": "a237dc0a-4a94-4bf5-a56c-2313997f7c7a",
+      "title": "Sting or stung",
+      "artist": "樋口楓",
+      "isrc": "JPI102101425",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/082qBLn3Y6ugYtkM2RKXWj",
+      "isFallback": true
+    },
+    {
+      "id": "9984753a-0558-47c6-8850-adb2a94f3cfb",
+      "title": "あの...これは恋ですか?",
+      "artist": "PULSAR_CLIMAX",
+      "isrc": "TCJPT2289028",
+      "releaseDate": "2022-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/2DdarUXWHyPziJS2D070xH",
+      "isFallback": false
+    },
+    {
+      "id": "1fb265f0-396d-4919-9bbc-d4a17427583e",
+      "title": "推しってラブ",
+      "artist": "脳内パステル",
+      "isrc": "TCJPU2387382",
+      "releaseDate": "2023-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6Zr8aYGjw3awqbosZIlTxx",
+      "isFallback": true
+    },
+    {
+      "id": "dbea5756-672e-479d-a876-86bae3045ddd",
+      "title": "センチメンタルビート",
+      "artist": "倉持めると",
+      "isrc": "JPY252300167",
+      "releaseDate": "2024-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/5LLNELHPDtWYsaRLwoUuZ7",
+      "isFallback": true
+    },
+    {
+      "id": "857d1d63-dee0-4970-b5aa-c5cb9dc5472f",
+      "title": "アイマイスターマイン",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPS2244895",
+      "releaseDate": "2022-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/3ieKr1tIKpBftNWZ7MvvaQ",
+      "isFallback": true
+    },
+    {
+      "id": "8a5be32e-62fd-4750-a19a-994af5bcf876",
+      "title": "ミートソースパスタ",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPX2335027",
+      "releaseDate": "2023-09-14",
+      "spotifyUrl": "https://open.spotify.com/track/6dV9oJs8jEA2VYOazgTbp7",
+      "isFallback": true
+    },
+    {
+      "id": "e949573e-f71f-4560-a3e3-138e6b25555e",
+      "title": "アストリーってなぁに？",
+      "artist": "アストリーのうさぎ",
+      "isrc": "TCJPU2354541",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/7rp6iIVFFsMPpXEzSKxJ8C",
+      "isFallback": true
+    }
+  ]
+}

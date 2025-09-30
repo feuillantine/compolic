@@ -1,0 +1,321 @@
+{
+  "name": "ハマダコウキ",
+  "sortName": "ハマダコウキ",
+  "tracks": [
+    {
+      "id": "5ecb72bc-8bd0-4c2c-8b7e-0c96e64024c2",
+      "title": "ラヴ・ミー・テンダー",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978710",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/6OtB8g1bP46ADeb6i5xnsX",
+      "isFallback": false
+    },
+    {
+      "id": "7400233e-1284-4111-97d3-b3e6bba87a3f",
+      "title": "秘密基地",
+      "artist": "Lemontic",
+      "isrc": "TCJPT2251601",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/7k9tlN2g6CHVRtsVgTAHUL",
+      "isFallback": false
+    },
+    {
+      "id": "e8ed386d-cb2f-4033-b40f-771b2a8e76ed",
+      "title": "ほわいとDestiny",
+      "artist": "猫屋敷ユキ",
+      "isrc": "JPD602400273",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4FcNPFJtb5et1JHLjmIcNU",
+      "isFallback": true
+    },
+    {
+      "id": "7d4be783-829a-4c86-9840-88869cf15a42",
+      "title": "櫂",
+      "artist": "Lemontic",
+      "isrc": "TCJPP2114799",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/4y45qT19bdNXJgCy4vcU7X",
+      "isFallback": false
+    },
+    {
+      "id": "8c0a1230-8661-429c-a26c-8343f14bb208",
+      "title": "顔しか好きじゃない",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978714",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/5gq5xNoMKQfth7Au2QdHbR",
+      "isFallback": false
+    },
+    {
+      "id": "37290509-9ec5-425f-aeea-4d5f08928ca1",
+      "title": "ウマすぎ!グルメパレード",
+      "artist": "スペシャルウィーク",
+      "isrc": "JPZ252400283",
+      "releaseDate": "2024-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/0iNJpaQyjpTftovBnpPDDA",
+      "isFallback": true
+    },
+    {
+      "id": "297a1e08-04ba-4ba6-aa9e-e67e06f173c3",
+      "title": "ウィークエンド・ラヴ",
+      "artist": "Lemontic",
+      "isrc": "TCJPN2195527",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/0aGfK9xrwK9xPiHWQ7Xvpj",
+      "isFallback": false
+    },
+    {
+      "id": "36b9a3a0-c67a-475e-81a3-860d93e410a6",
+      "title": "センチメンタルだね",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPR2254327",
+      "releaseDate": "2022-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/4VJSLFZMgvwMwBvEpi3Z0w",
+      "isFallback": false
+    },
+    {
+      "id": "9869ee06-e99f-4eeb-ab8a-1a227e06fc02",
+      "title": "レモネード",
+      "artist": "Lemontic",
+      "isrc": "TCJPT2251594",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/4JAfVYpIkWhgWpSJbI9zLy",
+      "isFallback": false
+    },
+    {
+      "id": "a01a3f9f-01a8-40c7-8237-89db2a7c10b3",
+      "title": "いざ! アイドル",
+      "artist": "石井あみ",
+      "isrc": "JPD602500227",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/7l5cWX7Gh7QxJ3SEq3lhI7",
+      "isFallback": true
+    },
+    {
+      "id": "8571c434-7b3d-4860-b5a2-ee01340ce552",
+      "title": "怪獣",
+      "artist": "Lemontic",
+      "isrc": "TCJPO2159584",
+      "releaseDate": "2021-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/3ixOobAIipF3F9UvAWKeqh",
+      "isFallback": false
+    },
+    {
+      "id": "cd804ceb-5045-4da7-8d5a-26e530822362",
+      "title": "Sleep Walk",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978711",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/1Ig6JiDeC82rg9YehCyV8E",
+      "isFallback": false
+    },
+    {
+      "id": "9d1a2835-587c-41b0-9ce9-0ff667a33687",
+      "title": "つもる話",
+      "artist": "Lemontic",
+      "isrc": "TCJPM2048820",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/1SB30Vu3HC8VKZ0r30wAPm",
+      "isFallback": false
+    },
+    {
+      "id": "9865cf4a-ce2a-45d4-ae5e-c1e37e94d658",
+      "title": "曖昧なミュージック",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPS2203057",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/26w5eL0MXWoyfhF58hDo1r",
+      "isFallback": false
+    },
+    {
+      "id": "ba93d5a4-2a0a-4ef7-bd7c-2065bed41672",
+      "title": "吠えてみろ",
+      "artist": "Lemontic",
+      "isrc": "TCJPM2048807",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/0uQJMUgyuA5sHty0uj2JKc",
+      "isFallback": false
+    },
+    {
+      "id": "3636d2aa-dd46-4933-98f0-437f94973554",
+      "title": "スパーク",
+      "artist": "Lemontic",
+      "isrc": "TCJPO2183651",
+      "releaseDate": "2021-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/1QQ9Ujmn41IqHCjI3omyTy",
+      "isFallback": false
+    },
+    {
+      "id": "390e7a18-8ec4-4ff4-b1af-2d519fef51cb",
+      "title": "朝ごはん食べた?",
+      "artist": "Lemontic",
+      "isrc": "TCJPT2251580",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/3ISE2YYon94fwec5Y1t3eO",
+      "isFallback": false
+    },
+    {
+      "id": "28677114-12b8-4d00-b337-686a524397ab",
+      "title": "こっち向いてチュ♡",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPY2359397",
+      "releaseDate": "2023-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/4aABHcyazcgQu3baV6CfrF",
+      "isFallback": false
+    },
+    {
+      "id": "f73c2c20-5f38-4cb2-9b55-9598e41cc17d",
+      "title": "生活",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPU2356431",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1O2dWGbwSL0TPx39vJA52b",
+      "isFallback": false
+    },
+    {
+      "id": "4660f8db-efce-4552-a61f-b5b62dc209ef",
+      "title": "返信 (distance between two of us)",
+      "artist": "Lemontic",
+      "isrc": "TCJPL2060449",
+      "releaseDate": "2020-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/0BSMbz2nB7GxBp9vhBBoY4",
+      "isFallback": false
+    },
+    {
+      "id": "a02d85d8-7e46-4f7a-9dc5-aebbdeb61354",
+      "title": "ロマンスに御用心",
+      "artist": "Lemontic",
+      "isrc": "TCJPM2048810",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/5G531xDdU8PxC9MKara61j",
+      "isFallback": false
+    },
+    {
+      "id": "6ec97cc3-8d25-4882-9236-9259f190ea7c",
+      "title": "犬も食わない",
+      "artist": "Lemontic",
+      "isrc": "TCJPT2251574",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/2MFFoeFsyxg5AJPrGS3aHv",
+      "isFallback": false
+    },
+    {
+      "id": "63cfe837-f3e8-4a3e-8fb5-ff7b31c8b2c7",
+      "title": "I LOVE YOUが聞こえない",
+      "artist": "Lemontic",
+      "isrc": "TCJPM2048824",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/5rJMKO5sDWB6e82xAc6mv9",
+      "isFallback": false
+    },
+    {
+      "id": "4e9525f6-6f89-47e3-898f-d708f0fcd5ec",
+      "title": "ASOBO♪OSANPO",
+      "artist": "後本萌葉",
+      "isrc": "JPD602400276",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4AVoekZsbJfoWH0HZ4ZrMp",
+      "isFallback": true
+    },
+    {
+      "id": "12d23798-cbe7-4b53-a892-06270926a87a",
+      "title": "揺れて惑星",
+      "artist": "七瀬彩夏",
+      "isrc": "JPD602400643",
+      "releaseDate": "2025-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/3nrmbqdfaobOva4NMr34sx",
+      "isFallback": true
+    },
+    {
+      "id": "5752a9a1-66b6-49af-b9d1-7e5bea73c9ea",
+      "title": "ほどける",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978712",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/0PdvTnloZIg0rA5YDtTDTv",
+      "isFallback": false
+    },
+    {
+      "id": "3ffcf23a-2809-419b-ae7c-6ae1ed9010cb",
+      "title": "アンビバレンス",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978715",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/5HVMBXt2ovmIDctzRN8ags",
+      "isFallback": false
+    },
+    {
+      "id": "ae92903b-2d47-4d97-bf18-6cb6889addfb",
+      "title": "内緒",
+      "artist": "Lemontic",
+      "isrc": "TCJPM2048814",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/26EY37pNI3PPADqD26CqlD",
+      "isFallback": false
+    },
+    {
+      "id": "b8cc14bb-aaf3-48f5-b16c-b87693b5e269",
+      "title": "夢の中へ",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1978708",
+      "releaseDate": "2019-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/1szRIVoEHg60B5EvUFQGhW",
+      "isFallback": false
+    },
+    {
+      "id": "d9805808-66f6-44b1-a9ca-7b6d5bbf49c1",
+      "title": "バグっちゃいそう！",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPW2368241",
+      "releaseDate": "2023-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/6SxPP5DsTckHFMcS5yI7ZC",
+      "isFallback": false
+    },
+    {
+      "id": "f2e114d4-920e-4bc8-8f5e-7f96c81e28e0",
+      "title": "Dear Shine Sky",
+      "artist": "吉武千颯",
+      "isrc": "JPD602301458",
+      "releaseDate": "2023-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/3QxG28vzyApxR3IbTbTH16",
+      "isFallback": false
+    },
+    {
+      "id": "1504dc53-5dbd-4a27-8a1e-065692a5abc6",
+      "title": "ヒロガリズム",
+      "artist": "石井あみ",
+      "isrc": "JPD602300098",
+      "releaseDate": "2023-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/5ad3iGxNnKDrpLQDWdunQH",
+      "isFallback": false
+    },
+    {
+      "id": "d52e4904-0087-49f6-b950-9d723867de04",
+      "title": "夜明けまでぼくら",
+      "artist": "ハマダコウキ",
+      "isrc": "TCJPJ1915740",
+      "releaseDate": "2019-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/2NI0bXd2QZGZcmFW0EkY9v",
+      "isFallback": false
+    },
+    {
+      "id": "0e716871-2599-44be-af8d-b30e3fc81855",
+      "title": "あたたかいあたりまえ",
+      "artist": "聖あげは",
+      "isrc": "JPD602301449",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/0hwc7lc41XfBSwSDgqDn7g",
+      "isFallback": false
+    },
+    {
+      "id": "653f4db6-627c-462f-ba13-3774971c90d7",
+      "title": "ポップコーンベイビー",
+      "artist": "Lemontic",
+      "isrc": "TCJPT2251577",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/0Ly87u3F0Bzt8MvTnxdxiu",
+      "isFallback": false
+    }
+  ]
+}

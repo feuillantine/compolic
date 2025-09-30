@@ -1,0 +1,699 @@
+{
+  "name": "矢鴇つかさ",
+  "sortName": "ヤトキツカサ",
+  "tracks": [
+    {
+      "id": "d3fdfaef-5a78-4f43-9c8e-2a2cd8ddb1fa",
+      "title": "Awakening Light",
+      "artist": "ソルル",
+      "isrc": "JPT552000943",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3GwFDU2fs9nEaLXOR8i0dt",
+      "isFallback": true
+    },
+    {
+      "id": "4600603b-da71-448d-9b5f-9c3dae983c18",
+      "title": "Justice OR Voice",
+      "artist": "ジェネシス×ネメシス",
+      "isrc": "JPI101900726",
+      "releaseDate": "2019-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/4LsfssM5Wk8G7t3UIIKpSW",
+      "isFallback": false
+    },
+    {
+      "id": "4631b622-00ad-483b-b1e6-cb52b864039a",
+      "title": "L'amour en Tricolore ～ラムール・アン・トリコロール～",
+      "artist": "Tricolore",
+      "isrc": "JPT552300082",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/3vm9vJ9aF19dhm4bZIhuwn",
+      "isFallback": true
+    },
+    {
+      "id": "fda4c838-4c40-4954-9fd1-57650f5c1e11",
+      "title": "夢にかけるRainbow",
+      "artist": "765 MILLION ALLSTARS",
+      "isrc": "JPI102201557",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/5pw4sw3yKj3fy1tZTrOpfa",
+      "isFallback": false
+    },
+    {
+      "id": "0355ecc5-ddcb-493c-af7b-1c5d3358f46a",
+      "title": "空に手が触れる場所",
+      "artist": "北上麗花",
+      "isrc": "JPI101800996",
+      "releaseDate": "2018-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/2tCyPUyugrIjVn8oI9qaoR",
+      "isFallback": false
+    },
+    {
+      "id": "3203b0d0-6a1e-4443-9a72-192de66207ad",
+      "title": "ワールド・アスレチック・COOK-KING 〜勝者必食!?スポ食の秋〜",
+      "artist": "中谷育",
+      "isrc": "JPI102102781",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/6AUxT14NdUJzRIubTQOKuN",
+      "isFallback": false
+    },
+    {
+      "id": "cc395ea5-3fdc-4745-9f86-d1c5e034c145",
+      "title": "Supersonic Booster!",
+      "artist": "秋月律子",
+      "isrc": "JPI102300011",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/6sEMqtr7vs95bIkQ7bBdXu",
+      "isFallback": false
+    },
+    {
+      "id": "37c3d88a-a3df-465b-92ed-6cf21be1af6a",
+      "title": "ワンダー・リブレット",
+      "artist": "榊原ゆい",
+      "isrc": "JPZ921907482",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/5mJlwDb1A8oHele1uTeMTj",
+      "isFallback": true
+    },
+    {
+      "id": "8b199a1b-1170-426e-a409-4b423351749d",
+      "title": "Maple Ripple",
+      "artist": "神楽めあ",
+      "isrc": "TCJPD2411605",
+      "releaseDate": "2024-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/4iza9Do3j1OTIVWBA4Nt93",
+      "isFallback": true
+    },
+    {
+      "id": "eb263db7-8d11-4144-8258-adff7582d594",
+      "title": "ソレイユ・ブーケ",
+      "artist": "シャルロット・デュノア",
+      "isrc": "",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e82551bb-7ece-4b25-a751-6557e4a852fb",
+      "title": "RAY OF LIGHT",
+      "artist": "THE 虎牙道",
+      "isrc": "JPI101800781",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/4JKWEuMwmnilfD0b4UDKPo",
+      "isFallback": false
+    },
+    {
+      "id": "d891efe7-7aa9-4df2-b373-b395a819dfa4",
+      "title": "ネバギバラバー",
+      "artist": "アイスマイリン",
+      "isrc": "JPT552400585",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0PkXklyaBvh5lGoMAczEK0",
+      "isFallback": true
+    },
+    {
+      "id": "af9b84b8-b1e7-48fc-8180-5d49cffadd16",
+      "title": "あの空に還る未来で",
+      "artist": "ChouCho",
+      "isrc": "JPI101400091",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4fMNFw999Mebdq3yqaLqzg",
+      "isFallback": true
+    },
+    {
+      "id": "50f574f9-b848-4212-b649-d6a4a9488f5d",
+      "title": "Handmade Good Day",
+      "artist": "珠洲島有栖",
+      "isrc": "JPD732200106",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/2Btlc9WM2b3PmZ7MNHZ2Lx",
+      "isFallback": true
+    },
+    {
+      "id": "a70cd9fe-299d-4d4b-8b9f-15ce21cac2c8",
+      "title": "Monochrome Liquid",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c629eb2-c5e5-49cc-bac2-ff9d3db971f9",
+      "title": "タイムマシンに飛び乗って!",
+      "artist": "双海亜美",
+      "isrc": "JPI101401459",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/2iUXCd7Fcpwi48nXS8XVKF",
+      "isFallback": false
+    },
+    {
+      "id": "c17551d2-0292-4872-bbf3-d08637d2a248",
+      "title": "青春アルゴリズム",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT551900653",
+      "releaseDate": "2019-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/4JKbeT5YXfZ1T271UYW13v",
+      "isFallback": true
+    },
+    {
+      "id": "9c2221ef-1382-44c5-8dd2-7faceff7af96",
+      "title": "花咲舞",
+      "artist": "葵・喜美",
+      "isrc": "JPI101200726",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fae634df-b3e3-48ad-9cee-05aeaa807f8e",
+      "title": "Flooding",
+      "artist": "クレシェンドブルー",
+      "isrc": "JPI101601324",
+      "releaseDate": "2016-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/0lros2wQQX443HPBv99uyE",
+      "isFallback": false
+    },
+    {
+      "id": "de0b750d-ddaa-4ef4-bdcc-040b252bf89a",
+      "title": "反撃! 突撃! Back to Back!",
+      "artist": "星咲あかり",
+      "isrc": "JPD732000457",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/5gkLfm0qRtMHcIpCCUcLTt",
+      "isFallback": true
+    },
+    {
+      "id": "2e9a573b-ece3-4018-ba3d-4f8e51bbf580",
+      "title": "Shooting Stars",
+      "artist": "クレシェンドブルー",
+      "isrc": "JPI101401807",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/3WWM1gtUk3qwX9XWRPBBiQ",
+      "isFallback": false
+    },
+    {
+      "id": "2bfdc8dd-fa97-439a-b28f-7ad6561b7bfd",
+      "title": "Sakura Stream",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21dea7c1-8fcf-4ed9-acf8-14110237b86e",
+      "title": "スペース!スパイス!スペクタクル!",
+      "artist": "める",
+      "isrc": "JPT551901439",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/7kQTYkLSh2MYO6HoqPJN9z",
+      "isFallback": true
+    },
+    {
+      "id": "57fe544a-67e0-4f53-91a2-ea4605b5f74f",
+      "title": "White Magic Night!",
+      "artist": "桜井春菜",
+      "isrc": "JPD732200038",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/29dQbx0lhw5FkE8qkuLTdz",
+      "isFallback": true
+    },
+    {
+      "id": "6b8c1626-bd5d-4096-95fa-917ef59d8439",
+      "title": "色めく花、咲き誇る夏へ",
+      "artist": "YURIA",
+      "isrc": "",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "67660eff-5db4-44e4-af5e-064b25ec2a86",
+      "title": "Tanzanite Coast",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c2acc9b-39c6-42d9-a068-40ff027805e4",
+      "title": "Straight Oath",
+      "artist": "矢鴇つかさ",
+      "isrc": "JPM201300530",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fcaf68c7-b31c-46c4-b6bc-09021de80463",
+      "title": "HB-axeleration",
+      "artist": "矢鴇つかさ",
+      "isrc": "JPE761400065",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/3PNpzrDBBqMHW4kVPRQqI0",
+      "isFallback": true
+    },
+    {
+      "id": "7a5d3ff4-ecc5-4435-b861-ba65ecc5a7fb",
+      "title": "Future one sparkle",
+      "artist": "Rin'ca",
+      "isrc": "",
+      "releaseDate": "2018-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "312ef5dd-ba1e-404e-9a4a-cf9ff8114ce5",
+      "title": "COMETIC SILHOUETTE",
+      "artist": "メルティックスター",
+      "isrc": "JPT551800814",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/1vNsRY17qmw9xKUBPArDj2",
+      "isFallback": true
+    },
+    {
+      "id": "a568e2db-43c9-4a59-87eb-aa4bd7a3ca68",
+      "title": "CONNECT",
+      "artist": "美郷あき",
+      "isrc": "",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f3d05a16-496e-4121-b9d9-ffe7f992c5bb",
+      "title": "Pure Circuit",
+      "artist": "Ceui",
+      "isrc": "",
+      "releaseDate": "2018-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "be81e116-25c1-4289-93c0-0c6b10c6d6cb",
+      "title": "WASTELANDERS",
+      "artist": "佐咲紗花",
+      "isrc": "JPI101502497",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5lt1VFGNKUPSI7W2djcO3p",
+      "isFallback": true
+    },
+    {
+      "id": "d2a2350b-7ef0-4406-bfcd-9d7d888be2ea",
+      "title": "果てまでも",
+      "artist": "浅間・智",
+      "isrc": "",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "474e6632-52cd-4f68-9ec3-743d0511c56a",
+      "title": "Piece Montee",
+      "artist": "東雲荘一郎",
+      "isrc": "JPI101700037",
+      "releaseDate": "2017-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/659orc4NJlM3THbibCYh5j",
+      "isFallback": false
+    },
+    {
+      "id": "c6307da4-e6a8-4556-afed-c0ff90d8910b",
+      "title": "Fortune love",
+      "artist": "佐咲紗花",
+      "isrc": "JPI101200005",
+      "releaseDate": "2020-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/6qgOk83joPHGWCBl7jwjOc",
+      "isFallback": true
+    },
+    {
+      "id": "58674e28-d8dc-4790-9bb2-7099ad273587",
+      "title": "Loup de debut",
+      "artist": "ネイト・ミトツダイラ",
+      "isrc": "",
+      "releaseDate": "2012-04-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "54222b20-4da7-4b9d-99e4-ffe18dc1aaa6",
+      "title": "Dance 2 Endless Beat",
+      "artist": "マルゼンスキー",
+      "isrc": "JPZ922212716",
+      "releaseDate": "2022-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/1seIZwwiVBPRunEMAYZWi6",
+      "isFallback": true
+    },
+    {
+      "id": "79723372-dab7-4288-80bc-7184296efdea",
+      "title": "keep the faith",
+      "artist": "飛蘭",
+      "isrc": "JPI101402484",
+      "releaseDate": "2013-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/5vIBudCBuhWtV7XXKaNjdx",
+      "isFallback": true
+    },
+    {
+      "id": "657b7d85-8e66-4f31-bfb9-391a2a7c55aa",
+      "title": "未来永劫",
+      "artist": "佐咲紗花",
+      "isrc": "JPI102001587",
+      "releaseDate": "2017-08-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ad5e177a-246e-4918-8bbe-0aa0df8890f2",
+      "title": "ルーセントアイズ",
+      "artist": "ChouCho",
+      "isrc": "JPI101401452",
+      "releaseDate": "2014-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/4aiNsPspW5XYQ1ddSjTkYs",
+      "isFallback": true
+    },
+    {
+      "id": "4890d5d5-2bd7-411b-8b3b-6973bf772710",
+      "title": "Higher↑ Higher↑",
+      "artist": "真白友也",
+      "isrc": "JPD641800201",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/7dN5J5K3GmO1cuQL9PJLvu",
+      "isFallback": true
+    },
+    {
+      "id": "c211bd75-971c-4460-a164-39a31c3ac62e",
+      "title": "タッ・ピ～ロペ・サパンナ！",
+      "artist": "NonSugar",
+      "isrc": "JPT552100864",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/5FSbvsjxF6tgZEffS3WeIS",
+      "isFallback": true
+    },
+    {
+      "id": "ab7458f2-d1b6-4725-a66c-c189692f1312",
+      "title": "I'll smile for yours",
+      "artist": "綾小路シェリエル",
+      "isrc": "JPI101300685",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/03oL4Q3El9eEXp2Lq8yUES",
+      "isFallback": true
+    },
+    {
+      "id": "7d2195c9-fb53-4a7e-9aef-43162c9cf566",
+      "title": "虹色Sunrise",
+      "artist": "ガーリッシュ ナンバー",
+      "isrc": "JPPI01601340",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/2eX59I7LoGf7uN7MTxTtu2",
+      "isFallback": true
+    },
+    {
+      "id": "7688c23f-b8ff-4856-82e8-af651efecea0",
+      "title": "Despertar del SOL！",
+      "artist": "ソルル",
+      "isrc": "JPT552000939",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/2TeFhuEgPkIkVo5cxlfkXw",
+      "isFallback": true
+    },
+    {
+      "id": "eeba8d79-de16-4028-b07e-f8b58f0e304c",
+      "title": "Unlimited Squall",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a8c34b68-5ffd-40e4-bac1-92720f9d82f8",
+      "title": "Fun! Fun! Festa!",
+      "artist": "Beit",
+      "isrc": "JPI101601532",
+      "releaseDate": "2016-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4",
+      "isFallback": false
+    },
+    {
+      "id": "fb3e6a00-1776-4512-90b8-258d7387945b",
+      "title": "感情アクセラレイション",
+      "artist": "AQUAシューターズ",
+      "isrc": "JPD731900805",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/0mgyWRHYPFV8q65qwfGkZb",
+      "isFallback": true
+    },
+    {
+      "id": "c9c1576c-8a5b-4ef7-b3eb-1dec97f90515",
+      "title": "NEURON,NEURON!!",
+      "artist": "ミザリィ",
+      "isrc": "JPI101300690",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/2ItVRxbaHSERyuVuLfu6fY",
+      "isFallback": true
+    },
+    {
+      "id": "b3ed44f3-a22a-4ae8-9f97-f80f86fb94ac",
+      "title": "ROUTE EXIT",
+      "artist": "結城アイラ",
+      "isrc": "JPI101302563",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/50Tnh40GAKN6459unVloAz",
+      "isFallback": true
+    },
+    {
+      "id": "da4519be-a883-4013-8a5f-b85e14d12117",
+      "title": "endless voyage",
+      "artist": "茅原実里",
+      "isrc": "JPI101302609",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/366RNZnoVHeFSfG3o4979O",
+      "isFallback": true
+    },
+    {
+      "id": "b9db659e-cedf-4e0a-9ff3-e576e6ac6bd9",
+      "title": "ぶっちゃけ少女じゃない",
+      "artist": "STAR☆PRINCE",
+      "isrc": "",
+      "releaseDate": "2018-05-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0960cec-6f18-4583-a59c-07284b970b3a",
+      "title": "Burn! Cosmic Liberty",
+      "artist": "コスモ",
+      "isrc": "JPT552400851",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/5FKsMZtFwgV9Q3ksJYsd6w",
+      "isFallback": true
+    },
+    {
+      "id": "a46cbbf7-21bd-403e-ba35-70fdd1f5a669",
+      "title": "Recall My Sketch",
+      "artist": "霜月はるか",
+      "isrc": "JPV202000599",
+      "releaseDate": "2019-10-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e38ad9b2-5d40-44b7-bf65-0c9fff378a11",
+      "title": "THIS IS IT!",
+      "artist": "舞田類",
+      "isrc": "JPI101702444",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/0eKQRZKtx6aUOespVKnMRW",
+      "isFallback": false
+    },
+    {
+      "id": "60776c03-11b7-4289-bfee-9e2dd1819d9d",
+      "title": "Chosen Road",
+      "artist": "美郷あき",
+      "isrc": "",
+      "releaseDate": "2017-08-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62e044c6-9e50-4fc9-af79-e137570e3081",
+      "title": "Urban Midnight Coast",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59ee4cf5-ad3b-4e45-859f-aee8bbb9f462",
+      "title": "Atrocious",
+      "artist": "矢鴇つかさ",
+      "isrc": "",
+      "releaseDate": "2010-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "96c34c8f-8e7f-4bd0-99ba-6eb3bf1afecc",
+      "title": "Darkness Memory",
+      "artist": "美郷あき",
+      "isrc": "",
+      "releaseDate": "2018-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a917cc9-053a-4049-920f-b35d1406df9d",
+      "title": "革命ですね? 神様!",
+      "artist": "早乙女リリエル",
+      "isrc": "JPI101300681",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/56Jl96vN7ziITdLeuL5Lja",
+      "isFallback": true
+    },
+    {
+      "id": "9590f251-d389-42f5-a84e-037f3b7f3b7e",
+      "title": "Lustro della LUNA",
+      "artist": "ルルナ",
+      "isrc": "JPT552000941",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/32xFpa6kB7iakvRBMJTkLG",
+      "isFallback": true
+    },
+    {
+      "id": "c0a91e0f-f805-44bc-b4f6-1ebdbf4069d5",
+      "title": "Kissin'Me, Kissin'You",
+      "artist": "まめこ",
+      "isrc": "",
+      "releaseDate": "2016-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dde6189d-4613-4bc2-8b3d-001057a144db",
+      "title": "Aquostics",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b9c1db81-62df-4ace-b656-fc93d086f820",
+      "title": "coloration",
+      "artist": "栗林みな実",
+      "isrc": "",
+      "releaseDate": "2014-03-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7e60296f-04ab-4654-b314-70d2ec91bc26",
+      "title": "パルプス・ノンフィクション♪",
+      "artist": "ふわり",
+      "isrc": "JPT552400860",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/4WGHLH3FxfJHzck3pBfwwE",
+      "isFallback": true
+    },
+    {
+      "id": "6d77f82c-4192-4a9e-a727-556f9931d954",
+      "title": "Life is Beautiful!",
+      "artist": "舞田類",
+      "isrc": "JPI102301736",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/3enQeoCe09Jdjt5HnhMFQX",
+      "isFallback": false
+    },
+    {
+      "id": "8d027ba9-ed62-4b68-91de-45abe73f312d",
+      "title": "TOKIMEKI Runners",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "isrc": "JPI101802520",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/2wI8kQ2psvPoMqqlKLusJ1",
+      "isFallback": false
+    },
+    {
+      "id": "a86d701d-fd3a-464f-8d98-e8bb613f89c3",
+      "title": "GATEWAY",
+      "artist": "真崎エリカ",
+      "isrc": "JPI101400108",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f5d9a20a-452f-4d6e-a891-cad18b7b3386",
+      "title": "REINCARNATION BLUE",
+      "artist": "結城アイラ",
+      "isrc": "JPI101302562",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/0KP9EtErFx75nEF5D6o7rk",
+      "isFallback": true
+    },
+    {
+      "id": "b9ed0a74-81bc-44c5-9e84-2d2c0bb760e4",
+      "title": "Windy prelude",
+      "artist": "橋本みゆき",
+      "isrc": "JPI101401001",
+      "releaseDate": "2014-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/24QlXfT06iAQIMot67oJZZ",
+      "isFallback": true
+    },
+    {
+      "id": "493b98ce-2569-41c7-b00f-e03dc5bfb00d",
+      "title": "ノンピリオド",
+      "artist": "NonSugar",
+      "isrc": "JPT552100865",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/2R52cjexgRUahY020C21qv",
+      "isFallback": true
+    },
+    {
+      "id": "5bb1562a-d3c9-4551-9717-e2bb0cb5df94",
+      "title": "迷子のかいじゅう",
+      "artist": "カンナ",
+      "isrc": "JPI101700212",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/4LqhdUWVvsdF2Wgfubf3fm",
+      "isFallback": true
+    },
+    {
+      "id": "be0c65d9-387c-4c20-9992-e2358dd630d6",
+      "title": "Carteria",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cd200ac0-7d2d-4a5e-84ee-c671e0833e86",
+      "title": "Take a Chance!",
+      "artist": "真崎エリカ",
+      "isrc": "",
+      "releaseDate": "2013-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "45916076-7c55-4cf3-a008-9f608aa8d70e",
+      "title": "Roadracers",
+      "artist": "Sound Online",
+      "isrc": "",
+      "releaseDate": "2010-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ba2440c-603d-4de2-8bac-6e49b83e423b",
+      "title": "PRETTY DREAMER",
+      "artist": "我那覇響",
+      "isrc": "JPI101301341",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX",
+      "isFallback": false
+    }
+  ]
+}

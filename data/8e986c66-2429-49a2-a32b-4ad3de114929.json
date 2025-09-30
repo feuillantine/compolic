@@ -1,0 +1,496 @@
+{
+  "name": "ササキトモコ",
+  "sortName": "ササキトモコ",
+  "otherNames": [
+    "佐々木朋子",
+    "Serani Poji"
+  ],
+  "tracks": [
+    {
+      "id": "73f52592-a219-4b1d-bcbd-fae2c9518596",
+      "title": "夢と夢〜あの日のメロディ〜",
+      "artist": "月鈴姉妹",
+      "isrc": "JPX301711500",
+      "releaseDate": "2017-01-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a87bc95-433d-4ddd-852c-37163b532282",
+      "title": "Suburban Museum (Complete version)",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830820",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/1mKKwjJSABqgpt5tAZEmcv",
+      "isFallback": true
+    },
+    {
+      "id": "de1eeec8-fd8c-40ee-905e-1bab23bb4a22",
+      "title": "SONIC TEAM -Sound Logo-",
+      "artist": "ササキトモコ",
+      "isrc": "JPX302471800",
+      "releaseDate": "2024-11-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "245a5e1d-6824-4ab8-a3ab-e090954cee0b",
+      "title": "おねえちゃんデスコ",
+      "artist": "市原仁奈",
+      "isrc": "JPCO01918020",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/4yzTL311E86WU4ye6EWAZX",
+      "isFallback": true
+    },
+    {
+      "id": "e493b9fd-8851-48a2-8aa5-ccdc21cc5d63",
+      "title": "アタシポンコツアンドロイド",
+      "artist": "双葉 杏",
+      "isrc": "JPCO01323210",
+      "releaseDate": "2013-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/1lhbBGkIQtIacavOpaYlZE",
+      "isFallback": true
+    },
+    {
+      "id": "d0739976-23bf-4e3d-8082-9517dea17dee",
+      "title": "秘密のトワレ",
+      "artist": "一ノ瀬志希",
+      "isrc": "JPCO01537260",
+      "releaseDate": "2015-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/7KiTunh9agetldBmsvRzGk",
+      "isFallback": true
+    },
+    {
+      "id": "a0fdb320-f324-4307-b37b-9f776febd741",
+      "title": "Sonic SEGA Saturn Medley",
+      "artist": "FILMharmonic Orchestra, Prague",
+      "isrc": "JPX302136730",
+      "releaseDate": "2021-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/21MRq1tpMc5CeUpjXl4k1v",
+      "isFallback": true
+    },
+    {
+      "id": "6eaf6df1-d062-46b7-b56c-8224fa177362",
+      "title": "Gloom of the N.H.C. (Complete version)",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830750",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/1gN5HMc98QMZV6gQHzfj6d",
+      "isFallback": true
+    },
+    {
+      "id": "3750da43-d565-4f41-8745-5e141927d259",
+      "title": "Jack Frost's Chime (Complete version)",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300831060",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/6PwJ0tZQXdSJa5u3RAw2t3",
+      "isFallback": true
+    },
+    {
+      "id": "ede68220-f5c6-4e92-87ed-781d3075e39f",
+      "title": "Winter Sleep",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300831050",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/2f7DEs10zZ5Epzr1KhQGiH",
+      "isFallback": true
+    },
+    {
+      "id": "c4af8abe-5546-4cf7-808b-7e116b5e1bd9",
+      "title": "恋星ペリコ",
+      "artist": "月ノ美兎",
+      "isrc": "JPY252400153",
+      "releaseDate": "2025-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/7tCZsljf6kHzOEfCmD7ObS",
+      "isFallback": false
+    },
+    {
+      "id": "cd083b3e-ad84-447a-ac2e-f39fdda1f21c",
+      "title": "走れメロンパン",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201400021",
+      "releaseDate": "2014-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/7IyP7SsKXbZTOG44ddLMEe",
+      "isFallback": true
+    },
+    {
+      "id": "dc8abe5c-0714-41f2-9983-733870f3ad20",
+      "title": "Twinkle Star",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300831030",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/6LIsF62Dq7kekuWzJWllWk",
+      "isFallback": true
+    },
+    {
+      "id": "7a8323e4-4cd5-4ba3-a1e3-01c1423f9a03",
+      "title": "Paternal Horn (Complete version)",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830650",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/0vblzQJrRoj79Pq8APY081",
+      "isFallback": true
+    },
+    {
+      "id": "a730dbe5-4dc3-48b1-a380-dc58bb936bf7",
+      "title": "pipo pipo (Sped Up Version)",
+      "artist": "Serani Poji",
+      "isrc": "JPCR02306090",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/6KExdjjev3QRmKlyrAQMjO",
+      "isFallback": false
+    },
+    {
+      "id": "ad07e9e4-1d50-4cf1-8477-83da369784a9",
+      "title": "NiGHTS, Forever in Our Heart",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830920",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/4yLruFwOvBiqI7Eoa8yEBr",
+      "isFallback": true
+    },
+    {
+      "id": "9c1e3811-24cd-4844-a389-6be7c7b4ce72",
+      "title": "フレデリカ、猫やめるよ",
+      "artist": "宮本フレデリカ",
+      "isrc": "JPCO01804720",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/2403uI26cwUjS591S8CjFg",
+      "isFallback": true
+    },
+    {
+      "id": "4637a2df-c313-475e-bafa-759e30a28cbc",
+      "title": "パイパイ仮面でどうかしらん？",
+      "artist": "宝鐘マリン",
+      "isrc": "JPV752409086",
+      "releaseDate": "2024-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/2cyJ1cXnEedYfoBF8StFDX",
+      "isFallback": true
+    },
+    {
+      "id": "b2fd7f99-6ede-41d7-83d5-a644eb989c49",
+      "title": "ラビットパニック",
+      "artist": "Serani Poji",
+      "isrc": "JPCR00208140",
+      "releaseDate": "2002-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/2lA1ba5H5HInj1gPXqYyXu",
+      "isFallback": true
+    },
+    {
+      "id": "800cc99f-09af-4039-8a8b-e63720eb7b96",
+      "title": "neko＊neko",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500714",
+      "releaseDate": "2015-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/3gnDkoNngHaGBYnpkrUI5C",
+      "isFallback": true
+    },
+    {
+      "id": "dab1ca82-0183-413c-b8a1-9e2ff16b2a5b",
+      "title": "今日もデジは猫のふり",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02002800",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/46MItbLt6fWtm9VhWJ4JR5",
+      "isFallback": true
+    },
+    {
+      "id": "702ad2fd-8bff-41e0-bf78-047a13a28a5b",
+      "title": "On to the Audition",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830900",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/0LnUicScJjvYFamuJzbCTh",
+      "isFallback": true
+    },
+    {
+      "id": "5846a605-b50c-4a93-b7a0-0f530e843060",
+      "title": "E-LE-KI Sparkle",
+      "artist": "ササキトモコ",
+      "isrc": "",
+      "releaseDate": "1996-07-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4bca87f1-7740-4a23-a191-8e2ce981edce",
+      "title": "温故知新でいこっ!",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201400853",
+      "releaseDate": "2014-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/7GMnyqEchkQjvJHhS7TfGW",
+      "isFallback": true
+    },
+    {
+      "id": "28cf9b96-5c9d-4b24-9aac-6de6f754f74f",
+      "title": "Dreams Dreams",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "2006-01-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83ff46d1-4361-4b79-9902-ad5a24aa8e19",
+      "title": "全力アイドル (M@STER VERSION)",
+      "artist": "水瀬伊織",
+      "isrc": "JPCO01518490",
+      "releaseDate": "2015-06-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cf1af138-996b-4111-ab9a-11e8ea993734",
+      "title": "Message From Nightopia",
+      "artist": "ササキトモコ",
+      "isrc": "",
+      "releaseDate": "1996-07-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8cea7ebc-10cb-47cb-b3a2-7a2b01e61ad0",
+      "title": "Fragmented Nights",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830610",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1fS0mEhCSBHcICeuWOjkpU",
+      "isFallback": true
+    },
+    {
+      "id": "0f26f46c-8a36-427d-a71d-d75162f1f58a",
+      "title": "クラゲファンタジーソーダ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201500986",
+      "releaseDate": "2015-12-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f751c14-0645-486b-8ee9-3e87bb65061a",
+      "title": "The Mantle",
+      "artist": "ササキトモコ",
+      "isrc": "",
+      "releaseDate": "1996-07-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21ce0434-befb-48e1-8419-8cc4ee1c72ad",
+      "title": "Growing Wings",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "2006-01-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3824c768-9cce-43b7-8232-24b5a1950152",
+      "title": "キラッ!満開スマイル",
+      "artist": "島村卯月",
+      "isrc": "JPCO01706680",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/4J8GXGZyYVCHbOL6i1gZiz",
+      "isFallback": true
+    },
+    {
+      "id": "02ebda5a-dd69-4f03-9eba-d78004999201",
+      "title": "Nights：journey of Dreams",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "2006-01-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba16464d-934e-4320-941e-031da7295726",
+      "title": "かぼちゃ姫 (M@STER VERSION)",
+      "artist": "白坂小梅",
+      "isrc": "JPCO02203150",
+      "releaseDate": "2022-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/5N1sQzEP2bEIZLiS2pKYHf",
+      "isFallback": true
+    },
+    {
+      "id": "0ce13490-e507-4f05-8972-58add7161ce2",
+      "title": "今夜はパジャマパーティ",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201700051",
+      "releaseDate": "2017-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/3Rtw2kfbUIDvzHkvgO7nzC",
+      "isFallback": true
+    },
+    {
+      "id": "9bfb519f-def5-4cf7-9d0d-c6dc8f53a339",
+      "title": "Dreaming Youngsters (Claris version)",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830620",
+      "releaseDate": "2008-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/2aHY0rJ7doGqEQMlmRzgWD",
+      "isFallback": true
+    },
+    {
+      "id": "2dd0aaaa-0d15-4d7b-81d4-bd50b5687e75",
+      "title": "恋とキングコング",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM201200507",
+      "releaseDate": "2013-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/723OyITDQl60aG89kq4Ojr",
+      "isFallback": true
+    },
+    {
+      "id": "c7b8dc93-4584-45d4-88ed-0d3d11c34c40",
+      "title": "Sowing Seeds",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830930",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/0A1l55UrfIhx9mD8UBdDW9",
+      "isFallback": true
+    },
+    {
+      "id": "eda4e453-bded-4047-873f-f0552bcabf1a",
+      "title": "Ristar 'Fiesta Amongst the Trees' OC ReMix",
+      "artist": "Southwestern College Afro-Cuban Jazz Ensemble",
+      "isrc": "",
+      "releaseDate": "2009-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7db668e8-c2f8-499f-8dd9-719968688cea",
+      "title": "イマココ!この瞬間",
+      "artist": "日向美ビタースイーツ♪",
+      "isrc": "JPM202400647",
+      "releaseDate": "2024-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/05rM63FaYoqTSnD9sA9xdm",
+      "isFallback": true
+    },
+    {
+      "id": "0603f922-11ee-45df-993d-ad413e73cd93",
+      "title": "それゆけ！学級委員長",
+      "artist": "月ノ美兎",
+      "isrc": "JPU902002125",
+      "releaseDate": "2020-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/45fgHXZ1ATX5rZqMom1WVR",
+      "isFallback": true
+    },
+    {
+      "id": "69c63269-66f1-4de8-8ed4-4937561f1f58",
+      "title": "じもとっこスイーツ♪",
+      "artist": "ホララ・ホリック with 日向美ビタースイーツ♪",
+      "isrc": "JPM201600801",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/1wBuj8abPPQUSLQUP48AY0",
+      "isFallback": true
+    },
+    {
+      "id": "959b1f67-4ed9-428c-a8df-d6900d4d32fd",
+      "title": "D'Force Master",
+      "artist": "ササキトモコ",
+      "isrc": "",
+      "releaseDate": "1996-07-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9a7e4ac-60d6-4cbe-a8b3-ae1a57be9eba",
+      "title": "Gloom of the N.H.C.",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2b0a3e5-feba-4469-8552-39fc56bf2563",
+      "title": "きゅんっ！ヴァンパイアガール",
+      "artist": "天海春香",
+      "isrc": "",
+      "releaseDate": "2013-02-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ce007dc-cf85-4f07-8ad4-7dfb9aa012f7",
+      "title": "The Special Two (Ending song for Xbox 360 ver.)",
+      "artist": "東京ハイジ合唱団",
+      "isrc": "",
+      "releaseDate": "2010-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b1a4c9ca-7c92-422d-a81b-ce8f1c5b7b50",
+      "title": "Gate of Your Dream",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "2006-01-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "56fcbeb3-62d0-4ba0-82f4-5f4af7d13a1c",
+      "title": "She Had Long Ears",
+      "artist": "ササキトモコ",
+      "isrc": "",
+      "releaseDate": "1996-07-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "60ade2b8-84fc-453c-be26-82e9d13602b2",
+      "title": "スイちゃんのメンテナンスソング",
+      "artist": "星街すいせい",
+      "isrc": "JPV752207136",
+      "releaseDate": "2023-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/59N4yQv6grVXU3eAe72KJm",
+      "isFallback": true
+    },
+    {
+      "id": "04e3bb69-fd64-42ef-8403-7b816882cd48",
+      "title": "NiGHTS",
+      "artist": "佐々木朋子",
+      "isrc": "JPX300830810",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/7LkyrWCL8ItrepbpZo428F",
+      "isFallback": true
+    },
+    {
+      "id": "f552a24f-ccfa-4d6c-ae6f-6784c0d58fae",
+      "title": "Paternal Horn",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "584b84a5-abfa-4efc-94df-447bf096cac5",
+      "title": "KAWAII ウォーズ",
+      "artist": "天海春香",
+      "isrc": "JPCO02207130",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef07223e-c382-4c06-990a-3cf17574a7b6",
+      "title": "Suburban Museum",
+      "artist": "佐々木朋子",
+      "isrc": "",
+      "releaseDate": "1996-07-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ab4aac7-2aed-4027-b5e3-58a02cfa42e7",
+      "title": "After the Adventure",
+      "artist": "Jun Senoue",
+      "isrc": "JPX300952550",
+      "releaseDate": "2009-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/6AtPyFkgD4z2goAr6OT5g8",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "みかんもどき",
+  "sortName": "ミカンモドキ",
+  "tracks": [
+    {
+      "id": "f07f83c7-8847-4a18-93d1-4ea5346f2f2d",
+      "title": "カラフルHappy Days！",
+      "artist": "すずしろ",
+      "isrc": "TCJPY2321574",
+      "releaseDate": "2023-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/61D7OyDFGAAz4ynMH07VZh",
+      "isFallback": false
+    },
+    {
+      "id": "db42b9c8-7c05-4da3-8bdd-29f4cc5bf634",
+      "title": "WAWO!",
+      "artist": "みらくらぱーく!",
+      "isrc": "JPI102500775",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/5lKjXZ9fGHnEdakKk0YOiq",
+      "isFallback": true
+    },
+    {
+      "id": "e36ce4f8-8d53-460b-8fb2-4b100c2f4abf",
+      "title": "お砂糖星が瞬く時に",
+      "artist": "うぐ",
+      "isrc": "TCAHH2302999",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/2Sx9FF0cH1WFwdPsNzPzKe",
+      "isFallback": false
+    }
+  ]
+}

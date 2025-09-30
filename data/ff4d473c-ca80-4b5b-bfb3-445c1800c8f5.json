@@ -1,0 +1,51 @@
+{
+  "name": "happy machine",
+  "sortName": "ハッピーマシーン",
+  "tracks": [
+    {
+      "id": "e2155bec-c773-47ff-9260-3c2217bef7bc",
+      "title": "ちゅちゅネギッ!!!",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439084",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/5P4VhhcAy6yvPS8autVHxY",
+      "isFallback": true
+    },
+    {
+      "id": "274f614a-abfb-4632-a59d-56d1c067edf9",
+      "title": "たりらりらんでぶ～",
+      "artist": "ハッピーくるくる",
+      "isrc": "TCJPJ1914518",
+      "releaseDate": "2017-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/4F6ISVB8QFAomXqQrQq8Gb",
+      "isFallback": true
+    },
+    {
+      "id": "92f40c20-8c23-4af4-8c0b-66d2fead17f1",
+      "title": "ぱにゃにゃんだ、ふんばるんだ。",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439082",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/1BGRMdxpiITXyPVq3LAGmf",
+      "isFallback": true
+    },
+    {
+      "id": "ee741f3d-4aa9-43f9-a984-30214c0cc233",
+      "title": "なんか、ハエた。",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439085",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/18NmXDq2DTEJzneUzqsPY1",
+      "isFallback": true
+    },
+    {
+      "id": "664ce72a-70ae-449e-bdb4-6b744aa13cac",
+      "title": "アシタを呼ぶ声",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439110",
+      "releaseDate": "2017-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/01tmzsRBWaOz8VwDCz6wz1",
+      "isFallback": true
+    }
+  ]
+}

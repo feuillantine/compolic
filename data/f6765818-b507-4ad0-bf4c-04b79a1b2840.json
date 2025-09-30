@@ -1,0 +1,222 @@
+{
+  "name": "SAWA",
+  "sortName": "サワ",
+  "tracks": [
+    {
+      "id": "43f4bf2a-63ca-446d-b0b8-a825419f54f8",
+      "title": "正しい関係性",
+      "artist": "ごいちー",
+      "isrc": "JPB622000329",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/3rYQJ36rpi4mmh5anPE3i2",
+      "isFallback": false
+    },
+    {
+      "id": "cbe1c092-05ea-49eb-b22d-c231e40558f4",
+      "title": "Cast",
+      "artist": "MEWCATUNE",
+      "isrc": "TCJPQ2295548",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/6I1FVzGP8kcITrY7kqut74",
+      "isFallback": true
+    },
+    {
+      "id": "0496066a-574a-4165-b66d-aac089dc6328",
+      "title": "アイボリー",
+      "artist": "ごいちー",
+      "isrc": "JPB622100241",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/5DCG0F2BH1ectiSFCsJMn0",
+      "isFallback": false
+    },
+    {
+      "id": "c91e2dcb-ca1e-403d-b562-9f72df336244",
+      "title": "Poison Girl",
+      "artist": "KOTO",
+      "isrc": "JPE871702440",
+      "releaseDate": "2017-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/1bMgcWG0ClzWBsyVUs2ONT",
+      "isFallback": true
+    },
+    {
+      "id": "ba772162-38ff-4d4a-abab-fb776cea9268",
+      "title": "Shining Wonderland",
+      "artist": "ごいちー",
+      "isrc": "JPB622000330",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/3CfffJZ4QzaZwmnu5iZoiu",
+      "isFallback": false
+    },
+    {
+      "id": "bd58062e-95c8-4abd-82a2-14efa5caf2d1",
+      "title": "サラサラサラ地",
+      "artist": "ねうちゃん",
+      "isrc": "TCJPZ2469676",
+      "releaseDate": "2017-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/1phC3nJidSXZpThOvzaCmh",
+      "isFallback": true
+    },
+    {
+      "id": "50119937-bf71-45fc-9a5b-609e8c80bced",
+      "title": "Shuffle",
+      "artist": "くぴぽ",
+      "isrc": "TCJPP2125452",
+      "releaseDate": "2021-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/5cwkURGm0T31TFS6c5ZGjG",
+      "isFallback": true
+    },
+    {
+      "id": "e4c8c567-8548-46ce-9b97-378be3c9258f",
+      "title": "恋してビャンビャン麺",
+      "artist": "ごいちー",
+      "isrc": "JPB622101351",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/3MQt0AAXro1naMsObjW5OL",
+      "isFallback": false
+    },
+    {
+      "id": "f8544f7b-b0a8-4d77-895f-5457d252f204",
+      "title": "Swimming Dancing",
+      "artist": "SAWA",
+      "isrc": "JPES00902741",
+      "releaseDate": "2009-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/4UcTRPiXybnrsy06t5xwNC",
+      "isFallback": true
+    },
+    {
+      "id": "14242eea-f23f-4bdb-ad98-e473b21ccc15",
+      "title": "JuicyBaby",
+      "artist": "ごいちー",
+      "isrc": "JPB622101352",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/3Q7VwXY8RkHkaLu8pyANwP",
+      "isFallback": false
+    },
+    {
+      "id": "99cdaec9-c9c6-41f4-88ad-57f9f9f4db0c",
+      "title": "Dokin",
+      "artist": "小桃音まい",
+      "isrc": "",
+      "releaseDate": "2015-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c11b0247-a948-40c9-936c-abce2194b650",
+      "title": "へなちょこ",
+      "artist": "KOTO",
+      "isrc": "TCJPO2113736",
+      "releaseDate": "2021-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6G2SttUdDQ6BMgvh5OJyOC",
+      "isFallback": true
+    },
+    {
+      "id": "207149d7-dbcf-4f19-94f4-123ecee9f8b0",
+      "title": "ファンタジーGoGo",
+      "artist": "KOTO",
+      "isrc": "",
+      "releaseDate": "2020-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6bba8084-2eec-4ee1-a9b0-4b31426650ad",
+      "title": "Prelude",
+      "artist": "MEWCATUNE",
+      "isrc": "TCJPU2221625",
+      "releaseDate": "2022-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/3Hlu0Q3H3qhoc7QF8ofata",
+      "isFallback": true
+    },
+    {
+      "id": "824a4946-7351-4607-ba8c-ee312fc2e718",
+      "title": "上の空モード",
+      "artist": "ごいちー",
+      "isrc": "JPB622000333",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/2t0hYIVq0YID3G0rOlCvGw",
+      "isFallback": false
+    },
+    {
+      "id": "27d9546e-251b-46ee-89ff-e95632f62e6a",
+      "title": "インターネットコミュニケーション",
+      "artist": "ごいちー",
+      "isrc": "JPB622201274",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/6AhJHBfIGZ4K3cLcxs55Xm",
+      "isFallback": false
+    },
+    {
+      "id": "2a9132c3-5d33-43fb-af9c-6b496ab3077e",
+      "title": "World‐Wide Tea Party",
+      "artist": "SAWA",
+      "isrc": "JPES00902742",
+      "releaseDate": "2009-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/0c3QI3ujLHB3MjZcn2nSrO",
+      "isFallback": true
+    },
+    {
+      "id": "f0cb4a1f-745e-4c1a-b4b4-c9293d9cea2d",
+      "title": "Sketch",
+      "artist": "千代浦あやめ",
+      "isrc": "JPPC01701293",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/0Hj3estoS1LZluoQnKw16c",
+      "isFallback": false
+    },
+    {
+      "id": "b16a464c-f387-41c9-b7d1-b981079f34cd",
+      "title": "Imitation",
+      "artist": "ごいちー",
+      "isrc": "JPB622201275",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/2nTTams8dlpfGULjXUxFYE",
+      "isFallback": false
+    },
+    {
+      "id": "d6b31812-bd14-486b-9a93-f6d78a7a46fc",
+      "title": "ギザギザのロンリナイ",
+      "artist": "KOTO",
+      "isrc": "TCJPO2115013",
+      "releaseDate": "2015-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/4tsgvXJdMPZft7UHgVV1Aw",
+      "isFallback": true
+    },
+    {
+      "id": "916dff1c-cc64-4cb8-86e5-cf78addea826",
+      "title": "Good day Sunshine",
+      "artist": "SAWA",
+      "isrc": "JPM901200122",
+      "releaseDate": "2012-12-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "301bb45e-cfd6-482f-899a-e3a5a986907d",
+      "title": "17Android",
+      "artist": "KOTO",
+      "isrc": "",
+      "releaseDate": "2020-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "607ef2fe-97df-4bf6-827f-b9f55c46dfb0",
+      "title": "ねいちゃーファンタジー",
+      "artist": "ねうちゃん",
+      "isrc": "TCJPZ2469707",
+      "releaseDate": "2017-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/2j9B20fg712FSqOsgzWEPc",
+      "isFallback": true
+    },
+    {
+      "id": "dbe0dd0c-1ad0-4402-a970-539372ea65eb",
+      "title": "限界リズム",
+      "artist": "ごいちー",
+      "isrc": "JPB622000328",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/0UXwLPVSmWClZ2oL6XS01s",
+      "isFallback": false
+    }
+  ]
+}

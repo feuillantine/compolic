@@ -1,0 +1,609 @@
+{
+  "name": "増田武史",
+  "sortName": "マスダタケシ",
+  "tracks": [
+    {
+      "id": "8fe7e300-25d1-4e3d-bf91-c20b473b47dd",
+      "title": "赤い棘のギルティ",
+      "artist": "茅原実里",
+      "isrc": "JPI101101062",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/67osXQIujPLQkxEfFsMOZP",
+      "isFallback": true
+    },
+    {
+      "id": "eb77c8f1-abc5-448b-afae-0dfef346c985",
+      "title": "Wishing",
+      "artist": "皆本光一",
+      "isrc": "JPPI00952020",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5kQ4HE7AWYew4vWx7p2fJ1",
+      "isFallback": true
+    },
+    {
+      "id": "4842ed8b-1083-4653-b3a5-147d896bfe3e",
+      "title": "セイシュンTIP-OFF!!～MVP黛ver.",
+      "artist": "黛千尋",
+      "isrc": "JPI101501939",
+      "releaseDate": "2015-11-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f7d436d4-7329-4635-9ed3-a3313d66f3e7",
+      "title": "LΛST RESOLUTION (Japanese ver.)",
+      "artist": "Emblem of THE UNLIMITED",
+      "isrc": "JPPI01253781",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/2K4m1fcaKtV7BCkQiJRgvL",
+      "isFallback": true
+    },
+    {
+      "id": "16dfbbc4-0100-4530-8809-6b0b16c266e9",
+      "title": "Ride On Funky Night",
+      "artist": "小野大輔",
+      "isrc": "JPI101102450",
+      "releaseDate": "2011-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/16aMmZzvnkXnVYBL3BnU1M",
+      "isFallback": true
+    },
+    {
+      "id": "9286f492-cab0-40b7-b2db-d795eadb280c",
+      "title": "i-n-g, I TRY!!",
+      "artist": "Aqours",
+      "isrc": "JPI101901041",
+      "releaseDate": "2019-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/75BWxImDf5JsKXmNiMCCfN",
+      "isFallback": true
+    },
+    {
+      "id": "4e8c80b2-1980-4a7e-a87b-f62ee08ca656",
+      "title": "UNLIMITED ～∞～ reloaded",
+      "artist": "賢木修二",
+      "isrc": "JPPI00952000",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/5pMkT7QBWAYjkVBnjsjgUo",
+      "isFallback": true
+    },
+    {
+      "id": "1145dadc-0027-4e40-9925-8e1c85c2684b",
+      "title": "叱咤純愛1,chu,3!!",
+      "artist": "小野大輔",
+      "isrc": "JPI101102451",
+      "releaseDate": "2011-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/29xEsDlJ6xbC72hFlRg7VD",
+      "isFallback": true
+    },
+    {
+      "id": "8343dec0-5780-41d2-a974-ab9cedb00d25",
+      "title": "LΛST RESOLUTION (English ver.)",
+      "artist": "Emblem of THE UNLIMITED",
+      "isrc": "JPPI01253780",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/69IU8YuHmIarxkJmFOSxif",
+      "isFallback": true
+    },
+    {
+      "id": "c303ee01-326a-436e-8078-6497ea502db2",
+      "title": "ピリオドのない雨",
+      "artist": "井口裕香",
+      "isrc": "JPQ461600356",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/531XZgGitEgwVbmJgmQBTW",
+      "isFallback": true
+    },
+    {
+      "id": "e6b4584b-a9b2-4ae5-bdf3-42ac9bdfc2fa",
+      "title": "栄光までのラン&ガン",
+      "artist": "火神大我",
+      "isrc": "JPI101200707",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "33af893a-0e40-4731-9b8a-b15fe41a1521",
+      "title": "熱烈ANSWER",
+      "artist": "小野大輔",
+      "isrc": "JPI101002183",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/2e7vFaazWPjHLQDzDVkIKt",
+      "isFallback": true
+    },
+    {
+      "id": "9aeddef7-523a-42d2-a418-b2a8b0c24131",
+      "title": "光るよ",
+      "artist": "東京女子流",
+      "isrc": "JPB601900101",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/2tNqZQri6LsOCNbgcWsqQ6",
+      "isFallback": true
+    },
+    {
+      "id": "3b6d029e-cb3d-4235-b434-d637e6abe680",
+      "title": "消えない想い",
+      "artist": "eyelis",
+      "isrc": "JPQ461500534",
+      "releaseDate": "2016-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/2e65JhRHaVXmWn4lrOGC1U",
+      "isFallback": true
+    },
+    {
+      "id": "2d3a3312-ef68-491d-a9c5-42dad3d194b7",
+      "title": "Dandy Darlin'",
+      "artist": "SMAP",
+      "isrc": "JPVI00525270",
+      "releaseDate": "2005-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84aea168-f46e-436b-8e8c-8df5118cf84b",
+      "title": "漢一貫ロックン・ロール",
+      "artist": "紅井朱雀",
+      "isrc": "JPI101701475",
+      "releaseDate": "2017-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/5kQfkb81bAbA4fOTFZakFg",
+      "isFallback": false
+    },
+    {
+      "id": "ed0af5cb-185e-4937-9ea2-5c0941c446d6",
+      "title": "恋のメリーゴーランド",
+      "artist": "Trignal",
+      "isrc": "JPI101301562",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/394EBY1HHdcxuI2OuDVd97",
+      "isFallback": true
+    },
+    {
+      "id": "8ca22995-de08-47ea-8466-a8df70504483",
+      "title": "pain",
+      "artist": "東京女子流",
+      "isrc": "JPB601401956",
+      "releaseDate": "2014-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/3R2jGzabO8mSGsBHLGBPQH",
+      "isFallback": true
+    },
+    {
+      "id": "5d8ee251-1659-492c-9e1a-9aba7728c1f9",
+      "title": "voyage",
+      "artist": "佐伯遙子",
+      "isrc": "JPX402300068",
+      "releaseDate": "2023-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/0ltWOTXUcZf7uuBP3nsgtx",
+      "isFallback": false
+    },
+    {
+      "id": "fee1dd54-15bc-4917-9edd-d8c15d7dcbbf",
+      "title": "アニマルっていいな",
+      "artist": "はなまるアニマル",
+      "isrc": "JPVI02002403",
+      "releaseDate": "2020-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/22p4xy7UtUL65xnlMXAU59",
+      "isFallback": false
+    },
+    {
+      "id": "b78ce491-b19b-4e59-912a-bb7db85ab6bf",
+      "title": "FINAL EMPEROR",
+      "artist": "赤司征十郎",
+      "isrc": "JPI101500933",
+      "releaseDate": "2015-07-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da90fa59-f753-46a9-9d8f-582c9f9bbf48",
+      "title": "YES!! 鮫柄水泳部",
+      "artist": "似鳥愛一郎",
+      "isrc": "JPI101802944",
+      "releaseDate": "2018-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/6ES9T8EnyFc3qdYNytuuzX",
+      "isFallback": true
+    },
+    {
+      "id": "7a633df5-18b5-4c6a-b51c-95a95af79cdf",
+      "title": "筆跡の彼方",
+      "artist": "九十九一希",
+      "isrc": "JPI102300467",
+      "releaseDate": "2023-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/2IHhUwKn9gmSp13XW7gpXl",
+      "isFallback": false
+    },
+    {
+      "id": "0efbdaed-51b3-476b-8d90-308d4472044c",
+      "title": "SHOUT!!!",
+      "artist": "黒子テツヤ",
+      "isrc": "JPI101201541",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b63bfede-dc4f-4503-b9ab-8831cf71725f",
+      "title": "鉄人戦車T28!",
+      "artist": "山形ユキオ",
+      "isrc": "JPI101502052",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/7DKmH4155XGhYiqp3vhoIv",
+      "isFallback": true
+    },
+    {
+      "id": "c49b2d64-59f7-4362-ab94-e21320bf684c",
+      "title": "とある信者の果敢な毎日",
+      "artist": "緑間真太郎",
+      "isrc": "",
+      "releaseDate": "2012-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59ef9611-4120-4238-b15d-7caf545b0a49",
+      "title": "ホカフタリズム",
+      "artist": "花菱美希",
+      "isrc": "",
+      "releaseDate": "2013-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5e63b0e-74cc-423c-a90b-d56a5df7d973",
+      "title": "情熱...FIGHTER",
+      "artist": "THE 虎牙道",
+      "isrc": "JPI101601407",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0L0lYumdB3mlE6HSOygnkH",
+      "isFallback": false
+    },
+    {
+      "id": "a560c07e-a0ac-4fcb-ba9c-e6a75ff57d36",
+      "title": "UNLIMITED ～∞～",
+      "artist": "兵部京介",
+      "isrc": "",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "40e4e998-3c69-4ee8-a668-9f3bc74f072a",
+      "title": "MUSEUMでどうしたい?",
+      "artist": "Printemps",
+      "isrc": "JPI101500682",
+      "releaseDate": "2015-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/4qD6yV5uh0Z9oZ1qnVDto2",
+      "isFallback": true
+    },
+    {
+      "id": "f7623765-4b35-49a0-bf3b-aff304eedea4",
+      "title": "Celebration",
+      "artist": "eyelis",
+      "isrc": "JPPI01252680",
+      "releaseDate": "2012-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/5YrRFi0ymu69Q8L8LDtQJL",
+      "isFallback": true
+    },
+    {
+      "id": "ce215238-b096-4435-a016-8a4ac8b0f687",
+      "title": "秋のあなたの空遠く",
+      "artist": "lily white",
+      "isrc": "JPI101402272",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/7yu62Yz6s09WJPXTokgpPN",
+      "isFallback": true
+    },
+    {
+      "id": "439b5d55-a04f-413b-9f3b-03995b1ab910",
+      "title": "Shinin' Days",
+      "artist": "小野大輔",
+      "isrc": "JPI101002184",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/4KZzDtK1RwdD47fablmRAc",
+      "isFallback": true
+    },
+    {
+      "id": "d2e2eed4-a5b2-43b4-8165-dad5e9ce2a97",
+      "title": "美しい地球を知る者よ",
+      "artist": "美郷あき",
+      "isrc": "JPI101200901",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/4ylCIKiajmoG0n7ccS4zMa",
+      "isFallback": true
+    },
+    {
+      "id": "f3045848-3a42-4660-99fc-d176046445c2",
+      "title": "RIVAL & BROTHER",
+      "artist": "火神大我",
+      "isrc": "JPI101500071",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8dd8872-1edd-4f18-9dfd-bd15c89199c2",
+      "title": "Neo Eden",
+      "artist": "スフィア",
+      "isrc": "JPI101100744",
+      "releaseDate": "2011-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/6PLAmd9E4fnUUp1UjwPAH5",
+      "isFallback": true
+    },
+    {
+      "id": "e143adf2-aafc-4798-ab16-7b17af95f480",
+      "title": "Happy Bell が聞きたくて",
+      "artist": "竹達彩奈",
+      "isrc": "",
+      "releaseDate": "2012-10-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8333add-da31-44dc-8cc1-9eca3df8e3c5",
+      "title": "GO! Ⅳ! IT!",
+      "artist": "影山ヒロノブ",
+      "isrc": "JPI101502050",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/7qNXfKTADuiYY5gd22VqGa",
+      "isFallback": true
+    },
+    {
+      "id": "d91410d5-ec0a-4170-80cc-99a3593bf9da",
+      "title": "誠凛One-One騒動記",
+      "artist": "黒子テツヤ",
+      "isrc": "JPI101302633",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5dd77a54-596d-4d15-9a26-e105f247218e",
+      "title": "Junkies",
+      "artist": "=LOVE",
+      "isrc": "JPU902300011",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/7cbOHzXxyrewFh37LZq325",
+      "isFallback": true
+    },
+    {
+      "id": "38791523-4294-41d0-b883-ccc7f8043e44",
+      "title": "超重戦車級王者マウス",
+      "artist": "蝶野正洋",
+      "isrc": "JPI101502051",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/6wnO9dsM69vVXoVKoNQ5B6",
+      "isFallback": true
+    },
+    {
+      "id": "1f7ad845-6b0f-4447-8ac3-e03e9021dd1d",
+      "title": "熱情! Burning Voltage",
+      "artist": "紅井朱雀",
+      "isrc": "JPI102301085",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/1KeTzT0rvc2iOxIKv3DzeN",
+      "isFallback": false
+    },
+    {
+      "id": "aa628fdd-f10a-45c0-bd01-769e09df4a36",
+      "title": "ジレるハートに火をつけて",
+      "artist": "灼熱少女",
+      "isrc": "JPI101402322",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk",
+      "isFallback": false
+    },
+    {
+      "id": "06b0f526-2b46-4c99-b983-bdc60419a199",
+      "title": "一撃入魂☆ペガサスパンチ",
+      "artist": "ビコーペガサス",
+      "isrc": "JPI101801138",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/7Enah2xXHF2PGyxeHld2bH",
+      "isFallback": true
+    },
+    {
+      "id": "5b8f0644-6602-4aa5-bdfe-ac7ffc099a52",
+      "title": "ドリームタウン",
+      "artist": "バンドじゃないもん!",
+      "isrc": "JPPC01700098",
+      "releaseDate": "2017-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/2IwCj41ZbchRNBNPc1KTZT",
+      "isFallback": true
+    },
+    {
+      "id": "835c0e20-c932-4646-9975-24c751c03bdf",
+      "title": "My pace，My road",
+      "artist": "Trignal",
+      "isrc": "JPI101702516",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/3zEG1eEJSxZBmzuHcVliF9",
+      "isFallback": true
+    },
+    {
+      "id": "a5510cd6-eb8b-4c82-b5c4-e3f6d039a100",
+      "title": "Honest Times",
+      "artist": "結城アイラ",
+      "isrc": "JPI101800792",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/2JM7KScH5y1PPB2MfQ0Pit",
+      "isFallback": true
+    },
+    {
+      "id": "64d484e4-940e-4d00-b620-d0ebbf563a77",
+      "title": "モバイルバッテリー",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101901277",
+      "releaseDate": "2019-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/7M1noJ2krs8Ia8dH4KYALL",
+      "isFallback": true
+    },
+    {
+      "id": "86773587-9824-49a4-b2cc-6bd04a45e042",
+      "title": "A・NO・NE",
+      "artist": "ゴールドシチー",
+      "isrc": "JPI102101936",
+      "releaseDate": "2018-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/08iEcb8JEhae8ZKWUUKKqI",
+      "isFallback": true
+    },
+    {
+      "id": "eb2444c5-aad2-4c04-a645-748c2b32ee91",
+      "title": "タソガレドキ、Bluesy",
+      "artist": "神速一魂",
+      "isrc": "JPI102201746",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2OW82yZTeHhQtoE3u6E5ZS",
+      "isFallback": false
+    },
+    {
+      "id": "cf78d6d3-2046-4ad1-b1dc-a7fc33acb511",
+      "title": "Dance with Minotaurus",
+      "artist": "Aqours",
+      "isrc": "JPI101901397",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/1JxplhTPVobgdxEV685vde",
+      "isFallback": true
+    },
+    {
+      "id": "29af70f8-fa13-40d1-b610-202b1381624f",
+      "title": "この手で抱きとめるから オンエアーver.",
+      "artist": "喜多修平",
+      "isrc": "JPI101200874",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "68b0b2ee-388a-41bf-8ef8-a819fec1ee41",
+      "title": "超能力者にありがとう",
+      "artist": "霊幻新隆",
+      "isrc": "JPQ461600369",
+      "releaseDate": "2016-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/63dW94dtE7HTLWWlk1ZedU",
+      "isFallback": true
+    },
+    {
+      "id": "b8a03d3a-7ea9-4c0b-ad7d-265db10c0006",
+      "title": "ROUTE77",
+      "artist": "神速一魂",
+      "isrc": "JPI102200793",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/07gyF0ccEzjaikrbsgIgK8",
+      "isFallback": false
+    },
+    {
+      "id": "dca298e0-6565-4fba-90f3-2e55645081ca",
+      "title": "Happy Kaleidoscope",
+      "artist": "茅原実里",
+      "isrc": "JPI101100053",
+      "releaseDate": "2011-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/47U2Mimr3jOnd5nnfnzRKX",
+      "isFallback": true
+    },
+    {
+      "id": "57e8d6d7-d7d4-43d6-ae73-03d3daece9a7",
+      "title": "勇敢なるキミヘ",
+      "artist": "FRAME",
+      "isrc": "JPI101502530",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/4n69mfDTmf1oNbwGPcoFv4",
+      "isFallback": false
+    },
+    {
+      "id": "a5a31dce-42a1-4a71-afc6-2d9dfac3259b",
+      "title": "恋はミらいからクル?",
+      "artist": "朝比奈みくる",
+      "isrc": "JPI101500812",
+      "releaseDate": "2015-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/6CNc7yZZaFadkozKDvEGL5",
+      "isFallback": true
+    },
+    {
+      "id": "a7e4a35f-be4c-4f0c-b796-a29e2265cd7c",
+      "title": "Let me burn!!",
+      "artist": "青峰大輝",
+      "isrc": "JPI101401628",
+      "releaseDate": "2014-08-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "90ed48cd-0600-48c4-8d8c-95d99ea154e0",
+      "title": "絆にのせて",
+      "artist": "eyelis",
+      "isrc": "JPQ461500236",
+      "releaseDate": "2015-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/7EtFkGJ3vyabAGO0fSepME",
+      "isFallback": true
+    },
+    {
+      "id": "30a5a20c-c386-4e94-9408-3fecc2187fc7",
+      "title": "万能戦車センチュリオン",
+      "artist": "宮内タカユキ",
+      "isrc": "JPI101502053",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/1OPeO033gP6GLGGpy0YlS5",
+      "isFallback": true
+    },
+    {
+      "id": "94628505-a802-4afb-b36e-4453b6664295",
+      "title": "サマーハイテンション☆",
+      "artist": "葉月渚",
+      "isrc": "JPI101303082",
+      "releaseDate": "2014-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/5C27ouxKyhFNfntN5LyLuv",
+      "isFallback": true
+    },
+    {
+      "id": "aa5aa695-c558-4ec7-9470-23a1931d703e",
+      "title": "シャ・ラ・ラ",
+      "artist": "滝沢秀明",
+      "isrc": "JPB600920701",
+      "releaseDate": "2009-05-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55bcd89a-5aea-4ff3-9c13-e66819c33be0",
+      "title": "ティーガー・フィーバー!",
+      "artist": "遠藤正明",
+      "isrc": "JPI101502054",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/2VoXY0fw1KkTqhouNcYXRh",
+      "isFallback": true
+    },
+    {
+      "id": "0e916201-dbc4-44fd-a5f8-1619a5964ac8",
+      "title": "Justice・伝説を刻め!",
+      "artist": "ブレイブバトルウォーリアーズ",
+      "isrc": "JPI101001558",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1nbRqD0Zbaa6RGsPiAhao7",
+      "isFallback": true
+    },
+    {
+      "id": "9b0e32dd-c5ff-420a-bba3-ab2ce381ad99",
+      "title": "ハートの独占権",
+      "artist": "NMB48",
+      "isrc": "JPN001400318",
+      "releaseDate": "2014-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/3Nw5udXuZHdnPF1sem6A8p",
+      "isFallback": true
+    },
+    {
+      "id": "066dc35e-15e2-4eea-8a0a-7d5bab7067c9",
+      "title": "Storm in Lover",
+      "artist": "園田海未",
+      "isrc": "JPI101401753",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/3OraxsSXFuqckOfrszEDy1",
+      "isFallback": true
+    },
+    {
+      "id": "8afb1991-5606-468b-978c-fb9b0bec3e4b",
+      "title": "KEEP OUT",
+      "artist": "瞬",
+      "isrc": "",
+      "releaseDate": "2011-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

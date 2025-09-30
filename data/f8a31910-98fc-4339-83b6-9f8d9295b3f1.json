@@ -1,0 +1,24 @@
+{
+  "name": "伊藤嵩也",
+  "sortName": "イトウタカヤ",
+  "tracks": [
+    {
+      "id": "5bfb25aa-fd08-4bfc-8fdc-9629ae59a73a",
+      "title": "OJO -Ordinary JK Opportunity-",
+      "artist": "お嬢",
+      "isrc": "JPI101600257",
+      "releaseDate": "2016-03-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e234f629-5228-4457-b8ac-a3eeda759c2a",
+      "title": "絶対忠誠♡なのなのら!",
+      "artist": "姫森ルーナ",
+      "isrc": "JPV752205483",
+      "releaseDate": "2022-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/6liBpqWXGEHpfA5rdcvBan",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "name": "ひじり",
+  "sortName": "ヒジリ",
+  "tracks": [
+    {
+      "id": "cca71e24-93c9-4577-932f-6f9b532b5120",
+      "title": "春愁",
+      "artist": "YO1YO",
+      "isrc": "TCJPD2547431",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3EvNoKIDfmUKYJf0sFDhmU",
+      "isFallback": true
+    },
+    {
+      "id": "44a62e4c-cf31-488c-9cf8-cbd44617a4b2",
+      "title": "Re:カワイイシンジュク",
+      "artist": "あかつき るき",
+      "isrc": "QT66J2556845",
+      "releaseDate": "2025-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/54S6IiLOqJmP6bzePcTLfF",
+      "isFallback": true
+    },
+    {
+      "id": "46cc6509-0571-4da5-b09b-5c2a1fd6e495",
+      "title": "end roll",
+      "artist": "YO1YO",
+      "isrc": "TCJPU2222048",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2vWhp2IokFXfeBnBKx2wjj",
+      "isFallback": false
+    },
+    {
+      "id": "8eec2360-9153-426f-8504-7225f73b95b1",
+      "title": "Lyrics",
+      "artist": "ひじり",
+      "isrc": "TCJPM2067223",
+      "releaseDate": "2020-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/5m4lWrSehikGj7gGdP6l96",
+      "isFallback": true
+    },
+    {
+      "id": "195a8a68-bca3-4042-8651-727e4d067b37",
+      "title": "花筏",
+      "artist": "YO1YO",
+      "isrc": "TCJPD2547436",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/74Qmvdn9599UPOhVbTOHxj",
+      "isFallback": true
+    },
+    {
+      "id": "cc2b0609-af7d-4982-99f1-1304ea3f1e2f",
+      "title": "花曇り",
+      "artist": "YO1YO",
+      "isrc": "TCJPU2222055",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/39rFLFdtsXtn8j5h9QkZe7",
+      "isFallback": false
+    },
+    {
+      "id": "86a3e372-d9ad-405d-a1ac-32225b2cf7f4",
+      "title": "ネコひねり問題",
+      "artist": "yosumi",
+      "isrc": "TCJPX2307015",
+      "releaseDate": "2023-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3M5aDEzWlKwSx9wv3SbV3C",
+      "isFallback": false
+    },
+    {
+      "id": "e9ab50d8-c125-475f-9393-f98b3a57c78c",
+      "title": "カワイイシンジュク",
+      "artist": "あかつきるき",
+      "isrc": "TCJPQ2128256",
+      "releaseDate": "2021-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/6UlvIrN5MGqqe6Kd7DMw8T",
+      "isFallback": false
+    },
+    {
+      "id": "a3659fe8-791c-4473-aa42-ebd23b5562b7",
+      "title": "サマーイデア",
+      "artist": "あかつきるき",
+      "isrc": "TCJPQ2128364",
+      "releaseDate": "2021-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/5UAkswtgXhaGAywmZIWrfn",
+      "isFallback": false
+    },
+    {
+      "id": "7791608a-668f-4008-9ff7-06f9da6ae485",
+      "title": "hypoxia",
+      "artist": "ひじり",
+      "isrc": "TCJPQ2126624",
+      "releaseDate": "2021-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/2QKgfOh3mwc8fw0Nhhc6Jv",
+      "isFallback": true
+    },
+    {
+      "id": "11fb02c9-cc7a-4b84-8092-2e0e85140d29",
+      "title": "不時着",
+      "artist": "YO1YO",
+      "isrc": "TCJPU2222050",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/44sZfZa2KFatjXYb7ct48S",
+      "isFallback": false
+    },
+    {
+      "id": "fa32f2e7-3ae5-471b-a4d5-2ba88854c3a3",
+      "title": "sleep in",
+      "artist": "真名瀬ゆあ",
+      "isrc": "TCJPI2516261",
+      "releaseDate": "2024-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/0bZprdNZnKKCVXBNFafEL9",
+      "isFallback": true
+    },
+    {
+      "id": "20995754-8b9e-4546-9834-2159649bfa1f",
+      "title": "Prologue",
+      "artist": "YO1YO",
+      "isrc": "JPPO09902110",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/6hC8fCkStK93lxi1ZXYUGh",
+      "isFallback": true
+    },
+    {
+      "id": "594fd028-d758-4df4-9c93-3684f3a7f780",
+      "title": "Re:サマーイデア",
+      "artist": "あかつき るき",
+      "isrc": "QT66J2556842",
+      "releaseDate": "2025-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/327AkV6Ada4N2wfzsbb4tj",
+      "isFallback": true
+    },
+    {
+      "id": "1e2a852a-2530-4131-904f-cd500eaa1327",
+      "title": "潮汐",
+      "artist": "夕凪潮",
+      "isrc": "TCJPO2116580",
+      "releaseDate": "2021-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6sjnSatEOsXEdKmEwiUZ9V",
+      "isFallback": true
+    },
+    {
+      "id": "d482e1df-bcda-4452-9fb4-c16f1cc93edc",
+      "title": "青痣",
+      "artist": "YO1YO",
+      "isrc": "TCJPU2222053",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/162U4Z86r6PYG62tQT039o",
+      "isFallback": false
+    },
+    {
+      "id": "80a22763-580a-4e9e-b7e7-f2bd43a575d7",
+      "title": "Lyrical",
+      "artist": "ひじり",
+      "isrc": "TCJPM2099659",
+      "releaseDate": "2020-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/49BAqR9lpedOuXmT5D8Fcs",
+      "isFallback": true
+    },
+    {
+      "id": "3a308659-3a69-44f4-8aa1-4af52f122fff",
+      "title": "ひみつのふたり",
+      "artist": "式部めぐり",
+      "isrc": "TCJPS2249172",
+      "releaseDate": "2022-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/36dtmwIqPDnqozpWlicdAu",
+      "isFallback": false
+    },
+    {
+      "id": "decf3b65-60fb-4b15-a8c7-61df50b05c00",
+      "title": "さいきんのこと",
+      "artist": "ヨシナ",
+      "isrc": "TCJPL2088750",
+      "releaseDate": "2020-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1weVUeBGVZS7mqTBNXY0im",
+      "isFallback": true
+    },
+    {
+      "id": "15549f5c-4b21-4790-af68-f1bf50fc79b9",
+      "title": "朝靄",
+      "artist": "YO1YO",
+      "isrc": "TCJPD2547434",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0Nd1aCqBRvNsIaiKgPZz5a",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "name": "TOKOTOKO",
+  "sortName": "トコトコ",
+  "tracks": [
+    {
+      "id": "81b837bd-7afd-4fcf-9165-10e3e8b49fe4",
+      "title": "迷子ライフ",
+      "artist": "TOKOTOKO",
+      "isrc": "JPE560901313",
+      "releaseDate": "2011-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7d3Mey2ZxyIvaCK7mf121S",
+      "isFallback": true
+    },
+    {
+      "id": "ee99dd75-3fb9-4c61-b153-b4dd3815fd6d",
+      "title": "君色に染まる",
+      "artist": "TOKOTOKO",
+      "isrc": "JPA651603425",
+      "releaseDate": "2017-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/3ukTSowrOwM3zjXR1BpX7w",
+      "isFallback": true
+    },
+    {
+      "id": "76aea9a1-8022-4251-a0e4-902a45943809",
+      "title": "恋する女子はユズれない",
+      "artist": "泉優鈴",
+      "isrc": "JPPC02211591",
+      "releaseDate": "2021-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/5KpDpxeUhCPXMz7TjhMvmG",
+      "isFallback": true
+    },
+    {
+      "id": "421d8253-c182-454e-a4d8-1269a73a79ed",
+      "title": "Booo!",
+      "artist": "MORE MORE JUMP!",
+      "isrc": "JPX302357900",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/4audWJqBNy5j7umQ0rQXTo",
+      "isFallback": true
+    },
+    {
+      "id": "37b32858-b348-4202-873d-fab5fd8dc1be",
+      "title": "風来",
+      "artist": "夏代孝明",
+      "isrc": "",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e392859b-db08-4bd8-925e-db22262364e3",
+      "title": "uni‐birth",
+      "artist": "湊あくあ",
+      "isrc": "JPV752105338",
+      "releaseDate": "2021-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/2vcODCwLMSfShxouynk1Mz",
+      "isFallback": true
+    },
+    {
+      "id": "14dcd605-4039-441b-b7d5-2d7e93d7886a",
+      "title": "泣き虫アンサンブル (custom)",
+      "artist": "西沢さんP",
+      "isrc": "JPA651804331",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/3q84om9eJVVIW11T2efEw6",
+      "isFallback": true
+    },
+    {
+      "id": "6c0e8924-604a-47ae-9241-258c67ffb047",
+      "title": "投資家レコーズ (custom)",
+      "artist": "西沢さんP",
+      "isrc": "JPA651201925",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/2k9oA22JuvjBZXDQhTwwyH",
+      "isFallback": true
+    },
+    {
+      "id": "16f1e676-4533-4f04-99a4-022aeb3f4f19",
+      "title": "アセロラ",
+      "artist": "西沢さんP",
+      "isrc": "JPA651603555",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/3atdEey0xqZLiY1A6K6BEm",
+      "isFallback": true
+    },
+    {
+      "id": "cf9cf040-781d-44ff-b159-f532d2150702",
+      "title": "マイルームコレクション",
+      "artist": "夢乃ゆき",
+      "isrc": "TCJPK2060969",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/4X4NnEkHGYWT1ecVRDlsG8",
+      "isFallback": true
+    },
+    {
+      "id": "7ad7d978-c97d-4175-9fe2-6dcbcd2debc1",
+      "title": "ウソナキスト (custom)",
+      "artist": "西沢さんP",
+      "isrc": "JPA651804332",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/5R8xXYPD1xCXR8AF5m2UGp",
+      "isFallback": true
+    },
+    {
+      "id": "594ee684-9a32-405a-86ba-ce94ba739726",
+      "title": "夜もすがら君想ふ",
+      "artist": "七尾",
+      "isrc": "",
+      "releaseDate": "2014",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22f3c7e3-f949-4790-9579-c717bfa0f52a",
+      "title": "エメラルドシティ",
+      "artist": "TOKOTOKO (西沢さんP)",
+      "isrc": "JPA651603627",
+      "releaseDate": "2014-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/0S4Gcey9wO0qtVHLsK6oqV",
+      "isFallback": true
+    },
+    {
+      "id": "60517d12-0a37-4f16-8900-8107f9660c86",
+      "title": "YOUTH",
+      "artist": "古谷朱里",
+      "isrc": "JPPC01700935",
+      "releaseDate": "2017-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/68JOc4dg6hCbxfLxTuApKR",
+      "isFallback": false
+    },
+    {
+      "id": "957744c3-c1de-4ba4-b5c6-aa8011146fd6",
+      "title": "ミュンヒハウゼン (custom)",
+      "artist": "西沢さんP",
+      "isrc": "JPA651804194",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/5tOj0nX5Z3yLGI8IeVYXzc",
+      "isFallback": true
+    },
+    {
+      "id": "df6bb264-9eea-4d82-88aa-627f3d724516",
+      "title": "水曜日に御用心",
+      "artist": "日本橋サンダー雷",
+      "isrc": "JPR502205079",
+      "releaseDate": "2022-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/42IZpwq8y9O5cy2hIoXoTs",
+      "isFallback": false
+    },
+    {
+      "id": "d1c23c7e-0385-460f-be55-38b48f24085f",
+      "title": "瑠璃色に染めて",
+      "artist": "TOKOTOKO",
+      "isrc": "",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3ce5ca07-dd5e-490b-9063-87caa6ac294d",
+      "title": "ハッピーエンドをはじめから",
+      "artist": "リゼ・ヘルエスタ",
+      "isrc": "JPY252100136",
+      "releaseDate": "2022-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/75hWbIKvzVPeDSse1MUVku",
+      "isFallback": true
+    },
+    {
+      "id": "10840d77-2546-4218-bade-49bc9e0962e1",
+      "title": "格子の心臓",
+      "artist": "TOKOTOKO (西沢さんP)",
+      "isrc": "JPC231100434",
+      "releaseDate": "2011-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/3osOAIo17De5fUgU6KKG1E",
+      "isFallback": true
+    },
+    {
+      "id": "41a9d6db-ea0b-47ab-894d-763d38bbc917",
+      "title": "ワールドワイドワンダー",
+      "artist": "MORE MORE JUMP!",
+      "isrc": "JPX302240740",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/60qo580KmAckevZZHShbTn",
+      "isFallback": true
+    },
+    {
+      "id": "bc758589-308c-4691-985d-d5dcac7967ba",
+      "title": "「本日は星天なり」星屑れんver.",
+      "artist": "星屑れん",
+      "isrc": "JPB601861415",
+      "releaseDate": "2018-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/2UYvna8PuTqalHfqgqL6oQ",
+      "isFallback": true
+    },
+    {
+      "id": "672a5412-087d-424c-9996-e4eaf08fde46",
+      "title": "KONKON Beats",
+      "artist": "白上フブキ",
+      "isrc": "JPV752206503",
+      "releaseDate": "2022-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/2QPzxEJMyyNAwNStemSrCz",
+      "isFallback": false
+    },
+    {
+      "id": "a13a0c87-0452-444f-b607-b8198847b5f2",
+      "title": "フライトタイム (custom)",
+      "artist": "西沢さんP",
+      "isrc": "JPA651804196",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/17IYjRbl139ZCKnsACaM1q",
+      "isFallback": true
+    },
+    {
+      "id": "7444f49f-eb95-49af-8fec-34f51c981333",
+      "title": "初球打ちのススメ",
+      "artist": "TOKOTOKO",
+      "isrc": "JPA651603626",
+      "releaseDate": "2013-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/45QIVuEvQQqRohzzhu3yCo",
+      "isFallback": true
+    },
+    {
+      "id": "0b65567c-d8bd-4a9f-98d5-b994294fc80e",
+      "title": "ラフミーテンダー",
+      "artist": "白銀ノエル",
+      "isrc": "JPV752307938",
+      "releaseDate": "2023-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/5JKJ68chCnrT73YN0cEqRR",
+      "isFallback": true
+    },
+    {
+      "id": "17d6bc4b-51fb-444a-9a31-0085a5d5ae9b",
+      "title": "メルティチーズフリーク",
+      "artist": "りぶ",
+      "isrc": "JPVI02501049",
+      "releaseDate": "2025-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/7fEYKTdlyVrqV7HYfjUuFY",
+      "isFallback": true
+    },
+    {
+      "id": "ef396516-fbc9-4798-bc9d-e3da2464b09b",
+      "title": "Sunday Sunset",
+      "artist": "夢乃ゆき",
+      "isrc": "TCJPI1836930",
+      "releaseDate": "2018-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/0ekePYxcggchXlcGW73XYD",
+      "isFallback": true
+    },
+    {
+      "id": "5bfb7fe6-6ace-4c59-9697-f8b83d99aa48",
+      "title": "ヘルシーな生活",
+      "artist": "あやぽんず＊",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9906c0c-6ff3-4f28-84cd-b01383b85ae2",
+      "title": "君色に染まる 〜アース・スター ドリームver.〜",
+      "artist": "アース・スタードリーム",
+      "isrc": "JPZ921612424",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/2jneRs9ffriF5KEErMYVWr",
+      "isFallback": true
+    },
+    {
+      "id": "cfc2ee97-4bdf-49a4-8848-a2846421c6e6",
+      "title": "ピュアで小悪魔",
+      "artist": "尾崎由香",
+      "isrc": "JPWP01970697",
+      "releaseDate": "2019-08-07",
+      "spotifyUrl": "https://open.spotify.com/track/1yXMLho8GuTMtPXkFpGhe8",
+      "isFallback": true
+    }
+  ]
+}

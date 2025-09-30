@@ -1,0 +1,168 @@
+{
+  "name": "フワリ",
+  "sortName": "フワリ",
+  "tracks": [
+    {
+      "id": "2ca113b0-ae54-4057-9434-5782375a0099",
+      "title": "笑顔のPromise",
+      "artist": "Liella!",
+      "isrc": "JPI102403067",
+      "releaseDate": "2024-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/2GPn7Vr268GI9kc3F7eTmo",
+      "isFallback": true
+    },
+    {
+      "id": "78516328-8082-436d-b0bc-b6a7d8855185",
+      "title": "HEAT BEAT “Identity”",
+      "artist": "秋山隼人",
+      "isrc": "JPI102201685",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7CcNyRFO3wLdQfHcaZrJHg",
+      "isFallback": false
+    },
+    {
+      "id": "0ec7b44f-01b8-4f1e-9e94-d083523752a6",
+      "title": "Wish Song",
+      "artist": "Liella!",
+      "isrc": "JPI102102484",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/1yJlVyoOuFlYVjwaaFufhK",
+      "isFallback": false
+    },
+    {
+      "id": "197d9992-5ea1-4fc9-93f7-79c881beb97d",
+      "title": "異世界管理局創造課",
+      "artist": "悠木碧",
+      "isrc": "JPCO02031790",
+      "releaseDate": "2021-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/76DHP6B6hO4Kbm90kcw3Hw",
+      "isFallback": true
+    },
+    {
+      "id": "d6e724d4-8366-48b9-b5b6-e9763437c2bb",
+      "title": "SCOREBOOK Memories",
+      "artist": "冬美旬",
+      "isrc": "JPI102201686",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/50eDv4GUifKxEi0Vn1lmPS",
+      "isFallback": false
+    },
+    {
+      "id": "390dc151-9ca3-4863-a0e0-48974437d077",
+      "title": "283体操",
+      "artist": "シャイニーカラーズ",
+      "isrc": "JPI102201883",
+      "releaseDate": "2022-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dcc81798-210e-4a91-8f7b-8485d7c932f7",
+      "title": "Addicted to you",
+      "artist": "青山なぎさ",
+      "isrc": "JPC102400254",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/7h1kXlZF6ZPKQ3FomJTVtx",
+      "isFallback": true
+    },
+    {
+      "id": "50fbc4ca-b05c-4451-9a95-42794e4e1fa5",
+      "title": "ウェイ・ダ・アイドル",
+      "artist": "ARMooo",
+      "isrc": "JPI102100442",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/3SQvjrac3297GC3EU11DRc",
+      "isFallback": false
+    },
+    {
+      "id": "0d6814b4-62fc-4d3f-9cd5-9d9c9180174e",
+      "title": "wake up",
+      "artist": "青山なぎさ",
+      "isrc": "JPC102400257",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6QoMJsnTaa7HAcq6FOSYWQ",
+      "isFallback": true
+    },
+    {
+      "id": "f4f511ec-017d-46e4-b42b-773b5b3e6750",
+      "title": "Twinkle Ticking",
+      "artist": "石原夏織",
+      "isrc": "JPPC02410937",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4e7lTGc1z3jRmluGJaOhV3",
+      "isFallback": true
+    },
+    {
+      "id": "1b4f1ada-1267-41d8-819a-b8d973ff8fd1",
+      "title": "俺こそオンリーワン",
+      "artist": "MORISAKI WIN",
+      "isrc": "JPCO02202140",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/0dZUGz2insvRdr5t1vL21R",
+      "isFallback": true
+    },
+    {
+      "id": "bef85e87-3400-4240-9b27-3249bd266c9c",
+      "title": "ラキハピファンタスティック",
+      "artist": "コパノリッキー",
+      "isrc": "JPZ922212599",
+      "releaseDate": "2022-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/3KSNAmXrVyiffT8tySOR7n",
+      "isFallback": false
+    },
+    {
+      "id": "e83efb90-4f76-4a63-a7f9-acfadb98adbc",
+      "title": "What a Wonderful Dream!!",
+      "artist": "Liella!",
+      "isrc": "JPI102200180",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ",
+      "isFallback": false
+    },
+    {
+      "id": "74ec5831-e7ca-4589-9277-7795b6d6fb1a",
+      "title": "キミと",
+      "artist": "青山なぎさ",
+      "isrc": "JPC102400165",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/71DLTwiR51bLSROxDQk3gX",
+      "isFallback": true
+    },
+    {
+      "id": "7da421c3-3f6a-4afe-b3b3-a00655af3a96",
+      "title": "おんなじキモチ。",
+      "artist": "安野希世乃",
+      "isrc": "JPVI02101593",
+      "releaseDate": "2021-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/4XRrzeERbcFUim2M7x2fBd",
+      "isFallback": true
+    },
+    {
+      "id": "d6157b0d-6ffa-4c97-b054-fae53d64ce00",
+      "title": "To My Dear",
+      "artist": "石原夏織",
+      "isrc": "JPPC02311213",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/0Tw8OJEL7T4VaEtRcNCJbd",
+      "isFallback": false
+    },
+    {
+      "id": "d63a3180-b455-47be-a9ce-28bb877d2b61",
+      "title": "フルスロットル！！！！！！",
+      "artist": "松永依織",
+      "isrc": "JPR502200482",
+      "releaseDate": "2022-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/4Fhb6RQnkWtUAQnhbxcZhv",
+      "isFallback": false
+    },
+    {
+      "id": "ed508517-f992-48fa-89e5-ce79ba2a1db7",
+      "title": "たいせつなもの",
+      "artist": "初星学園",
+      "isrc": "JPX832005983",
+      "releaseDate": "2025-02-06",
+      "spotifyUrl": "https://open.spotify.com/track/532m0pyYz7Yk5w7w2x6z4P",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "石井浩平",
+  "sortName": "イシイコウヘイ",
+  "tracks": [
+    {
+      "id": "75e08f1f-d24d-46d3-b37c-439269010e0e",
+      "title": "人生はSTEP!",
+      "artist": "℃‐ute",
+      "isrc": "JPA601600073",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/3GdmWBLSVuR59TdmnsghAO",
+      "isFallback": true
+    },
+    {
+      "id": "ef7ef620-2766-40c6-90fd-a52fdc060d00",
+      "title": "とっておきのオシャレをして",
+      "artist": "勝田里奈",
+      "isrc": "JPA601900343",
+      "releaseDate": "2019-11-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

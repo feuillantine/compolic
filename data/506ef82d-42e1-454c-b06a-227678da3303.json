@@ -1,0 +1,69 @@
+{
+  "name": "オッカ",
+  "sortName": "オッカ",
+  "tracks": [
+    {
+      "id": "1abc5ec8-2bf3-4c95-b988-b26d0b8eb69c",
+      "title": "悠久プレジール",
+      "artist": "Flare Rune",
+      "isrc": "TCJPV2367639",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3dM2yiYRRUlQwSGYdqnxzy",
+      "isFallback": true
+    },
+    {
+      "id": "6fe69eba-f3e2-4463-b534-fe9e2fff3715",
+      "title": "こしょこしょしょ",
+      "artist": "Mamyukka",
+      "isrc": "JPW462220170",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/5zpYvFR6PSP24PMbRIjGiX",
+      "isFallback": true
+    },
+    {
+      "id": "69ddfff9-830e-486c-864d-86b7fb6647cc",
+      "title": "祓イ歌",
+      "artist": "Mamyukka",
+      "isrc": "JPW462220171",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4ijdpj6zXci4czKmMZehVF",
+      "isFallback": true
+    },
+    {
+      "id": "a52e14eb-fbb9-4545-9cf0-f05ff618a7e0",
+      "title": "ハッピー×サマー×アイスメーカー",
+      "artist": "もちこまめ",
+      "isrc": "",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ab5d1fe3-9d71-4bee-a517-a0c062066328",
+      "title": "CAN GIRL",
+      "artist": "ななひら",
+      "isrc": "TCJPL2082099",
+      "releaseDate": "2020-05-05",
+      "spotifyUrl": "https://open.spotify.com/track/31b0VKQi1srkQFKtXln8Il",
+      "isFallback": true
+    },
+    {
+      "id": "9f210e80-072b-4a57-81cd-ae858b571234",
+      "title": "庭には一羽",
+      "artist": "Mamyukka",
+      "isrc": "JPW462220172",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/59oK0K3Zoe0m0ObxlaaiY8",
+      "isFallback": true
+    },
+    {
+      "id": "5ba251d8-af96-4158-9080-e665dfb01f4c",
+      "title": "メルヘン・ファンタジー",
+      "artist": "BΣretta Crossrain",
+      "isrc": "TCJPA2496532",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/4zYnEkDBU3Szd1MR62Q5K9",
+      "isFallback": true
+    }
+  ]
+}

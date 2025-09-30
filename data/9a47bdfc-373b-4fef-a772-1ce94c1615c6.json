@@ -1,0 +1,42 @@
+{
+  "name": "竹内サティフォ",
+  "sortName": "タケウチサティフォ",
+  "tracks": [
+    {
+      "id": "aa1e64e4-f5f8-4356-a768-92e705f1c901",
+      "title": "恋は世界定理と共に",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02210453",
+      "releaseDate": "2022-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1uPFyE1ybsHohtyrx8ZReP",
+      "isFallback": false
+    },
+    {
+      "id": "6de802b2-aab6-4235-bb49-51a3aac1e31b",
+      "title": "来世なんて待ってらんない",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02310756",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/45prFYz8OXjiiDgxoMdlDV",
+      "isFallback": false
+    },
+    {
+      "id": "e6085ef8-ce72-469b-a87c-cb343ae3f29a",
+      "title": "HIKIGANE",
+      "artist": "さとりモンスター",
+      "isrc": "JPJ492000019",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/7BV37sWc1G0yrhEYa2xr7G",
+      "isFallback": true
+    },
+    {
+      "id": "e5e893cf-26ed-4e96-877c-2c7d4353f082",
+      "title": "フラストレーション",
+      "artist": "雨模様のソラリス",
+      "isrc": "JPC622400601",
+      "releaseDate": "2024-06-18",
+      "spotifyUrl": "https://open.spotify.com/track/5q2tkSx4hYlZEAifs9hv2w",
+      "isFallback": true
+    }
+  ]
+}

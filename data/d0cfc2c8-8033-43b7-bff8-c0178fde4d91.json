@@ -1,0 +1,456 @@
+{
+  "name": "久下真音",
+  "sortName": "クシタマイン",
+  "tracks": [
+    {
+      "id": "c7f8701c-c671-45ac-882d-f2c77d90e3f4",
+      "title": "テクノテクノ",
+      "artist": "Cupitron",
+      "isrc": "",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d3c62c3-df55-47fc-87d0-251d03da8f13",
+      "title": "恋愛パクチー",
+      "artist": "キミのね",
+      "isrc": "JPK632304201",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/6Q7SxLxqqzHjtcDyLtbSPf",
+      "isFallback": true
+    },
+    {
+      "id": "4cd8dd73-5d86-435c-85dc-905a8282bfc5",
+      "title": "Ace Of Pentacles",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102102772",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/056upg6LOnFwDwzgVgxgbn",
+      "isFallback": true
+    },
+    {
+      "id": "59550a3b-5546-4e90-9693-18e12a25ab7b",
+      "title": "眠れない魔物",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01911352",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/00Wiox2A9mgWQGiX9sRary",
+      "isFallback": true
+    },
+    {
+      "id": "af2251e1-c2b5-4cd3-a42c-c7a4fb1d8e9c",
+      "title": "らぶ・マワル・地球",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439125",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/63XrtK87HD9CXx3RfFdedv",
+      "isFallback": true
+    },
+    {
+      "id": "5e9c97ef-93b5-47f4-aa5d-a8ec341e1205",
+      "title": "ロボットボーイ ロボットガール",
+      "artist": "Cupitron",
+      "isrc": "JPL801528001",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5b53bf49-df3e-4906-951a-c624c22780a1",
+      "title": "ここにいるよ",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632105302",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/10tLxbVcfEJ9DM8dIBhse2",
+      "isFallback": true
+    },
+    {
+      "id": "77da9f52-c94b-4ac9-911f-9ce4bb08b4bd",
+      "title": "一分間だけ夢を見る",
+      "artist": "Cupitron",
+      "isrc": "",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "705ffeb7-a183-4345-ac2e-785899c09d0f",
+      "title": "エとセとラ",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439112",
+      "releaseDate": "2017-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0oJF0SCMJqCs2cWdwYBzeK",
+      "isFallback": true
+    },
+    {
+      "id": "795a613a-958f-4fcc-aa7a-ae2facb00ab0",
+      "title": "My Life is Beautiful",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632105303",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/0mfOo2BeQFKL1KSAg0tUDl",
+      "isFallback": true
+    },
+    {
+      "id": "08d105d2-bb50-4dc6-9074-c675b9ab2b85",
+      "title": "タオルを回すための歌",
+      "artist": "PiXMiX",
+      "isrc": "JPKI02013825",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3ghRxRzUT8P9RIC5BFTMIW",
+      "isFallback": true
+    },
+    {
+      "id": "291c20e3-46ea-4008-844f-ae400f0c4f8a",
+      "title": "オトメゴコロ",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631701603",
+      "releaseDate": "2017-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/3jKovDx9CKSSVV8StqCpW8",
+      "isFallback": true
+    },
+    {
+      "id": "2b05d97e-6e0e-4f1f-a418-5bf1a67e5ba7",
+      "title": "マルチバース・アドベンチャー",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652300212",
+      "releaseDate": "2024-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U",
+      "isFallback": true
+    },
+    {
+      "id": "9c75a4db-f149-4089-af5b-7ab5562b75de",
+      "title": "おさかなソング",
+      "artist": "つりビット",
+      "isrc": "JPL801481002",
+      "releaseDate": "2014-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/4jyGA5RZL9wfQF5t2UjNdm",
+      "isFallback": true
+    },
+    {
+      "id": "20437357-8cb0-4152-a14b-cef8f12e34d3",
+      "title": "sympathy melody",
+      "artist": "EyesLink",
+      "isrc": "JPX742000216",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/7cBYp7kl6kGT0gBVg5BDaN",
+      "isFallback": false
+    },
+    {
+      "id": "112e2203-ff1c-45fb-ad76-e838fe815bb5",
+      "title": "Say \"I love you\"",
+      "artist": "亜咲花",
+      "isrc": "JPK632201502",
+      "releaseDate": "2022-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/2rlIXWg7yx9HXdBcMCJ6ZD",
+      "isFallback": true
+    },
+    {
+      "id": "acea158a-bfcb-4d64-bf1c-fdb342424c06",
+      "title": "Hello True my heart",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102100013",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/6aRNwqAnEWJerWbKTKjNSV",
+      "isFallback": true
+    },
+    {
+      "id": "98326505-0d31-44e2-8f1a-724209e55ad6",
+      "title": "naturally",
+      "artist": "あるねしうむ",
+      "isrc": "JPX742000214",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/00ziiYOBvLRv7w9SHHdLSM",
+      "isFallback": false
+    },
+    {
+      "id": "89f821df-6016-40d1-8a5b-3a12c64ef925",
+      "title": "ぼくの初恋心拍論",
+      "artist": "キミのね",
+      "isrc": "JPK632304101",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0N76p3X5EPTToOHsKX8wOi",
+      "isFallback": true
+    },
+    {
+      "id": "0ace8bc1-4fb1-4a25-b544-e1989c1894ac",
+      "title": "レイドバックジャーニー",
+      "artist": "キミのね",
+      "isrc": "JPK632401301",
+      "releaseDate": "2024-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/7gAXePaogDXebFVcmN8DEU",
+      "isFallback": true
+    },
+    {
+      "id": "673d81a5-a91f-45af-989f-78782384931e",
+      "title": "P-P-P-PERO",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652400081",
+      "releaseDate": "2024-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/51B7M78gRDEYzXAtwdj9cM",
+      "isFallback": true
+    },
+    {
+      "id": "5035925b-87f7-4138-986f-07cb7e0a4c5d",
+      "title": "繚乱★はろうぃん",
+      "artist": "津田越前守助廣",
+      "isrc": "JPPC01801477",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/3fjUBAQuRGC7AwrvHTOLmC",
+      "isFallback": true
+    },
+    {
+      "id": "d15b1c6d-1506-472c-9f7d-84de72d7f442",
+      "title": "お約束たいそう2",
+      "artist": "片山実波",
+      "isrc": "JPT551800191",
+      "releaseDate": "2019-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/2atikS9ggsZJhQmRMAwOab",
+      "isFallback": true
+    },
+    {
+      "id": "a6f3770b-8744-4e93-b717-1ac42b6b09b5",
+      "title": "20",
+      "artist": "HACHI",
+      "isrc": "TCJPO2106511",
+      "releaseDate": "2021-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6bFcZ8s7ZCqsHP3hA938Kb",
+      "isFallback": true
+    },
+    {
+      "id": "01997652-6005-4113-ac82-1f2fc28e932e",
+      "title": "ヒトリガタリ",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102001141",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/0u74oX84K4E3GbZuwm7NmV",
+      "isFallback": true
+    },
+    {
+      "id": "b4a362e4-b2c7-4a9b-aa06-3dda4f09c0e5",
+      "title": "LIFE of LIFE of LIFE!",
+      "artist": "成瀬瑛美",
+      "isrc": "TCJPR2277206",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/14dnMUYJf2zBBFzaxjraX9",
+      "isFallback": false
+    },
+    {
+      "id": "83706f94-2566-4656-8a85-6d7c2f2796ba",
+      "title": "POP IN 2",
+      "artist": "B小町",
+      "isrc": "JPD732400981",
+      "releaseDate": "2024-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH",
+      "isFallback": true
+    },
+    {
+      "id": "f353af2f-aba1-4320-b4dd-254dbc7bc0d6",
+      "title": "宇宙でミルクココア",
+      "artist": "Cupitron",
+      "isrc": "JPL801528002",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6314864e-e627-413b-aaa6-1041722c300a",
+      "title": "あいくらふと",
+      "artist": "キミのね",
+      "isrc": "JPK632500103",
+      "releaseDate": "2025-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/1jE7oyUD2V1jlB0Dat0OpB",
+      "isFallback": true
+    },
+    {
+      "id": "62026f53-5511-4762-a888-93b2165734fa",
+      "title": "Shining City Lights",
+      "artist": "ukka",
+      "isrc": "JPX952100035",
+      "releaseDate": "2021-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/3jKEdtlvtdr124qfPRnHXn",
+      "isFallback": true
+    },
+    {
+      "id": "49e55c9a-298e-437d-a45a-9c2123b635c3",
+      "title": "ドンケア",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102101595",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/5FbVw6Jh5956iQjf8YtjVT",
+      "isFallback": true
+    },
+    {
+      "id": "dc7c348d-04c2-425d-946b-34d5fc674a34",
+      "title": "ハピバ！",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602203563",
+      "releaseDate": "2022-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/54D3qpctanSdHtdZyECLNl",
+      "isFallback": true
+    },
+    {
+      "id": "8ac5c99c-6c0e-4233-8e26-4c593b895169",
+      "title": "Glitter",
+      "artist": "Two for all",
+      "isrc": "JPW372400101",
+      "releaseDate": "2024-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/1goSWTfyIYEqMqEprF1d2H",
+      "isFallback": true
+    },
+    {
+      "id": "185f707f-9a8d-4701-8924-dd99b5beea56",
+      "title": "そう MANY! リュウソウル",
+      "artist": "Sister MAYO",
+      "isrc": "JPCO01926790",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/626fKAGl9nLdT90HXgxJko",
+      "isFallback": true
+    },
+    {
+      "id": "08dbd5d2-8b37-47b8-af0c-e233e0f0db9f",
+      "title": "Echochrome",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102201881",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/5b7QMGdYwKJ0fY9tdYAYp0",
+      "isFallback": true
+    },
+    {
+      "id": "696a4148-7d20-466b-8107-d880580015f2",
+      "title": "Ready Set Go!!",
+      "artist": "亜咲花",
+      "isrc": "JPK632200101",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/6w6SwAb2zS9egj4mfx2Jw7",
+      "isFallback": true
+    },
+    {
+      "id": "3fd8535a-959f-4da2-aabd-29770cfac6b2",
+      "title": "旦那様とのラブラブ・ラブソング",
+      "artist": "フェンリース",
+      "isrc": "JPPC02410894",
+      "releaseDate": "2024-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/2IwsVdAImV88Yu6S899WCb",
+      "isFallback": true
+    },
+    {
+      "id": "98ad3e53-f3d5-4588-b15a-028216f6d0be",
+      "title": "123!",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102000360",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3qpKeAPTDxJ0ZUNIXdjaqZ",
+      "isFallback": true
+    },
+    {
+      "id": "8342a823-670d-4c8a-8076-c1e087b106bb",
+      "title": "BANBANBAN",
+      "artist": "ときめき♡宣伝部",
+      "isrc": "JPPO01705832",
+      "releaseDate": "2017-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/4rTBYTh6wYr69DfDfx1yfZ",
+      "isFallback": true
+    },
+    {
+      "id": "f56c5658-3623-4627-b24a-7073af8a9de1",
+      "title": "急なロマンティック",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651810004",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/3jLd9rOhnfWxxLhrJyWXPg",
+      "isFallback": true
+    },
+    {
+      "id": "9c624b7b-53dd-4c53-81d5-e2aa5e3f9178",
+      "title": "電子計算機の夢",
+      "artist": "Cupitron",
+      "isrc": "",
+      "releaseDate": "2015-02-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8bb4bc43-0c0b-4be3-971a-73a1d7dd4bff",
+      "title": "ナニモノローグ",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102301770",
+      "releaseDate": "2023-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/2UYkrlBr2uKi7Yp0JglSLq",
+      "isFallback": false
+    },
+    {
+      "id": "aa734950-1e19-4e21-b426-e040497ad439",
+      "title": "Yap!!",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439116",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/286gPuATNtGQCiPlgx3Dbw",
+      "isFallback": true
+    },
+    {
+      "id": "de02a79c-8910-42d5-82e0-fd27f2752ca2",
+      "title": "はじまりの鐘",
+      "artist": "鶯丸友成",
+      "isrc": "JPPC02001895",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/7mqI0e2NfsYa7sCyfNAQDl",
+      "isFallback": true
+    },
+    {
+      "id": "988598ec-c7b2-4467-9f51-b6960f15883b",
+      "title": "かんたん！はじめてのソウナンマニュアル",
+      "artist": "あほむし",
+      "isrc": "JPT551900957",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/2kaRxvCDLFXhfvgKxKdC1z",
+      "isFallback": true
+    },
+    {
+      "id": "2ec7e4de-989e-48f2-99f3-0a440810b0b9",
+      "title": "お約束たいそう",
+      "artist": "片山実波",
+      "isrc": "JPT551600173",
+      "releaseDate": "2016-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/3fWrH1bqmvOiHf6cKXBKnF",
+      "isFallback": true
+    },
+    {
+      "id": "a1284713-38b9-4516-afe9-7e2edebc7c4b",
+      "title": "TWO of WANDS",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102100012",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/24MAsTJiii5QKGIg3qNs7Z",
+      "isFallback": true
+    },
+    {
+      "id": "ae65ba1e-2a57-4e38-b923-a939e9f081fa",
+      "title": "サマーカイジュウ Akufen remix",
+      "artist": "Cupitron",
+      "isrc": "JPL801528009",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0fe7d8d7-a242-44a4-a764-dd65cb3ce2da",
+      "title": "桜流し",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02312129",
+      "releaseDate": "2023-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/0eZJFRch6xZZ3YK1tLbOdk",
+      "isFallback": true
+    },
+    {
+      "id": "0716cee6-d6ff-4870-acca-ed17509af66d",
+      "title": "夢は何歳まで?",
+      "artist": "日向坂46",
+      "isrc": "JPU902102783",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4OCjbSLOlF0pNn6bCRWkAj",
+      "isFallback": true
+    }
+  ]
+}

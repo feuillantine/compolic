@@ -1,0 +1,393 @@
+{
+  "name": "fu_mou",
+  "sortName": "フモウ",
+  "tracks": [
+    {
+      "id": "0c9a43b8-a3c9-4161-9d56-7c7fff116202",
+      "title": "アシタノニオイ",
+      "artist": "源モモ",
+      "isrc": "JPPC01801768",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/28H43k2KmSkqzmH9kvAUjw",
+      "isFallback": false
+    },
+    {
+      "id": "b0f74de4-1109-47b4-897e-026306b68036",
+      "title": "キミのもとへ!",
+      "artist": "京乃まどか",
+      "isrc": "",
+      "releaseDate": "2012-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "107d9579-9636-4ce2-8f46-2b4122597b20",
+      "title": "“What\" are you?",
+      "artist": "Photon Maiden",
+      "isrc": "JPR561900281",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/2Ct9YTZUwVzN09rrXHlT8k",
+      "isFallback": true
+    },
+    {
+      "id": "f0cc2065-636d-4dc4-9357-95845adf8176",
+      "title": "Brand New World",
+      "artist": "Happy Around!",
+      "isrc": "JPR562300533",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3kFfM2kVuaTZWuuWgDFcn1",
+      "isFallback": true
+    },
+    {
+      "id": "7e7289b0-ca9f-4d6e-8c3f-b2418145d252",
+      "title": "A lot of life",
+      "artist": "Photon Maiden",
+      "isrc": "JPR561900332",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/2SzmI1i4bAgVkAm5f6ib6F",
+      "isFallback": true
+    },
+    {
+      "id": "b3eb5ed8-34ea-463a-b5bf-1b20274cd31e",
+      "title": "ミラクルステップ",
+      "artist": "YURiKA",
+      "isrc": "JPY522100005",
+      "releaseDate": "2022-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/4GnTFpcHpJOnJwOQ3V1aWI",
+      "isFallback": true
+    },
+    {
+      "id": "3121b692-9fab-4505-b091-427bc6278290",
+      "title": "Party!Party!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400079",
+      "releaseDate": "2014-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/5d9j5BBa8adKpAPTBBDj7A",
+      "isFallback": true
+    },
+    {
+      "id": "8e5634b3-a5bc-4620-88d8-943f2d8e808c",
+      "title": "Flag Ship",
+      "artist": "内田真礼",
+      "isrc": "JPPC01900903",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/4Cq11LICxDAAlIhgAyVLV5",
+      "isFallback": true
+    },
+    {
+      "id": "1269a9aa-6f59-420a-963e-3c2b45d1b40a",
+      "title": "Applause",
+      "artist": "内田真礼",
+      "isrc": "JPPC01702797",
+      "releaseDate": "2018-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/3MweyFbyIJ2dILGUQ9s794",
+      "isFallback": true
+    },
+    {
+      "id": "680b4341-3dc9-47dc-80da-868323be3a01",
+      "title": "ぽんと PUSH! もっと SMILE!",
+      "artist": "片山実波",
+      "isrc": "JPT551701056",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/6iaqsQiSxkC4Zc2ON2UbXA",
+      "isFallback": true
+    },
+    {
+      "id": "08691654-39c6-4463-bb6d-1e7a12d66abe",
+      "title": "Crossroads",
+      "artist": "鈴木このみ",
+      "isrc": "JPD732100011",
+      "releaseDate": "2021-05-07",
+      "spotifyUrl": "https://open.spotify.com/track/7cEDlUZnXVaGYobQRKpzTE",
+      "isFallback": true
+    },
+    {
+      "id": "5074a170-eb04-4009-a8c3-3fec336d74ba",
+      "title": "Braver.",
+      "artist": "羽多野渉",
+      "isrc": "JPT551700531",
+      "releaseDate": "2017-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/1ZN3MYxn3egtAMgVBIpBkF",
+      "isFallback": true
+    },
+    {
+      "id": "a5575def-cd28-4b5b-bfe5-27cd0afaa3a5",
+      "title": "ヒトリイロ",
+      "artist": "nonoc",
+      "isrc": "JPD732100002",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/7iBMIK33oM7idZRfSLMwxR",
+      "isFallback": true
+    },
+    {
+      "id": "f9866246-d967-47dc-afaa-33403daec368",
+      "title": "あの坂の上まで、",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601300137",
+      "releaseDate": "2013-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/3WZhD8OSkp36RhsClDivEs",
+      "isFallback": true
+    },
+    {
+      "id": "33abf6f7-c9aa-4b44-9577-e2a351d7a205",
+      "title": "FRAGMENTS",
+      "artist": "平野綾",
+      "isrc": "JPPO01207029",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/40vQAqdeSKYnjhyhxzUUQA",
+      "isFallback": true
+    },
+    {
+      "id": "81b3dfac-3184-4438-b414-f23113e98901",
+      "title": "暁",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200320",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3uLrVy2tjE4HTcviMeOG66",
+      "isFallback": true
+    },
+    {
+      "id": "2483923f-5858-4daf-9259-3dd98635cd8f",
+      "title": "アタリマエの距離",
+      "artist": "三澤紗千香",
+      "isrc": "JPQ461200195",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/0EoYF3HCoAvMRHKvwBIhZp",
+      "isFallback": true
+    },
+    {
+      "id": "06e064e9-688a-426d-b422-a0ada2709b61",
+      "title": "Sing and Dance!",
+      "artist": "YURI!!! on ICE",
+      "isrc": "JPT551600966",
+      "releaseDate": "2016-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/4oJqdm8jIe83yWG186U8JE",
+      "isFallback": true
+    },
+    {
+      "id": "3c36f37d-654c-4c10-82a3-ba6f6554fc14",
+      "title": "スターダストライト",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPN101200826",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/0luVUUZuZPb4OTrrARIswX",
+      "isFallback": true
+    },
+    {
+      "id": "1bd3cca0-a1c2-4884-8742-9e70b0cbef46",
+      "title": "Pray for Blue",
+      "artist": "CYNHN",
+      "isrc": "JPTE01904020",
+      "releaseDate": "2019-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/5TZXHzjj2mQagjXU65Es4E",
+      "isFallback": false
+    },
+    {
+      "id": "d4fb5c4b-bfbf-4790-9bd2-5cefdb2292f9",
+      "title": "君と、この瞬間",
+      "artist": "イロドリミドリ",
+      "isrc": "JPX302133360",
+      "releaseDate": "2021-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/1t3YhuhzjZn1TwEAdTxFRf",
+      "isFallback": true
+    },
+    {
+      "id": "1af54577-d3e1-499e-baa8-452063becd21",
+      "title": "超ステップアップ",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602102907",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/2Qia96zJyUTjNrr6SVIkbC",
+      "isFallback": true
+    },
+    {
+      "id": "fb463eb4-8408-483b-b074-bdef39f96e43",
+      "title": "金色の勇気",
+      "artist": "内田真礼",
+      "isrc": "JPPC01502462",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/0EfeF1yCLBFfD5lJf3k91b",
+      "isFallback": true
+    },
+    {
+      "id": "9240a960-8e60-4e8b-8821-bb91bb990201",
+      "title": "Oath",
+      "artist": "ロクサーヌ",
+      "isrc": "JPD732200139",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/072ZcnluX81kzj9Qj7bIp7",
+      "isFallback": true
+    },
+    {
+      "id": "1f35961a-f715-46c3-99ff-72d823027a3f",
+      "title": "楽園",
+      "artist": "nonoc",
+      "isrc": "JPD732301131",
+      "releaseDate": "2023-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/0es7TqT1GKiHBt2HBTucXm",
+      "isFallback": true
+    },
+    {
+      "id": "9e37b3c3-56e0-4e3a-b2d5-a4a239a4eee3",
+      "title": "夕立ち!スルー・ザ・レインボー",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601200256",
+      "releaseDate": "2012-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/0N8sCyEI0hOAZFHvPHHfC3",
+      "isFallback": true
+    },
+    {
+      "id": "d089784a-512d-4443-9d72-05e9e6dac772",
+      "title": "unchain.",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01354730",
+      "releaseDate": "2013-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/7lW8dvDfJYtj6xeC9YSHU5",
+      "isFallback": true
+    },
+    {
+      "id": "260acba3-2e76-4488-a8b4-434cfcd65476",
+      "title": "OVERCOME",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200322",
+      "releaseDate": "2022-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/0z5LXRrCAkbTwtOPPhCRiI",
+      "isFallback": true
+    },
+    {
+      "id": "a0a3873e-26f1-4ed6-ab9b-fd19b53fb411",
+      "title": "靴紐とファンファーレ",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU901703037",
+      "releaseDate": "2017-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/42OCOCUjr8UI6vpp6NlXoH",
+      "isFallback": true
+    },
+    {
+      "id": "dcbf14fb-c2d6-4d98-be92-09f3bdbee96b",
+      "title": "薄紅デイトリッパー",
+      "artist": "れみ",
+      "isrc": "JPI101501388",
+      "releaseDate": "2015-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz",
+      "isFallback": true
+    },
+    {
+      "id": "47d63c2a-1858-4ea5-b0d5-238f93f39d15",
+      "title": "ヒスイ",
+      "artist": "nonoc",
+      "isrc": "JPD732100537",
+      "releaseDate": "2022-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/6KDWMhF98I6TMXu58AhDnr",
+      "isFallback": true
+    },
+    {
+      "id": "95b4ef9f-c893-4e14-bea0-2c4d1758d207",
+      "title": "Linked Ring",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200444",
+      "releaseDate": "2022-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4D83azYEoaePklOYfBGgcV",
+      "isFallback": true
+    },
+    {
+      "id": "53b8a3dd-8d08-4002-b178-aecd271e02da",
+      "title": "ストレラ!〜Straight Up!〜",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601300038",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/1gZYLB3YQgDZw4aVow0K3B",
+      "isFallback": true
+    },
+    {
+      "id": "9ed167a7-da01-459b-95a6-8ce8e387f230",
+      "title": "光",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562100257",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/42CUZHrM2HCp3drZjUjMjW",
+      "isFallback": true
+    },
+    {
+      "id": "995a2e31-43af-48db-916b-b31429230d9a",
+      "title": "Brand New Bright Step",
+      "artist": "三澤紗千香",
+      "isrc": "JPQ461200196",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/0VEkkFBNaWc8VVhuhiSmsK",
+      "isFallback": true
+    },
+    {
+      "id": "d9f5292f-3f2f-44ab-b41d-2c6aa3daddcf",
+      "title": "アフターグロウ",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01500600",
+      "releaseDate": "2015-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/7hRZ99XkYjAaz6V9rwgyJY",
+      "isFallback": true
+    },
+    {
+      "id": "419e487c-6775-4f3f-83e9-cb44dddaebd2",
+      "title": "Into the Light",
+      "artist": "yosumi",
+      "isrc": "",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8aa496b5-2bae-4793-bd66-ad62d5a26567",
+      "title": "Abyssal Drop",
+      "artist": "fu_mou",
+      "isrc": "JPTO01200417",
+      "releaseDate": "2016-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/4mcXjyH0zeAn694cix8hH8",
+      "isFallback": true
+    },
+    {
+      "id": "af4ef6b2-6802-44f3-bbd3-b6c74368bc89",
+      "title": "KALEIDOSCOPE",
+      "artist": "ナノ",
+      "isrc": "JPG751300064",
+      "releaseDate": "2013-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/2gL2P4lhAavbXykJr6yRyx",
+      "isFallback": false
+    },
+    {
+      "id": "848cab88-3f9a-4eed-8001-466166da4ad5",
+      "title": "このメロディを君と",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400146",
+      "releaseDate": "2014-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/7sQqsBKh9gxBad2NbASyX7",
+      "isFallback": true
+    },
+    {
+      "id": "4603bd4c-d643-4b50-9ea0-5aad7a22e826",
+      "title": "H-A-J-I-M-A-R-I-U-T-A-!!",
+      "artist": "777☆SISTERS",
+      "isrc": "JPZ921504631",
+      "releaseDate": "2015-05-20",
+      "spotifyUrl": "https://open.spotify.com/track/7K3gIACqasNXWuztmYRsP5",
+      "isFallback": true
+    },
+    {
+      "id": "544d59f2-80f6-4d38-bebd-5f2290aace64",
+      "title": "Change Our MIRAI!",
+      "artist": "イロドリミドリ",
+      "isrc": "JPX301504190",
+      "releaseDate": "2015-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0FDABu3xKjx6PUPsnUugND",
+      "isFallback": true
+    },
+    {
+      "id": "f60af8ee-9e3b-4f58-b5ea-0443020d9028",
+      "title": "Innocent Blue",
+      "artist": "Trident",
+      "isrc": "JPG751300482",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/1MHPVxWzntoGr3EBX1gaOH",
+      "isFallback": true
+    }
+  ]
+}

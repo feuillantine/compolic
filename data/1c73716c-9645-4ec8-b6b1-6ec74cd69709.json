@@ -1,0 +1,42 @@
+{
+  "name": "さとうもか",
+  "sortName": "サトウモカ",
+  "tracks": [
+    {
+      "id": "be7fd22a-550a-44e7-b05c-17a0197320cd",
+      "title": "推≒恋",
+      "artist": "ukka",
+      "isrc": "JPTE02403120",
+      "releaseDate": "2024-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/7fDpsZ02KtDM6FH96D2kOe",
+      "isFallback": true
+    },
+    {
+      "id": "a759ddcb-387e-4202-941e-e3b944c083a8",
+      "title": "Everyday",
+      "artist": "さとうもか",
+      "isrc": "JPWP02400239",
+      "releaseDate": "2024-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY",
+      "isFallback": false
+    },
+    {
+      "id": "a39e21f8-0c7b-4bec-baf1-91c88f7130e5",
+      "title": "Lukewarm",
+      "artist": "さとうもか",
+      "isrc": "JPV501800127",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/3ye3kttvMF7RqVGUZFXaPp",
+      "isFallback": true
+    },
+    {
+      "id": "4a28136f-6176-47a9-8f81-6f6a7b738ed2",
+      "title": "予定",
+      "artist": "さとうもか",
+      "isrc": "TCJPY2483587",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN",
+      "isFallback": false
+    }
+  ]
+}

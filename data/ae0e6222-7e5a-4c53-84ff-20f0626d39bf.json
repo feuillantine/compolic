@@ -1,0 +1,1266 @@
+{
+  "name": "照井順政",
+  "sortName": "テルイヨシマサ",
+  "tracks": [
+    {
+      "id": "998327a7-76ed-45e1-b94f-72645b7feb9e",
+      "title": "呪術師・伏黒恵",
+      "artist": "照井順政",
+      "isrc": "JPV432100201",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/44oikQHnyJ2PFofLZp7beL",
+      "isFallback": true
+    },
+    {
+      "id": "3098daec-0eed-4023-bd13-52910aae18af",
+      "title": "悪くなかった",
+      "artist": "照井順政",
+      "isrc": "JPV432300430",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/45xNHLZAowU5EynJlTGAHV",
+      "isFallback": true
+    },
+    {
+      "id": "ea317210-1c45-4406-93cb-d58c5a77addf",
+      "title": "Lightpool",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800268",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/7xkVpwhnrtnDvFZRZn10vZ",
+      "isFallback": true
+    },
+    {
+      "id": "1e78689d-0929-4e39-919f-5da028ccacbe",
+      "title": "With Rage",
+      "artist": "照井順政",
+      "isrc": "JPV432300194",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4XqoIEcCuM8Kk43rhPna9L",
+      "isFallback": true
+    },
+    {
+      "id": "66d6dc84-6d68-401e-b52d-6dfc60093690",
+      "title": "Jujutsu Sorcerer",
+      "artist": "照井順政",
+      "isrc": "JPV432300405",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5RpkWyiCnuiy1hMQIjazBY",
+      "isFallback": true
+    },
+    {
+      "id": "499eb2f5-d07b-4fa9-bf42-3db299ec8249",
+      "title": "tokyo sinewave",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700013",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/1KGohCSi4nX41SjbRn8XzN",
+      "isFallback": true
+    },
+    {
+      "id": "5a139a5a-80bf-4d61-ab0b-dcd3d850e664",
+      "title": "平等に与えられている不平等な現実",
+      "artist": "照井順政",
+      "isrc": "JPV432100200",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/6D2udvcLIyUbj6rIXn4PrV",
+      "isFallback": true
+    },
+    {
+      "id": "ee05845e-8b1b-4d6f-8c3f-c78ae6586f52",
+      "title": "キズナ→スパイラル",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI02101773",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/6itgwj8bmA0o9a2UY3V45g",
+      "isFallback": false
+    },
+    {
+      "id": "64b7a8cc-9428-4739-9eab-77b484b5e932",
+      "title": "Contact",
+      "artist": "照井順政",
+      "isrc": "JPV432100443",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6hZcSE5QkC2lBsESf95ahm",
+      "isFallback": true
+    },
+    {
+      "id": "a19dc450-99de-4384-a61c-0f36107a3d19",
+      "title": "嘘つき達に暇はない",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900006",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/2ocJamXZBchnxHW3yHxOcs",
+      "isFallback": true
+    },
+    {
+      "id": "50177abb-5737-4717-a5f7-01b49771ee66",
+      "title": "Summer Plan",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600027",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0iySeDkSqRsa7Nw2mix7D4",
+      "isFallback": true
+    },
+    {
+      "id": "d5991b4d-691c-4868-a30b-eb538f071a2a",
+      "title": "What’d You Expect?",
+      "artist": "照井順政",
+      "isrc": "JPV432100431",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/1IZ56C6BOK7hCAPXtfFmbP",
+      "isFallback": true
+    },
+    {
+      "id": "1ceae703-cf84-4bba-a5f6-3812582d37ad",
+      "title": "A Little Lesson",
+      "artist": "照井順政",
+      "isrc": "JPV432300179",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/55nRoZhXqT0HdVsjfcZhih",
+      "isFallback": true
+    },
+    {
+      "id": "639edb17-2b75-43fd-b20f-9dee5589cfa2",
+      "title": "Things Are Lookn’ Good",
+      "artist": "照井順政",
+      "isrc": "JPV432100436",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/1dVSuloILiUnNipP5BPiV7",
+      "isFallback": true
+    },
+    {
+      "id": "7030b3aa-3b1b-4a71-acb1-d01a00e6123f",
+      "title": "憎むべき者",
+      "artist": "照井順政",
+      "isrc": "JPV432300434",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/25dUicE9dPQUg6t91LkM55",
+      "isFallback": true
+    },
+    {
+      "id": "2b23328a-8e56-44d9-8cef-c836f68fe4ee",
+      "title": "ありふれた群青",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900008",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/3o4EQoLBsBdYgftHGpzO15",
+      "isFallback": true
+    },
+    {
+      "id": "52e01346-b642-468d-ab33-b798d601b323",
+      "title": "We Are Stop The Attack",
+      "artist": "照井順政",
+      "isrc": "JPV432100453",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6zTqWr6viPYlpHSpP7zDEq",
+      "isFallback": true
+    },
+    {
+      "id": "63c1756a-d77e-4d8d-b0a0-ce9e05f0fc60",
+      "title": "呪骸の攻撃",
+      "artist": "照井順政",
+      "isrc": "JPV432100188",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/6g9Q8RlfkSiblWO6FTwo4I",
+      "isFallback": true
+    },
+    {
+      "id": "b4e23afd-381e-4b5d-b91f-66e354a42556",
+      "title": "八握剣異戒神将魔虚羅",
+      "artist": "照井順政",
+      "isrc": "JPV432300426",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6CXuFqAHWC2aigUfYqamMN",
+      "isFallback": true
+    },
+    {
+      "id": "7989b294-9e68-4106-a832-9bbc03bc7c0a",
+      "title": "Resolve",
+      "artist": "照井順政",
+      "isrc": "JPV432300420",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5qWz4b9sP1NbHgg38z807f",
+      "isFallback": true
+    },
+    {
+      "id": "38f03480-cb68-48a4-9af2-c7a04bc0e88d",
+      "title": "in the margin",
+      "artist": "siraph",
+      "isrc": "JPM801600022",
+      "releaseDate": "2016-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/09JbAYqF7YDCgcVunZwo5m",
+      "isFallback": true
+    },
+    {
+      "id": "057e6ded-e96a-45f6-9db8-fd00671b53cf",
+      "title": "呪術師・釘崎野薔薇",
+      "artist": "照井順政",
+      "isrc": "JPV432300429",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3VkPX24gMxtXl7VjWlU1wl",
+      "isFallback": true
+    },
+    {
+      "id": "e526c1a0-9bb9-47db-9915-5be1144e8dc2",
+      "title": "Recapture",
+      "artist": "照井順政",
+      "isrc": "JPV432300414",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/22WcQwuMKCaBPv6XOx25Tl",
+      "isFallback": true
+    },
+    {
+      "id": "ebf835c0-676f-44f5-a0d8-f7bc10e5f09d",
+      "title": "A Mission",
+      "artist": "照井順政",
+      "isrc": "JPV432100437",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6Tb4mvqh06Pkzsa5hyrrQ0",
+      "isFallback": true
+    },
+    {
+      "id": "34377c22-c424-4dd5-9ee4-d5e88eccc504",
+      "title": "knock!knock!",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900002",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/4R6ZhezkGzZkvax1dmU3Em",
+      "isFallback": true
+    },
+    {
+      "id": "6169ed37-1a23-4014-8959-9bcb9802fd40",
+      "title": "ブルー、イエロー、オレンジ、グリーン",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900390",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/5tajzHGjGHDSEuYjKsquQs",
+      "isFallback": true
+    },
+    {
+      "id": "1fb16e25-a269-40e5-9946-f369b1c5fbd7",
+      "title": "ささやかな祝祭",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900388",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/2Y95Sm12bywsMhPh46mlfO",
+      "isFallback": true
+    },
+    {
+      "id": "9eb9b9ab-626f-41ce-b29a-1f8366a5e49d",
+      "title": "想像の雨",
+      "artist": "siraph",
+      "isrc": "JPM801600027",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3Q9Q02GrP0z93xH6vEzn5z",
+      "isFallback": true
+    },
+    {
+      "id": "cd40982e-d49f-486c-863b-d33b1a29bb5a",
+      "title": "Bad Situation",
+      "artist": "照井順政",
+      "isrc": "JPV432300407",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6rC2oBLdFItYZzwicExRAL",
+      "isFallback": true
+    },
+    {
+      "id": "98252100-0a84-40cd-b682-48c48bfaf245",
+      "title": "伏黒甚爾",
+      "artist": "照井順政",
+      "isrc": "JPV432300180",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/7FrJtDFwzxdGOBsqApV8s4",
+      "isFallback": true
+    },
+    {
+      "id": "f3223795-3978-4736-a116-e5b66dda0cec",
+      "title": "Decision",
+      "artist": "照井順政",
+      "isrc": "JPV432300197",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/1KZaJhOQ6vGVZhAol3nXJ1",
+      "isFallback": true
+    },
+    {
+      "id": "85fd1681-8a00-46ee-a01c-434e194a3194",
+      "title": "凶運",
+      "artist": "照井順政",
+      "isrc": "JPV432300410",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/1NkSNoSAYVQk91EU3RCg4W",
+      "isFallback": true
+    },
+    {
+      "id": "2bfadf9b-1a8b-4741-88eb-2ce006af8dc4",
+      "title": "New Stranger",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800393",
+      "releaseDate": "2018-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/62bGCrh41PEy1xoZ6U8t1n",
+      "isFallback": true
+    },
+    {
+      "id": "8e39c80d-d5d5-4b67-a4a8-b247e90237c5",
+      "title": "信号",
+      "artist": "sora tob sakana",
+      "isrc": "JPPI02001020",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0VcDu5vXRnNs9uS2zhrMvn",
+      "isFallback": true
+    },
+    {
+      "id": "48387583-6908-44f7-912f-dfe67e5bb8c8",
+      "title": "前世界",
+      "artist": "siraph",
+      "isrc": "TCJPF2554517",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0Xb3dRJAo8ovKbeUGHCaFu",
+      "isFallback": false
+    },
+    {
+      "id": "967eb1ec-c2ac-43d0-9299-bddee7877086",
+      "title": "強くなってよ",
+      "artist": "照井順政",
+      "isrc": "JPV432300201",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0v9UmYaC510S9UcJCgGLQC",
+      "isFallback": true
+    },
+    {
+      "id": "c81937eb-6951-41c2-87ef-4ae6b0632064",
+      "title": "フィジカルギフテッド",
+      "artist": "照井順政",
+      "isrc": "JPV432300193",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4q2wQpH2lxOHagFMvIz4nF",
+      "isFallback": true
+    },
+    {
+      "id": "785aeabe-362d-415b-92b2-47f79383ea43",
+      "title": "WALK",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900011",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6hqZRzEiIpXTWebdzkWAHO",
+      "isFallback": true
+    },
+    {
+      "id": "37cec230-0701-42df-9a93-99ee7491b434",
+      "title": "わたしのままで",
+      "artist": "上田麗奈",
+      "isrc": "JPI102101604",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/0gq0fTGoXZpm5QIfHb60uq",
+      "isFallback": true
+    },
+    {
+      "id": "ddc056cc-b955-45cd-bc85-4fdfc69b460b",
+      "title": "Brand New Blue",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800271",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/6ydhiMXjWhLlQee5yn8EE5",
+      "isFallback": true
+    },
+    {
+      "id": "5f04ec94-1b4c-424c-938b-baa97042dc44",
+      "title": "共闘",
+      "artist": "照井順政",
+      "isrc": "JPV432300416",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/0yCuYKubFjh29uiGCRYSJ9",
+      "isFallback": true
+    },
+    {
+      "id": "c6f1a9dd-2c29-4b5c-97da-3a89778894f1",
+      "title": "まぶしい",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600025",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/7xWvJoAsd45lgVVKkQn34L",
+      "isFallback": true
+    },
+    {
+      "id": "6ec38fe9-293e-40bf-ae69-51a7b7223098",
+      "title": "calling",
+      "artist": "siraph",
+      "isrc": "TCJPF2554522",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2nHwsReqV4GzRgmLrdv8we",
+      "isFallback": false
+    },
+    {
+      "id": "aa90417d-2865-42b4-8440-175032b5553e",
+      "title": "クラウチングスタート",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600040",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0SPXyAZQZgr9PETUTvL68U",
+      "isFallback": true
+    },
+    {
+      "id": "495530c3-329d-4d6e-90ac-877cbdfc106d",
+      "title": "アルファルド",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800619",
+      "releaseDate": "2018-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/7k2NFoM3FJLgn4ZhvQ1MfF",
+      "isFallback": true
+    },
+    {
+      "id": "0a7a75d1-ea06-44f7-a6fc-409fbb059c91",
+      "title": "You Jerk",
+      "artist": "照井順政",
+      "isrc": "JPV432300182",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0Ah8ipQZTFAZgsCrqTCs2i",
+      "isFallback": true
+    },
+    {
+      "id": "cac30592-e91d-489d-afb3-dfea27af65d8",
+      "title": "Moon Swimming Weekender",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600039",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/71FeirNod4ID7lPPd29qaG",
+      "isFallback": true
+    },
+    {
+      "id": "7f88066e-4715-4a4e-be3a-9ec58d7e9986",
+      "title": "ghost camp",
+      "artist": "siraph",
+      "isrc": "TCJPF2554499",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/2RteTlLvi0tAothYtiHF4E",
+      "isFallback": false
+    },
+    {
+      "id": "ad270bd2-99b0-4bfb-95d5-e63bc0469006",
+      "title": "ケサランパサラン",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600030",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/4bIeoIqtdQvIFShZP9DdO8",
+      "isFallback": true
+    },
+    {
+      "id": "3f36470c-4a75-493f-9622-611d389a3af0",
+      "title": "帰り道のワンダー",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600028",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/623o2pLugjNU3jC2SacrY9",
+      "isFallback": true
+    },
+    {
+      "id": "f4272025-aee6-4e49-91ab-36e873fcc8ae",
+      "title": "夜空を全部",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600038",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/7Jl0Bm781RLm3sBvk8IzYz",
+      "isFallback": true
+    },
+    {
+      "id": "2b403157-90e5-4f23-beb2-3d13d5f93f90",
+      "title": "It’s a Promise",
+      "artist": "照井順政",
+      "isrc": "JPV432100429",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6RTOyd2Iv4fHPWeJPZDr6O",
+      "isFallback": true
+    },
+    {
+      "id": "7ebd045b-57c4-435e-b0fa-365cfd2b4d8e",
+      "title": "Equilibrium",
+      "artist": "照井順政",
+      "isrc": "JPV432300415",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/2zGacoL4g5HOM2sS2uSlll",
+      "isFallback": true
+    },
+    {
+      "id": "7c35d6d0-e0a2-49a3-bc04-2d2ba347aad0",
+      "title": "広告の街",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600042",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0AOV7BjEl2NGMRVZOcBVwu",
+      "isFallback": true
+    },
+    {
+      "id": "a04233d6-77db-4d3b-b022-a9d9d5cd595e",
+      "title": "仲間（じゅつし）の屍",
+      "artist": "照井順政",
+      "isrc": "JPV432300192",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/7vl0egKjavQe54ePjrx8Nb",
+      "isFallback": true
+    },
+    {
+      "id": "fd9ebf8a-1d85-48d1-a5b6-571964862990",
+      "title": "Dive into the colors",
+      "artist": "YURiKA",
+      "isrc": "JPV431700578",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/4qpbTy7RWm6rsh3DlQPV5P",
+      "isFallback": true
+    },
+    {
+      "id": "2f244c9c-dafd-44eb-9e8c-77b52e828f60",
+      "title": "Little Hand",
+      "artist": "照井順政",
+      "isrc": "JPV432300195",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4Py3SBp06RH9pKafLgVNaW",
+      "isFallback": true
+    },
+    {
+      "id": "a60a7b04-484b-4069-9e53-874fd0b846b8",
+      "title": "一緒なら",
+      "artist": "照井順政",
+      "isrc": "JPV432300190",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/6RLo80Ds4FriePBrxmacsh",
+      "isFallback": true
+    },
+    {
+      "id": "516e9719-4707-4b3c-bcab-325cfc5e0c1c",
+      "title": "untie",
+      "artist": "sora tob sakana",
+      "isrc": "JPPI02001120",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/6wXNC4qIdhjNfUeOqhJg5r",
+      "isFallback": true
+    },
+    {
+      "id": "f64375fa-3c36-4fb6-895e-490d236669ee",
+      "title": "Attack By Storm",
+      "artist": "照井順政",
+      "isrc": "JPV432300184",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/58X6OSh6sgLEiOUaG7TY3n",
+      "isFallback": true
+    },
+    {
+      "id": "be6b2ae3-591a-4355-bc2f-1fe6cacda460",
+      "title": "Trip Itinerary",
+      "artist": "照井順政",
+      "isrc": "JPV432300189",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4tFDbsK5qUrSoZm8mFLDNR",
+      "isFallback": true
+    },
+    {
+      "id": "31d774e0-c8fd-49f4-96b3-be2ccd182971",
+      "title": "RECORD",
+      "artist": "照井順政",
+      "isrc": "JPV432100428",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/1JwMMimsQLAnBeBdPiG31h",
+      "isFallback": true
+    },
+    {
+      "id": "ab23822f-712d-4730-9a9c-75459ba879ac",
+      "title": "夏の現在地 (I_047)",
+      "artist": "岡地織花",
+      "isrc": "JPI102501011",
+      "releaseDate": "2025-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/48MX9kzb7xMatXAgyDzAph",
+      "isFallback": true
+    },
+    {
+      "id": "aface09a-87b9-4e76-ba8e-626a4a41cebe",
+      "title": "Lighthouse",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800273",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/4P7JDdrcY4FHY6Y3B6dgdK",
+      "isFallback": true
+    },
+    {
+      "id": "80dffb19-efcf-42f8-b083-c44918bf6b85",
+      "title": "Practice",
+      "artist": "照井順政",
+      "isrc": "JPV432100435",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6uO2J5LJ09WBR2NAPCCV3o",
+      "isFallback": true
+    },
+    {
+      "id": "0a30a021-41b6-42bd-b219-db44f868edb3",
+      "title": "ribbon",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700010",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/4j1W5PZ3SGcL4JoaDCPpse",
+      "isFallback": true
+    },
+    {
+      "id": "a4d006bc-1923-41a0-bf98-92f902ba5baa",
+      "title": "Arrogance",
+      "artist": "照井順政",
+      "isrc": "JPV432300199",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/630pBH3SoKjjGgkEK9q4Qw",
+      "isFallback": true
+    },
+    {
+      "id": "77835269-8319-4512-958d-afc5e39e6586",
+      "title": "最高潮☆JUMPING!",
+      "artist": "高田ちゃん",
+      "isrc": "JPV432300432",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5BghKQxaMfS315JchnYbKF",
+      "isFallback": true
+    },
+    {
+      "id": "236b531f-c628-4e32-ac4b-a4c60e78904a",
+      "title": "不義遊戯",
+      "artist": "照井順政",
+      "isrc": "JPV432100232",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/6gDlJex6i6uLf5VHkpj21A",
+      "isFallback": true
+    },
+    {
+      "id": "9023d79b-cc25-4e40-8059-d1610606641e",
+      "title": "whale song",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900001",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/6BKPhOV7r4NZ9wqJbZHgk2",
+      "isFallback": true
+    },
+    {
+      "id": "25b83b76-5be6-4746-967a-5c61caff91ad",
+      "title": "タイムマシンにさよなら",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700011",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/6fNzCrm7xPpl9wfACbm6Hx",
+      "isFallback": true
+    },
+    {
+      "id": "e8bc4ed1-c2c9-4012-88d6-e6f2212468a7",
+      "title": "Delirious",
+      "artist": "照井順政",
+      "isrc": "JPV432300196",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4pwpIPTrh8pGCcXKFsWIoW",
+      "isFallback": true
+    },
+    {
+      "id": "a9d39619-0703-49a0-9775-6f9943f6a400",
+      "title": "Elegant Time",
+      "artist": "照井順政",
+      "isrc": "JPV432300181",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/28EWcvkKt3thtqvPlIEFEs",
+      "isFallback": true
+    },
+    {
+      "id": "4f93d8b2-15ee-453f-a9de-d63640fdc5ce",
+      "title": "夢の盗賊",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700012",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/5OUdDuTkwLgYMS3w0GHKU7",
+      "isFallback": true
+    },
+    {
+      "id": "2b0047bc-44dd-4a71-943e-1b85118a742d",
+      "title": "夏の扉",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600024",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/5IL3TDEFIHxyZ9f225EcsU",
+      "isFallback": true
+    },
+    {
+      "id": "4362ed85-7625-446a-b8ff-0dbb7cb102eb",
+      "title": "No Hesitation",
+      "artist": "照井順政",
+      "isrc": "JPV432300191",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4p8lbKhuD207HQYuNLPJQ7",
+      "isFallback": true
+    },
+    {
+      "id": "0ef73bbc-f977-4080-a4e7-361013e4e7d6",
+      "title": "My notes",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600026",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/7xnk85RU1163Y2IXcfBMdQ",
+      "isFallback": true
+    },
+    {
+      "id": "33afbc84-8ce4-4309-9425-5e3e2c92031b",
+      "title": "おやすみ",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600029",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Eu09BTluSI9PyvYnmnO2J",
+      "isFallback": true
+    },
+    {
+      "id": "8ec260ca-09ec-4a77-ae10-b985049a9ac7",
+      "title": "夜間飛行",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700015",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/3yzgkKm1pGqVIQmqhiZSGG",
+      "isFallback": true
+    },
+    {
+      "id": "0824fb58-c95a-4f67-8db1-7c5f6d85ced3",
+      "title": "太陽燦々(てぃださんさん)",
+      "artist": "美音",
+      "isrc": "JPV432300188",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/0eZF9pF6oB1d2YgkU2OPXC",
+      "isFallback": true
+    },
+    {
+      "id": "f9bdc2ea-7161-4c6a-b31f-10113e0a80cf",
+      "title": "linotype",
+      "artist": "siraph",
+      "isrc": "JPM801600026",
+      "releaseDate": "2016-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/38DeVewTiZIGNqil8tNVdp",
+      "isFallback": true
+    },
+    {
+      "id": "df452885-06cf-4768-a273-95a65035db9c",
+      "title": "Our Mission",
+      "artist": "照井順政",
+      "isrc": "JPV432300177",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/39twNLevmMQUuVGM3y2Lrs",
+      "isFallback": true
+    },
+    {
+      "id": "107b9d1c-1467-4e63-9fb0-b0f4b9b73474",
+      "title": "flash",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900444",
+      "releaseDate": "2019-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/5NQnDDPMKMUonjckOHe19A",
+      "isFallback": true
+    },
+    {
+      "id": "d03fa0a7-a6bc-46bf-8fa8-8a66186f3033",
+      "title": "宵祭り",
+      "artist": "照井順政",
+      "isrc": "JPV432300403",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6gpX1jmboiNbmwQOUHT7pL",
+      "isFallback": true
+    },
+    {
+      "id": "33c79077-2ac0-4070-992a-ca99e47d1fd1",
+      "title": "乱反射の季節",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900389",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/2bG3x7CKzKTqiLDtzpN8Xd",
+      "isFallback": true
+    },
+    {
+      "id": "e67892d3-a856-41f7-8f57-7877bd96f2cf",
+      "title": "Geto’s True Identity",
+      "artist": "照井順政",
+      "isrc": "JPV432100442",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5KPi19U6YQMulbtPcXx8JI",
+      "isFallback": true
+    },
+    {
+      "id": "3ca1eba6-1c11-4ec6-8e77-0fdd781169c1",
+      "title": "変身",
+      "artist": "照井順政",
+      "isrc": "JPV432300433",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5dG4GFqHIwUSm58dPs2luu",
+      "isFallback": true
+    },
+    {
+      "id": "9317e79e-4912-4b91-8d0b-b3d9038cd93e",
+      "title": "FASHION",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900003",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/2fH3gCEjNdGBbxnwKAuEJy",
+      "isFallback": true
+    },
+    {
+      "id": "ba3a6f40-5a4a-49d0-b49a-749f3812671b",
+      "title": "Far Beyond the Stars",
+      "artist": "照井順政 & Shania Yan",
+      "isrc": "JPI102500494",
+      "releaseDate": "2025-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/3D2ax2glhbYD0YAKU0Z7yw",
+      "isFallback": false
+    },
+    {
+      "id": "cea2757f-b73b-4999-84ff-efc97286abd2",
+      "title": "Expectation",
+      "artist": "照井順政",
+      "isrc": "JPV432300413",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/2XHsaNL70o6UJssiUOz3tX",
+      "isFallback": true
+    },
+    {
+      "id": "397845c0-b2cd-4f8b-ac7f-3c7d159c4ba5",
+      "title": "凍てついて秒速",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02412122",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/3nXOLsEWNTlKv1oyi8LdHY",
+      "isFallback": true
+    },
+    {
+      "id": "359ebcf2-749f-496f-a1cc-256aa482039d",
+      "title": "呪霊の探索",
+      "artist": "照井順政",
+      "isrc": "JPV432300178",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4j7nYEQnFnrJWaK0BvzmtK",
+      "isFallback": true
+    },
+    {
+      "id": "e2257f07-c6e7-4207-ae37-097d19b16bb9",
+      "title": "呪霊の味",
+      "artist": "照井順政",
+      "isrc": "JPV432300198",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/1yYwxnXSnhmmVsyppshMj3",
+      "isFallback": true
+    },
+    {
+      "id": "589c60cb-073a-44ef-94b7-41b7bd10a6fa",
+      "title": "カラのなか",
+      "artist": "Annabel",
+      "isrc": "JPI101400323",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8cc17fb2-84e6-47b0-9e2c-b3b9ec8a2d27",
+      "title": "Prepare Yourself",
+      "artist": "照井順政",
+      "isrc": "JPV432300187",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/7JNziPcWRX4qfs40riToKf",
+      "isFallback": true
+    },
+    {
+      "id": "7b95597b-a9f6-4da3-b191-9cd3c2f021e4",
+      "title": "伏魔御廚子",
+      "artist": "照井順政",
+      "isrc": "JPV432300427",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6IuiyYLmrSZ69V9AYHBf65",
+      "isFallback": true
+    },
+    {
+      "id": "451fb49c-3ae5-416c-abe5-a5b7cb0052af",
+      "title": "千年の呪い",
+      "artist": "照井順政",
+      "isrc": "JPV432100177",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/7MZvTEbDypsIrPAF3LUG8S",
+      "isFallback": true
+    },
+    {
+      "id": "39ac98e1-14ac-444c-9b64-589554f9e8e4",
+      "title": "命火",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI02302810",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/1zJwBz6GyUCJuPmZoF9Xdu",
+      "isFallback": false
+    },
+    {
+      "id": "b8cce7b1-4d4d-47d3-81c1-25b78366f23f",
+      "title": "World Fragment",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900010",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/1zd6LiMbIZfOYOcDTleKQ2",
+      "isFallback": true
+    },
+    {
+      "id": "018fcfb4-9848-4a94-9500-d720727b7e4f",
+      "title": "茜空、私がいた街",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI02201077",
+      "releaseDate": "2022-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6JvAYBVVGCGp8t7J3FzDCi",
+      "isFallback": true
+    },
+    {
+      "id": "8267de02-63d8-496c-a2f6-64662e661956",
+      "title": "昏乱",
+      "artist": "照井順政",
+      "isrc": "JPV432300412",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/59uAHZNPxxEFrxwSqj1a36",
+      "isFallback": true
+    },
+    {
+      "id": "9f0c39e5-4a3c-43dd-8ce8-ea1484ea64d1",
+      "title": "春の嵐",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU901701429",
+      "releaseDate": "2017-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/1NbrPB2bRBspGjeMCDkNWr",
+      "isFallback": true
+    },
+    {
+      "id": "51b846c5-c6a9-4451-937d-8b242e27dbba",
+      "title": "渋谷事変",
+      "artist": "照井順政",
+      "isrc": "JPV432300406",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/0NwT16idH0DN4B5UiXGBnh",
+      "isFallback": true
+    },
+    {
+      "id": "021c3123-91cb-40bd-8394-3150b7cf25ec",
+      "title": "裡にいる何者か",
+      "artist": "照井順政",
+      "isrc": "JPV432300402",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/20gfFmfSn3nbymjnxSPsSc",
+      "isFallback": true
+    },
+    {
+      "id": "b3cd2165-f5bc-4d6d-a45a-e0ae7b004525",
+      "title": "迫る危険",
+      "artist": "照井順政",
+      "isrc": "JPV432100182",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/2G5cjmuaaliaAnlVMvemnR",
+      "isFallback": true
+    },
+    {
+      "id": "b278bd37-4b54-4d6d-83aa-ee41ac8d4c5f",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "isrc": "JPV431700577",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/17pYAFEZjKZFU5PHiUMzqx",
+      "isFallback": true
+    },
+    {
+      "id": "3e8c250e-aa4f-49dd-b137-a22707baa376",
+      "title": "水槽の街から (I_006_lyric)",
+      "artist": "みきまりあ (NOMELON NOLEMON)",
+      "isrc": "JPI102501012",
+      "releaseDate": "2025-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/1PfpiYudUPmaKnLPgnkbgF",
+      "isFallback": true
+    },
+    {
+      "id": "92461d6a-e75b-4456-b5bd-e03cd51799c8",
+      "title": "魔法の言葉",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841300085",
+      "releaseDate": "2016-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/6Yx72NztXtQhhjlRPt0xTs",
+      "isFallback": true
+    },
+    {
+      "id": "c1fa99d3-5ba9-40fb-b6ed-34aa13e286c3",
+      "title": "目覚め",
+      "artist": "照井順政",
+      "isrc": "JPV432300423",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/1Q2z6od8ojU61fcWuIWTIT",
+      "isFallback": true
+    },
+    {
+      "id": "19c11466-9ee0-45e1-9ff7-3cf7bd36bb3e",
+      "title": "新しい朝",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600041",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/5TgY83yKxvHWnBf2WP02kG",
+      "isFallback": true
+    },
+    {
+      "id": "ea44b722-52a9-454a-9755-42b317788c62",
+      "title": "秘密",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800270",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/05uIugt6ACfuXcBGZlhXEu",
+      "isFallback": true
+    },
+    {
+      "id": "111dab9c-6c90-4d85-8a5a-aba65a2229ad",
+      "title": "玉折",
+      "artist": "照井順政",
+      "isrc": "JPV432300200",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/4sMVqHQVK4yjxrgUYcd970",
+      "isFallback": true
+    },
+    {
+      "id": "b1ed5623-7f5f-4c6f-bdd0-6b18c3d02324",
+      "title": "究極メカ丸絶対形態（モード・アブソリュート）",
+      "artist": "照井順政",
+      "isrc": "JPV432300404",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3PWc5AY4sw7DhaCAh7oGsL",
+      "isFallback": true
+    },
+    {
+      "id": "6a946fdc-13b0-4f62-8f6c-a19525f5141b",
+      "title": "流星の行方",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900443",
+      "releaseDate": "2019-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/70B0dZySE3Y2ZR0NlFVsjv",
+      "isFallback": true
+    },
+    {
+      "id": "65e7255e-7ef8-459e-8aa6-8c65f5abe23d",
+      "title": "鈍刀",
+      "artist": "照井順政",
+      "isrc": "JPV432300417",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6kKT6yE11anI6gn9vPXjVu",
+      "isFallback": true
+    },
+    {
+      "id": "b253ed70-8c5e-4482-818d-eea001031fe4",
+      "title": "時間外労働",
+      "artist": "照井順政",
+      "isrc": "JPV432100212",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/7kiql8ZPxOzlLzi0vfPCcF",
+      "isFallback": true
+    },
+    {
+      "id": "6adbaacd-245f-4384-bd9a-9e7dbc522d10",
+      "title": "領域展開",
+      "artist": "照井順政",
+      "isrc": "JPV432300408",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/79QWnjeDw0kzA8gc4Bi1KQ",
+      "isFallback": true
+    },
+    {
+      "id": "85fcf676-1c68-489a-b6d8-cb6fffa4ee76",
+      "title": "鋭角な日常",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800269",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/7KPPB4mZvGt2suhQ7wkxRM",
+      "isFallback": true
+    },
+    {
+      "id": "429c0151-2967-45f0-8f44-eec1d89e224f",
+      "title": "曖昧な理由",
+      "artist": "照井順政",
+      "isrc": "JPV432300428",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/2JSoY8eFnlmiNvnRbtK1Yr",
+      "isFallback": true
+    },
+    {
+      "id": "46fbc807-15a5-4f37-9982-8057ba026923",
+      "title": "硝子の夜",
+      "artist": "東山奈央",
+      "isrc": "JPVI02202581",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/0v3A5ycMLIFYu3c4E6K1i6",
+      "isFallback": true
+    },
+    {
+      "id": "3a05f87c-9aed-454e-8905-e86b39b4c4cf",
+      "title": "託されたもの",
+      "artist": "照井順政",
+      "isrc": "JPV432300431",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5VgfUAQ4UQtctNgWIjCbMP",
+      "isFallback": true
+    },
+    {
+      "id": "51a3b401-d036-46dc-b24a-ceb4050aeb05",
+      "title": "暇",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461900007",
+      "releaseDate": "2019-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/58glDHnJtgEGePg8g0wpWT",
+      "isFallback": true
+    },
+    {
+      "id": "07cead16-0e11-42e5-a90a-34440c0dc95d",
+      "title": "理子の捜索",
+      "artist": "照井順政",
+      "isrc": "JPV432300183",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/27AZLOyillk8fU2kGHmbnF",
+      "isFallback": true
+    },
+    {
+      "id": "c49bead4-76d9-43ea-a5d5-87945a4261de",
+      "title": "海に纏わる言葉",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841600023",
+      "releaseDate": "2016-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/5py6BgVG7moON7C2upwI6o",
+      "isFallback": true
+    },
+    {
+      "id": "a08ed68f-fda5-4667-94c3-124d98d8ab27",
+      "title": "魔法の言葉 (Instrumental)",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841300088",
+      "releaseDate": "2016-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3MGUmYmZd2D1LHDgVqBfqy",
+      "isFallback": true
+    },
+    {
+      "id": "6d4e4d44-9202-441b-84b1-dbf55c91dc75",
+      "title": "赫鱗",
+      "artist": "照井順政",
+      "isrc": "JPV432300419",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3ndHEWE01XlBAwFJWUTCNa",
+      "isFallback": true
+    },
+    {
+      "id": "d9da3c9e-7b34-4be8-853b-3d9126f38e9a",
+      "title": "特級特定疾病呪霊「疱瘡神」",
+      "artist": "照井順政",
+      "isrc": "JPV432300418",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/46SdpvFu40lnUwCnICP6vB",
+      "isFallback": true
+    },
+    {
+      "id": "d7988e5c-3289-4e1a-9b1d-36b5c087af21",
+      "title": "霹靂",
+      "artist": "照井順政",
+      "isrc": "JPV432300425",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/37uckgKhZ4agf4JfRbXbzZ",
+      "isFallback": true
+    },
+    {
+      "id": "24142917-cb1d-452a-948b-f29c493ea204",
+      "title": "揺蕩",
+      "artist": "照井順政",
+      "isrc": "JPV432300422",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3T0WYvkNRfP8OcBcjqamhB",
+      "isFallback": true
+    },
+    {
+      "id": "2a39426e-c82d-453f-a6b1-ca49157b7a32",
+      "title": "蜃気楼の国",
+      "artist": "sora tob sakana",
+      "isrc": "JPQ461800272",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/62Sza9pZGRmQdeLh4tZ24o",
+      "isFallback": true
+    },
+    {
+      "id": "514da8f6-142a-467d-a2a7-37002b38c5cc",
+      "title": "無下限呪術",
+      "artist": "照井順政",
+      "isrc": "JPV432300186",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/542LcS4Zm90coo9TDuPf9T",
+      "isFallback": true
+    },
+    {
+      "id": "15114548-83c5-4453-965f-a5fea063dbd6",
+      "title": "透明な怪物",
+      "artist": "sora tob sakana",
+      "isrc": "JPR841700014",
+      "releaseDate": "2017-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/3SBadCKjmBYexvfgb5gPxZ",
+      "isFallback": true
+    },
+    {
+      "id": "6c0e0481-165a-4c25-a8d9-24623aad76cb",
+      "title": "溢れ出す3年間の青い春",
+      "artist": "照井順政",
+      "isrc": "JPV432300411",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/52W6TwDpQI1S2Dqi6SRjEk",
+      "isFallback": true
+    },
+    {
+      "id": "026dbd71-63a0-437e-a3b5-da7085eb8950",
+      "title": "懐玉",
+      "artist": "照井順政",
+      "isrc": "JPV432300176",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/53VEuWiwDhPU9CxdzaD3wD",
+      "isFallback": true
+    },
+    {
+      "id": "ca960879-e758-4064-b9ff-a02950dd6940",
+      "title": "未だ知らず",
+      "artist": "照井順政",
+      "isrc": "JPV432300424",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/1NEdRtIhkKZ0Xd0x9XHfMf",
+      "isFallback": true
+    },
+    {
+      "id": "57800aab-a4ab-4a86-bff9-e2b60944421e",
+      "title": "鏡面の波 [Orchestra Ver.]",
+      "artist": "YURiKA",
+      "isrc": "JPV431700702",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/54jOT8Y5GhGl91JQ6HzVAt",
+      "isFallback": true
+    },
+    {
+      "id": "b3801f3f-524e-423b-89d5-d13292be1b09",
+      "title": "生い立ち",
+      "artist": "照井順政",
+      "isrc": "JPV432100229",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/2nVkn9bpXra7TDl2wCJ3oX",
+      "isFallback": true
+    },
+    {
+      "id": "96dac74d-c2f4-4761-a82b-852256d287a7",
+      "title": "記憶",
+      "artist": "照井順政",
+      "isrc": "JPV432300421",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/0tMH6qfpkX2yhOly5okbxv",
+      "isFallback": true
+    },
+    {
+      "id": "09a875d0-e281-4ffd-9e70-572521830ee4",
+      "title": "蝗害",
+      "artist": "照井順政",
+      "isrc": "JPV432300409",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/1w0cSEcqIEp3t7WKAS13ZE",
+      "isFallback": true
+    },
+    {
+      "id": "58d582c8-b047-489d-b509-c8b43783dce5",
+      "title": "芻霊呪法「共鳴り」",
+      "artist": "RIN",
+      "isrc": "JPV432100195",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/72wEjk5XFsXsw2hHzBY5BZ",
+      "isFallback": true
+    }
+  ]
+}

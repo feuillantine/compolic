@@ -1,0 +1,279 @@
+{
+  "name": "谷高マーク",
+  "sortName": "ヤタカマーク",
+  "otherNames": [
+    "フーリンキャットマーク"
+  ],
+  "tracks": [
+    {
+      "id": "b607a749-e2f2-43ba-b1cc-bcf7504f2ef2",
+      "title": "天空少女",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPM2002030",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/7M9AdjqIQAWdy4s22xyZ9e",
+      "isFallback": true
+    },
+    {
+      "id": "4a7cf540-4c2c-4230-ad80-9cfb85eef964",
+      "title": "ハイカラ素粒子が宙を舞う",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c1a1187-8cc5-4307-9ee7-1b0c7cb299f9",
+      "title": "素敵な二人",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4eadba5-fffa-4c6f-8089-85f50a6d9b12",
+      "title": "天空少女",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPM2002030",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7M9AdjqIQAWdy4s22xyZ9e",
+      "isFallback": true
+    },
+    {
+      "id": "24781f17-ba2b-4f7e-ba41-5d0a82baa9c0",
+      "title": "第99の方程式",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3b31a84-d1b3-41e7-908b-71d973f23cf5",
+      "title": "Honey days dream",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e009093c-a6a9-4577-85d8-3677f0a4844a",
+      "title": "フーリンキャットマークのテーマ (Instrumental)",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "567700bc-4f83-4ce6-902b-90658d145348",
+      "title": "ロマンティックノート",
+      "artist": "ことの",
+      "isrc": "TCJPC2450020",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0iSSalzB7ZknQVirDqaKzQ",
+      "isFallback": true
+    },
+    {
+      "id": "a5e84bb7-0267-4092-b579-e1bbc33a4ba6",
+      "title": "アキシブターンアラウンド",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPK2079873",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/2hlEJ1YsDp1G1ZZnL0fnYS",
+      "isFallback": true
+    },
+    {
+      "id": "df1fd92e-93a9-44a9-9186-86327ef043fc",
+      "title": "恋をしちゃいました",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1cb69f1f-d0ad-4a58-a9d9-9a98216e5a33",
+      "title": "クリスタルミサイル",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b34af40-1ff0-4987-902a-17f16dd3b665",
+      "title": "ラビットシティラビリンス",
+      "artist": "もちこまめ",
+      "isrc": "",
+      "releaseDate": "2019-11-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5f441e77-15d1-467a-89c1-76d4119e0bc0",
+      "title": "ナソルペ",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f6aa1ced-5145-4e6c-a519-e0f5e0ccd236",
+      "title": "夏の日のソーダブルー",
+      "artist": "ちょこ",
+      "isrc": "QT66J2521257",
+      "releaseDate": "2025-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/7KUZuzeeADj9SYdCD3aK2d",
+      "isFallback": true
+    },
+    {
+      "id": "fd662fd6-766e-4fd5-bea0-d0ace89fa7bd",
+      "title": "アウトサイドプレイス",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1eca6b68-61d6-4074-98ef-76c6b41a35f3",
+      "title": "Candy cat",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ceb1bba-1764-4f83-8039-06713eb00d07",
+      "title": "フーリンキャットマークのテーマⅢ",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fb3f91f-abae-4417-8ca3-df78e2add752",
+      "title": "カロナコード",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6d6de3f6-f68a-4758-aa99-e5cd05754beb",
+      "title": "とべるって言って",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPY2491813",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/7ierRYFToFnb7sCiv5couR",
+      "isFallback": true
+    },
+    {
+      "id": "41016da2-45ff-41b5-83ae-ade7b67bfa78",
+      "title": "moon flower",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f8f7123-261d-44b0-bade-0c5bb2543a5f",
+      "title": "夕闇に溶けるマーメイド～remastering～",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "88fa296f-2b93-438c-b55d-1021bd50edda",
+      "title": "君への暗号",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "30b34bd6-c144-4c81-a605-d9ece6fbd027",
+      "title": "幸せは首都の中に",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dde08394-9bac-41e3-9183-9125dc27a059",
+      "title": "渋谷嫌いのモンスター",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7037572-f15e-40a8-9abc-afda85825423",
+      "title": "デリケートベリキュート",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPK2079843",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/38Z2HWnrert0pwPebGvBcV",
+      "isFallback": true
+    },
+    {
+      "id": "e668cef2-f2bf-439a-9e2c-7227b129d27b",
+      "title": "ルチア",
+      "artist": "フーリンキャットマーク",
+      "isrc": "TCJPR2219069",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/2Z04qqJwAkyB72WnUhKDbR",
+      "isFallback": true
+    },
+    {
+      "id": "0b2ece8c-626b-41f9-8ccd-ebce35db5130",
+      "title": "午前三時のメロディ",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "98e31cf8-0506-423e-9a10-843cf9524e71",
+      "title": "刹那のティンカーベル",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31475576-d6ba-405e-b634-3bdd49eea1cc",
+      "title": "traveling",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3f596907-41a7-47f7-b256-c91a0df4fb35",
+      "title": "乙女はドッペルゲンガー",
+      "artist": "フーリンキャットマーク",
+      "isrc": "",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

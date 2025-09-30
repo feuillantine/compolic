@@ -1,0 +1,906 @@
+{
+  "name": "EFFY",
+  "sortName": "エフィー",
+  "tracks": [
+    {
+      "id": "aba85171-d5d8-447f-b3ef-59c35d016738",
+      "title": "心の闇",
+      "artist": "EFFY",
+      "isrc": "JPI101600387",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a8aa856c-b8a0-48bf-bdaf-6ffb296c313e",
+      "title": "Just Follow Stars",
+      "artist": "HOLOSTARS",
+      "isrc": "JPV752104734",
+      "releaseDate": "2021-06-28",
+      "spotifyUrl": "https://open.spotify.com/track/0JnPGtuC6WvtIrulXBIfZJ",
+      "isFallback": true
+    },
+    {
+      "id": "c4fe6ec0-8bc8-4865-a15b-d57fab04f07a",
+      "title": "川神舞のテーマ",
+      "artist": "EFFY",
+      "isrc": "JPI101600372",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f66b873-4c57-455c-9ef8-227169073a4a",
+      "title": "ROSE of the LAMP",
+      "artist": "アキ・ローゼンタール",
+      "isrc": "JPV752206064",
+      "releaseDate": "2022-06-02",
+      "spotifyUrl": "https://open.spotify.com/track/5LCYxRGQDJQHrec1Bdqh5n",
+      "isFallback": true
+    },
+    {
+      "id": "c0556ad7-5ffb-4826-895f-790ca18199ca",
+      "title": "世界はONEであふれてる",
+      "artist": "石井あみ",
+      "isrc": "JPD602400649",
+      "releaseDate": "2025-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/2TSWKJt2VNm2QaOG9llsnf",
+      "isFallback": true
+    },
+    {
+      "id": "da0b26f0-2014-4962-9aaa-9b4fb5e25cc7",
+      "title": "そんな僕らの冒険譚!",
+      "artist": "TrySail",
+      "isrc": "JPU902404267",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/3ddxBxkq3W3OwHaK2iGVDA",
+      "isFallback": true
+    },
+    {
+      "id": "f77ac42c-4a89-4dba-a79a-93aac9ace269",
+      "title": "On your mark",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102203104",
+      "releaseDate": "2023-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/5aWKHY8SI52dN1xKApx7RD",
+      "isFallback": false
+    },
+    {
+      "id": "e595734b-8611-4b8c-8900-0fce6fafc2a9",
+      "title": "A CUP OF HAPPINESS",
+      "artist": "神谷幸広",
+      "isrc": "JPI101701647",
+      "releaseDate": "2017-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/4brcgqlWH9IF7eknWF0nS1",
+      "isFallback": false
+    },
+    {
+      "id": "61bd7d21-4941-4378-803d-769a75824ffc",
+      "title": "ハプニング!",
+      "artist": "EFFY",
+      "isrc": "JPI101600376",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e812f7a-92eb-4647-ba93-907dfe147c46",
+      "title": "シリアス・バトル",
+      "artist": "EFFY",
+      "isrc": "JPI101600384",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8897187a-1537-4691-8b04-7be8fae420e7",
+      "title": "未来予報ハレルヤ!",
+      "artist": "Liella!",
+      "isrc": "JPI102102070",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/0posBXcIeMLyjrYsSHR01P",
+      "isFallback": false
+    },
+    {
+      "id": "e00512b3-f626-4e78-9d32-4bcc7decfdcf",
+      "title": "なかよしJ♡YFUL",
+      "artist": "プリルン",
+      "isrc": "JPD602500224",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/0wOYGhOjaPhgiLECsj5EZp",
+      "isFallback": true
+    },
+    {
+      "id": "5228521c-0805-4515-b033-5c1fc9e3b07b",
+      "title": "トートの天倫に 虚像を晒せ!",
+      "artist": "EFFY",
+      "isrc": "JPI101600413",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9273ecd-5c0b-442f-8434-a81f7993a367",
+      "title": "久瑠美、未知との遭遇",
+      "artist": "EFFY",
+      "isrc": "JPI101600395",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05e4cabc-5697-444e-afeb-27405613e020",
+      "title": "それでも明日へ",
+      "artist": "EFFY",
+      "isrc": "JPI101600386",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "28ea2e34-302d-4bf9-9f05-f569b0f91446",
+      "title": "ひとりぼっち",
+      "artist": "EFFY",
+      "isrc": "JPI101600381",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7a6265c-6ab8-4992-9f7f-1d3b98a8bfa6",
+      "title": "エニグマ、暗躍",
+      "artist": "EFFY",
+      "isrc": "JPI101600409",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c37016e6-d2cf-4e0c-ba21-a7ae263d2290",
+      "title": "水無瀬小糸のテーマ",
+      "artist": "EFFY",
+      "isrc": "JPI101600382",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16ee3325-93bc-4618-a799-edbb815171e6",
+      "title": "GR∞VE L∞P",
+      "artist": "紫雨こころ",
+      "isrc": "JPD602500222",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/7eq7eoeQtthfPBaqR7yTdb",
+      "isFallback": true
+    },
+    {
+      "id": "094a531d-f0b1-403f-8a4d-72c60ab9eaf5",
+      "title": "リンボーダンス",
+      "artist": "EFFY",
+      "isrc": "JPI101600378",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0a07122-6e8d-47b8-919d-094c64c050c6",
+      "title": "Reason!!",
+      "artist": "315 STARS",
+      "isrc": "JPI101702296",
+      "releaseDate": "2017-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/1BelPw1RA4M0bjq0qKd2JR",
+      "isFallback": false
+    },
+    {
+      "id": "fe870041-3ec7-46ad-ac67-ff0e51e8bea4",
+      "title": "アイドルステアウェイ",
+      "artist": "周防桃子",
+      "isrc": "JPI102400736",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/7sqFXO9XGWbkQ0hFOzR2aY",
+      "isFallback": true
+    },
+    {
+      "id": "d8939d38-42d7-4640-9074-cc5be7962fbc",
+      "title": "愉快な出会い",
+      "artist": "EFFY",
+      "isrc": "JPI101600393",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd1199f2-4db1-4e4e-9dc7-762909dc2036",
+      "title": "Never giving up!",
+      "artist": "高海千歌",
+      "isrc": "JPI102000905",
+      "releaseDate": "2020-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92",
+      "isFallback": true
+    },
+    {
+      "id": "45fdf573-0e54-454e-b21a-b86d96375e3a",
+      "title": "僕らの走ってきた道は…",
+      "artist": "Aqours",
+      "isrc": "JPI101803057",
+      "releaseDate": "2019-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/2Nl2TyIotphMyrxgRSRlz8",
+      "isFallback": true
+    },
+    {
+      "id": "76438a27-3a7b-4dc1-8f99-11042ef0193f",
+      "title": "和泉玲奈のテーマ",
+      "artist": "EFFY",
+      "isrc": "JPI101600379",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e1524389-f20b-4515-8fe1-d842b2859f88",
+      "title": "So long, Say Goodbye",
+      "artist": "ラモーナ・ウォルフ",
+      "isrc": "JPI102302508",
+      "releaseDate": "2023-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/14EFYFALC6842czo7CbNRg",
+      "isFallback": true
+    },
+    {
+      "id": "40de0e3b-421c-40c4-b8b6-4a0b1267679f",
+      "title": "MY舞☆TONIGHT",
+      "artist": "Aqours",
+      "isrc": "JPI101702292",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5G1xmQ7U7G1wkuLNMEllD9",
+      "isFallback": true
+    },
+    {
+      "id": "3d5fcf9b-84ec-4071-b332-5529ede0cfb8",
+      "title": "Dear Honesty",
+      "artist": "StylipS",
+      "isrc": "JPI101500077",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/5I7mi3BKRbehofocZzakea",
+      "isFallback": true
+    },
+    {
+      "id": "d7c83e81-b585-4a05-80c3-e16791725aa0",
+      "title": "ファントム・アイキャッチB 〜幻想〜",
+      "artist": "EFFY",
+      "isrc": "JPI101600418",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb93e9c2-e07c-419d-ac37-f1310a61da54",
+      "title": "Higher Dimension",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01916769",
+      "releaseDate": "2019-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/7By2EbJ3C5UZR0HaoDrTII",
+      "isFallback": true
+    },
+    {
+      "id": "782cd3a3-25de-43e0-b728-28980a2ccbc1",
+      "title": "思い出が人を作る",
+      "artist": "EFFY",
+      "isrc": "JPI101600390",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b79b0a4-a28b-44b6-826b-7ebd8db578d7",
+      "title": "クママクラーレン家の危機",
+      "artist": "EFFY",
+      "isrc": "JPI101600396",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8b2d5928-2e98-4203-b537-bbc73165ad6e",
+      "title": "THE FIRST STAR",
+      "artist": "天道輝",
+      "isrc": "JPI101602207",
+      "releaseDate": "2016-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU",
+      "isFallback": false
+    },
+    {
+      "id": "6302b546-8112-43ea-b7f8-a34452baf8bc",
+      "title": "エブリデイ♪UTA-OH!!",
+      "artist": "咲良うた",
+      "isrc": "JPD602500220",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/7AenUboP1Byae1uhGkb0VZ",
+      "isFallback": true
+    },
+    {
+      "id": "2101724f-847e-4e8d-ac8f-852532ccd031",
+      "title": "天よ怒れ、大地よ叫べ!",
+      "artist": "EFFY",
+      "isrc": "JPI101600394",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ea45b709-c193-42a1-9769-054b1a7a3e3b",
+      "title": "Wink! Link!",
+      "artist": "蒼風なな",
+      "isrc": "JPD602500221",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/5rhU6OqaZfrewr3DvbK9qw",
+      "isFallback": true
+    },
+    {
+      "id": "8ea05ff0-f679-4426-82f5-6bb56321aec9",
+      "title": "僕らの日常",
+      "artist": "EFFY",
+      "isrc": "JPI101600371",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "430ce158-080b-4b95-8c1f-75c436b6e347",
+      "title": "サンリズム・オーケストラ♪",
+      "artist": "Sunshine Rhythm",
+      "isrc": "JPI101602450",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/1mwrLvl3nai7qF6GIokdfw",
+      "isFallback": false
+    },
+    {
+      "id": "5ac52a09-3611-4f42-a65f-8eb2b4f57fbe",
+      "title": "ハピハピdays",
+      "artist": "ハート♡インベーダー",
+      "isrc": "JPPO01412608",
+      "releaseDate": "2014-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a7f16aa3-f801-418d-ac11-eb48abd1baeb",
+      "title": "Episode. Tiara",
+      "artist": "STAR ELEMENTS",
+      "isrc": "JPI101900781",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/57wvNIrWYtrsIMCJo3RKPm",
+      "isFallback": false
+    },
+    {
+      "id": "d59f2904-13a5-42dd-a633-81867998ab9f",
+      "title": "MIRAI TICKET",
+      "artist": "Aqours",
+      "isrc": "JPI101601812",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/53r1ZLsLXyCSAJiTxF8hts",
+      "isFallback": true
+    },
+    {
+      "id": "453c0793-0fe7-4fa9-9b7a-8127ed51de5d",
+      "title": "君色プロローグ",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01821798",
+      "releaseDate": "2019-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/4h0AAB8k7A3RlMQRNQGHTS",
+      "isFallback": true
+    },
+    {
+      "id": "23fbb90e-71d9-4a16-984b-c507355a4681",
+      "title": "NEXT STAGE!",
+      "artist": "315 ALLSTARS",
+      "isrc": "JPI102101659",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/2dNeMijECbvryks252faMm",
+      "isFallback": false
+    },
+    {
+      "id": "6d9ec017-27f9-4f8f-9748-402061a13592",
+      "title": "その場所へ行くために -KEEP ON FIGHTING-",
+      "artist": "大河タケル",
+      "isrc": "JPI101701648",
+      "releaseDate": "2017-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/6fmNs7hgCuS2b0yZfHJ2cQ",
+      "isFallback": false
+    },
+    {
+      "id": "0c94ea9b-3e52-4759-a270-a618131eddbf",
+      "title": "KOKORO Magic “A to Z”",
+      "artist": "Aqours",
+      "isrc": "JPI101901642",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/41AYhoiB3yvaFiEjnRUnrN",
+      "isFallback": true
+    },
+    {
+      "id": "ec9d734b-54e1-4d2e-be23-ca38c66bac16",
+      "title": "兵士長アルブレヒト",
+      "artist": "EFFY",
+      "isrc": "JPI101600397",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f4553c7-8908-457f-b880-ce4ac0d48ed0",
+      "title": "Friends Per Second",
+      "artist": "鳳ここな",
+      "isrc": "JPI102400743",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/3h7EmTmetnyti4SG61R3ma",
+      "isFallback": true
+    },
+    {
+      "id": "1fb6dddc-63d9-492a-90ed-2d1fcaee92fc",
+      "title": "特別な一日",
+      "artist": "EFFY",
+      "isrc": "JPI101600406",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a79af88c-5d1f-4a7f-aab3-452670ad8034",
+      "title": "君の居場所",
+      "artist": "EFFY",
+      "isrc": "JPI101600389",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e144c75d-8e66-451f-9073-c0ee70bc4790",
+      "title": "ファントム・ワールドへようこそ 〜アバンA〜",
+      "artist": "EFFY",
+      "isrc": "JPI101600370",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0662c5d1-f2ee-449d-8b0a-fb16a8b589d4",
+      "title": "わんだふるぷりきゅあ! evolution!!",
+      "artist": "吉武千颯",
+      "isrc": "JPD602400025",
+      "releaseDate": "2024-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/6YFEpVSbsGtoVWqGRb4uv3",
+      "isFallback": true
+    },
+    {
+      "id": "29d6c1e5-4695-4ee0-83b2-ba302f2a0d11",
+      "title": "トゥインクル・トゥインクル・スクールデイズ!",
+      "artist": "新妻八恵",
+      "isrc": "JPI102302623",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/1DSx1cUVYjJFUJU1X7LhbW",
+      "isFallback": true
+    },
+    {
+      "id": "76e3f9eb-d303-4956-930e-6e1d173f9a8b",
+      "title": "Birth of Color",
+      "artist": "BIRTH",
+      "isrc": "JPI101402703",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/2Dd2NdrGigKHDzAAyn1qLM",
+      "isFallback": false
+    },
+    {
+      "id": "773fe40c-645b-430a-b49c-b0f4041f03db",
+      "title": "不思議な違和感",
+      "artist": "EFFY",
+      "isrc": "JPI101600380",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4e20276a-a158-41c5-9638-4f39b2c1f14b",
+      "title": "グローリー!",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01302917",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/5tzz6bUKzuTrrgSPfYmXp6",
+      "isFallback": true
+    },
+    {
+      "id": "397c1d69-4650-4a38-af3b-8e30d2c558d4",
+      "title": "よぎる不安",
+      "artist": "EFFY",
+      "isrc": "JPI101600383",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fe36086-23e5-4f2c-89c9-6df146817b47",
+      "title": "MY FIRST ACT!",
+      "artist": "新妻八恵",
+      "isrc": "JPI102400741",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/4mvos60VUxARUzZ707ZbD2",
+      "isFallback": true
+    },
+    {
+      "id": "44e21f1e-6290-495e-be9e-32c7fa883818",
+      "title": "STARLIGHT CELEBRATE!",
+      "artist": "DRAMATIC STARS",
+      "isrc": "JPI101500446",
+      "releaseDate": "2015-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/0mGHRxd6kPZxTVOEnvxxaj",
+      "isFallback": false
+    },
+    {
+      "id": "ba20eb22-0be1-43af-89f4-f75dd845165c",
+      "title": "うどん慕情",
+      "artist": "鎌月鈴乃",
+      "isrc": "JPI101301816",
+      "releaseDate": "2013-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/63e3LKZPgaMr3lMrMEmTjV",
+      "isFallback": true
+    },
+    {
+      "id": "fbbf7cc7-46e7-4b01-8076-b813ce530445",
+      "title": "常夏☆サンシャイン",
+      "artist": "澁谷かのん",
+      "isrc": "JPI102102483",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/344zv6eSZSMkRC6TykZiz1",
+      "isFallback": false
+    },
+    {
+      "id": "505cea00-f7f2-4954-85ad-55347b315839",
+      "title": "心踊る僕ら",
+      "artist": "EFFY",
+      "isrc": "JPI101600407",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4361474d-111e-406e-8119-f263546ebb4d",
+      "title": "One More Sunshine Story",
+      "artist": "高海千歌",
+      "isrc": "JPI102000890",
+      "releaseDate": "2017-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06",
+      "isFallback": true
+    },
+    {
+      "id": "f8514f20-376e-4d2a-8b0d-8745dd197536",
+      "title": "星屑のシンフォニア",
+      "artist": "ミルキーウェイ",
+      "isrc": "JPI101500276",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0uoUR9YLXN0rFwGp9iOIhF",
+      "isFallback": false
+    },
+    {
+      "id": "39a81c6a-f92b-4a1e-94b8-0a312b4ed5cd",
+      "title": "レッツゴー・バカンス!",
+      "artist": "EFFY",
+      "isrc": "JPI101600405",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8c36c50-7d08-44a9-96ee-9297ce0fb086",
+      "title": "Viva! Spark! トロピカル～ジュ! プリキュア",
+      "artist": "Machico",
+      "isrc": "JPD602000419",
+      "releaseDate": "2021-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/3JMxx8Ro0ib4ya12I07IIr",
+      "isFallback": true
+    },
+    {
+      "id": "9b85c4a3-71ab-4d0c-a42a-604933eedf80",
+      "title": "北島先輩の願い",
+      "artist": "EFFY",
+      "isrc": "JPI101600400",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d346402-c302-4b01-a6f7-4341c79b46d6",
+      "title": "不確かな現実、リアルな幻想",
+      "artist": "EFFY",
+      "isrc": "JPI101600374",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3fe091d0-1ce7-4eb7-9d50-098e0d1404da",
+      "title": "エニグマ、覚醒",
+      "artist": "EFFY",
+      "isrc": "JPI101600410",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61b3a3df-cf80-419e-8691-a5132472fec7",
+      "title": "小さな決意",
+      "artist": "EFFY",
+      "isrc": "JPI101600388",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "230fe6cf-4036-4795-b337-d4e28e9aa664",
+      "title": "全力Challenger",
+      "artist": "RISE",
+      "isrc": "JPKI02214094",
+      "releaseDate": "2022-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/0jEJBNibGE2n3IcTAzfRYr",
+      "isFallback": false
+    },
+    {
+      "id": "f268ca8c-1e81-40ce-b3e5-06a131832620",
+      "title": "ミライくるくるユメくるる！",
+      "artist": "澤田真里愛",
+      "isrc": "JPD602000051",
+      "releaseDate": "2020-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/2YOuEZ7vvlPwdrPzrFbZQM",
+      "isFallback": true
+    },
+    {
+      "id": "6ba190a3-a12f-4f13-b58d-723a2daf7b86",
+      "title": "幕末妖怪物語 〜池田屋事件〜",
+      "artist": "EFFY",
+      "isrc": "JPI101600403",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "21295d64-db6d-44c8-82c7-567e9018e9c3",
+      "title": "Try Try Try",
+      "artist": "石井あみ",
+      "isrc": "JPD602301453",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/4TJPOjqO6nY2YF2yrbd2qm",
+      "isFallback": false
+    },
+    {
+      "id": "e01653ca-5598-4712-b6d7-b9d839e9d0cb",
+      "title": "北島先輩の告白",
+      "artist": "EFFY",
+      "isrc": "JPI101600399",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d65bc84-253b-4fc5-ad79-9a3909ca8c54",
+      "title": "メインテーマ 〜ファントム〜",
+      "artist": "EFFY",
+      "isrc": "JPI101600385",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0018430-9e73-420c-983c-0010643c4524",
+      "title": "Happy Shiny Stories",
+      "artist": "RISE",
+      "isrc": "JPKI02214093",
+      "releaseDate": "2022-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/6RMfIgmCPNTz4qk8IgMTKe",
+      "isFallback": false
+    },
+    {
+      "id": "febc25e9-8381-45d8-addc-25702c12a7f6",
+      "title": "北島先輩との対峙",
+      "artist": "EFFY",
+      "isrc": "JPI101600401",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "10737fc3-9d65-465b-9a91-3510c7ac615b",
+      "title": "Beat the World!!!",
+      "artist": "菊地真",
+      "isrc": "JPI101600276",
+      "releaseDate": "2016-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/1WDFe624vLZc5Kl15S5Aet",
+      "isFallback": false
+    },
+    {
+      "id": "1ec9ac49-c7c6-49fa-810a-c45c6b6991f5",
+      "title": "そわそわ…",
+      "artist": "EFFY",
+      "isrc": "JPI101600375",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55564fa7-5bb8-40ad-b900-eec34a3ea2ce",
+      "title": "Hello, dear my dream 〜一秒後には〜",
+      "artist": "中野一花",
+      "isrc": "JPPC01900060",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/5N4AR7PVzuWqfkn9hf7dby",
+      "isFallback": true
+    },
+    {
+      "id": "010643af-a200-466a-84e1-65ab7ab056b9",
+      "title": "Save your smile",
+      "artist": "Machico",
+      "isrc": "JPD602200210",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/56Hyy0iObzqTwTPoiouDxT",
+      "isFallback": true
+    },
+    {
+      "id": "221c2fed-de7e-4f6c-aec7-e2b6af52382a",
+      "title": "プリティル〜ジュデイズ！",
+      "artist": "夏海まなつ",
+      "isrc": "JPD602100069",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/2wlMLbTbD3dWqmpIjb3DbR",
+      "isFallback": true
+    },
+    {
+      "id": "08df3027-9d28-4314-861f-ead43c3898db",
+      "title": "フレーフレー・ファンファーレ!",
+      "artist": "舎人仁花子",
+      "isrc": "JPI102302335",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/5cCISU6a6Q7FazkrvKdkDB",
+      "isFallback": true
+    },
+    {
+      "id": "9bd3a170-9ed0-47ff-85b0-5a7a2b8e1f2b",
+      "title": "Beyond The Dream",
+      "artist": "315 ALLSTARS",
+      "isrc": "JPI101602802",
+      "releaseDate": "2017-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/2OfNevONZQKj1rIQXJ3O8U",
+      "isFallback": false
+    },
+    {
+      "id": "99c26760-97b4-479a-9cc9-13d3c4e8096d",
+      "title": "ファントム・バトル",
+      "artist": "EFFY",
+      "isrc": "JPI101600373",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3387b0f9-b2b7-42ae-8a14-fba1ecde64b4",
+      "title": "海風とカスタネット",
+      "artist": "MILLIONSTARS Team2nd",
+      "isrc": "JPI102301893",
+      "releaseDate": "2023-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/7z6dz17zuyPjdtu6tpdxNs",
+      "isFallback": false
+    },
+    {
+      "id": "cb8e4036-e916-49b4-9f82-133e35d9e6b6",
+      "title": "Shamrock Vivace",
+      "artist": "CLEVER CLOVER",
+      "isrc": "JPI102103943",
+      "releaseDate": "2022-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct",
+      "isFallback": false
+    },
+    {
+      "id": "c5af8363-bed1-4626-9d62-f8b8640618c8",
+      "title": "コミカル・バトル",
+      "artist": "EFFY",
+      "isrc": "JPI101600377",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0066911f-6bfd-4fd8-b7f2-1b741ae0f789",
+      "title": "ファントム・アイキャッチA 〜幻想〜",
+      "artist": "EFFY",
+      "isrc": "JPI101600417",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5ff61dcb-223a-451f-9405-9b3ae536d929",
+      "title": "これにて対策終了!",
+      "artist": "EFFY",
+      "isrc": "JPI101600391",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "66008a46-c862-4b89-b56a-0f8d3e227475",
+      "title": "未来コネクト",
+      "artist": "夕凪ツバサ",
+      "isrc": "JPD602301450",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/0lXLA5QWDoy8an8YRd6tPL",
+      "isFallback": false
+    },
+    {
+      "id": "1ab6dbec-a1a3-43f7-9ea7-c89ef32529b2",
+      "title": "インフィニット",
+      "artist": "岡咲美保",
+      "isrc": "JPKI02212801",
+      "releaseDate": "2022-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8",
+      "isFallback": true
+    },
+    {
+      "id": "af67ba43-b427-4d3d-bb23-cec8717f3255",
+      "title": "魔女ファントムのたくらみ",
+      "artist": "EFFY",
+      "isrc": "JPI101600404",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61566562-cada-41cc-a688-fbb72a66f2f0",
+      "title": "親子の情景",
+      "artist": "EFFY",
+      "isrc": "JPI101600407",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9e54c5b-708c-4669-891f-77e228e65623",
+      "title": "真の目的",
+      "artist": "EFFY",
+      "isrc": "JPI101600412",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "06a3b464-d139-43a0-9603-ed5072792eb7",
+      "title": "砂浜TEMPTATION",
+      "artist": "ハート♡インベーダー",
+      "isrc": "JPPO01408601",
+      "releaseDate": "2014-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7efc37c1-d69d-4fd6-ac8e-61559e8c3265",
+      "title": "祈りの羽根",
+      "artist": "豊川風花",
+      "isrc": "JPI101701513",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/1iqmvJXS9wDnMpg5Hg496R",
+      "isFallback": false
+    },
+    {
+      "id": "3468360e-ccd2-4e7c-839c-7f0ad265d417",
+      "title": "踊る魔法に観る魔法",
+      "artist": "流石知冴",
+      "isrc": "JPI102402313",
+      "releaseDate": "2025-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/0gRE5LgBGMbWMBZfwpzmzI",
+      "isFallback": true
+    },
+    {
+      "id": "b8856e6d-4663-4e71-90c3-634142185f86",
+      "title": "風読みバード",
+      "artist": "夕凪ツバサ",
+      "isrc": "JPD602301448",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/1YsTcRMaFmaHpmmya0cl4a",
+      "isFallback": false
+    }
+  ]
+}

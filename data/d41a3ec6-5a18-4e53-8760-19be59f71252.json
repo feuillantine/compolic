@@ -1,0 +1,1131 @@
+{
+  "name": "渡部チェル",
+  "sortName": "ワタナベチェル",
+  "tracks": [
+    {
+      "id": "91897c03-f4c6-443f-bab9-78e7ba6d917b",
+      "title": "The last element",
+      "artist": "アユミ",
+      "isrc": "JPE200204201",
+      "releaseDate": "2003-02-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b3abfc27-7bb5-4fdb-acc3-02d70644456e",
+      "title": "修羅の果てまでも",
+      "artist": "角田信朗",
+      "isrc": "JPKI01010422",
+      "releaseDate": "2014-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/1gA4mFUhJgakIePiiSVeCH",
+      "isFallback": true
+    },
+    {
+      "id": "4744729c-3f36-4348-bdaa-20d639912da0",
+      "title": "MAKUAKE",
+      "artist": "増倉義将",
+      "isrc": "JPV732200083",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/7M5IlynlUm1wLlwaJI2PTx",
+      "isFallback": true
+    },
+    {
+      "id": "238b9b84-485c-4c25-b8fa-6e0197b9d537",
+      "title": "EMPRESS GAME",
+      "artist": "エアグルーヴ",
+      "isrc": "JPI101700578",
+      "releaseDate": "2017-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/6JJoYtqpysCtg4MwPPMG6t",
+      "isFallback": false
+    },
+    {
+      "id": "2b332e0f-f242-4a49-827f-c1bccdf5e5c8",
+      "title": "クライマックス4",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229728",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1O7waD9rzCtKjgKiTva1uE",
+      "isFallback": true
+    },
+    {
+      "id": "70f53e18-b80f-4a7a-baa8-14dceccb16ee",
+      "title": "クライマックス6",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229730",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/3jjrkVVm2WkgbOIv3f4laf",
+      "isFallback": true
+    },
+    {
+      "id": "c71b3ace-e320-4d1b-88b9-fc01336bee25",
+      "title": "With The Will",
+      "artist": "和田光司",
+      "isrc": "JPE200201102",
+      "releaseDate": "2002-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "219fb16d-16fa-4cb7-9d9f-b8ade10d2a29",
+      "title": "夏休みページ",
+      "artist": "マヤ",
+      "isrc": "JPPI01951420",
+      "releaseDate": "2019-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/2YJ2Vota3GdKrDVoP1njJn",
+      "isFallback": true
+    },
+    {
+      "id": "267ca4ae-a1a8-4625-bf7d-78271b24e854",
+      "title": "ボクのポケット",
+      "artist": "キャンチョメ",
+      "isrc": "JPE200303502",
+      "releaseDate": "2004-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "723cc9c4-e30d-41ad-a0b1-e8995fdecf36",
+      "title": "Today",
+      "artist": "中村優",
+      "isrc": "JPB600875502",
+      "releaseDate": "2009-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/3VnZteK5fW5vjbdYJsXMSg",
+      "isFallback": true
+    },
+    {
+      "id": "767416e3-9610-4e92-8876-74fb9222dd0e",
+      "title": "たおせ! シュークリームマン",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300250",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7a2a62b8-0557-4cf0-ac9a-15f6d2249eb7",
+      "title": "ハレ☆ソラ",
+      "artist": "りな",
+      "isrc": "JPCO00637650",
+      "releaseDate": "2007-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/4ZgDc0hHrTKKRrtNZ9MOKS",
+      "isFallback": true
+    },
+    {
+      "id": "612baa4e-50d7-4655-8b5e-d73a3076da79",
+      "title": "キラメキ☆",
+      "artist": "U149",
+      "isrc": "JPCO02308040",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/448tE7vcyEb4xBAI4sWyi2",
+      "isFallback": true
+    },
+    {
+      "id": "f5103979-dcb9-4671-b9ea-00576179ac1d",
+      "title": "クライマックス1",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229725",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1CYK1VnxwpCEGP63dwJZjG",
+      "isFallback": true
+    },
+    {
+      "id": "1a45ee25-a1ca-4365-b4b8-bebefe4fd1c6",
+      "title": "女神と死神",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01916901",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/2ijDWBoln1lq2SxIcAkojd",
+      "isFallback": true
+    },
+    {
+      "id": "c9c4e15c-6b1a-499c-9133-9bb8b00add03",
+      "title": "お祭り輪っしょい!!",
+      "artist": "マヤ",
+      "isrc": "JPPI01951410",
+      "releaseDate": "2019-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/0sbbP6iqwKyMajMmY6s1d6",
+      "isFallback": true
+    },
+    {
+      "id": "17709b10-e80d-4b09-8948-5557f14e14cb",
+      "title": "変身!",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229714",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/0LhNO8V8K1AxzhuBoRoGpb",
+      "isFallback": true
+    },
+    {
+      "id": "68fff2ac-5eb8-4a89-ad40-d8a01f45d92d",
+      "title": "take it a try",
+      "artist": "相川始",
+      "isrc": "JPB600452801",
+      "releaseDate": "2004-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/7C4dY6Rz4VFVFt1gM5pOl3",
+      "isFallback": true
+    },
+    {
+      "id": "64a3fcc4-1d5c-4882-a267-7e7ef26d8cd2",
+      "title": "Smiley Contrast",
+      "artist": "ハツネ",
+      "isrc": "JPCO01818760",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/7iOmZnk4go1gO8sjy950h1",
+      "isFallback": false
+    },
+    {
+      "id": "947f93bc-0e43-4f63-a841-1a51257681a6",
+      "title": "夢のつづき",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI02514958",
+      "releaseDate": "2025-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/60W9ag2qr9kCgZH60gjyMO",
+      "isFallback": true
+    },
+    {
+      "id": "128a2be8-b2d3-4764-8705-43674ca995f5",
+      "title": "EGO〜eyes glazing over",
+      "artist": "ICHIDAI",
+      "isrc": "JPB600342701",
+      "releaseDate": "2003-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1n6KEdliD93O2YggFDRgMv",
+      "isFallback": true
+    },
+    {
+      "id": "3f20a850-5189-42e7-be15-0b0fd24bda0c",
+      "title": "士郎と威",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229710",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/2mNVMjs3G6RABarNXGMEYT",
+      "isFallback": true
+    },
+    {
+      "id": "1322af09-9d67-46e7-8636-bdf5354c18a1",
+      "title": "Questions?",
+      "artist": "中村優",
+      "isrc": "JPB600875501",
+      "releaseDate": "2009-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba9774c2-4b0d-4a32-af8f-fd37ef973936",
+      "title": "B型の流星~Shooting star type B~",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00902276",
+      "releaseDate": "2009-09-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c2565680-c949-4a6d-985f-ff7c2c716947",
+      "title": "Love is island",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00902280",
+      "releaseDate": "2009-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/3RlbZRcrjfw8XmvdJxn55a",
+      "isFallback": true
+    },
+    {
+      "id": "e27434d1-5798-43a6-8a4a-21e78adb7785",
+      "title": "Black Identity",
+      "artist": "ロゥリィ",
+      "isrc": "JPQ461500316",
+      "releaseDate": "2015-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/1emhDEw2FdxbG4TFCJ09fQ",
+      "isFallback": true
+    },
+    {
+      "id": "f97fd776-5b17-48e4-968a-d5c2f1c22bdc",
+      "title": "シュバッとNo.1",
+      "artist": "橘・シルフィンフォード",
+      "isrc": "JPZ921509529",
+      "releaseDate": "2015-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/58epvUmTxx3GjyOjc3Oytr",
+      "isFallback": true
+    },
+    {
+      "id": "613b9734-e0dd-45e3-91cc-8ae1f33e8c41",
+      "title": "ミッドナイト・パーティー",
+      "artist": "マヤ",
+      "isrc": "JPPI01852420",
+      "releaseDate": "2018-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/3jZ9mwrcxDQiOEjhJCmqvM",
+      "isFallback": true
+    },
+    {
+      "id": "e1a783b1-5caa-4728-b933-d32ea557976d",
+      "title": "タイムリミットB",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229713",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/47DFNOCYtiHTuTDNHXNlsd",
+      "isFallback": true
+    },
+    {
+      "id": "8bd1452d-f505-4e60-b25c-bf34bfc6eb0d",
+      "title": "仕方ないのでやれやれ (FULL VERSION)",
+      "artist": "シト",
+      "isrc": "",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d7acaa74-8abd-4667-ab53-792809ed1580",
+      "title": "ミニモニ。カフェで大騒動",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300180",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9a2b4a71-790c-4ecd-98e5-71f5029de233",
+      "title": "くずれゆくナカジェリーヌ城",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300260",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "28aa07f4-b599-4f86-83d9-8d842b9751bc",
+      "title": "Sunny Canvas",
+      "artist": "サンドリオン",
+      "isrc": "JPCO02407100",
+      "releaseDate": "2024-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/2ACXsTDUOiZGEOZ32SgU0h",
+      "isFallback": false
+    },
+    {
+      "id": "157a1a14-670f-4976-8917-797e97bb8cc0",
+      "title": "きょうも茶ッピーエンド",
+      "artist": "デューク・エイセス",
+      "isrc": "JPTO00202468",
+      "releaseDate": "2003-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1294877d-9ac3-43a8-ad66-7d27ead06b47",
+      "title": "契約",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229721",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/2h9LFoCrsM4ewZSFmQ43xy",
+      "isFallback": true
+    },
+    {
+      "id": "d0e98d25-1cc1-4cb3-ba7a-b669763ae121",
+      "title": "アイム・ア・リトル・プリンセス ～お星さまにお願い～",
+      "artist": "古賀小春",
+      "isrc": "JPCO02307700",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/2hf78k7agf9De8XOzB1YFh",
+      "isFallback": true
+    },
+    {
+      "id": "3bb5f889-f27c-4b70-9ffd-e8bb8d1dc2d7",
+      "title": "君色Everyday",
+      "artist": "ヘスティア",
+      "isrc": "",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a052b415-5251-4a1a-9cb9-6a494b55744d",
+      "title": "うたうポケモン図鑑・ノーマルポケモンpart 1",
+      "artist": "香取沙季",
+      "isrc": "",
+      "releaseDate": "1999-01-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7ab0b97-05bc-492b-baa1-a52706ac47ba",
+      "title": "よりみちリトルスター",
+      "artist": "U149",
+      "isrc": "JPCO02307230",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/0c0SOC0Vz2uQZImlGfnlMf",
+      "isFallback": true
+    },
+    {
+      "id": "70af3e38-576f-425f-932e-e7fb9b75d8a1",
+      "title": "ライダーvsライダー",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229746",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4AMX6s4VQv4GfGF2XiHlQJ",
+      "isFallback": true
+    },
+    {
+      "id": "df25b131-b1fa-4132-8140-e60ebc9dcf60",
+      "title": "Fantas/HIP Girlfriends!",
+      "artist": "神無のぞみ",
+      "isrc": "JPQ461600460",
+      "releaseDate": "2016-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/3pfm55PPg3SVsDnkBLHYpi",
+      "isFallback": true
+    },
+    {
+      "id": "9d744109-0b27-467c-8adc-4be734841978",
+      "title": "カードバトル",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229740",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4W7G4jRnjJVXQH7PRWiHYG",
+      "isFallback": true
+    },
+    {
+      "id": "9aafc073-bc47-44ce-bfa1-b3cf5bc4676c",
+      "title": "ぼくらのVICTORY",
+      "artist": "パイレーツ",
+      "isrc": "",
+      "releaseDate": "1999-07-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "711bc8a1-0d64-4153-8591-e5c2208357bd",
+      "title": "EVO",
+      "artist": "WILD CHILD BOUND",
+      "isrc": "JPE200102001",
+      "releaseDate": "2001-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83cd7ef3-6ba6-4907-803c-f225128ce360",
+      "title": "仮面ライダーリュウガ",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229724",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/0KndCST6mml5z623iXFBrT",
+      "isFallback": true
+    },
+    {
+      "id": "86bb9820-b905-4b4f-96d9-6989ac87a014",
+      "title": "士郎と真司, 蓮",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229711",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/6HFYi9jvsJktoPyrqVI7Qc",
+      "isFallback": true
+    },
+    {
+      "id": "4edbe824-5744-4873-bad3-d0a3d5aa2c2a",
+      "title": "ゲ戦記うぉーず！",
+      "artist": "土間うまる",
+      "isrc": "JPV431700607",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/3ngbEgli3UdPwAm0ADoKvd",
+      "isFallback": true
+    },
+    {
+      "id": "57351933-0267-4109-963b-28012beb79bb",
+      "title": "READY, B-FIGHT!",
+      "artist": "遠藤正明",
+      "isrc": "",
+      "releaseDate": "1999-03-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8e91d78-7259-4de8-80b4-f6415198eb92",
+      "title": "First Riders",
+      "artist": "増倉義将",
+      "isrc": "JPV732100141",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/6iZtfUT8EPSapNnnjRNe9z",
+      "isFallback": true
+    },
+    {
+      "id": "7a720078-2cf2-4276-9332-d26a6c8c49a4",
+      "title": "弾けろ! マックスショット",
+      "artist": "水木一郎",
+      "isrc": "JPPS09900860",
+      "releaseDate": "1999-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/7iyXTZX3NpOhpnjvJdLiyr",
+      "isFallback": true
+    },
+    {
+      "id": "87f7dd4d-6e21-441d-acca-f0eefdfac596",
+      "title": "High speed",
+      "artist": "渡部チェル",
+      "isrc": "JPB600611405",
+      "releaseDate": "2006-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/2j8OsHARiXPgwYVPVYttxE",
+      "isFallback": true
+    },
+    {
+      "id": "a0dc59a8-7af9-4545-9bc3-e9dbe66a6038",
+      "title": "Buddy, steady, go!",
+      "artist": "寺島拓篤",
+      "isrc": "JPI101901270",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/79EDScWecx4iOH0Boc67Bo",
+      "isFallback": true
+    },
+    {
+      "id": "f50396dc-6004-4584-ae0b-40ddcd12da06",
+      "title": "ステップ",
+      "artist": "渡部優衣",
+      "isrc": "JPTK01710340",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/7CPiGL5Y5Qrn5LpLxRe9hU",
+      "isFallback": false
+    },
+    {
+      "id": "52917c5b-f830-4be9-bbb9-adb0bad9e208",
+      "title": "Dear My Dreamers",
+      "artist": "姫川友紀",
+      "isrc": "JPCO01823060",
+      "releaseDate": "2018-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/5IsYipNViA7gxykPiqUP5C",
+      "isFallback": true
+    },
+    {
+      "id": "97332f34-ec5a-44c9-9ece-7b7d18d6b8eb",
+      "title": "キリキリスー",
+      "artist": "ユミコ",
+      "isrc": "JPP751102280",
+      "releaseDate": "2009-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/5G4sC9sxc4PC9mld96KHBy",
+      "isFallback": true
+    },
+    {
+      "id": "49bd6c82-1c11-40f3-b749-79e7ebe2818f",
+      "title": "Ready Go!!",
+      "artist": "まじかる☆あ〜る",
+      "isrc": "JPVP01514801",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71178faa-d438-416b-a993-6366bf977c99",
+      "title": "うどん!うどどん!うどどどどーん!",
+      "artist": "高橋愛",
+      "isrc": "JPA602200049",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/3bb57yKDSDmEdQulg07XEx",
+      "isFallback": true
+    },
+    {
+      "id": "c7a87701-eb29-4d2a-a5e0-4975d5fc7715",
+      "title": "地獄でホットケーキ",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01816404",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/3fnwnp3cGI1q75h9ovcFTv",
+      "isFallback": true
+    },
+    {
+      "id": "5de7b30d-da7e-4c60-83c0-7bb349b6cb1d",
+      "title": "コントラクト",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229738",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1TtL0WBXUQPSGfy9SjIcBl",
+      "isFallback": true
+    },
+    {
+      "id": "c83abed4-5d77-4943-8f45-1e282d5f448f",
+      "title": "Individual on parade!",
+      "artist": "オンゲキシューターズ",
+      "isrc": "JPD732400924",
+      "releaseDate": "2024-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/4RatuUvRXx96rjIsUTRscn",
+      "isFallback": true
+    },
+    {
+      "id": "c6c5db08-681f-4c63-bb42-52b7a96a61df",
+      "title": "クライマックス2",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229726",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/18Zkw78Ow3MuuMxY2e1Si4",
+      "isFallback": true
+    },
+    {
+      "id": "68dd87fa-c87d-4e68-9492-98ffdc2dd325",
+      "title": "女王ちゃまのひみつ",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300200",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3c8a96b9-47f3-43c2-9792-10d2abd3b85d",
+      "title": "Memory",
+      "artist": "渡部チェル",
+      "isrc": "JPB600611404",
+      "releaseDate": "2006-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/4YCjoem58nnNXZWvkAzl3x",
+      "isFallback": true
+    },
+    {
+      "id": "28c0fdc9-ba50-46ed-867b-6030cd7be32b",
+      "title": "タイムリミットA",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229712",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/5oHXWzlRZ9JOWh0AW6NQX1",
+      "isFallback": true
+    },
+    {
+      "id": "c55731f8-91e5-4616-a9d1-43fee4472706",
+      "title": "ギュっとMilky Way (M@STER VERSION)",
+      "artist": "佐久間まゆ",
+      "isrc": "JPCO02000370",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/0dOYkpbmrCBE17Li0EQXJQ",
+      "isFallback": true
+    },
+    {
+      "id": "4bb0661b-d90b-48fd-9dad-0ad05b039311",
+      "title": "ナイト, 出現!",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229742",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/36L01N5LOPZpjCJimy74Gm",
+      "isFallback": true
+    },
+    {
+      "id": "e859005e-e352-4439-8211-8e2ab86e719e",
+      "title": "Now is the time!!",
+      "artist": "AiM",
+      "isrc": "JPE200000702",
+      "releaseDate": "2000-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8aceddd-4498-4449-80f8-f719470a3156",
+      "title": "SONIC DRIVE",
+      "artist": "影山ヒロノブ",
+      "isrc": "JPKT00300930",
+      "releaseDate": "2003-05-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b5933a36-29c9-4ff8-b46e-b8e1c76980b5",
+      "title": "NEXT LEVEL",
+      "artist": "YU-KI",
+      "isrc": "JPB600611401",
+      "releaseDate": "2006-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/57XKvZmDJVNxHG71mW9GuF",
+      "isFallback": true
+    },
+    {
+      "id": "9b6fcd78-3daa-4ef8-ad78-fa3120271e3a",
+      "title": "夢のつぼみ",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01519306",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/4HwuoFAYwoWviapQwzGHuC",
+      "isFallback": true
+    },
+    {
+      "id": "21df5a90-849c-4cae-9698-d6b6d86588d1",
+      "title": "クライマックス3",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229727",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4YxDpfi3Mx1xlkOgDHXrsW",
+      "isFallback": true
+    },
+    {
+      "id": "d844e2ec-eb61-4cdd-a50a-145b5413b8b4",
+      "title": "オトメロディー",
+      "artist": "高橋美佳子",
+      "isrc": "",
+      "releaseDate": "2005-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7c2541e1-d91c-49b2-8157-9bf3e89a680c",
+      "title": "モンスター",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229736",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/39SY272nPaOzxrGLmCtQlg",
+      "isFallback": true
+    },
+    {
+      "id": "7a6608ea-23a1-4c69-83c2-10fe39be21ee",
+      "title": "Messenger RNA",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00902281",
+      "releaseDate": "2009-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/00iCRWuLANZ6v6XcMQCBXT",
+      "isFallback": true
+    },
+    {
+      "id": "b640875f-17b2-4e0a-bc60-0b0ab7c7407c",
+      "title": "コイ▽クル",
+      "artist": "maikee",
+      "isrc": "JPP751102279",
+      "releaseDate": "2009-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/2R9mQXYW2huGQ1fPa4r4rT",
+      "isFallback": true
+    },
+    {
+      "id": "3d8422fd-09c7-4590-9446-eb3722f8bd1d",
+      "title": "世界はピーポー(超ムゲン大MIX)",
+      "artist": "ASACO",
+      "isrc": "JPCO00038780",
+      "releaseDate": "2006-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "43ac092d-fff0-438b-8288-58fc9f859840",
+      "title": "With Love (M@STER VERSION)",
+      "artist": "五十嵐響子",
+      "isrc": "JPCO01818130",
+      "releaseDate": "2018-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/30JVJ7LltNvKR59lXAK3tP",
+      "isFallback": true
+    },
+    {
+      "id": "3308fc8a-1b2f-4611-bea4-e2447adf2c7c",
+      "title": "ひまわりマークをさがせ！",
+      "artist": "龍崎薫",
+      "isrc": "JPCO02105470",
+      "releaseDate": "2021-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/5RttyptiZaIenZi0NLJdMk",
+      "isFallback": true
+    },
+    {
+      "id": "f4a940d1-5af6-43e3-90e9-41bfa68c1df3",
+      "title": "ニュース・Why・Mo・Mo",
+      "artist": "小鳥桃葉",
+      "isrc": "JPKI00703427",
+      "releaseDate": "2007-05-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9fbf916a-2189-4772-b33e-c5dc2e3423bc",
+      "title": "ラヴィアンローズ",
+      "artist": "櫻井桃華",
+      "isrc": "JPCO01537320",
+      "releaseDate": "2015-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/1sjZWNwBxH4cKbVu3nqKIr",
+      "isFallback": true
+    },
+    {
+      "id": "858f31b5-fcf7-4b66-be19-51c006bfac49",
+      "title": "刹那ティックコード",
+      "artist": "ときのそら",
+      "isrc": "JPVI02000043",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/1wiozX7rNFdZzqk8YNjhYL",
+      "isFallback": true
+    },
+    {
+      "id": "e08bde16-d786-4bbd-af7a-c0ce391bfb30",
+      "title": "ふんわりSlowly",
+      "artist": "スーパークリーク",
+      "isrc": "JPI102101929",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/6PTRIUAAqJj1OcR20xXTsh",
+      "isFallback": true
+    },
+    {
+      "id": "d439ba4a-8f35-4afe-bb7d-24e46d2305dd",
+      "title": "強敵",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229741",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/3kgGC1tjnPkvopxbJdEZ7q",
+      "isFallback": true
+    },
+    {
+      "id": "24565563-6e56-44a7-a966-9ffc53f096c8",
+      "title": "ナカジェリーヌ城にしのびこめ!",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300210",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d7378d89-5c49-4e9c-9278-0a053f7bc1b8",
+      "title": "The people with no name",
+      "artist": "RIDER CHIPS",
+      "isrc": "JPB600574307",
+      "releaseDate": "2006-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1622M3y6xPcFNK0BBBuYpy",
+      "isFallback": true
+    },
+    {
+      "id": "700d12d3-4a3a-42e2-957b-0eeb6cde9d55",
+      "title": "ふわりずむ",
+      "artist": "宮尾美也",
+      "isrc": "JPI101702873",
+      "releaseDate": "2018-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/7M1fZ3fe8Aj3s5c3s6RbcZ",
+      "isFallback": false
+    },
+    {
+      "id": "6dab30d2-87e7-4fc8-bc53-e9b2cf056c76",
+      "title": "フレーバーフレーバー",
+      "artist": "良い肉工房。",
+      "isrc": "",
+      "releaseDate": "2023-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed2422b2-a322-47b4-9623-00633cfe1b43",
+      "title": "ハートボイルドウォーズ (M@STER VERSION)",
+      "artist": "大和亜季",
+      "isrc": "JPCO02229870",
+      "releaseDate": "2023-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/3PWoiOS1CFgKYrVABAQFNP",
+      "isFallback": true
+    },
+    {
+      "id": "a144fdbf-ee4a-451e-af9c-b064fdc9fcdf",
+      "title": "すすめ!はっくしょんベイビー",
+      "artist": "酒井法子",
+      "isrc": "JPVI00731160",
+      "releaseDate": "2007-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/63D7Hb6y6KMqXFmQyN7IpJ",
+      "isFallback": true
+    },
+    {
+      "id": "d8f4c4e8-8aff-4ab7-841e-2b0e5d208d91",
+      "title": "さよならミニモニ。カフェ",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300280",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd6a0a13-24ae-41b2-b65c-16a6f8c6de0e",
+      "title": "Action!!",
+      "artist": "渡部チェル",
+      "isrc": "JPB600611406",
+      "releaseDate": "2006-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/6d70yCtnm16nAJfY2wFxHT",
+      "isFallback": true
+    },
+    {
+      "id": "95c2ee99-f96f-467d-8532-d688e8d3c40b",
+      "title": "クライマックス8",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229732",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/3JSdFzEzApJiZU6FINiy3F",
+      "isFallback": true
+    },
+    {
+      "id": "7addcedb-e755-43f0-ab25-ee7229b1c1cb",
+      "title": "ラ・ラ・ラ!ラ?モーニング",
+      "artist": "モカ",
+      "isrc": "JPPI01753150",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/3g7bTvhBXWKu5G04QTv7lf",
+      "isFallback": true
+    },
+    {
+      "id": "367afa8a-bfa8-4217-8dd6-8314e123417a",
+      "title": "クライマックス5",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229729",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/3H9UmDqOOXryl7yZfwyA1g",
+      "isFallback": true
+    },
+    {
+      "id": "58e752a5-2018-4ce7-897b-587e50908626",
+      "title": "ヒトツノミライ",
+      "artist": "ティオ",
+      "isrc": "JPE200303602",
+      "releaseDate": "2004-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f15070b-12f4-4f29-80b8-927c72170640",
+      "title": "夢にエール! パティシエール♪",
+      "artist": "五條真由美",
+      "isrc": "JPCO00932960",
+      "releaseDate": "2010-01-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8f59ab9-3470-4145-bb95-5074b3962905",
+      "title": "咲きませ！！乙女塾",
+      "artist": "天海春香",
+      "isrc": "JPCO01809390",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36a9f56b-4fe6-41a7-82ae-8b76e846036f",
+      "title": "憎悪",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229716",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/2ofPmL2tZyP9Np0w9Q64kk",
+      "isFallback": true
+    },
+    {
+      "id": "81772423-b89a-40bc-91f2-112ee1d27612",
+      "title": "龍騎, 変身!",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229739",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4NBNrgxpfpwS5mvXPcQnog",
+      "isFallback": true
+    },
+    {
+      "id": "6f3a6cea-c2bb-499f-a810-2c53771b143d",
+      "title": "恋はじめました。",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00902278",
+      "releaseDate": "2009-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/32KRCzRSd9VRnHJUCiLHhh",
+      "isFallback": true
+    },
+    {
+      "id": "593b93aa-1d6d-42e0-8332-7d556e210f0d",
+      "title": "雑煮でケンカしてんじゃねーよ",
+      "artist": "宮崎由加",
+      "isrc": "JPA601700392",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64e4712b-08c9-42ac-8831-b36707d93518",
+      "title": "驚異の冷蔵庫・その名は冷蔵",
+      "artist": "渡部チェル",
+      "isrc": "JPA600300220",
+      "releaseDate": "2003-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "619fbeba-394e-474e-9d37-51ebc136e9a2",
+      "title": "決意",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229719",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/4zwveMDwbPNq5TcLXsv3Lw",
+      "isFallback": true
+    },
+    {
+      "id": "3feed7cd-f506-447a-990d-38f84b310502",
+      "title": "求(Q)愛(I)ある(R)ある(R) アニマルダンス",
+      "artist": "ももくろちゃんZ",
+      "isrc": "JPKI01716412",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5GAdDXiRoPenkWNC8dlBQI",
+      "isFallback": true
+    },
+    {
+      "id": "126c55c8-0c38-46be-a16c-2fa381821288",
+      "title": "流れ星キセキ",
+      "artist": "new generations",
+      "isrc": "JPCO01534690",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c19ea02c-a151-4a2f-82d1-65fe5671b1ca",
+      "title": "約束したのに",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229720",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/6vF5YdrqnZsm0oVMbeG628",
+      "isFallback": true
+    },
+    {
+      "id": "21c986a7-edfc-47cc-b34d-d64867710dd3",
+      "title": "生存本能ヴァルキュリア (M@STER VERSION)",
+      "artist": "新田美波",
+      "isrc": "JPCO01629220",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/3g20qoZbIsT3XF8w7KmwLo",
+      "isFallback": true
+    },
+    {
+      "id": "0ce3346d-808e-4182-9c2b-45ba7dfb0c94",
+      "title": "新たな存在",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229745",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/24BIFvjyLfNxvONWkQ2uxD",
+      "isFallback": true
+    },
+    {
+      "id": "7e4767af-01f1-4b05-af6b-068653ed57d3",
+      "title": "笑顔のループ",
+      "artist": "堀江美都子",
+      "isrc": "JPCO00910520",
+      "releaseDate": "2009-05-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ac845ba-35cf-4807-b258-0273101ee676",
+      "title": "春空",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01711248",
+      "releaseDate": "2017-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/1MYdnk7YNIGzDyLINdSAtn",
+      "isFallback": true
+    },
+    {
+      "id": "358bc95d-6719-477f-9713-ead1d0c4ff26",
+      "title": "霧島美穂-陰",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229707",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/30rUGWuFhpV8QCpcf15ZxB",
+      "isFallback": true
+    },
+    {
+      "id": "df175836-319a-4446-8714-8442ad62470e",
+      "title": "私色ギフト",
+      "artist": "凸レーション",
+      "isrc": "JPCO01533110",
+      "releaseDate": "2015-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2dbc9dfb-f851-4dbb-8726-6967b572837e",
+      "title": "黄昏太平旅路唄",
+      "artist": "ルカ",
+      "isrc": "JPCO02017490",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/2YTOaOuOtnq7uxlZ5Or9ua",
+      "isFallback": false
+    },
+    {
+      "id": "3e2a8cff-3820-4edc-a0ef-c669e9eba296",
+      "title": "街角シンデレラ",
+      "artist": "栞",
+      "isrc": "JPI102202228",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/3DrCaHxTnkqtnmnV8aBTvK",
+      "isFallback": false
+    },
+    {
+      "id": "8275343a-9c04-4eb8-9559-6bc6d185a64d",
+      "title": "炎ノ鳥",
+      "artist": "四条貴音",
+      "isrc": "JPCO02014990",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f56ee7e-7f74-4895-8bd6-ada50cf9d61d",
+      "title": "白翼のグローリエ",
+      "artist": "モニカ",
+      "isrc": "JPCO01926740",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2XLHwMdWgAHmTQvhCvlbmw",
+      "isFallback": false
+    },
+    {
+      "id": "d2a0b900-6a0f-4df2-8bb7-35faf5719cce",
+      "title": "覚醒",
+      "artist": "Ricky",
+      "isrc": "JPB600402102",
+      "releaseDate": "2004-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/1aTn8XGqdNivg8HTIXx5tb",
+      "isFallback": true
+    },
+    {
+      "id": "82a10900-570d-4d2a-8149-0bab96d0f100",
+      "title": "王蛇vsファム",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229723",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/6zObqAbrkHcYSNr5GcWGqz",
+      "isFallback": true
+    },
+    {
+      "id": "3bace8c6-8898-4fda-afe7-e7bb1651641e",
+      "title": "美に入り彩を穿つ (M@STER VERSION)",
+      "artist": "小早川紗枝",
+      "isrc": "JPCO01822110",
+      "releaseDate": "2018-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/0sYR4zKjo613uv7lwqO6PD",
+      "isFallback": true
+    },
+    {
+      "id": "9be565a1-6046-4efe-9161-9710d7a9569d",
+      "title": "瞳の中の迷宮",
+      "artist": "嘉陽愛子",
+      "isrc": "JPB600373501",
+      "releaseDate": "2003-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/0Fn61hFVjhv1JhYVxZaS7B",
+      "isFallback": true
+    },
+    {
+      "id": "e9f404af-ef20-4c4b-ad15-0cbc6bd4bae2",
+      "title": "炎のオーバードライブ",
+      "artist": "和田光司",
+      "isrc": "JPE200002201",
+      "releaseDate": "2000-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b79fe519-1023-4e1e-91d2-15cce165d93c",
+      "title": "謎の少女",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229705",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/7usWgedthofiAITJJvXRDw",
+      "isFallback": true
+    },
+    {
+      "id": "5313b234-e667-4893-9b0e-112c82375e35",
+      "title": "木もれびモンタージュ",
+      "artist": "カスミ",
+      "isrc": "JPCO02011000",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/0nsyXzlaqtz6QTwf6yR87B",
+      "isFallback": false
+    },
+    {
+      "id": "9f7e4d53-da4f-4c11-b5e1-48f186bd94ec",
+      "title": "神崎士郎",
+      "artist": "渡部チェル",
+      "isrc": "JPB600229715",
+      "releaseDate": "2002-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/5qQaQ6B7lk5PBxuZFXWt0x",
+      "isFallback": true
+    },
+    {
+      "id": "d1935e09-542b-4aee-9f73-d88266ab5e6a",
+      "title": "曖昧ステイトメント",
+      "artist": "宮崎千紗希",
+      "isrc": "JPE301800576",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

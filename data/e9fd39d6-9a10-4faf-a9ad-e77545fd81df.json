@@ -1,0 +1,96 @@
+{
+  "name": "山原一浩",
+  "sortName": "ヤマハラカズヒロ",
+  "tracks": [
+    {
+      "id": "19df6e31-8614-4b1a-b674-a0daa9a30983",
+      "title": "また朝が来る",
+      "artist": "TOKIO",
+      "isrc": "JPQ400901520",
+      "releaseDate": "2010-02-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62f63f32-32c8-4404-9e99-8758c89400e6",
+      "title": "Reboot",
+      "artist": "神浜コウジ",
+      "isrc": "JPB601303405",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/3K9gjLpZyl8UB2XmcRzPmP",
+      "isFallback": true
+    },
+    {
+      "id": "b0d74d03-c160-4773-b2ea-1f3e18e45d08",
+      "title": "pride",
+      "artist": "速水ヒロ",
+      "isrc": "JPB601304641",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/2Uf8dUTOaYfyN2ZNHgyen1",
+      "isFallback": true
+    },
+    {
+      "id": "9235b66b-d919-4801-93bd-ae913f3cb2d5",
+      "title": "太陽のflare sherbet",
+      "artist": "そふぃ",
+      "isrc": "JPT551500219",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/77oRWqqGppTXpHGFGQho6S",
+      "isFallback": true
+    },
+    {
+      "id": "c431e4d8-a700-4593-a610-fdb9930233a6",
+      "title": "でび＆えん☆Reversible-Ring [Happy Trance Remix]",
+      "artist": "アロマゲドン",
+      "isrc": "JPT551700491",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/2L3ncD8jmqBi96ID2mE77c",
+      "isFallback": true
+    },
+    {
+      "id": "5422d13a-0094-4fd5-9610-1200a930e703",
+      "title": "ま～ぶるMake up a-ha-ha! [Hyper Techno Remix]",
+      "artist": "真中らぁら",
+      "isrc": "JPT551700485",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/5tmlxOecWVh57ypJpeVzY3",
+      "isFallback": true
+    },
+    {
+      "id": "0f9bf7f8-5d98-4e20-8106-6f8085970ed9",
+      "title": "No D&D code",
+      "artist": "シオン",
+      "isrc": "JPB601404929",
+      "releaseDate": "2015-02-11",
+      "spotifyUrl": "https://open.spotify.com/track/3nNypqghQQLRVg4aiSIKnC",
+      "isFallback": true
+    },
+    {
+      "id": "786cf0a4-eddd-4238-9f7d-935e5d9cc6ac",
+      "title": "コノウタトマレイヒ [New Electro Remix]",
+      "artist": "緑風ふわり",
+      "isrc": "JPT551700483",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/4MMS3XKWNgSb1B87bFFdWP",
+      "isFallback": true
+    },
+    {
+      "id": "ab54acdf-0d77-42c7-8a8b-eccd4faf0cff",
+      "title": "FREEDOM",
+      "artist": "仁科カヅキ",
+      "isrc": "JPB601304639",
+      "releaseDate": "2013-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1xxzVGNKWoB33kyH8RhYt6",
+      "isFallback": true
+    },
+    {
+      "id": "5f619e9e-ad76-4844-b57c-5e1739186004",
+      "title": "No D&D code [Y&Co. Hard Dance Remix]",
+      "artist": "DressingPafé",
+      "isrc": "JPT551700484",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/2aT7l4HYgiAghMhl04p9uJ",
+      "isFallback": true
+    }
+  ]
+}

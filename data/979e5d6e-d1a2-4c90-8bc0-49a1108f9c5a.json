@@ -1,0 +1,33 @@
+{
+  "name": "ひろせP",
+  "sortName": "ヒロセピー",
+  "tracks": [
+    {
+      "id": "549fccc7-e1eb-48ca-ae9d-39eeb321eeff",
+      "title": "約束",
+      "artist": "フレンズ",
+      "isrc": "JPU902003337",
+      "releaseDate": "2021-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/4aIKUD4BQloOqK4ChkaE5A",
+      "isFallback": true
+    },
+    {
+      "id": "9ee6d0a5-fbba-4283-8bab-bc923c26aa26",
+      "title": "ぎゅっと",
+      "artist": "Sexy Zone",
+      "isrc": "JPPC01702052",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/3Tez2fjO4jnPpsLqrl1Zj6",
+      "isFallback": true
+    },
+    {
+      "id": "f1992462-817f-4da0-8557-52444853a7dc",
+      "title": "Re: Feel",
+      "artist": "土岐隼一",
+      "isrc": "JPPC02312790",
+      "releaseDate": "2024-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/6OCo3sfiKD9ObhBjyZqe9G",
+      "isFallback": false
+    }
+  ]
+}

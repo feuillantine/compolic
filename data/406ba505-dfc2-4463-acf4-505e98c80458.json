@@ -1,0 +1,51 @@
+{
+  "name": "7mai",
+  "sortName": "7マイ",
+  "tracks": [
+    {
+      "id": "8bec71e6-d818-4155-8d8a-b8ec8ecd15d8",
+      "title": "Sweet Cherry Friendship",
+      "artist": "うぐ",
+      "isrc": "TCAHG2395243",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6rnhPoEcU9FFWeBNqVXwDT",
+      "isFallback": false
+    },
+    {
+      "id": "0b3d6308-7680-4cb6-9e38-bf1e4cd39891",
+      "title": "Leisurely",
+      "artist": "7mai",
+      "isrc": "TCJPY2487933",
+      "releaseDate": "2023-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/3tfUNYeVOBrcS47yYdcoQa",
+      "isFallback": true
+    },
+    {
+      "id": "4d5dc536-ae19-47be-a5df-0fd182e334cf",
+      "title": "MeltyDolly",
+      "artist": "ことの",
+      "isrc": "TCJPL2565955",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ZAIyiE5l8VKKXdJt6ulvx",
+      "isFallback": true
+    },
+    {
+      "id": "37c818ef-3d46-4b6d-bd9a-dcd2879d9385",
+      "title": "You & Me",
+      "artist": "眠河ゆめな",
+      "isrc": "TCJPJ1906438",
+      "releaseDate": "2019-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/0xpVU8jmfoXBUc1E4ZCXpL",
+      "isFallback": true
+    },
+    {
+      "id": "8f0040f4-412a-47f5-a072-f7558443fcc7",
+      "title": "フくザつ×電子回路",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

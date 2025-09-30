@@ -1,0 +1,474 @@
+{
+  "name": "滝澤俊輔",
+  "sortName": "タキザワシュンスケ",
+  "tracks": [
+    {
+      "id": "9dec8cbc-5eae-4ddd-9371-72d90c7dfb69",
+      "title": "Overture 〜浪江発の風にのって〜",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02210378",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/6f0jQfWt6lzBZDJTPGzM8t",
+      "isFallback": true
+    },
+    {
+      "id": "191ffc1f-5ded-4dde-a89f-3b2e8a710fd6",
+      "title": "今日のエンディングは私が買い取ったから好きにしていいわよね♡",
+      "artist": "花園羽々里",
+      "isrc": "JPI102302094",
+      "releaseDate": "2023-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/1AgQpTPCXmAaPWUF5wAGeY",
+      "isFallback": false
+    },
+    {
+      "id": "28e05b91-30e3-4190-9a95-bab7283463bd",
+      "title": "Voyage",
+      "artist": "新田美波",
+      "isrc": "JPCO01809780",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/1RBJGCsWi51jweOdk7i5Iw",
+      "isFallback": true
+    },
+    {
+      "id": "9d4ce563-50d5-4ace-bd8d-0e22a26bd64d",
+      "title": "ツインテールの風",
+      "artist": "小日向美穂",
+      "isrc": "JPCO01731920",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/4tv4d3Kowfjs9XhpIi0nlV",
+      "isFallback": true
+    },
+    {
+      "id": "18926784-f998-4aaa-8c14-607baf32cae6",
+      "title": "真っ白な地図",
+      "artist": "Color∞Lets",
+      "isrc": "JPK631907801",
+      "releaseDate": "2019-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/7LHN92DwY5xxjfwcC7ViOW",
+      "isFallback": true
+    },
+    {
+      "id": "fa4ab157-fdf3-410d-a09d-36c69f61297d",
+      "title": "Re:collection",
+      "artist": "アメス",
+      "isrc": "JPCO02435520",
+      "releaseDate": "2024-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/74TpLS48KKDLkGRllqX16m",
+      "isFallback": true
+    },
+    {
+      "id": "5327d66e-9bce-4de3-ac0d-65ede94656a6",
+      "title": "あお信号",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01722840",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/6cXaGe6hTsP1bbGRj1L9DU",
+      "isFallback": true
+    },
+    {
+      "id": "44bcc147-baa2-4509-9a12-6a709dc60ba4",
+      "title": "なみえのわ",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02210379",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/2BW3y38M7jqPbtLOcupr8u",
+      "isFallback": true
+    },
+    {
+      "id": "7f8863d0-773a-4856-8448-272416007154",
+      "title": "Reset",
+      "artist": "牧野由依",
+      "isrc": "JPTE01701810",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/2goFS4qNTxFnwgYm2t91h4",
+      "isFallback": false
+    },
+    {
+      "id": "6a6d9f62-c3be-4711-94e9-74fd3fc657eb",
+      "title": "Abracada‐Boo",
+      "artist": "石原夏織",
+      "isrc": "JPPC02211290",
+      "releaseDate": "2022-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/1MgigzXNBpRtjTdXOnDybI",
+      "isFallback": true
+    },
+    {
+      "id": "2b545559-3ff4-4815-8c96-7410ca51a5a6",
+      "title": "FlowerS 〜となりで咲く花のように〜",
+      "artist": "オルタンシア",
+      "isrc": "JPPC01602777",
+      "releaseDate": "2017-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/7CDBplLAupjk7yVHWxQta6",
+      "isFallback": true
+    },
+    {
+      "id": "16cc90f2-4c2d-4554-9a8c-c5f4aa19cd59",
+      "title": "秘密♡Melody",
+      "artist": "小倉唯",
+      "isrc": "JPCO02304970",
+      "releaseDate": "2023-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/0I0uJEQ0LNQWFm2PbEIMpl",
+      "isFallback": true
+    },
+    {
+      "id": "312c5519-809c-47a9-a981-08f316c8c28d",
+      "title": "Sing the Prologue♪",
+      "artist": "久川凪",
+      "isrc": "JPCO02016670",
+      "releaseDate": "2020-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/44ELf6OKo3HWPvN82raiXn",
+      "isFallback": true
+    },
+    {
+      "id": "9f32a580-b74a-4fcc-aaa8-5ac018b2dda9",
+      "title": "Shine!!",
+      "artist": "CINDERELLA PROJECT",
+      "isrc": "JPCO01525630",
+      "releaseDate": "2015-08-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0aa59e0c-1fc4-47fa-bdbb-03c116d0defc",
+      "title": "福島&新潟 重賞競走",
+      "artist": "滝澤俊輔",
+      "isrc": "JPZ922203313",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2vs5clWrY73AAIS2X1NooQ",
+      "isFallback": false
+    },
+    {
+      "id": "9394652a-29ed-4dda-a112-0e5b603add23",
+      "title": "エヴリデイドリーム",
+      "artist": "佐久間まゆ",
+      "isrc": "JPCO01324930",
+      "releaseDate": "2013-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/1C96LSUCD7iet41b1NkIbX",
+      "isFallback": true
+    },
+    {
+      "id": "00031ecc-5751-48f2-90c5-d73292d448b2",
+      "title": "EVERMORE -しんげきRemix-",
+      "artist": "神崎蘭子",
+      "isrc": "",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0459fa45-bdc0-4c5b-b487-0ff0724212e9",
+      "title": "ぴにゃこら太絵かき歌",
+      "artist": "島村卯月",
+      "isrc": "JPCO01706710",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "490116c1-41d0-4a85-9e92-575a5ef88c00",
+      "title": "あの夏のメモリー",
+      "artist": "ミサト",
+      "isrc": "JPCO02022680",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7n0AVx14qjJLkEsUo1U14l",
+      "isFallback": false
+    },
+    {
+      "id": "654837a1-4b99-48c1-8013-5042b619a8e1",
+      "title": "わくわくSUMMER TIME!",
+      "artist": "キョウカ",
+      "isrc": "JPCO02219920",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/5PXmXc8b9bY10bvGiVkt9O",
+      "isFallback": false
+    },
+    {
+      "id": "e92c10c5-9a4d-4654-bee3-dcf81c63fc3e",
+      "title": "灯",
+      "artist": "秋月律子",
+      "isrc": "JPCO02033640",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f24dd7e1-7767-4969-978b-193fec5afaab",
+      "title": "エドガー一味の悪巧み",
+      "artist": "滝澤俊輔",
+      "isrc": "",
+      "releaseDate": "2020-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b2907525-fb81-471d-9fd0-1cbc93cbbd76",
+      "title": "EVERLASTING (M@STER VERSION)",
+      "artist": "本田未央",
+      "isrc": "JPCO02128060",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "01a8f037-953b-4170-a5d1-bf1dbf901d1d",
+      "title": "ぷ・れ・あ・で・す!",
+      "artist": "大空スバル",
+      "isrc": "JPV752105024",
+      "releaseDate": "2021-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/4gbXAW5RUKBsbhQ3MaYoND",
+      "isFallback": true
+    },
+    {
+      "id": "b762ad8c-26f5-4292-89fe-5c465bcd469c",
+      "title": "メッセージ",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS for BEST5!",
+      "isrc": "JPCO01417290",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ae848f8-490c-42e4-b513-4368375b3f43",
+      "title": "88秒フライト",
+      "artist": "牧野由依",
+      "isrc": "JPTE01506120",
+      "releaseDate": "2015-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/0J8R4KxeijwUe80s99AldQ",
+      "isFallback": true
+    },
+    {
+      "id": "a41f84b5-bf5c-4803-91a4-f697066716f3",
+      "title": "心もよう",
+      "artist": "new generations",
+      "isrc": "JPCO01534640",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3bb2b40e-afee-47e1-af40-04de5669c67c",
+      "title": "Sunshine See May (M@STER VERSION)",
+      "artist": "依田芳乃",
+      "isrc": "JPCO01829690",
+      "releaseDate": "2018-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/4qYZkTcPoGcbmu1GaZAE9j",
+      "isFallback": true
+    },
+    {
+      "id": "8139c789-c657-4c83-b25c-dcb87745323b",
+      "title": "Treasure☆ (M@STER VERSION)",
+      "artist": "島村卯月",
+      "isrc": "JPCO01705010",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/3t845TVTEiAtc3KlZ83JuG",
+      "isFallback": true
+    },
+    {
+      "id": "740cb79e-07f1-40ad-82d6-389892aaf064",
+      "title": "Stellar",
+      "artist": "富田美憂",
+      "isrc": "JPCO02427570",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/3gaR92eCeDMxqfdLHBvq7O",
+      "isFallback": true
+    },
+    {
+      "id": "92f921c6-db02-4dec-a5a5-73399ceb269b",
+      "title": "きみにいっぱい☆",
+      "artist": "姫川友紀",
+      "isrc": "JPCO01623010",
+      "releaseDate": "2016-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/2pZX14re98lYDBZa10L4wX",
+      "isFallback": true
+    },
+    {
+      "id": "f3832734-b60e-4a5b-9649-4ce515a01f2a",
+      "title": "水色イルミネーション",
+      "artist": "アクア",
+      "isrc": "JPCO01603140",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/2g6yukCpm1OtbZA5pyetQ6",
+      "isFallback": true
+    },
+    {
+      "id": "1705914a-b23e-470d-a787-41a758a0c630",
+      "title": "Trust we NOBLE",
+      "artist": "イザベル・デュ・モンソオ・ド・バーガンデール",
+      "isrc": "JPCO01921000",
+      "releaseDate": "2019-09-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50f4fb41-62c7-4e43-b6bb-838899afb13b",
+      "title": "Wind of Bloom",
+      "artist": "小倉唯",
+      "isrc": "JPCO02427320",
+      "releaseDate": "2024-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/7l3Snsx4Gi0E2RazYOkrnw",
+      "isFallback": true
+    },
+    {
+      "id": "bc094284-1ea2-4673-9965-de18d5c0dc78",
+      "title": "さやけき花の生命に (GAME VERSION)",
+      "artist": "西園寺琴歌",
+      "isrc": "JPCO02305020",
+      "releaseDate": "2023-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/4ZAuE0LquJ7RXmDXf4w1Km",
+      "isFallback": true
+    },
+    {
+      "id": "4c4333cd-a42e-4df3-a4b6-4986d69fc9cc",
+      "title": "Beauty of truth",
+      "artist": "バッティ",
+      "isrc": "JPD601600181",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/77i908aAvan90Hh8HD6sW6",
+      "isFallback": true
+    },
+    {
+      "id": "5efe1189-861f-4acc-a0ff-df853610c4b2",
+      "title": "福島&新潟 一般競走",
+      "artist": "滝澤俊輔",
+      "isrc": "JPZ922203314",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2324pbpxwMFBtp8H8mZZOm",
+      "isFallback": false
+    },
+    {
+      "id": "c077b6b3-609f-4718-95a1-527e4df052c3",
+      "title": "shabon song",
+      "artist": "城ヶ崎美嘉",
+      "isrc": "JPCO01522400",
+      "releaseDate": "2015-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/1DJSdsmh02pAOJQMbS6YiX",
+      "isFallback": true
+    },
+    {
+      "id": "86e5eb5a-a8cf-4d33-ab4e-836518f6ecd2",
+      "title": "ありがと、大好きになってくれて",
+      "artist": "恋太郎ファミリー",
+      "isrc": "JPI102403421",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/7oKRqIJQoWcyd2kZvjwl1f",
+      "isFallback": true
+    },
+    {
+      "id": "4559e490-5484-420f-b710-60d41f3ad29a",
+      "title": "つぼみ",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS for BEST5!",
+      "isrc": "JPCO01525240",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2794459-516a-4cde-bd3f-4eb87e0f7d2b",
+      "title": "はにかみdays",
+      "artist": "島村卯月",
+      "isrc": "JPCO01608130",
+      "releaseDate": "2016-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/11hIfll1LsMk5pWu5lfGvZ",
+      "isFallback": true
+    },
+    {
+      "id": "81db1b5f-759e-41b2-8deb-b302906141b6",
+      "title": "DANCE！DANCE！\"ROMAN\"",
+      "artist": "タップダンスシチー",
+      "isrc": "JPZ252300140",
+      "releaseDate": "2023-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/527xpJy73vJDtMapidLJcK",
+      "isFallback": false
+    },
+    {
+      "id": "127f299b-0931-4a08-9236-b6a4a1a84b39",
+      "title": "Unmei?",
+      "artist": "原賀胡桃",
+      "isrc": "JPI102403422",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/23vR4qhM7c7AUw3FTtY3U7",
+      "isFallback": true
+    },
+    {
+      "id": "682bab7b-a124-4920-aec8-8e69c6478e1c",
+      "title": "灯り",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01918490",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/4Kd0hrbwNHubV3hvmkAkJS",
+      "isFallback": true
+    },
+    {
+      "id": "5f78778d-80e4-45c2-9b59-550325da560a",
+      "title": "マイ・スイート・ハネムーン",
+      "artist": "佐久間まゆ",
+      "isrc": "JPCO01717390",
+      "releaseDate": "2017-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/4PSIDA7LBOSV7FRcYOT5yd",
+      "isFallback": true
+    },
+    {
+      "id": "d83d47de-fb93-4f14-9a5e-59c19730efdc",
+      "title": "たったひとつ",
+      "artist": "牧野由依",
+      "isrc": "JPTE01501420",
+      "releaseDate": "2015-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/4mVyDhYGyPadtBAtD1fPUN",
+      "isFallback": true
+    },
+    {
+      "id": "68e47b0c-2873-453c-99ba-bba3afd85d05",
+      "title": "IDOL☆HEART",
+      "artist": "天海春香",
+      "isrc": "JPCO02207090",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "160ee4e0-4583-4a2b-9d63-2464afb22a65",
+      "title": "札幌&函館 一般競走",
+      "artist": "滝澤俊輔",
+      "isrc": "JPZ922203316",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/6LePl46gR5eLJLPNuKbACW",
+      "isFallback": false
+    },
+    {
+      "id": "d16b1188-561b-4d2b-a3e8-f7b16a22d386",
+      "title": "ココカラミライヘ!",
+      "artist": "十時愛梨",
+      "isrc": "JPCO02134950",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/1q5NySEznQis9fBxlsIunG",
+      "isFallback": true
+    },
+    {
+      "id": "5bb06fdc-d51e-4994-a592-9093e3b7cf90",
+      "title": "EVERAFTER (M@STER VERSION)",
+      "artist": "島村卯月",
+      "isrc": "",
+      "releaseDate": "2025-09-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1c8b7052-8c35-4152-9f15-a093b9aa57ae",
+      "title": "大大大大大好きな君へ♡",
+      "artist": "花園羽香里",
+      "isrc": "JPI102302093",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/0aCtWsyjzuSKjHZR4qKer3",
+      "isFallback": false
+    },
+    {
+      "id": "18d4837b-7419-41eb-b44e-c8bed82f05f9",
+      "title": "札幌&函館 重賞競走",
+      "artist": "滝澤俊輔",
+      "isrc": "JPZ922203315",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4WOJDa3Psrxb2xpVGwLJCE",
+      "isFallback": false
+    }
+  ]
+}

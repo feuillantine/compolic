@@ -1,0 +1,15 @@
+{
+  "name": "レスポール田中",
+  "sortName": "レスポールタナカ",
+  "tracks": [
+    {
+      "id": "af3e9373-724e-4997-b71d-5b5983ae7483",
+      "title": "はじまる",
+      "artist": "中島怜",
+      "isrc": "JPVI02301954",
+      "releaseDate": "2023-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/2GMWaFdmz2V040yKq3t7pZ",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "クマロボ",
+  "sortName": "クマロボ",
+  "tracks": [
+    {
+      "id": "708cf5ea-77e5-427d-8137-aca80ccd2a79",
+      "title": "スペクトル",
+      "artist": "ごいちー",
+      "isrc": "JPB622100242",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/21SYg2aIvue4Z7M3cu9HXk",
+      "isFallback": false
+    },
+    {
+      "id": "5ed64442-2cdf-43ad-8694-e57d65860fc0",
+      "title": "はるかぜの化学",
+      "artist": "るん",
+      "isrc": "",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "29d0fa2f-8c5e-4fb8-a7c1-f29f1041876c",
+      "title": "le Sagittaire",
+      "artist": "ごいちー",
+      "isrc": "JPB622000327",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/2zGiQ13TDf0OU3VbAlrrCO",
+      "isFallback": false
+    },
+    {
+      "id": "471788a4-1709-4747-ab70-7c558083a7ae",
+      "title": "Shine!",
+      "artist": "高坂桐乃",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2e02addb-c27c-4b98-aa2b-c2eafe64f0cc",
+      "title": "アンブレラ",
+      "artist": "ごいちー",
+      "isrc": "JPB622101354",
+      "releaseDate": "2021-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/7icBfaK9LRanfTi2LPBjNC",
+      "isFallback": false
+    },
+    {
+      "id": "3520ec8a-d47a-4f5c-9588-229ee31de639",
+      "title": "アーバン斉天大聖必携 その1",
+      "artist": "ごいちー",
+      "isrc": "JPB622201279",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/2SnNc4Vs9pM63aUZylc481",
+      "isFallback": false
+    },
+    {
+      "id": "0ceb0138-a8c9-4de4-9ceb-7e1ee03a78c5",
+      "title": "シャララ",
+      "artist": "ごいちー",
+      "isrc": "JPB622000332",
+      "releaseDate": "2020-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/7DNdveQXSIFs43ixe0Fxg6",
+      "isFallback": false
+    },
+    {
+      "id": "b0946c31-26d9-4f71-8b7c-b3afb9e45d15",
+      "title": "HAPPY NEW DAYS",
+      "artist": "福原香織",
+      "isrc": "",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

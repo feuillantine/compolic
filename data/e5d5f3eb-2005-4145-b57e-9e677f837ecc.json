@@ -1,0 +1,258 @@
+{
+  "name": "金子麻友美",
+  "sortName": "カネコマユミ",
+  "tracks": [
+    {
+      "id": "59550a3b-5546-4e90-9693-18e12a25ab7b",
+      "title": "眠れない魔物",
+      "artist": "上坂すみれ",
+      "isrc": "JPKI01911352",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/00Wiox2A9mgWQGiX9sRary",
+      "isFallback": true
+    },
+    {
+      "id": "5b53bf49-df3e-4906-951a-c624c22780a1",
+      "title": "ここにいるよ",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632105302",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/10tLxbVcfEJ9DM8dIBhse2",
+      "isFallback": true
+    },
+    {
+      "id": "795a613a-958f-4fcc-aa7a-ae2facb00ab0",
+      "title": "My Life is Beautiful",
+      "artist": "純情のアフィリア",
+      "isrc": "JPK632105303",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/0mfOo2BeQFKL1KSAg0tUDl",
+      "isFallback": true
+    },
+    {
+      "id": "08d105d2-bb50-4dc6-9074-c675b9ab2b85",
+      "title": "タオルを回すための歌",
+      "artist": "PiXMiX",
+      "isrc": "JPKI02013825",
+      "releaseDate": "2020-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3ghRxRzUT8P9RIC5BFTMIW",
+      "isFallback": true
+    },
+    {
+      "id": "543f21e1-4131-4bd1-843c-313a6411aec8",
+      "title": "これからも五等分",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC02000090",
+      "releaseDate": "2020-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/473isifxmGOBEJ2pGvHuCR",
+      "isFallback": true
+    },
+    {
+      "id": "9fe943c1-b568-4d26-ab46-73fbd985a046",
+      "title": "それはもう恋じゃん",
+      "artist": "根本凪",
+      "isrc": "JPZ922308459",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/1R06LezMik24E4SThNkm1u",
+      "isFallback": false
+    },
+    {
+      "id": "0be26099-3345-48f0-8dfc-6836949b60b8",
+      "title": "Good Luck Charm",
+      "artist": "ピュアリーモンスター",
+      "isrc": "JPK632104902",
+      "releaseDate": "2021-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/6qFzC2FZFo90oThRQXvGHv",
+      "isFallback": true
+    },
+    {
+      "id": "944ee4bf-c37e-4bd4-ae4c-a14c51ae84e6",
+      "title": "守りたいもののために",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01732280",
+      "releaseDate": "2018-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/4dQcu5NGXH7FQhRRPGW6GO",
+      "isFallback": true
+    },
+    {
+      "id": "112e2203-ff1c-45fb-ad76-e838fe815bb5",
+      "title": "Say \"I love you\"",
+      "artist": "亜咲花",
+      "isrc": "JPK632201502",
+      "releaseDate": "2022-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/2rlIXWg7yx9HXdBcMCJ6ZD",
+      "isFallback": true
+    },
+    {
+      "id": "eedb796b-a28d-4369-bc7c-07f887f15393",
+      "title": "あの日の夢",
+      "artist": "伊藤美来",
+      "isrc": "JPCO01732300",
+      "releaseDate": "2018-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/5bKpjRIbfbdRG463Vzfb4R",
+      "isFallback": true
+    },
+    {
+      "id": "293aab53-b710-474e-a2d3-a27e14e152ba",
+      "title": "Letter",
+      "artist": "富田美憂",
+      "isrc": "JPCO02109360",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/6pPJkSFk0Oa6KjYsnEPMZf",
+      "isFallback": true
+    },
+    {
+      "id": "7669fa40-4b15-4759-9f05-c6b8a2794cde",
+      "title": "Close to you",
+      "artist": "内田彩",
+      "isrc": "JPS231700024",
+      "releaseDate": "2017-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/6CzjfE4GuFjctfEm2KFqFd",
+      "isFallback": true
+    },
+    {
+      "id": "dc6ee312-bb84-4116-8f42-3e3a30590e80",
+      "title": "ハルカカナタ",
+      "artist": "内田彩",
+      "isrc": "JPS231300093",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/5Cm3e2FkYXxi7fTHfX6txw",
+      "isFallback": true
+    },
+    {
+      "id": "3f5d1d68-df3a-4dd4-8b17-e13039b3a595",
+      "title": "Lasting Memories",
+      "artist": "御原凛音",
+      "isrc": "JPK631805742",
+      "releaseDate": "2018-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/3JrjCUSr7gQqiuex5GXwO2",
+      "isFallback": true
+    },
+    {
+      "id": "62026f53-5511-4762-a888-93b2165734fa",
+      "title": "Shining City Lights",
+      "artist": "ukka",
+      "isrc": "JPX952100035",
+      "releaseDate": "2021-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/3jKEdtlvtdr124qfPRnHXn",
+      "isFallback": true
+    },
+    {
+      "id": "185f707f-9a8d-4701-8924-dd99b5beea56",
+      "title": "そう MANY! リュウソウル",
+      "artist": "Sister MAYO",
+      "isrc": "JPCO01926790",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/626fKAGl9nLdT90HXgxJko",
+      "isFallback": true
+    },
+    {
+      "id": "dadeefe5-2ae8-47c4-8b2e-8b9d1a0123e9",
+      "title": "snuggery",
+      "artist": "久海菜々美",
+      "isrc": "JPT551600869",
+      "releaseDate": "2016-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/3V17HtQZKJHx4VpxdJVyly",
+      "isFallback": true
+    },
+    {
+      "id": "52c835a5-0e63-429e-9d92-4a06360ac81a",
+      "title": "夜明けの恋",
+      "artist": "村川梨衣",
+      "isrc": "JPCO01639750",
+      "releaseDate": "2017-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/33vGe8sHNOObvmJJC7MKfj",
+      "isFallback": true
+    },
+    {
+      "id": "696a4148-7d20-466b-8107-d880580015f2",
+      "title": "Ready Set Go!!",
+      "artist": "亜咲花",
+      "isrc": "JPK632200101",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/6w6SwAb2zS9egj4mfx2Jw7",
+      "isFallback": true
+    },
+    {
+      "id": "d6a36a6f-6b00-4bd4-8bd6-6575745faaae",
+      "title": "ケペルパスペル",
+      "artist": "カルデナ",
+      "isrc": "JPCO01914570",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/35GuqqK86TE4AB9HY4018f",
+      "isFallback": true
+    },
+    {
+      "id": "3fd8535a-959f-4da2-aabd-29770cfac6b2",
+      "title": "旦那様とのラブラブ・ラブソング",
+      "artist": "フェンリース",
+      "isrc": "JPPC02410894",
+      "releaseDate": "2024-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/2IwsVdAImV88Yu6S899WCb",
+      "isFallback": true
+    },
+    {
+      "id": "9c2cd44d-b196-4b8a-abe3-a70d5a6dcb60",
+      "title": "サヨナラよりも伝えたかったこと",
+      "artist": "城南海",
+      "isrc": "JPPC01702246",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/7bSeY6G7XCZGVE8qL2RmV5",
+      "isFallback": true
+    },
+    {
+      "id": "f077e1aa-8a90-454c-a7db-7fbcf6819ab8",
+      "title": "卒業レールウェイ",
+      "artist": "PiXMiX",
+      "isrc": "JPKI02016641",
+      "releaseDate": "2021-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/7uwEnwOQjNSwJHygJJQbEK",
+      "isFallback": true
+    },
+    {
+      "id": "f56c5658-3623-4627-b24a-7073af8a9de1",
+      "title": "急なロマンティック",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651810004",
+      "releaseDate": "2018-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/3jLd9rOhnfWxxLhrJyWXPg",
+      "isFallback": true
+    },
+    {
+      "id": "5aee5089-dec1-42b5-b46b-13d33a9a98fe",
+      "title": "Dream Collection",
+      "artist": "Ra*bits",
+      "isrc": "JPD642400316",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/13jhb4XFIRAvQLwAhYFm6R",
+      "isFallback": true
+    },
+    {
+      "id": "7aefe062-be7c-4669-83ae-c91a94d60f1f",
+      "title": "カラフル・キャンバス",
+      "artist": "長瀞さん",
+      "isrc": "JPKI02016669",
+      "releaseDate": "2021-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/21TyV1EO2KLWF34R3DMEfj",
+      "isFallback": true
+    },
+    {
+      "id": "54df0fd7-c438-4519-a7a1-9b6ef58c7de7",
+      "title": "笑わないで",
+      "artist": "内田彩",
+      "isrc": "JPS231300126",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/5E48rLzcVIV221PPmvnBl2",
+      "isFallback": true
+    },
+    {
+      "id": "0716cee6-d6ff-4870-acca-ed17509af66d",
+      "title": "夢は何歳まで?",
+      "artist": "日向坂46",
+      "isrc": "JPU902102783",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4OCjbSLOlF0pNn6bCRWkAj",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "colate",
+  "sortName": "コレート",
+  "tracks": [
+    {
+      "id": "79594ad3-ac12-449a-a4c0-f32daf9e7511",
+      "title": "恋色オーバーフロー",
+      "artist": "ことの",
+      "isrc": "TCJPL2565962",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/6mghl0nd4BDwbn51gwlLRj",
+      "isFallback": true
+    },
+    {
+      "id": "0cc5745d-0d07-4ba6-af5d-4fecdc76e25e",
+      "title": "9% Journey",
+      "artist": "colate",
+      "isrc": "TCJPV2369366",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/0KneIE4fHUFYtY5Bj7z3tS",
+      "isFallback": false
+    },
+    {
+      "id": "8d4d9b0c-a489-4d47-bf50-b31276084cf3",
+      "title": "トゥインクル・パスワード",
+      "artist": "colate",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e189e65c-ac30-4228-a761-d5a7ce4345c5",
+      "title": "シンデレラフォーチュン",
+      "artist": "すずしろ",
+      "isrc": "TCJPP2191880",
+      "releaseDate": "2021-02-12",
+      "spotifyUrl": "https://open.spotify.com/track/5zItmZMYNJs8DlKisjclKA",
+      "isFallback": true
+    },
+    {
+      "id": "0d7ddf21-69e5-4b58-a9cd-6c1d3edb9ca9",
+      "title": "smart cookie like me",
+      "artist": "ななひら",
+      "isrc": "TCJPR2266491",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/4NvRTAeOFd1aiQeA9sFRfe",
+      "isFallback": true
+    },
+    {
+      "id": "5bd4cdd0-257e-4bf3-aa4d-f20ab3762b58",
+      "title": "メルヘンティック・ショータイム",
+      "artist": "ラブリコット",
+      "isrc": "TCJPH1857184",
+      "releaseDate": "2018-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/6x6ecqOokNilDagEdGJrJl",
+      "isFallback": false
+    },
+    {
+      "id": "987d910f-335b-4ce9-b3c3-fbed3116e61e",
+      "title": "Girly Wave",
+      "artist": "もちこまめ",
+      "isrc": "",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76950977-4b34-4be4-8f14-7e9be37e2d06",
+      "title": "よくばりシャルロット",
+      "artist": "hana",
+      "isrc": "TCJPW2381369",
+      "releaseDate": "2020-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/3IYRQth31vYFSKJnmOfOSh",
+      "isFallback": false
+    },
+    {
+      "id": "ddaaddbd-598a-47ff-9206-abf6a5fb1c39",
+      "title": "マーブル・フレグランス",
+      "artist": "ちょこ",
+      "isrc": "TCJPO2186544",
+      "releaseDate": "2021-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/37MI7sCFfxNGtVAzlbXk6v",
+      "isFallback": true
+    },
+    {
+      "id": "3edd5102-7e0c-45ae-be38-2ec4f0a1707d",
+      "title": "lucky trick",
+      "artist": "pomme'tto",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "97e5abb1-40e4-41b5-a947-2d03fe26ac79",
+      "title": "ハートシェイプ・スピカ",
+      "artist": "ここなつ2.0",
+      "isrc": "JPM202100021",
+      "releaseDate": "2021-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/4hX5X3Jdd5yoCVo2Ce1h6j",
+      "isFallback": true
+    },
+    {
+      "id": "72a195b2-b247-4f54-aed2-5fd35d74ee8f",
+      "title": "ハートエンベロープ",
+      "artist": "ココ",
+      "isrc": "TCJPN2199736",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/33EnAmQg4rDeLQs9IVE20T",
+      "isFallback": true
+    },
+    {
+      "id": "f73ca895-b0e9-4093-8a49-9ded907247f9",
+      "title": "ふたりのスイーツボックス",
+      "artist": "ココ",
+      "isrc": "TCJPN2199152",
+      "releaseDate": "2014-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2PUr9PPqNfDwLv74vk3ygl",
+      "isFallback": true
+    },
+    {
+      "id": "72a08b77-bbac-4bce-8f60-6360f4e358ab",
+      "title": "piece of cake",
+      "artist": "ななひら",
+      "isrc": "TCJPO2168600",
+      "releaseDate": "2016",
+      "spotifyUrl": "https://open.spotify.com/track/7zVfo5ZBYgAZrDQD0TphWt",
+      "isFallback": true
+    },
+    {
+      "id": "4dc35b4d-7fb3-41e7-af0c-20a2eb297ce7",
+      "title": "Pudding Pudding",
+      "artist": "ポヤッチオ",
+      "isrc": "",
+      "releaseDate": "2016-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

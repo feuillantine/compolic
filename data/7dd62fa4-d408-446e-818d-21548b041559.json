@@ -1,0 +1,546 @@
+{
+  "name": "宮川弾",
+  "sortName": "ミヤカワダン",
+  "tracks": [
+    {
+      "id": "e852d209-037a-482d-bf44-d6fef8b1be93",
+      "title": "星に願うなら",
+      "artist": "牧野由依",
+      "isrc": "JPTE01506100",
+      "releaseDate": "2015-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/59O1ssZeloyfXhw6YUILPz",
+      "isFallback": true
+    },
+    {
+      "id": "c629284d-1186-4552-a915-78e52ed7e129",
+      "title": "On a Chair",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600052805",
+      "releaseDate": "2001-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/3R8ilFdMrvkDjgigoClANh",
+      "isFallback": true
+    },
+    {
+      "id": "d044f70d-f677-4c58-a471-6e96124b44a8",
+      "title": "Kirby Super Star “Until the Next Dance” OC ReMix",
+      "artist": "TSori",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1be6d8bb-45a4-46df-87d5-6f00dc92b960",
+      "title": "スコアボードにラブがある",
+      "artist": "テニス部 Pastel Wind",
+      "isrc": "JPPO01330142",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/1QAcwzKtW0LIrf9cjrTDCT",
+      "isFallback": true
+    },
+    {
+      "id": "d8a6a442-944b-4737-943c-55db4c7f4c77",
+      "title": "海ステージ",
+      "artist": "Somari",
+      "isrc": "",
+      "releaseDate": "2013-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9feb527-edce-49eb-92ba-25085f57d43e",
+      "title": "青のパレード",
+      "artist": "やなぎなぎ",
+      "isrc": "JPPI01352390",
+      "releaseDate": "2013-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/6adgIxJkdAX9M7Z6vIvTDO",
+      "isFallback": true
+    },
+    {
+      "id": "811001b6-0f57-4312-b357-9d0014c961c2",
+      "title": "Philosophy (Full Spoken mix)",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303906",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2OcN8p1dYsnQMHriKhoycx",
+      "isFallback": true
+    },
+    {
+      "id": "2ac2e313-32f8-4e82-baaa-025dc53e19d0",
+      "title": "Spectacular",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303904",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/10SqEMIlob7uuel4uK1fxm",
+      "isFallback": true
+    },
+    {
+      "id": "618183a4-ae9f-48f7-9b04-66d757ff6789",
+      "title": "Kirby Super Star “Mummy Dance” OC ReMix",
+      "artist": "Mazedude",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b57de7f6-b734-425f-8397-3a1c0a792d7e",
+      "title": "ビーグル",
+      "artist": "山野裕子",
+      "isrc": "JPVI00131650",
+      "releaseDate": "2001-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/2LyEbholpmkt7KGCseLZ9s",
+      "isFallback": true
+    },
+    {
+      "id": "7796b158-04d7-4942-a81c-18d0932e4092",
+      "title": "Never Ever (Extra vocal mix)",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303911",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4HIGlPSUl5ICWuOXEWxVcu",
+      "isFallback": true
+    },
+    {
+      "id": "eab53504-deff-46bf-a0f7-a3a0347a791d",
+      "title": "YOU MUST BE LOVE",
+      "artist": "GOTA NISHIDERA",
+      "isrc": "JPC541302802",
+      "releaseDate": "2014-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/2FTrH8IUYmPetg0GfTFxES",
+      "isFallback": true
+    },
+    {
+      "id": "57ee853d-5f80-423d-bd62-0cd71233a242",
+      "title": "I’m Still a Simple Man",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600052809",
+      "releaseDate": "2001-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/3iU51CXoRgeAfVljCPdgWk",
+      "isFallback": true
+    },
+    {
+      "id": "d8b70a46-ee0a-42f8-976c-84816dc5e6a5",
+      "title": "Supervenience",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303905",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/6eBqtJA9vcDyXEyi86DTxk",
+      "isFallback": true
+    },
+    {
+      "id": "f667d133-7028-4009-9476-22acd67725a0",
+      "title": "半透明のさよなら",
+      "artist": "杏沙子",
+      "isrc": "JPVI01819231",
+      "releaseDate": "2019-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/1c4RX6P4IKuLYYil6Xp8gF",
+      "isFallback": true
+    },
+    {
+      "id": "de4a78c8-16fc-45cd-852d-20c4a980596b",
+      "title": "Kirby Super Star 'The Savior of Dream Land' OC Remix",
+      "artist": "Sixto Sounds",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8dd59fc2-1dea-40ac-bb79-f46b426b4c1c",
+      "title": "Rey Dedede",
+      "artist": "Louie Zong",
+      "isrc": "QZFZ22223821",
+      "releaseDate": "2022-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/0J43NG9ldw4iWm7eNt5OQj",
+      "isFallback": true
+    },
+    {
+      "id": "30188118-fc58-4639-93b0-e7888d080352",
+      "title": "同心円上のディスタンス",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400031",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/38ZjuXjzTjGJdrhz3quKRk",
+      "isFallback": true
+    },
+    {
+      "id": "80b4a8cd-2174-4701-bf58-dcc7ff5449cf",
+      "title": "Kirby Super Star 'Victory Festival' OC ReMix",
+      "artist": "Geoffrey Taucer",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d727bd29-ba59-4858-83ef-0ce44311d48e",
+      "title": "Peanut Plain (Kirby Super Star)",
+      "artist": "Klaymore",
+      "isrc": "",
+      "releaseDate": "2016-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3211b369-ae6f-4df0-b6a6-015c2cd0be0e",
+      "title": "スタッカート",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204024",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/0lZ61yo4cyHt7y3ug3noH6",
+      "isFallback": true
+    },
+    {
+      "id": "93dd9fb3-3e2c-45f1-bbe7-c9391146f540",
+      "title": "滞空時間",
+      "artist": "花澤香菜",
+      "isrc": "JPE301700087",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/3s68jHCtsl8mwpogKMkiM8",
+      "isFallback": true
+    },
+    {
+      "id": "ba4adbdb-9781-4ac9-9498-92263b2ab6a4",
+      "title": "半音階のレジスタンス",
+      "artist": "鈴木みのり",
+      "isrc": "JPVI01817691",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/6ic3n63768qZOORDLioN9b",
+      "isFallback": true
+    },
+    {
+      "id": "a93090e5-a0a1-48ca-b94d-8cc0f199173a",
+      "title": "アスファルト",
+      "artist": "諸星すみれ",
+      "isrc": "JPVI01902742",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/1C5P8ih2bNFOBrB3s8bAjx",
+      "isFallback": true
+    },
+    {
+      "id": "9be8ab07-73e7-405a-a084-6a31aaf3ef19",
+      "title": "FLOAT ISLANDS",
+      "artist": "Cityline90",
+      "isrc": "",
+      "releaseDate": "2006-11-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7123a8b8-cf8c-450c-a923-34c122f3d9eb",
+      "title": "Todos os desejos",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600052808",
+      "releaseDate": "2001-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/6S14wsuS51s0p79GF9pFej",
+      "isFallback": true
+    },
+    {
+      "id": "9faae9e2-62f7-45f5-ba57-c97f1d6d0721",
+      "title": "ブルーベリーナイト",
+      "artist": "花澤香菜",
+      "isrc": "JPE301500278",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/0wzXbqFtFmOM5i792WoF7n",
+      "isFallback": true
+    },
+    {
+      "id": "5209a37a-2561-4134-afaf-068cf135ddb6",
+      "title": "あたらしいそら",
+      "artist": "May’n",
+      "isrc": "JPVI01728570",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1aa1c5d3-6833-417a-bb69-db58f26ad6f6",
+      "title": "陽のあたるへや",
+      "artist": "中島愛",
+      "isrc": "JPG750900748",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/3Mi6mbukKrm2ddRp1g9lP6",
+      "isFallback": true
+    },
+    {
+      "id": "0f6fe825-ccbe-4fc1-92db-c821e252dc37",
+      "title": "Checkmate",
+      "artist": "沼倉愛美",
+      "isrc": "JPVI01841390",
+      "releaseDate": "2018-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/6zNeYlLCA9cuqtTtnlRu9E",
+      "isFallback": true
+    },
+    {
+      "id": "beb4d38b-d248-48a9-a849-0bd589fa3b35",
+      "title": "青い夜だけの",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210065",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/6KAKGiBN5U80Gecfm0sv16",
+      "isFallback": true
+    },
+    {
+      "id": "b00bf501-e503-4e6d-b149-7f7d6b0d2d3b",
+      "title": "Why Not?",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600337911",
+      "releaseDate": "2002-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/6vZi9xxzxonsIy8qwL53BS",
+      "isFallback": true
+    },
+    {
+      "id": "155222b2-9122-4de6-afcd-2c093bf5b073",
+      "title": "ジェリーフィッシュの告白",
+      "artist": "中島愛",
+      "isrc": "JPG750900747",
+      "releaseDate": "2009-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/2cEvysN13awcNOocqaazgu",
+      "isFallback": true
+    },
+    {
+      "id": "cee2ac1b-938d-429d-b1ca-d97c2c086dc9",
+      "title": "God Save the Mona Lisa",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600052811",
+      "releaseDate": "2001-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/3gEJP1N5sliQfkEOpy2HMG",
+      "isFallback": true
+    },
+    {
+      "id": "7add1488-f563-4e93-8bb0-c92b31fdee63",
+      "title": "GO! GO! GO! (Grand Opening)",
+      "artist": "PROTO·DOME",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "931568d7-7dbd-4d30-a4a4-4f09d6fecec2",
+      "title": "チョコレートボックス",
+      "artist": "杏沙子",
+      "isrc": "JPVI01819191",
+      "releaseDate": "2019-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/3t1KVU2D5emmcyYTBzQo20",
+      "isFallback": true
+    },
+    {
+      "id": "0e81f633-37f0-4c32-a91a-9e6b3cdd3cca",
+      "title": "ないものねだりのGreeDy",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02410488",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/52xzwPN6tmm2KVWhvjftpW",
+      "isFallback": true
+    },
+    {
+      "id": "6e8f41d9-5b97-488d-8a21-cdd6f1a3a12f",
+      "title": "Euphoria",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600675904",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/51h3wBJQx5afXoYqdwEx3h",
+      "isFallback": true
+    },
+    {
+      "id": "0ec16fc4-24ea-4ea9-b6a4-3196a3a87837",
+      "title": "王様のカデンツァ",
+      "artist": "Wake Up",
+      "isrc": "JPVI01718680",
+      "releaseDate": "2017-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/1L2O8TVxt6zEHC8E3NwZTh",
+      "isFallback": true
+    },
+    {
+      "id": "cfbabb5e-2f57-4a1f-8bbb-1fd3b8180882",
+      "title": "向かい風",
+      "artist": "YOHKO",
+      "isrc": "JPG751200374",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/6yDbZHl7116ZIYgz8NFJRz",
+      "isFallback": true
+    },
+    {
+      "id": "6c30328b-c81a-440d-8f95-fe6ea93f9bf2",
+      "title": "予想以上のスマッシュ",
+      "artist": "テニス部 Pastel Wind",
+      "isrc": "JPPO01400307",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/6bOejwvaFeEJdNaKzKsW4T",
+      "isFallback": true
+    },
+    {
+      "id": "630665b8-b157-4d67-8613-8f7b5ec4855c",
+      "title": "片思いが世界を救う",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400034",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2l7cQRZj8dwludpxuxXNgQ",
+      "isFallback": true
+    },
+    {
+      "id": "cfc40e3d-8f8a-46ab-9004-e0d159405723",
+      "title": "Reaching for the Stars",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303902",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/0H9oIb6VrOQ1zFnrqIhmXB",
+      "isFallback": true
+    },
+    {
+      "id": "d2aba9c4-16f4-4011-a663-0af417636b38",
+      "title": "The Ballad of Meta Knight (My Friend and the Setting Sun…)",
+      "artist": "halc",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f8fef1c-638b-4c16-bd36-5a5fc5253dd3",
+      "title": "つながるまで",
+      "artist": "中島愛",
+      "isrc": "JPG751100497",
+      "releaseDate": "2011-10-05",
+      "spotifyUrl": "https://open.spotify.com/track/5qR4N7uqER3JmShFDabGQV",
+      "isFallback": true
+    },
+    {
+      "id": "9969a48f-7335-4cbc-9fda-78cc5c9b846d",
+      "title": "Cover Girl",
+      "artist": "嶋野百恵",
+      "isrc": "JPPC00101754",
+      "releaseDate": "2002-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/2OqKUC0vUNCuhhc3FuG1th",
+      "isFallback": true
+    },
+    {
+      "id": "8efcc86e-7c4c-4260-9d11-41cf82a4be37",
+      "title": "Welcome to the Galaxy (Milky Way Wishes Map)",
+      "artist": "halc",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a4134ce-5347-47db-9443-eb92f16d8b07",
+      "title": "Kirby Super Star 'Blowing Bubbles in Space' OC ReMix",
+      "artist": "halc",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb442ecb-3c42-4473-be91-779bd79bea7f",
+      "title": "今日も言えない",
+      "artist": "朝霧史織",
+      "isrc": "JPPC01300277",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7vqA1KjZYvigeBOKFTXA8l",
+      "isFallback": true
+    },
+    {
+      "id": "12c32c93-6c09-4538-87b6-fcbe828f8bce",
+      "title": "The King of Pleasure",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303903",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/137s0vrc3sGu9ri8l6Pqj2",
+      "isFallback": true
+    },
+    {
+      "id": "34411cf1-74a3-4a7e-9664-30301c633bef",
+      "title": "うらら。",
+      "artist": "伴都美子",
+      "isrc": "JPB600608703",
+      "releaseDate": "2006-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77b013be-0edf-46c3-b444-3e321e30623e",
+      "title": "Beautiful Days",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600052802",
+      "releaseDate": "2001-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/1izVhcdO4MhAwasyl9Y0yQ",
+      "isFallback": true
+    },
+    {
+      "id": "d009ef42-3a71-44e9-a639-4e71fb02c9fd",
+      "title": "Wingspan",
+      "artist": "Cymbals",
+      "isrc": "JPVI00210230",
+      "releaseDate": "2002-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/2RH5sxhP2st4N4ke0eXFy6",
+      "isFallback": true
+    },
+    {
+      "id": "5e8f09d6-6f22-4be9-9ca7-29537790be47",
+      "title": "Kirby Super Star 'Don't Hold My Breath' OC ReMix",
+      "artist": "Benjamin Briggs",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d90dca61-e5d6-463c-b984-013cfcebd63b",
+      "title": "足りない音はキミの声",
+      "artist": "諸星すみれ",
+      "isrc": "JPVI01902744",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/16Z4io2IadbJfzWROfh4zL",
+      "isFallback": true
+    },
+    {
+      "id": "456b794a-0c8d-49fd-8608-e027fb82a1f3",
+      "title": "重ねたその手のように",
+      "artist": "May’n",
+      "isrc": "JPVI01728560",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ce97d6b0-729b-4217-bb61-e7c5ab595246",
+      "title": "Kirby Super Star 'Kirb Your Enthusiasm' OC ReMix",
+      "artist": "Brandon Strader",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1551e282-837f-4a03-a080-565b02ad5932",
+      "title": "Days and Days",
+      "artist": "Fantastic Plastic Machine",
+      "isrc": "JPB600303908",
+      "releaseDate": "2003-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/7IMwaQBOAZ6YaGNUyvMsJU",
+      "isFallback": true
+    },
+    {
+      "id": "d494c2a9-3ec6-484c-8105-efd9bef68adc",
+      "title": "Kirby no Nozomi (Milky Way Wishes)",
+      "artist": "OverCoat",
+      "isrc": "",
+      "releaseDate": "2013-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "46f991b1-6a78-4a34-b21e-d876943b7a2f",
+      "title": "ステレオフォニック",
+      "artist": "鹿乃",
+      "isrc": "JPU902401119",
+      "releaseDate": "2024-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/15lbeJlhTEXmTxr8q8R9mE",
+      "isFallback": true
+    }
+  ]
+}

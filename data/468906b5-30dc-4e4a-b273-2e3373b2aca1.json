@@ -1,0 +1,294 @@
+{
+  "name": "ヤマモトショウ",
+  "sortName": "ヤマモトショウ",
+  "tracks": [
+    {
+      "id": "fd2903b9-9b8d-437b-8a1e-ae5be3a2db55",
+      "title": "君のこと好きなのバレてます！？",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPZ922308402",
+      "releaseDate": "2023-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/6TUMXFHrSHOMMH52SiGKLb",
+      "isFallback": false
+    },
+    {
+      "id": "19aafbf1-6a5a-4926-831c-36521dcb49b1",
+      "title": "わたしを甘やかすなら",
+      "artist": "雪花ラミィ",
+      "isrc": "JPV752409062",
+      "releaseDate": "2024-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/1LuUMuajEkCYX8YkrSFGzs",
+      "isFallback": true
+    },
+    {
+      "id": "a9354452-e127-4ccd-a18e-98cbe02d88ad",
+      "title": "八月",
+      "artist": "fishbowl",
+      "isrc": "JPN262300017",
+      "releaseDate": "2023-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/3CCSLx8dx9ENUgLdtv9wAr",
+      "isFallback": false
+    },
+    {
+      "id": "0311abbd-a5cf-44be-b21e-c81b34be6f21",
+      "title": "もしかしてもしかする",
+      "artist": "麻倉もも",
+      "isrc": "JPX402400089",
+      "releaseDate": "2024-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/3yHVjgRcjPaZXkBUoQBr59",
+      "isFallback": true
+    },
+    {
+      "id": "fd9c97e5-af7d-4ddc-912e-396101f07683",
+      "title": "kyo-do?",
+      "artist": "私立恵比寿中学",
+      "isrc": "JPU902301576",
+      "releaseDate": "2023-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/6mX8K6MHvUOhhVOwlkb7WT",
+      "isFallback": true
+    },
+    {
+      "id": "6e45e43a-ae2b-4b61-99f1-7fd65e72e72f",
+      "title": "CO-個性",
+      "artist": "FRUITS ZIPPER",
+      "isrc": "JPR842000236",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/3DvvRtEopd1LkYgEU9TEZh",
+      "isFallback": false
+    },
+    {
+      "id": "625c06f1-758d-4661-b9f3-a6908ad80404",
+      "title": "耳の中へ",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01514180",
+      "releaseDate": "2015-06-18",
+      "spotifyUrl": "https://open.spotify.com/track/1NUUaDFtXxJ17zFB4S3Og3",
+      "isFallback": false
+    },
+    {
+      "id": "9202a5e0-257a-4d1a-8b35-133b3941c0f2",
+      "title": "好きかなすきかも JPN ver.",
+      "artist": "恥じらいレスキューJPN",
+      "isrc": "",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e18a8f65-1d72-4c4e-907a-abe7e9fa8a2c",
+      "title": "恋、いちばんめ",
+      "artist": "ukka",
+      "isrc": "JPR652000128",
+      "releaseDate": "2020-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/0mntzZlyZ2H1okEExb5CSQ",
+      "isFallback": true
+    },
+    {
+      "id": "6f844abe-31be-4f3c-a883-10c8dcb21105",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "isrc": "JPR842000138",
+      "releaseDate": "2022-04-29",
+      "spotifyUrl": "https://open.spotify.com/track/3DR2RbatuGm3UVMrFflZxM",
+      "isFallback": false
+    },
+    {
+      "id": "fec4b8dd-731d-4dd7-b3c5-0b35091983f1",
+      "title": "ソバージュ・イマージュ",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700156",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2Nt295szpgnnnaNGqJEaJu",
+      "isFallback": false
+    },
+    {
+      "id": "fc29b68e-a9fe-4834-82f7-5cad0ec2ea97",
+      "title": "唯想∽ユートピア",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02000890",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/5BgaQlNrXW5kI2NZWV7Yeb",
+      "isFallback": true
+    },
+    {
+      "id": "47e85373-d34a-4ac1-ab64-3da55f1c9073",
+      "title": "あなたにあげない",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700413",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/701G4HfPPH0NTuJc2M57QC",
+      "isFallback": false
+    },
+    {
+      "id": "9bc979e4-a715-43c7-aa3b-d40067ebfa74",
+      "title": "二兎",
+      "artist": "fishbowl",
+      "isrc": "JPN262300023",
+      "releaseDate": "2023-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/7JRgNH71HLrnG90hBJa8tJ",
+      "isFallback": false
+    },
+    {
+      "id": "cb66b204-e46e-49fd-ab8b-6c05bd277c04",
+      "title": "アルゴリズムの海",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700450",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/50gOPeTi7zEMidHXxFEHSz",
+      "isFallback": false
+    },
+    {
+      "id": "58d14277-8eff-4f5f-a235-6f0a58817bae",
+      "title": "キワメテカワイイ",
+      "artist": "七海うらら",
+      "isrc": "JPB602400055",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/1hE6pUXp2iNTyvDyXOEMRA",
+      "isFallback": false
+    },
+    {
+      "id": "67833848-be7f-44ef-8322-b514e6686fb4",
+      "title": "ハピチョコ",
+      "artist": "FRUITS ZIPPER",
+      "isrc": "JPR842000170",
+      "releaseDate": "2023-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu",
+      "isFallback": false
+    },
+    {
+      "id": "c379dcac-8f24-4912-b1f7-0bfeb76bba82",
+      "title": "イッき♡いっぱつ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02311602",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/7laSrX0jXgKWV03YQt4abA",
+      "isFallback": true
+    },
+    {
+      "id": "2384a734-9b9e-43fd-886c-403b624c2362",
+      "title": "完食",
+      "artist": "fishbowl",
+      "isrc": "JPN262200007",
+      "releaseDate": "2022-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/3DAnMb5EJQedSiI3r36FRl",
+      "isFallback": false
+    },
+    {
+      "id": "ae3447c4-2c14-4359-a25b-56b514d2df14",
+      "title": "やぶれかぶれラブレター",
+      "artist": "スターチスのラブレター",
+      "isrc": "TCJPY2370504",
+      "releaseDate": "2024-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/65axXZiqi7nScuHLndpAAx",
+      "isFallback": true
+    },
+    {
+      "id": "8193a841-f70d-4b27-b608-fc6c28a8977c",
+      "title": "一雨",
+      "artist": "fishbowl",
+      "isrc": "JPN262300027",
+      "releaseDate": "2024-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3YfzUwxfFRf45nxtNM7K11",
+      "isFallback": false
+    },
+    {
+      "id": "12559946-4b37-4f22-8aa7-dcbdbc62aa35",
+      "title": "コミュニケイション・バリア",
+      "artist": "大森靖子",
+      "isrc": "JPB601700891",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/7vZmYdPnuIgWOf6qo7yTgH",
+      "isFallback": true
+    },
+    {
+      "id": "54818e64-2095-42fa-9bbf-53695a074620",
+      "title": "めっちゃちっちゃらぶ",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602301778",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/1eFWHANdFCIYjCsj8VQtra",
+      "isFallback": true
+    },
+    {
+      "id": "43af970d-436e-4245-95b9-00b1a63845d1",
+      "title": "九天",
+      "artist": "fishbowl",
+      "isrc": "JPN262300025",
+      "releaseDate": "2023-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6MxCy5eKmABtf4oEfh0ezz",
+      "isFallback": false
+    },
+    {
+      "id": "8afd43a4-2ad9-41c8-8a33-b2f36f55b974",
+      "title": "ねらいうち",
+      "artist": "寺嶋由芙",
+      "isrc": "JPPO01412762",
+      "releaseDate": "2014-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/725qAHMuYvEppZWQsU5XC6",
+      "isFallback": true
+    },
+    {
+      "id": "9a3341dd-5080-45aa-9e1b-a07610d77665",
+      "title": "NEW KAWAII",
+      "artist": "FRUITS ZIPPER",
+      "isrc": "JPR842400025",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/5cyv0C8sidO5KhQiK7ErQ8",
+      "isFallback": true
+    },
+    {
+      "id": "43806127-75ef-429b-80e5-39d6420f6a15",
+      "title": "記念日",
+      "artist": "タイトル未定",
+      "isrc": "TCJPZ2423524",
+      "releaseDate": "2024-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/0eAAgU7RSxBrvW1Yx3Ks7f",
+      "isFallback": false
+    },
+    {
+      "id": "35695253-2366-473e-858e-19a0122af355",
+      "title": "熱帯夜のように",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPPO01511374",
+      "releaseDate": "2015-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/5nrRtJWWzd5QwXbRj9e9Jr",
+      "isFallback": false
+    },
+    {
+      "id": "7b8883a5-d214-4fa4-8df2-6ab299ed3270",
+      "title": "DTF!",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPP301700354",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/6NshOp2Mccxj2XyR9WXjIi",
+      "isFallback": false
+    },
+    {
+      "id": "1428d7f2-40ac-4469-b2f2-b5c655011e02",
+      "title": "パラドックスがたりない",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPPO01702035",
+      "releaseDate": "2018-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/3rjJuzJalpSqCVQFMeAeNA",
+      "isFallback": false
+    },
+    {
+      "id": "a420de81-0a83-4bfc-ad02-6782272821b1",
+      "title": "どうせ",
+      "artist": "電音部",
+      "isrc": "JPR502420138",
+      "releaseDate": "2024-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/6QIKEHaZWsHHlGDmWxAy6P",
+      "isFallback": true
+    },
+    {
+      "id": "914d419b-4da0-4145-8685-c2ed7ef91a79",
+      "title": "Dreaming Mary",
+      "artist": "GIRLS FIGHT CLUB",
+      "isrc": "TCJPU2393381",
+      "releaseDate": "2023-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/7E0dZHzOZ166XR1vQbTR7X",
+      "isFallback": false
+    }
+  ]
+}

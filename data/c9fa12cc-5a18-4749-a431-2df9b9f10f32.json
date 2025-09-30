@@ -1,0 +1,195 @@
+{
+  "name": "Heart's cry",
+  "sortName": "ハーツクライ",
+  "tracks": [
+    {
+      "id": "73f443e7-cda4-4cd3-b471-7097731ddc9f",
+      "title": "グッバイ・アンブレラ",
+      "artist": "東山奈央",
+      "isrc": "JPVI01732300",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/2RVNnv13V6OCAbDHJkhe4Y",
+      "isFallback": true
+    },
+    {
+      "id": "18670b43-b09a-4592-9973-54ecc1efeb7e",
+      "title": "Blue Sky",
+      "artist": "Trident",
+      "isrc": "JPVI01412820",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/6TxrtUBtO363qBReiuRogJ",
+      "isFallback": true
+    },
+    {
+      "id": "f21496c6-e82e-45ab-8ed3-a48cb957e5fa",
+      "title": "ブルー・フィールド",
+      "artist": "Trident",
+      "isrc": "JPG751300481",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/17ksQC5qhqx0TkT9hZuQJT",
+      "isFallback": true
+    },
+    {
+      "id": "0bd40449-90fe-40f5-81c2-87a8aa86f429",
+      "title": "Starlight",
+      "artist": "イオナ",
+      "isrc": "JPG751300580",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/73Ivox3afYlAgaFJ4JIVKZ",
+      "isFallback": true
+    },
+    {
+      "id": "24b3b937-2c86-4764-8dd7-2a51d93c8f81",
+      "title": "Gamer's High",
+      "artist": "茅ヶ崎至",
+      "isrc": "JPPC01702026",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/2YObSaepbHWKFT9hYWUTto",
+      "isFallback": true
+    },
+    {
+      "id": "dc7166e7-90c3-455d-84e3-4981987cb303",
+      "title": "戦線のリアリズム",
+      "artist": "新菜まこ",
+      "isrc": "JPD731600979",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2fAiF3E2sXTyGzjbk6ZwHG",
+      "isFallback": true
+    },
+    {
+      "id": "3edb1c9a-07de-4aa8-9f64-9c3d98ac5597",
+      "title": "Sentimental Blue",
+      "artist": "Trident",
+      "isrc": "JPVI01438700",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/6bR920f0oTiYEedqbrm7Wn",
+      "isFallback": true
+    },
+    {
+      "id": "2790a6d9-9cc9-4ec9-aa20-1b451eb9356a",
+      "title": "Lovely Blue",
+      "artist": "Trident",
+      "isrc": "JPVI01438720",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/2h7uxaBjjUHwczA1cMoJqd",
+      "isFallback": true
+    },
+    {
+      "id": "404d46e0-397b-4198-8108-9f7ead23fa90",
+      "title": "True Destiny",
+      "artist": "東山奈央",
+      "isrc": "JPVI01641330",
+      "releaseDate": "2017-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/2EbXeiqBJH2GzPUQ03Fw2w",
+      "isFallback": true
+    },
+    {
+      "id": "37ea3918-8760-4e9f-a30c-0eaca986a67d",
+      "title": "Sweet Erorr",
+      "artist": "ハルナ",
+      "isrc": "JPVI01412810",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5AnWuJb7978Hew3OShl00u",
+      "isFallback": true
+    },
+    {
+      "id": "b2b6bb55-bc12-4cc1-b77e-4aeca8cd1398",
+      "title": "Purest Blue",
+      "artist": "Trident",
+      "isrc": "JPVI01412790",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Wm4luGw3vcn1lpvJsGqnq",
+      "isFallback": true
+    },
+    {
+      "id": "0a5429f6-3c7d-481d-8d33-4eb63374646a",
+      "title": "君の笑顔に恋してる",
+      "artist": "東山奈央",
+      "isrc": "JPVI01732320",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/6Zo4c56iK6Y7dSpVt2hslm",
+      "isFallback": true
+    },
+    {
+      "id": "3c99eba8-d643-4827-9d1e-c74e7b710ddb",
+      "title": "Starry Night",
+      "artist": "イオナ",
+      "isrc": "JPVI01412770",
+      "releaseDate": "2014-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/1eVUGM7Ec96yma8aRHXGQe",
+      "isFallback": true
+    },
+    {
+      "id": "3a005ec6-bc2a-469b-8f70-f7ed7b20bef9",
+      "title": "惑星の唄",
+      "artist": "藍井エイル",
+      "isrc": "JPU901301341",
+      "releaseDate": "2014-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/5NGuGtKpPokviNXfDYG8Iy",
+      "isFallback": true
+    },
+    {
+      "id": "4bbe7a0a-0058-4d65-a9eb-19c804eeff49",
+      "title": "サイツヨでしょ、でしょ？",
+      "artist": "アンナ",
+      "isrc": "JPCO01914420",
+      "releaseDate": "2019-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/2ucZXE9PiUB9eM9ore8Qzj",
+      "isFallback": false
+    },
+    {
+      "id": "f4461455-35d0-4453-8fe4-f27288bff3d1",
+      "title": "O-TA-O-TA WORLD",
+      "artist": "トモ",
+      "isrc": "JPCO02226090",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/3qz6Rh8sePuDR88YADc0NY",
+      "isFallback": false
+    },
+    {
+      "id": "38b27632-eaa9-4598-bfd1-2a973636d09f",
+      "title": "Stay Alive",
+      "artist": "エミリア",
+      "isrc": "JPD731600777",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/2seAoguPhzcYQgxKcXpA2a",
+      "isFallback": true
+    },
+    {
+      "id": "bb02505d-80b2-4631-b3fd-98d225c0179b",
+      "title": "Blue Snow",
+      "artist": "Trident",
+      "isrc": "JPVI01438740",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/2Sh1lW8YqCJLUFm8iCBXtb",
+      "isFallback": true
+    },
+    {
+      "id": "14238df8-3720-4593-8ab6-6b4936dcf5a9",
+      "title": "Bright Heart",
+      "artist": "東山奈央",
+      "isrc": "JPVI01709800",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/5TLOzpOUG1zU0ozRU43To2",
+      "isFallback": true
+    },
+    {
+      "id": "64078dce-75a8-4a16-aa69-ae491c5e8d98",
+      "title": "Go This Way",
+      "artist": "マンハッタンカフェ",
+      "isrc": "JPI101801590",
+      "releaseDate": "2018-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/1uMqnDFCaEjmRgmSJYe6gR",
+      "isFallback": true
+    },
+    {
+      "id": "def35f5c-7acf-4263-a674-a36d09d9b1de",
+      "title": "Words",
+      "artist": "ハルナ",
+      "isrc": "JPG751300578",
+      "releaseDate": "2013-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/4ikc30h0UO9kMN7J71Wg93",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "name": "管梓",
+  "sortName": "スガアズサ",
+  "otherName": [
+    "For Tracy Hyde"
+  ],
+  "tracks": [
+    {
+      "id": "d7c06d3b-1954-4cfb-a8c6-72295110932d",
+      "title": "Another Sunny Daze",
+      "artist": "For Tracy Hyde",
+      "isrc": "",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "baa451fb-f43b-49b1-a2e2-6142c394db0c",
+      "title": "Girl’s Searchlight",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900394",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/5SrT4b4l6scDoD1YVvsjV4",
+      "isFallback": true
+    },
+    {
+      "id": "fe0d5944-5469-40d0-967e-9d86969449a4",
+      "title": "バタフライエフェクト",
+      "artist": "RAY",
+      "isrc": "TCJPN2166198",
+      "releaseDate": "2020-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/3KlId1UwM27bUOyR5FGBrh",
+      "isFallback": true
+    },
+    {
+      "id": "86013873-c316-4f17-93cb-ef96e48a0f77",
+      "title": "フランボワーズ・パルフェのために (RAY ver.)",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502200189",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/02Tws9cin3ysmqFNzERZvQ",
+      "isFallback": true
+    },
+    {
+      "id": "edbac710-06be-4abd-b653-523a25e4bb5b",
+      "title": "Radio Days",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100025",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4jSNWHZtzsWYxQgmRvQfJN",
+      "isFallback": true
+    },
+    {
+      "id": "6d3c50ae-059b-4d36-abc4-1af404c13954",
+      "title": "スライド",
+      "artist": "・・・・・・・・・",
+      "isrc": "TCJPN2176874",
+      "releaseDate": "2017-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/3iPUrvwCFdE1pxYOVVlvTJ",
+      "isFallback": true
+    },
+    {
+      "id": "38614c01-02a2-4298-8b0d-e95afed78840",
+      "title": "ハッピーアイスクリーム",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900388",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/7LSZxfDAlqoMoNxJutZofH",
+      "isFallback": true
+    },
+    {
+      "id": "b2244007-5edc-4f5a-adb0-78096ad692e9",
+      "title": "麦の海に沈む果実",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900386",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/5h4vlGH1Cfyt80E4WEeQvk",
+      "isFallback": true
+    },
+    {
+      "id": "5e6a2dab-d4ab-493b-b468-f96796c9fd9a",
+      "title": "ラブイズブルー",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900387",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/3cyXjHiDTcHXNXJDJ3at5D",
+      "isFallback": true
+    },
+    {
+      "id": "aee6d8a0-1010-4267-ad59-203dddebe3f1",
+      "title": "Just Like Fireflies",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100021",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q",
+      "isFallback": true
+    },
+    {
+      "id": "1bbf6179-dd2d-43c3-973f-d91d75655fd4",
+      "title": "ラブシック",
+      "artist": "pink paper planes",
+      "isrc": "TCJPN2017108",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/3PKafN8I9iVrPm8vQ5ZBBh",
+      "isFallback": true
+    },
+    {
+      "id": "b88c66ca-82f4-4aa6-ab29-96ca424e980d",
+      "title": "繋ぐ日の青",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900384",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/5pGZs7SwXzICfbboT7soBP",
+      "isFallback": true
+    },
+    {
+      "id": "a505ba24-3910-4174-af4d-b93dea23cb02",
+      "title": "SnoWish; Lemonade",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501600698",
+      "releaseDate": "2014-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7uBCxzVV838cwV7SHiofAc",
+      "isFallback": true
+    },
+    {
+      "id": "042bb8f5-7f83-4bc5-9f27-4c69ed54c015",
+      "title": "Can Little Birds Remember?",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900395",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/22LXzq2N4dnaYj3adupQK9",
+      "isFallback": true
+    },
+    {
+      "id": "aabd192e-960e-48b1-9445-a2573062e526",
+      "title": "水と眠る",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900396",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/1jNu1fxqNADcvMfo0MDT3f",
+      "isFallback": true
+    },
+    {
+      "id": "ffe3c1ff-fe2f-4b4a-a832-e9039a57d136",
+      "title": "Sister Carrie",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100032",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6EKXFnqT8tVN8e02cVa22G",
+      "isFallback": true
+    },
+    {
+      "id": "78ba2c7c-65a5-4087-bae6-f88ef9332afd",
+      "title": "曖昧で美しい僕たちの王国",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900393",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/4SqWckxRnGZZimWPAVrKB0",
+      "isFallback": true
+    },
+    {
+      "id": "dc9e0444-99aa-471c-a2c6-82c0a8323c57",
+      "title": "エスケープ",
+      "artist": "pink paper planes",
+      "isrc": "TCJPP2152121",
+      "releaseDate": "2021-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/69zKZQNNDVtMDBHQ12FNQX",
+      "isFallback": true
+    },
+    {
+      "id": "11fb33c6-73e0-4316-8dee-c73a952e5f85",
+      "title": "Dream Baby Dream (Theme for Ethernity)",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100020",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6i1e6SIx3OAQkL3IkjcjjO",
+      "isFallback": true
+    },
+    {
+      "id": "4ea7ee1e-3447-4fa2-a37f-df6ed025b8df",
+      "title": "Hope",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900390",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/48K2jo6jRjYLDoYkWYfZFG",
+      "isFallback": true
+    },
+    {
+      "id": "5354f0cb-b613-46c2-808d-6a8128b42f41",
+      "title": "Desert Bloom",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100026",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/6f355TSwC26XNb7cW7ZO73",
+      "isFallback": true
+    },
+    {
+      "id": "a9d3fc26-dc50-47df-8962-50df6eed94ad",
+      "title": "Opening Logo (Photo High Inc.)",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900383",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/77xKCqVCwvSykUu7dTKolX",
+      "isFallback": true
+    },
+    {
+      "id": "584527ca-c90d-4b5b-a1cf-2d6f6afe7b20",
+      "title": "ハル、ヨル、メグル。",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900385",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/2F4jPvPzQiBaL2zPb87Gsp",
+      "isFallback": true
+    },
+    {
+      "id": "303879c1-623c-455e-9899-92a0f6cf86e3",
+      "title": "スロウボートのゆくえ",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100033",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/1wm9dwS6awYrZmwNq1g65S",
+      "isFallback": true
+    },
+    {
+      "id": "ce6b8534-10b1-43d5-8ea7-2255784368e8",
+      "title": "櫻の園",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900397",
+      "releaseDate": "2019-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/09f9UhIVreLv2tYBJuc71V",
+      "isFallback": true
+    },
+    {
+      "id": "fd73d8a8-5d3f-4b44-8881-9e8c3be22e8b",
+      "title": "Orca",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100031",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/5HgI0TBzdFeUsRLSWUAx52",
+      "isFallback": true
+    },
+    {
+      "id": "e5156a8b-297d-476d-b332-7cf12fca8294",
+      "title": "ヘヴンリイ",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100029",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/4K3fohaRsng0O9BFZdAruQ",
+      "isFallback": true
+    },
+    {
+      "id": "a37dd3d2-216e-4675-a559-29ef40fd99fc",
+      "title": "ソーダフロート気分",
+      "artist": "・・・・・・・・・",
+      "isrc": "TCJPN2176866",
+      "releaseDate": "2017-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/3ZNkJZ8TI3XGifZoBxi5Sa",
+      "isFallback": true
+    },
+    {
+      "id": "d2b4fad3-d630-4ede-b17c-0c503c6dc786",
+      "title": "First Regrets",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501600701",
+      "releaseDate": "2014-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4gICVqO8ndungcPqTkDtF3",
+      "isFallback": true
+    },
+    {
+      "id": "48cdaaa3-aadc-41fb-9a5d-bdc3ab72da98",
+      "title": "君にして春を想う",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV501900389",
+      "releaseDate": "2019-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/5qsjboiu6D47k95ortXxn4",
+      "isFallback": true
+    },
+    {
+      "id": "392462c5-900a-461f-aaca-884f60e28f74",
+      "title": "Chewing Gum USA",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100027",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/0oNQdCxJ99tjg3iWniPE25",
+      "isFallback": true
+    },
+    {
+      "id": "541c957a-5772-46ba-a26b-9f26e58793f1",
+      "title": "Fading Lights",
+      "artist": "RAY",
+      "isrc": "TCJPN2166197",
+      "releaseDate": "2020-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2nvgGrEkpTSW4UVSpNgscc",
+      "isFallback": true
+    },
+    {
+      "id": "fb3a0ca3-fc29-49f5-9542-557b17860cb5",
+      "title": "City Limits",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100028",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/155QXxjsm5Fp6oNYh96PDr",
+      "isFallback": true
+    },
+    {
+      "id": "3474f2e8-a68b-4372-b723-e92463519ecc",
+      "title": "さらばアトランティス鉄道",
+      "artist": "For Tracy Hyde",
+      "isrc": "",
+      "releaseDate": "2014-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22f7c28d-8470-40e4-8229-821c378c5fde",
+      "title": "しづかの海",
+      "artist": "・・・・・・・・・",
+      "isrc": "TCJPP2159087",
+      "releaseDate": "2019-04-04",
+      "spotifyUrl": "https://open.spotify.com/track/17WP1WsBpquY0CLZBrg6tl",
+      "isFallback": true
+    },
+    {
+      "id": "89992fd7-2182-4cd6-833e-5ac665c849d6",
+      "title": "カレント",
+      "artist": "pink paper planes",
+      "isrc": "TCJPL2050677",
+      "releaseDate": "2020-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3boXKIi1TqljHkdbP4RosD",
+      "isFallback": true
+    },
+    {
+      "id": "56830e32-4c9b-4f3c-8acd-03a5f5fdde21",
+      "title": "Interdependence Day (Part I)",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100022",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/0TPMJcE3gsbiN72teN5qcb",
+      "isFallback": true
+    },
+    {
+      "id": "2aab91e9-f186-4fb9-b353-917702d83622",
+      "title": "オールライト",
+      "artist": "pink paper planes",
+      "isrc": "TCJPK2060622",
+      "releaseDate": "2020-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/5nKf3DU3KZ4OX0UpZ2zJRe",
+      "isFallback": true
+    },
+    {
+      "id": "7ed98790-baad-4199-b032-d3f55015fa17",
+      "title": "Interdependence Day (Part II)",
+      "artist": "For Tracy Hyde",
+      "isrc": "JPV502100023",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/2xKRwEYFAafeUGDaCfD4Cx",
+      "isFallback": true
+    }
+  ]
+}

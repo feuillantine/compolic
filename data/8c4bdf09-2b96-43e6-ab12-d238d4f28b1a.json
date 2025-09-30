@@ -1,0 +1,51 @@
+{
+  "name": "that’s all folks",
+  "sortName": "ザッツオールフォークス",
+  "tracks": [
+    {
+      "id": "06b088f5-f74b-4664-a2f2-730ce341337e",
+      "title": "again",
+      "artist": "re:miaw",
+      "isrc": "JPB602183073",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/6KbGpAe8GxcTKrVsjnnNCz",
+      "isFallback": true
+    },
+    {
+      "id": "abaa0cad-9fd4-4bd2-9527-14cf5e03e478",
+      "title": "うぃーくりー",
+      "artist": "re:miaw",
+      "isrc": "JPB602183071",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/5v4UEiZHAvtAcEtvSViSev",
+      "isFallback": true
+    },
+    {
+      "id": "79202a06-b175-40b0-8896-4aa1f142cf27",
+      "title": "overture",
+      "artist": "re:miaw",
+      "isrc": "JPB602183069",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/1citCMGmObU29CC1SQIBQR",
+      "isFallback": true
+    },
+    {
+      "id": "a9be33d8-ad2c-4358-a4bf-606fc07fb879",
+      "title": "さよならなんて云わない",
+      "artist": "re:miaw",
+      "isrc": "JPB602183072",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/6ghgJXgZSHpmBBKj1JisNS",
+      "isFallback": true
+    },
+    {
+      "id": "4aaa7f4e-40a4-43d8-80d4-6ad7ff77f5cd",
+      "title": "さよならはプレリュード",
+      "artist": "re:miaw",
+      "isrc": "JPB602183070",
+      "releaseDate": "2021-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/1OayrG0yEsGbQNo4cLBDTS",
+      "isFallback": true
+    }
+  ]
+}

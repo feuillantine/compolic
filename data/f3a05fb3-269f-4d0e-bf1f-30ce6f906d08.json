@@ -1,0 +1,249 @@
+{
+  "name": "須田悦弘",
+  "sortName": "スダヨシヒロ",
+  "tracks": [
+    {
+      "id": "128e2413-72fe-487a-87b3-04c8217e7624",
+      "title": "伝えられない言葉",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00710620",
+      "releaseDate": "2008-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/0oLAYVVVGH4pAfqGRTWDpn",
+      "isFallback": true
+    },
+    {
+      "id": "5208af23-c211-4f24-bcac-f6eed1a14233",
+      "title": "えいえんの丘",
+      "artist": "堀江由衣",
+      "isrc": "JPKI00706834",
+      "releaseDate": "2007-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/24R4nhZirIMzmfMi21zaKT",
+      "isFallback": true
+    },
+    {
+      "id": "c8854682-2e51-47a7-bc94-f7a26bce5532",
+      "title": "キズナノミライ",
+      "artist": "いとうかなこ",
+      "isrc": "JPK631105101",
+      "releaseDate": "2011-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7LMlJMK7FjYsapxOGLYqfI",
+      "isFallback": true
+    },
+    {
+      "id": "b42e0dfb-cf82-48e8-b425-3164207c843e",
+      "title": "生まれゆくものたちへ",
+      "artist": "Do As Infinity",
+      "isrc": "JPB600923001",
+      "releaseDate": "2009-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/2ec5dTtPyYhPoSmdmXafNi",
+      "isFallback": true
+    },
+    {
+      "id": "b1bfde45-810f-4b60-9ed9-40062a18c236",
+      "title": "迷宮電子回廊",
+      "artist": "Valkyrie",
+      "isrc": "JPD642300549",
+      "releaseDate": "2023-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/2A9kQ1ruiFKF2YqBaS4vXz",
+      "isFallback": true
+    },
+    {
+      "id": "05e0f127-0979-47b4-b30b-a6054fe38649",
+      "title": "Not Sad",
+      "artist": "QU4RTZ",
+      "isrc": "JPI102101514",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx",
+      "isFallback": false
+    },
+    {
+      "id": "7f0d4fac-e4a0-4664-8a4d-85bf3618525d",
+      "title": "キズナの結晶",
+      "artist": "いとうかなこ",
+      "isrc": "JPE301300342",
+      "releaseDate": "2013-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/7nRm68o3bwLuUYCqmMRway",
+      "isFallback": true
+    },
+    {
+      "id": "2afdebc8-9f39-4343-87bd-5f26ef1c80ef",
+      "title": "楽園のホログラム",
+      "artist": "いとうかなこ",
+      "isrc": "JPK631301701",
+      "releaseDate": "2013-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/2hSV8ZAM5eAxTK7xnmujbS",
+      "isFallback": true
+    },
+    {
+      "id": "068433b7-74c7-4db5-9669-ba38f40eb6c7",
+      "title": "Let’s get together at a‐nation",
+      "artist": "Do As Infinity",
+      "isrc": "JPB600923004",
+      "releaseDate": "2009-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/1xVrrYi3FRNPnfaFeI9ONG",
+      "isFallback": true
+    },
+    {
+      "id": "904787e1-9970-4654-8328-b31f02f445ab",
+      "title": "アイノヨカン",
+      "artist": "神のみぞ知り隊",
+      "isrc": "JPPI01151060",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/75x5aZwTTMFdUMhxG6hUy0",
+      "isFallback": true
+    },
+    {
+      "id": "ec89e001-3fe1-4b10-8fed-045781973685",
+      "title": "イバラミチ",
+      "artist": "小野大輔",
+      "isrc": "JPI102100003",
+      "releaseDate": "2021-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/37zHU0YVUEgdHZJahQq3qp",
+      "isFallback": true
+    },
+    {
+      "id": "68bd9314-c44e-49a4-9620-b574ff0150ca",
+      "title": "Ring a Bell",
+      "artist": "すばる",
+      "isrc": "JPPI01053040",
+      "releaseDate": "2010-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/0AYlteSQWekbmkahneF0PY",
+      "isFallback": true
+    },
+    {
+      "id": "cd400328-4137-44bc-93d9-79a0103f132c",
+      "title": "Another Heaven",
+      "artist": "いとうかなこ",
+      "isrc": "JPK630905802",
+      "releaseDate": "2009-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/1TqziuVg7n3E9OyQGjHavO",
+      "isFallback": false
+    },
+    {
+      "id": "451b1107-ecd0-450e-a4f0-669772182d3e",
+      "title": "Special Memory",
+      "artist": "2B PENCILS",
+      "isrc": "JPPI01354770",
+      "releaseDate": "2013-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/7qayRhSbw850kjxs8mAp8m",
+      "isFallback": true
+    },
+    {
+      "id": "27fbf234-2fc8-4fa4-849f-0122bedb7a4d",
+      "title": "コイノシルシ",
+      "artist": "神のみぞ知り隊",
+      "isrc": "JPPI01053940",
+      "releaseDate": "2010-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/4jMrWd2cvy6IFkL3qYfvKq",
+      "isFallback": true
+    },
+    {
+      "id": "e6084373-9d5d-44d9-af39-bd9947751611",
+      "title": "トイ×トイ☆パーティー！",
+      "artist": "Sputrip",
+      "isrc": "TCJPX2330404",
+      "releaseDate": "2023-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/5aj8bHtjiFdLh0yfUwKwmL",
+      "isFallback": false
+    },
+    {
+      "id": "d98a4226-84e4-4bda-bfa9-27127be51321",
+      "title": "Make-up session ABC",
+      "artist": "QU4RTZ",
+      "isrc": "JPI102002344",
+      "releaseDate": "2021-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/79et0immBzRfo96bnGep9r",
+      "isFallback": false
+    },
+    {
+      "id": "3a8f0704-6a6f-4765-a594-4328e51769bf",
+      "title": "無限旋律",
+      "artist": "今井麻美",
+      "isrc": "JPK631305104",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2XO695PpyDcer8C7yqTCmn",
+      "isFallback": true
+    },
+    {
+      "id": "71b97076-d16f-4b55-b4b3-8c67678ff943",
+      "title": "麗しのナイチンゲール",
+      "artist": "Valkyrie",
+      "isrc": "JPD642300551",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/18mlPVZegpeW8wHnKaqIsa",
+      "isFallback": true
+    },
+    {
+      "id": "e685ade2-6268-4540-8b5c-3a9ff5b3dec3",
+      "title": "にゃんだふる!",
+      "artist": "榊原ゆい",
+      "isrc": "JPK630904901",
+      "releaseDate": "2009-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3XHwlbj7VBWHHI9mfyDyBr",
+      "isFallback": true
+    },
+    {
+      "id": "0557e6e5-509b-419d-9a8d-496ee42f0562",
+      "title": "ひとりぼっち",
+      "artist": "野中藍",
+      "isrc": "JPKI00810824",
+      "releaseDate": "2008-03-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c341d97-0236-4266-91f6-d02023c9413d",
+      "title": "ジャンケンポン",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602102908",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/6b4Pio6dFDay7M6Hf7Zsmd",
+      "isFallback": true
+    },
+    {
+      "id": "f4e467be-daed-4f0c-8bd1-3f02e4743c79",
+      "title": "1176時間",
+      "artist": "Do As Infinity",
+      "isrc": "JPB601073908",
+      "releaseDate": "2011-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/1kFe60M64ZkA79lVEHWeRW",
+      "isFallback": true
+    },
+    {
+      "id": "d2a93a96-8cc5-4d30-b488-473355dbadc7",
+      "title": "水曜日のサンデー",
+      "artist": "剣野カユラ",
+      "isrc": "JPPI01350481",
+      "releaseDate": "2013-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/0L85LpkyWRrocM2qvNvbIS",
+      "isFallback": true
+    },
+    {
+      "id": "3c53ee6e-491e-4074-b265-5de4fd807569",
+      "title": "えのぐ",
+      "artist": "えのぐ",
+      "isrc": "JPPO01805735",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/5pd2FhgUJuyHd4fdACSc2K",
+      "isFallback": false
+    },
+    {
+      "id": "9da82255-ad16-4d2e-90eb-68e4461492e9",
+      "title": "Spiral Moment",
+      "artist": "原由実",
+      "isrc": "JPK631300902",
+      "releaseDate": "2013-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/63NwlTPG79Aa0PdtGhl3BZ",
+      "isFallback": true
+    },
+    {
+      "id": "7ff90bff-403f-4c1b-b9b3-c40f0f679153",
+      "title": "STRIPE",
+      "artist": "アイドルカレッジ",
+      "isrc": "TCJPT2290430",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/3X4t3nNbh7CTb1OZ6g1ROs",
+      "isFallback": true
+    }
+  ]
+}

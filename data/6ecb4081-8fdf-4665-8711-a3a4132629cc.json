@@ -1,0 +1,159 @@
+{
+  "name": "カジヒデキ",
+  "sortName": "カジヒデキ",
+  "tracks": [
+    {
+      "id": "1e98f25a-67c0-4c50-a078-ec4d949ffd4a",
+      "title": "退屈が大好き",
+      "artist": "逢田梨香子",
+      "isrc": "JPJ222101606",
+      "releaseDate": "2021-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/3THHfpuzyz2aZQOLVsIRh1",
+      "isFallback": true
+    },
+    {
+      "id": "a199be53-a6e2-4406-bc3a-6e6d26f8bc91",
+      "title": "ライブラリーで恋をして!",
+      "artist": "花澤香菜",
+      "isrc": "JPE301204023",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/6Uur1rV8sILtRG9bTgwyJ7",
+      "isFallback": true
+    },
+    {
+      "id": "7718924d-8bdc-4891-83d4-881d9a89e943",
+      "title": "マスカット・スロープ・ラブ",
+      "artist": "バニラビーンズ",
+      "isrc": "JPE871300503",
+      "releaseDate": "2013-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/7k4TFnKPVXt82g4wpTnszu",
+      "isFallback": true
+    },
+    {
+      "id": "4128824f-b848-4bf3-87c7-9bac3f78fa42",
+      "title": "パパ、アイ・ラブ・ユー！！",
+      "artist": "花澤香菜",
+      "isrc": "JPE301400036",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/4Nwhw2QHQiW5sQ38R5Ix7u",
+      "isFallback": true
+    },
+    {
+      "id": "4b18fa50-9e85-4e43-b58d-335819c86743",
+      "title": "シュガー＊シュガー",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901713170",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/16dYlLWiQoFHwOejfYCbuO",
+      "isFallback": true
+    },
+    {
+      "id": "665549e1-6c8f-4586-b2e1-c76a3dcc9e32",
+      "title": "夏物語",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901810650",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/4FOi3ui3IaW69qO2MmWgF0",
+      "isFallback": true
+    },
+    {
+      "id": "8ab07881-0915-42df-a024-d8fbf3eca559",
+      "title": "LOVE SONGは歌わない",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901802750",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/2tHJHELFp2jBtMuUoRfDGy",
+      "isFallback": true
+    },
+    {
+      "id": "8b7d6ff6-193d-47dc-bc9c-60ddbd1fc5f1",
+      "title": "ファンシーほっぺ♡ウ・フ・フ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01400102",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/3bQfOq87GJPm1fkBRRQez5",
+      "isFallback": true
+    },
+    {
+      "id": "752ca9ff-631c-4282-bdc3-9a0420e5405f",
+      "title": "夢見るモーターサイクル・ガール",
+      "artist": "アズマリム",
+      "isrc": "TCJPW2367834",
+      "releaseDate": "2023-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/61m0s9ONoqCVzT0K6wcYcV",
+      "isFallback": false
+    },
+    {
+      "id": "d1a2efe4-7ed0-4b72-b1fc-0cb14b9affb5",
+      "title": "青空とWater",
+      "artist": "AMI SUZUKI",
+      "isrc": "JPB600708901",
+      "releaseDate": "2007-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/0JW9LLa1HbsOkYHmHJsKMP",
+      "isFallback": true
+    },
+    {
+      "id": "26849477-ff78-4c6b-b030-ea1d6ea891bc",
+      "title": "亜熱帯ガール",
+      "artist": "我那覇響",
+      "isrc": "",
+      "releaseDate": "2012-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cddf2fe5-1eae-40eb-9136-8bec3a35e09f",
+      "title": "甘い恋人",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901902000",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e6de94f7-58de-4f92-a184-9357cfe8397d",
+      "title": "ラ・ブーム~だってMY BOOM IS ME~",
+      "artist": "Wink Music Service",
+      "isrc": "TCJPC2471453",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/10kBr6Vbstwbb1wbuTbWOI",
+      "isFallback": true
+    },
+    {
+      "id": "9d5bdee8-c294-4917-ad7b-480139ea9749",
+      "title": "バブルバスガール",
+      "artist": "コニーちゃん",
+      "isrc": "JPPC09715032",
+      "releaseDate": "1998-12-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c16c34b-1343-42a7-8a53-7b86c29ffb28",
+      "title": "ハートビートを止めないで",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901810640",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/11ObksQStEHcL7UHUcBM43",
+      "isFallback": true
+    },
+    {
+      "id": "93b04777-d16f-4007-ba1c-aab3c4b45f08",
+      "title": "セブンティーンパフェ",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901707450",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/6w46LYk8NxgoJcdV4K8ElC",
+      "isFallback": true
+    },
+    {
+      "id": "04db7173-28d5-480f-9cfa-37b3fdc4007e",
+      "title": "毎日がジェットコースター",
+      "artist": "あっとせぶんてぃーん",
+      "isrc": "JPJ901802740",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/5mpXycRHy1IlDq6p6MHVO0",
+      "isFallback": true
+    }
+  ]
+}

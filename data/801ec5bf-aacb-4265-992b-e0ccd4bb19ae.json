@@ -1,0 +1,78 @@
+{
+  "name": "姉田ウ夢ヤ",
+  "sortName": "アネタウムヤ",
+  "tracks": [
+    {
+      "id": "a649fb47-0992-4714-8508-d84fdd5f881e",
+      "title": "GA‐TAN GO‐TON",
+      "artist": "中島怜",
+      "isrc": "JPVI02400809",
+      "releaseDate": "2024-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/17MUmPvSmiN674qFgg06sY",
+      "isFallback": true
+    },
+    {
+      "id": "741ba066-a0cf-4392-9564-ad5c722dfb7b",
+      "title": "ジリティック♡BEGINNER",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01610900",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/22iRXp8O9yNxHRyD2yENWR",
+      "isFallback": false
+    },
+    {
+      "id": "fc96d8c9-6b32-4c71-ba3c-1ea1beb9cfbc",
+      "title": "まだ遠くにいる",
+      "artist": "坂本真綾",
+      "isrc": "JPVI02203783",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/5moWkP9uBHnZN5qfLP33W3",
+      "isFallback": false
+    },
+    {
+      "id": "3624652a-b372-4b71-b2c2-6eadeee494a5",
+      "title": "ニアー・ユアー・サイド",
+      "artist": "綾波",
+      "isrc": "JPW670100056",
+      "releaseDate": "2019-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/3XSzv9x4SlfxuPQwpi9QVb",
+      "isFallback": true
+    },
+    {
+      "id": "d430276d-f242-486c-a5d0-2dd44885a6ea",
+      "title": "New Anniversary!",
+      "artist": "平山笑美",
+      "isrc": "TCJPX2377094",
+      "releaseDate": "2023-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/5UHQC9SwvhOcEa74rOiXDs",
+      "isFallback": false
+    },
+    {
+      "id": "0c423181-225a-438c-9ec5-c8978294da5b",
+      "title": "不確定性☆COSMIC MOVEMENT",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01610910",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2bxvGxTwmV6gDRMoOLo82d",
+      "isFallback": false
+    },
+    {
+      "id": "5d7f65ac-9d59-41bd-8a38-5741f4024da9",
+      "title": "…デートしませんか?!",
+      "artist": "あざ丸",
+      "isrc": "JPPC02001366",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/4rrsy4xD5PVtBKpwA3jRuG",
+      "isFallback": true
+    },
+    {
+      "id": "98b4ac1a-028c-4a41-bf67-9f309821c5d2",
+      "title": "恋! ハレイション THE WAR",
+      "artist": "ワルキューレ",
+      "isrc": "JPVI01604890",
+      "releaseDate": "2016-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/37O42LyF5a0PIpVnIsko2a",
+      "isFallback": true
+    }
+  ]
+}

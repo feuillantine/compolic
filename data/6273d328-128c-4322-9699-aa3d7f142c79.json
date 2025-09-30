@@ -1,0 +1,636 @@
+{
+  "name": "瀬名航",
+  "sortName": "セナワタル",
+  "tracks": [
+    {
+      "id": "6525f4e1-5fbe-4ee9-a7fb-fe5896d9c287",
+      "title": "Warning",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997438",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2qK2vvXDfhxllJ0G7qGWM0",
+      "isFallback": true
+    },
+    {
+      "id": "1bc6ef40-5cf0-41a4-bbb2-a2da2f2746d7",
+      "title": "ただ、君のままで",
+      "artist": "Sou",
+      "isrc": "JPKI02415546",
+      "releaseDate": "2025-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/4z7Qk41xRBHV9C9pNqxZ2U",
+      "isFallback": true
+    },
+    {
+      "id": "052909b9-2d2a-4397-a6b8-97b74f0d2ccf",
+      "title": "ZigZag",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997431",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2nE2jbOaGUoLsX1ZvpwCfQ",
+      "isFallback": true
+    },
+    {
+      "id": "9a154baa-8075-4b2c-ac2a-6ff66e75cf4a",
+      "title": "おかえり",
+      "artist": "ときのそら",
+      "isrc": "JPVI01900536",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/1KAPfqbQYXtL3odJbi5OYX",
+      "isFallback": true
+    },
+    {
+      "id": "328edfb7-1351-4bef-82f2-5bc16b34d29e",
+      "title": "My Long Prologue",
+      "artist": "tipToe.",
+      "isrc": "TCJPA2480280",
+      "releaseDate": "2024-01-23",
+      "spotifyUrl": "https://open.spotify.com/track/4D6F7U7KH6FeEmB2cnkxSx",
+      "isFallback": false
+    },
+    {
+      "id": "104de17b-af31-4539-bd56-e106fff6645d",
+      "title": "Happy Meowthday!!",
+      "artist": "ときのそら",
+      "isrc": "JPVI02201008",
+      "releaseDate": "2022-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/70tfHxACJDfoBynPjAtF1R",
+      "isFallback": true
+    },
+    {
+      "id": "5daa518f-87b7-41cf-b5ae-e8991670993a",
+      "title": "天国の踊り場",
+      "artist": "Gothic×Luck",
+      "isrc": "JPVI02101111",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/6ky7Fa6zxiIalOZIqG88zW",
+      "isFallback": true
+    },
+    {
+      "id": "2214f42e-4260-4da4-8108-83b13e8da349",
+      "title": "等身大エモーション（nayuta solo ver.）",
+      "artist": "nayuta",
+      "isrc": "TCJPK2052315",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/161LOWlA0YD0SMjXCguKWJ",
+      "isFallback": true
+    },
+    {
+      "id": "ea564afc-5d42-4dbd-b46e-52a5bb3cdb79",
+      "title": "蛍光灯に照らされて",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997435",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/6n68jTUfm07BzDpMutEyHG",
+      "isFallback": true
+    },
+    {
+      "id": "d1f717d9-181e-4cd0-805c-65575fa4f63b",
+      "title": "エンドロールは終わらない",
+      "artist": "AZKi",
+      "isrc": "JPVI02302335",
+      "releaseDate": "2023-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/1Zyh1AoCr5vOuHbm2LuWyt",
+      "isFallback": false
+    },
+    {
+      "id": "3a86e0f0-c02a-41f6-bbe9-b4de672c1bee",
+      "title": "セツナリベンジ",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602501059",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/59pl7X7pVVHKcqk8wqUHuv",
+      "isFallback": true
+    },
+    {
+      "id": "90cdae29-9ee4-41cd-ba39-a6bc7d366f2c",
+      "title": "apple juice",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997492",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/46PhYFFntHL2Do7QFvvVCZ",
+      "isFallback": true
+    },
+    {
+      "id": "d3fbc23a-e7fc-401b-a05c-675c02e1c852",
+      "title": "センシティブ・ゴースト",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2470213",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/12pIp56nOReC9vXzQFifcO",
+      "isFallback": true
+    },
+    {
+      "id": "ad080144-4bc6-4b1b-9d17-e9ab664c2d16",
+      "title": "それは内緒にしておいて",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2469739",
+      "releaseDate": "2024-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/1FXnSQ0Q0JDWnkVltaTJpU",
+      "isFallback": true
+    },
+    {
+      "id": "adbd5ccb-bd36-4f1a-9c84-b380696d0c5d",
+      "title": "冴ゆる青",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2470232",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/33XixOfCl8YNzZ05OEKg2N",
+      "isFallback": true
+    },
+    {
+      "id": "ff869e22-2cf2-4a63-b2f9-785fcdf5e193",
+      "title": "疲れたからさ",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2469772",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/3THRAniGbselLivTPg9fwH",
+      "isFallback": true
+    },
+    {
+      "id": "5c80fdc7-88ff-4b46-8e1a-34d6545868af",
+      "title": "朝の雫",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997430",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3PBkP4IMwCYnrid9BU2gDr",
+      "isFallback": true
+    },
+    {
+      "id": "debeb713-0436-4a2f-b50a-3c944472d232",
+      "title": "絶景絶好スーパーデイ!!",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02310128",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/0IqPgTS1mFXavSdPc0LEU8",
+      "isFallback": false
+    },
+    {
+      "id": "e2e9f608-44e1-4ad2-a678-a4fe7b6b996f",
+      "title": "light and shadow",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997493",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/1B2Z2RvViwiPWbmXx3Hepk",
+      "isFallback": true
+    },
+    {
+      "id": "5c51b818-0aaa-42e3-975a-ab31000a5a47",
+      "title": "いのち",
+      "artist": "AZKi",
+      "isrc": "TCJPI1989765",
+      "releaseDate": "2019-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/4VXADm8WUzpr6xYtXr0T7a",
+      "isFallback": true
+    },
+    {
+      "id": "f733e381-f615-4e2f-869f-dc8ed01a51ae",
+      "title": "midori",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997506",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/6yiLjmV9V397SLQRi5Hcg3",
+      "isFallback": true
+    },
+    {
+      "id": "8e2f9f00-ffc9-4db3-bca9-317ef7a54c39",
+      "title": "aimai",
+      "artist": "瀬名航",
+      "isrc": "TCJPG2507772",
+      "releaseDate": "2025-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/0vB9Ans2kcszViU4vJTA6d",
+      "isFallback": true
+    },
+    {
+      "id": "b9ab111e-0b6e-4e16-a967-c4551a7ea2a9",
+      "title": "等身大エモーション",
+      "artist": "茶太",
+      "isrc": "TCJPM2059943",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/4o9vL7TSpPiRgKBo6KRRSp",
+      "isFallback": true
+    },
+    {
+      "id": "9c8727ee-90c1-424f-8024-300045a6d2b9",
+      "title": "Cider Aquarium",
+      "artist": "tipToe.",
+      "isrc": "TCJPH1860671",
+      "releaseDate": "2018-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/5x1lNRjAEjyFXH7kFXyCro",
+      "isFallback": true
+    },
+    {
+      "id": "9b43cf87-6e94-4a88-b394-f98c69fc18e0",
+      "title": "時代を超えた遊び場で",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2468823",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/3Iv2CLGdboX7yS6fFsgLax",
+      "isFallback": true
+    },
+    {
+      "id": "1daaf3b1-2347-4ce0-b41d-0eb4c51b54db",
+      "title": "Alley Cat",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997434",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/28cmHtlisJVPrYFbf8damC",
+      "isFallback": true
+    },
+    {
+      "id": "d3034cf7-2e47-472d-91aa-5816cb50f673",
+      "title": "Hello World",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997441",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3Acd2v4LeHTyHbUJuoES1i",
+      "isFallback": true
+    },
+    {
+      "id": "97782237-7bdd-439e-b88b-db6260d4e3cd",
+      "title": "強くて弱くて愛しくて",
+      "artist": "東日万凛",
+      "isrc": "JPPC02410014",
+      "releaseDate": "2024-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq",
+      "isFallback": false
+    },
+    {
+      "id": "6f4d68a2-8b44-4616-8b6b-7cf29e6997e1",
+      "title": "空祭り",
+      "artist": "ときのそら",
+      "isrc": "JPVI02002126",
+      "releaseDate": "2020-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3cSA2CmSOHxUpIx1PmU0sb",
+      "isFallback": true
+    },
+    {
+      "id": "a179b6c0-8f34-48c2-9a5f-228222ec2533",
+      "title": "黒煙",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997439",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/51aPXtw5rz6uug0TFRCfYp",
+      "isFallback": true
+    },
+    {
+      "id": "578fed35-6069-40e7-b8e7-9d652c7cf9db",
+      "title": "悪戯ごっこ",
+      "artist": "莉犬",
+      "isrc": "JPPO02304493",
+      "releaseDate": "2024-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/31z4obyy9DwL16mmgYIjCS",
+      "isFallback": false
+    },
+    {
+      "id": "4024effa-17a3-4992-b4a7-d1f23e6b281e",
+      "title": "わたしたちのラプソディー",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02412128",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/00y6s4NFsiRJpwCdW6qBSC",
+      "isFallback": true
+    },
+    {
+      "id": "8ce4bf49-c4cb-482e-b57f-a4dafacfaeca",
+      "title": "morning milk",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997485",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/5p7lqGB19Lf4DLs8RgbCzZ",
+      "isFallback": true
+    },
+    {
+      "id": "339a4d27-4d7a-4754-842f-7bbb7fe10c78",
+      "title": "ちょっとだけ",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2468839",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6txzPrh6Bj6XItwbBc9imj",
+      "isFallback": true
+    },
+    {
+      "id": "e74aa34f-8a72-4837-8c9f-d93a63116786",
+      "title": "ゆっくり走れば風は吹く",
+      "artist": "ときのそら",
+      "isrc": "JPVI02000044",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/4YOrvzTBPcsRJAxoCPjIPQ",
+      "isFallback": true
+    },
+    {
+      "id": "34d7e748-d1b5-458d-b7ab-b230a2500143",
+      "title": "あっかんべーだ",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1994409",
+      "releaseDate": "2019-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/70KCvMOf2XkDKSxFChZuoH",
+      "isFallback": true
+    },
+    {
+      "id": "6fbe7ca8-b5e7-4389-b3b8-177d51e763f6",
+      "title": "花咲く僕らのアンサーを",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02001730",
+      "releaseDate": "2021-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/5iXrdHC3RgI5J5Cb4eoGWC",
+      "isFallback": true
+    },
+    {
+      "id": "c95d51f2-2c40-4b97-a0de-e87bb00e211b",
+      "title": "大切なお知らせ",
+      "artist": "瀬名航",
+      "isrc": "TCJPQ2165736",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6IUwKH7mWNq7wreUsgDSg1",
+      "isFallback": true
+    },
+    {
+      "id": "19c4f0d1-b150-4fb9-9484-71cd6275db05",
+      "title": "微熱煙",
+      "artist": "長瀬有花",
+      "isrc": "JPX632100009",
+      "releaseDate": "2022-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/4KYAsnuiyckoCSL7VBjWhQ",
+      "isFallback": false
+    },
+    {
+      "id": "5f186c74-ae08-46d3-a55c-49fe1b49bd44",
+      "title": "夏の花火と君と青",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02001649",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/0EEMcDYqX5gMU7DkbVxBqW",
+      "isFallback": false
+    },
+    {
+      "id": "7f92db96-b994-4b1d-8823-33a2df7bf3c9",
+      "title": "想いのち晴れ",
+      "artist": "あおい",
+      "isrc": "JPKI02213428",
+      "releaseDate": "2022-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/0jvab474HhB3ywB8a6JuEx",
+      "isFallback": true
+    },
+    {
+      "id": "cea089cb-6c44-4af1-a0f6-8ff3e67bf9de",
+      "title": "恋の宅配便",
+      "artist": "瀬名航",
+      "isrc": "TCJPQ2165733",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/068igbnnarm3x9j5FVmPDc",
+      "isFallback": true
+    },
+    {
+      "id": "bdec6721-6219-4e22-bf5f-b76444c4dde3",
+      "title": "ラ・ヴィハピ厨",
+      "artist": "鳥羽弥生",
+      "isrc": "JPE302300935",
+      "releaseDate": "2024-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/7vLOUVZc36a2uU2HqDDvoS",
+      "isFallback": true
+    },
+    {
+      "id": "d7d40213-d749-45f9-97f0-8d2a09f583c5",
+      "title": "散り菊",
+      "artist": "tipToe.",
+      "isrc": "TCJPY2304733",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/6EGX0apPBY5aaD0Ndbsyv6",
+      "isFallback": false
+    },
+    {
+      "id": "197682bf-f6c5-47a9-a6ff-c7c0d0548fc3",
+      "title": "雪が弾けたその場所で",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2470223",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/6gAlQEzTHEjOBgwV3VBa4L",
+      "isFallback": true
+    },
+    {
+      "id": "10cc0ceb-bd04-44a6-86c8-de54807396f9",
+      "title": "初の音",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2468812",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/3TcO5JUC9muqzkpDQ4UdcR",
+      "isFallback": true
+    },
+    {
+      "id": "f76bb41f-3415-4931-88c3-0d5f3deb5da7",
+      "title": "その春、日記の続きから",
+      "artist": "キャル",
+      "isrc": "JPCO02333720",
+      "releaseDate": "2023-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/0yG3Hh27LWMD0m4QrL4ix3",
+      "isFallback": false
+    },
+    {
+      "id": "69a3969c-c2fb-4be8-972e-8c187d837393",
+      "title": "Growing",
+      "artist": "東山奈央",
+      "isrc": "JPVI02201233",
+      "releaseDate": "2022-06-08",
+      "spotifyUrl": "https://open.spotify.com/track/7klq71jyYytrCywZ2Ju85K",
+      "isFallback": true
+    },
+    {
+      "id": "974936f8-fde2-4e78-bed2-c01658e549d3",
+      "title": "紅い頬",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2468875",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/0hTVCi58e8t3hJMfxQt0Vx",
+      "isFallback": true
+    },
+    {
+      "id": "c5d33d80-56f3-48bc-a22b-d9b59c798a13",
+      "title": "ショウタイム×オーディエンス",
+      "artist": "瀬名航",
+      "isrc": "TCJPC2468816",
+      "releaseDate": "2024-11-23",
+      "spotifyUrl": "https://open.spotify.com/track/1sNlHFd8dJBongvXUfevxg",
+      "isFallback": true
+    },
+    {
+      "id": "f33480fa-bcf2-4da7-950d-41cb5e06e62a",
+      "title": "Hopeful Days",
+      "artist": "小倉唯",
+      "isrc": "JPKI01910302",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/2yjeSqXBTYYucFUYseKCzc",
+      "isFallback": true
+    },
+    {
+      "id": "f8ddbd9f-0f4a-48a8-b247-32b311754751",
+      "title": "ひとくち、ちょうだい？",
+      "artist": "瀬名航",
+      "isrc": "TCJPQ2165735",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7BcCukNyae2m1gogAlfzcs",
+      "isFallback": true
+    },
+    {
+      "id": "f3e894b2-3659-4dd2-94f1-fdecd83b20e0",
+      "title": "ただいまを聞きたくて",
+      "artist": "イエイヌ",
+      "isrc": "JPVI01901735",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/15wsQ9bS5iK3UthX7ISYMV",
+      "isFallback": false
+    },
+    {
+      "id": "c91c869a-a21c-4dd2-8b08-866dba170809",
+      "title": "Dragon's Breath",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997440",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/1zeKxeRKmmXnxvh9e1O7M8",
+      "isFallback": true
+    },
+    {
+      "id": "3f7bdd73-2d19-4d63-be64-e10a97324a28",
+      "title": "cycle",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997508",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/7DBvku6O6zbZ2pg5xrWKhw",
+      "isFallback": true
+    },
+    {
+      "id": "e0563947-7227-4677-abf2-4f1ec5c28e2a",
+      "title": "リアルメランコリー",
+      "artist": "AZKi",
+      "isrc": "TCJPI1947341",
+      "releaseDate": "2019-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/1F9fCDKNRUhPPLQDfcw5cH",
+      "isFallback": true
+    },
+    {
+      "id": "4eac4535-884a-4934-9115-3226526ce7ec",
+      "title": "シンガーソングトラベラー",
+      "artist": "tipToe.",
+      "isrc": "TCJPY2360227",
+      "releaseDate": "2023-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/52vs9LrcRHKqQnNMhcFOWj",
+      "isFallback": false
+    },
+    {
+      "id": "7cd69bd6-23a9-41ec-a463-e12cd115c755",
+      "title": "syuzinkou sa",
+      "artist": "瀬名航",
+      "isrc": "TCJPI1997509",
+      "releaseDate": "2019-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/3AdSX3EnNoDxkFkdDzVwti",
+      "isFallback": true
+    },
+    {
+      "id": "143e50b1-3736-420c-a883-d4f7ae0a5e2d",
+      "title": "にゃんぼりーdeモッフィー!!",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02310755",
+      "releaseDate": "2023-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/4mf6554SboktKSDXSew51X",
+      "isFallback": false
+    },
+    {
+      "id": "3049fc2d-0a4f-4348-bd60-6f77dea29bb7",
+      "title": "等身大エモーション（茶太 solo ver.）",
+      "artist": "chata",
+      "isrc": "TCJPK2052319",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/2h8uHKx3MlSY73cNZ6CgFR",
+      "isFallback": true
+    },
+    {
+      "id": "edc93f2e-1523-470e-94f4-414d4939ecf9",
+      "title": "画面の中の君が好き",
+      "artist": "AZKi",
+      "isrc": "TCJPQ2157784",
+      "releaseDate": "2021-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/6ZwfzdKRW1dWz9X0L2nJuB",
+      "isFallback": true
+    },
+    {
+      "id": "a9bda96e-aa0a-422f-ac02-6c706fe89035",
+      "title": "青い夢",
+      "artist": "AZKi",
+      "isrc": "TCJPM2004336",
+      "releaseDate": "2020-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/2RrhRbrNpsNlnFVjduqfvM",
+      "isFallback": true
+    },
+    {
+      "id": "23c43a7f-3908-4d84-b811-99170679d9f6",
+      "title": "Our Friends",
+      "artist": "瀬名航",
+      "isrc": "TCJPY2359421",
+      "releaseDate": "2023-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Of54WGhlPh2p9KyJVJSHf",
+      "isFallback": false
+    },
+    {
+      "id": "61039ec0-93bc-473f-9be4-97fd004f1fe1",
+      "title": "春は絆創膏",
+      "artist": "開歌-かいか-",
+      "isrc": "JPE872204637",
+      "releaseDate": "2023-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/4yWPBzKfgVMASZAJKSCvpd",
+      "isFallback": true
+    },
+    {
+      "id": "f94a6b26-ca04-4149-aaac-69997f05ca03",
+      "title": "透明できれい",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02110626",
+      "releaseDate": "2021-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/6OOvWlPT9dAZBnkpSGyZvT",
+      "isFallback": false
+    },
+    {
+      "id": "1f022fe9-0e73-4095-af09-e57087f23173",
+      "title": "星降る夜、君とダンスを",
+      "artist": "tipToe.",
+      "isrc": "TCJPI1980676",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/7rDPBY9flyG9M0g1BPX33y",
+      "isFallback": true
+    },
+    {
+      "id": "1fb5a717-35d3-439a-835c-df3cff0af016",
+      "title": "あにまってユートピア",
+      "artist": "La prière",
+      "isrc": "TCJPT2240796",
+      "releaseDate": "2022-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3NxE4Ax1VzUJBjcMx0KH2K",
+      "isFallback": false
+    },
+    {
+      "id": "9724a5a4-f4ca-4e9f-8810-337721433f16",
+      "title": "エントロピー",
+      "artist": "AZKi",
+      "isrc": "JPVI02401846",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/7DKbKmgmFrJVdG24526qka",
+      "isFallback": true
+    },
+    {
+      "id": "fd5b6e53-2281-41dc-b971-e19791e83a14",
+      "title": "プリンセスヒーロー",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602402820",
+      "releaseDate": "2024-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/461dqTzvGMoQf29C2SxW95",
+      "isFallback": true
+    },
+    {
+      "id": "172ef656-fd81-4e32-98bc-2beadce8f9b6",
+      "title": "シーソーゲーム",
+      "artist": "ときのそら",
+      "isrc": "JPVI01900546",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "https://open.spotify.com/track/2DBjTtFP2Cdh5Xcym46olq",
+      "isFallback": true
+    }
+  ]
+}

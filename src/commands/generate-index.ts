@@ -11,7 +11,7 @@ export const generateIndexCommand = new Command('generate-index')
     const entries = await fs.readdir(DATA_DIR, { withFileTypes: true });
     const jsonFiles = entries
       .filter((entry) => entry.isFile() && entry.name.endsWith('.json'))
-      .map((entry) => `/data/${entry.name}`);
+      .map((entry) => `./data/${entry.name}`);
 
     await fs.writeFile(OUTPUT_FILE, `${JSON.stringify(jsonFiles, null, 2)}\n`, 'utf-8');
   });

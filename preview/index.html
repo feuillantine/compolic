@@ -293,7 +293,7 @@
 
     // Dynamically fetch the list of JSON files from the server
     async function fetchJsonFileList() {
-      const response = await fetch('/data/files.json');
+      const response = await fetch('./data/files.json');
       if (!response.ok) {
         console.error('Failed to fetch JSON file list');
         return [];

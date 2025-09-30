@@ -2,7 +2,7 @@ name: Update Tracks
 
 on:
   schedule:
-    - cron: '0 18 * * *' # 3 AM JST daily
+    - cron: '0 18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,10 @@ jobs:
 
       - name: Run update-tracks command
         run: npm run start update-tracks
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
       - name: Configure Git
         run: |

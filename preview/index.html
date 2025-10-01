@@ -43,6 +43,7 @@
       align-items: center;
       gap: 6px;
       margin: 0;
+      font-size: 24px;
     }
 
     h1::before {
@@ -69,7 +70,13 @@
       line-height: 1;
       font-size: 12px;
       font-weight: bold;
+      font-family: inherit;
       color: #555;
+      appearance: none;
+    }
+
+    .info-btn:hover {
+      text-decoration: underline;
     }
 
     .container {
@@ -245,6 +252,19 @@
         padding: 12px;
       }
 
+      h1 {
+        font-size: 20px;
+      }
+
+      h1::before {
+        width: 32px;
+        height: 32px;
+      }
+
+      .header-nav {
+        gap: 12px;
+      }
+
       .sidebar {
         display: none;
       }
@@ -288,7 +308,7 @@
 
 <body>
   <header>
-    <h1>Compolic (α)</h1>
+    <h1>Compolic(α)</h1>
     <ul class="header-nav">
       <li><a href="https://open.spotify.com/playlist/0OqDRy8K9hPx2ZabLiSj58" target="_blank" class="info-btn">playlist</a></li>
       <li><button id="infoBtn" class="info-btn">about</button></li>

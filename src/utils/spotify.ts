@@ -92,7 +92,6 @@ export const getAllPlaylistTrackUris = async (
   const allUris = new Set<string>();
 
   while (true) {
-    console.log(offset);
     const response = await spotifyApi.getPlaylistTracks(playlistId, {
       limit: BATCH_LIMIT,
       offset,
@@ -119,18 +118,19 @@ export const getAllPlaylistTrackUris = async (
  *
  * @param spotifyApi 認証済み SpotifyWebApi インスタンス
  * @param playlistId プレイリスト ID（`spotify:playlist:` プレフィックスは除く）
- * @param uris 追加したいトラック URI の配列（最大 100 件まで）
+ * @param uris 追加したいトラック URI の Set（最大 100 件まで）
  */
 export const addTracksToPlaylist = async (
   spotifyApi: SpotifyWebApi,
   playlistId: string,
-  uris: string[],
+  uris: Set<string>,
 ): Promise<void> => {
   const BATCH_LIMIT = 100;
   const INTERVAL_MS = 150;
 
-  for (let i = 0; i < uris.length; i += BATCH_LIMIT) {
-    const batch = uris.slice(i, i + BATCH_LIMIT);
+  const uriArray = [...uris];
+  for (let i = 0; i < uriArray.length; i += BATCH_LIMIT) {
+    const batch = uriArray.slice(i, i + BATCH_LIMIT);
     await spotifyApi.addTracksToPlaylist(playlistId, batch);
     await sleep(INTERVAL_MS);
   }

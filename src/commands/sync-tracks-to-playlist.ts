@@ -39,7 +39,7 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
 
     // データからトラックIDを収集
     const files = await fs.readdir(DATA_DIR);
-    const trackUris: string[] = [];
+    const trackUris = new Set<string>();
     for (const file of files) {
       if (!file.endsWith('.json')) continue;
       const filePath = path.join(DATA_DIR, file);
@@ -51,7 +51,7 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
             const uri: string | undefined = track.spotifyUrl;
             const prefix = 'https://open.spotify.com/track/';
             if (uri && typeof uri === 'string' && uri.startsWith(prefix)) {
-              trackUris.push(uri.replace(prefix, 'spotify:track:'));
+              trackUris.add(uri.replace(prefix, 'spotify:track:'));
             }
           }
         }
@@ -59,22 +59,22 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
         console.warn(`${file}の読み取りに失敗しました:`, e);
       }
     }
-    console.log(`${trackUris.length}曲の楽曲が見つかりました`);
+    console.log(`${trackUris.size}曲の楽曲が見つかりました`);
 
     // プレイリスト登録済のトラックIDを収集
     const existingUris = await getAllPlaylistTrackUris(spotifyApi, playlistId);
     console.log(`${existingUris.size}曲がプレイリストに登録されています`);
 
-    const uniqueTrackUris = trackUris.filter((uri) => !existingUris.has(uri));
-    if (uniqueTrackUris.length === 0) {
+    const uniqueTrackUris = trackUris.difference(existingUris);
+    if (uniqueTrackUris.size === 0) {
       console.log('未追加の曲はありませんでした');
       return;
     }
 
-    console.log(`合計${uniqueTrackUris.length}曲をプレイリストに追加します`);
+    console.log(`合計${uniqueTrackUris.size}曲をプレイリストに追加します`);
     try {
       await addTracksToPlaylist(spotifyApi, playlistId, uniqueTrackUris);
-      console.log(`全${uniqueTrackUris.length}曲をプレイリストに追加しました`);
+      console.log(`全${uniqueTrackUris.size}曲をプレイリストに追加しました`);
     } catch (e) {
       console.error('トラック追加に失敗しました:', e);
     }

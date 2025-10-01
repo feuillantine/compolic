@@ -23,7 +23,7 @@ class AuthServer {
     this.setupRoutes(spotifyApi);
     this.server = this.app.listen(8888, () => {
       console.log('\nアカウントの認証サーバーを起動中...');
-      console.log(`${LOGIN_URL}にアクセスしてください`);
+      console.log(`${LOGIN_URL} にアクセスしてください`);
     });
     this.setupTimeout();
   }

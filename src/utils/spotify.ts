@@ -1,4 +1,5 @@
 import SpotifyWebApi from 'spotify-web-api-node';
+import { sleep } from './sleep';
 
 /**
  * SpotifyWebApi インスタンスを作成するユーティリティ
@@ -69,5 +70,68 @@ export const searchTrack = async (
       : null;
   } catch {
     return null;
+  }
+};
+
+/**
+ * 指定したプレイリストの全トラック URI を取得します。
+ * Spotify API は 1 回の呼び出しで最大 100 件しか取得できないため、ページングで全件取得します。
+ *
+ * @param spotifyApi 認証済み SpotifyWebApi インスタンス
+ * @param playlistId プレイリスト ID（`spotify:playlist:` プレフィックスは除く）
+ * @returns プレイリストに含まれるトラック URI の Set
+ */
+export const getAllPlaylistTrackUris = async (
+  spotifyApi: SpotifyWebApi,
+  playlistId: string,
+): Promise<Set<string>> => {
+  const BATCH_LIMIT = 100;
+  const INTERVAL_MS = 150;
+
+  let offset = 0;
+  const allUris = new Set<string>();
+
+  while (true) {
+    console.log(offset);
+    const response = await spotifyApi.getPlaylistTracks(playlistId, {
+      limit: BATCH_LIMIT,
+      offset,
+    });
+    const items = response.body.items ?? [];
+    for (const item of items) {
+      const uri = item.track?.uri;
+      if (uri) {
+        allUris.add(uri);
+      }
+    }
+    if (items.length < BATCH_LIMIT) {
+      break;
+    }
+    offset += BATCH_LIMIT;
+    await sleep(INTERVAL_MS);
+  }
+
+  return allUris;
+};
+
+/**
+ * 指定したプレイリストにトラック URI のバッチを追加します。
+ *
+ * @param spotifyApi 認証済み SpotifyWebApi インスタンス
+ * @param playlistId プレイリスト ID（`spotify:playlist:` プレフィックスは除く）
+ * @param uris 追加したいトラック URI の配列（最大 100 件まで）
+ */
+export const addTracksToPlaylist = async (
+  spotifyApi: SpotifyWebApi,
+  playlistId: string,
+  uris: string[],
+): Promise<void> => {
+  const BATCH_LIMIT = 100;
+  const INTERVAL_MS = 150;
+
+  for (let i = 0; i < uris.length; i += BATCH_LIMIT) {
+    const batch = uris.slice(i, i + BATCH_LIMIT);
+    await spotifyApi.addTracksToPlaylist(playlistId, batch);
+    await sleep(INTERVAL_MS);
   }
 };

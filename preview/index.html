@@ -5,6 +5,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Compolic(α)</title>
+  <meta property="og:title" content="Compolic">
+  <meta property="og:description" content="ᗘ(•‿̳̳•)ᗛ">
+  <meta property="og:image" content="https://feuillantine.github.io/compolic/ogp.png">
+  <meta property="og:url" content="https://feuillantine.github.io/compolic/">
+  <meta property="og:type" content="website">
   <style>
     *,
     *::before,
@@ -17,12 +22,12 @@
       --primary-color: #2c3e50;
       --accent-color: #3498db;
       --text-color: #333;
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
       font-size: 12px;
       background: var(--bg-color);
       color: var(--text-color);
       margin: 0;
-      padding: 20px;
+      padding: 12px 20px 20px;
     }
 
     header {
@@ -30,22 +35,37 @@
       align-items: center;
       justify-content: space-between;
       max-width: 1200px;
-      margin: 0 auto 20px;
+      margin: 0 auto 12px;
     }
 
     h1 {
+      display: flex;
+      align-items: center;
+      gap: 6px;
       margin: 0;
+    }
+
+    h1::before {
+      content: '';
+      position: relative;
+      top: -2px;
+      width: 48px;
+      height: 48px;
+      background: url(./image.png) no-repeat;
+      background-size: cover;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 30px;
+      list-style: none;
+      padding-left: 0;
     }
 
     .info-btn {
       background: none;
       border: none;
       cursor: pointer;
-    }
-
-    .info-btn > span {
-      display: block;
-      display: flex;
       line-height: 1;
       font-size: 12px;
       font-weight: bold;
@@ -120,6 +140,11 @@
       width: 100%;
       table-layout: fixed;
       background: #fff;
+      word-break: break-all;
+    }
+
+    tr:nth-child(even) {
+      background: #fafafa;
     }
 
     th,
@@ -129,30 +154,36 @@
       text-align: left;
     }
 
-    th:nth-child(1) {
-      width: 40%;
-    }
-
-    th:nth-child(3) {
-      width: 7em;
-    }
-
-    th:nth-child(4) {
-      width: 9em;
-    }
-
-    th:nth-child(5) {
-      width: 6em;
-    }
-
     th {
       background: var(--primary-color);
       color: #fff;
       cursor: pointer;
     }
 
-    tr:nth-child(even) {
-      background: #fafafa;
+    th:nth-child(1) {
+      width: 40%;
+    }
+
+    th:nth-child(3) {
+      width: 7.8em;
+    }
+
+    th:nth-child(4) {
+      width: 9.6em;
+      cursor: default;
+    }
+
+    th:nth-child(5) {
+      width: 6em;
+      cursor: default;
+    }
+
+    th.sorted-asc::after {
+      content: " ▲";
+    }
+
+    th.sorted-desc::after {
+      content: " ▼";
     }
 
     a {
@@ -162,14 +193,6 @@
 
     a:hover {
       text-decoration: underline;
-    }
-
-    th.sorted-asc::after {
-      content: " ▲";
-    }
-
-    th.sorted-desc::after {
-      content: " ▼";
     }
 
     .modal {
@@ -213,8 +236,13 @@
     }
 
     @media (max-width: 860px) {
+      body {
+        padding: 14px;
+      }
+
       .container {
         flex-direction: column;
+        padding: 12px;
       }
 
       .sidebar {
@@ -236,6 +264,15 @@
         background-size: 12px 8px;
       }
 
+      table {
+        font-size: 11px;
+      }
+
+      th,
+      td {
+        padding: 6px;
+      }
+
       th:nth-child(1),
       th:nth-child(2) {
         width: auto;
@@ -251,8 +288,11 @@
 
 <body>
   <header>
-    <h1>Compolic(α)</h1>
-    <button id="infoBtn" class="info-btn" aria-label="情報"><span>about</span></button>
+    <h1>Compolic (α)</h1>
+    <ul class="header-nav">
+      <li><a href="https://open.spotify.com/playlist/0OqDRy8K9hPx2ZabLiSj58" target="_blank" class="info-btn">playlist</a></li>
+      <li><button id="infoBtn" class="info-btn">about</button></li>
+    </ul>
   </header>
   <div class="container">
     <div class="sidebar" id="artistList"></div>

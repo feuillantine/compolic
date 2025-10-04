@@ -19,7 +19,8 @@
   "dependencies": {
     "commander": "^14.0.0",
     "dotenv": "^17.2.0",
-    "spotify-web-api-node": "^5.0.2"
+    "spotify-web-api-node": "^5.0.2",
+    "wanakana": "^5.3.1"
   },
   "author": "",
   "description": "",

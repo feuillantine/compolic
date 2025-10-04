@@ -3,13 +3,14 @@ import path from 'node:path';
 import { Command } from 'commander';
 import {
   getAllWorks,
+  getArtistById,
   getArtistIdByName,
-  getArtistNameById,
   getRecording,
   type Recording,
   type RecordingRelation,
 } from '@/utils/music-brainz';
 import { sleep } from '@/utils/sleep';
+import { convertRomajiToKatakana } from '@/utils/string';
 import { loadConfig } from '../config';
 import { getAccessToken, searchTrack } from '../utils/spotify';
 
@@ -69,18 +70,27 @@ export const getTracksCommand = new Command('get-tracks')
     // ------------------------------------------------------------
     let artistId: string = options.arid;
     let artistName: string = options.artist;
+    let artistSortName = '';
     if (artistId) {
-      artistName = await getArtistNameById(artistId);
+      const artist = await getArtistById(artistId);
+      artistName = artist.name;
       if (!artistName) {
         throw new Error(`アーティストIDが無効です: ${artistId}`);
       }
       console.log(`アーティストが見つかりました: ${artistName}`);
+      if (artist.sortName) {
+        artistSortName = convertRomajiToKatakana(artist.sortName);
+      }
     } else if (artistName) {
       artistId = await getArtistIdByName(artistName);
       if (!artistId) {
         throw new Error(`アーティストが見つかりませんでした: ${artistId}`);
       }
       console.log(`アーティストIDが見つかりました: ${artistId}`);
+      const artist = await getArtistById(artistId);
+      if (artist.sortName) {
+        artistSortName = convertRomajiToKatakana(artist.sortName);
+      }
     }
 
     // ------------------------------------------------------------
@@ -91,7 +101,9 @@ export const getTracksCommand = new Command('get-tracks')
     try {
       data = await fs.readFile(savedTracksFile, 'utf-8');
     } catch {}
-    const parsedData: ComposerData = data ? JSON.parse(data) : { name: artistName, tracks: [] };
+    const parsedData: ComposerData = data
+      ? JSON.parse(data)
+      : { name: artistName, sortName: artistSortName, tracks: [] };
     const savedTracks: ComposerTrack[] = parsedData.tracks;
 
     console.log(`${savedTracks.length}個のトラックが保存されています`);

@@ -4,6 +4,12 @@ const USER_AGENT = 'song-finder/1.0.0 ( https://example.com )';
 const MAX_LIMIT = 100;
 const FETCH_INTERVAL_MS = 1_000;
 
+export interface Artist {
+  id: string;
+  name: string;
+  sortName: string;
+}
+
 interface Relation {
   type: string;
   attributes: string[];
@@ -46,12 +52,6 @@ export interface Recording {
   relations: UrlRelation[];
 }
 
-export interface Artist {
-  id: string;
-  name: string;
-  sortName: string;
-}
-
 /**
  * アーティスト名からMusicBrainzのアーティストIDを取得する
  * @param name アーティスト名
@@ -71,19 +71,9 @@ export const getArtistIdByName = async (name: string): Promise<string> => {
 };
 
 /**
- * MusicBrainzのアーティストIDからアーティスト名を取得する
- * @param name アーティスト名
- * @returns アーティストID
- */
-export const getArtistNameById = async (id: string): Promise<string> => {
-  const artist = await getArtistById(id);
-  return artist.name;
-};
-
-/**
  * MusicBrainzのアーティストIDからアーティスト情報を取得する
  * @param id アーティストID
- * @returns アーティスト情報 (id, name, sortName)
+ * @returns アーティスト情報
  */
 export const getArtistById = async (id: string): Promise<Artist> => {
   const lookupUrl = `https://musicbrainz.org/ws/2/artist/${id}?fmt=json`;

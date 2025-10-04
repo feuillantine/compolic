@@ -46,7 +46,7 @@ jobs:
             | paste -sd, - || true)
 
           if [ -z "${COMPOSERS}" ]; then
-            echo 'Issue本文から作曲者名が抽出できませんでした。処理を終了します。'
+            echo -e "Issue本文から作曲者名が抽出できませんでした\n処理を終了します"
             exit 1
           fi
 
@@ -77,7 +77,7 @@ jobs:
       - name: Exit if no changes
         if: steps.detect-changes.outputs.modified == 'false'
         run: |
-          gh issue comment "$ISSUE_NUMBER" --body "@$ISSUE_USER\nデータの追加はありませんでした。"
+          gh issue comment "$ISSUE_NUMBER" --body "@$ISSUE_USER\nデータの追加はありませんでした"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

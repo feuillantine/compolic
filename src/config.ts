@@ -24,7 +24,7 @@ export function validateConfig(config: Config): void {
 
   for (const key of required) {
     if (!config[key]) {
-      console.error(`Missing required environment variable: ${key}`);
+      console.error(`必須環境変数が未設定です: ${key}`);
       process.exit(1);
     }
   }

@@ -2,11 +2,11 @@ import SpotifyWebApi from 'spotify-web-api-node';
 import { sleep } from './sleep';
 
 /**
- * SpotifyWebApi インスタンスを作成するユーティリティ
- * @param clientId Spotify アプリのクライアント ID
- * @param clientSecret Spotify アプリのクライアントシークレット
- * @param redirectUri 認証リダイレクト URI
- * @returns 初期化された SpotifyWebApi インスタンス
+ * SpotifyWebApiインスタンスを作成するユーティリティ
+ * @param clientId SpotifyアプリのクライアントID
+ * @param clientSecret Spotifyアプリのクライアントシークレット
+ * @param redirectUri 認証リダイレクトURI
+ * @returns 初期化されたSpotifyWebApiインスタンス
  */
 export const createSpotifyApi = (
   clientId: string,
@@ -17,8 +17,8 @@ export const createSpotifyApi = (
 };
 
 /**
- * 環境変数から Spotify の認証情報を取得し、アクセストークンをリフレッシュして返す。
- * @returns 有効なアクセストークン、取得できなければ null
+ * 環境変数からSpotifyの認証情報を取得しアクセストークンをリフレッシュして返す
+ * @returns 有効なアクセストークン 取得できなければnull
  */
 export const getAccessToken = async (
   clientId: string,
@@ -44,10 +44,10 @@ export const getAccessToken = async (
 };
 
 /**
- * 任意の検索クエリでトラックを検索し、最初の結果の Spotify URL を返す。
- * @param query Spotify API の検索クエリ
+ * 任意の検索クエリでトラックを検索し最初の結果のSpotifyURLを返す
+ * @param query SpotifyAPIの検索クエリ
  * @param token 有効なアクセストークン
- * @returns 見つかったトラックの外部 URL、見つからなければ null
+ * @returns 見つかったトラックの外部URL 見つからなければnull
  */
 export const searchTrack = async (
   query: string,
@@ -74,12 +74,12 @@ export const searchTrack = async (
 };
 
 /**
- * 指定したプレイリストの全トラック URI を取得します。
- * Spotify API は 1 回の呼び出しで最大 100 件しか取得できないため、ページングで全件取得します。
+ * 指定したプレイリストの全トラックURIを取得します
+ * SpotifyAPIは1回の呼び出しで最大100件しか取得できないためページングで全件取得します
  *
- * @param spotifyApi 認証済み SpotifyWebApi インスタンス
- * @param playlistId プレイリスト ID（`spotify:playlist:` プレフィックスは除く）
- * @returns プレイリストに含まれるトラック URI の Set
+ * @param spotifyApi 認証済みSpotifyWebApiインスタンス
+ * @param playlistId プレイリストID（`spotify:playlist:`プレフィックスは除く）
+ * @returns プレイリストに含まれるトラックURIのSet
  */
 export const getAllPlaylistTrackUris = async (
   spotifyApi: SpotifyWebApi,
@@ -114,11 +114,11 @@ export const getAllPlaylistTrackUris = async (
 };
 
 /**
- * 指定したプレイリストにトラック URI のバッチを追加します。
+ * 指定したプレイリストにトラックURIのバッチを追加します
  *
- * @param spotifyApi 認証済み SpotifyWebApi インスタンス
- * @param playlistId プレイリスト ID（`spotify:playlist:` プレフィックスは除く）
- * @param uris 追加したいトラック URI の Set（最大 100 件まで）
+ * @param spotifyApi 認証済みSpotifyWebApiインスタンス
+ * @param playlistId プレイリストID（`spotify:playlist:`プレフィックスは除く）
+ * @param uris 追加したいトラックURIのSet（最大100件まで）
  */
 export const addTracksToPlaylist = async (
   spotifyApi: SpotifyWebApi,

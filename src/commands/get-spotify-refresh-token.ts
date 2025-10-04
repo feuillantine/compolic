@@ -55,7 +55,7 @@ class AuthServer {
           '\n上記のリフレッシュトークンを.envファイルのSPOTIFY_REFRESH_TOKENにコピーしてください',
         );
 
-        res.send('アカウントの認証が完了しました。このウィンドウを閉じてください。');
+        res.send('アカウントの認証が完了しました\nこのウィンドウを閉じてください');
       } catch (error) {
         console.error('\n認証コードの取得中にエラーが発生:', error);
         res.status(500).send('認証中にエラーが発生しました');
@@ -68,7 +68,7 @@ class AuthServer {
   private setupTimeout(): void {
     setTimeout(() => {
       if (this.server?.listening) {
-        console.error('\n認証がタイムアウトしました。サーバーを停止します。');
+        console.error('\n認証がタイムアウトしました\nサーバーを停止します');
         this.stop();
       }
     }, AuthServer.TIMEOUT_MS);
@@ -76,7 +76,7 @@ class AuthServer {
 
   private setupSignalHandlers(): void {
     process.on('SIGINT', () => {
-      console.log('\nCtrl+Cが押されました。サーバーを停止します...');
+      console.log('\nCtrl+Cが押されました\nサーバーを停止します...');
       this.stop();
     });
   }

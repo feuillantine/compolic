@@ -1,0 +1,40 @@
+name: TS Lint
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/ci.yml'
+      - 'preview/**/*.tsx'
+      - 'src/**/*.tsx'
+      - 'package-lock.json'
+      - 'tsconfig.json'
+      - 'biome.config.json'
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ts-lint-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  typecheck-and-lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Setup
+        uses: ./.github/actions/setup
+
+      - name: Check types and lint
+        run: npm run lint

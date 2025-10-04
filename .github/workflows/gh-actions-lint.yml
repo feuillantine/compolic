@@ -6,16 +6,22 @@ on:
       - '.github/workflows/**'
       - '.github/actions/**'
   pull_request:
+    branches:
+      - main
     paths:
       - '.github/workflows/**'
       - '.github/actions/**'
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+permissions:
+  contents: read
 
 concurrency:
   group: gha-lint-${{ github.ref }}
   cancel-in-progress: true
-
-permissions:
-  contents: read
 
 jobs:
   lint:

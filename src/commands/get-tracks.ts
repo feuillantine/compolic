@@ -164,7 +164,7 @@ export const getTracksCommand = new Command('get-tracks')
       }
 
       // ------------------------------------------------------------
-      // Recording の詳細情報を取得
+      // Recordingの詳細情報を取得
       // ------------------------------------------------------------
       let recordDetail: Recording | undefined;
       try {

@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
-    "lint": "tsc --noEmit && biome check ./preview ./src --write",
+    "lint": "tsc --noEmit && biome check ./preview ./src",
+    "lint:fix": "tsc --noEmit && biome check ./preview ./src --write",
     "preview": "tsx preview/server.ts"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 import { sleep } from './sleep';
 
-const USER_AGENT = 'song-finder/1.0.0 ( https://example.com )';
+const USER_AGENT = 'compolic/1.0.0 (https://feuillantine.github.io/compolic/)';
 const MAX_LIMIT = 100;
 const FETCH_INTERVAL_MS = 1_000;
 
@@ -139,7 +139,7 @@ export const getAllWorks = async (artistId: string): Promise<Works[]> => {
 /**
  * Recordingを取得する
  * @param recordingId Recording ID
- * @returns MusicBrainz の Recording JSON
+ * @returns MusicBrainzのRecording JSON
  */
 export const getRecording = async (recordingId: string): Promise<Recording> => {
   const lookupUrl = `https://musicbrainz.org/ws/2/recording/${recordingId}?inc=isrcs+url-rels+artists&fmt=json`;

@@ -165,6 +165,18 @@ export const getTracksCommand = new Command('get-tracks')
       }
       const title = recordDetail.title ?? '';
       const artist = recordDetail['artist-credit']?.[0]?.name ?? '';
+      const releaseDate = recordDetail['first-release-date'] ?? '';
+
+      // リリース日が当日以降の場合はスキップ（Spotifyに楽曲がないため）
+      if (releaseDate) {
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        const release = new Date(releaseDate);
+        if (release >= today) {
+          console.log(`リリース前のためスキップ： ${recording.title} (${releaseDate})`);
+          continue;
+        }
+      }
 
       let isrc: string | undefined = recordDetail.isrcs?.[0];
       let spotifyUrl: string | undefined = (recordDetail.relations ?? [])
@@ -203,7 +215,7 @@ export const getTracksCommand = new Command('get-tracks')
         title,
         artist,
         isrc: isrc ?? '',
-        releaseDate: recordDetail['first-release-date'] ?? '',
+        releaseDate,
         spotifyUrl: spotifyUrl ?? '',
         isFallback,
       });

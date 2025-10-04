@@ -95,6 +95,7 @@ jobs:
         run: |
           git add data
           git commit -m "楽曲データ追加（issue #$ISSUE_NUMBER）"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push origin "$BRANCH_NAME"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

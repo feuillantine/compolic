@@ -46,6 +46,12 @@ export interface Recording {
   relations: UrlRelation[];
 }
 
+export interface Artist {
+  id: string;
+  name: string;
+  sortName: string;
+}
+
 /**
  * アーティスト名からMusicBrainzのアーティストIDを取得する
  * @param name アーティスト名
@@ -70,26 +76,16 @@ export const getArtistIdByName = async (name: string): Promise<string> => {
  * @returns アーティストID
  */
 export const getArtistNameById = async (id: string): Promise<string> => {
-  const lookupUrl = `https://musicbrainz.org/ws/2/artist/${id}?fmt=json`;
-  const response = await fetch(lookupUrl, {
-    headers: { 'User-Agent': USER_AGENT },
-  });
-  if (!response.ok) {
-    throw new Error(`アーティストの取得に失敗しました（ID: ${id}）: ${response.status}`);
-  }
-
-  const json = (await response.json()) as { name: string };
-  return json.name ?? '';
+  const artist = await getArtistById(id);
+  return artist.name;
 };
 
 /**
- * MusicBrainzのアーティストIDからアーティスト詳細情報を取得する
+ * MusicBrainzのアーティストIDからアーティスト情報を取得する
  * @param id アーティストID
- * @returns アーティスト詳細情報 (name, sort-name)
+ * @returns アーティスト情報 (id, name, sortName)
  */
-export const getArtistDetailsById = async (
-  id: string,
-): Promise<{ name: string; sortName: string }> => {
+export const getArtistById = async (id: string): Promise<Artist> => {
   const lookupUrl = `https://musicbrainz.org/ws/2/artist/${id}?fmt=json`;
   const response = await fetch(lookupUrl, {
     headers: { 'User-Agent': USER_AGENT },
@@ -98,8 +94,9 @@ export const getArtistDetailsById = async (
     throw new Error(`アーティストの取得に失敗しました（ID: ${id}）: ${response.status}`);
   }
 
-  const json = (await response.json()) as { name: string; 'sort-name': string };
+  const json = (await response.json()) as { id: string; name: string; 'sort-name': string };
   return {
+    id: json.id ?? id,
     name: json.name ?? '',
     sortName: json['sort-name'] ?? '',
   };

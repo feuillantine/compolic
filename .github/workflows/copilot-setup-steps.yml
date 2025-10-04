@@ -18,7 +18,3 @@ jobs:
 
       - name: Setup
         uses: ./.github/actions/setup
-
-      - name: Run preview page
-        run: npm run preview
-        shell: bash

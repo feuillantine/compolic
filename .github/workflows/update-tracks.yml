@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add data
-          if ! git diff --quiet; then
+          if [ -n "$(git status --porcelain -- data)" ]; then
+            git add data
             git commit -m "楽曲データ更新（定期）"
             git push
           else

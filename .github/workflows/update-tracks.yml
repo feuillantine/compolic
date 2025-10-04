@@ -33,15 +33,10 @@ jobs:
           if [ -n "$(git status --porcelain -- data)" ]; then
             git add data
             git commit -m "楽曲データ更新（定期）"
+            git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
             git push
           else
             echo "データの追加はありませんでした"
           fi
-
-      - name: Sync tracks to playlist if changes
-        run: git diff --quiet || npm run start sync-tracks-to-playlist
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

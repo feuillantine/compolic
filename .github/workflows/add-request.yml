@@ -68,16 +68,17 @@ jobs:
         id: detect-changes
         if: steps.extract-composer-list.outputs.has_composers == 'true'
         run: |
-          if git diff --quiet --exit-code -- data; then
-            echo 'modified=false' >> "$GITHUB_OUTPUT"
-          else
+          if ! git diff --quiet; then
             echo 'modified=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'modified=false' >> "$GITHUB_OUTPUT"
           fi
 
       - name: Exit if no changes
         if: steps.detect-changes.outputs.modified == 'false'
         run: |
-          gh issue comment "$ISSUE_NUMBER" --body "@$ISSUE_USER\nデータの追加はありませんでした"
+          BODY=$(printf '@%s\nデータの追加はありませんでした' "$ISSUE_USER")
+          gh issue comment "$ISSUE_NUMBER" --body "$BODY"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -93,7 +94,7 @@ jobs:
         if: steps.detect-changes.outputs.modified == 'true'
         run: |
           git add data
-          git commit -m "Add tracks (issue #$ISSUE_NUMBER)"
+          git commit -m "楽曲データ追加（issue #$ISSUE_NUMBER）"
           git push origin "$BRANCH_NAME"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -103,8 +104,8 @@ jobs:
         id: create-pr
         if: steps.detect-changes.outputs.modified == 'true'
         run: |
-          TITLE="Add tracks (issue #$ISSUE_NUMBER)"
-          BODY="This PR adds tracks for: $COMPOSERS\n\nSource: issue #$ISSUE_NUMBER"
+          TITLE="楽曲データ追加（issue #$ISSUE_NUMBER）"
+          BODY=$(printf "対象作曲者: %s\n\n元Issue: #%s" "$COMPOSERS" "$ISSUE_NUMBER")
           PR_URL=$(gh pr create --title "$TITLE" --body "$BODY" --head "$BRANCH_NAME" --base main)
           printf 'pr_url=%s\n' "$PR_URL" >> "$GITHUB_OUTPUT"
         env:
@@ -116,7 +117,7 @@ jobs:
         if: steps.detect-changes.outputs.modified == 'true'
         run: |
           gh pr edit "$PR_URL" --add-reviewer "$ISSUE_USER"
-          gh issue comment "$ISSUE_NUMBER" --body "Created PR: $PR_URL"
+          gh issue comment "$ISSUE_NUMBER" --body "作成したPR: $PR_URL"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ steps.create-pr.outputs.pr_url }}

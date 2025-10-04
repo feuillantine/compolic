@@ -1,0 +1,474 @@
+{
+  "name": "中野領太",
+  "sortName": "ナカノリョウタ",
+  "tracks": [
+    {
+      "id": "de8bf370-9fde-446c-8f5d-263e05147705",
+      "title": "Brand New Day",
+      "artist": "安田レイ",
+      "isrc": "JPU901301345",
+      "releaseDate": "2014-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv",
+      "isFallback": true
+    },
+    {
+      "id": "6b1d750c-333c-450c-9008-5ce7668fc283",
+      "title": "lucky train!",
+      "artist": "るか",
+      "isrc": "JPI101501790",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/0DbgUaXVS1fWstJbHq9pNG",
+      "isFallback": true
+    },
+    {
+      "id": "ebead7fa-6cd4-4838-a52c-10f621495071",
+      "title": "今を僕らしく生きてくために",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01911324",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/6KKC8IRhBiPzCuk6nMnpdJ",
+      "isFallback": true
+    },
+    {
+      "id": "ec368589-d0b0-4fb5-ae2f-972910ab8008",
+      "title": "Future jewel",
+      "artist": "アイカツウインズ!",
+      "isrc": "",
+      "releaseDate": "2021-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1fafaf41-040f-4e94-8bc5-cb71b077d00a",
+      "title": "ひとつになる声",
+      "artist": "雪花ラミィ",
+      "isrc": "JPV752510782",
+      "releaseDate": "2025-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/4xsVuYO2OGmjZBghr60eMF",
+      "isFallback": false
+    },
+    {
+      "id": "75afe5a4-a71b-4d80-8400-949e5c89d0d3",
+      "title": "ヒカリのdestination",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI101801603",
+      "releaseDate": "2018-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/17EuIwsdZ6H4TPOe5SE1lz",
+      "isFallback": false
+    },
+    {
+      "id": "ea36efc0-de46-42ad-8cd9-ef72d8a39f79",
+      "title": "応答セヨ",
+      "artist": "関ジャニ∞",
+      "isrc": "JPQ401700980",
+      "releaseDate": "2017-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/2ooXZ1X80FKgebia2GQfMg",
+      "isFallback": true
+    },
+    {
+      "id": "224332c7-66eb-48fe-a014-29a489efa0d9",
+      "title": "どうして…",
+      "artist": "安田レイ",
+      "isrc": "JPU901401468",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/1CNpzsbhYnkPQmdmFPxIfu",
+      "isFallback": true
+    },
+    {
+      "id": "ad734962-b7de-438f-8fe4-f074296de4b8",
+      "title": "Starring",
+      "artist": "May’n",
+      "isrc": "JPVI01901838",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/5y48ivQfwiynjr5MZPCBvE",
+      "isFallback": true
+    },
+    {
+      "id": "d01d5a75-cb66-4f07-b30f-89047cb68320",
+      "title": "アイドル1年生",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e542c20-ace3-43ae-bd8a-1757ea43b61f",
+      "title": "March of Time",
+      "artist": "Aimer",
+      "isrc": "JPU901700830",
+      "releaseDate": "2017-05-03",
+      "spotifyUrl": "https://open.spotify.com/track/7o7LJevfeMNDQWRUsA4VHP",
+      "isFallback": true
+    },
+    {
+      "id": "a136c9f1-f03d-4cf6-a2fa-f75045e019fc",
+      "title": "▼最弱あいらぶゆー",
+      "artist": "ディア☆",
+      "isrc": "TCJPJ1939089",
+      "releaseDate": "2018-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/4IecJLnbsj3BdWj3rP5C9Q",
+      "isFallback": true
+    },
+    {
+      "id": "9d00721b-205e-4fd5-aff6-fd7fb0c95d12",
+      "title": "LOVE GAME",
+      "artist": "もな",
+      "isrc": "JPI101502512",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5xuhxP7ZLgO92LlyKgKPE9",
+      "isFallback": true
+    },
+    {
+      "id": "0a5a9058-0ab2-458c-9d27-784fc6b775ba",
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "TCJPJ1961040",
+      "releaseDate": "2019-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/4AWUK214sdPrhIHGb9Vtps",
+      "isFallback": false
+    },
+    {
+      "id": "d3173974-9865-4e8f-a1ed-8e6d20863e29",
+      "title": "がんばらなくっちゃ！",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3cf02470-b71d-4848-b0dd-31dcb1e84242",
+      "title": "Let it snow",
+      "artist": "富士葵",
+      "isrc": "JPPO01904237",
+      "releaseDate": "2019-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/2fBeSE5m8Luah45ccKdM6c",
+      "isFallback": true
+    },
+    {
+      "id": "90e997f0-a1da-43cb-9588-ff8f31d5fcd4",
+      "title": "自己フリクト",
+      "artist": "たぴみる",
+      "isrc": "JPI101802939",
+      "releaseDate": "2018-12-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "18d42d06-d262-4ee2-8912-8fcff1cb0c4c",
+      "title": "迷わないConquest",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102102771",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4xPoGqaKdUFC22GcF4J9NV",
+      "isFallback": true
+    },
+    {
+      "id": "fb0208ba-b796-421b-ba0b-c34089816dd4",
+      "title": "PROOF OF ONESELF",
+      "artist": "THE 虎牙道",
+      "isrc": "JPI102000796",
+      "releaseDate": "2020-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd",
+      "isFallback": false
+    },
+    {
+      "id": "fd7d001c-369b-4c78-b5be-5034107f739c",
+      "title": "叶えてメリーゴーラウンド",
+      "artist": "種田梨沙",
+      "isrc": "JPVI01524080",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b6cfd654-17b3-4a64-a5ef-e3c0527b0745",
+      "title": "白色蜉蝣",
+      "artist": "Aimer",
+      "isrc": "JPU902303957",
+      "releaseDate": "2023-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF",
+      "isFallback": true
+    },
+    {
+      "id": "6619a3b9-4de6-4734-b0bc-ce0d846db692",
+      "title": "セルフプロデュースの極意",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e4a62f7-d963-4a40-aa32-70b821a7fa69",
+      "title": "さらなる成長",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fcec336a-5c62-4add-877f-9c39ab0f657c",
+      "title": "聞き間違い",
+      "artist": "YUKI",
+      "isrc": "JPU901604091",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/5NyddyvqjBsquxpgB8hdXs",
+      "isFallback": true
+    },
+    {
+      "id": "78f699b0-d4bb-4d5e-b1bf-dc15eba0e174",
+      "title": "MELODY FLAG",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01618073",
+      "releaseDate": "2016-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/3XdEqBjxmfQjf6Z2icxBPp",
+      "isFallback": true
+    },
+    {
+      "id": "a9145ad8-ef3c-4b35-b329-41e3cd9003e9",
+      "title": "今週のアイカツWAVE",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "314f8f9f-0432-44c7-ae56-b4f43aa8cc8a",
+      "title": "キミトナラ",
+      "artist": "ARCANA PROJECT",
+      "isrc": "JPI102001140",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/55RGjgQJeywVaHsRPapMap",
+      "isFallback": true
+    },
+    {
+      "id": "eaec0ba6-b0e7-494b-93ce-e44d7a80477c",
+      "title": "月影",
+      "artist": "Aimer",
+      "isrc": "JPU902402392",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/3HoMReE3cc6zZDQdwpGzUo",
+      "isFallback": true
+    },
+    {
+      "id": "37046d79-430f-471a-93f9-ece0e597fd78",
+      "title": "チョコデート・サンデー",
+      "artist": "園田智代子",
+      "isrc": "JPI102002103",
+      "releaseDate": "2021-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA",
+      "isFallback": false
+    },
+    {
+      "id": "16e13757-5503-4659-b1cf-bfb116ab465e",
+      "title": "いいわけ",
+      "artist": "JUJU",
+      "isrc": "JPU901702735",
+      "releaseDate": "2017-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/0t9GOKVD827Gboz1Sy1QjB",
+      "isFallback": true
+    },
+    {
+      "id": "f1bbad40-dc19-46a2-ab76-e7671ee80e5c",
+      "title": "涙が出るくらい 伝えたい想い",
+      "artist": "夢みるアドレセンス",
+      "isrc": "JPY401401285",
+      "releaseDate": "2014-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6HhShGlithuh8QSv5mR2fB",
+      "isFallback": true
+    },
+    {
+      "id": "da33411e-a52d-4c7d-9ce9-becde604f1b1",
+      "title": "Baton",
+      "artist": "福元幹",
+      "isrc": "JPE302200058",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/3anzM1HxNXPBf82TYkK1v0",
+      "isFallback": true
+    },
+    {
+      "id": "96931b20-fd36-436b-a2ac-a61cec4f37cb",
+      "title": "試練",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa79f6b4-cfe7-43fa-a85e-05fa36f1f372",
+      "title": "コングラCHUレーション!!!!",
+      "artist": "SUPER☆GiRLS",
+      "isrc": "JPB601804284",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/5IgMuT0Y9qgQYVx2vOFU8W",
+      "isFallback": true
+    },
+    {
+      "id": "f4a325a9-cd6a-4051-a98f-e74ec050f897",
+      "title": "無知のち私",
+      "artist": "トゲナシトゲアリ",
+      "isrc": "",
+      "releaseDate": "2024-07-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3771026d-e93c-4c0a-94e1-5a55a224a795",
+      "title": "You",
+      "artist": "May’n",
+      "isrc": "JPVI01762850",
+      "releaseDate": "2018-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/3a8y17vNRBGSYbq3QI06Jl",
+      "isFallback": true
+    },
+    {
+      "id": "d91b9c36-79d2-4f77-bf5e-0a1c5cea6304",
+      "title": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPV752408362",
+      "releaseDate": "2024-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/2bRsoWLlizVUXgAW6obutZ",
+      "isFallback": true
+    },
+    {
+      "id": "4582f47e-e34a-4712-94a0-3a5634c31004",
+      "title": "brave climber",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01911326",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/2s1L8GYZAygJhp4CP1R5DF",
+      "isFallback": true
+    },
+    {
+      "id": "b631b70d-e55d-43af-b4ee-f20a8f2f41dc",
+      "title": "glitch",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01916776",
+      "releaseDate": "2019-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/41Ynbqwr59G7IqKztzZkNP",
+      "isFallback": true
+    },
+    {
+      "id": "3d19440f-e28e-45eb-a503-3e83bf8caa9a",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102000595",
+      "releaseDate": "2020-10-14",
+      "spotifyUrl": "https://open.spotify.com/track/6VNIjYDc8UN0il9UZNr2R7",
+      "isFallback": false
+    },
+    {
+      "id": "91ec4113-589e-4fbe-b882-a286f6b4d82d",
+      "title": "はじけるホネホネブラザーズ",
+      "artist": "中野領太",
+      "isrc": "",
+      "releaseDate": "2017-06-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "25fab88d-badc-417f-af08-976f3863ddbd",
+      "title": "アニマルカーニバル",
+      "artist": "かな",
+      "isrc": "JPI101700093",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4swp0d1As9Y2151HMBpDTu",
+      "isFallback": true
+    },
+    {
+      "id": "ee4335ce-ac23-47ae-933d-ac527744e8a6",
+      "title": "光の海へ",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01913634",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1BPFArwtD11fixtjN5TcNb",
+      "isFallback": true
+    },
+    {
+      "id": "6feb9bfc-d6fd-4068-b6ef-36355f45edee",
+      "title": "adrenaline!!!",
+      "artist": "TrySail",
+      "isrc": "JPU901700717",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq",
+      "isFallback": true
+    },
+    {
+      "id": "1583f317-93e7-42a7-8c50-6128bfc3d802",
+      "title": "探して!Future",
+      "artist": "Liella!",
+      "isrc": "JPI102200048",
+      "releaseDate": "2022-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/6GyLiiqdUZmlaKwQjTwwDg",
+      "isFallback": true
+    },
+    {
+      "id": "60b671eb-9c1c-4809-af41-9e896a1b3f66",
+      "title": "Connect the World",
+      "artist": "hololive English",
+      "isrc": "JPV752307353",
+      "releaseDate": "2023-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/0fAh2qDnhEhUrSXxvxLhwu",
+      "isFallback": true
+    },
+    {
+      "id": "cff47732-f3d4-49e2-9067-6227b7126051",
+      "title": "Ladyspiker",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01412186",
+      "releaseDate": "2014-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/0juZXkj3LQh3QhKO3fuiHb",
+      "isFallback": true
+    },
+    {
+      "id": "37de4605-f46f-429e-b1e3-7ab12a440667",
+      "title": "Another colony",
+      "artist": "TRUE",
+      "isrc": "JPI101802437",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/2qI6ddyEon6SS0VJZhFUpt",
+      "isFallback": true
+    },
+    {
+      "id": "a4f48c5e-8282-4869-ac9b-80ff59f3a1b1",
+      "title": "Passion flower",
+      "artist": "みほ",
+      "isrc": "JPI101500060",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/1hLfkL5nCymPjnpanZ4d6M",
+      "isFallback": true
+    },
+    {
+      "id": "acfb168d-40cb-4ce3-a7a0-7dd18c695cef",
+      "title": "SNOW FLAKES MEMORIES",
+      "artist": "シャイニーカラーズ",
+      "isrc": "JPI101802845",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/0rucEASF9TR3ARMYKbfD2M",
+      "isFallback": true
+    },
+    {
+      "id": "c0907b04-7ad1-4bc8-a948-ac13cc876583",
+      "title": "川は流れる",
+      "artist": "日向坂46",
+      "isrc": "JPU901902395",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/0pn8tx8Q0fsHf4HIMNy4eP",
+      "isFallback": true
+    },
+    {
+      "id": "967e9739-c43e-40bd-820f-1c4e4e1cf5a4",
+      "title": "虹が架かるまでの話",
+      "artist": "堀江由衣",
+      "isrc": "JPKI02114250",
+      "releaseDate": "2021-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2LYq0NMzKRN7jKsK3NHx0C",
+      "isFallback": true
+    }
+  ]
+}

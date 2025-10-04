@@ -1,0 +1,510 @@
+{
+  "name": "manzo",
+  "sortName": "マンゾー",
+  "tracks": [
+    {
+      "id": "8cf003e6-6e08-404a-a532-13455559ed63",
+      "title": "Precious Shinin’ Star",
+      "artist": "緒方恵美",
+      "isrc": "JPI102100817",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/1dxeu76KnZsmBRQ5aXFiNE",
+      "isFallback": true
+    },
+    {
+      "id": "c8216635-32cf-40b0-a513-274c55a223c4",
+      "title": "まだ見たことのない道を",
+      "artist": "manzo",
+      "isrc": "JPD601300182",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/5i9xWhu0ZlwERZB0abo47G",
+      "isFallback": true
+    },
+    {
+      "id": "e753b072-71b2-4b64-bdf4-dd957329015c",
+      "title": "純情警察K・I・S・S",
+      "artist": "真野恵里菜",
+      "isrc": "JPA601200147",
+      "releaseDate": "2012-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/4S5j2eqw8MyRSEd7XqRPDI",
+      "isFallback": true
+    },
+    {
+      "id": "26f7340e-7db0-4047-ba6c-31cabb0429e8",
+      "title": "My sweet lady",
+      "artist": "杉山清貴",
+      "isrc": "JPKI01813631",
+      "releaseDate": "2018-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/0M4GqJ6oHobCZJ2LtBGmWw",
+      "isFallback": true
+    },
+    {
+      "id": "703c87df-ce75-4dc3-8ab2-a2ccc8836af2",
+      "title": "MoNochrome MoNologue",
+      "artist": "ブラッド・D・ブラッズ",
+      "isrc": "JPG751300470",
+      "releaseDate": "2013-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/1K3guv8mjPVAStM7HCK2OW",
+      "isFallback": true
+    },
+    {
+      "id": "37e2154c-399d-4d43-9923-2227e8afe5f5",
+      "title": "超ド級",
+      "artist": "忍部ヒミコ",
+      "isrc": "JPVI09806740",
+      "releaseDate": "1998-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/4t2TsNQqAlCMVSpZpDbQNc",
+      "isFallback": true
+    },
+    {
+      "id": "c7095b60-9336-47f9-baa4-57e803c5b25d",
+      "title": "Feel So Sweet",
+      "artist": "杉山清貴",
+      "isrc": "JPKI01713309",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/4AYpf111DYSAZM5vHzae1r",
+      "isFallback": true
+    },
+    {
+      "id": "7523ac4b-e49d-47dd-a827-65a70a20619d",
+      "title": "みのりのぞっこん未来予報♡",
+      "artist": "中沢農",
+      "isrc": "",
+      "releaseDate": "2014-05-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f1583a9b-0e37-4624-aba4-0a7e22ef37da",
+      "title": "トトファンタジア",
+      "artist": "本場切絵",
+      "isrc": "JPZ921509524",
+      "releaseDate": "2015-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/4aQxagHjAcMIUvSXwdVajp",
+      "isFallback": true
+    },
+    {
+      "id": "009c3c98-8ca2-4377-9a21-dd122bbb8db1",
+      "title": "魔・カ・セ・テ Tonight",
+      "artist": "野水いおり",
+      "isrc": "JPG751000896",
+      "releaseDate": "2011-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/1VtS7IOUC8ADU6MSD2nfnC",
+      "isFallback": true
+    },
+    {
+      "id": "b655e556-430f-418d-9081-ae28e205c10e",
+      "title": "歌う珍プレー<実況レス Ver.>",
+      "artist": "影山ヒロノブ",
+      "isrc": "JPC900403886",
+      "releaseDate": "2004-04-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a25343bb-b17e-4abb-857a-fffff3689dd4",
+      "title": "永遠に君がいる",
+      "artist": "織田裕二",
+      "isrc": "",
+      "releaseDate": "2001-03-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6634a1a0-cabb-4152-bed8-fffed743f502",
+      "title": "戦士よ、起ち上がれ!",
+      "artist": "遠藤正明",
+      "isrc": "JPC109903001",
+      "releaseDate": "1999-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/4T1KI0L2HeV3Twu4FwM9sV",
+      "isFallback": true
+    },
+    {
+      "id": "5fbb66e2-b6dc-414e-9cd7-7f76c244df89",
+      "title": "雨粒にKissをして",
+      "artist": "杉山清貴",
+      "isrc": "JPKI01713308",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/5OSrbZBdFoiD5iQJr0Cpwz",
+      "isFallback": true
+    },
+    {
+      "id": "71d00795-af9e-46a0-b0fe-fd8f328e04ad",
+      "title": "NEVER ENDING PARTY〜アリガトウ・バージョン〜",
+      "artist": "内田有紀",
+      "isrc": "",
+      "releaseDate": "1995-02-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a913fc3-b119-4155-a53e-8da5c13cde8e",
+      "title": "漆黒を塗りつぶせ",
+      "artist": "野水いおり",
+      "isrc": "JPVI01424110",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3wwPSaO8AxvnJk88N25KiJ",
+      "isFallback": true
+    },
+    {
+      "id": "be9fb86f-4ccb-497b-82e0-d4255d16eea8",
+      "title": "幸福への不安",
+      "artist": "manzo",
+      "isrc": "JPD601300167",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9334a406-1b5a-4920-9011-7157f5a85e9f",
+      "title": "*** パショナート",
+      "artist": "野水いおり",
+      "isrc": "JPG751100691",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/1KCDYZBpcevdeOSRPy0nkZ",
+      "isFallback": true
+    },
+    {
+      "id": "00f72900-7a19-45d7-b1a2-acef2cbd01a7",
+      "title": "Over the sweat and tears",
+      "artist": "manzo",
+      "isrc": "JPD601300179",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/1D0M8QUlvuoIEBbycmOo99",
+      "isFallback": true
+    },
+    {
+      "id": "1400e044-da2c-486b-97b8-712744149ee0",
+      "title": "新しい一歩",
+      "artist": "manzo",
+      "isrc": "JPD601300181",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/7vwd0XfF9oKp16Rw5l4VSk",
+      "isFallback": true
+    },
+    {
+      "id": "728c103d-0bcd-440b-8d50-c4ccfb83e2f8",
+      "title": "鳴子のテーマ",
+      "artist": "manzo",
+      "isrc": "JPD601300175",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "abd88f84-bdaa-4fa0-959a-3559476bc976",
+      "title": "Honesty",
+      "artist": "a·chi-a·chi",
+      "isrc": "JPVI09813840",
+      "releaseDate": "1998-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0jtI92loRuFpj4EElNUzHS",
+      "isFallback": true
+    },
+    {
+      "id": "f25d210b-35bc-4844-9049-2855e8d4b7bb",
+      "title": "恋のビギナーなんです(T_T)",
+      "artist": "山口理恵",
+      "isrc": "JPG751100801",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4zbvxKpdS6YhU6UdC65q7e",
+      "isFallback": true
+    },
+    {
+      "id": "69db303e-6a0d-4da1-8101-fcc848a934f7",
+      "title": "あした",
+      "artist": "原田知世",
+      "isrc": "JPFL09502880",
+      "releaseDate": "1995-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/4SVA1uKCgOwFbaAMNV9vzj",
+      "isFallback": true
+    },
+    {
+      "id": "95ea14b9-5a40-4fa8-8ed0-347b1b04f143",
+      "title": "REASON",
+      "artist": "柳ジョージ",
+      "isrc": "",
+      "releaseDate": "1996-09-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dc563c33-6b94-4fd3-8d67-5598a39b2370",
+      "title": "DARAKENA",
+      "artist": "野水いおり",
+      "isrc": "JPVI01405900",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/0sJ9RYAbbPCHM8bVqVtm4B",
+      "isFallback": true
+    },
+    {
+      "id": "30787985-0024-4c8a-acce-42cfb4f214b1",
+      "title": "Black † White",
+      "artist": "野水いおり",
+      "isrc": "JPG751200364",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/45zHzJfSpq7HSnGBub9tTk",
+      "isFallback": true
+    },
+    {
+      "id": "21076171-d564-4915-9b10-96d0d169897d",
+      "title": "ハートのトーンに気づいてよ！誰か。",
+      "artist": "佐倉千代",
+      "isrc": "JPD731400821",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/0Jv3oV2tWtY4J6IaoP12hp",
+      "isFallback": true
+    },
+    {
+      "id": "66e9b60e-3c93-4fa3-85b6-51d46c8727ed",
+      "title": "優しい明かり (ep4)",
+      "artist": "アイラ・ペイヴィッキ・リンナマー",
+      "isrc": "JPD732200224",
+      "releaseDate": "2022-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/12aWRjZZ9M8jMLyYFshyQ2",
+      "isFallback": false
+    },
+    {
+      "id": "2b6c695a-1137-4800-a6b6-962ca7193cc3",
+      "title": "一人じゃない",
+      "artist": "manzo",
+      "isrc": "JPD601300180",
+      "releaseDate": "2013-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/6noCW0WTMu6AAV6XbD9xhA",
+      "isFallback": true
+    },
+    {
+      "id": "71f8903e-4bbb-43d0-be3f-6a74a2927cbf",
+      "title": "ステキ∞",
+      "artist": "MAHO堂",
+      "isrc": "JPD600401488",
+      "releaseDate": "2004-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/0yD58hB0EnoLzVP05GUqgL",
+      "isFallback": true
+    },
+    {
+      "id": "6242b839-0cc0-4632-87ab-c0fd311f2531",
+      "title": "それはトモダチ",
+      "artist": "忍部ヒミコ",
+      "isrc": "JPVI09806730",
+      "releaseDate": "1998-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/7Doe1GQa9cYS6T8Ar9hhdh",
+      "isFallback": true
+    },
+    {
+      "id": "6a8a59b3-37f8-4aaa-ac18-5213ee7aa47f",
+      "title": "マジンカイザーのテーマ",
+      "artist": "水木一郎",
+      "isrc": "JPI100101023",
+      "releaseDate": "2001-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/6fxiy7KfJ5zLxuFvGLNaZ7",
+      "isFallback": true
+    },
+    {
+      "id": "d4498ed8-633c-451d-8b48-961256b202c2",
+      "title": "Shopping Cooking Rock'n Roll",
+      "artist": "三重野瞳",
+      "isrc": "JPVI09531240",
+      "releaseDate": "1995-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/6abjOSqYSt9zZgZbrHvle8",
+      "isFallback": true
+    },
+    {
+      "id": "06b8dab1-f409-458c-a43a-63b85a6af4fb",
+      "title": "FIRE WARS",
+      "artist": "JAM Project",
+      "isrc": "JPI100100753",
+      "releaseDate": "2001-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/2Zu6Tu0xxnG7HQuUGkmwan",
+      "isFallback": true
+    },
+    {
+      "id": "71d867e7-7c90-4467-9b7b-fa0a08cfad60",
+      "title": "天体戦士サンレッドのテーマ",
+      "artist": "manzo",
+      "isrc": "JPG750800540",
+      "releaseDate": "2008-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/4wT0RWjVxoA6ENGfHzINhd",
+      "isFallback": true
+    },
+    {
+      "id": "3552eef5-4b07-429a-9493-ae647caad80d",
+      "title": "ごきげんよう、かしこ。",
+      "artist": "やまとなでしこ",
+      "isrc": "JPKI00010710",
+      "releaseDate": "2000-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/7adRAaavklhWWZevKWlKJv",
+      "isFallback": true
+    },
+    {
+      "id": "98963650-e42a-4bb5-9abc-615fc09a165d",
+      "title": "君に続く空",
+      "artist": "伊倉一恵",
+      "isrc": "JPVI09821230",
+      "releaseDate": "1998-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/0AMR0IzdUYKgWHcoQC6s7i",
+      "isFallback": true
+    },
+    {
+      "id": "32b07145-e234-489f-a286-ed3a96d46156",
+      "title": "WE WISH 〜僕達の永遠",
+      "artist": "野田順子",
+      "isrc": "JPKI00221180",
+      "releaseDate": "2002-05-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0c2f6c94-bc88-4dbf-9998-9e92f6ef837d",
+      "title": "気づいてゾンビさま、私はクラスメイトです",
+      "artist": "山口理恵",
+      "isrc": "JPG751000900",
+      "releaseDate": "2011-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/1VlJIYCRFQKd5wglK6B6lj",
+      "isFallback": true
+    },
+    {
+      "id": "4f593dd6-c854-4afa-8e9b-b4f171983159",
+      "title": "Good luck for you",
+      "artist": "南里侑香",
+      "isrc": "JPVI01510190",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/7wjPf94F4lXNoMU0fdzr6W",
+      "isFallback": true
+    },
+    {
+      "id": "c474d456-89b3-4224-befe-55e513495806",
+      "title": "溝ノ口太陽族",
+      "artist": "manzo",
+      "isrc": "JPG750800539",
+      "releaseDate": "2008-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/3vQXxsEX5gNbBLWrG2543F",
+      "isFallback": true
+    },
+    {
+      "id": "b50dffef-84c5-41ef-8ba8-6135d518d158",
+      "title": "HERO",
+      "artist": "ブラッド・チャーリー・スタズ",
+      "isrc": "JPG751300468",
+      "releaseDate": "2013-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/6rFOINg8P6EJfSoHyVH37a",
+      "isFallback": true
+    },
+    {
+      "id": "03b9507f-7eed-4f3c-a889-5dd0175ad491",
+      "title": "青空",
+      "artist": "区麗情",
+      "isrc": "JPSR09707757",
+      "releaseDate": "",
+      "spotifyUrl": "https://open.spotify.com/track/5id9WQlsXUmusn4NMpGlF0",
+      "isFallback": true
+    },
+    {
+      "id": "60da9144-d078-488b-b4dd-7e769793b91f",
+      "title": "春風によせて",
+      "artist": "南里侑香",
+      "isrc": "JPG751100687",
+      "releaseDate": "2012-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/31FIou3Xg20KTi8JHDPADq",
+      "isFallback": true
+    },
+    {
+      "id": "d61aa364-a328-4d00-a5c2-a41279a0ea18",
+      "title": "Dream of You",
+      "artist": "石塚早織",
+      "isrc": "JPC109903806",
+      "releaseDate": "1999-08-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dbbc82e5-f199-4b3c-9ec0-4316447f680e",
+      "title": "わがままな流れ星",
+      "artist": "AKB48",
+      "isrc": "JPK220900023",
+      "releaseDate": "2009-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/5BttYUhJUn9D6U0NM7bXXe",
+      "isFallback": true
+    },
+    {
+      "id": "8bac5963-410e-4b1a-b5c4-3c7616a96a09",
+      "title": "ワタシハオマエノナカニイル",
+      "artist": "coffin princess",
+      "isrc": "JPVI01424060",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3dGQmnLSzlOH6ph0lCti3C",
+      "isFallback": true
+    },
+    {
+      "id": "0a3883cb-16ff-4d38-9d64-77987676e1bc",
+      "title": "君がくれた飴",
+      "artist": "山口理恵",
+      "isrc": "JPG751000901",
+      "releaseDate": "2011-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/2jJUmylKMdHEkkswF989zy",
+      "isFallback": true
+    },
+    {
+      "id": "d895a305-2c51-45da-8cab-421e526463a4",
+      "title": "I'll Be Back To You",
+      "artist": "織田裕二",
+      "isrc": "",
+      "releaseDate": "1995-11-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c66f2f04-6c09-49ad-9a10-42984847087d",
+      "title": "ハートブレイク・カレー",
+      "artist": "内田有紀",
+      "isrc": "",
+      "releaseDate": "1995-02-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c5712b26-7d0c-4db1-a650-c6fd7c1d78e1",
+      "title": "快楽原理",
+      "artist": "coffin princess",
+      "isrc": "JPVI01406750",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f03301d-fd55-45a3-96af-728899382e57",
+      "title": "Stand by Me",
+      "artist": "丹下桜",
+      "isrc": "JPKI09821560",
+      "releaseDate": "1998-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/0e4oN0siUM2ZBiszddRhxF",
+      "isFallback": true
+    },
+    {
+      "id": "cec04d57-63c2-49ea-94e0-c7de9b789583",
+      "title": "Ultimate Silence.",
+      "artist": "石原夏織",
+      "isrc": "",
+      "releaseDate": "2011-09-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba402065-0a08-4394-99ad-4f14134daa0b",
+      "title": "Come on! X Day",
+      "artist": "三重野瞳",
+      "isrc": "JPVI09531180",
+      "releaseDate": "1995-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/4uyZ6sZVopLD5QYaEVb0Ue",
+      "isFallback": true
+    },
+    {
+      "id": "cc74a262-b5fe-4668-97bb-d6d5c80c1de5",
+      "title": "輝跡 -kiseki-",
+      "artist": "南里侑香",
+      "isrc": "JPG751100260",
+      "releaseDate": "2011-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/6J3UodXxlmhXyjmzNwo2Mf",
+      "isFallback": true
+    }
+  ]
+}

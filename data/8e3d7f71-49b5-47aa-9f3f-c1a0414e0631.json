@@ -1,0 +1,321 @@
+{
+  "name": "藤本記子",
+  "sortName": "フジモトノリコ",
+  "tracks": [
+    {
+      "id": "dba5ea9e-cbe4-44ea-930a-5c1f023e7f7a",
+      "title": "たしかな足跡",
+      "artist": "三浦あずさ",
+      "isrc": "JPI101600023",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/4rquNd80Mf8rkcsjX0xoG3",
+      "isFallback": false
+    },
+    {
+      "id": "17aca294-050a-408f-93bd-275b6c58602e",
+      "title": "おどろきカンゲキ☆ドンとハリー!",
+      "artist": "ハリハム・ハリー",
+      "isrc": "JPD601800231",
+      "releaseDate": "2018-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/55t6em3lOEFYHxORdKWAcs",
+      "isFallback": true
+    },
+    {
+      "id": "d00bb4ed-d364-4869-b6cb-bbfc682a9ff0",
+      "title": "Clover's Cry ～神と神降ろしの少女～",
+      "artist": "横山奈緒",
+      "isrc": "JPI102103272",
+      "releaseDate": "2022-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/451zwppHKXdKfRepQ3R7fr",
+      "isFallback": false
+    },
+    {
+      "id": "c92f2bf2-9ff0-4fd6-9d07-faa568be130b",
+      "title": "求ム VS マイ・フューチャー",
+      "artist": "福田のり子",
+      "isrc": "JPI101402318",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/6rnQh30ovYme28hVfpeFkr",
+      "isFallback": false
+    },
+    {
+      "id": "d49cb841-58cb-4295-a550-3a277831a80d",
+      "title": "矛盾の月",
+      "artist": "花咲夜",
+      "isrc": "JPI101902185",
+      "releaseDate": "2020-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1L4KKmEYMpalA5JWnSy3C5",
+      "isFallback": false
+    },
+    {
+      "id": "a374026e-2bdb-414e-8d48-08e29005a367",
+      "title": "姉妹ライフトーキング",
+      "artist": "宮内れんげ",
+      "isrc": "JPI101502431",
+      "releaseDate": "2016-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34de64fa-e69d-4d87-adbc-af5c22162828",
+      "title": "GREEDY GIRL",
+      "artist": "秋月律子",
+      "isrc": "JPI101302945",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Be7NTfKgjkpvDDjvhS8vo",
+      "isFallback": false
+    },
+    {
+      "id": "9a66e148-7a5d-49fc-8915-a5840f422457",
+      "title": "ドリームトラベラー",
+      "artist": "ミックスナッツ",
+      "isrc": "JPI101402710",
+      "releaseDate": "2015-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/3JFHVkCmYk6c3Lhh2izKXT",
+      "isFallback": false
+    },
+    {
+      "id": "8b75cf1e-6dd5-4aa0-a013-6a8b3e17ae2c",
+      "title": "リフレインキス",
+      "artist": "スコーピオ",
+      "isrc": "JPI101700081",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/76KFzjXGzff8GrgYj6dNsR",
+      "isFallback": true
+    },
+    {
+      "id": "d55cee28-7873-44c7-b087-d0f6ca2f9349",
+      "title": "百花は月下に散りぬるを",
+      "artist": "花咲夜",
+      "isrc": "JPI101902181",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/1ae8FD9T0y8sHy6yqmuPgT",
+      "isFallback": false
+    },
+    {
+      "id": "6895a595-efaa-4714-a977-cf89897dc416",
+      "title": "はなしらべ",
+      "artist": "エミリー スチュアート",
+      "isrc": "JPI101702876",
+      "releaseDate": "2018-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/3nEPelpNchGGJNS3KZQhlf",
+      "isFallback": false
+    },
+    {
+      "id": "53597a53-207f-45bd-b38b-134e2ba274ed",
+      "title": "LOVE FOR ALL",
+      "artist": "Machico",
+      "isrc": "JPD602000173",
+      "releaseDate": "2020-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/4Efa1nHNZVcd2SZSyInWDF",
+      "isFallback": true
+    },
+    {
+      "id": "861db880-a6b6-4ec7-bb78-28bc57960fd3",
+      "title": "レター・フロム・マイ・カントリー",
+      "artist": "一条蛍",
+      "isrc": "JPI101501994",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cadd80c1-1ee2-4c9a-950d-0bf03a524b84",
+      "title": "ゲキテキ!ムテキ!恋したい!",
+      "artist": "レオ",
+      "isrc": "JPI101602444",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/4oF2eTX8BFENAahqf80MmC",
+      "isFallback": false
+    },
+    {
+      "id": "2bd86c8a-f470-4d49-a9da-4cb1ada1142d",
+      "title": "Girl meets Wonder",
+      "artist": "箱崎星梨花",
+      "isrc": "JPI101901597",
+      "releaseDate": "2019-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1iOajDSzHe0I1LReHu17Ms",
+      "isFallback": false
+    },
+    {
+      "id": "26de2468-dcd1-40bd-bf46-3550b12d2edc",
+      "title": "カワラナイモノ",
+      "artist": "三浦あずさ",
+      "isrc": "JPI101302400",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/6robN2EygEzzv9V40cZrCE",
+      "isFallback": false
+    },
+    {
+      "id": "930b637f-bb47-4d54-bf4f-71e61b81d46d",
+      "title": "Dreamscape",
+      "artist": "永吉昴",
+      "isrc": "JPI101600278",
+      "releaseDate": "2016-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/3zpSC3daz7xUd74jk505f0",
+      "isFallback": false
+    },
+    {
+      "id": "177b944c-cb0e-4029-94b6-56ea8c14bd5e",
+      "title": "あのね、聞いてほしいことがあるんだ",
+      "artist": "木下ひなた",
+      "isrc": "JPI101302941",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6LIwJZSKdSiNPsjuvbCkzg",
+      "isFallback": false
+    },
+    {
+      "id": "4478964a-cd5c-4b22-95b5-ebeb0ac47036",
+      "title": "となりっこいなかっこ",
+      "artist": "越谷夏海",
+      "isrc": "JPI101600088",
+      "releaseDate": "2016-02-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3507d4c1-140e-4a84-9d52-89be8b7c0317",
+      "title": "嘆きのFRACTION",
+      "artist": "三浦あずさ",
+      "isrc": "JPI101302398",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/0flUkjZ2aVnp7uyXTsZlXw",
+      "isFallback": false
+    },
+    {
+      "id": "7ee1fcb5-d1f4-486e-b6a9-0e591d3f2d64",
+      "title": "ヤルキガナイヤ",
+      "artist": "越谷夏海",
+      "isrc": "JPI101501876",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1ec39705-1dec-45a0-9ef4-d1ce3b7a5714",
+      "title": "Greige",
+      "artist": "今井麻美",
+      "isrc": "JPZ922404672",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/53mUreW3XMdsmjtxCktWVA",
+      "isFallback": true
+    },
+    {
+      "id": "10c72a8d-6484-4fe0-bde1-573db9aa1f4e",
+      "title": "イマージュの翼",
+      "artist": "キュアアンジュ",
+      "isrc": "JPD601800173",
+      "releaseDate": "2018-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2X7WuvhIikU2PnGFfQdl9p",
+      "isFallback": true
+    },
+    {
+      "id": "a4a47cfb-f413-4ca0-ad8e-0880a91ffb2f",
+      "title": "いつかきっと",
+      "artist": "橘・シルフィンフォード",
+      "isrc": "JPV431700604",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/0NVhmKLYJJtqxvAKAapl87",
+      "isFallback": true
+    },
+    {
+      "id": "3b3547d6-9fe9-4ad8-9971-e392712e1503",
+      "title": "ハグはぎゅマジック",
+      "artist": "野乃はな",
+      "isrc": "JPD601800230",
+      "releaseDate": "2018-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/14dIRqxbvmNZK46AWr4QXx",
+      "isFallback": true
+    },
+    {
+      "id": "d6532665-3300-409f-9c83-749082fae2a6",
+      "title": "キミとともだち",
+      "artist": "愛崎えみる",
+      "isrc": "JPD601800233",
+      "releaseDate": "2018-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/1DFyNdRrfYUlksyOWSTMdf",
+      "isFallback": true
+    },
+    {
+      "id": "9eec6ee2-0a8c-4538-b13a-538b3bfa394f",
+      "title": "WONDERFUL JOURNEY",
+      "artist": "さくら学院",
+      "isrc": "JPPO01217727",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/5WnAqKmrTThn3LPMRbL3Bd",
+      "isFallback": true
+    },
+    {
+      "id": "d27d0f9b-a447-45d0-a80c-8078d7ef9232",
+      "title": "君だけの欠片",
+      "artist": "エミリースチュアート",
+      "isrc": "JPI101401818",
+      "releaseDate": "2014-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/2PsRuVjZrJYkRCQwJhjG2Z",
+      "isFallback": false
+    },
+    {
+      "id": "88cfe5e3-4fb9-47ae-995e-c66c06b95990",
+      "title": "そいだばね",
+      "artist": "海老名菜々",
+      "isrc": "JPZ921509081",
+      "releaseDate": "2015-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/2YeBKNowG8Jscc0e86GjzF",
+      "isFallback": true
+    },
+    {
+      "id": "0e6c4367-dd23-46d3-8771-fd4c18c3f500",
+      "title": "WE ARE ONE!!",
+      "artist": "福田のり子",
+      "isrc": "JPI101800059",
+      "releaseDate": "2018-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/2j5VWV3mx1RmuNMKyon5oN",
+      "isFallback": true
+    },
+    {
+      "id": "252f0484-69e3-4212-bab5-67b45b7788f5",
+      "title": "LOOK THE SKY",
+      "artist": "三浦あずさ",
+      "isrc": "JPD641400471",
+      "releaseDate": "2014-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/2EmFe7aIQqFazmfSY9epCa",
+      "isFallback": false
+    },
+    {
+      "id": "5c2ad6e5-c6a1-4612-850b-c4dedaf68544",
+      "title": "NO 麺 NO LIFE!! 〜能面のライフ〜",
+      "artist": "市松こひな",
+      "isrc": "JPD731401085",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "79cb9979-3f23-45a4-8215-1baa0e04f790",
+      "title": "キラリ☆彡スター☆トゥインクルプリキュア",
+      "artist": "北川理恵",
+      "isrc": "JPD601900012",
+      "releaseDate": "2019-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/2hF8AqL7KLoN2qrO1wXEcA",
+      "isFallback": true
+    },
+    {
+      "id": "336bee3e-59ad-4ba2-9c77-e19c684fb60d",
+      "title": "ハミングバード",
+      "artist": "桜守歌織",
+      "isrc": "JPI101701656",
+      "releaseDate": "2017-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/6hKQeWvK5CfSBEMzsm2bFp",
+      "isFallback": false
+    },
+    {
+      "id": "b9594158-db5c-4d7d-8ead-0536f6d602b5",
+      "title": "アライブファクター",
+      "artist": "如月千早",
+      "isrc": "JPI101502063",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/0K3kF9hlbhV7rmjqErvpu4",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "谷村庸平",
+  "sortName": "タニムラヨウヘイ",
+  "tracks": [
+    {
+      "id": "2710813b-7962-43c7-b841-4440f4a88ebc",
+      "title": "逃げ水",
+      "artist": "乃木坂46",
+      "isrc": "JPU901702316",
+      "releaseDate": "2017-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/4BUOpUEPoIBZpq7YauH6Bs",
+      "isFallback": true
+    },
+    {
+      "id": "ee584cd7-f904-4d53-a540-d3df74a92f55",
+      "title": "僕たちには歌がある",
+      "artist": "ゆらゆらシスターズ",
+      "isrc": "JPT552500339",
+      "releaseDate": "2025-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/43jfpj6HUEfji4vuZ8S81c",
+      "isFallback": false
+    },
+    {
+      "id": "5abc8d75-666f-489b-94ac-f6868ecc7d54",
+      "title": "ゆらゆらワンダフルワールド",
+      "artist": "ゆらゆらシスターズ",
+      "isrc": "JPM202200212",
+      "releaseDate": "2022-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/2hwIg7fKyYCJv1EfRmE0We",
+      "isFallback": false
+    },
+    {
+      "id": "4e79c291-13ed-4ac0-90a2-8cc4c36e7fa9",
+      "title": "会いたくて嫌になる",
+      "artist": "やっぱりみたらし団子",
+      "isrc": "JPPO01801635",
+      "releaseDate": "2018-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/66rN9I6srPYclinU5U6j6d",
+      "isFallback": true
+    },
+    {
+      "id": "69e60e55-6447-424f-a24c-37445556ceb1",
+      "title": "絶対王者チョコレート",
+      "artist": "ゆらゆらシスターズ",
+      "isrc": "",
+      "releaseDate": "2025-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/2le4lZquBURJYS6TcdAZdx",
+      "isFallback": false
+    },
+    {
+      "id": "03aa3d88-43f7-44a6-a838-741497dc9e21",
+      "title": "2018年の橋",
+      "artist": "HKT48",
+      "isrc": "JPPO01707093",
+      "releaseDate": "2017-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/5caSADj3o7OmUTzeL0WqWJ",
+      "isFallback": true
+    },
+    {
+      "id": "49d10068-5a10-4ba9-8959-fa014ba20070",
+      "title": "混ざり合うもの",
+      "artist": "乃木坂AKB",
+      "isrc": "JPKI01610794",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/2WcNQKf0Q0hlgAbW0qKPsK",
+      "isFallback": true
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "name": "HIR",
+  "sortName": "エイチアイアール",
+  "tracks": [
+    {
+      "id": "6440b564-ab7f-4beb-9a5a-e534027f71ee",
+      "title": "Winter Pop！",
+      "artist": "留桜良姫",
+      "isrc": "",
+      "releaseDate": "2007-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa5194d9-ba27-44be-bdc4-d41c09754b74",
+      "title": "機械仕掛け",
+      "artist": "HIR",
+      "isrc": "JPTK08501390",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/5pLACdZjxEMrFQwZX3KqBT",
+      "isFallback": true
+    },
+    {
+      "id": "ba59c4eb-eba8-4a1e-8972-b107bc1e028a",
+      "title": "Harmony",
+      "artist": "茶太",
+      "isrc": "JPV201000660",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/4LsB3NsCzUUgPGh9pmKgww",
+      "isFallback": true
+    },
+    {
+      "id": "aca00ec4-a673-4bdc-84b8-d177490ec858",
+      "title": "物語の消えた森",
+      "artist": "少女病",
+      "isrc": "TCJPD2556870",
+      "releaseDate": "2008-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4qL9tBOepYiCLIQ3Yho7zd",
+      "isFallback": true
+    },
+    {
+      "id": "31252bc9-5550-4ca6-8b10-ef9c0dbc680c",
+      "title": "大地は共鳴する",
+      "artist": "HIR",
+      "isrc": "JPF491001323",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/6ENJaSIPSXSdSFpPyfANqM",
+      "isFallback": true
+    },
+    {
+      "id": "7e63eb34-ceef-45bf-8eef-7f6eb5efc629",
+      "title": "サマスタGo!Go!",
+      "artist": "片霧烈火",
+      "isrc": "",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f2e9f47-0b0e-47d2-976b-423353a0fd77",
+      "title": "WHIT HEART",
+      "artist": "癒月",
+      "isrc": "",
+      "releaseDate": "2010-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba99ad0f-4410-469f-836f-36019a2c0b33",
+      "title": "Brand-new Treasure",
+      "artist": "留桜良姫",
+      "isrc": "",
+      "releaseDate": "2007-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "07e95568-4b2f-45b1-a714-c36a899eaebb",
+      "title": "ナシラの樹雨",
+      "artist": "ABSOLUTE CASTAWAY",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "064ec3b5-d074-4262-a987-582bd6708711",
+      "title": "無機質な雨音",
+      "artist": "HIR",
+      "isrc": "",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d2165bbe-72fe-4678-9ad9-6e25b5d65cf7",
+      "title": "Brand-New Spring",
+      "artist": "Rita",
+      "isrc": "",
+      "releaseDate": "2010-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ec63c79-911e-468c-8ccc-229ba0da2652",
+      "title": "夢から覚めても",
+      "artist": "茶太",
+      "isrc": "JPV201000655",
+      "releaseDate": "2010-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "207381dd-c612-43e6-9cfa-68c47a649130",
+      "title": "LAB",
+      "artist": "HIR",
+      "isrc": "JPV752307559",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/7GRGA0KeJAb2vw7IFoJUJ1",
+      "isFallback": true
+    },
+    {
+      "id": "440ab668-9010-46ea-a628-fa7696c9b6a6",
+      "title": "Σ",
+      "artist": "HIR",
+      "isrc": "JPF491001324",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/37ZgxfaWWZPP2brjYgKZg1",
+      "isFallback": true
+    },
+    {
+      "id": "8e31cda5-891b-4db8-afc4-3d45099a04f2",
+      "title": "鳥篭から紡ぐ終焉",
+      "artist": "少女病",
+      "isrc": "TCJPD2556188",
+      "releaseDate": "2007-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/0JRGzkipiTW8AyOWjGBW4S",
+      "isFallback": true
+    },
+    {
+      "id": "2502d7fb-b689-446b-b0ff-0abcaad147a7",
+      "title": "ココロの扉 (ライブバージョン)",
+      "artist": "Rita",
+      "isrc": "JPV201100964",
+      "releaseDate": "2011-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/5qot9QGi8OYDWkG53xyjaC",
+      "isFallback": true
+    },
+    {
+      "id": "d0aeb422-98b2-4c6d-86c4-615e882ed768",
+      "title": "あいのそら",
+      "artist": "chika",
+      "isrc": "",
+      "releaseDate": "2010-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e2c64ec-485b-4226-9397-a9b00072ec93",
+      "title": "れっつごー恋愛★ゆるっとさみっと！ 〜いんにゃーすぺーす編〜",
+      "artist": "CLOSED/UNDERGROUND",
+      "isrc": "",
+      "releaseDate": "2013-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "47efb886-9258-479d-8ba1-0ed56d05c809",
+      "title": "勇ましき者、遥けし荒野を征かん",
+      "artist": "片霧烈火",
+      "isrc": "",
+      "releaseDate": "2014-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "576d05dd-a227-44c4-9d86-47e1462ae1fd",
+      "title": "水平線まで何マイル?",
+      "artist": "茶太",
+      "isrc": "JPV201000659",
+      "releaseDate": "2010-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e65db8f8-c467-4d8f-acb2-f5a3717f9f14",
+      "title": "Scrap's Beat",
+      "artist": "HIR",
+      "isrc": "",
+      "releaseDate": "1990",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "889f115e-078e-427d-a499-db41a2f5fb6a",
+      "title": "がーるずじぇっと",
+      "artist": "コツキミヤ",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a7697a25-f63e-4a4a-9abb-0ba42b8a1da5",
+      "title": "SUMMER WAVE",
+      "artist": "霜月はるか",
+      "isrc": "",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b47b9cd1-af4f-4425-ac59-123cd7d9bd3d",
+      "title": "桜の咲く頃",
+      "artist": "Rita",
+      "isrc": "JPV201100957",
+      "releaseDate": "2011-12-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb13358b-74e6-4397-b5ce-a3f53dc9a75a",
+      "title": "一歩ずつ",
+      "artist": "野々宮舞",
+      "isrc": "JPB600656801",
+      "releaseDate": "2006-11-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0604eef-ef98-4f75-a468-5f5a692ddfde",
+      "title": "もしも世界に答えがあるなら",
+      "artist": "少女病",
+      "isrc": "TCJPD2557023",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/4Dem2FgbII6QDG02zZURCf",
+      "isFallback": true
+    },
+    {
+      "id": "b2841f37-c3e2-4804-b119-df0d420b3034",
+      "title": "ローリングストーン",
+      "artist": "HIR",
+      "isrc": "JPVI01632670",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/4LORkBYwbOoKqF39xIs0KY",
+      "isFallback": true
+    },
+    {
+      "id": "9eabd763-6484-4c20-b130-27ae4e12b37e",
+      "title": "終わらない魔法",
+      "artist": "Rita",
+      "isrc": "JPV201100954",
+      "releaseDate": "2010-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "33d9b6ca-0071-4756-911e-ed9dd4882a71",
+      "title": "真夏革命",
+      "artist": "佳織みちる",
+      "isrc": "",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a90f6952-7fd3-4932-9681-2097b37a07ba",
+      "title": "孤独の果ての物語",
+      "artist": "少女病",
+      "isrc": "TCJPD2556213",
+      "releaseDate": "2007-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/2GTEP57r28OY5gDjGUWy9M",
+      "isFallback": true
+    },
+    {
+      "id": "b76965ac-f7ba-483c-b837-66a5b4d006af",
+      "title": "透き通る風",
+      "artist": "HIR",
+      "isrc": "JPF491001404",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/60iivU8yBoHyNassYnjCJS",
+      "isFallback": true
+    },
+    {
+      "id": "8a3ddfaf-bd47-4732-bf4e-7631f45e327a",
+      "title": "森羅万象",
+      "artist": "HIR",
+      "isrc": "JPF491001412",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/2cr2fkBYuea2NLDM0N98Gg",
+      "isFallback": true
+    },
+    {
+      "id": "1b1e8c44-343c-45fb-bb42-6e8abcd12638",
+      "title": "Marginality",
+      "artist": "中恵光城",
+      "isrc": "TCJPK2057847",
+      "releaseDate": "2009-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/2ThGLjJxI5vSLZq3oHFO6F",
+      "isFallback": true
+    },
+    {
+      "id": "80a9f3d2-6cfc-462a-99b8-87bc32246b99",
+      "title": "水の魔法",
+      "artist": "佳織みちる",
+      "isrc": "",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f746512d-76aa-4846-980b-e22b61ad5047",
+      "title": "終焉観測",
+      "artist": "少女病",
+      "isrc": "",
+      "releaseDate": "2007-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f87f82cd-1d52-460f-8e8f-d7ce0a775022",
+      "title": "果てしのない空",
+      "artist": "榊瑞樹",
+      "isrc": "JPB600649101",
+      "releaseDate": "2007-02-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4010ad5c-069b-4aca-8049-13b5a92e32fb",
+      "title": "星降る夜に",
+      "artist": "HIR",
+      "isrc": "JPB602000623",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/6AmwYZ9X7O3vpqfzYca7XL",
+      "isFallback": true
+    },
+    {
+      "id": "3d9fa1f1-7d46-40e1-b9c3-576b2d2abeec",
+      "title": "宵祭",
+      "artist": "生天目仁美",
+      "isrc": "",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f14435fe-f8bc-425b-a726-31c731ba9fd6",
+      "title": "めぐるおと･rotatory",
+      "artist": "Primary",
+      "isrc": "",
+      "releaseDate": "2007-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cdc4f40b-bd3f-45bb-83b7-d365149f3b81",
+      "title": "加速するココロ",
+      "artist": "HIR",
+      "isrc": "JPF491001427",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/4nJ1qM1tzHVVC9k2qPisLo",
+      "isFallback": true
+    },
+    {
+      "id": "baf7bd49-e915-4c41-8922-a90034456bcb",
+      "title": "葬奏",
+      "artist": "少女病",
+      "isrc": "TCJPD2556545",
+      "releaseDate": "2008-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/0Q1R5Ra4RGhyg7UZORIrXd",
+      "isFallback": true
+    },
+    {
+      "id": "00735501-4489-4b4b-9801-af48e5e5ae11",
+      "title": "Karma",
+      "artist": "少女病",
+      "isrc": "TCJPD2556189",
+      "releaseDate": "2007-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/4U8pAMddZ0f3wkBBxP8rh0",
+      "isFallback": true
+    },
+    {
+      "id": "242d9df1-d438-4a59-8d21-c745ca56097c",
+      "title": "fall in love",
+      "artist": "有希",
+      "isrc": "JPW561901882",
+      "releaseDate": "2007-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/0dHb4zCyEdzTOOfChLGV63",
+      "isFallback": true
+    },
+    {
+      "id": "244dc612-81fe-4152-9386-aa74403b2666",
+      "title": "ASTRO=HOPE -Acoustic ver.-",
+      "artist": "ABSOLUTE CASTAWAY",
+      "isrc": "",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "name": "iyuna",
+  "sortName": "イユナ",
+  "tracks": [
+    {
+      "id": "94359ecc-31d1-4134-a052-98c9eb53ecc1",
+      "title": "little wish in the snow",
+      "artist": "solfa",
+      "isrc": "TCJPT2216759",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/13E6y3cE8R8cGo6M6LGG9e",
+      "isFallback": true
+    },
+    {
+      "id": "7812226c-ae1b-4dff-8859-d882bf0c4590",
+      "title": "I'm here",
+      "artist": "solfa",
+      "isrc": "TCJPH1870757",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/3L0wREXpcQyRLn44o8jKrF",
+      "isFallback": true
+    },
+    {
+      "id": "e63fbc05-2853-4059-8261-a1f42ee177e8",
+      "title": "fade to black",
+      "artist": "yuiko",
+      "isrc": "TCJPH1810107",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/052rQyGIWorPnT7xwrqZAm",
+      "isFallback": true
+    },
+    {
+      "id": "e3c638b8-768b-430d-ad36-d23ad756e13b",
+      "title": "スターライン",
+      "artist": "Duca",
+      "isrc": "TCJPG1741020",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/7uwYHDPYHDqA88Er4gtl8j",
+      "isFallback": true
+    },
+    {
+      "id": "edae53ad-b863-4503-9ea8-8a630c53be5e",
+      "title": "乗り切れ受験ウォーズ",
+      "artist": "solfa",
+      "isrc": "JPX301503870",
+      "releaseDate": "2015-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/7xsoDD6p4BAoHGHN1poOZY",
+      "isFallback": true
+    },
+    {
+      "id": "b1e57d75-fcf4-4bca-af60-a0e4f173a080",
+      "title": "Atlantide",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2013-11-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9e5a4901-a850-4155-b2bd-73ecda94cff4",
+      "title": "losing",
+      "artist": "solfa",
+      "isrc": "TCJPT2216764",
+      "releaseDate": "2022-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/7tiQqTXUH42b1jJaU6UkyQ",
+      "isFallback": true
+    },
+    {
+      "id": "83d3b09e-5380-4e52-873e-912480c43739",
+      "title": "羽ばたく翼",
+      "artist": "茉白",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16d29e7b-c3b5-4ae0-8561-fa8e75d4d588",
+      "title": "夏色ラムネ",
+      "artist": "solfa",
+      "isrc": "JPV202000589",
+      "releaseDate": "2018-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/5NoebMdkCNhREKG0pQqqPH",
+      "isFallback": true
+    },
+    {
+      "id": "fe4f7830-d027-4af8-9a16-9be7d7727118",
+      "title": "花咲タイムカプセル（真白結花エンディング）",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "504d4eeb-9291-4004-8bcb-fc3619a5b8eb",
+      "title": "be there",
+      "artist": "Rita",
+      "isrc": "JPI100903035",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6",
+      "isFallback": true
+    },
+    {
+      "id": "55c1fbd0-b49c-4268-9463-d607739c7359",
+      "title": "七色プリズム",
+      "artist": "茶太",
+      "isrc": "JPI100801177",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cfe83475-a238-41c3-8b2e-00831d82fff1",
+      "title": "ふたりのプリズム",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2011-04-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50eb8e16-558c-4e93-9e2c-8657e7ee6857",
+      "title": "交差",
+      "artist": "茶太",
+      "isrc": "JPI100801183",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1bbe8dfa-4ef6-45b7-baa4-2e19b642a4ad",
+      "title": "約束の場所",
+      "artist": "真理絵",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4ada94fb-88ce-4f37-9d29-75a70dceaaca",
+      "title": "二人の見る世界",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "93719f5f-54ec-43a4-a311-6b236600a8dd",
+      "title": "パ・パ・パ・パンダ",
+      "artist": "茶太",
+      "isrc": "JPI100801179",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71670ab5-0d3b-44bb-ad36-90ad71576b09",
+      "title": "ゆびさきの星",
+      "artist": "my sound life",
+      "isrc": "TCJPT2295627",
+      "releaseDate": "2014-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/4Lp7o0VyKxX4tACAzBIdJy",
+      "isFallback": true
+    },
+    {
+      "id": "095105fe-5cab-4103-bcb4-293559a0e07a",
+      "title": "時間旅行",
+      "artist": "茶太",
+      "isrc": "TCJPH1810096",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/2Zpj7ZYVIR38wqXupDGBgs",
+      "isFallback": true
+    },
+    {
+      "id": "a8a4f543-6ab5-4be5-9a1a-97e7fce49ad5",
+      "title": "mythical frontier",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2012-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6864af8f-bc1f-4359-a930-0438a882da89",
+      "title": "夏の終わりのニルヴァーナ",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77714583-896c-4efa-b2fa-bd3996a137d5",
+      "title": "summer dream",
+      "artist": "solfa",
+      "isrc": "TCJPG1737120",
+      "releaseDate": "2011-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/1L2xdMi3fbtzEpqR40LgEU",
+      "isFallback": true
+    },
+    {
+      "id": "f5313579-2539-4f6d-bb67-8fc12d4bca48",
+      "title": "カラフルprecious life",
+      "artist": "茶太",
+      "isrc": "TCJPG1737123",
+      "releaseDate": "2013-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/6qMCC2GT3GzCHAksFp3D0y",
+      "isFallback": true
+    },
+    {
+      "id": "6011055f-fa36-42ee-8bad-8970c17a8dc7",
+      "title": "starting over",
+      "artist": "iyuna",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "97394f04-dcd4-474d-9c37-0c56b5da9436",
+      "title": "timeless melody",
+      "artist": "茶太",
+      "isrc": "JPI100903036",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85ddd4a4-b0b7-456d-be46-7d9d5bc1d5cb",
+      "title": "smilin'",
+      "artist": "Rita",
+      "isrc": "JPI100802838",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/6orFvNKr9DUEijNen80NHV",
+      "isFallback": true
+    },
+    {
+      "id": "90bfb7d2-ca97-49dc-91b0-c37fd8ecf764",
+      "title": "メイプルカラーズ",
+      "artist": "solfa",
+      "isrc": "TCJPG1743021",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1yFX4fNQYErQZRCbYnsxJP",
+      "isFallback": true
+    },
+    {
+      "id": "5eeb49a8-0791-45a6-b0c0-bc7967e1b343",
+      "title": "wind of change",
+      "artist": "iyuna",
+      "isrc": "",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "363dcbe5-f46d-4735-8aca-d7338b71a0f8",
+      "title": "ぬのなのにね",
+      "artist": "iyuna",
+      "isrc": "TCJPH1810112",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/3X4DiCHSZFOEOCwxAEBnCL",
+      "isFallback": true
+    },
+    {
+      "id": "bb2a268c-356e-44a4-98e0-f573ef8d4717",
+      "title": "shining brave",
+      "artist": "solfa",
+      "isrc": "JPV201700595",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/3OrkQKKmKtapd8QlSWbHgb",
+      "isFallback": true
+    },
+    {
+      "id": "36aa36c9-cd81-4195-a962-25ce0331bb87",
+      "title": "桜ひとひら恋もよう",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02000230",
+      "releaseDate": "2017-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/1B94FyUsvuTylOuxwKyYTv",
+      "isFallback": true
+    },
+    {
+      "id": "14ba7044-fe62-4336-ac3d-74f048307d3a",
+      "title": "eternal smile",
+      "artist": "真理絵",
+      "isrc": "",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cec7cec1-8752-4433-89de-c53fc29a8997",
+      "title": "れみぜら！",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2016-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12643ae5-7739-4de3-938c-e09ef1de70ec",
+      "title": "with you",
+      "artist": "茶太",
+      "isrc": "JPV200900276",
+      "releaseDate": "2009-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/75E31r9ZwFWfAesNd4z576",
+      "isFallback": true
+    },
+    {
+      "id": "80512bde-3145-48e9-9e8b-aa9de937d53e",
+      "title": "プリズム lovely day",
+      "artist": "茶太",
+      "isrc": "TCJPS2264160",
+      "releaseDate": "2017-01-27",
+      "spotifyUrl": "https://open.spotify.com/track/1SyXQU4N7TTEKz05BonpI1",
+      "isFallback": true
+    },
+    {
+      "id": "6022c21a-8a46-453f-929f-e6d1b4431aca",
+      "title": "久遠の夢",
+      "artist": "Duca",
+      "isrc": "JPV201400205",
+      "releaseDate": "2011-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/3jCjULC17kfPNqgNGo64Te",
+      "isFallback": true
+    },
+    {
+      "id": "6e04264c-7aa8-4606-b20b-fe20cdc196de",
+      "title": "blank page",
+      "artist": "solfa",
+      "isrc": "TCJPG1738591",
+      "releaseDate": "2012-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/17oBajkkejlPh6dpYTYBHX",
+      "isFallback": true
+    },
+    {
+      "id": "93c8f554-2760-4dc0-bdf4-b91b8420c9c8",
+      "title": "calida",
+      "artist": "solfa",
+      "isrc": "TCJPH1870751",
+      "releaseDate": "2016-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5RogqIHpJRvqfBXqYrlE0A",
+      "isFallback": true
+    },
+    {
+      "id": "1c6b1c69-1b04-4ef3-8529-61f1eace2410",
+      "title": "オモウチカラ",
+      "artist": "Rita",
+      "isrc": "JPI100802836",
+      "releaseDate": "2008-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b2fdc536-cad4-47d0-a9f5-48b9c8a765d4",
+      "title": "冷たい部屋",
+      "artist": "茶太",
+      "isrc": "JPI100801176",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb3b8181-0c8f-4681-970c-e31f6ab316ee",
+      "title": "leap in your mind",
+      "artist": "霜月はるか",
+      "isrc": "JPV201700079",
+      "releaseDate": "2016-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9aa32878-c5dd-42a2-8a6a-65be1befd6bc",
+      "title": "pureness heart",
+      "artist": "茶太",
+      "isrc": "TCJPK2027978",
+      "releaseDate": "2019-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/0NIzNR55Po4MKlQbKimr9c",
+      "isFallback": true
+    },
+    {
+      "id": "94ef8e39-a863-4c7d-9bd9-2b6da87e82cd",
+      "title": "夢の通り道",
+      "artist": "Duca",
+      "isrc": "TCJPH1810109",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/4u0Q9noYqlOCL3t3UqJWTc",
+      "isFallback": true
+    },
+    {
+      "id": "474efa4e-60ed-4fde-8e04-a8ca25c889ec",
+      "title": "my sweet home",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "920377fd-a388-4fc4-bf6c-c496c3dac58f",
+      "title": "shield nine",
+      "artist": "Rita",
+      "isrc": "",
+      "releaseDate": "2007-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c6903a09-fe08-4771-82a4-c3fb5ea9ae67",
+      "title": "harmonia",
+      "artist": "Rita",
+      "isrc": "JPI100800704",
+      "releaseDate": "2008-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/3c6IKjD9mBs4q2NtuqTxA5",
+      "isFallback": true
+    },
+    {
+      "id": "818e1650-a201-4eb7-a715-11f258cd92d1",
+      "title": "初恋サンカイメ",
+      "artist": "橋本みゆき",
+      "isrc": "JPI101901208",
+      "releaseDate": "2016-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1ba421f2-4730-4441-8094-dba7f8619cd4",
+      "title": "ノスタルジア",
+      "artist": "solfa",
+      "isrc": "TCJPG1744952",
+      "releaseDate": "2015-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/5CYF7QXNBqitKtcOS4mZni",
+      "isFallback": true
+    },
+    {
+      "id": "dd595538-25b4-4e33-bbbe-da697453d3d0",
+      "title": "fly to the sky",
+      "artist": "solfa",
+      "isrc": "TCJPG1741000",
+      "releaseDate": "2011-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/0a2SLcZoYVlrJseW0E844m",
+      "isFallback": true
+    },
+    {
+      "id": "ffcc7d11-bbdb-441a-b76d-b0cbb76e9ba3",
+      "title": "step! jump!",
+      "artist": "茶太",
+      "isrc": "JPI100801180",
+      "releaseDate": "2008-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "766b881c-39f8-4f2f-a5f8-51c7e2c21998",
+      "title": "スターゲイザー",
+      "artist": "Annabel",
+      "isrc": "TCJPH1810104",
+      "releaseDate": "2010-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/1825TCLUnXVFLAfZRi7HcA",
+      "isFallback": true
+    },
+    {
+      "id": "16f30ac8-df44-40ad-817f-af86b4faa5c2",
+      "title": "Let Us Cling Together",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2014-11-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb4a75c7-0c4c-4fb6-a074-04578be4a2f2",
+      "title": "into your true heart",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2009-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7dc1538-ff98-4a82-b5f7-55be2f1cefa2",
+      "title": "ノスタルジア",
+      "artist": "solfa",
+      "isrc": "TCJPG1744952",
+      "releaseDate": "2015-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5CYF7QXNBqitKtcOS4mZni",
+      "isFallback": true
+    },
+    {
+      "id": "2d894bd6-ab46-4c94-a2e8-c0eaf5dd6703",
+      "title": "stardust train",
+      "artist": "Rita",
+      "isrc": "JPI100802840",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

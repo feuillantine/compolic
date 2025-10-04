@@ -1,0 +1,177 @@
+{
+  "name": "出口遼",
+  "sortName": "デグチリョウ",
+  "tracks": [
+    {
+      "id": "760bb6e9-e1dc-4600-aea5-c8b911b12c9f",
+      "title": "君に推されたい！",
+      "artist": "VINANSHI",
+      "isrc": "TCJPR2263202",
+      "releaseDate": "2022-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/6m4SKJXVfqIQ8D6Whc0bIT",
+      "isFallback": true
+    },
+    {
+      "id": "a1af132b-14fe-4a29-85e3-dd947005d0c4",
+      "title": "Flash",
+      "artist": "Kotone",
+      "isrc": "TCJPM2054120",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/4Oo52IVkGtNuGnTzqu5wcz",
+      "isFallback": true
+    },
+    {
+      "id": "1c8cc443-fa7a-4b89-81b2-6e4e19676325",
+      "title": "かごめ",
+      "artist": "Kotone",
+      "isrc": "TCJPJ1996795",
+      "releaseDate": "2019-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/6rDPC7PWJERDEGWo475WBq",
+      "isFallback": true
+    },
+    {
+      "id": "fbedfd6a-bb2d-480e-a71b-d0828f6010c6",
+      "title": "Ark",
+      "artist": "天神子兎音",
+      "isrc": "JPPO02004042",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/5s2siLqetzeGnMxJi9Sex1",
+      "isFallback": true
+    },
+    {
+      "id": "bf4ddb75-e1e0-426b-b790-992d254b3a99",
+      "title": "夢模様キャンバス",
+      "artist": "郁田はるき",
+      "isrc": "JPI102402985",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/1OXIKdTQNEsYY4Vc6lubjN",
+      "isFallback": true
+    },
+    {
+      "id": "52aed528-9e33-4809-99f6-890b5a07c06e",
+      "title": "ハンドメイドスマイル",
+      "artist": "関裕美",
+      "isrc": "JPCO02219840",
+      "releaseDate": "2022-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/2K2kzKGpPGPYThbVLE9i4M",
+      "isFallback": true
+    },
+    {
+      "id": "44e94e86-7ef1-46e4-91f6-55aa8feca673",
+      "title": "Paradox",
+      "artist": "レイ",
+      "isrc": "JPCO02027760",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/3jytMIrPiTMk2zmCmX2eCo",
+      "isFallback": false
+    },
+    {
+      "id": "cfc12ec8-5a4b-4087-a2c0-0d3b0e4502c2",
+      "title": "Black Joke",
+      "artist": "Kotone",
+      "isrc": "TCJPM2081457",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/3b471w5exNPkdQ5zP8enfb",
+      "isFallback": true
+    },
+    {
+      "id": "8f2be1d2-6e6c-4398-8450-dc8da02477b2",
+      "title": "妄想サマーハレーション",
+      "artist": "チエル",
+      "isrc": "JPCO02411750",
+      "releaseDate": "2024-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/1PttvtRFIQC8NOIU4qMZg2",
+      "isFallback": true
+    },
+    {
+      "id": "1a4a9871-adba-4d6a-bec1-3778f0fc8341",
+      "title": "イーリャンサンキュー (M@STER VERSION)",
+      "artist": "中野有香",
+      "isrc": "JPCO02437260",
+      "releaseDate": "2025-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/03Jc5qQMyVYBx2KDMVzR2m",
+      "isFallback": true
+    },
+    {
+      "id": "d244ca29-e790-4841-ae7a-2cbe5bc20035",
+      "title": "初夢をあなたと",
+      "artist": "鷹富士茄子",
+      "isrc": "JPCO02033130",
+      "releaseDate": "2021-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/7z6x2mKNwZ2H80RcsRhsXo",
+      "isFallback": true
+    },
+    {
+      "id": "2782ca28-65ba-40be-aa72-43284aed4dea",
+      "title": "逆鱗乱舞!!",
+      "artist": "愛宕",
+      "isrc": "JPW672000009",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/6n2qxYPFTwsk1kQbhh9mFf",
+      "isFallback": true
+    },
+    {
+      "id": "60fc044e-c8b4-4c29-b2ec-a6e29f712691",
+      "title": "未解決な想い",
+      "artist": "マコト",
+      "isrc": "JPCO01918790",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1hbLhZss4C3V8v3IxzM8nF",
+      "isFallback": false
+    },
+    {
+      "id": "ce3fa9f3-480d-405f-868e-5604c1f297a5",
+      "title": "Erase",
+      "artist": "Kotone",
+      "isrc": "TCJPL2067267",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/60E16FdEx1ohfVKeSyOwOg",
+      "isFallback": true
+    },
+    {
+      "id": "d530fbeb-83b3-4352-bad4-76e98c9d78ae",
+      "title": "Hungry Bambi (M@STER VERSION)",
+      "artist": "佐々木千枝",
+      "isrc": "JPCO02120680",
+      "releaseDate": "2021-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/7qvF3NKrVNHwro7hNgwoJV",
+      "isFallback": true
+    },
+    {
+      "id": "d3ae89fd-a8c5-45d1-a963-dca78a750518",
+      "title": "スイベビ",
+      "artist": "VINANSHI",
+      "isrc": "TCJPP2158587",
+      "releaseDate": "2021-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/4K3y7MDMvfYxXHbOPrm73L",
+      "isFallback": true
+    },
+    {
+      "id": "9aa72ba5-c1f5-4438-b161-507c466c2f6f",
+      "title": "Pick",
+      "artist": "相模楓",
+      "isrc": "JPPC01801854",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/0LEcN3xdI79sfSrhqftwsh",
+      "isFallback": false
+    },
+    {
+      "id": "e3db4faf-f679-4efa-b95a-b8f39d383233",
+      "title": "GEMSTONE",
+      "artist": "的場梨沙",
+      "isrc": "JPCO02202990",
+      "releaseDate": "2023-06-21",
+      "spotifyUrl": "https://open.spotify.com/track/0OMYg3Vjpt4FbsLzwD9aGK",
+      "isFallback": true
+    },
+    {
+      "id": "1b1677da-f0be-4622-b87f-1f99e7a66fb5",
+      "title": "PUNISHMENT",
+      "artist": "天神子兎音",
+      "isrc": "JPPO02004041",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/7bIItYuP9mrM7Ust0C3uuS",
+      "isFallback": true
+    }
+  ]
+}

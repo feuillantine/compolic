@@ -1297,6 +1297,15 @@
       "releaseDate": "2015-08-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "43aef0b7-bd26-4554-81a1-757cf1125d69",
+      "title": "Lollipop",
+      "artist": "miComet",
+      "isrc": "JPV752511099",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/1dgsJyEnUltr4pfGe09UOv",
+      "isFallback": false
     }
   ]
 }

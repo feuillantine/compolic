@@ -73,6 +73,15 @@
       "releaseDate": "2022-03-17",
       "spotifyUrl": "https://open.spotify.com/track/5F8GyjPXS2YzXQtY6wl4XH",
       "isFallback": true
+    },
+    {
+      "id": "6ad1c2a1-5799-4daf-b8c6-db69f2224289",
+      "title": "Leap up Lollipop",
+      "artist": "夢ノ結唱",
+      "isrc": "JPR562300437",
+      "releaseDate": "2023-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/2HBLnCvKDxtETzxQNAkniT",
+      "isFallback": false
     }
   ]
 }

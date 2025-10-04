@@ -172,6 +172,69 @@
       "releaseDate": "2023-01-20",
       "spotifyUrl": "https://open.spotify.com/track/1XnJ7vcNePxyQI4J8AsBg7",
       "isFallback": true
+    },
+    {
+      "id": "4913123f-ca96-4e68-b848-7dafe7837902",
+      "title": "蒼天のプリズムクラウン",
+      "artist": "irucaice",
+      "isrc": "JP92Q2301017",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/0890tmDEcxo2yprSuBKXyE",
+      "isFallback": true
+    },
+    {
+      "id": "d461cdd5-952b-4ef7-8748-771b4a871dcb",
+      "title": "インテグラル・ラボラトリ",
+      "artist": "irucaice",
+      "isrc": "JP92Q2302142",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/4mETAAZFoljIgxoXjBJi2r",
+      "isFallback": true
+    },
+    {
+      "id": "62ed604e-441c-4918-bb59-f4617b45857e",
+      "title": "ひよこドルチェ",
+      "artist": "irucaice",
+      "isrc": "JP92E2400199",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/4Xa9eKq6LM9lFMxqVZPYic",
+      "isFallback": true
+    },
+    {
+      "id": "3f7f9a42-05ae-44e3-a8db-9292d7655ab1",
+      "title": "箱庭ワンダーランド",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed8903d2-b65b-41f0-abf5-8f72d7f18ece",
+      "title": "トワイライトフレーバー",
+      "artist": "irucaice",
+      "isrc": "JP92E2500239",
+      "releaseDate": "2025-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/6IPv52jP5nYKF2NO8SKyHr",
+      "isFallback": true
+    },
+    {
+      "id": "ac642e95-b113-4517-a3fe-81af31e301ad",
+      "title": "天藍のアイスヘヴン",
+      "artist": "irucaice",
+      "isrc": "JP92Q2502756",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/07yibwbWDYCwyEnz6JQXaR",
+      "isFallback": true
+    },
+    {
+      "id": "f2fcaa39-7f28-4877-b20a-f282a6821f4d",
+      "title": "夢紡ぎのワンダラー",
+      "artist": "irucaice",
+      "isrc": "JP92Q2501983",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/19WWbxXnOvmCKB6NiR5Fpa",
+      "isFallback": true
     }
   ]
 }

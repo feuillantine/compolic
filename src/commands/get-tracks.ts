@@ -1,8 +1,10 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { Command } from 'commander';
+import { convertSortNameToKatakana } from '@/utils/katakana-converter';
 import {
   getAllWorks,
+  getArtistDetailsById,
   getArtistIdByName,
   getArtistNameById,
   getRecording,
@@ -69,6 +71,7 @@ export const getTracksCommand = new Command('get-tracks')
     // ------------------------------------------------------------
     let artistId: string = options.arid;
     let artistName: string = options.artist;
+    let artistSortName = '';
     if (artistId) {
       artistName = await getArtistNameById(artistId);
       if (!artistName) {
@@ -83,6 +86,13 @@ export const getTracksCommand = new Command('get-tracks')
       console.log(`アーティストIDが見つかりました: ${artistId}`);
     }
 
+    // ソート名を取得して変換
+    const artistDetails = await getArtistDetailsById(artistId);
+    if (artistDetails.sortName) {
+      artistSortName = convertSortNameToKatakana(artistDetails.sortName);
+      console.log(`ソート名: ${artistDetails.sortName} -> ${artistSortName}`);
+    }
+
     // ------------------------------------------------------------
     // 保存済トラックデータをロード
     // ------------------------------------------------------------
@@ -91,7 +101,13 @@ export const getTracksCommand = new Command('get-tracks')
     try {
       data = await fs.readFile(savedTracksFile, 'utf-8');
     } catch {}
-    const parsedData: ComposerData = data ? JSON.parse(data) : { name: artistName, tracks: [] };
+    const parsedData: ComposerData = data
+      ? JSON.parse(data)
+      : { name: artistName, sortName: artistSortName, tracks: [] };
+    // 既存データにsortNameがない場合は追加
+    if (!parsedData.sortName && artistSortName) {
+      parsedData.sortName = artistSortName;
+    }
     const savedTracks: ComposerTrack[] = parsedData.tracks;
 
     console.log(`${savedTracks.length}個のトラックが保存されています`);

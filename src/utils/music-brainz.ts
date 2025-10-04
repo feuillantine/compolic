@@ -83,6 +83,29 @@ export const getArtistNameById = async (id: string): Promise<string> => {
 };
 
 /**
+ * MusicBrainzのアーティストIDからアーティスト詳細情報を取得する
+ * @param id アーティストID
+ * @returns アーティスト詳細情報 (name, sort-name)
+ */
+export const getArtistDetailsById = async (
+  id: string,
+): Promise<{ name: string; sortName: string }> => {
+  const lookupUrl = `https://musicbrainz.org/ws/2/artist/${id}?fmt=json`;
+  const response = await fetch(lookupUrl, {
+    headers: { 'User-Agent': USER_AGENT },
+  });
+  if (!response.ok) {
+    throw new Error(`アーティストの取得に失敗しました（ID: ${id}）: ${response.status}`);
+  }
+
+  const json = (await response.json()) as { name: string; 'sort-name': string };
+  return {
+    name: json.name ?? '',
+    sortName: json['sort-name'] ?? '',
+  };
+};
+
+/**
  * 1ページ分の指定アーティストのWorksを取得する
  * @param artistId アーティストID
  * @param limit 1ページあたりの取得件数

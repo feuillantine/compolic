@@ -1,0 +1,186 @@
+{
+  "name": "KOUTAPAI",
+  "sortName": "コウタパイ",
+  "tracks": [
+    {
+      "id": "29414c1f-5e9f-45d1-aebf-c8396b1ffad1",
+      "title": "MIN・MIN・MIN",
+      "artist": "SDN48",
+      "isrc": "JPPO01144956",
+      "releaseDate": "2011-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0fe89380-1b35-4da6-b848-6ced14c1284f",
+      "title": "バン!バン!!バンザイ!!!",
+      "artist": "TrySail",
+      "isrc": "JPU901702369",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/3NrrV3HPXdAc2kNGXWsbpj",
+      "isFallback": true
+    },
+    {
+      "id": "43816c91-a57e-4eb3-850b-546af2cb5d38",
+      "title": "It's All Right",
+      "artist": "小阪ちひろ",
+      "isrc": "JPPI01151140",
+      "releaseDate": "2011-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/11IfA2tncICscwnYJDoQL5",
+      "isFallback": true
+    },
+    {
+      "id": "ee09e46a-7a79-4a47-b741-c2c732a7e8ff",
+      "title": "モグラJAPAN！",
+      "artist": "タノシイチキュウ",
+      "isrc": "TCJPX2345734",
+      "releaseDate": "2023-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/4YYFp3h1SCP9Tq5pSptpF2",
+      "isFallback": true
+    },
+    {
+      "id": "af8dd73d-4e34-4f4a-83ff-2d3c9558e590",
+      "title": "Precious Nativity",
+      "artist": "水蓮寺ルカ",
+      "isrc": "JPPI01252700",
+      "releaseDate": "2012-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/5ycUWi7yzfHd1QaDb2XtVr",
+      "isFallback": true
+    },
+    {
+      "id": "f1a7840f-d3c7-472c-bbb2-589aeac9a585",
+      "title": "GSSP",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02210060",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/13lYIvvQRItjth6C6eV9zb",
+      "isFallback": true
+    },
+    {
+      "id": "1a1673f9-ea49-498b-91f9-2d66ea389fc6",
+      "title": "Overture",
+      "artist": "X21",
+      "isrc": "JPB601501635",
+      "releaseDate": "2015-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "11eaecf4-5f18-49a6-bbb2-2033ef0d47f6",
+      "title": "箱庭ボーダーライン",
+      "artist": "麻倉もも",
+      "isrc": "JPX401700045",
+      "releaseDate": "2017-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/4pDFEKzInanuKmZqH1q4PJ",
+      "isFallback": true
+    },
+    {
+      "id": "803801f6-737a-4370-8f54-402ecac81418",
+      "title": "Brand New Days Will Love You",
+      "artist": "JUJU",
+      "isrc": "JPU901401252",
+      "releaseDate": "2014-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/25uadXLlVGe3AP4jkLKcT9",
+      "isFallback": true
+    },
+    {
+      "id": "e507ed55-d5af-4c4e-8de4-c1d2aa99d85d",
+      "title": "ドラマティックラブ",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01314161",
+      "releaseDate": "2013-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/6witEJOLd8BfXApQfPhLnj",
+      "isFallback": true
+    },
+    {
+      "id": "30432de0-bbd0-4383-9c0c-b1f362612141",
+      "title": "Star☆Tripper",
+      "artist": "戸松遥",
+      "isrc": "JPX400900206",
+      "releaseDate": "2010-02-24",
+      "spotifyUrl": "https://open.spotify.com/track/4DsLDSbvAdL9hmCZrt0bZT",
+      "isFallback": true
+    },
+    {
+      "id": "019c6d43-bf6c-40fb-973e-14774b06001e",
+      "title": "After the Tears",
+      "artist": "雨宮天",
+      "isrc": "JPX401600070",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6tEdwU2vVk6vSSKPiPMExN",
+      "isFallback": true
+    },
+    {
+      "id": "877c11e3-acf3-4e2a-9b5e-299262dcc2b2",
+      "title": "IT'S YOU",
+      "artist": "Kylee",
+      "isrc": "JPN101000401",
+      "releaseDate": "2010-07-07",
+      "spotifyUrl": "https://open.spotify.com/track/4HgayPC9gNxqPMFmjufBnE",
+      "isFallback": true
+    },
+    {
+      "id": "ad15b577-71d4-4e0f-8ea1-a79356201ec4",
+      "title": "また明日",
+      "artist": "JUJU",
+      "isrc": "JPN381200545",
+      "releaseDate": "2012-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/4vb98BTu5B8cBbcFEDxPC3",
+      "isFallback": true
+    },
+    {
+      "id": "f8f5ee3e-473e-4de6-b3a8-2137ea2ea856",
+      "title": "Frozen Seafood",
+      "artist": "タノシイチキュウ",
+      "isrc": "TCJPX2345732",
+      "releaseDate": "2023-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/56h7huCEzacFsqxrIxFBqh",
+      "isFallback": true
+    },
+    {
+      "id": "1877f998-aa90-4674-8199-d98aa2bc38c0",
+      "title": "羽根輪舞",
+      "artist": "雨宮天",
+      "isrc": "JPX401600067",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/6f5mgoeFLsyZIn3K750keL",
+      "isFallback": true
+    },
+    {
+      "id": "8285cf7e-651f-4b0e-809b-35e625e7e437",
+      "title": "Twinkle Love",
+      "artist": "麻倉もも",
+      "isrc": "JPX402000007",
+      "releaseDate": "2020-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/57qYSKvK6hd9lhzjKv6I5P",
+      "isFallback": true
+    },
+    {
+      "id": "81c278c8-71aa-40d6-924f-c2c446ed60b5",
+      "title": "Naked Soldier",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01217503",
+      "releaseDate": "2012-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/6dv14FE66mrDiQEwp4MNpR",
+      "isFallback": true
+    },
+    {
+      "id": "925a8b04-fbf5-4937-b544-ff332fceb50d",
+      "title": "サングラスと打ち明け話",
+      "artist": "研究生",
+      "isrc": "JPN001300306",
+      "releaseDate": "2013-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/21DGX3UFiFcvDWWf3bnu5j",
+      "isFallback": true
+    },
+    {
+      "id": "9afe0316-cdd6-4e44-99b7-3a901199e999",
+      "title": "Stay Gold",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01114695",
+      "releaseDate": "2011-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/4WK1fSwqjQcCgKBQUtayt0",
+      "isFallback": true
+    }
+  ]
+}

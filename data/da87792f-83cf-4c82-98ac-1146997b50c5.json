@@ -1,0 +1,15 @@
+{
+  "name": "Yawaragi",
+  "sortName": "ヤワラギ",
+  "tracks": [
+    {
+      "id": "d10c2103-ea02-4f54-9193-f98486c488e3",
+      "title": "Chouchou our vacation！",
+      "artist": "アルシュシュ",
+      "isrc": "TCJPB2437436",
+      "releaseDate": "2024-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/6yBOHnoaOLia1ehTpXDXXE",
+      "isFallback": true
+    }
+  ]
+}

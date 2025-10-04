@@ -167,13 +167,13 @@ export const getTracksCommand = new Command('get-tracks')
       const artist = recordDetail['artist-credit']?.[0]?.name ?? '';
       const releaseDate = recordDetail['first-release-date'] ?? '';
 
-      // リリース日が当日以降の場合はスキップ
+      // リリース日が当日以降の場合はスキップ（Spotifyに楽曲がないため）
       if (releaseDate) {
         const today = new Date();
         today.setHours(0, 0, 0, 0);
         const release = new Date(releaseDate);
         if (release >= today) {
-          console.log(`スキップ（未リリース）： ${recording.title} (${releaseDate})`);
+          console.log(`リリース前のためスキップ： ${recording.title} (${releaseDate})`);
           continue;
         }
       }

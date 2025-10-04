@@ -59,7 +59,7 @@ jobs:
           go install github.com/suzuki-shunsuke/ghalint/cmd/ghalint@${{ env.GHALINT_VERSION }}
           cargo install --git https://github.com/zizmorcore/zizmor.git --rev "${{ env.ZIZMOR_VERSION }}"
           actionlint --version
-          ghalint --version
+          ghalint version
           zizmor --version
 
       - name: Run actionlint

@@ -129,15 +129,6 @@
       "isFallback": false
     },
     {
-      "id": "04aa347c-d15f-441b-bd5f-5c90886b7826",
-      "title": "ハートにＱ",
-      "artist": "みらくらぱーく!",
-      "isrc": "",
-      "releaseDate": "2025-10-01",
-      "spotifyUrl": "",
-      "isFallback": false
-    },
-    {
       "id": "69b6f1aa-fce2-4b54-9b05-b93ab09357ff",
       "title": "Hypernova",
       "artist": "永吉昴",
@@ -396,6 +387,15 @@
       "isrc": "TCJPB2454860",
       "releaseDate": "2024-09-07",
       "spotifyUrl": "https://open.spotify.com/track/19qhSZFkkTAZby8FFfAETg",
+      "isFallback": true
+    },
+    {
+      "id": "04aa347c-d15f-441b-bd5f-5c90886b7826",
+      "title": "ハートにＱ",
+      "artist": "みらくらぱーく!",
+      "isrc": "JPI102502243",
+      "releaseDate": "2025-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/69694VY6lHpDC77Xv2s34b",
       "isFallback": true
     }
   ]

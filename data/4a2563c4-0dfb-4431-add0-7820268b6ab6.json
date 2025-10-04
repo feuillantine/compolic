@@ -246,15 +246,6 @@
       "isFallback": true
     },
     {
-      "id": "9b7f0564-b541-4a55-93cc-d510d2755846",
-      "title": "ニャオシグニャル",
-      "artist": "みらくらぱーく!",
-      "isrc": "",
-      "releaseDate": "2025-10-01",
-      "spotifyUrl": "",
-      "isFallback": false
-    },
-    {
       "id": "3cbdd541-f3bd-4fcb-bd78-6f83d78e7c13",
       "title": "Take your hand",
       "artist": "アニスフィア・ウィン・パレッティア",
@@ -315,6 +306,15 @@
       "isrc": "TCJPR2238612",
       "releaseDate": "2022-03-17",
       "spotifyUrl": "https://open.spotify.com/track/234BadtJsKm4olPxx5TZin",
+      "isFallback": true
+    },
+    {
+      "id": "9b7f0564-b541-4a55-93cc-d510d2755846",
+      "title": "ニャオシグニャル",
+      "artist": "みらくらぱーく!",
+      "isrc": "JPI102502242",
+      "releaseDate": "2025-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/6xsHmsVFPfO2GpzDVfbvHB",
       "isFallback": true
     }
   ]

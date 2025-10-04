@@ -1,0 +1,76 @@
+name: GitHub Actions Lint
+
+on:
+  push:
+    paths:
+      - '.github/workflows/**'
+      - '.github/actions/**'
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+      - '.github/actions/**'
+
+concurrency:
+  group: gha-lint-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Lint GitHub Actions
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        shell: bash -euo pipefail {0}
+    env:
+      GOPATH: ${{ github.workspace }}/.go
+      CARGO_HOME: ${{ github.workspace }}/.cargo
+      ACTIONLINT_VERSION: 03d0035246f3e81f36aed592ffb4bebf33a03106 # v1.7.7
+      GHALINT_VERSION: 66d34148b73b8ea44bc19e72d44531e4cc028a4f # v1.5.3
+      ZIZMOR_VERSION: 03af241587ab470b23340e354be5682ba0850474 # v1.14.2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Add tool paths
+        run: |
+          echo "${GOPATH}/bin" >> "$GITHUB_PATH"
+          echo "${CARGO_HOME}/bin" >> "$GITHUB_PATH"
+
+      - name: Cache tools
+        id: cache-tools
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: |
+            ${{ env.GOPATH }}
+            ${{ env.CARGO_HOME }}
+          key: ${{ runner.os }}-tools-${{ hashFiles('.github/workflows/gh-actions-lint.yml') }}
+          restore-keys: ${{ runner.os }}-tools-
+
+      - name: Install tools
+        if: steps.cache-tools.outputs.cache-hit != 'true'
+        run: |
+          go install github.com/rhysd/actionlint/cmd/actionlint@${{ env.ACTIONLINT_VERSION }}
+          go install github.com/suzuki-shunsuke/ghalint/cmd/ghalint@${{ env.GHALINT_VERSION }}
+          cargo install --git https://github.com/zizmorcore/zizmor.git --rev "${{ env.ZIZMOR_VERSION }}"
+          actionlint --version
+          ghalint --version
+          zizmor --version
+
+      - name: Run actionlint
+        run: actionlint -color
+
+      - name: Run ghalint
+        if: always()
+        run: ghalint run && ghalint act
+        env:
+          GHALINT_LOG_COLOR: always
+
+      - name: Run zizmor
+        if: always()
+        run: zizmor .github --format github

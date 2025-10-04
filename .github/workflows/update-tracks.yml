@@ -2,7 +2,7 @@ name: Update Tracks
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,17 +11,10 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v5
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        run: npm ci
+      - name: Setup
+        uses: ./.github/actions/setup
 
       - name: Update tracks
         run: npm run start update-tracks
@@ -29,11 +22,6 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push changes
         run: |

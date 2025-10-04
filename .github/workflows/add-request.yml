@@ -1,0 +1,117 @@
+name: Add Request
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  add-request:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    if: >-
+      github.event.label.name == 'add-request' &&
+      github.event.sender.login == github.repository_owner
+    defaults:
+      run:
+        shell: bash -euo pipefail {0}
+    env:
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      ISSUE_USER: ${{ github.event.issue.user.login }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+    steps:
+      - name: Setup
+        uses: ./.github/actions/setup
+
+      - name: Extract composer list from issue body
+        id: extract-composer-list
+        run: |
+          ISSUE_BODY_FILE="issue_body.txt"
+          printf '%s' "$ISSUE_BODY" > "$ISSUE_BODY_FILE"
+          # Issue本文のリストをカンマ区切りに変換
+          COMPOSERS=$(sed -E 's/\r//g' "$ISSUE_BODY_FILE" \
+            | sed -E 's/^\s*([-*]|[0-9]+\.)\s+//' \
+            | sed -E 's/^\s+//; s/\s+$//' \
+            | grep -v '^$' \
+            | awk '!seen[$0]++' \
+            | paste -sd, - || true)
+
+          if [ -z "${COMPOSERS}" ]; then
+            echo 'Issue本文から作曲者名が抽出できませんでした。処理を終了します。'
+            exit 1
+          fi
+
+          echo "抽出結果: $COMPOSERS"
+          echo "composers=$COMPOSERS" >> "$GITHUB_OUTPUT"
+          if [ -n "$COMPOSERS" ]; then
+            echo "has_composers=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Get tracks
+        run: npm run start get-multiple-tracks -- --artists "$COMPOSERS"
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          COMPOSERS: ${{ steps.extract-composer-list.outputs.composers }}
+
+      - name: Detect changes
+        id: detect-changes
+        if: steps.extract-composer-list.outputs.has_composers == 'true'
+        run: |
+          if git diff --quiet --exit-code -- data; then
+            echo 'modified=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'modified=true' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Exit if no changes
+        if: steps.detect-changes.outputs.modified == 'false'
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "@$ISSUE_USER\nデータの追加はありませんでした。"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create branch
+        id: create-branch
+        if: steps.detect-changes.outputs.modified == 'true'
+        run: |
+          BRANCH_NAME="add-request-$ISSUE_NUMBER"
+          git checkout -b "$BRANCH_NAME"
+          echo "branch=$BRANCH_NAME" >> "$GITHUB_OUTPUT"
+
+      - name: Push changes
+        if: steps.detect-changes.outputs.modified == 'true'
+        run: |
+          git add data
+          git commit -m "Add tracks (issue #$ISSUE_NUMBER)"
+          git push origin "$BRANCH_NAME"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: ${{ steps.create-branch.outputs.branch }}
+
+      - name: Create Pull Request
+        id: create-pr
+        if: steps.detect-changes.outputs.modified == 'true'
+        run: |
+          TITLE="Add tracks (issue #$ISSUE_NUMBER)"
+          BODY="This PR adds tracks for: $COMPOSERS\n\nSource: issue #$ISSUE_NUMBER"
+          PR_URL=$(gh pr create --title "$TITLE" --body "$BODY" --head "$BRANCH_NAME" --base main)
+          printf 'pr_url=%s\n' "$PR_URL" >> "$GITHUB_OUTPUT"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMPOSERS: ${{ steps.extract-composer-list.outputs.composers }}
+          BRANCH_NAME: ${{ steps.create-branch.outputs.branch }}
+
+      - name: Assign PR reviewer and comment on issue
+        if: steps.detect-changes.outputs.modified == 'true'
+        run: |
+          gh pr edit "$PR_URL" --add-reviewer "$ISSUE_USER"
+          gh issue comment "$ISSUE_NUMBER" --body "Created PR: $PR_URL"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ steps.create-pr.outputs.pr_url }}

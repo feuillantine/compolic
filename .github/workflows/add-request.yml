@@ -12,7 +12,7 @@ permissions:
 jobs:
   add-request:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     if: >-
       github.event.label.name == 'add-request' &&
       github.event.sender.login == github.repository_owner

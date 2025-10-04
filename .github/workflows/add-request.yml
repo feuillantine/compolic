@@ -68,6 +68,7 @@ jobs:
         id: detect-changes
         if: steps.extract-composer-list.outputs.has_composers == 'true'
         run: |
+          git diff
           if ! git diff --quiet; then
             echo 'modified=true' >> "$GITHUB_OUTPUT"
           else

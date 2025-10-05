@@ -1,0 +1,348 @@
+{
+  "name": "宮入俊悟",
+  "sortName": "ミヤイリシュンゴ",
+  "tracks": [
+    {
+      "id": "6a7a50fc-fab8-4bd7-b8dd-7e5bdad0be08",
+      "title": "D.T.F",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPU2216835",
+      "releaseDate": "2022-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5cCIIJmetbN6hn1ZOAmvge",
+      "isFallback": true
+    },
+    {
+      "id": "3fe79729-c30f-4f59-b8b5-22a6134fcaf8",
+      "title": "星影パレード",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPS2231107",
+      "releaseDate": "2022-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/5YbRZllBXHeIZGIfa3UYuw",
+      "isFallback": true
+    },
+    {
+      "id": "5e9d79a5-2d24-446b-a13d-01282300c1d6",
+      "title": "gluttony",
+      "artist": "Scapegoat",
+      "isrc": "TCJPV2399206",
+      "releaseDate": "2023-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/4NqTyxEjaw35bUNTToJAkb",
+      "isFallback": true
+    },
+    {
+      "id": "eceac2f1-70da-48c4-8ec7-5b0aa095201a",
+      "title": "EcStAtIc LoVe",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPX2315165",
+      "releaseDate": "2023-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/6IJfbkmrtkpexNYtk3DDBs",
+      "isFallback": true
+    },
+    {
+      "id": "3720e252-303b-4114-9286-28a9780ff732",
+      "title": "abjectokyo.",
+      "artist": "NiA",
+      "isrc": "TCJPS2243492",
+      "releaseDate": "2021-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/62tXLftaPe8rS4PME8cHZa",
+      "isFallback": true
+    },
+    {
+      "id": "8ac47c09-e226-4acc-9162-4f74bc31a942",
+      "title": "Hello, NewMyWorld",
+      "artist": "モノクローン",
+      "isrc": "TCJPP2156471",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/5jSZlTrfZeh2DXW42VKK88",
+      "isFallback": true
+    },
+    {
+      "id": "78c9ff71-688a-431c-9d56-2b51bb8975f4",
+      "title": "Straydog",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPL2521860",
+      "releaseDate": "2022-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/4qpuggIFEqVzlYTbE8IcnV",
+      "isFallback": true
+    },
+    {
+      "id": "ae35f762-5870-4621-ae33-ce46799c2919",
+      "title": "純情カタストロフィ",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPP2184511",
+      "releaseDate": "2021-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/4852OYSONbwj7tGHWC67vn",
+      "isFallback": true
+    },
+    {
+      "id": "80ce298c-5733-4ac9-bafe-befa128a4a61",
+      "title": "Prologue",
+      "artist": "モノクローン",
+      "isrc": "TCJPQ2135598",
+      "releaseDate": "2021-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/29lH8KiN1HIhcsnYyFSUmk",
+      "isFallback": true
+    },
+    {
+      "id": "2ed30802-2d96-4743-99b4-03b918813449",
+      "title": "未解読信号",
+      "artist": "モノクローン",
+      "isrc": "TCJPO2105988",
+      "releaseDate": "2021-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/3TU58uLTchsN0PXn0nN4bB",
+      "isFallback": true
+    },
+    {
+      "id": "513fb4d3-82e6-4d50-ae1b-4bf8b426c28c",
+      "title": "system breaker",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPD2559198",
+      "releaseDate": "2025-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/7eGbX3YAqQcFj3IlqOSZNB",
+      "isFallback": true
+    },
+    {
+      "id": "a98f23d7-4750-44b7-8453-dff378c0d934",
+      "title": "EgOiStIc LoVe",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPO2188345",
+      "releaseDate": "2021-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/6wSZRn6umFLFXlvzKt3wsf",
+      "isFallback": true
+    },
+    {
+      "id": "4b32ad26-f452-4033-98e4-683e933b2f55",
+      "title": "bite mark",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPX2315169",
+      "releaseDate": "2023-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/1ysEEYJZ6kGKFGjWKyYBGI",
+      "isFallback": true
+    },
+    {
+      "id": "39ff5c7d-495d-40de-b6ea-ad1ab20b2b6a",
+      "title": "恋のカミサマ",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPU2392184",
+      "releaseDate": "2023-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/4WIWm1vi9p3D5XomN9RERO",
+      "isFallback": true
+    },
+    {
+      "id": "c597dca2-7dec-43d9-8a36-76a8a8ca4158",
+      "title": "So ぴえん My Life",
+      "artist": "クライセカイ",
+      "isrc": "TCJPB2459848",
+      "releaseDate": "2024-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/2bP0JWDQlxy5OVyLXmkjNH",
+      "isFallback": true
+    },
+    {
+      "id": "aad8deac-096e-489a-90ad-40bab576adcc",
+      "title": "imprisoned heart",
+      "artist": "クララ・マグラ",
+      "isrc": "TCJPC2437880",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/6efGXEkgPajgsuCxp9r5IT",
+      "isFallback": true
+    },
+    {
+      "id": "49d4140d-deb0-4ae3-9862-3f19d8910db2",
+      "title": "#安易なアンチにマジ賛辞w",
+      "artist": "モノクローン",
+      "isrc": "TCJPO2178659",
+      "releaseDate": "2021-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/36mnGdKdQSCucGcTynnDuH",
+      "isFallback": true
+    },
+    {
+      "id": "338810ed-336f-4b61-b1b4-b44e627eda03",
+      "title": "SEVENTEEN iCE",
+      "artist": "NiA",
+      "isrc": "TCJPS2243421",
+      "releaseDate": "2021-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/6VHZ7b0CaqxU9Nfv7ByyEc",
+      "isFallback": true
+    },
+    {
+      "id": "b9459a8e-6559-4bc6-bb24-bebd0ed65663",
+      "title": "IDOLlic INVASION",
+      "artist": "ラテラルアーク",
+      "isrc": "TCJPQ2102100",
+      "releaseDate": "2021-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/22eGIE1bJGwxmXMTQltM6s",
+      "isFallback": true
+    },
+    {
+      "id": "759c5470-5d6b-463f-bfe0-ead8988375cd",
+      "title": "恋情プリンセス",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPQ2153211",
+      "releaseDate": "2021-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/5phSPf1k4Wy2H2VzKHyazT",
+      "isFallback": true
+    },
+    {
+      "id": "1b417b03-a34b-467e-b412-5085091e1250",
+      "title": "FullVol.Speaker",
+      "artist": "ラテラルアーク",
+      "isrc": "TCJPQ2102073",
+      "releaseDate": "2021-10-10",
+      "spotifyUrl": "https://open.spotify.com/track/6EDFjGDGtuquW9y9qscgOV",
+      "isFallback": true
+    },
+    {
+      "id": "2ad907cd-bc10-4904-9a67-445a6bb7db97",
+      "title": "恋愛ラビリンス",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPO2167737",
+      "releaseDate": "2021-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/1XIr8DBJwkUldTesk9wRHE",
+      "isFallback": true
+    },
+    {
+      "id": "f4bcee33-a625-44f6-aa52-6ca959044495",
+      "title": "MetroidVania",
+      "artist": "シュレーディンガーの犬",
+      "isrc": "TCJPB2488531",
+      "releaseDate": "2024-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/2ycPnBNo3dv5EM4BEJF4Vi",
+      "isFallback": true
+    },
+    {
+      "id": "4a06a150-78f8-4914-bc4a-7594a6eb3b3b",
+      "title": "可愛い奴等",
+      "artist": "NiA",
+      "isrc": "TCJPS2243475",
+      "releaseDate": "2021-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/4pfMrNmsefD7ymuCiIqc8P",
+      "isFallback": true
+    },
+    {
+      "id": "375ff960-7ec4-4334-940d-6aba071722e0",
+      "title": "Afterglow",
+      "artist": "ラテラルアーク",
+      "isrc": "TCJPR2281610",
+      "releaseDate": "2022-05-04",
+      "spotifyUrl": "https://open.spotify.com/track/54z2eWFzGyDL9XktbORsdV",
+      "isFallback": true
+    },
+    {
+      "id": "d6819558-7977-4f58-aadb-e80cf0cd9fb0",
+      "title": "未完成ペネトレイト",
+      "artist": "Lila Gray",
+      "isrc": "TCJPO2149229",
+      "releaseDate": "2021-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/4W9Md7jtBmJimWtHPnuJrt",
+      "isFallback": true
+    },
+    {
+      "id": "eed895c4-703f-40e1-8e86-6151e1683c9e",
+      "title": "追憶フラグメント",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPP2120882",
+      "releaseDate": "2021-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/3dZdxFjrR7dl5s5O7OELZ8",
+      "isFallback": true
+    },
+    {
+      "id": "fefc3bab-43d8-413f-afae-3260a5709f24",
+      "title": "ミョーホントゥスケがはじまんないっ!!!",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPU2200715",
+      "releaseDate": "2022-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/5naFtRn9wg70HYPgz3WPZN",
+      "isFallback": true
+    },
+    {
+      "id": "a7493868-8bb5-42d1-92bc-f83d6b3c5eca",
+      "title": "加工してなにが悪い！",
+      "artist": "モノクローン",
+      "isrc": "TCJPO2105982",
+      "releaseDate": "2021-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/2mvxNz9bFyOjFekda1mqqW",
+      "isFallback": true
+    },
+    {
+      "id": "b231baca-a860-4231-8992-79fc83bb2c49",
+      "title": "BrandNewChaos",
+      "artist": "モノクローン",
+      "isrc": "TCJPJ2513761",
+      "releaseDate": "2022-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/57WEFaU9TUOBg7wrTHyru2",
+      "isFallback": true
+    },
+    {
+      "id": "8b16f3ee-3d2f-490a-97f0-d8e449680ee5",
+      "title": "君色ファンタジー",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPO2167732",
+      "releaseDate": "2021-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/7tEA4gjZA6Hd94117r5rlX",
+      "isFallback": true
+    },
+    {
+      "id": "7df527d9-ae40-4939-8f7e-e63195e2d1bd",
+      "title": "カクシゴト",
+      "artist": "悲撃のヒロイン症候群",
+      "isrc": "TCJPJ1941120",
+      "releaseDate": "2019-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/4MJhjDmlfWIMlejFcUYhBg",
+      "isFallback": true
+    },
+    {
+      "id": "443ed852-730b-4589-b184-851d5d57fffd",
+      "title": "Re:Production",
+      "artist": "モノクローン",
+      "isrc": "TCJPJ2513780",
+      "releaseDate": "2023-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/2acx6is2RSrnKSHmEwK8Ki",
+      "isFallback": true
+    },
+    {
+      "id": "9322265b-fb01-4b63-8731-f82e5d3550f1",
+      "title": "執着ディペンデンス",
+      "artist": "シンデレラ宣言！",
+      "isrc": "TCJPW2382701",
+      "releaseDate": "2023-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/6NzkgZKw3go1w6BY2f8OXH",
+      "isFallback": true
+    },
+    {
+      "id": "2082777d-dc42-49ed-bae4-084d6a2291fc",
+      "title": "obedient doll",
+      "artist": "クライセカイ",
+      "isrc": "TCJPC2410453",
+      "releaseDate": "2024-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/4FtsXTSYZ5nlvHKDMFxzIG",
+      "isFallback": true
+    },
+    {
+      "id": "6e9abe27-e411-4e2c-a1b8-b0ff5f036044",
+      "title": "肥大!自己愛!!無問題!!!",
+      "artist": "クララ・マグラ",
+      "isrc": "TCJPA2412330",
+      "releaseDate": "2024-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/3mP8pWd1dXH1xzJW6mKnF9",
+      "isFallback": true
+    },
+    {
+      "id": "ad01053c-56d7-40ff-bec0-61e18ea21357",
+      "title": "悲劇的狂詩曲",
+      "artist": "クライセカイ",
+      "isrc": "TCJPC2410462",
+      "releaseDate": "2024-10-07",
+      "spotifyUrl": "https://open.spotify.com/track/4MRWhzFHRpvDBvRVfvmGkp",
+      "isFallback": true
+    },
+    {
+      "id": "a6ce050f-0ea2-4e4b-85f9-5c06a620e3ac",
+      "title": "天才だからしょうがない!",
+      "artist": "モノクローン",
+      "isrc": "TCJPQ2135603",
+      "releaseDate": "2021-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/7nFePkG4p8ppfiUZroagvd",
+      "isFallback": true
+    }
+  ]
+}

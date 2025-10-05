@@ -1,0 +1,1167 @@
+{
+  "name": "まふまふ",
+  "sortName": "マフマフ",
+  "tracks": [
+    {
+      "id": "2886c6c4-8b4d-4953-b2aa-c62681f17474",
+      "title": "インソムニア",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600170",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/7aSEF3hungpwSlwYP3P6RF",
+      "isFallback": true
+    },
+    {
+      "id": "aac25bd0-8dd3-40f9-81c5-9679df2aa8d4",
+      "title": "君のくれたアステリズム",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901321",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2gSqRwrL88gEmjhUE5i8hQ",
+      "isFallback": true
+    },
+    {
+      "id": "7877b82d-8882-48c5-94aa-5271b6ef5899",
+      "title": "[Submerged city]",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403343",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/26E1v1RI8SAqtbmbDyqx7Q",
+      "isFallback": true
+    },
+    {
+      "id": "3a94ec7f-efbc-4c06-9e0b-d14845fb15ec",
+      "title": "Nectar",
+      "artist": "Albemuth",
+      "isrc": "JPY392301701",
+      "releaseDate": "2024-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/2tzKqWqIC7fsMhmBwOLO0k",
+      "isFallback": false
+    },
+    {
+      "id": "5dc94db2-0d8f-4919-915a-1ea850d93825",
+      "title": "リライトザサーガ",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901322",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6xJbLr5vVd37XMhwwXqxiQ",
+      "isFallback": true
+    },
+    {
+      "id": "a5f884a0-a817-4c6e-8a24-237b53bee466",
+      "title": "[Anonymous]",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701370",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5wbSzBlsaVbBoDQwMczw0K",
+      "isFallback": true
+    },
+    {
+      "id": "a3580b82-2946-44b0-b327-5f40051aba18",
+      "title": "君色々移り",
+      "artist": "田中秀和",
+      "isrc": "JPJ222201909",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/79exkSrMmbA6fMpOg1LFyy",
+      "isFallback": true
+    },
+    {
+      "id": "126085ff-f185-4cf0-9e76-db1fa48cdc87",
+      "title": "[Killing time]",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403327",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4ZoyYA7CZvk0HLntB5FAv3",
+      "isFallback": true
+    },
+    {
+      "id": "aa5b6916-6b27-482f-8a08-e37fbcdd4326",
+      "title": "クロスワードパズル",
+      "artist": "まふまふ",
+      "isrc": "JPJ222302734",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6Xy4AsEpgdMCoMcVinz2Ig",
+      "isFallback": true
+    },
+    {
+      "id": "4c9eb1d0-9b14-430c-87eb-05c22e101ef2",
+      "title": "ラストソング",
+      "artist": "不破湊",
+      "isrc": "JPY252100110",
+      "releaseDate": "2021-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1GigCnzrV2fGLQln8b46eM",
+      "isFallback": true
+    },
+    {
+      "id": "cc82331e-1e7b-4287-9d30-2efeba0b4580",
+      "title": "1・2・3",
+      "artist": "After the Rain",
+      "isrc": "JPU902200283",
+      "releaseDate": "2019-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/3OxFKgjyTGB3yAif6DvpaF",
+      "isFallback": true
+    },
+    {
+      "id": "f88cbae0-e0e6-4fc7-a211-962c8df2a670",
+      "title": "あさきゆめみし",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901329",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/4uHjAu7oYyAduTLRKLApVJ",
+      "isFallback": true
+    },
+    {
+      "id": "58a56192-8235-464b-880e-2b222d1aed66",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901336",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2uVd4eOMHNRcCRxXcDcUvV",
+      "isFallback": true
+    },
+    {
+      "id": "f0ab7d2d-7f93-411c-b491-8976e7294eb4",
+      "title": "とおせんぼう",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901338",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/7s3U16jgW0wkDtwGSaCCR8",
+      "isFallback": true
+    },
+    {
+      "id": "9fcd68b9-f8db-4b68-b606-7951f2006213",
+      "title": "ひともどき",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001572",
+      "releaseDate": "2020-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/3oHr4ib1LBV3tsKiwtoMAY",
+      "isFallback": true
+    },
+    {
+      "id": "58be280c-c769-4715-9974-93cbea011959",
+      "title": "サクリファイス",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901277",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6n82QNGxWNZvIHvWdDH8HT",
+      "isFallback": true
+    },
+    {
+      "id": "f59fe892-fdf7-4d3b-92f3-4a5a2e600754",
+      "title": "アンハッピーエンドワールド",
+      "artist": "直樹美紀",
+      "isrc": "JPPI01553120",
+      "releaseDate": "2015-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/0mcp027vgqwOfO0m23mMJY",
+      "isFallback": true
+    },
+    {
+      "id": "26e37f28-899e-415c-90da-74fa5bb38e9e",
+      "title": "ひともどき",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001572",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/3oHr4ib1LBV3tsKiwtoMAY",
+      "isFallback": true
+    },
+    {
+      "id": "161f43e2-5703-4837-9b57-56f6213d40dd",
+      "title": "ハザードシンボル (TV Size ver.)",
+      "artist": "遊遊",
+      "isrc": "JPVI02401509",
+      "releaseDate": "2024-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/05O4kq9WSurXpHnQ5tYiNP",
+      "isFallback": true
+    },
+    {
+      "id": "d4f295fe-dce3-4dc8-897a-f58ca5f13f1a",
+      "title": "セカイシックに少年少女",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600180",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5UmpDPxzqEFquqNTaDtUBP",
+      "isFallback": true
+    },
+    {
+      "id": "2731650b-8968-45af-88d5-7e84033aa572",
+      "title": "[Passphrase]",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403338",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1VkPuqqvT6esmgLiYiS1jl",
+      "isFallback": true
+    },
+    {
+      "id": "a874f298-21be-4815-805b-57192176dbc3",
+      "title": "エグゼキューション",
+      "artist": "まふまふ",
+      "isrc": "JPJ222202144",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4Eq2ozj3K5vEB1QJ4bsqVt",
+      "isFallback": true
+    },
+    {
+      "id": "bcd19ae6-01a5-4238-9a3f-a29805a26276",
+      "title": "アイスリープウェル",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600250",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/4XinQhHAgmaCtslwk00Tn6",
+      "isFallback": true
+    },
+    {
+      "id": "0ac42798-d034-49cf-84eb-c54550c3ba6d",
+      "title": "トロイア",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403328",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2p2gVr7y4f7QuRDDUrbb1a",
+      "isFallback": true
+    },
+    {
+      "id": "c41a3848-f7ed-4b02-8bbc-5a9787733e85",
+      "title": "夢のまた夢",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701350",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/3vpfKCaPKjwgatNMOIz0YD",
+      "isFallback": true
+    },
+    {
+      "id": "d87edcea-086c-4285-b807-a80538b1c648",
+      "title": "最果てのユニバース",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403333",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2EMquwmm7rcJHntm933oib",
+      "isFallback": true
+    },
+    {
+      "id": "e3776c88-a689-4899-918d-3de511a182df",
+      "title": "あやとり",
+      "artist": "Sou",
+      "isrc": "JPC231501393",
+      "releaseDate": "2015-12-02",
+      "spotifyUrl": "https://open.spotify.com/track/5Q9CkdB4gmHqSrKMiNU1Dc",
+      "isFallback": true
+    },
+    {
+      "id": "5de91b3c-dc9f-406f-850a-bf944a327078",
+      "title": "夜空のクレヨン",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001504",
+      "releaseDate": "2021-01-02",
+      "spotifyUrl": "https://open.spotify.com/track/7iba33aj5jYKvYvotH9mSn",
+      "isFallback": true
+    },
+    {
+      "id": "f97f79bc-683d-4cbb-944e-2c8004cc3fed",
+      "title": "ノンタイトル",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001400",
+      "releaseDate": "2021-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/2eccLnPQnVRTFHPuM0fXhh",
+      "isFallback": true
+    },
+    {
+      "id": "e46270d5-81c6-4075-a934-cea96daa76a8",
+      "title": "動かざること山の如し",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901320",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/60dtDNl7a9yCHXJdR2MKCY",
+      "isFallback": true
+    },
+    {
+      "id": "9d8351c7-c510-4fe4-878e-11ce76106833",
+      "title": "リア充になりたい",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001494",
+      "releaseDate": "2021-01-04",
+      "spotifyUrl": "https://open.spotify.com/track/4DNcPbqMkFjQTp7SlLwbV8",
+      "isFallback": true
+    },
+    {
+      "id": "b2e2006b-6ce2-48c4-b0d8-da01bdf56bb5",
+      "title": "ふたりぼっち",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701360",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/72XYZdy9o4mOc16fvlBXPj",
+      "isFallback": true
+    },
+    {
+      "id": "ebf2dd7f-348a-497f-8298-bef6b30f95ff",
+      "title": "ショパンと氷の白鍵",
+      "artist": "まふまふ",
+      "isrc": "JPC231700428",
+      "releaseDate": "2018-01-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "783bdd1b-bc49-4f22-81ad-8c6577dac29a",
+      "title": "おとといきやがれ",
+      "artist": "まふまふバンド",
+      "isrc": "JPJ222201904",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/7BiOYUvKR8ygE3iBqzvlvL",
+      "isFallback": true
+    },
+    {
+      "id": "76a4cc51-88f5-4983-b931-f5f001e7c03c",
+      "title": "イカサマダンス",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001592",
+      "releaseDate": "2020-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/4uMgZOXH5iKvLJWgB6uXtw",
+      "isFallback": true
+    },
+    {
+      "id": "b767fede-c060-413c-8f36-40fce6337573",
+      "title": "おとといきやがれ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222101655",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6Bn9pYxptt0rUcqCKbIfzN",
+      "isFallback": true
+    },
+    {
+      "id": "8035e7e8-5d12-4ff1-a083-974ec300a067",
+      "title": "一生不幸でかまわない",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403052",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/7Gat04DBUOMaph8PwU0rRM",
+      "isFallback": true
+    },
+    {
+      "id": "4366614a-b5c5-438b-b535-05a81dfb2955",
+      "title": "カウントダウン",
+      "artist": "NormCore",
+      "isrc": "JPF501805036",
+      "releaseDate": "2018-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "673fb123-2c26-497f-9fff-c8a4c52bce53",
+      "title": "すーぱーぬこになりたい",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701440",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/3UgzqOCliK1WKUHYEef1qe",
+      "isFallback": true
+    },
+    {
+      "id": "c69dca33-57e6-4aa1-92ca-14d570f41867",
+      "title": "ベルセルク",
+      "artist": "After the Rain",
+      "isrc": "",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4c2de6de-f30a-46d9-a341-b2422a6c425c",
+      "title": "オーダーメイド",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403284",
+      "releaseDate": "2024-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/7KTEGXqMa4dyf9Byib1Xcl",
+      "isFallback": true
+    },
+    {
+      "id": "38718775-93b6-443a-8d54-9032f3bfa1da",
+      "title": "[Spica]",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600190",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/3QCPTYFoqUUUVi4B6y7I1E",
+      "isFallback": true
+    },
+    {
+      "id": "6c6489bc-574b-445e-9aa2-3418c4aef017",
+      "title": "夕暮れ蝉日記",
+      "artist": "まふまふ",
+      "isrc": "JPC231300466",
+      "releaseDate": "2012-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/5oMiIotu9YTiQup9KN2QKo",
+      "isFallback": true
+    },
+    {
+      "id": "eab35c8c-5a42-4637-816c-4421f337f85f",
+      "title": "ウィッチハント・アンドゥ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403332",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2oqRZ32D05kfFcxdWAjAVj",
+      "isFallback": true
+    },
+    {
+      "id": "756f4c7e-6be3-4131-98b9-9d267ecf5f82",
+      "title": "わすれられんぼ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700530",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/7bNs2khzrH0bE3xxmfiQ7W",
+      "isFallback": true
+    },
+    {
+      "id": "edf6b430-82c1-4b30-9524-37510d1f6b84",
+      "title": "[Nexus]",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701310",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/6tBKh6BCp48TBSZb4Cfkzj",
+      "isFallback": true
+    },
+    {
+      "id": "e79adf33-d88e-4c83-9219-2a5dd437bddf",
+      "title": "カラスとうさぎ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403330",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2pebVODC42X1Vg5HykLXY5",
+      "isFallback": true
+    },
+    {
+      "id": "e9c2171f-954f-4146-a330-f7c05e3a4ff1",
+      "title": "傀儡の心臓",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901324",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/4XlKcCiCYKRPrlDriPPF7w",
+      "isFallback": true
+    },
+    {
+      "id": "d87cb5f7-deec-4f32-946a-b8eb0c396707",
+      "title": "二千五百万分の一",
+      "artist": "まふまふ",
+      "isrc": "JPJ222201852",
+      "releaseDate": "2022-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/4DbIulyjvPtJm3PIWafYqI",
+      "isFallback": true
+    },
+    {
+      "id": "b2a828ec-cde5-43b7-b080-75d231a362ec",
+      "title": "嘘ラック",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403063",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4gQdlXG3IK5CiF55RUY3SE",
+      "isFallback": true
+    },
+    {
+      "id": "210346b9-4202-4212-81dd-905356ead5d7",
+      "title": "フューリー",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701400",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/1MbPfu49HyYtndjaFBmHA1",
+      "isFallback": true
+    },
+    {
+      "id": "4180eb25-8d6f-4284-ab26-de4674f7ba90",
+      "title": "すーぱーぬこになれんかった",
+      "artist": "まふまふ",
+      "isrc": "JPC231900129",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/16UIKx3sHzQDwCFd7KxkzT",
+      "isFallback": true
+    },
+    {
+      "id": "7dc6c3cb-d54a-4289-a0bd-285b1e53b29a",
+      "title": "[Lycoris]",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701450",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/6WN5ENwaDxaDLssfMyTqXT",
+      "isFallback": true
+    },
+    {
+      "id": "74937a99-3aac-44d3-b338-b6afa857637a",
+      "title": "最終宣告",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001415",
+      "releaseDate": "2020-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/13tS3wK5j8phrZpjp0lw1Q",
+      "isFallback": true
+    },
+    {
+      "id": "eac7d959-f76f-42ba-bdfe-5b6b30024676",
+      "title": "傾国",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700520",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1BYlzt0vF8wCOJcWqHsdKL",
+      "isFallback": true
+    },
+    {
+      "id": "d0509c75-ac7a-45cc-aacd-58a4a575b982",
+      "title": "Diamond City Lights",
+      "artist": "Pomu Rainpuff",
+      "isrc": "JPY252100028",
+      "releaseDate": "2021-05-16",
+      "spotifyUrl": "https://open.spotify.com/track/5PnGxfIojGy6ONxtZ5SBfE",
+      "isFallback": true
+    },
+    {
+      "id": "e127ba9e-9fc3-497c-844c-a73c8658c616",
+      "title": "[Impermanence of all things]",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403334",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/7HCiLG6fMfaGCwyGpAWCfI",
+      "isFallback": true
+    },
+    {
+      "id": "e0d5b8c7-e55e-4856-af32-a139f75651c6",
+      "title": "ラットキング",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403326",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6dFjbuOruTfntexWGukBRU",
+      "isFallback": true
+    },
+    {
+      "id": "c382a4cd-5cdc-44ef-8d7c-1389154c37b9",
+      "title": "さえずり",
+      "artist": "After the Rain",
+      "isrc": "",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fcd390f5-8640-473c-9bc6-4e2401dd6049",
+      "title": "マルファンクション",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901317",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2eZ8lojVQ9GEgWVxYS3qtw",
+      "isFallback": true
+    },
+    {
+      "id": "d53f57fa-df09-4341-a8ba-c768e9faa17c",
+      "title": "チョコレイトと秘密のレシピ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600230",
+      "releaseDate": "2016-02-03",
+      "spotifyUrl": "https://open.spotify.com/track/40Efj70DTyfBsoky9xt6Bq",
+      "isFallback": true
+    },
+    {
+      "id": "5a2d5be1-6326-419b-a490-8ed90797e0c0",
+      "title": "バニーボイラー",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403336",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5hAOzU8W1DuYJFWGNa6weI",
+      "isFallback": true
+    },
+    {
+      "id": "1e20e741-5383-45ec-8ae8-1758f45470e6",
+      "title": "それは恋の終わり",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901327",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3c4I2kgV8w46v1eVvbACto",
+      "isFallback": true
+    },
+    {
+      "id": "507f7cad-c7f1-44c7-90a9-1c718e36d622",
+      "title": "ネバーエンディングリバーシ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600240",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/3uEZbPXHp4wn7DEnnckJrT",
+      "isFallback": true
+    },
+    {
+      "id": "0bfb5376-e517-4032-9478-f713a0438085",
+      "title": "がらくたの作りかた",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600150",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/7cMdgb7BQB59w32cQsAdeG",
+      "isFallback": true
+    },
+    {
+      "id": "32df9c44-9c14-4561-a96b-89d787c293da",
+      "title": "最適な人の殺めかた",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700470",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1gePiQL87je3lKCmNFOhXm",
+      "isFallback": true
+    },
+    {
+      "id": "b2d1cabc-39e6-4ec6-bbb7-6f4c924e1264",
+      "title": "アンチクロックワイズ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700460",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1L3KWynF3TREi4KXDj9wc3",
+      "isFallback": true
+    },
+    {
+      "id": "f881d744-4989-49ea-9c57-42b2ff588ff6",
+      "title": "アートを科学する",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901326",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/7ItW2eNYj52TVzyiR2F7Ci",
+      "isFallback": true
+    },
+    {
+      "id": "b6a24b4c-6487-4896-9c20-d96b29fd39e8",
+      "title": "アルターエゴ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001503",
+      "releaseDate": "2021-01-03",
+      "spotifyUrl": "https://open.spotify.com/track/4yjlIMTOz3zgGuGjZdhVvu",
+      "isFallback": true
+    },
+    {
+      "id": "50d7ae5c-c292-4302-8657-0a2cb7506d14",
+      "title": "グッドスリープコンソール",
+      "artist": "まふまふ",
+      "isrc": "",
+      "releaseDate": "2013-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8e8e3fc0-bd98-4705-ac48-ce6cb19ce4bc",
+      "title": "君氏危うくも近うよれ",
+      "artist": "A応P",
+      "isrc": "TCJPO2159982",
+      "releaseDate": "2017-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/2efExetXDEdf9r6trDzXX1",
+      "isFallback": true
+    },
+    {
+      "id": "207d82b1-b9f5-4b37-b026-46fa881a4229",
+      "title": "[Aster]",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600310",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/4cpGdcTd6tTsMFi8QaLbaD",
+      "isFallback": true
+    },
+    {
+      "id": "7bebe885-d998-4938-b215-1bb7fa354883",
+      "title": "アンダーコントロール",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403335",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1iSOBMx2HdSjMdS2Y6FhEJ",
+      "isFallback": true
+    },
+    {
+      "id": "7a0c5fd5-c106-4271-98d9-e1d625aa228f",
+      "title": "ユウレイ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001594",
+      "releaseDate": "2021-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/53NmkAgY2wHw2dw9wvWumu",
+      "isFallback": true
+    },
+    {
+      "id": "e30705c5-c2fc-4cda-8993-67fb4fae773f",
+      "title": "わすれもの",
+      "artist": "After the Rain",
+      "isrc": "",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f27eec46-cbf2-4459-92cc-22f9cdc3e83c",
+      "title": "人類みなセンパイ！",
+      "artist": "アズマ リム",
+      "isrc": "TCJPI1806150",
+      "releaseDate": "2018-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/6AY4nLFxAqIBzH8ksUEbib",
+      "isFallback": false
+    },
+    {
+      "id": "1feaff24-a614-4de2-91ca-ace0829a7cf4",
+      "title": "GAMERS!",
+      "artist": "天道花憐",
+      "isrc": "JPPI01751900",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/1K5olFY5qHfUvk2FbbJivc",
+      "isFallback": true
+    },
+    {
+      "id": "2c6efb31-927d-482b-8f73-0fdc391354dc",
+      "title": "盲目少女とグリザイユ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600120",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/4ws9tCM35JMVGc7obmurZc",
+      "isFallback": true
+    },
+    {
+      "id": "cb7ec781-f8ac-4fda-805f-20834f50a2e1",
+      "title": "負け犬ドライブ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700510",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/5BxSfdyZGwKbnX4ssRJjli",
+      "isFallback": true
+    },
+    {
+      "id": "d8bc8b3d-630b-4563-aaed-ebf31376a17d",
+      "title": "悔やむと書いてミライ",
+      "artist": "25時、ナイトコードで。",
+      "isrc": "JPX302134210",
+      "releaseDate": "2021-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/3Ic8LWEJqtJ7XrAylWHosN",
+      "isFallback": true
+    },
+    {
+      "id": "d0d37098-87db-4cb9-8202-4255d4767732",
+      "title": "忍びのすゝめ",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901315",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/5bFCGjgkxi35698w17lL4a",
+      "isFallback": true
+    },
+    {
+      "id": "6aca1393-a050-4194-8ae4-1cf10d0e7c81",
+      "title": "我ら令和のかえるちゃん！",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02227302",
+      "releaseDate": "2022-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/4aUoX9z5DpOLYK6xthU6eh",
+      "isFallback": true
+    },
+    {
+      "id": "1e61da90-27d5-4824-8dbf-049c33b4f57c",
+      "title": "空腹",
+      "artist": "まふまふ",
+      "isrc": "JPJ222101673",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4ozMOh5Y9gA8BjYWGUbQlO",
+      "isFallback": true
+    },
+    {
+      "id": "9720ab80-e724-4f27-8778-5d76d8d34255",
+      "title": "青空のつくりかた",
+      "artist": "情報処理部",
+      "isrc": "JPPI01654350",
+      "releaseDate": "2017-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/5n2j3TiifAeBM3tILcUFSH",
+      "isFallback": true
+    },
+    {
+      "id": "dbe18fc2-341c-4e4a-8baf-8d4903962c98",
+      "title": "終点",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701460",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5xg3CiTd4X3OtCWEOk1AOn",
+      "isFallback": true
+    },
+    {
+      "id": "0d403d2f-895b-450f-b33c-031488012be8",
+      "title": "恋と微炭酸ソーダ",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701420",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/7Gow6D8yHPmUdMRZ0QGgsw",
+      "isFallback": true
+    },
+    {
+      "id": "2cfa3932-cb10-49cd-8e38-5f046a77ec27",
+      "title": "脱落人生へようこそ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700480",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1mNhOo9QJVderld2XULvvN",
+      "isFallback": true
+    },
+    {
+      "id": "dad39155-040f-4e6c-b5a1-2436b739a877",
+      "title": "曼珠沙華",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901323",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/4Nih36tvTHlAGHkuuLmrVE",
+      "isFallback": true
+    },
+    {
+      "id": "17abe482-1dc0-4043-87bb-fa1d2583311b",
+      "title": "解読不能",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700500",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1XbazeyVi8RmvT0ZIqMB6v",
+      "isFallback": true
+    },
+    {
+      "id": "d6a71f6f-1df5-4513-996f-bbe885476b02",
+      "title": "年に一夜の恋模様",
+      "artist": "浦島坂田船",
+      "isrc": "JPPI01801220",
+      "releaseDate": "2018-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/7Mg8WxH9CBDc7R8TvlLbvv",
+      "isFallback": true
+    },
+    {
+      "id": "c7d90f68-e49e-4960-b042-60a95b61e11c",
+      "title": "携帯恋話",
+      "artist": "25時、ナイトコードで。",
+      "isrc": "JPX302134230",
+      "releaseDate": "2021-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/6ZHHhk2EjN9ODilVIYTv87",
+      "isFallback": true
+    },
+    {
+      "id": "c1d3d75d-25b2-48af-a72a-9d99f0577227",
+      "title": "逃非行",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403340",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6LHgi4s1TPpUxsPw7Kc4g4",
+      "isFallback": true
+    },
+    {
+      "id": "bd2490d6-4cf5-47c2-983d-288dba789d90",
+      "title": "相対性レプリカ (Album Version)",
+      "artist": "みみめめMIMI",
+      "isrc": "JPJ221500926",
+      "releaseDate": "2016-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/0QmWF1B1c8FcPDyfB13Liy",
+      "isFallback": true
+    },
+    {
+      "id": "ec2fe283-9006-496d-9097-ee5dbbcf2279",
+      "title": "神様の遺伝子",
+      "artist": "まふまふ",
+      "isrc": "JPJ222101751",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2w1Q55WZi7RtaOFoTBvHds",
+      "isFallback": true
+    },
+    {
+      "id": "b567dd00-f306-40d4-8e3e-6b5ab2011355",
+      "title": "天宿り",
+      "artist": "After the Rain",
+      "isrc": "",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f3244e20-a585-4506-9cfa-8f37346a3df4",
+      "title": "生まれた意味などなかった。",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901325",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/5ZowILISwYOy1nCJuWjyUm",
+      "isFallback": true
+    },
+    {
+      "id": "611f92f3-91cf-48b0-9bf6-91f5b4ce38a6",
+      "title": "鏡花水月",
+      "artist": "宇都圭輝",
+      "isrc": "JPJ222201913",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/11THVeyorBWgpgGtfmmnZ4",
+      "isFallback": true
+    },
+    {
+      "id": "aa72590c-a1b9-4349-a57d-28632b3296b5",
+      "title": "桜日和とタイムマシン",
+      "artist": "Ado",
+      "isrc": "JPPO02404540",
+      "releaseDate": "2024-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY",
+      "isFallback": true
+    },
+    {
+      "id": "6a7c1885-a13e-4eae-923b-1eebcbaa2589",
+      "title": "禁じられた果実",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403331",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/3Ro1apm3Tg4fmI3fWd3b2m",
+      "isFallback": true
+    },
+    {
+      "id": "8bbfa338-4d8f-43c1-b18e-257148e9d05b",
+      "title": "悪魔の証明",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701410",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/4ToSlGlIMxPRRckp28qoTg",
+      "isFallback": true
+    },
+    {
+      "id": "a9482e85-b8e1-4a3f-a036-09bed8fd5993",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701330",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/4iEckG0U7V7DoUspINX4ZZ",
+      "isFallback": true
+    },
+    {
+      "id": "f6b61605-8353-41c0-a16f-d9bae6d894f7",
+      "title": "輪廻転生",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701320",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/6QEWE1f7FIh5LooQv4ptpm",
+      "isFallback": true
+    },
+    {
+      "id": "f00eb80e-ca30-4f7a-98d3-2096b1c26795",
+      "title": "百鬼夜行",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001569",
+      "releaseDate": "2020-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/35I3ODP2DEkBOMCjqEXPaI",
+      "isFallback": true
+    },
+    {
+      "id": "0ef8cee2-7533-44ee-8b8a-c1a17c7f70bc",
+      "title": "暗い微睡みの呼ぶほうへ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222201873",
+      "releaseDate": "2022-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/3NJ1IbICLee0H0cgn8Bm6n",
+      "isFallback": true
+    },
+    {
+      "id": "5e172b2f-2ef3-4b7d-b435-5f0421635ed7",
+      "title": "女の子になりたい",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901319",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/5jvzrzQdRKNUSH2BlWAen6",
+      "isFallback": true
+    },
+    {
+      "id": "4858af35-1e02-4d35-9ed1-0c9cc89aa095",
+      "title": "常夜の国の遊びかた",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701430",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/6C2c7lLR7HhBc99XBTb5gs",
+      "isFallback": true
+    },
+    {
+      "id": "551b3356-0b77-4907-8a43-e5fbf5fa41fe",
+      "title": "成れの果てのグリフ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403329",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/1xD4l8VBCRAtAoxSyWcxPP",
+      "isFallback": true
+    },
+    {
+      "id": "09293f4f-3885-46fd-b68a-e9ad5d9ae92b",
+      "title": "禁忌と月明かり",
+      "artist": "工藤静香",
+      "isrc": "JPPC01701723",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/06Ld7GDb2K31wriCN54irO",
+      "isFallback": true
+    },
+    {
+      "id": "13c84d8b-78e5-4916-b695-2ab1df51268c",
+      "title": "彗星列車のベルが鳴る",
+      "artist": "After the Rain",
+      "isrc": "JPPI01700490",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/3mYS8tKWblMLseFznH0j2q",
+      "isFallback": true
+    },
+    {
+      "id": "99b1e901-7e2c-4f2f-893e-8e7029d1690c",
+      "title": "罰ゲーム",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701390",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/71ZEuYwaMk52t4EwZRVULM",
+      "isFallback": true
+    },
+    {
+      "id": "8f0f6f96-d23b-47fa-b0c1-61303c105c8a",
+      "title": "水彩銀河のクロニクル",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701380",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/1jQ1OdYpNjFiu5EjGxHgkh",
+      "isFallback": true
+    },
+    {
+      "id": "cb2c1ade-21ba-49f1-8d50-c482609da882",
+      "title": "廃墟の国のアリス",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901339",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3AnZYQ3mYtMzMfzq3beBG8",
+      "isFallback": true
+    },
+    {
+      "id": "68ace0e7-ad6b-450a-9a2c-ac7af0dcdbed",
+      "title": "神様の言うとおり",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403339",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/2G6xclKckYSqO20g90XprT",
+      "isFallback": true
+    },
+    {
+      "id": "4b4e8f76-e2a5-43ba-8db1-d468f2dc753b",
+      "title": "赤い風船",
+      "artist": "まふまふ",
+      "isrc": "JPJ222001550",
+      "releaseDate": "2021-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2xa2RlIYtlTn8V1DMa7HsN",
+      "isFallback": true
+    },
+    {
+      "id": "c8ee200c-1c6e-4fe5-a60a-09f2748ba5a0",
+      "title": "忘れていいよ",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403342",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/5YHpI2lDRCONHEsd0D74tn",
+      "isFallback": true
+    },
+    {
+      "id": "ab14c6ef-be4f-440a-9c4a-fd1a067c2c52",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "isrc": "JPPO02105119",
+      "releaseDate": "2022-01-17",
+      "spotifyUrl": "https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB",
+      "isFallback": true
+    },
+    {
+      "id": "2a35ee43-fcd8-4430-bd06-b10f84b5b743",
+      "title": "音楽を恨んでいる",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403337",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/4xULnReni5BdH3jmXNMJXY",
+      "isFallback": true
+    },
+    {
+      "id": "84687d90-19d1-47f9-b649-f67f9f6be9f4",
+      "title": "栞",
+      "artist": "まふまふ",
+      "isrc": "JPJ222201871",
+      "releaseDate": "2022-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/01uB7QYrrhWlVX4xxbnQyC",
+      "isFallback": true
+    },
+    {
+      "id": "ba811917-df79-4c46-a1b2-efb0e77cdc65",
+      "title": "夢花火",
+      "artist": "まふまふ",
+      "isrc": "",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e605eb4e-7a9c-4983-b8eb-ac3a2e80bd9c",
+      "title": "桜花ニ月夜ト袖シグレ",
+      "artist": "After the Rain",
+      "isrc": "JPPI01600110",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/2nUIMad1t3ajPq4I8CstiX",
+      "isFallback": true
+    },
+    {
+      "id": "91494282-86ce-4347-a904-7a1255e276c3",
+      "title": "朧月",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901337",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/3DTmhcVa4roEiG0212V8cD",
+      "isFallback": true
+    },
+    {
+      "id": "0f7b84dc-27d5-4508-9cb4-b1ce4969e1bb",
+      "title": "眠れる森のシンデレラ",
+      "artist": "まふまふ",
+      "isrc": "JPPI01701340",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5LS1ApH6q8KW4ghVoH5OQW",
+      "isFallback": true
+    },
+    {
+      "id": "38902ab7-35b6-4589-a90a-427e69098b85",
+      "title": "待ちぼうけの彼方",
+      "artist": "After the Rain",
+      "isrc": "",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "43650721-5537-496e-99fa-a5e05dd96086",
+      "title": "心恋花火",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403183",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0alAOwvXPeuHWPINCuGprS",
+      "isFallback": true
+    },
+    {
+      "id": "92edb7df-3f9a-4d73-9be0-50e7f1bb9725",
+      "title": "青春エレジーと飛行機雲",
+      "artist": "櫟井唯",
+      "isrc": "JPPI01750170",
+      "releaseDate": "2017-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/2EB0nsRA0OUwVUn9lLsWQ9",
+      "isFallback": true
+    },
+    {
+      "id": "1948c136-1e70-4927-90fe-92b86d2e81cc",
+      "title": "失意のエチュード",
+      "artist": "まふまふ",
+      "isrc": "JPJ222403341",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/63XobPcfKUSIP0zaNp74aB",
+      "isFallback": true
+    },
+    {
+      "id": "7d14223d-a720-46d1-9bbd-9cf39999450c",
+      "title": "自壊プログラム",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901316",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/1jWtKk9dNu8OeQyk8BLrR1",
+      "isFallback": true
+    },
+    {
+      "id": "86b19a5c-6193-4937-8f6e-b2474fe4f994",
+      "title": "拝啓、桜舞い散るこの日に",
+      "artist": "まふまふ",
+      "isrc": "JPJ221901328",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2CyMagLD3SbNSEMiXUcC7K",
+      "isFallback": true
+    },
+    {
+      "id": "a2bcd625-9a8a-4331-8ae0-83a21f0265ab",
+      "title": "林檎花火とソーダの海",
+      "artist": "150P",
+      "isrc": "JPJ222201910",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "https://open.spotify.com/track/3caylX9SkZ9wnOHPWORW8z",
+      "isFallback": true
+    }
+  ]
+}

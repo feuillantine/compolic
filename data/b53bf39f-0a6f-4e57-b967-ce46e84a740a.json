@@ -415,6 +415,15 @@
       "releaseDate": "2024-10-27",
       "spotifyUrl": "https://open.spotify.com/track/1Linq3p5JTRzNkJFfsZxV8",
       "isFallback": true
+    },
+    {
+      "id": "c6751c2d-affb-4199-a332-4a637c0a0936",
+      "title": "イニミニまいご",
+      "artist": "大神ミオ",
+      "isrc": "JPV752511091",
+      "releaseDate": "2025-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/2zWDtONDZzxqqdLzCD0jvv",
+      "isFallback": false
     }
   ]
 }

@@ -106,7 +106,7 @@ jobs:
         if: steps.detect-changes.outputs.modified == 'true'
         run: |
           TITLE="楽曲データ追加（issue #$ISSUE_NUMBER）"
-          BODY=$(printf "対象作曲者: %s\n\n元Issue: #%s" "$COMPOSERS" "$ISSUE_NUMBER")
+          BODY=$(printf "対象作曲者: %s\n\nCloses #%s" "$COMPOSERS" "$ISSUE_NUMBER")
           PR_URL=$(gh pr create --title "$TITLE" --body "$BODY" --head "$BRANCH_NAME" --base main)
           printf 'pr_url=%s\n' "$PR_URL" >> "$GITHUB_OUTPUT"
         env:

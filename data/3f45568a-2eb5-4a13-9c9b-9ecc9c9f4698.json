@@ -1,7 +1,9 @@
 {
   "name": "百石元",
   "sortName": "ヒャッコクハジメ",
-  "otherNames": ["Frying-Pan"],
+  "otherNames": [
+    "Frying-Pan"
+  ],
   "tracks": [
     {
       "id": "e21d7054-4e58-496f-ba1a-93f3166ca12b",

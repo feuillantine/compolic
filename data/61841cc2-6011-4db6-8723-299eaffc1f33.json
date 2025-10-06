@@ -1,7 +1,9 @@
 {
   "name": "TOKOTOKO",
   "sortName": "トコトコ",
-  "otherNames": ["西沢さんP"],
+  "otherNames": [
+    "西沢さんP"
+  ],
   "tracks": [
     {
       "id": "81b837bd-7afd-4fcf-9165-10e3e8b49fe4",

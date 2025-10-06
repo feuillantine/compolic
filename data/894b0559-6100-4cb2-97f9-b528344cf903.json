@@ -1,7 +1,10 @@
 {
   "name": "桃井はるこ",
   "sortName": "モモイハルコ",
-  "otherNames": ["UNDER17", "中原小麦"],
+  "otherNames": [
+    "UNDER17",
+    "中原小麦"
+  ],
   "tracks": [
     {
       "id": "579b9a05-4a82-470a-9077-4f2116ed59ec",

@@ -1,7 +1,9 @@
 {
   "name": "矢鴇つかさ",
   "sortName": "ヤトキツカサ",
-  "otherNames": ["Sound Online"],
+  "otherNames": [
+    "Sound Online"
+  ],
   "tracks": [
     {
       "id": "d3fdfaef-5a78-4f43-9c8e-2a2cd8ddb1fa",

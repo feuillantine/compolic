@@ -1,7 +1,9 @@
 {
   "name": "ひじり",
   "sortName": "ヒジリ",
-  "otherNames": ["YO1YO"],
+  "otherNames": [
+    "YO1YO"
+  ],
   "tracks": [
     {
       "id": "cca71e24-93c9-4577-932f-6f9b532b5120",

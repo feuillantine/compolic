@@ -1,7 +1,9 @@
 {
   "name": "橋咲透",
   "sortName": "ハシザキトオル",
-  "otherNames": ["solfa"],
+  "otherNames": [
+    "solfa"
+  ],
   "tracks": [
     {
       "id": "fac4d195-fd9e-4797-8392-c3ba92d0fc52",

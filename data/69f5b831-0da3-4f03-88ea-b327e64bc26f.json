@@ -298,6 +298,15 @@
       "releaseDate": "2022-04-24",
       "spotifyUrl": "https://open.spotify.com/track/6qhLnbOidgc4Eaevh7phyc",
       "isFallback": true
+    },
+    {
+      "id": "7810181d-43ca-45c3-bd91-eeee901ef571",
+      "title": "スイート＆ストロベリー",
+      "artist": "U-ske",
+      "isrc": "",
+      "releaseDate": "2015-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

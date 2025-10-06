@@ -7,8 +7,8 @@ export interface Config {
   SPOTIFY_CLIENT_ID?: string;
   SPOTIFY_CLIENT_SECRET?: string;
   SPOTIFY_REFRESH_TOKEN?: string;
-  SPOTIFY_PLAYLIST_ID_A?: string;
-  SPOTIFY_PLAYLIST_ID_B?: string;
+  SPOTIFY_MAIN_PLAYLIST_ID?: string;
+  SPOTIFY_SUB_PLAYLIST_ID?: string;
 }
 
 export function loadConfig(): Config {
@@ -16,8 +16,8 @@ export function loadConfig(): Config {
     SPOTIFY_CLIENT_ID: process.env.SPOTIFY_CLIENT_ID,
     SPOTIFY_CLIENT_SECRET: process.env.SPOTIFY_CLIENT_SECRET,
     SPOTIFY_REFRESH_TOKEN: process.env.SPOTIFY_REFRESH_TOKEN,
-    SPOTIFY_PLAYLIST_ID_A: process.env.SPOTIFY_PLAYLIST_ID_A,
-    SPOTIFY_PLAYLIST_ID_B: process.env.SPOTIFY_PLAYLIST_ID_B,
+    SPOTIFY_MAIN_PLAYLIST_ID: process.env.SPOTIFY_MAIN_PLAYLIST_ID,
+    SPOTIFY_SUB_PLAYLIST_ID: process.env.SPOTIFY_SUB_PLAYLIST_ID,
   };
 }
 

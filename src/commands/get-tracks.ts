@@ -12,23 +12,8 @@ import {
 import { sleep } from '@/utils/sleep';
 import { convertRomajiToKatakana } from '@/utils/string';
 import { loadConfig } from '../config';
+import type { ComposerData, ComposerTrack } from '../types/composer-data';
 import { getAccessToken, searchTrack } from '../utils/spotify';
-
-interface ComposerTrack {
-  id: string;
-  title: string;
-  artist: string;
-  isrc: string;
-  releaseDate: string;
-  spotifyUrl: string;
-  isFallback: boolean;
-}
-interface ComposerData {
-  name: string;
-  sortName?: string;
-  otherNames?: string[];
-  tracks: ComposerTrack[];
-}
 
 export const getTracksCommand = new Command('get-tracks')
   .description('指定したアーティストの楽曲リストを取得します')

@@ -2,22 +2,13 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { Command } from 'commander';
 import { loadConfig } from '../config';
+import type { ComposerData } from '../types/composer-data';
 import {
   addTracksToPlaylist,
   createSpotifyApi,
   getAccessToken,
   getAllPlaylistTrackUris,
 } from '../utils/spotify';
-
-interface ComposerData {
-  name: string;
-  sortName?: string;
-  otherNames?: string[];
-  tracks: Array<{
-    spotifyUrl?: string;
-    artist?: string;
-  }>;
-}
 
 export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist')
   .description('data内の全JSONからspotifyUrlを取得し、指定したSpotifyプレイリストに同期します')
@@ -26,9 +17,9 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
 
     const config = loadConfig();
 
-    const playlistIdA = config.SPOTIFY_PLAYLIST_ID_A;
-    const playlistIdB = config.SPOTIFY_PLAYLIST_ID_B;
-    if (!playlistIdA || !playlistIdB) {
+    const mainPlaylistId = config.SPOTIFY_MAIN_PLAYLIST_ID;
+    const subPlaylistId = config.SPOTIFY_SUB_PLAYLIST_ID;
+    if (!mainPlaylistId || !subPlaylistId) {
       throw new Error('プレイリストIDが設定されていません');
     }
 
@@ -48,10 +39,10 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
     );
     spotifyApi.setAccessToken(token);
 
-    // データからトラックIDを収集し、カテゴリーAとBに分類
+    // データからトラックIDを収集し、メインとサブに分類
     const files = await fs.readdir(DATA_DIR);
-    const trackUrisA = new Set<string>();
-    const trackUrisB = new Set<string>();
+    const mainTrackUris = new Set<string>();
+    const subTrackUris = new Set<string>();
     for (const file of files) {
       if (!file.endsWith('.json')) continue;
       const filePath = path.join(DATA_DIR, file);
@@ -74,9 +65,9 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
               const trackUri = uri.replace(prefix, 'spotify:track:');
               const artist = track.artist;
               if (artist && composerNames.includes(artist)) {
-                trackUrisB.add(trackUri);
+                subTrackUris.add(trackUri);
               } else {
-                trackUrisA.add(trackUri);
+                mainTrackUris.add(trackUri);
               }
             }
           }
@@ -85,41 +76,39 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
         console.warn(`${file}の読み取りに失敗しました:`, e);
       }
     }
-    console.log(`カテゴリーA（作曲者以外）: ${trackUrisA.size}曲`);
-    console.log(`カテゴリーB（作曲者本人）: ${trackUrisB.size}曲`);
+    console.log(`メインプレイリスト（作曲者以外）: ${mainTrackUris.size}曲`);
+    console.log(`サブプレイリスト（作曲者本人）: ${subTrackUris.size}曲`);
 
-    // プレイリストA: カテゴリーA（作曲者以外）の楽曲を同期
-    const existingUrisA = await getAllPlaylistTrackUris(spotifyApi, playlistIdA);
-    console.log(`プレイリストAに${existingUrisA.size}曲が登録されています`);
+    // プレイリストへの同期処理
+    const playlists = [
+      {
+        id: mainPlaylistId,
+        name: 'メインプレイリスト',
+        trackUris: mainTrackUris,
+      },
+      {
+        id: subPlaylistId,
+        name: 'サブプレイリスト',
+        trackUris: subTrackUris,
+      },
+    ];
 
-    const uniqueTrackUrisA = trackUrisA.difference(existingUrisA);
-    if (uniqueTrackUrisA.size > 0) {
-      console.log(`プレイリストAに${uniqueTrackUrisA.size}曲を追加します`);
-      try {
-        await addTracksToPlaylist(spotifyApi, playlistIdA, uniqueTrackUrisA);
-        console.log(`プレイリストAに全${uniqueTrackUrisA.size}曲を追加しました`);
-      } catch (e) {
-        console.error('プレイリストAへのトラック追加に失敗しました:', e);
+    for (const playlist of playlists) {
+      const existingUris = await getAllPlaylistTrackUris(spotifyApi, playlist.id);
+      console.log(`${playlist.name}に${existingUris.size}曲が登録されています`);
+
+      const uniqueTrackUris = playlist.trackUris.difference(existingUris);
+      if (uniqueTrackUris.size > 0) {
+        console.log(`${playlist.name}に${uniqueTrackUris.size}曲を追加します`);
+        try {
+          await addTracksToPlaylist(spotifyApi, playlist.id, uniqueTrackUris);
+          console.log(`${playlist.name}に全${uniqueTrackUris.size}曲を追加しました`);
+        } catch (e) {
+          console.error(`${playlist.name}へのトラック追加に失敗しました:`, e);
+        }
+      } else {
+        console.log(`${playlist.name}に未追加の曲はありませんでした`);
       }
-    } else {
-      console.log('プレイリストAに未追加の曲はありませんでした');
-    }
-
-    // プレイリストB: カテゴリーB（作曲者本人）の楽曲を同期
-    const existingUrisB = await getAllPlaylistTrackUris(spotifyApi, playlistIdB);
-    console.log(`プレイリストBに${existingUrisB.size}曲が登録されています`);
-
-    const uniqueTrackUrisB = trackUrisB.difference(existingUrisB);
-    if (uniqueTrackUrisB.size > 0) {
-      console.log(`プレイリストBに${uniqueTrackUrisB.size}曲を追加します`);
-      try {
-        await addTracksToPlaylist(spotifyApi, playlistIdB, uniqueTrackUrisB);
-        console.log(`プレイリストBに全${uniqueTrackUrisB.size}曲を追加しました`);
-      } catch (e) {
-        console.error('プレイリストBへのトラック追加に失敗しました:', e);
-      }
-    } else {
-      console.log('プレイリストBに未追加の曲はありませんでした');
     }
 
     console.log('全曲の追加が完了しました');

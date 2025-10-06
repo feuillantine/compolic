@@ -36,10 +36,10 @@ src/utils/           機能別ユーティリティ
    # `npm run start get-spotify-refresh-token`で取得
    SPOTIFY_REFRESH_TOKEN=xxxxx
    # Spotifyでプレイリストを2つ作成して取得
-   # プレイリストA: 作曲者以外がアーティストの楽曲
-   SPOTIFY_PLAYLIST_ID_A=xxxxxxxxxxxxxxxxxxxxxx
-   # プレイリストB: 作曲者本人がアーティストの楽曲
-   SPOTIFY_PLAYLIST_ID_B=xxxxxxxxxxxxxxxxxxxxxx
+   # メインプレイリスト: 作曲者以外がアーティストの楽曲
+   SPOTIFY_MAIN_PLAYLIST_ID=xxxxxxxxxxxxxxxxxxxxxx
+   # サブプレイリスト: 作曲者本人がアーティストの楽曲
+   SPOTIFY_SUB_PLAYLIST_ID=xxxxxxxxxxxxxxxxxxxxxx
    ```
 
 ## 利用方法 (主要コマンド)

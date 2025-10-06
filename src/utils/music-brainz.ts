@@ -50,6 +50,10 @@ export interface Recording {
   }[];
   isrcs: string[];
   relations: UrlRelation[];
+  tags?: {
+    count: number;
+    name: string;
+  }[];
 }
 
 /**
@@ -142,7 +146,7 @@ export const getAllWorks = async (artistId: string): Promise<Works[]> => {
  * @returns MusicBrainzのRecording JSON
  */
 export const getRecording = async (recordingId: string): Promise<Recording> => {
-  const lookupUrl = `https://musicbrainz.org/ws/2/recording/${recordingId}?inc=isrcs+url-rels+artists&fmt=json`;
+  const lookupUrl = `https://musicbrainz.org/ws/2/recording/${recordingId}?inc=isrcs+url-rels+artists+tags&fmt=json`;
   const response = await fetch(lookupUrl, {
     headers: { 'User-Agent': USER_AGENT },
   });

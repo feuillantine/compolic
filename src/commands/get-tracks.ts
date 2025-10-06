@@ -22,6 +22,7 @@ interface ComposerTrack {
   releaseDate: string;
   spotifyUrl: string;
   isFallback: boolean;
+  isInstrumental: boolean;
 }
 interface ComposerData {
   name: string;
@@ -196,6 +197,15 @@ export const getTracksCommand = new Command('get-tracks')
         .filter((u) => typeof u === 'string' && u.startsWith('https://open.spotify.com'))[0];
       let isFallback = false;
 
+      // タグからインストゥルメンタルかどうかを判定
+      const tags = recordDetail.tags ?? [];
+      const instrumentalTags = ['instrumental', 'karaoke'];
+      const isInstrumental = tags.some((tag) =>
+        instrumentalTags.some((instrumentalTag) =>
+          tag.name.toLowerCase().includes(instrumentalTag),
+        ),
+      );
+
       // ------------------------------------------------------------
       // Spotify APIから不足情報を補完
       // ------------------------------------------------------------
@@ -230,6 +240,7 @@ export const getTracksCommand = new Command('get-tracks')
         releaseDate,
         spotifyUrl: spotifyUrl ?? '',
         isFallback,
+        isInstrumental,
       });
       savedTrackIds.add(recordingId);
       console.log(`追加： ${recording.title}`);

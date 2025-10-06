@@ -87,13 +87,15 @@ npm run start sync-tracks-to-playlist
       "isrc": "JPAB01234567",
       "releaseDate": "2024-03-01",
       "spotifyUrl": "https://open.spotify.com/track/xxxxx",
-      "isFallback": false
+      "isFallback": false,
+      "isInstrumental": false
     }
   ]
 }
 ```
 
 ※`isFallback`はSpotify URLをMusicBrainzではなくSpotify検索から補完した場合にtrue
+※`isInstrumental`はMusicBrainzのタグ(instrumental/karaoke)から判定した歌なし楽曲の場合にtrue
 
 ## ライセンス
 MIT

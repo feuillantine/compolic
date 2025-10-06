@@ -16,8 +16,11 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
 
     const config = loadConfig();
 
-    const playlistId = config.SPOTIFY_PLAYLIST_ID;
-    if (!playlistId) {
+    const playlistIdVocal = config.SPOTIFY_PLAYLIST_ID_VOCAL ?? config.SPOTIFY_PLAYLIST_ID;
+    const playlistIdInstrumental =
+      config.SPOTIFY_PLAYLIST_ID_INSTRUMENTAL ?? config.SPOTIFY_PLAYLIST_ID;
+
+    if (!playlistIdVocal || !playlistIdInstrumental) {
       throw new Error('プレイリストIDが設定されていません');
     }
 
@@ -37,9 +40,11 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
     );
     spotifyApi.setAccessToken(token);
 
-    // データからトラックIDを収集
+    // データからトラックIDを収集（歌あり/なしで分類）
     const files = await fs.readdir(DATA_DIR);
-    const trackUris = new Set<string>();
+    const vocalTrackUris = new Set<string>();
+    const instrumentalTrackUris = new Set<string>();
+
     for (const file of files) {
       if (!file.endsWith('.json')) continue;
       const filePath = path.join(DATA_DIR, file);
@@ -51,7 +56,12 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
             const uri: string | undefined = track.spotifyUrl;
             const prefix = 'https://open.spotify.com/track/';
             if (uri && typeof uri === 'string' && uri.startsWith(prefix)) {
-              trackUris.add(uri.replace(prefix, 'spotify:track:'));
+              const spotifyUri = uri.replace(prefix, 'spotify:track:');
+              if (track.isInstrumental) {
+                instrumentalTrackUris.add(spotifyUri);
+              } else {
+                vocalTrackUris.add(spotifyUri);
+              }
             }
           }
         }
@@ -59,24 +69,46 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
         console.warn(`${file}の読み取りに失敗しました:`, e);
       }
     }
-    console.log(`${trackUris.size}曲の楽曲が見つかりました`);
 
-    // プレイリスト登録済のトラックIDを収集
-    const existingUris = await getAllPlaylistTrackUris(spotifyApi, playlistId);
-    console.log(`${existingUris.size}曲がプレイリストに登録されています`);
+    console.log(
+      `歌あり: ${vocalTrackUris.size}曲、歌なし: ${instrumentalTrackUris.size}曲の楽曲が見つかりました`,
+    );
 
-    const uniqueTrackUris = trackUris.difference(existingUris);
-    if (uniqueTrackUris.size === 0) {
-      console.log('未追加の曲はありませんでした');
-      return;
+    // 歌ありプレイリストの同期
+    const existingVocalUris = await getAllPlaylistTrackUris(spotifyApi, playlistIdVocal);
+    console.log(`歌ありプレイリストに${existingVocalUris.size}曲が登録されています`);
+
+    const uniqueVocalUris = vocalTrackUris.difference(existingVocalUris);
+    if (uniqueVocalUris.size > 0) {
+      console.log(`合計${uniqueVocalUris.size}曲を歌ありプレイリストに追加します`);
+      try {
+        await addTracksToPlaylist(spotifyApi, playlistIdVocal, uniqueVocalUris);
+        console.log(`全${uniqueVocalUris.size}曲を歌ありプレイリストに追加しました`);
+      } catch (e) {
+        console.error('歌ありプレイリストへの追加に失敗しました:', e);
+      }
+    } else {
+      console.log('歌ありプレイリストに未追加の曲はありませんでした');
     }
 
-    console.log(`合計${uniqueTrackUris.size}曲をプレイリストに追加します`);
-    try {
-      await addTracksToPlaylist(spotifyApi, playlistId, uniqueTrackUris);
-      console.log(`全${uniqueTrackUris.size}曲をプレイリストに追加しました`);
-    } catch (e) {
-      console.error('トラック追加に失敗しました:', e);
+    // 歌なしプレイリストの同期
+    const existingInstrumentalUris = await getAllPlaylistTrackUris(
+      spotifyApi,
+      playlistIdInstrumental,
+    );
+    console.log(`歌なしプレイリストに${existingInstrumentalUris.size}曲が登録されています`);
+
+    const uniqueInstrumentalUris = instrumentalTrackUris.difference(existingInstrumentalUris);
+    if (uniqueInstrumentalUris.size > 0) {
+      console.log(`合計${uniqueInstrumentalUris.size}曲を歌なしプレイリストに追加します`);
+      try {
+        await addTracksToPlaylist(spotifyApi, playlistIdInstrumental, uniqueInstrumentalUris);
+        console.log(`全${uniqueInstrumentalUris.size}曲を歌なしプレイリストに追加しました`);
+      } catch (e) {
+        console.error('歌なしプレイリストへの追加に失敗しました:', e);
+      }
+    } else {
+      console.log('歌なしプレイリストに未追加の曲はありませんでした');
     }
 
     console.log('全曲の追加が完了しました');

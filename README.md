@@ -21,7 +21,7 @@ src/utils/           機能別ユーティリティ
 ## 必要要件
 - Node.js 22+
 - Spotify開発者アプリのクレデンシャル(Client ID/Secret)
-- 同期用Spotifyプレイリスト
+- 同期用Spotifyプレイリスト（2つ）
 
 ## セットアップ（ローカル）
 1. 依存インストール
@@ -35,8 +35,11 @@ src/utils/           機能別ユーティリティ
    SPOTIFY_CLIENT_SECRET=xxxxx
    # `npm run start get-spotify-refresh-token`で取得
    SPOTIFY_REFRESH_TOKEN=xxxxx
-   # Spotifyでプレイリストを作成して取得
-   SPOTIFY_PLAYLIST_ID=xxxxxxxxxxxxxxxxxxxxxx
+   # Spotifyでプレイリストを2つ作成して取得
+   # メインプレイリスト: 作曲者以外がアーティストの楽曲
+   SPOTIFY_MAIN_PLAYLIST_ID=xxxxxxxxxxxxxxxxxxxxxx
+   # サブプレイリスト: 作曲者本人がアーティストの楽曲
+   SPOTIFY_SUB_PLAYLIST_ID=xxxxxxxxxxxxxxxxxxxxxx
    ```
 
 ## 利用方法 (主要コマンド)
@@ -50,7 +53,7 @@ npm run start <command> -- [options]
 | `get-multiple-tracks` | 複数アーティスト一括収集 | `--artists "A,B,C"` |
 | `update-tracks` | 既存`data/*.json`の全再取得 | なし |
 | `generate-index` | `data/files.json`を生成 | なし |
-| `sync-tracks-to-playlist` | `spotifyUrl`をSpotifyプレイリストへ差分追加 | なし |
+| `sync-tracks-to-playlist` | `spotifyUrl`を2つのSpotifyプレイリストへ差分追加（作曲者本人/それ以外で分類） | なし |
 | `get-spotify-refresh-token` | リフレッシュトークン取得(ローカルでOAuth) | なし |
 
 ### 例: アーティスト名で収集

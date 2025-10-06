@@ -2,6 +2,7 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { Command } from 'commander';
 import { loadConfig } from '../config';
+import type { ComposerData } from '../types/composer-data';
 import {
   addTracksToPlaylist,
   createSpotifyApi,
@@ -16,8 +17,9 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
 
     const config = loadConfig();
 
-    const playlistId = config.SPOTIFY_PLAYLIST_ID;
-    if (!playlistId) {
+    const mainPlaylistId = config.SPOTIFY_MAIN_PLAYLIST_ID;
+    const subPlaylistId = config.SPOTIFY_SUB_PLAYLIST_ID;
+    if (!mainPlaylistId || !subPlaylistId) {
       throw new Error('プレイリストIDが設定されていません');
     }
 
@@ -37,21 +39,36 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
     );
     spotifyApi.setAccessToken(token);
 
-    // データからトラックIDを収集
+    // データからトラックIDを収集し、メインとサブに分類
     const files = await fs.readdir(DATA_DIR);
-    const trackUris = new Set<string>();
+    const mainTrackUris = new Set<string>();
+    const subTrackUris = new Set<string>();
     for (const file of files) {
       if (!file.endsWith('.json')) continue;
       const filePath = path.join(DATA_DIR, file);
       try {
         const raw = await fs.readFile(filePath, 'utf-8');
-        const json = JSON.parse(raw);
+        const json: ComposerData = JSON.parse(raw);
         if (Array.isArray(json.tracks)) {
+          const composerNames = [json.name];
+          if (json.sortName) {
+            composerNames.push(json.sortName);
+          }
+          if (json.otherNames) {
+            composerNames.push(...json.otherNames);
+          }
+
           for (const track of json.tracks) {
             const uri: string | undefined = track.spotifyUrl;
             const prefix = 'https://open.spotify.com/track/';
             if (uri && typeof uri === 'string' && uri.startsWith(prefix)) {
-              trackUris.add(uri.replace(prefix, 'spotify:track:'));
+              const trackUri = uri.replace(prefix, 'spotify:track:');
+              const artist = track.artist;
+              if (artist && composerNames.includes(artist)) {
+                subTrackUris.add(trackUri);
+              } else {
+                mainTrackUris.add(trackUri);
+              }
             }
           }
         }
@@ -59,24 +76,39 @@ export const syncTracksToPlaylistCommand = new Command('sync-tracks-to-playlist'
         console.warn(`${file}の読み取りに失敗しました:`, e);
       }
     }
-    console.log(`${trackUris.size}曲の楽曲が見つかりました`);
+    console.log(`メインプレイリスト（作曲者以外）: ${mainTrackUris.size}曲`);
+    console.log(`サブプレイリスト（作曲者本人）: ${subTrackUris.size}曲`);
 
-    // プレイリスト登録済のトラックIDを収集
-    const existingUris = await getAllPlaylistTrackUris(spotifyApi, playlistId);
-    console.log(`${existingUris.size}曲がプレイリストに登録されています`);
+    // プレイリストへの同期処理
+    const playlists = [
+      {
+        id: mainPlaylistId,
+        name: 'メインプレイリスト',
+        trackUris: mainTrackUris,
+      },
+      {
+        id: subPlaylistId,
+        name: 'サブプレイリスト',
+        trackUris: subTrackUris,
+      },
+    ];
 
-    const uniqueTrackUris = trackUris.difference(existingUris);
-    if (uniqueTrackUris.size === 0) {
-      console.log('未追加の曲はありませんでした');
-      return;
-    }
+    for (const playlist of playlists) {
+      const existingUris = await getAllPlaylistTrackUris(spotifyApi, playlist.id);
+      console.log(`${playlist.name}に${existingUris.size}曲が登録されています`);
 
-    console.log(`合計${uniqueTrackUris.size}曲をプレイリストに追加します`);
-    try {
-      await addTracksToPlaylist(spotifyApi, playlistId, uniqueTrackUris);
-      console.log(`全${uniqueTrackUris.size}曲をプレイリストに追加しました`);
-    } catch (e) {
-      console.error('トラック追加に失敗しました:', e);
+      const uniqueTrackUris = playlist.trackUris.difference(existingUris);
+      if (uniqueTrackUris.size > 0) {
+        console.log(`${playlist.name}に${uniqueTrackUris.size}曲を追加します`);
+        try {
+          await addTracksToPlaylist(spotifyApi, playlist.id, uniqueTrackUris);
+          console.log(`${playlist.name}に全${uniqueTrackUris.size}曲を追加しました`);
+        } catch (e) {
+          console.error(`${playlist.name}へのトラック追加に失敗しました:`, e);
+        }
+      } else {
+        console.log(`${playlist.name}に未追加の曲はありませんでした`);
+      }
     }
 
     console.log('全曲の追加が完了しました');

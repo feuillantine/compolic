@@ -2467,6 +2467,15 @@
       "releaseDate": "2007-04-25",
       "spotifyUrl": "https://open.spotify.com/track/3R6Z4D88kBaQrWp6dbvL7i",
       "isFallback": true
+    },
+    {
+      "id": "ed143488-e9e8-4fe1-b126-640ae58e3500",
+      "title": "私なんか",
+      "artist": "菊谷知樹",
+      "isrc": "JPE302201189",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/4oHQ2J0PGjoUU0J6cOjK1N",
+      "isFallback": true
     }
   ]
 }

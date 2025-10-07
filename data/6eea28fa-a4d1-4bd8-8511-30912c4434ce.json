@@ -1,0 +1,312 @@
+{
+  "name": "佐伯ユウスケ",
+  "sortName": "サエキヨウthk",
+  "tracks": [
+    {
+      "id": "e5f02498-7662-4607-9fda-de54d9b0ea37",
+      "title": "このままで",
+      "artist": "西野カナ",
+      "isrc": "JPU901000785",
+      "releaseDate": "2010-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/0W7hwe6NmoERnSsLaTwsee",
+      "isFallback": true
+    },
+    {
+      "id": "0cbb932c-7109-46a6-b957-be076fd39f92",
+      "title": "好き",
+      "artist": "西野カナ",
+      "isrc": "JPU901401598",
+      "releaseDate": "2014-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/2Yx50NLp4kOuV3vxiOVRE8",
+      "isFallback": true
+    },
+    {
+      "id": "b9e1e60a-90a2-4e95-822f-e2e15c9d60be",
+      "title": "天上天下",
+      "artist": "みゆな",
+      "isrc": "JPB601803041",
+      "releaseDate": "2018-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/3Nv1oNLEfPpNJqyl6xc65Z",
+      "isFallback": true
+    },
+    {
+      "id": "385f350a-df0d-409c-9398-78f754b45d91",
+      "title": "ジブンなジブン",
+      "artist": "樋口楓",
+      "isrc": "JPI102200982",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/7f0qhnnbVjNGlnbj3L2YyA",
+      "isFallback": true
+    },
+    {
+      "id": "cb77b067-878b-472b-846b-c680e9d5092e",
+      "title": "いったん",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102500548",
+      "releaseDate": "2025-04-09",
+      "spotifyUrl": "https://open.spotify.com/track/1Ce29P6FYo8weDsfnt5Tiu",
+      "isFallback": true
+    },
+    {
+      "id": "58bcca9a-20f7-47cf-b877-7e67f19479b8",
+      "title": "たとえ どんなに…",
+      "artist": "西野カナ",
+      "isrc": "JPU901101141",
+      "releaseDate": "2011-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/0UfJnHlX4kmuf0EVFJ5MHW",
+      "isFallback": true
+    },
+    {
+      "id": "78217ec5-6b3e-40d7-b695-258f0f4d8479",
+      "title": "僕と君のララバイ",
+      "artist": "みゆな",
+      "isrc": "JPB601901267",
+      "releaseDate": "2019-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/73wdYpcwkEAd3f1vtHdlbe",
+      "isFallback": true
+    },
+    {
+      "id": "6d95394f-f6fe-4449-a3d0-0a07841d7be9",
+      "title": "光",
+      "artist": "音無小鳥",
+      "isrc": "JPCO01026820",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/1Jgf5gPZQjQOvenpOmKlXJ",
+      "isFallback": false
+    },
+    {
+      "id": "f5bc1008-e72c-420b-8678-264cbcc603ff",
+      "title": "Regret.",
+      "artist": "東京女子流",
+      "isrc": "JPB601208202",
+      "releaseDate": "2012-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/5tkN3ABGmvoVT63oGV99Ls",
+      "isFallback": true
+    },
+    {
+      "id": "e45743da-fee0-46bb-a24b-2b59a4f706b1",
+      "title": "キミノミカタ",
+      "artist": "浪川大輔",
+      "isrc": "JPI101802284",
+      "releaseDate": "2018-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/4XAnRzDcaRYWInDX9nWT97",
+      "isFallback": true
+    },
+    {
+      "id": "aedb289b-bbbc-448c-8ea6-6f04cda48144",
+      "title": "さよなら",
+      "artist": "西野カナ",
+      "isrc": "JPU901301215",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/37xqq1ab0BQpLoSNu1LK7C",
+      "isFallback": true
+    },
+    {
+      "id": "1ec85a66-b6f3-47dd-b9e8-ad7dc9acf9cb",
+      "title": "安心 to the 安全",
+      "artist": "ニノミヤユイ",
+      "isrc": "JPI101901657",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/3Q9IH4hixCb58unMTQL5z5",
+      "isFallback": true
+    },
+    {
+      "id": "4a3f767d-3dc1-486e-a350-18fd8556509a",
+      "title": "見果てぬ世界、繋がる想い",
+      "artist": "入野自由",
+      "isrc": "JPI101500368",
+      "releaseDate": "2015-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/7j2gBdALUqUbtSUa2rDSU9",
+      "isFallback": true
+    },
+    {
+      "id": "ee26d4ee-55cb-479a-9b83-22c08f80c1f4",
+      "title": "こっから",
+      "artist": "オルゴールサウンド J‐POP",
+      "isrc": "JPF542322101",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/6ySDx6AitEVsAnMN9vi1RQ",
+      "isFallback": true
+    },
+    {
+      "id": "9ded141c-5af8-43e1-862f-f77ec98a2427",
+      "title": "とんでいっちゃいたいの",
+      "artist": "一ノ瀬志希",
+      "isrc": "JPCO01717940",
+      "releaseDate": "2017-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/6iUHmgi0QWmc5T01KvBla0",
+      "isFallback": true
+    },
+    {
+      "id": "fa0eea69-81a5-45fc-8944-c81bf04cb1fa",
+      "title": "君って",
+      "artist": "西野カナ",
+      "isrc": "JPU901001461",
+      "releaseDate": "2010-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/5hsPvf0Tn4llsdCl3MN1VQ",
+      "isFallback": true
+    },
+    {
+      "id": "81188421-34a9-4ae7-b463-8a1a3f3e8323",
+      "title": "Now or Never (pencil juked out)",
+      "artist": "pencil",
+      "isrc": "",
+      "releaseDate": "2024-12-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "318cf549-0dc7-4e11-969e-601a947675ab",
+      "title": "1, 2, 3",
+      "artist": "沼倉愛美",
+      "isrc": "",
+      "releaseDate": "2011-09-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b27f298a-99fc-4e35-9f57-884172f29824",
+      "title": "YOUR FREE STAR",
+      "artist": "熊田茜音",
+      "isrc": "JPI101902199",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/0MVDQRG2CCqrdVz7rmLX4j",
+      "isFallback": true
+    },
+    {
+      "id": "62ca5a61-27d3-4937-8d42-0b99cd97c852",
+      "title": "たくさん!",
+      "artist": "アナスタシア",
+      "isrc": "JPCO01706500",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/58wumfXVCU5EVBa81oLOSW",
+      "isFallback": true
+    },
+    {
+      "id": "d587e161-6b08-4ebb-967b-27a9e267b380",
+      "title": "LOVE〜ある愛のカタチ〜",
+      "artist": "BRIGHT",
+      "isrc": "JPB601100701",
+      "releaseDate": "2011-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/61ZagOmwQ023YjNU2krhFb",
+      "isFallback": true
+    },
+    {
+      "id": "1e23dc21-b2ad-4d9f-8e5d-57dadc38ec60",
+      "title": "レイテストショーマン",
+      "artist": "ジョー・力一",
+      "isrc": "JPPO02303082",
+      "releaseDate": "2023-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/7fCThbKRuzvwMkteJBndUb",
+      "isFallback": true
+    },
+    {
+      "id": "04f0898a-572d-4a3d-8ee9-1beb17fdcb33",
+      "title": "JOY",
+      "artist": "井口裕香",
+      "isrc": "JPQ461600353",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/2RlmPAV85ex9k4Bbb9Ky0V",
+      "isFallback": true
+    },
+    {
+      "id": "87835887-e41c-4182-a760-5403a0c98b3f",
+      "title": "きっと",
+      "artist": "浅倉杏美",
+      "isrc": "",
+      "releaseDate": "2012-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f044c041-0854-46f6-a542-310fd515f81e",
+      "title": "GYOZA",
+      "artist": "井口裕香",
+      "isrc": "JPD732301038",
+      "releaseDate": "2023-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/3r53aMwBgDdcNI1mxP6QIh",
+      "isFallback": false
+    },
+    {
+      "id": "32b7c2a6-73c4-4ded-acc2-777f76c2175c",
+      "title": "共鳴",
+      "artist": "SixTONES",
+      "isrc": "JPU902200236",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/7D4F95SJpOxKDKvqgFZUIG",
+      "isFallback": true
+    },
+    {
+      "id": "0d1ccba5-80d1-4ec1-bfe3-e56c7d06a39e",
+      "title": "なんとなくの話",
+      "artist": "井口裕香",
+      "isrc": "JPQ461600542",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/33u2IA25FI7eUivJb9iJ3I",
+      "isFallback": true
+    },
+    {
+      "id": "9fba8c41-1289-479c-a571-420e03be7c53",
+      "title": "またまたまたまたまた明日",
+      "artist": "舞桜",
+      "isrc": "JPI102100684",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/6pjgPhwcdWMvfKSq4ErlDx",
+      "isFallback": false
+    },
+    {
+      "id": "50633d35-904d-433c-912f-bafd5daeaf81",
+      "title": "サヨナラにはならない",
+      "artist": "七瀬彩夏",
+      "isrc": "JPD602400642",
+      "releaseDate": "2025-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/20g9iSiqcc1VZ7qRmIFDtq",
+      "isFallback": true
+    },
+    {
+      "id": "67ae7551-a69c-4732-a130-500208ba3341",
+      "title": "I'm so free!",
+      "artist": "星井美希",
+      "isrc": "JPE301102965",
+      "releaseDate": "2011-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/49Zsxltu1mOYzPGzzHuiZV",
+      "isFallback": false
+    },
+    {
+      "id": "f5a34e1c-863e-44be-ba01-b608c8e0c831",
+      "title": "なんでもちゃんと",
+      "artist": "二葉あおい",
+      "isrc": "",
+      "releaseDate": "2013-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ccf85b60-8801-4d53-b3e2-7c963e194e76",
+      "title": "夢をのぞいたら",
+      "artist": "THE IDOLM@STER CINDERELLA GIRLS!!",
+      "isrc": "JPCO01933360",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5cdeea2-5f5e-420f-bc66-de0606de0ad2",
+      "title": "うすっぺらい",
+      "artist": "門脇更紗",
+      "isrc": "JPVI02400036",
+      "releaseDate": "2024-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/4Thw5W47ipUfFQHjYXBR0e",
+      "isFallback": false
+    },
+    {
+      "id": "fd615956-00c0-49c8-bf87-8af088c31824",
+      "title": "自分磁針",
+      "artist": "熊田茜音",
+      "isrc": "JPI102101459",
+      "releaseDate": "2021-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/43BtlPVIA338yEHHnV3jKP",
+      "isFallback": true
+    }
+  ]
+}

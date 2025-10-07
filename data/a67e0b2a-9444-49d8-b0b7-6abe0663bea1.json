@@ -1,0 +1,87 @@
+{
+  "name": "ミフメイ",
+  "sortName": "ミフメイ",
+  "tracks": [
+    {
+      "id": "e2c7b046-41e9-47a0-bf17-d63689f30610",
+      "title": "Genesis",
+      "artist": "Shiori Novella",
+      "isrc": "JPV752510676",
+      "releaseDate": "2025-08-06",
+      "spotifyUrl": "https://open.spotify.com/track/257DVxGY6nYTRKaxfhxmJs",
+      "isFallback": false
+    },
+    {
+      "id": "48188ee3-9ead-4c2c-94c9-9ce0e924b7c2",
+      "title": "躍るFLAGSHIP",
+      "artist": "小日向美穂",
+      "isrc": "JPCO02001900",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/7KxFpBdrDOsfolQcP2ZfC4",
+      "isFallback": true
+    },
+    {
+      "id": "14c99b0e-eba0-4e55-a9cf-30f0fd3de5fb",
+      "title": "星環世界 (M@STER VERSION)",
+      "artist": "砂塚あきら",
+      "isrc": "JPCO02135070",
+      "releaseDate": "2022-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/05OhMiKu67B7gbCDdX0WPA",
+      "isFallback": true
+    },
+    {
+      "id": "e8c6af62-46a3-4f7e-b58e-1b6626e941f9",
+      "title": "POPLINKS TUNE!!!!!",
+      "artist": "天海春香",
+      "isrc": "JPR502303346",
+      "releaseDate": "2021-07-28",
+      "spotifyUrl": "https://open.spotify.com/track/5lsbkCyTPaLHBPaTOZbuGf",
+      "isFallback": false
+    },
+    {
+      "id": "b9b21b4a-6c4a-44d3-849a-30db133d1b72",
+      "title": "VELVET QUIET",
+      "artist": "三浦あずさ",
+      "isrc": "JPCO02033530",
+      "releaseDate": "2021-02-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c89b1cb-ef19-47c3-8e5e-3f05a921a82f",
+      "title": "ツキノカメ",
+      "artist": "初星学園",
+      "isrc": "JPX832005487",
+      "releaseDate": "2025-02-07",
+      "spotifyUrl": "https://open.spotify.com/track/32YMyG2953PlO5wx0FAyrE",
+      "isFallback": true
+    },
+    {
+      "id": "9a4d594b-74c7-4ef0-bc3b-eedb10ea23bc",
+      "title": "バベル (M@STER VERSION)",
+      "artist": "一ノ瀬志希",
+      "isrc": "JPCO01920540",
+      "releaseDate": "2019-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/1FvVVMENXmHoO0Ayl5NeO6",
+      "isFallback": true
+    },
+    {
+      "id": "ab01502d-e34b-471c-b0d4-ec7016c0d428",
+      "title": "キズナ・レール",
+      "artist": "森中花咲",
+      "isrc": "JPPI02100220",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "https://open.spotify.com/track/4uSemCIQuyLNcrmNmXxM6n",
+      "isFallback": true
+    },
+    {
+      "id": "09412236-109b-43a3-98f5-a4f29154795d",
+      "title": "ベルカ",
+      "artist": "東雲和音",
+      "isrc": "JPR502200043",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/2ZaMcGvuyFq3zh90W8TmHS",
+      "isFallback": true
+    }
+  ]
+}

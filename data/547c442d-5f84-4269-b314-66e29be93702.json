@@ -1,0 +1,159 @@
+{
+  "name": "KanadeYUK",
+  "sortName": "カナデユウキ",
+  "tracks": [
+    {
+      "id": "9ee9643a-058a-48ac-a036-7e6b5645e1ae",
+      "title": "That’s カバディ・ストラグル!!",
+      "artist": "三谷裳ちお",
+      "isrc": "JPD731800357",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/7EjNHHsUTAzu7fRjvTEDeT",
+      "isFallback": true
+    },
+    {
+      "id": "5fe5ff07-9ebe-4686-9e9d-5a7162438f8d",
+      "title": "３丁目の星☆",
+      "artist": "三河クロ",
+      "isrc": "",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3b84b79-6296-434f-9903-a8eb7ec6ca9f",
+      "title": "Deep in Abyss",
+      "artist": "リコ",
+      "isrc": "JPD731700276",
+      "releaseDate": "2017-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9c43df3d-97fb-44d5-9ccf-1e4317f93e63",
+      "title": "星空に願いを",
+      "artist": "堀江由衣",
+      "isrc": "JPKI01518372",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/1ZzPA3s967j7aE2mukEZTI",
+      "isFallback": true
+    },
+    {
+      "id": "12e1e2fc-d790-4ff0-a321-af2cfa484b82",
+      "title": "アノニマス・エゴイズム",
+      "artist": "宮下遊",
+      "isrc": "JPPC02001932",
+      "releaseDate": "2020-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/4aaumgxrVq6XTfEnLN15rQ",
+      "isFallback": true
+    },
+    {
+      "id": "0bfcb420-078b-4f00-a426-688754d71ede",
+      "title": "ハートウォーミング",
+      "artist": "高槻やよい",
+      "isrc": "JPI101302592",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2OQzRiKThvH5FmcDoTSFqa",
+      "isFallback": false
+    },
+    {
+      "id": "2ab1052f-769d-4b18-a1c4-1af1334d3bdc",
+      "title": "TINT",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631901602",
+      "releaseDate": "2019-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/7eIFtHtNh75nHHWHf8kjG1",
+      "isFallback": true
+    },
+    {
+      "id": "d2cd16fb-c22f-40bb-8e68-809cd82d778c",
+      "title": "ハミングロード",
+      "artist": "萩原雪歩",
+      "isrc": "JPI101400606",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/0K1SLXmUX7zofC0N9gF2k9",
+      "isFallback": false
+    },
+    {
+      "id": "eb83dcff-84a5-45ef-80b3-85753ae23f17",
+      "title": "Flower of hope",
+      "artist": "IRyS",
+      "isrc": "JPV752205434",
+      "releaseDate": "2022-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/0q07y6MBc2c08xDIbCWq9e",
+      "isFallback": true
+    },
+    {
+      "id": "51eb46b4-1510-4522-abbe-316627842dc1",
+      "title": "ワレワレハデンパグミインクダ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01820901",
+      "releaseDate": "2019-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/3yGWJ9tH4dBrCcqNhXotjU",
+      "isFallback": true
+    },
+    {
+      "id": "e1f81c0d-7e09-44fc-af7b-d1619b8c45ac",
+      "title": "Haruzion",
+      "artist": "鹿乃",
+      "isrc": "JPQ461700456",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4A7h9LW5zMaumZPmBOy6to",
+      "isFallback": true
+    },
+    {
+      "id": "5c6a5708-5825-4b99-a8c5-4358da253b7d",
+      "title": "Clowing folly",
+      "artist": "KanadeYUK",
+      "isrc": "JPM202000391",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fae81cf-8ac4-428b-a251-eecb6cd05b6b",
+      "title": "犬猫エレジー",
+      "artist": "野田ゴン",
+      "isrc": "",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "85a33d83-4b6b-479f-91dd-44a4f87cf575",
+      "title": "3丁目のテーマ",
+      "artist": "斉藤壮馬",
+      "isrc": "",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9cbd770a-6d85-4a4e-97ae-0347369aefe3",
+      "title": "BLOOD RED",
+      "artist": "KanadeYUK",
+      "isrc": "JPM202000376",
+      "releaseDate": "2020-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1fa459d9-c674-4d62-9483-617f0e47f265",
+      "title": "Rainy Bull",
+      "artist": "倉持ブル",
+      "isrc": "",
+      "releaseDate": "2020-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "529c8573-84a5-4259-9c84-dc55b0b56418",
+      "title": "二重のキズナ",
+      "artist": "衛藤可奈美",
+      "isrc": "JPD731700515",
+      "releaseDate": "2018-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5f8CN5Nz9IPnlc1DOblUy1",
+      "isFallback": true
+    }
+  ]
+}

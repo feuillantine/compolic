@@ -631,6 +631,15 @@
       "releaseDate": "2019-03-27",
       "spotifyUrl": "https://open.spotify.com/track/2DBjTtFP2Cdh5Xcym46olq",
       "isFallback": true
+    },
+    {
+      "id": "590fea0c-e577-4595-8363-71ceb2a9fde8",
+      "title": "心の在処はすぐ傍に",
+      "artist": "常闇トワ",
+      "isrc": "JPV752510683",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/69ASF4Dak6deaiUm9fV6PQ",
+      "isFallback": false
     }
   ]
 }

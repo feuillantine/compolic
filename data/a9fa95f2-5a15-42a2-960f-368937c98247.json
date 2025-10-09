@@ -1558,6 +1558,15 @@
       "releaseDate": "2019-03-13",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7b2c64ed-3f59-481d-a59d-611f1f6a1bff",
+      "title": "元祖！バンドリちゃんのテーマ",
+      "artist": "戸山香澄",
+      "isrc": "JPR562500295",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/3FQXWL7N3YNmbHhPEPJ9wO",
+      "isFallback": true
     }
   ]
 }

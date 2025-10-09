@@ -451,6 +451,15 @@
       "releaseDate": "2021-10-27",
       "spotifyUrl": "https://open.spotify.com/track/4OCjbSLOlF0pNn6bCRWkAj",
       "isFallback": true
+    },
+    {
+      "id": "a132ca80-9338-463c-a450-2499f276e00c",
+      "title": "らゔ♡戦セーション",
+      "artist": "いぎなり東北産",
+      "isrc": "JPB602503127",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/1oxiQdbz6LkVkq7kXfSPVB",
+      "isFallback": true
     }
   ]
 }

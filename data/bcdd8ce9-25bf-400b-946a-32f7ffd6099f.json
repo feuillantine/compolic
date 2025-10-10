@@ -172,6 +172,15 @@
       "releaseDate": "2020-12-23",
       "spotifyUrl": "https://open.spotify.com/track/7bIItYuP9mrM7Ust0C3uuS",
       "isFallback": true
+    },
+    {
+      "id": "c3138e0c-0190-4df4-8760-1f07d4f10e32",
+      "title": "Free Turn",
+      "artist": "TrySail",
+      "isrc": "JPU901903428",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/49Cv8DnZCtl5rRDWAc8bR9",
+      "isFallback": true
     }
   ]
 }

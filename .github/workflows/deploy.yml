@@ -37,6 +37,19 @@ jobs:
       - name: Generate data file list
         run: npm run start generate-index
 
+      - name: Cache node_modules
+        id: cache-preview-npm
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: preview/node_modules
+          key: preview-npm-${{ runner.os }}-${{ hashFiles('preview/package-lock.json') }}
+          restore-keys: |
+            preview-npm-${{ runner.os }}-
+
+      - name: Install dependencies
+        if: steps.cache-preview-npm.outputs.cache-hit != 'true'
+        run: npm ci --prefix preview
+
       - name: Build preview
         run: npm run build --silent
         env:

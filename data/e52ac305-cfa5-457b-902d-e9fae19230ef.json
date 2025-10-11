@@ -1,0 +1,231 @@
+{
+  "name": "Medansy",
+  "sortName": "メダンシ",
+  "tracks": [
+    {
+      "id": "ee04d500-652c-479e-95f2-3f6cc14d9278",
+      "title": "ばーちゃらぶ",
+      "artist": "夏色まつり",
+      "isrc": "JPV752307602",
+      "releaseDate": "2023-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/0ol8wE6yef0pp5q6nNOKKa",
+      "isFallback": true
+    },
+    {
+      "id": "aa9f78b4-f05e-4fa3-befb-4a401b5469d8",
+      "title": "かまってほしい",
+      "artist": "ベアードアード",
+      "isrc": "TCJPU2217127",
+      "releaseDate": "2022-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7piIxoKkOPXcUqavEb9esX",
+      "isFallback": true
+    },
+    {
+      "id": "c10c1a75-dcc2-4a70-b1d0-78fb3da0b8d4",
+      "title": "1135",
+      "artist": "さくらみこ",
+      "isrc": "JPV752408862",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/2iKZufV7lvxDUk9Ssz7H9a",
+      "isFallback": true
+    },
+    {
+      "id": "9ba351e9-673e-4667-938e-3522021c5aa6",
+      "title": "絶対キュート宣言",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPC2429366",
+      "releaseDate": "2024-10-24",
+      "spotifyUrl": "https://open.spotify.com/track/5etIj5wSUXYDNmw6RpmnPf",
+      "isFallback": true
+    },
+    {
+      "id": "2568719f-338a-47c2-bc51-57a6cc3cfaef",
+      "title": "Sacrifight",
+      "artist": "▷ せーぶぽいんと",
+      "isrc": "TCJPA2472130",
+      "releaseDate": "2024-06-09",
+      "spotifyUrl": "https://open.spotify.com/track/42RRSccxxgl7xuKPhBkKXA",
+      "isFallback": true
+    },
+    {
+      "id": "1268db6a-1562-4644-8ad9-bcdbe51eaf67",
+      "title": "筋肉ボディで僕人気",
+      "artist": "ポンコツコンポ",
+      "isrc": "JPW462476743",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1fr10w4q614SVbZQsQRZbs",
+      "isFallback": true
+    },
+    {
+      "id": "864cace3-49ff-4703-9131-0c7c8b661f85",
+      "title": "＃らぶそんぐ",
+      "artist": "＃らぶしっく",
+      "isrc": "TCJPD2404580",
+      "releaseDate": "2024-12-14",
+      "spotifyUrl": "https://open.spotify.com/track/03kYlUPFl9b5nHn6qNRUCx",
+      "isFallback": true
+    },
+    {
+      "id": "d66ab0f3-b037-443d-8f0f-7c1004d3d6fb",
+      "title": "ブレイブライブ",
+      "artist": "柚子花",
+      "isrc": "TCJPF2518553",
+      "releaseDate": "2025-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/1WRPZL4jlCjSIeaaO7A952",
+      "isFallback": true
+    },
+    {
+      "id": "66d63c3e-8dd0-44d3-9fc1-3b7fcb09b216",
+      "title": "許したげる",
+      "artist": "Scapegoat",
+      "isrc": "TCJPA2455693",
+      "releaseDate": "2024-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/7iV7QRPGq2Hs0VPYsAiNL9",
+      "isFallback": true
+    },
+    {
+      "id": "9a9b461d-c5b4-4d2a-b8a2-a2cf14873f81",
+      "title": "ヴヴヴ",
+      "artist": "vα-liv",
+      "isrc": "JPR502507149",
+      "releaseDate": "2025-03-22",
+      "spotifyUrl": "https://open.spotify.com/track/0frTUAyjWbzb7wX6JC5wDv",
+      "isFallback": true
+    },
+    {
+      "id": "1cb550d8-82ae-4483-9768-0d49d8e1d355",
+      "title": "はぴらきえくすちぇんじ",
+      "artist": "Peel the Apple",
+      "isrc": "TCJPF2521954",
+      "releaseDate": "2025-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/2gJKvwi3r3rjJ4d2gBivLS",
+      "isFallback": true
+    },
+    {
+      "id": "9d4abb9e-6e56-45c6-860f-d016a1fc9f47",
+      "title": "がっつけイノベーター",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPC2425160",
+      "releaseDate": "2024-10-19",
+      "spotifyUrl": "https://open.spotify.com/track/4qS53QLLddNx4ezGGv7vrP",
+      "isFallback": true
+    },
+    {
+      "id": "663dbd6c-3cab-45d5-8bcd-42e38ca84e2f",
+      "title": "助けてララトゥスケ",
+      "artist": "▷ せーぶぽいんと",
+      "isrc": "TCJPZ2438396",
+      "releaseDate": "2024-03-05",
+      "spotifyUrl": "https://open.spotify.com/track/30Lw5sxUNKSXU7Lx2HmurT",
+      "isFallback": true
+    },
+    {
+      "id": "8d323d8b-8936-4bd8-8c33-3f29136186d8",
+      "title": "ダイバライバ",
+      "artist": "ベアードアード",
+      "isrc": "JPCO02216470",
+      "releaseDate": "2022-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/0ch3qicnAdbgbvg7pdECpt",
+      "isFallback": true
+    },
+    {
+      "id": "970b9fa2-4237-48a6-8df1-c32eb47354d0",
+      "title": "ばたんきゅー充電中",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPS2276994",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/6UZOFecAzIGnx95YixbRap",
+      "isFallback": true
+    },
+    {
+      "id": "9930dde3-2a8b-4a5d-b339-94ed0f96558d",
+      "title": "推しの顔が良すぎて困る",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPV2301058",
+      "releaseDate": "2023-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/797vUPqNkHvfcRUkdMIxvN",
+      "isFallback": true
+    },
+    {
+      "id": "5dadbfd5-60a6-4cc7-a3ed-9475e3be85f8",
+      "title": "アイドルライフスターターパック",
+      "artist": "iLiFE!",
+      "isrc": "JPW462223708",
+      "releaseDate": "2022-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/6ZOMLey4LUVR1BFy6zrBtH",
+      "isFallback": true
+    },
+    {
+      "id": "eaa81ce9-ee7e-42c9-804e-deacacd4003a",
+      "title": "昇天直前Love it LIVE",
+      "artist": "兎田ぺこら",
+      "isrc": "JPV752307940",
+      "releaseDate": "2023-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/4q2NgYdjTMmPLOjjXpgOGW",
+      "isFallback": true
+    },
+    {
+      "id": "e2225468-77d0-4c01-8253-38fe3dc3e156",
+      "title": "DanceDrunker",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPT2213648",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/0Em6Q67j4YX1m2XEaCA2tU",
+      "isFallback": true
+    },
+    {
+      "id": "87409dc5-26bf-486e-9fde-6f2cdc3d814f",
+      "title": "無理ぽ to ポジ",
+      "artist": "尾丸ポルカ",
+      "isrc": "JPV752509766",
+      "releaseDate": "2025-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/2RsvRWJH5TGXHIBTSryXXd",
+      "isFallback": true
+    },
+    {
+      "id": "b26bf755-8b63-4812-b8ea-c526e0090faf",
+      "title": "ハートショットスナイパー",
+      "artist": "▷ せーぶぽいんと",
+      "isrc": "TCJPA2466011",
+      "releaseDate": "2024-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/67MFM06YWeT7humFrEnijg",
+      "isFallback": true
+    },
+    {
+      "id": "cdb91ee3-3296-4f1f-bf77-9d7c00fe113a",
+      "title": "ととのいメソッド",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPX2326732",
+      "releaseDate": "2023-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/7yPZKhkHYyvQMA7CqSf690",
+      "isFallback": true
+    },
+    {
+      "id": "3cd93b47-b503-46e8-ab9c-abe2f28dcb23",
+      "title": "確変ランチャー",
+      "artist": "▷ せーぶぽいんと",
+      "isrc": "TCJPY2300553",
+      "releaseDate": "2023-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/7D6nIOPJhG9jGK5VhOZgru",
+      "isFallback": true
+    },
+    {
+      "id": "7a2b3e30-d1f9-4bc7-acba-73f540535c52",
+      "title": "ハイローハロウィンナイト - Scapegoat ver",
+      "artist": "Scapegoat",
+      "isrc": "TCJPC2445701",
+      "releaseDate": "2024-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/3qY4Hd3XqBS2IGiAXVPC5a",
+      "isFallback": true
+    },
+    {
+      "id": "f116ce8d-ac08-4130-a7ab-c6f6260074f9",
+      "title": "ハッピーデリバリー",
+      "artist": "I MY ME MINE",
+      "isrc": "TCJPW2305819",
+      "releaseDate": "2023-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/4Ee1AjgXSy2bWjrzwYMuNV",
+      "isFallback": true
+    }
+  ]
+}

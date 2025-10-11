@@ -1,0 +1,465 @@
+{
+  "name": "大隅知宇",
+  "sortName": "オオスミトモタカ",
+  "tracks": [
+    {
+      "id": "af123dca-2b4e-41f2-8004-43091e51361f",
+      "title": "最速最強の称号",
+      "artist": "鳴子章吉",
+      "isrc": "JPZ921315036",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/3o3lVbbqNIawZsMlvfDbM7",
+      "isFallback": true
+    },
+    {
+      "id": "18bc6884-8509-4eed-8dc4-f7774c6f15de",
+      "title": "みえるよみえる",
+      "artist": "チノ",
+      "isrc": "JPPI01653110",
+      "releaseDate": "2016-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/6s4ZdCari514m5xxUSti6V",
+      "isFallback": true
+    },
+    {
+      "id": "9e6defc1-c831-4f56-9e38-f8211067a511",
+      "title": "Sister or Sister?",
+      "artist": "ココア",
+      "isrc": "JPPI01650570",
+      "releaseDate": "2016-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/3eeR8sNsZgY2J1PUz5BEG2",
+      "isFallback": true
+    },
+    {
+      "id": "63b235b7-647d-4ee8-90b5-ddfcd3c2eaa3",
+      "title": "ミラクル!ぽーたぶる☆ミッション",
+      "artist": "nao",
+      "isrc": "JPK631305501",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/6abQL1UCbHwQOGgn3WTD0t",
+      "isFallback": true
+    },
+    {
+      "id": "84208fdc-21d5-48af-b655-0242906a02db",
+      "title": "ときめきポポロン♪",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01501190",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/6luzdKABhBWdCJwgvvyh8e",
+      "isFallback": true
+    },
+    {
+      "id": "67e9ad97-f674-4263-90ee-e1bcc9b4011a",
+      "title": "フルパワーで夢を見て",
+      "artist": "パープルハート",
+      "isrc": "",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7aa70453-f9a4-4f46-a765-35a716354c98",
+      "title": "恋に気づいた",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01606130",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/1REumfiFqDwtZRl6A50ApU",
+      "isFallback": true
+    },
+    {
+      "id": "05064f79-97a5-4643-a18f-3717e8290ce8",
+      "title": "Waves",
+      "artist": "Chocolove from AKB48",
+      "isrc": "JPPO00760260",
+      "releaseDate": "2007-11-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d4ceea2c-ed90-436b-bfb8-e2979a598cb1",
+      "title": "Slowly Love",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507480",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/2fYG9p6eYczB6WIblQn7ss",
+      "isFallback": true
+    },
+    {
+      "id": "c5d86c0b-cb50-4d51-8e95-a990e488eadc",
+      "title": "ヒーローじゃなくていい",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01517072",
+      "releaseDate": "2015-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/4tfHiVjFV3FLiGOyLaSPOZ",
+      "isFallback": false
+    },
+    {
+      "id": "dda6dc00-57fd-4147-8410-eebf5797550d",
+      "title": "石道の蛇",
+      "artist": "金城真護",
+      "isrc": "JPZ921312176",
+      "releaseDate": "2013-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6SOyawb1iKzqHMQh3Wlz0s",
+      "isFallback": true
+    },
+    {
+      "id": "a4be5681-beae-4f62-9bf5-b8433e7b2d18",
+      "title": "Love Motion",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507400",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/0NA98LOYcTVyTapgMw74B7",
+      "isFallback": true
+    },
+    {
+      "id": "54d5e0de-7e09-41f8-954b-faef2ed70d47",
+      "title": "むすんでひらいて",
+      "artist": "バニラビーンズ",
+      "isrc": "JPZ921106269",
+      "releaseDate": "2011-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/3rFxpPpQBwii8YF03d4uk3",
+      "isFallback": true
+    },
+    {
+      "id": "76144003-14e5-4f64-8573-f1d2f003a929",
+      "title": "きらめきカフェタイム",
+      "artist": "ココア",
+      "isrc": "JPPI01752890",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/6jcu4iHkkQAWBt97bU0nJW",
+      "isFallback": true
+    },
+    {
+      "id": "559c62ea-fe29-4ee6-9b0d-4b1bb30baf52",
+      "title": "希望のピリオド.",
+      "artist": "ハル",
+      "isrc": "JPPI01850760",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/3y0tdcaPpdZ5xGfTjPsy4j",
+      "isFallback": true
+    },
+    {
+      "id": "cbe803fa-0eef-4a48-ac32-6c4e1decd1f0",
+      "title": "RISE",
+      "artist": "RO-KYU-BU!",
+      "isrc": "JPQ461300192",
+      "releaseDate": "2013-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/2DiYslXNo3uqeh2aKtMBxl",
+      "isFallback": true
+    },
+    {
+      "id": "b05a0a90-c9da-4d13-bdc0-e066ed1c62cf",
+      "title": "ミラインフィニティ",
+      "artist": "ネプテューヌ",
+      "isrc": "",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc5f8dd4-3f28-42ab-8e15-b29e81d1a122",
+      "title": "月来香",
+      "artist": "月下",
+      "isrc": "JPPI02251040",
+      "releaseDate": "2022-09-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "972a7b59-82a2-46e3-a24d-2c3c8af1edd3",
+      "title": "勝手に君に",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01610282",
+      "releaseDate": "2016-02-17",
+      "spotifyUrl": "https://open.spotify.com/track/1rUMkc5zJk8s7TExL54yVY",
+      "isFallback": true
+    },
+    {
+      "id": "079dac3b-16de-4f1a-a56c-dea9a4286299",
+      "title": "鎮魂歌 -レクイエム-",
+      "artist": "カスタマイZ",
+      "isrc": "JPKI01513950",
+      "releaseDate": "2015-06-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "711c037c-b2ce-472e-8444-7a519bc647ef",
+      "title": "静寂の世界",
+      "artist": "今泉俊輔",
+      "isrc": "JPZ921312175",
+      "releaseDate": "2013-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/6dB1D8b8GmXYHzTbxaJFzU",
+      "isFallback": true
+    },
+    {
+      "id": "cb7dbedb-d2ca-4593-9f08-a89463771f10",
+      "title": "わたしのパレット",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507450",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/4QF9B5mIzfx52AGijVWmsW",
+      "isFallback": true
+    },
+    {
+      "id": "afe42761-504d-4648-abf8-f412e7abb237",
+      "title": "24/7 ~もう一度~",
+      "artist": "WaT",
+      "isrc": "JPPO01068880",
+      "releaseDate": "2010-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/2XEvLbvz1mPLxuz9niUSRK",
+      "isFallback": true
+    },
+    {
+      "id": "48f20291-41f6-44fb-a0a4-9055ebe547b8",
+      "title": "僕たちは生きている",
+      "artist": "ヒタチ・イズル",
+      "isrc": "JPZ921308622",
+      "releaseDate": "2013-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/00uToNXi8Ws8ip1EO8Y5XW",
+      "isFallback": true
+    },
+    {
+      "id": "cc4d7d28-2506-4cea-91dd-4f52f75eac83",
+      "title": "きらきらエブリディ",
+      "artist": "チマメ隊",
+      "isrc": "JPPI01452690",
+      "releaseDate": "2014-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/3MK63o0nXikvGC8X9lB0ZC",
+      "isFallback": true
+    },
+    {
+      "id": "484de4a7-b715-4f9d-9bb1-bc29c694eed2",
+      "title": "シリウス",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01604640",
+      "releaseDate": "2016-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/027C1TV5PZcJWNZdkwZn2Z",
+      "isFallback": true
+    },
+    {
+      "id": "738fdb21-a0da-425e-b687-c5b1732c9ded",
+      "title": "CONTRADICTION",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01114555",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0NrSI67RRwf9SZ0kNCxwxe",
+      "isFallback": true
+    },
+    {
+      "id": "b92406f0-1303-47b4-889f-72bccb5636d7",
+      "title": "Stargazer",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507470",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/3B6D9rdXVE8OydXPbUF0fN",
+      "isFallback": true
+    },
+    {
+      "id": "1aec0e35-1a0d-467c-9f49-4c30717715bf",
+      "title": "「ラビットハウスへ行こうよ♪」のうた",
+      "artist": "ココア",
+      "isrc": "",
+      "releaseDate": "2019-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c5096d76-5cf3-4200-a6a7-37dd41b96655",
+      "title": "ミライボウル",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01114576",
+      "releaseDate": "2011-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0o0Y7jzGmaozlAYQxbSgmq",
+      "isFallback": true
+    },
+    {
+      "id": "178f8aa2-0a35-43ab-9d3c-e18de926cdec",
+      "title": "DNA狂詩曲",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01210339",
+      "releaseDate": "2012-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/288zIGOjYWSOKYxELF5VCY",
+      "isFallback": true
+    },
+    {
+      "id": "02d9644d-d835-4456-a345-822b46fa6807",
+      "title": "ナカヨシ!なんです。…よね?",
+      "artist": "天海",
+      "isrc": "",
+      "releaseDate": "2017-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f7b1990b-ffb6-4420-9cce-9e93e096ebfa",
+      "title": "Hello Brand-new Girl",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507500",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/1v9KcK0RM2kIegTZKzrAmk",
+      "isFallback": true
+    },
+    {
+      "id": "a3ce03f6-0cea-4119-bdb8-361adee7f082",
+      "title": "Go☆ahead!",
+      "artist": "イリエ・タマキ",
+      "isrc": "JPZ921312170",
+      "releaseDate": "2013-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/13XXBAx0PaBE6vni7z6wSK",
+      "isFallback": true
+    },
+    {
+      "id": "cc1cd83e-194c-4588-9341-611971825d02",
+      "title": "境界のペンデュラム",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01714028",
+      "releaseDate": "2017-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/66oLRJj7f09RZVDZxSwoqb",
+      "isFallback": true
+    },
+    {
+      "id": "9c8a024b-b23c-466d-bb2a-84d5206237ba",
+      "title": "うたいたい歌",
+      "artist": "カスタマイZ",
+      "isrc": "JPKI01415458",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fdf7d084-2e64-4e01-b651-1b4fb5658f22",
+      "title": "オオスミタイム",
+      "artist": "バニラビーンズ",
+      "isrc": "JPZ921106268",
+      "releaseDate": "2011-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1fOd2XSJTIlkxfEq1V4aHV",
+      "isFallback": true
+    },
+    {
+      "id": "ee6bc1f1-303b-4e55-bb44-5647766fb756",
+      "title": "青空プロローグ",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01507460",
+      "releaseDate": "2015-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/1peEmRfDX1nVqAg97MXs0w",
+      "isFallback": true
+    },
+    {
+      "id": "71a49221-5360-4f45-8a5f-9108223d2054",
+      "title": "Neo STARGATE",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01311174",
+      "releaseDate": "2013-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/62I4VqOmr6Ub1tomOIulPh",
+      "isFallback": true
+    },
+    {
+      "id": "b96c667a-982e-42a9-9b8d-a99e2008f81d",
+      "title": "キミへの帰り道",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01515000",
+      "releaseDate": "2016-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/2K8hEtfWq0Px6EAVfbDNIB",
+      "isFallback": true
+    },
+    {
+      "id": "f96c679d-2c00-48c3-9d18-e9606ea64a05",
+      "title": "足音タルトタタン♪",
+      "artist": "メグ",
+      "isrc": "JPPI01753110",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/565mNzUWawRHQe1noI5cqd",
+      "isFallback": true
+    },
+    {
+      "id": "843e05e2-cac4-4e83-9518-5a11034e75aa",
+      "title": "恋のしらべ",
+      "artist": "天谷春恋",
+      "isrc": "JPCO01140710",
+      "releaseDate": "2012-01-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "20f5deea-8b0a-4c47-9cfa-f14c567ce327",
+      "title": "PUSH",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01213252",
+      "releaseDate": "2012-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/1pmsWVGnyVsjhp1b4b1oMs",
+      "isFallback": true
+    },
+    {
+      "id": "21905b2f-3da6-43a6-9100-f297db3b94ce",
+      "title": "もう少し、あと少し",
+      "artist": "小野田坂道",
+      "isrc": "JPZ921311001",
+      "releaseDate": "2013-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/2XVtzdar3sZnFi39YJxrwW",
+      "isFallback": true
+    },
+    {
+      "id": "6d12d8ac-a9b6-4a25-beb6-eb75ef3b25f1",
+      "title": "なかよし!○!なかよし!",
+      "artist": "チマメ隊",
+      "isrc": "JPPI02050300",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/4CvTjP5mYVceOYZtvgMkYO",
+      "isFallback": true
+    },
+    {
+      "id": "8b3644d2-a8de-41fe-9aaf-56e89b081890",
+      "title": "go to Romance>>>>>",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI01700330",
+      "releaseDate": "2017-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/37N2mkOcXTrlA3KdrG4yvn",
+      "isFallback": true
+    },
+    {
+      "id": "3845d848-8002-42cf-acd9-d31611437b70",
+      "title": "Here now!",
+      "artist": "カスタマイZ",
+      "isrc": "JPKI01612262",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "73b39d16-d43a-4afd-8e40-1aadc63956ef",
+      "title": "ハミングsoon!",
+      "artist": "ココア",
+      "isrc": "JPPI01451410",
+      "releaseDate": "2014-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/3xcjW47UipzRaGcFuyKBJZ",
+      "isFallback": true
+    },
+    {
+      "id": "cfb4b2d2-1113-4858-80bf-117c104e1455",
+      "title": "日常デコレーション",
+      "artist": "Petit Rabbit’s",
+      "isrc": "JPPI01450390",
+      "releaseDate": "2014-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/4RLsDbQyYtvco6mH8Y2g8T",
+      "isFallback": true
+    },
+    {
+      "id": "f400449d-6a13-4a84-9f9b-3b317379ee56",
+      "title": "パスポート",
+      "artist": "飯田里穂",
+      "isrc": "JPTK01606100",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/0YiJKwHNSzknjbqrwal4pY",
+      "isFallback": true
+    },
+    {
+      "id": "83a6a0fd-413b-4598-874b-95a556d37d67",
+      "title": "負けるな小さきものよ",
+      "artist": "若旦那",
+      "isrc": "JPY201606678",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/3sYIhSyik3xryBaccjd4r0",
+      "isFallback": true
+    }
+  ]
+}

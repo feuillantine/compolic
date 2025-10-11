@@ -1,0 +1,213 @@
+{
+  "name": "藤田卓也",
+  "sortName": "フジタタクヤ",
+  "tracks": [
+    {
+      "id": "1e28df28-b3c4-496d-b859-2d5fcb6dc6cc",
+      "title": "stay gold",
+      "artist": "ももいろクローバーZ",
+      "isrc": "JPKI01916328",
+      "releaseDate": "2019-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/2iTMff0H6Mu20KQrJyd3Gq",
+      "isFallback": true
+    },
+    {
+      "id": "bf3b460c-b8a3-47cc-98b2-a13ea5970ad0",
+      "title": "DADA",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300176",
+      "releaseDate": "2024-08-09",
+      "spotifyUrl": "https://open.spotify.com/track/4QJZQ0uh8HEOddrCdhdJaE",
+      "isFallback": true
+    },
+    {
+      "id": "e668cd75-b5ec-4c4e-9d21-c6fbf59e3b04",
+      "title": "FARAWAY",
+      "artist": "小倉唯",
+      "isrc": "JPKI01910303",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/46h7ZjSm8pUyiXKb0R3Cyk",
+      "isFallback": true
+    },
+    {
+      "id": "c3bb295e-c48f-4097-81c7-7e3ec6dd6e66",
+      "title": "入り口",
+      "artist": "Team E",
+      "isrc": "JPB601803929",
+      "releaseDate": "2018-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/4cx0gdgovTjjQ25j55VW89",
+      "isFallback": true
+    },
+    {
+      "id": "e43c9b59-b631-4964-80ac-b38baec776c0",
+      "title": "思いがけないダブルレインボー",
+      "artist": "日向坂46",
+      "isrc": "JPU902102779",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/11pWb8e1lAjyhtHfX6ZtX2",
+      "isFallback": true
+    },
+    {
+      "id": "a67f0716-70cb-4f7c-86df-eaf65dbbb881",
+      "title": "STARTING NOW!",
+      "artist": "水樹奈々",
+      "isrc": "JPKI01613658",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/5Ooq83mAJUTl58Pz9UZXlh",
+      "isFallback": true
+    },
+    {
+      "id": "f9f3b869-b941-4429-961a-582ba91d1cd8",
+      "title": "深夜特急",
+      "artist": "いぎなり東北産",
+      "isrc": "JPX952100045",
+      "releaseDate": "2021-06-06",
+      "spotifyUrl": "https://open.spotify.com/track/3zPW6reqBrF6aIQKdR9ETS",
+      "isFallback": true
+    },
+    {
+      "id": "9e353124-d7c6-4b74-8f04-e6ff6e2526be",
+      "title": "エウレカ！エウレカ！",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300135",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/7DaXaddO08GTyw9KEyTZkz",
+      "isFallback": true
+    },
+    {
+      "id": "aa981b70-5517-4875-bf03-8102ff72df0d",
+      "title": "希望列車",
+      "artist": "NGT48",
+      "isrc": "JPPO02501558",
+      "releaseDate": "2025-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/1WI4New5KRPJ5P0E7KlotT",
+      "isFallback": false
+    },
+    {
+      "id": "2aab26c5-748a-4d92-bece-7012de2b9b07",
+      "title": "札束ビンタ",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300093",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/6kvutsLsvxu27VwDMOToTx",
+      "isFallback": true
+    },
+    {
+      "id": "3d887987-cf5d-4384-aa4d-5900d2924c47",
+      "title": "AM0805の交差点",
+      "artist": "ukka",
+      "isrc": "JPX952200007",
+      "releaseDate": "2022-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/6NMLcgdtOKo9zFjpVPn0hv",
+      "isFallback": true
+    },
+    {
+      "id": "4377e457-cff8-4f02-96ab-94136b4b495e",
+      "title": "さいしょのシングルです！",
+      "artist": "いぎなり東北産",
+      "isrc": "JPB602503257",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/6pSXNuICZpv38cGBbD9dCg",
+      "isFallback": true
+    },
+    {
+      "id": "5572dd8a-4a39-44f7-8d4a-968886d3075e",
+      "title": "さいしょのさいしょ",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651900147",
+      "releaseDate": "2019-05-31",
+      "spotifyUrl": "https://open.spotify.com/track/4wCstVhFkf3CsZWcXwlQyu",
+      "isFallback": false
+    },
+    {
+      "id": "58ea3e34-49c4-45f0-9d1b-c0007edcba2b",
+      "title": "まわるまわるまわる",
+      "artist": "桜エビ～ず",
+      "isrc": "JPR651800064",
+      "releaseDate": "2018-09-05",
+      "spotifyUrl": "https://open.spotify.com/track/1owd0Fi3FbZji0zpA0sKpa",
+      "isFallback": false
+    },
+    {
+      "id": "b6e79451-425d-4bf9-be51-f38515597f4a",
+      "title": "きみに夢中ガール",
+      "artist": "ときめき♡宣伝部",
+      "isrc": "JPB601901212",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/6wHoaIymiT4eeLYtpmFuBh",
+      "isFallback": true
+    },
+    {
+      "id": "e470f71e-e03c-4f8a-840e-df5c1c709e31",
+      "title": "地元Love",
+      "artist": "エレファンク庭",
+      "isrc": "JPG321300137",
+      "releaseDate": "2021-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/66HsfdjJ9Qr7xKasQodhBm",
+      "isFallback": true
+    },
+    {
+      "id": "2676f7e5-9144-45a5-b7cb-36fb662b3845",
+      "title": "もっともっと もうちょっと",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602303372",
+      "releaseDate": "2023-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/28GQiGf0xJolSK4JmBAJnm",
+      "isFallback": false
+    },
+    {
+      "id": "d9b58242-1cc5-4695-89f8-846ae959acfa",
+      "title": "OTAKARA",
+      "artist": "Always Loveyou",
+      "isrc": "JPX952400051",
+      "releaseDate": "2024-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/16Ew8MqHtp9bPM51nk6PM4",
+      "isFallback": true
+    },
+    {
+      "id": "c98e061c-c8f3-4c1d-860a-68172ab07b36",
+      "title": "ここから",
+      "artist": "B.O.L.T",
+      "isrc": "JPKI02013396",
+      "releaseDate": "2019-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/0sQ0o5kzb7rEfasLXzKILS",
+      "isFallback": true
+    },
+    {
+      "id": "f2222b22-741f-4921-95d3-605df5c9887b",
+      "title": "時間。光り輝く螺旋の球。",
+      "artist": "ukka",
+      "isrc": "JPR652000134",
+      "releaseDate": "2020-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/61Uohb5prkdkyre4IMpbJN",
+      "isFallback": true
+    },
+    {
+      "id": "de81598c-c4ac-4305-9477-b648dbc8c5e3",
+      "title": "ラスタート",
+      "artist": "戸松遥",
+      "isrc": "JPX401900088",
+      "releaseDate": "2019-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/5OVuw53DLVwfTCGmCnhCx2",
+      "isFallback": true
+    },
+    {
+      "id": "6accaed6-1a05-43b0-b7b4-66348b3bc701",
+      "title": "制服少女～ヒマワリが咲く場所～",
+      "artist": "Always Loveyou",
+      "isrc": "JPX952400050",
+      "releaseDate": "2024-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/1RuJUxIFjirtrbSwbcZmPT",
+      "isFallback": true
+    },
+    {
+      "id": "936d0940-922e-4f3c-9fb0-a3ec62f16ad5",
+      "title": "風になる",
+      "artist": "金時琴子",
+      "isrc": "JPKI01817117",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/3udbxpNlno3mOhWs6uyiv0",
+      "isFallback": true
+    }
+  ]
+}

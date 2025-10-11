@@ -23,7 +23,7 @@ export const Footer: React.FC<FooterProps> = ({ total, overall, showAllButton, o
         <span>表示件数</span>
         <Badge>{total.toLocaleString()}</Badge>
       </div>
-      {overall && showAllButton && onShowAll && (
+      {overall !== undefined && showAllButton && onShowAll && (
         <div>
           <Button type="button" size="sm" onClick={onShowAll} aria-label="全件表示">
             {`全件（${overall.toLocaleString()}件）表示`}

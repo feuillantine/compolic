@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 220 23% 97%;
+    --foreground: 240 10% 31%;
+    --card: 0 0% 100%;
+    --card-foreground: var(--foreground);
+    --popover: 0 0% 100%;
+    --popover-foreground: var(--foreground);
+    --primary: 277 38% 75%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 230 20% 94%;
+    --secondary-foreground: 240 9% 20%;
+    --muted: 230 18% 96%;
+    --muted-foreground: 240 6% 40%;
+    --accent: 267 84% 81%;
+    --accent-foreground: 240 10% 15%;
+    --destructive: 347 87% 44%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 240 6% 88%;
+    --input: 240 6% 85%;
+    --ring: 277 38% 75%;
+    --breakpoint-md: 60em;
+    --radius: 8px;
+
+    .bg-primary-10 { background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent); }
+    .bg-primary-20 { background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent); }
+    .hover\:bg-primary-10:hover { background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent); }
+    .bg-secondary-30 { background-color: color-mix(in oklab, hsl(var(--secondary)) 30%, transparent); }
+    .bg-secondary-40 { background-color: color-mix(in oklab, hsl(var(--secondary)) 40%, transparent); }
+    .table-zebra tbody tr:nth-child(even) { background-color: color-mix(in oklab, hsl(var(--secondary)) 26%, transparent); }
+
+    :not(html,body)::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+
+    :not(html,body)::-webkit-scrollbar-track {
+      border-radius: 4px;
+      background: transparent;
+    }
+
+    :not(html,body)::-webkit-scrollbar-thumb {
+      border-radius: 4px;
+      background: var(--color-stone-100);
+    }
+  }
+
+  .dark {
+    --background: 249 19% 14%;
+    --foreground: 226 64% 87%;
+    --card: 249 19% 17%;
+    --card-foreground: var(--foreground);
+    --popover: 249 19% 17%;
+    --popover-foreground: var(--foreground);
+    --primary-foreground: 249 19% 14%;
+    --secondary: 249 19% 20%;
+    --secondary-foreground: var(--foreground);
+    --muted: 249 19% 20%;
+    --muted-foreground: 226 64% 70%;
+    --accent: 267 84% 81%;
+    --accent-foreground: 249 19% 14%;
+    --destructive: 347 87% 54%;
+    --destructive-foreground: 249 19% 14%;
+    --border: 249 19% 24%;
+    --input: 249 19% 24%;
+  }
+
+  .dark :not(html,body)::-webkit-scrollbar-thumb {
+    background: color-mix(in oklab, hsl(var(--secondary)) 100%, transparent);
+  }
+
+  html, body {
+    height: 100%;
+  }
+
+  /* * { border-color: hsl(var(--border)); } */
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    min-height: 100%;
+    font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans JP", sans-serif;
+    font-size: 12px;
+  }
+}
+
+@layer utilities {
+  a { color: hsl(var(--primary)); }
+  a:hover { text-decoration: underline; }
+  .bg-background { background-color: hsl(var(--background)); }
+  .bg-card { background-color: hsl(var(--card)); }
+  .bg-popover { background-color: hsl(var(--popover)); }
+  .text-foreground { color: hsl(var(--foreground)); }
+  .text-muted-foreground { color: hsl(var(--muted-foreground)); }
+  .text-primary-foreground { color: hsl(var(--primary-foreground)); }
+  .text-secondary-foreground { color: hsl(var(--secondary-foreground)); }
+  .text-accent-foreground { color: hsl(var(--accent-foreground)); }
+  .text-destructive-foreground { color: hsl(var(--destructive-foreground)); }
+  .bg-primary { background-color: hsl(var(--primary)); }
+  .bg-secondary { background-color: hsl(var(--secondary)); }
+  .bg-accent { background-color: hsl(var(--accent)); }
+  .bg-destructive { background-color: hsl(var(--destructive)); }
+  .border-border { border-color: color-mix(in oklab, hsl(var(--border)) 70%, transparent); }
+  .hover\:bg-muted:hover { background-color: hsl(var(--muted)); }
+  .ring-ring { --tw-ring-color: hsl(var(--ring)); }
+  .rounded-lg { border-radius: var(--radius); }
+  .rounded-md { border-radius: calc(var(--radius) - 2px); }
+}

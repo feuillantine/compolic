@@ -16,7 +16,8 @@ dist/
 data/files.json
 
 # VS Code
-.vscode/settings.json
+.vscode/*.json
+!.vscode/extension.json
 
 # Temporary
 temp/

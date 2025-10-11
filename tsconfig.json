@@ -2,15 +2,15 @@
   "compilerOptions": {
     // バージョン
     "target": "ESNext",
-    "lib": ["ESNext"],
+    "lib": ["ESNext", "DOM"],
     // モジュール
     "module": "Preserve",
     "verbatimModuleSyntax": true,
+    "moduleResolution": "Bundler",
+    "baseUrl": ".",
+    "paths": {"@/*": ["src/*"]},
     "esModuleInterop": true,
     "resolveJsonModule": true,
-    "paths": {
-      "@/*": ["./src/*"]
-    },
     // 入出力
     "noEmit": true,
     "rootDir": ".",
@@ -27,8 +27,10 @@
     "allowUnreachableCode": true,
     "forceConsistentCasingInFileNames": true,
     // パフォーマンス
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    // JSX
+    "jsx": "react-jsx"
   },
-  "include": ["src/**/*.ts", "preview/**/*.ts"],
+  "include": ["src/**/*.ts"],
   "exclude": ["node_modules"]
 }

@@ -4,16 +4,15 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
-    "lint": "tsc --noEmit && biome check ./preview ./src",
-    "lint:fix": "tsc --noEmit && biome check ./preview ./src --write",
-    "preview": "tsx preview/server.ts"
+    "lint": "tsc --noEmit && biome check",
+    "lint:fix": "tsc --noEmit && biome check --write",
+    "build": "npm run build --prefix preview"
   },
   "devDependencies": {
     "@biomejs/biome": "2.1.2",
     "@types/express": "^5.0.3",
     "@types/node": "^24.0.15",
     "@types/spotify-web-api-node": "^5.0.11",
-    "express": "^5.1.0",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   },

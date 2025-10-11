@@ -6,6 +6,7 @@
     "useIgnoreFile": false
   },
   "files": {
+    "includes": ["src/**/*.ts", "preview/src/**/*.ts", "preview/src/**/*.tsx"],
     "ignoreUnknown": false,
     "experimentalScannerIgnores": ["dist", "node_modules"]
   },

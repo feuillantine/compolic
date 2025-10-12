@@ -1000,6 +1000,15 @@
       "releaseDate": "2023-04-07",
       "spotifyUrl": "https://open.spotify.com/track/2k40iubC86JaBGu8RsBujg",
       "isFallback": false
+    },
+    {
+      "id": "f5c01df2-18db-4a45-98f9-c6ea1b9fc374",
+      "title": "Capture Me",
+      "artist": "ヒゲドライバー",
+      "isrc": "TCAJT2587435",
+      "releaseDate": "2025-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/44ohKn78fZfaBapzMaSle4",
+      "isFallback": true
     }
   ]
 }

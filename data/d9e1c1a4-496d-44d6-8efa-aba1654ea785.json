@@ -499,6 +499,15 @@
       "releaseDate": "2022-10-26",
       "spotifyUrl": "https://open.spotify.com/track/45cV6jpdjQ10kMNGuswlXq",
       "isFallback": false
+    },
+    {
+      "id": "1f7a59ed-acca-43ae-adeb-560bddcdd7c7",
+      "title": "V.R.W",
+      "artist": "カラスヤサボウ",
+      "isrc": "TCAJW2502254",
+      "releaseDate": "2025-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/0jUMzozDKQLRLZAYdm305D",
+      "isFallback": true
     }
   ]
 }

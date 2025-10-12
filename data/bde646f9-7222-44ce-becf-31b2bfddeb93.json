@@ -1,0 +1,105 @@
+{
+  "name": "杉浦”ラフィン”誠一郎",
+  "sortName": "SugiuraSeiichiro“Rafin”",
+  "tracks": [
+    {
+      "id": "58c64e6a-2117-4ef9-bbd4-581737e1ef2b",
+      "title": "ふたりスタイル",
+      "artist": "杉浦綾乃",
+      "isrc": "",
+      "releaseDate": "2016-03-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "42a8adeb-521b-4233-8d7b-9737318b1e58",
+      "title": "おひるねゆにばーす",
+      "artist": "七森中☆ごらく部",
+      "isrc": "JPPC01501160",
+      "releaseDate": "2015-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/6WmokyfRPxTpC3GLhBSVKV",
+      "isFallback": true
+    },
+    {
+      "id": "6688a4dc-2012-4062-bd4f-32df2feaddb4",
+      "title": "ぜんぜんあいたい",
+      "artist": "沼倉愛美",
+      "isrc": "",
+      "releaseDate": "2012-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6b1871d2-b9dc-424d-b417-d5430b913e2c",
+      "title": "きらきらキララ☆彡",
+      "artist": "うちやえゆか",
+      "isrc": "JPPC00800926",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/2pEVrMR3jJh2lloziUa22U",
+      "isFallback": true
+    },
+    {
+      "id": "3015bed9-1557-4f92-a396-bfc50af22e2c",
+      "title": "いぇす! ゆゆゆ☆ゆるゆり♪♪",
+      "artist": "七森中☆ごらく部",
+      "isrc": "JPPC01201720",
+      "releaseDate": "2012-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/237dREjci0EY0iMcU6W02j",
+      "isFallback": true
+    },
+    {
+      "id": "a608ac7d-6f9c-4093-88ec-b3921d45eee4",
+      "title": "ボクノリズム",
+      "artist": "折笠富美子",
+      "isrc": "JPPI00765890",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6ihXUsaFBlfaUdD9AGAH2l",
+      "isFallback": true
+    },
+    {
+      "id": "e0cb0050-19a0-4719-a1ee-14553886acdd",
+      "title": "みんなだいすきのうた",
+      "artist": "赤座あかり",
+      "isrc": "JPPC01300030",
+      "releaseDate": "2013-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/1SE9FJkdwdxxpac49RqmGG",
+      "isFallback": true
+    },
+    {
+      "id": "831956a5-cf1c-4fcf-b9bc-4b90efc2f089",
+      "title": "あなたでなければ",
+      "artist": "折笠富美子",
+      "isrc": "JPPI00765860",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/64TozeIhVV41xXaBb5D6mb",
+      "isFallback": true
+    },
+    {
+      "id": "19a75b53-28aa-4e64-a14d-ee76150b79ce",
+      "title": "starting!",
+      "artist": "折笠富美子",
+      "isrc": "JPPI00765810",
+      "releaseDate": "2007-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4MxRZcFXMVai72DAeW4Res",
+      "isFallback": true
+    },
+    {
+      "id": "d4f702b0-e06b-41f3-911d-c0284df6376d",
+      "title": "ナツノハナ＊ものがたり",
+      "artist": "古谷向日葵",
+      "isrc": "JPPC01502301",
+      "releaseDate": "2015-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/0gQaek4x6TxHsiQ9fDprgr",
+      "isFallback": true
+    },
+    {
+      "id": "15f22092-5765-4abf-88e0-6c07c6a179ca",
+      "title": "れでぃぱんさぁ",
+      "artist": "Buono!",
+      "isrc": "JPPC00801325",
+      "releaseDate": "2008-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/17J2aQFZuepjjhDDc5mAUs",
+      "isFallback": true
+    }
+  ]
+}

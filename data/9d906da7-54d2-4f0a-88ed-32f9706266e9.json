@@ -478,6 +478,15 @@
       "releaseDate": "2015-04-15",
       "spotifyUrl": "https://open.spotify.com/track/4ZyqoHxl8zmtjOfWmBXMBX",
       "isFallback": true
+    },
+    {
+      "id": "3592db2e-6d7d-43f3-b834-c16c6e56e2ac",
+      "title": "Missing",
+      "artist": "なにわ男子",
+      "isrc": "JPQ402301890",
+      "releaseDate": "2023-09-13",
+      "spotifyUrl": "https://open.spotify.com/track/4qkldQIRSpTQQrEHgXoxcg",
+      "isFallback": true
     }
   ]
 }

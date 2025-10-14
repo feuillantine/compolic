@@ -419,6 +419,15 @@
       "releaseDate": "2025-04-24",
       "spotifyUrl": "https://open.spotify.com/track/3TTNytlfWKSITK7DBGQZtz",
       "isFallback": true
+    },
+    {
+      "id": "bd8563b1-4c1f-4550-a136-9173f5fad7ff",
+      "title": "그림자까지 좋아",
+      "artist": "도티",
+      "isrc": "",
+      "releaseDate": "2017-05-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

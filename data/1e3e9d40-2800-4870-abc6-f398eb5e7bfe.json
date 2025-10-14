@@ -1,0 +1,240 @@
+{
+  "name": "石井健太郎",
+  "sortName": "イシイケンタrō",
+  "tracks": [
+    {
+      "id": "29db19ab-f68d-4ce7-a2cf-55219e931193",
+      "title": "You are my only one",
+      "artist": "金時琴子",
+      "isrc": "JPKI01817116",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/2sL2mAi9IRliYYE9QwgnsJ",
+      "isFallback": true
+    },
+    {
+      "id": "90e889d0-a70d-43f0-b290-917d1bb7179e",
+      "title": "ROMANTIC SHAKER",
+      "artist": "伊集院北斗",
+      "isrc": "JPI101700277",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/1Zia9UO4AgrArmKu7XoScL",
+      "isFallback": false
+    },
+    {
+      "id": "10ee6c2d-17af-4fe3-9873-75e42c38f8dc",
+      "title": "ANYWHERE",
+      "artist": "315 STARS",
+      "isrc": "JPI102104041",
+      "releaseDate": "2022-03-12",
+      "spotifyUrl": "https://open.spotify.com/track/5bfLwiJ0cAEWOs2PvSAF6p",
+      "isFallback": false
+    },
+    {
+      "id": "85593218-f738-40d8-aeae-474e181d8fd6",
+      "title": "不器用",
+      "artist": "LoVendoЯ",
+      "isrc": "JPA601400055",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "https://open.spotify.com/track/2B3F5S7PHG3Zvwvc605F26",
+      "isFallback": true
+    },
+    {
+      "id": "42903c52-756a-4391-828d-196a3095a6f9",
+      "title": "稲妻スピリット",
+      "artist": "横山奈緒",
+      "isrc": "JPI102202147",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/3tOGQym8VauhRw5NVGQDhz",
+      "isFallback": false
+    },
+    {
+      "id": "e364a3eb-bdd2-4195-8889-647750465805",
+      "title": "窓辺の予感",
+      "artist": "長門有希",
+      "isrc": "JPI101500672",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/0SHdevtoXBqo1JdkbabJ9R",
+      "isFallback": true
+    },
+    {
+      "id": "800c4827-7c29-4aa3-8581-5d57a57190d0",
+      "title": "待てないアフターファイブ",
+      "artist": "カントリー・ガールズ",
+      "isrc": "JPA601800161",
+      "releaseDate": "2018-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/4ZRSgCQ32Jryw0mMNaCUC3",
+      "isFallback": true
+    },
+    {
+      "id": "7a31c5ef-7983-4809-9ab1-08cd8b6e1788",
+      "title": "夕暮れと星空の間",
+      "artist": "渡辺麻友",
+      "isrc": "JPU901501550",
+      "releaseDate": "2015-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/0BIl0Xi4DagZI8UoPcd7rC",
+      "isFallback": true
+    },
+    {
+      "id": "8eff6ac0-d1c0-4651-a405-d6b7146609d5",
+      "title": "trust",
+      "artist": "松澤由美",
+      "isrc": "JPK631900238",
+      "releaseDate": "2019-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/6P8RAd5c9wt3XNaT5O9dfe",
+      "isFallback": true
+    },
+    {
+      "id": "ee7bd110-3e4a-4e29-a2ef-119a3979cdac",
+      "title": "ラブ・ボナペティート",
+      "artist": "アルストロメリア",
+      "isrc": "JPI102101892",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/0Mr2zkWpiKi3ygTicq0vZM",
+      "isFallback": false
+    },
+    {
+      "id": "0388864f-ac6b-4e1a-a919-cafa6b1a3a0a",
+      "title": "初恋バタフライ",
+      "artist": "宮尾美也",
+      "isrc": "JPI101402325",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub",
+      "isFallback": false
+    },
+    {
+      "id": "93ad648d-100f-45b4-aaa5-df5e7bcf506b",
+      "title": "永遠の白線",
+      "artist": "けやき坂46",
+      "isrc": "JPU901701973",
+      "releaseDate": "2017-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/732T0BO4aGXX6z5228umHZ",
+      "isFallback": true
+    },
+    {
+      "id": "133e54d3-2989-402e-9552-4e25666ed016",
+      "title": "この世を照らすもの",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752408322",
+      "releaseDate": "2024-02-29",
+      "spotifyUrl": "https://open.spotify.com/track/1TpfI0UXwlYRkxwciXoo8J",
+      "isFallback": true
+    },
+    {
+      "id": "8c192333-b59e-444a-a59f-1c24280d92a1",
+      "title": "“生徒手帳の写真は気に入っていない”の法則",
+      "artist": "NMB48",
+      "isrc": "JPN001400299",
+      "releaseDate": "2014-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/3820JhsvrOvBJIajq4vbh5",
+      "isFallback": true
+    },
+    {
+      "id": "e2aed514-ca27-4db9-9c37-2b27a1cf8123",
+      "title": "鳥かごのロンリーバード",
+      "artist": "ヒシアマゾン",
+      "isrc": "JPI101700206",
+      "releaseDate": "2017-02-22",
+      "spotifyUrl": "https://open.spotify.com/track/2hg50iDcOb8uZLu3XAvgEh",
+      "isFallback": true
+    },
+    {
+      "id": "bdd909d5-d2da-4024-9c32-0700eb5842b3",
+      "title": "世界を灰にするまで",
+      "artist": "星見純那",
+      "isrc": "JPPC01801161",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/5ngJ3U3G9ZYCJNYYlpRm7r",
+      "isFallback": false
+    },
+    {
+      "id": "617eb601-95b0-46c7-ad83-f2666d83eb5e",
+      "title": "アンラッキーの事情",
+      "artist": "こぶしファクトリー",
+      "isrc": "JPA601900333",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/6ufDmkJXfk28B8MbET02kL",
+      "isFallback": true
+    },
+    {
+      "id": "0a051bcc-b3a4-476b-bfff-cdb2f7f37a77",
+      "title": "週刊少年少女アイドル",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02014198",
+      "releaseDate": "2020-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/1DP27V32KtHZJGO8qDtWSz",
+      "isFallback": true
+    },
+    {
+      "id": "ed5e1bb4-7f37-4891-8772-841776d83ce4",
+      "title": "僕らだけの未来の空",
+      "artist": "ノクチル",
+      "isrc": "JPI102102633",
+      "releaseDate": "2021-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/4PLZYL3uBFJxfVuZqVUAAf",
+      "isFallback": false
+    },
+    {
+      "id": "32f9a843-36a0-478e-b925-dbc3b9190d8a",
+      "title": "DETECTIVE HIGH! 〜恋探偵物語〜",
+      "artist": "双海真美",
+      "isrc": "JPI101400153",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/05YnXrCKpJhgiAS3JAFDq2",
+      "isFallback": false
+    },
+    {
+      "id": "025e5dbc-cf71-49e1-8c68-e1228678243e",
+      "title": "抱きつこうか？",
+      "artist": "AKB48 16期研究生",
+      "isrc": "JPKI01714955",
+      "releaseDate": "2017-08-30",
+      "spotifyUrl": "https://open.spotify.com/track/2MQOyPcgEFfgqchs1YeBNd",
+      "isFallback": true
+    },
+    {
+      "id": "01fbadc6-bcad-49bb-9801-f9ba3151433e",
+      "title": "POKER FAITH -ポーカーフェイス-",
+      "artist": "315 STARS",
+      "isrc": "JPI101802916",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz",
+      "isFallback": false
+    },
+    {
+      "id": "44f969c4-bb95-4b02-8edd-b04f832f78b4",
+      "title": "キレイになりたい",
+      "artist": "けやき坂46",
+      "isrc": "JPU901801745",
+      "releaseDate": "2018-06-20",
+      "spotifyUrl": "https://open.spotify.com/track/5pGouYTAGNYa7iX2ZceBtb",
+      "isFallback": true
+    },
+    {
+      "id": "5931143b-c731-4109-ac4c-e4ba668ae908",
+      "title": "Departure",
+      "artist": "佐々木李子",
+      "isrc": "JPF701801701",
+      "releaseDate": "2019-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/2EDX1FycWmdzhumq2PKm36",
+      "isFallback": true
+    },
+    {
+      "id": "03aaf328-4dd5-42a9-9be5-70603fe32da3",
+      "title": "光のカーテン",
+      "artist": "つばきファクトリー",
+      "isrc": "JPA602100073",
+      "releaseDate": "2021-05-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "73722b1a-f16f-40dd-b497-d81eeca2254c",
+      "title": "どうってことないsympathy",
+      "artist": "内村史子",
+      "isrc": "JPPC01400961",
+      "releaseDate": "2014-06-11",
+      "spotifyUrl": "https://open.spotify.com/track/5q2A2XLFgTDhIDAbgyl9rx",
+      "isFallback": true
+    }
+  ]
+}

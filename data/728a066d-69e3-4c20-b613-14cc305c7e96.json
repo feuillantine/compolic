@@ -82,6 +82,15 @@
       "releaseDate": "2023-10-20",
       "spotifyUrl": "https://open.spotify.com/track/2HBLnCvKDxtETzxQNAkniT",
       "isFallback": false
+    },
+    {
+      "id": "70577f2a-1d61-4215-9a74-c795b7c0b3a1",
+      "title": "Ref:rain (for 7th Heaven)",
+      "artist": "カモメサノエレクトリックオーケストラ",
+      "isrc": "QT66K2512827",
+      "releaseDate": "2025-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/18eNW9ma7w76XwpvIclcGM",
+      "isFallback": false
     }
   ]
 }

@@ -721,6 +721,15 @@
       "releaseDate": "2009-01-21",
       "spotifyUrl": "https://open.spotify.com/track/6U08IWABRtaUQZo1qix1eB",
       "isFallback": true
+    },
+    {
+      "id": "3d7becfd-0791-4687-8bf7-099eb7f281bf",
+      "title": "Vivid School Graffiti☆☆",
+      "artist": "鈴村優",
+      "isrc": "JPX402500170",
+      "releaseDate": "2025-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/22HIzZy5rD8GZ4NbnDaA4Q",
+      "isFallback": true
     }
   ]
 }

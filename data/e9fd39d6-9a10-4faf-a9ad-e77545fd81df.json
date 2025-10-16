@@ -91,6 +91,24 @@
       "releaseDate": "2017-06-30",
       "spotifyUrl": "https://open.spotify.com/track/2aT7l4HYgiAghMhl04p9uJ",
       "isFallback": true
+    },
+    {
+      "id": "b2579c69-f964-475f-bae6-58d3f7d19023",
+      "title": "でび&えん☆Reversible-Ring ～凛 & まどか ver.～",
+      "artist": "ななせ",
+      "isrc": "JPT552500771",
+      "releaseDate": "2025-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/6bnuKiVb9IrBAJduG5u7hK",
+      "isFallback": true
+    },
+    {
+      "id": "fa0705cf-8d21-4cb9-8d68-151eba773bc4",
+      "title": "ま～ぶるMake up a-ha-ha! ～みれぃ & ひなき ver.～",
+      "artist": "南みれぃ",
+      "isrc": "JPT552500768",
+      "releaseDate": "2025-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/7tjS3iyujkWHtIYlcVyeHF",
+      "isFallback": true
     }
   ]
 }

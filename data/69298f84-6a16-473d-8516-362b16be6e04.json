@@ -1351,6 +1351,15 @@
       "releaseDate": "2023-10-25",
       "spotifyUrl": "https://open.spotify.com/track/45WpAepSaCYW4MMNVDrcNq",
       "isFallback": false
+    },
+    {
+      "id": "fc42db0a-2ed7-4f46-add5-49df0df8aae3",
+      "title": "ハッピーチューニング",
+      "artist": "るか、りえ、みき、真中らぁら(CV.茜屋日海夏)",
+      "isrc": "JPI102502274",
+      "releaseDate": "2025-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/7dsgf6wnE2VueH14ACU9ex",
+      "isFallback": true
     }
   ]
 }

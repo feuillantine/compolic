@@ -1156,6 +1156,15 @@
       "releaseDate": "2023-02-15",
       "spotifyUrl": "https://open.spotify.com/track/1QI98CIMOemc1OV7YHpoTb",
       "isFallback": false
+    },
+    {
+      "id": "6bf81d24-94b4-4511-bcdb-bd6cea1d3bb5",
+      "title": "プリティー×アクティビティ",
+      "artist": "るか",
+      "isrc": "JPT552500766",
+      "releaseDate": "2025-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/1PlsBOBoAyRGatbNyA4cqZ",
+      "isFallback": true
     }
   ]
 }

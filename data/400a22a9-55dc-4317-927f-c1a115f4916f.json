@@ -670,6 +670,15 @@
       "releaseDate": "1993-06-01",
       "spotifyUrl": "https://open.spotify.com/track/4QOeo7TtiJntEz9oehagTV",
       "isFallback": true
+    },
+    {
+      "id": "b4077995-701e-4172-8d47-68ac47bb7ba8",
+      "title": "スウィート・ソウル・レヴュー",
+      "artist": "Pizzicato Five",
+      "isrc": "JPCO09304690",
+      "releaseDate": "1998-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/4QOeo7TtiJntEz9oehagTV",
+      "isFallback": true
     }
   ]
 }

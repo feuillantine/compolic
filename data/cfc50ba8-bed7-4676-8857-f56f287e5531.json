@@ -838,6 +838,15 @@
       "releaseDate": "2021-09-29",
       "spotifyUrl": "https://open.spotify.com/track/3Obgbl8pxYPuXAZzVhVTTy",
       "isFallback": false
+    },
+    {
+      "id": "23ef287d-cea2-49c0-a525-4928bcc22ea5",
+      "title": "Like Blooming Flowers",
+      "artist": "千寿いろは",
+      "isrc": "JPI102402059",
+      "releaseDate": "2025-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/0B7sS35BCxBerRMoTKLqZ8",
+      "isFallback": true
     }
   ]
 }

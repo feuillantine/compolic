@@ -901,6 +901,15 @@
       "releaseDate": "2023-07-19",
       "spotifyUrl": "https://open.spotify.com/track/1YsTcRMaFmaHpmmya0cl4a",
       "isFallback": false
+    },
+    {
+      "id": "cb216199-1333-430e-ba05-95cc82ada077",
+      "title": "Sunny day in June.",
+      "artist": "静香",
+      "isrc": "JPI102501632",
+      "releaseDate": "2025-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/2RnxE0163Nxokw9q9cYBFO",
+      "isFallback": true
     }
   ]
 }

@@ -33,10 +33,10 @@ jobs:
           if [ -n "$(git status --porcelain -- data)" ]; then
             git add data
             git commit -m "楽曲データ更新（定期）"
-            git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git remote set-url origin "https://x-access-token:${PAT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
             git push
           else
             echo "データの追加はありませんでした"
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

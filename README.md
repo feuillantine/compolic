@@ -23,6 +23,23 @@ src/utils/           機能別ユーティリティ
 - Spotify開発者アプリのクレデンシャル(Client ID/Secret)
 - 同期用Spotifyプレイリスト（2つ）
 
+## セットアップ（GitHub Actions）
+GitHub Actionsで自動更新を利用する場合、以下のSecretsを設定する必要があります
+
+### 必須Secrets
+1. **PAT_TOKEN**: Personal Access Token
+   - Settings → Developer settings → Personal access tokens → Tokens(classic)で作成
+   - 必要な権限: `repo`(Full control of private repositories)
+   - 用途: 自動更新時にデプロイワークフローをトリガーするために使用
+   - 注意: 通常のGITHUB_TOKENでは他のワークフローをトリガーできないため、PATが必要
+
+2. **SPOTIFY_CLIENT_ID**: Spotify開発者アプリのClient ID
+3. **SPOTIFY_CLIENT_SECRET**: Spotify開発者アプリのClient Secret
+4. **SPOTIFY_REFRESH_TOKEN**: Spotifyリフレッシュトークン
+   - ローカルで`npm run start get-spotify-refresh-token`を実行して取得
+5. **SPOTIFY_MAIN_PLAYLIST_ID**: メインプレイリストID（作曲者以外がアーティストの楽曲用）
+6. **SPOTIFY_SUB_PLAYLIST_ID**: サブプレイリストID（作曲者本人がアーティストの楽曲用）
+
 ## セットアップ（ローカル）
 1. 依存インストール
    ```bash

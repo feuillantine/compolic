@@ -28,8 +28,15 @@ GitHub Actionsで自動更新を利用する場合、以下のSecretsを設定�
 
 ### 必須Secrets
 1. **PAT_TOKEN**: Personal Access Token
-   - Settings → Developer settings → Personal access tokens → Tokens(classic)で作成
-   - 必要な権限: `repo`(Full control of private repositories)
+   - 作成方法:
+     - **Fine-grained tokens(推奨)**: Settings → Developer settings → Personal access tokens → Fine-grained tokensで作成
+       - Repository access: Only select repositories（このリポジトリのみ選択）
+       - Permissions:
+         - Contents: Read and write
+         - Metadata: Read-only（自動的に設定される）
+         - Workflows: Read and write
+     - **Tokens(classic)**: Settings → Developer settings → Personal access tokens → Tokens(classic)で作成
+       - 必要な権限: `repo`(Full control of private repositories)
    - 用途: 自動更新時にデプロイワークフローをトリガーするために使用
    - 注意: 通常のGITHUB_TOKENでは他のワークフローをトリガーできないため、PATが必要
 

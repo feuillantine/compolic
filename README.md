@@ -24,7 +24,7 @@ src/utils/           機能別ユーティリティ
 - 同期用Spotifyプレイリスト（2つ）
 
 ## セットアップ（GitHub Actions）
-GitHub Actionsで自動更新を利用する場合、以下のSecretsを設定する必要があります
+GitHub Actionsで自動更新を利用する場合、以下のSecretsを設定する必要があります。
 
 ### 必須Secrets
 1. **PAT_TOKEN**: Personal Access Token

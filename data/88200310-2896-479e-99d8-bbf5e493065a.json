@@ -1,0 +1,276 @@
+{
+  "name": "CHEEBOW",
+  "sortName": "チーボウ",
+  "tracks": [
+    {
+      "id": "503bedba-3e37-49e0-a87b-cf946b90dc9d",
+      "title": "アイオライト",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439088",
+      "releaseDate": "2024-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/7aRuNR4MY5xBHzUzljZOMm",
+      "isFallback": true
+    },
+    {
+      "id": "1d0d441a-639f-4073-8122-6924c5c336ba",
+      "title": "Our Music",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPP321600373",
+      "releaseDate": "2016-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/2StBFWH8yI9Mrznc1NaftF",
+      "isFallback": true
+    },
+    {
+      "id": "d0683633-34c1-43d5-8b0e-bde4cf456165",
+      "title": "少女たちの微熱",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "TCJPI2511395",
+      "releaseDate": "2015-03-10",
+      "spotifyUrl": "https://open.spotify.com/track/4lxJiUBDsZ4yIkw9LvB2VF",
+      "isFallback": true
+    },
+    {
+      "id": "efd8022c-d5d4-46ae-a955-e7f486b156ab",
+      "title": "Every Love You",
+      "artist": "nano*pico",
+      "isrc": "",
+      "releaseDate": "2008-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1c55c5b9-27d1-4af7-a4ce-db87914d8650",
+      "title": "ちゃお",
+      "artist": "KAMOがネギをしょってくるッ!!!",
+      "isrc": "TCJPB2439111",
+      "releaseDate": "2017-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/6odwDmxbspRf9RuVxNLrJe",
+      "isFallback": true
+    },
+    {
+      "id": "04471a3f-efba-49ac-b365-9900dbf36cd8",
+      "title": "えんどれす☆冒険Day!",
+      "artist": "桃箱",
+      "isrc": "",
+      "releaseDate": "2013-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2c0b299-2b7f-41b0-b3ce-2b7d21b1c3cf",
+      "title": "虹を見たか",
+      "artist": "愛乙女★DOLL",
+      "isrc": "",
+      "releaseDate": "2013-12-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf96ec10-d069-4475-a458-f40fef74f2fe",
+      "title": "「これから」",
+      "artist": "アクアノート",
+      "isrc": "JPL591902460",
+      "releaseDate": "2019-09-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4eb2e5b-b0d1-4f73-9eba-2afa7889d51c",
+      "title": "がーるずびー",
+      "artist": "nano*pico",
+      "isrc": "",
+      "releaseDate": "2008-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4fc97250-7ef6-4859-a5ec-5357b6641f69",
+      "title": "魔法少女☆未満",
+      "artist": "夢眠ねむ",
+      "isrc": "JPTF01819801",
+      "releaseDate": "2018-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/49sjbfLf6MtJya3fZSvfpY",
+      "isFallback": true
+    },
+    {
+      "id": "fb6c10cf-f93c-4cb0-a8e3-d63b2f4ae091",
+      "title": "君はストーム",
+      "artist": "愛乙女★DOLL",
+      "isrc": "",
+      "releaseDate": "2013-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "63d8c4b0-47f8-4c47-a5b8-9190969c4c27",
+      "title": "Puro☆Unfiore 2020ver.",
+      "artist": "綺星★フィオレナード",
+      "isrc": "TCJPM2079429",
+      "releaseDate": "2020-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/182Jy7KBAklz5x4xHqbCQj",
+      "isFallback": true
+    },
+    {
+      "id": "55b05d5c-0ad2-4043-91c3-5a97b38375c1",
+      "title": "マジ恋☆パンチ",
+      "artist": "逢沢ありあ",
+      "isrc": "",
+      "releaseDate": "2013-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "803b6e7f-fde5-4123-882b-d2cf4360c729",
+      "title": "フェルミ☆パラドックス",
+      "artist": "nano*pico",
+      "isrc": "",
+      "releaseDate": "2008-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1ea3acac-ae32-4dbe-88e6-411075ef8c09",
+      "title": "きっと、アイだね",
+      "artist": "Palette Project",
+      "isrc": "TCJPM2061631",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/52yEFaDPXUt4IfyUf1Z5mL",
+      "isFallback": false
+    },
+    {
+      "id": "157a64cb-f037-42d4-a3ca-589f3626d6d1",
+      "title": "ヤダッ!",
+      "artist": "じぇるの！",
+      "isrc": "",
+      "releaseDate": "2017-06-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "401036df-ba27-44eb-a701-bb0cfd529f1f",
+      "title": "流星エトランゼ",
+      "artist": "愛乙女☆DOLL",
+      "isrc": "JPR841900104",
+      "releaseDate": "2019-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/7M9TsG7KNVD7uUWbxTGlFH",
+      "isFallback": true
+    },
+    {
+      "id": "a6ae4214-c931-47a1-a639-b5ca05396e38",
+      "title": "瞬間、フロレセント - 2021ver.",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02103240",
+      "releaseDate": "2021-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/7JLBg9kGzw4uqxnyC9bq6G",
+      "isFallback": true
+    },
+    {
+      "id": "0049f307-8823-4130-86cd-225a0c51eca9",
+      "title": "Don't you?",
+      "artist": "アクアノート",
+      "isrc": "JPL591902450",
+      "releaseDate": "2019-09-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a9d10081-07cb-4989-8df6-d1eab2e7a404",
+      "title": "Lovely Days",
+      "artist": "愛乙女★DOLL",
+      "isrc": "",
+      "releaseDate": "2013-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae7f60b0-f765-41c7-a1c3-6ddf9d0cbf46",
+      "title": "Gimme a Spark!",
+      "artist": "じぇるの！",
+      "isrc": "",
+      "releaseDate": "2016-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e546ebe-1dc1-4399-9638-aaadf5b2c18a",
+      "title": "幻影★ギャラクティカ - 2021ver.",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "JPCO02103280",
+      "releaseDate": "2021-03-31",
+      "spotifyUrl": "https://open.spotify.com/track/0yYppnGn6xlXJFrppHrA68",
+      "isFallback": true
+    },
+    {
+      "id": "635d4248-b437-4148-8f11-bfe9ef3a576b",
+      "title": "You Go Girl!!",
+      "artist": "じぇるの！",
+      "isrc": "",
+      "releaseDate": "2016-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da29f595-e524-4b3e-ac38-d738f78f10ab",
+      "title": "GO!!MY WISH!!",
+      "artist": "愛乙女★DOLL",
+      "isrc": "",
+      "releaseDate": "2012-05-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0882f236-b897-4899-afb5-1a1ced90cc4a",
+      "title": "Go Go! Happy Day!",
+      "artist": "nano*pico",
+      "isrc": "",
+      "releaseDate": "2008-03-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "de791e0a-55b2-4c97-893e-cbc447eb136c",
+      "title": "マーメイド",
+      "artist": "T!P",
+      "isrc": "JPX832001349",
+      "releaseDate": "2014-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/3z8DGA26sIFbA3OKbI2q7e",
+      "isFallback": true
+    },
+    {
+      "id": "0c331e53-e2a3-4565-8fde-92f70cc2be6f",
+      "title": "ピリオドを抱きしめて",
+      "artist": "littlemore.",
+      "isrc": "",
+      "releaseDate": "2018-01-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7c38f609-20cd-48b8-a78f-eecaa9248f64",
+      "title": "挑発Selfish",
+      "artist": "アクアノート",
+      "isrc": "JPL591902457",
+      "releaseDate": "2019-09-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e6c83eb-6f85-4146-bae2-20419b347274",
+      "title": "さよなら六花",
+      "artist": "アクアノート",
+      "isrc": "JPL592002486",
+      "releaseDate": "2020-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/1XTwXnq4fKFjX7aUISoE9h",
+      "isFallback": true
+    },
+    {
+      "id": "b946adb0-4a8c-4676-973d-115160835164",
+      "title": "壊して,純情",
+      "artist": "愛乙女★DOLL",
+      "isrc": "",
+      "releaseDate": "2013-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

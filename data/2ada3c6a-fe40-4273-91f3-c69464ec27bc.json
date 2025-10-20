@@ -1,0 +1,177 @@
+{
+  "name": "アオワイファイ",
+  "sortName": "アオ_ウィフィ",
+  "tracks": [
+    {
+      "id": "025f6eb0-c918-42ad-9cc1-8332416d0425",
+      "title": "バラカストーリア 〜月と太陽に祝福を〜 (M@STER VERSION)",
+      "artist": "ナターリア",
+      "isrc": "JPCO02422310",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/4oRUE6GYFAiOaCGNqBfrpa",
+      "isFallback": true
+    },
+    {
+      "id": "8722759e-07ec-48bf-96df-95fad15d5ec1",
+      "title": "はるかぜバトン",
+      "artist": "もふもふえん",
+      "isrc": "JPI102200106",
+      "releaseDate": "2022-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/7sPd8MFsRck4jXCOrqDk9g",
+      "isFallback": false
+    },
+    {
+      "id": "dca16134-ac6d-45e4-843e-8a88281de525",
+      "title": "SUPREMACY",
+      "artist": "初星学園",
+      "isrc": "JPX832500591",
+      "releaseDate": "2025-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ObqH1i1DMAeceTwCL8ksS",
+      "isFallback": true
+    },
+    {
+      "id": "c10fbe19-3f88-4a90-bb53-4fcd5526734f",
+      "title": "アオハルスケッチ",
+      "artist": "Peel the Apple",
+      "isrc": "JPS602203562",
+      "releaseDate": "2022-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/1GoL1hxlLgr3CbWLfTpobw",
+      "isFallback": true
+    },
+    {
+      "id": "74444c77-7af1-4a7c-a947-c28c856510e3",
+      "title": "セレブレイト・スターレイル",
+      "artist": "西園寺琴歌",
+      "isrc": "JPCO02320740",
+      "releaseDate": "2023-06-07",
+      "spotifyUrl": "https://open.spotify.com/track/0Oq5Jzl8qADNgkWDQGMS50",
+      "isFallback": true
+    },
+    {
+      "id": "77b01ea9-5ed3-40fd-9d5e-dc675d859d57",
+      "title": "WakeUP MakeUP FEVER!",
+      "artist": "オンゲキシューターズ",
+      "isrc": "JPD732500307",
+      "releaseDate": "2025-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/46ejXzZiaoV1gd8degjaZK",
+      "isFallback": true
+    },
+    {
+      "id": "d05420a8-6b4d-4eb2-8362-9cee39b93233",
+      "title": "長い夜は明ける",
+      "artist": "アーミヤ",
+      "isrc": "JPR502400001",
+      "releaseDate": "2024-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/2v1itI91AgKO6NRQtEfnde",
+      "isFallback": false
+    },
+    {
+      "id": "413bf274-a0d6-4be2-9a9a-2c3de708988b",
+      "title": "ボンボヤージュ！",
+      "artist": "夢喰NEON",
+      "isrc": "TCJPU2375366",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/6Cf2eP72Y5JPTiZVt59UpA",
+      "isFallback": true
+    },
+    {
+      "id": "711d7123-2fb0-4404-be4c-b14d5024dbaf",
+      "title": "Empty//Princess.",
+      "artist": "小倉唯",
+      "isrc": "JPCO02332660",
+      "releaseDate": "2023-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/778IgVvGICERkMZxlXRoyl",
+      "isFallback": false
+    },
+    {
+      "id": "1f184272-35f8-4996-a811-6abbb1677411",
+      "title": "アリアの最強しもべ計画♡",
+      "artist": "月紫アリア",
+      "isrc": "TCJPR2225705",
+      "releaseDate": "2021-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/0BBfrx8t5e7fAQy6VTqWHx",
+      "isFallback": true
+    },
+    {
+      "id": "a38633d9-3c6b-41f5-b2cc-265237feb298",
+      "title": "ぽっぷこーん・くろーぜっと！",
+      "artist": "姫野かのん",
+      "isrc": "JPI102301729",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/5WNb1bYNL5xiC170IXVGwt",
+      "isFallback": false
+    },
+    {
+      "id": "9c53185c-6c12-4f62-926c-e6fd34fc8db6",
+      "title": "Steam Light",
+      "artist": "ステインレス",
+      "isrc": "JPR502400006",
+      "releaseDate": "2024-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/5jKV5vGV5HfhkxlMdHyBBW",
+      "isFallback": false
+    },
+    {
+      "id": "f4a926cf-ba4e-4ba9-8c88-d3993597e26e",
+      "title": "逢い合い傘",
+      "artist": "天乃リリサ",
+      "isrc": "JPPC02411980",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/4KCbFPoEw2olak82EaieBE",
+      "isFallback": true
+    },
+    {
+      "id": "fad17f0b-0b52-4957-914d-d43efb12e5d2",
+      "title": "ユウキノハナ",
+      "artist": "パール",
+      "isrc": "JPPC02411189",
+      "releaseDate": "2024-05-07",
+      "spotifyUrl": "https://open.spotify.com/track/0QWmlLyE77ijd6rIxluNxV",
+      "isFallback": true
+    },
+    {
+      "id": "dd095697-b321-4b20-a369-f1705dabb4bd",
+      "title": "UNIQU3 VOICES!!! (M@STER VERSION)",
+      "artist": "辻野あかり",
+      "isrc": "JPCO02229680",
+      "releaseDate": "2022-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/2GpJQ0f8fsLd9rAK3Omrl9",
+      "isFallback": true
+    },
+    {
+      "id": "57378f75-79af-4ef5-89eb-a1e0ce5eabc7",
+      "title": "Let's Sail Away!!!",
+      "artist": "浅利七海",
+      "isrc": "JPCO02134900",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/3lDc8fKmQKvRrnOVwMY3sF",
+      "isFallback": true
+    },
+    {
+      "id": "4220e68b-0d3f-4d67-845c-1c4e5732c693",
+      "title": "さいきっく☆うぉんちゅー！",
+      "artist": "堀裕子",
+      "isrc": "JPCO02509000",
+      "releaseDate": "2025-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/5pKdoYcKELM5rcBJd8P1uy",
+      "isFallback": true
+    },
+    {
+      "id": "745fbfd1-b63d-41f4-a9c2-b137fa64fd0c",
+      "title": "ピスピス☆スピスピ ゴルシちゃんのうた",
+      "artist": "ゴールドシップ",
+      "isrc": "JPZ252400009",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/1JjPSfP0h6jkGnvPKk3Wgr",
+      "isFallback": true
+    },
+    {
+      "id": "b8310019-986f-4be3-81c4-ff425d742f21",
+      "title": "Dancing Reed",
+      "artist": "ときのそら",
+      "isrc": "JPVI02501818",
+      "releaseDate": "2025-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/3H2wqq42JyplHOjgfotgax",
+      "isFallback": false
+    }
+  ]
+}

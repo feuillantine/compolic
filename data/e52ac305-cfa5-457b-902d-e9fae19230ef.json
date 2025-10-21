@@ -226,6 +226,15 @@
       "releaseDate": "2023-06-26",
       "spotifyUrl": "https://open.spotify.com/track/4Ee1AjgXSy2bWjrzwYMuNV",
       "isFallback": true
+    },
+    {
+      "id": "5c448cec-505c-4cc5-9179-c31d90ed0034",
+      "title": "よくばり電脳ガール",
+      "artist": "hololive 3rd Generation",
+      "isrc": "JPV752511139",
+      "releaseDate": "2025-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/0INFuxmeMuBL1ZbnenmBey",
+      "isFallback": false
     }
   ]
 }

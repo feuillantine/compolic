@@ -2011,6 +2011,15 @@
       "releaseDate": "2025-03-12",
       "spotifyUrl": "https://open.spotify.com/track/6gIJQE8ao3HZWqhubo7MMx",
       "isFallback": true
+    },
+    {
+      "id": "45d4fb5c-9eff-46b7-9c55-b311082580b5",
+      "title": "禍魂朧夜 (M@STER VERSION)",
+      "artist": "浜口あやめ",
+      "isrc": "JPCO02503250",
+      "releaseDate": "2025-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/3PbCLB0Gq4Fvsx1UvS9x0E",
+      "isFallback": true
     }
   ]
 }

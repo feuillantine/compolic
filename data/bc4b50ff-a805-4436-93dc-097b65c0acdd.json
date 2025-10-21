@@ -1687,6 +1687,15 @@
       "releaseDate": "2023-01-25",
       "spotifyUrl": "https://open.spotify.com/track/6iMQaHr8C0xRvQtXrbTME0",
       "isFallback": false
+    },
+    {
+      "id": "cfa52d71-b39b-4cb4-b4e1-1e9c18ed9522",
+      "title": "リンクス",
+      "artist": "ClariS",
+      "isrc": "JPU902503432",
+      "releaseDate": "2025-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/03z6ZZyBOo8crNdUS6eSKJ",
+      "isFallback": false
     }
   ]
 }

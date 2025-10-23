@@ -496,6 +496,15 @@
       "releaseDate": "2017-07-04",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1da2f813-8cfe-4009-ae3d-9e64aa24719d",
+      "title": "アンブレラビート",
+      "artist": "大西亜玖璃",
+      "isrc": "JPCO02516210",
+      "releaseDate": "2025-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/2IayLICGE2Ib8Atz9UkSfs",
+      "isFallback": true
     }
   ]
 }

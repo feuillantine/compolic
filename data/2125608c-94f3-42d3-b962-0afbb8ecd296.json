@@ -283,6 +283,15 @@
       "releaseDate": "2016-09-07",
       "spotifyUrl": "https://open.spotify.com/track/6QJYDDjeRHISmjBuxf3WWl",
       "isFallback": true
+    },
+    {
+      "id": "02f4da3e-2c9e-4ac1-a87b-9d65593d2606",
+      "title": "空のエメラルド",
+      "artist": "22/7",
+      "isrc": "JPU901903676",
+      "releaseDate": "2020-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/0Pa5ObVbeB4PuLrW9FjWwP",
+      "isFallback": true
     }
   ]
 }

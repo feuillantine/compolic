@@ -343,6 +343,15 @@
       "releaseDate": "2015-02-18",
       "spotifyUrl": "https://open.spotify.com/track/6Rnboft1DlDJZLoN4OtHBn",
       "isFallback": true
+    },
+    {
+      "id": "999cbb88-6abe-4260-a86c-88654758c48a",
+      "title": "セシボン・キブン",
+      "artist": "LADYBABY",
+      "isrc": "TCJPD1682332",
+      "releaseDate": "2016-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/5FO0pzhQN1UhqvZ0frEk0T",
+      "isFallback": false
     }
   ]
 }

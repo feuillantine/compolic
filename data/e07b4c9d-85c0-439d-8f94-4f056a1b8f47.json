@@ -1531,6 +1531,15 @@
       "releaseDate": "2020-10-07",
       "spotifyUrl": "https://open.spotify.com/track/4YZ7n8wB2OrpsQZ2B4qYfo",
       "isFallback": true
+    },
+    {
+      "id": "59fd7811-6a20-492d-8bc9-bb646b322886",
+      "title": "アマラントスの翼",
+      "artist": "Liv Moon",
+      "isrc": "JPVI01101010",
+      "releaseDate": "2011-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/1igzBPFAPzjYU0Tnqu9vhV",
+      "isFallback": true
     }
   ]
 }

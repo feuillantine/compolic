@@ -235,6 +235,15 @@
       "releaseDate": "2025-10-20",
       "spotifyUrl": "https://open.spotify.com/track/0INFuxmeMuBL1ZbnenmBey",
       "isFallback": false
+    },
+    {
+      "id": "c13eceb6-878f-4c9b-9df8-41bd0968fa20",
+      "title": "ねっちゅーシンドローム",
+      "artist": "魔法少女ホロウィッチ！",
+      "isrc": "JPV752511187",
+      "releaseDate": "2025-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/4PaSYxvuWBnvomuQRoAT6H",
+      "isFallback": false
     }
   ]
 }

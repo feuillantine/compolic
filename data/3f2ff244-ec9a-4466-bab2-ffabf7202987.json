@@ -550,6 +550,51 @@
       "releaseDate": "2018-12-30",
       "spotifyUrl": "https://open.spotify.com/track/1Jkl82SwzuyKTbI3F0BJnS",
       "isFallback": true
+    },
+    {
+      "id": "90f8b0a7-ceab-4d69-9c25-7ea111135f38",
+      "title": "Introduction",
+      "artist": "ハム",
+      "isrc": "QT66K2558078",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5BamKaBYsqHqD45jn5TpVC",
+      "isFallback": false
+    },
+    {
+      "id": "8d50fe15-f446-43de-8594-62ed18f1dd45",
+      "title": "いつか見た青空",
+      "artist": "ハム",
+      "isrc": "QT66K2558149",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6LsplMcpFFvqAxbQgpXPGt",
+      "isFallback": false
+    },
+    {
+      "id": "849faea0-4ad1-407a-8693-bf7d579113b2",
+      "title": "カフネ",
+      "artist": "ハム",
+      "isrc": "QT66K2558198",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/16hSbesgra85KnG4nObTFd",
+      "isFallback": false
+    },
+    {
+      "id": "375e4f46-84fa-4756-b9d6-16428d2ef2d0",
+      "title": "Everlasting Voyager",
+      "artist": "satella",
+      "isrc": "QT66K2558053",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2Xbkb1SNVtKgFXB88M1nzB",
+      "isFallback": false
+    },
+    {
+      "id": "21c7cfbf-79ed-4f7a-97a6-36a8a7caa336",
+      "title": "花簪",
+      "artist": "ハム",
+      "isrc": "QT66K2558190",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2AN0tKthtgFEhmgyUe9rBU",
+      "isFallback": false
     }
   ]
 }

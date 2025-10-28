@@ -1162,6 +1162,15 @@
       "releaseDate": "2022-03-30",
       "spotifyUrl": "https://open.spotify.com/track/3caylX9SkZ9wnOHPWORW8z",
       "isFallback": true
+    },
+    {
+      "id": "ca4f8cd2-d998-4923-ba45-b0c4d9bcc211",
+      "title": "ロールプレイングゲーム",
+      "artist": "SoraMafuUraSaka",
+      "isrc": "JPPC02100650",
+      "releaseDate": "2021-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/3JxHaf0kZpykuKloQgvBFg",
+      "isFallback": true
     }
   ]
 }

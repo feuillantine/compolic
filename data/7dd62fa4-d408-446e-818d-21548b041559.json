@@ -541,6 +541,15 @@
       "releaseDate": "2024-04-20",
       "spotifyUrl": "https://open.spotify.com/track/15lbeJlhTEXmTxr8q8R9mE",
       "isFallback": true
+    },
+    {
+      "id": "1d1b0c19-3fc8-4439-9315-b7aafbac040f",
+      "title": "つながるまで",
+      "artist": "中島愛",
+      "isrc": "JPG751100497",
+      "releaseDate": "2012-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/5qR4N7uqER3JmShFDabGQV",
+      "isFallback": true
     }
   ]
 }

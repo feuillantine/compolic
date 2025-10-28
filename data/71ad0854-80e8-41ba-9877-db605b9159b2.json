@@ -769,6 +769,15 @@
       "releaseDate": "2018-10-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3f10ed52-05f2-41c5-a3be-ab0ebdc662e2",
+      "title": "雨雫とプレアデス",
+      "artist": "Imy",
+      "isrc": "QT66K2551473",
+      "releaseDate": "2025-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/3gRfHnh7dyH2BcYc7I80T5",
+      "isFallback": false
     }
   ]
 }

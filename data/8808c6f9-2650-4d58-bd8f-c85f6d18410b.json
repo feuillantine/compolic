@@ -919,6 +919,15 @@
       "releaseDate": "2016-09-28",
       "spotifyUrl": "https://open.spotify.com/track/62wqNJVOYppmTPi7wut5tM",
       "isFallback": true
+    },
+    {
+      "id": "18a83017-634b-44bf-96d7-4d537fbd2c8e",
+      "title": "好キッス! KISS!!",
+      "artist": "中島愛",
+      "isrc": "JPG751100243",
+      "releaseDate": "2012-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/7w2lXs8hSQ3XZMqZhTuCN0",
+      "isFallback": true
     }
   ]
 }

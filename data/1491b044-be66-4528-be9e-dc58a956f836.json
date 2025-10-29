@@ -2476,6 +2476,15 @@
       "releaseDate": "2023-01-25",
       "spotifyUrl": "https://open.spotify.com/track/4oHQ2J0PGjoUU0J6cOjK1N",
       "isFallback": true
+    },
+    {
+      "id": "d2f22916-765c-423c-830f-bbe5cfed6e15",
+      "title": "真夜中のPhilosophy",
+      "artist": "桑谷夏子",
+      "isrc": "",
+      "releaseDate": "2007-03-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

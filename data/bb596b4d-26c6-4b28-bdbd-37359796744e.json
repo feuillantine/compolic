@@ -625,6 +625,15 @@
       "releaseDate": "2020-05-02",
       "spotifyUrl": "https://open.spotify.com/track/05ohtojnptR92tFJvv03tX",
       "isFallback": true
+    },
+    {
+      "id": "af083925-c84c-4766-9a77-b48151a32260",
+      "title": "affection",
+      "artist": "KOTOKO",
+      "isrc": "JPPI02000140",
+      "releaseDate": "2015-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/1Ag2i46OmrlLWw7k3DFqs0",
+      "isFallback": true
     }
   ]
 }

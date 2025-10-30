@@ -865,6 +865,15 @@
       "releaseDate": "2013-12-17",
       "spotifyUrl": "https://open.spotify.com/track/4kkGvpyUkqjHIOFKX0cYLD",
       "isFallback": true
+    },
+    {
+      "id": "9b2d68a6-ca29-434b-a259-830d0a3c8dce",
+      "title": "ラブリーデイ",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101601524",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "https://open.spotify.com/track/5qZ7BXe1mxfYCvrEepb2iS",
+      "isFallback": true
     }
   ]
 }

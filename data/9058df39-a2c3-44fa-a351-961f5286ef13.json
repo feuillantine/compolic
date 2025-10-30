@@ -697,6 +697,33 @@
       "releaseDate": "2013-06-26",
       "spotifyUrl": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX",
       "isFallback": false
+    },
+    {
+      "id": "3a60d544-8032-428f-8873-835ca7971470",
+      "title": "拝啓ディアナイト",
+      "artist": "厚木那奈美",
+      "isrc": "JPT552200376",
+      "releaseDate": "2022-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/6WKsRLILeswzRkOHIDpknr",
+      "isFallback": true
+    },
+    {
+      "id": "c0efaede-6670-4642-967a-37d889995ae7",
+      "title": "NOstalgic Invitation",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101702502",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/6iAkVQfEu1WTVmQ7LGNPpB",
+      "isFallback": true
+    },
+    {
+      "id": "71efb264-fa6c-4281-8e15-ca28306ae2e3",
+      "title": "Heart of gold",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101702503",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/5ljSibnOFDbxF10CSucnGl",
+      "isFallback": true
     }
   ]
 }

@@ -1288,6 +1288,33 @@
       "releaseDate": "2013-09-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "89eec8ab-2f4a-4879-9845-6aa75f414796",
+      "title": "Cidre",
+      "artist": "Mia REGINA",
+      "isrc": "JPI102001147",
+      "releaseDate": "2020-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/3ywEyEd8G6j7KMsN0XOMqj",
+      "isFallback": true
+    },
+    {
+      "id": "e2953e08-2fc3-441a-8755-cfebbbee81d2",
+      "title": "THAT’S A FACT! 〜千里の道も一歩から〜",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101602455",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/4roceTiBRRWSMbluYHmc6M",
+      "isFallback": true
+    },
+    {
+      "id": "a890b341-ab84-41c0-bcbd-d1853c9d380d",
+      "title": "Ms.Rからの新着メール",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101702504",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/0P1cE7eNIpgYveUmB6jzwX",
+      "isFallback": true
     }
   ]
 }

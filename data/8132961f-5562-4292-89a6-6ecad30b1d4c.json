@@ -1210,6 +1210,15 @@
       "releaseDate": "2016-07-27",
       "spotifyUrl": "https://open.spotify.com/track/6VOUsv8qM6QzA6mtVXwesi",
       "isFallback": true
+    },
+    {
+      "id": "84737c37-ec1d-44f5-bc0f-fb716d87b922",
+      "title": "Enchante",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101802567",
+      "releaseDate": "2018-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/19AvHNVo7IZo1Xax2gEGkh",
+      "isFallback": true
     }
   ]
 }

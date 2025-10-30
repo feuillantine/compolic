@@ -505,6 +505,15 @@
       "releaseDate": "2011-08-03",
       "spotifyUrl": "https://open.spotify.com/track/6J3UodXxlmhXyjmzNwo2Mf",
       "isFallback": true
+    },
+    {
+      "id": "2faf8888-3be1-4f49-ba49-dfe241625dc4",
+      "title": "マイペース大王",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101900855",
+      "releaseDate": "2019-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/3dQf6iWqJP2MdttU43vWq1",
+      "isFallback": true
     }
   ]
 }

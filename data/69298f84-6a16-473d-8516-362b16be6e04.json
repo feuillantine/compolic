@@ -1360,6 +1360,33 @@
       "releaseDate": "2025-10-15",
       "spotifyUrl": "https://open.spotify.com/track/7dsgf6wnE2VueH14ACU9ex",
       "isFallback": true
+    },
+    {
+      "id": "4a97e267-eea9-4485-bd67-1ebbaca5fd2b",
+      "title": "My Sweet Maiden",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101700534",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/5att1AmdZM1CDqKVOG1HcE",
+      "isFallback": true
+    },
+    {
+      "id": "34bcfaeb-c5c4-437c-b642-b3e4937e687d",
+      "title": "ambivalent future",
+      "artist": "霧島若歌",
+      "isrc": "JPI101602457",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/4CZxa0awyc1G7zP5WEh9lU",
+      "isFallback": true
+    },
+    {
+      "id": "8a6ad4bb-784b-4659-94bc-127b9a821fc7",
+      "title": "蒼穹のBlue Grandia",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT552200368",
+      "releaseDate": "2022-04-06",
+      "spotifyUrl": "https://open.spotify.com/track/5PiYJlMDuEOIaeHx3tO3u8",
+      "isFallback": true
     }
   ]
 }

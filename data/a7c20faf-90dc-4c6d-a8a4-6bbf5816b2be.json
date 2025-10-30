@@ -388,6 +388,15 @@
       "releaseDate": "2013-10-30",
       "spotifyUrl": "https://open.spotify.com/track/1MHPVxWzntoGr3EBX1gaOH",
       "isFallback": true
+    },
+    {
+      "id": "adaacdda-7442-4595-9eef-77a8e9d31d08",
+      "title": "In Colors Anew",
+      "artist": "Photon Maiden",
+      "isrc": "JPZ732500345",
+      "releaseDate": "2025-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4nJF6ntvSUXR2fGiXBSkye",
+      "isFallback": true
     }
   ]
 }

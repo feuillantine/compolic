@@ -1165,6 +1165,15 @@
       "releaseDate": "2025-10-15",
       "spotifyUrl": "https://open.spotify.com/track/1PlsBOBoAyRGatbNyA4cqZ",
       "isFallback": true
+    },
+    {
+      "id": "335e4968-dd81-44ae-95e1-c2e233022b69",
+      "title": "Yes or Yes",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101702507",
+      "releaseDate": "2017-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/4extA1cw54wjCH4oZOJbVb",
+      "isFallback": true
     }
   ]
 }

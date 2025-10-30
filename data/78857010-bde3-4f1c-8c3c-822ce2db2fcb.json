@@ -4231,6 +4231,15 @@
       "releaseDate": "2021-06-09",
       "spotifyUrl": "https://open.spotify.com/track/69hRusF60MVoDMCZ9SqrVQ",
       "isFallback": true
+    },
+    {
+      "id": "afc97a93-9b91-48af-8261-e863feab7f55",
+      "title": "Rise",
+      "artist": "小清水亜美",
+      "isrc": "",
+      "releaseDate": "2007-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

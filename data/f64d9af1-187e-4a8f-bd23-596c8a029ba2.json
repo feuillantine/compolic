@@ -118,6 +118,15 @@
       "releaseDate": "2023-06-14",
       "spotifyUrl": "https://open.spotify.com/track/2W7147b1WZMaIQ9DwiarDy",
       "isFallback": false
+    },
+    {
+      "id": "ae99c1a5-dbcf-4494-a5bb-0795bc35b633",
+      "title": "Magic×Color",
+      "artist": "鈴木杏奈",
+      "isrc": "JPT552200659",
+      "releaseDate": "2022-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/2fQwlEVwX3yJtcOICHQPm2",
+      "isFallback": true
     }
   ]
 }

@@ -280,6 +280,24 @@
       "releaseDate": "2020-04-15",
       "spotifyUrl": "https://open.spotify.com/track/0iFzYka3z7ygx59xrZVJyT",
       "isFallback": true
+    },
+    {
+      "id": "06afc93e-cf74-4985-a465-865913c29d4b",
+      "title": "1・2・3",
+      "artist": "Prits",
+      "isrc": "JPKI00230641",
+      "releaseDate": "2002-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/6X4zKxUohRHLxXb8s9XwXV",
+      "isFallback": true
+    },
+    {
+      "id": "d063a75b-8334-4f90-991d-bb7aa77a614e",
+      "title": "Powder White",
+      "artist": "Prits",
+      "isrc": "JPKI00230645",
+      "releaseDate": "2002-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0JclRNuzfymHNkyV7Bft6A",
+      "isFallback": true
     }
   ]
 }

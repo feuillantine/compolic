@@ -55,6 +55,15 @@
       "releaseDate": "2023-09-26",
       "spotifyUrl": "https://open.spotify.com/track/534encGg0Qw7MP51RWwIMS",
       "isFallback": false
+    },
+    {
+      "id": "9a36883e-289f-4b0f-9869-2d1bf818d624",
+      "title": "め",
+      "artist": "音影カナ",
+      "isrc": "GBF079040313",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2OSrU34QlmNKAXmIrVog0e",
+      "isFallback": true
     }
   ]
 }

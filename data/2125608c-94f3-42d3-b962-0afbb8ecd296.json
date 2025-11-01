@@ -292,6 +292,15 @@
       "releaseDate": "2020-01-25",
       "spotifyUrl": "https://open.spotify.com/track/0Pa5ObVbeB4PuLrW9FjWwP",
       "isFallback": true
+    },
+    {
+      "id": "534ec042-b1f6-49b4-91ec-ab37b2697505",
+      "title": "ハニーアンドループス",
+      "artist": "豊崎愛生",
+      "isrc": "JPX401700021",
+      "releaseDate": "2017-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/7sCvKBtGe9s0Koly3jUAZV",
+      "isFallback": false
     }
   ]
 }

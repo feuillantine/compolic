@@ -136,6 +136,15 @@
       "releaseDate": "2016-09-28",
       "spotifyUrl": "https://open.spotify.com/track/6GbUM2UAozhrDSEYUMVnPf",
       "isFallback": true
+    },
+    {
+      "id": "18571611-5bd8-453d-8125-c4b8b0d8089c",
+      "title": "March for Peace",
+      "artist": "豊崎愛生",
+      "isrc": "JPX402100031",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/3KbKgzb5ST5E8j6uJkMNEc",
+      "isFallback": true
     }
   ]
 }

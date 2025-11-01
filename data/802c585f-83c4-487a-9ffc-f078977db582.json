@@ -298,6 +298,15 @@
       "releaseDate": "2002-12-25",
       "spotifyUrl": "https://open.spotify.com/track/0JclRNuzfymHNkyV7Bft6A",
       "isFallback": true
+    },
+    {
+      "id": "698bf4b8-3569-4edd-9f73-f9a676147e48",
+      "title": "白い雲追いかけて",
+      "artist": "加藤英美里",
+      "isrc": "JPPC00802259",
+      "releaseDate": "2008-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/2Z84omWivRxGobpu9G9q6A",
+      "isFallback": true
     }
   ]
 }

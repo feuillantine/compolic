@@ -928,6 +928,15 @@
       "releaseDate": "2012-03-07",
       "spotifyUrl": "https://open.spotify.com/track/7w2lXs8hSQ3XZMqZhTuCN0",
       "isFallback": true
+    },
+    {
+      "id": "4c5904e3-cd9d-4923-8840-47216aafcaf6",
+      "title": "インソムニア・マーメイド",
+      "artist": "富田美憂",
+      "isrc": "JPCO02017110",
+      "releaseDate": "2020-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/5Ga4rm6XqGgSs5mrTRhkQb",
+      "isFallback": true
     }
   ]
 }

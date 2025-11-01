@@ -1018,6 +1018,24 @@
       "releaseDate": "2025-10-14",
       "spotifyUrl": "https://open.spotify.com/track/6hPl4e7Ot1ukEvrBW3yGAR",
       "isFallback": true
+    },
+    {
+      "id": "848ed2aa-9862-4dbb-bd30-7486d7c2ae37",
+      "title": "Overdrive",
+      "artist": "原田ひとみ",
+      "isrc": "JPD731500939",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/6bMeJC8xe2i1Dtzc0C5LZY",
+      "isFallback": true
+    },
+    {
+      "id": "534f52c7-4075-414d-aae2-c64ba4fc2108",
+      "title": "Oh No, Oh No",
+      "artist": "原田ひとみ",
+      "isrc": "JPD731500940",
+      "releaseDate": "2015-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/0NvyMdn4MThNO2cDK3xZor",
+      "isFallback": true
     }
   ]
 }

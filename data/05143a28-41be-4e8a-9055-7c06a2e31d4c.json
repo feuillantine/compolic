@@ -730,6 +730,15 @@
       "releaseDate": "2025-10-15",
       "spotifyUrl": "https://open.spotify.com/track/22HIzZy5rD8GZ4NbnDaA4Q",
       "isFallback": true
+    },
+    {
+      "id": "57b2cbf0-4a9c-490f-aa48-a0efefc861f9",
+      "title": "忘れましょうねヤヤヤヤヤン♪",
+      "artist": "カルーア(テキーラ)・マジョラム",
+      "isrc": "JPI100602197",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/475iQ2fFEIhvJFTMksgQ4A",
+      "isFallback": true
     }
   ]
 }

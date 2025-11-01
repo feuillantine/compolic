@@ -514,6 +514,15 @@
       "releaseDate": "2019-05-29",
       "spotifyUrl": "https://open.spotify.com/track/3dQf6iWqJP2MdttU43vWq1",
       "isFallback": true
+    },
+    {
+      "id": "0fc6abdb-1e3f-4101-9ef0-63f50241f326",
+      "title": "h@trick.",
+      "artist": "野水いおり",
+      "isrc": "JPG751300321",
+      "releaseDate": "2013-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0y0txjnF3B7bwDCl7lB3U2",
+      "isFallback": true
     }
   ]
 }

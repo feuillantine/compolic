@@ -316,6 +316,15 @@
       "releaseDate": "2025-10-01",
       "spotifyUrl": "https://open.spotify.com/track/6xsHmsVFPfO2GpzDVfbvHB",
       "isFallback": true
+    },
+    {
+      "id": "d06c5f45-04ff-43e6-a75c-55aa3994e89c",
+      "title": "Rabbit Time",
+      "artist": "Kijibato",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

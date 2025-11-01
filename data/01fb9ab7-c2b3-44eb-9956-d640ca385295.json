@@ -136,6 +136,15 @@
       "releaseDate": "2016-08-14",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "09c738e8-9b97-4371-a550-b43a4c222fa3",
+      "title": "Be “CUTE”",
+      "artist": "colate",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

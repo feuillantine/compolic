@@ -64,6 +64,15 @@
       "releaseDate": "2024-01-10",
       "spotifyUrl": "https://open.spotify.com/track/0yfGt4UtmApKyvdU6L8wxF",
       "isFallback": true
+    },
+    {
+      "id": "7a830037-d7d0-498d-8f70-58962f494fc2",
+      "title": "ひと足",
+      "artist": "諏訪ななか",
+      "isrc": "JPCO02306310",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/1Cm0yxBjgdRiufxi4fKG1j",
+      "isFallback": true
     }
   ]
 }

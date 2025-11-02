@@ -28,6 +28,15 @@
       "releaseDate": "2014-05-14",
       "spotifyUrl": "https://open.spotify.com/track/1McmTbgslVzEFYcvEx1KZ6",
       "isFallback": true
+    },
+    {
+      "id": "b5672405-2767-4570-8078-4ce14f1129d9",
+      "title": "恋は劇薬、口に甘し。",
+      "artist": "佐藤聡美",
+      "isrc": "JPKI01617273",
+      "releaseDate": "2016-10-12",
+      "spotifyUrl": "https://open.spotify.com/track/3ngzKmtPybChRRVjCdksUl",
+      "isFallback": true
     }
   ]
 }

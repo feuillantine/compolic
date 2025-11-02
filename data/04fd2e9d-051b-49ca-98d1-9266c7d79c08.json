@@ -1045,6 +1045,15 @@
       "releaseDate": "2014-02-26",
       "spotifyUrl": "https://open.spotify.com/track/7irqjzbt8qrVujQ49uN3Bv",
       "isFallback": true
+    },
+    {
+      "id": "feb45833-b625-45d0-82dd-137f68f37536",
+      "title": "Storytelling",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02000887",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/2nzlQudBxzUwlMwF7TwNx4",
+      "isFallback": true
     }
   ]
 }

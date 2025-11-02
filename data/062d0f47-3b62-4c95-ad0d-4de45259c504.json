@@ -361,6 +361,15 @@
       "releaseDate": "2017-09-13",
       "spotifyUrl": "https://open.spotify.com/track/5W564zaoINuREouXe5Z5VD",
       "isFallback": true
+    },
+    {
+      "id": "cd9e068b-d553-476f-8f4c-c3ae5b971228",
+      "title": "マカロンラブ",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02000880",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/6Q9IdNI1nLcUFDUmwqG8ri",
+      "isFallback": true
     }
   ]
 }

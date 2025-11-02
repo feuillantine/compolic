@@ -1576,6 +1576,24 @@
       "releaseDate": "2021-11-03",
       "spotifyUrl": "https://open.spotify.com/track/5xtSH3py6tGwe2qynivW1S",
       "isFallback": true
+    },
+    {
+      "id": "7f249855-eaf2-4182-9d7f-67f124e06746",
+      "title": "Dear Future Light",
+      "artist": "LarmeR",
+      "isrc": "TCJPG2514223",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/6TKttMAj5C1sYUABdsIHdS",
+      "isFallback": true
+    },
+    {
+      "id": "440dbcf0-d385-4959-802c-6f715e1e9e1b",
+      "title": "この雫は、海を越える。",
+      "artist": "LarmeR",
+      "isrc": "TCJPY2474456",
+      "releaseDate": "2025-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/1pKN3GzGX9uMHA3NhpqMlG",
+      "isFallback": true
     }
   ]
 }

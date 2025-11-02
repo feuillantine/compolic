@@ -505,6 +505,69 @@
       "releaseDate": "2025-10-22",
       "spotifyUrl": "https://open.spotify.com/track/2IayLICGE2Ib8Atz9UkSfs",
       "isFallback": true
+    },
+    {
+      "id": "abaaa246-2aff-4875-9a97-620b6ac73165",
+      "title": "ノスタルジック・キネマ",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02104178",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/0c3HU6NbhQ1A1ECcTNYS4E",
+      "isFallback": true
+    },
+    {
+      "id": "4ddc079b-4a82-45e1-8e92-1f974035ee85",
+      "title": "DATE-ALAMODE",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02104177",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/3Km5I0tJxPavmZFhAFCxXk",
+      "isFallback": true
+    },
+    {
+      "id": "7c0c1788-ad73-4105-8653-7b26dd280973",
+      "title": "Starry Garden",
+      "artist": "諏訪ななか",
+      "isrc": "JPCO02306290",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk",
+      "isFallback": true
+    },
+    {
+      "id": "f292cea8-708a-4bda-8b75-602ecb6f3bb9",
+      "title": "Wonderland!!",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02000886",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/4ItayXyb0B27YYKwqUL0hj",
+      "isFallback": true
+    },
+    {
+      "id": "4288ee1e-13bf-4fff-aaaf-83ec716d4298",
+      "title": "Lavender Tears",
+      "artist": "諏訪ななか",
+      "isrc": "JPCO02306320",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/4EujJEVEGwS4yfqW6B6EOx",
+      "isFallback": true
+    },
+    {
+      "id": "75f756bf-2304-4d0f-b84a-454e9e0ae639",
+      "title": "ショコラ フレーズ",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02000882",
+      "releaseDate": "2020-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/2qE9e9tNXRRDtVkWHlyOGu",
+      "isFallback": true
+    },
+    {
+      "id": "4da18bb8-76ea-4e6e-8ab3-06f8b0992006",
+      "title": "夢十夜",
+      "artist": "諏訪ななか",
+      "isrc": "JPCO02306330",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/6KfBMSa9HBWe1kXGj2Yjrp",
+      "isFallback": true
     }
   ]
 }

@@ -433,6 +433,15 @@
       "releaseDate": "2017-11-01",
       "spotifyUrl": "https://open.spotify.com/track/7vCYylmiHl9JkD2UPDsN18",
       "isFallback": false
+    },
+    {
+      "id": "32234731-8a5d-4f93-9be3-3f06d86687b8",
+      "title": "コバルトの鼓動",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02100492",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/4GEKielyMcKRwR4ob6Gvt3",
+      "isFallback": true
     }
   ]
 }

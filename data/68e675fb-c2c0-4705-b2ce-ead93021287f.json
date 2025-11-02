@@ -796,6 +796,24 @@
       "releaseDate": "2010-09-22",
       "spotifyUrl": "https://open.spotify.com/track/4h6DkmeP54in5KCZLHrvcL",
       "isFallback": true
+    },
+    {
+      "id": "e80cd0c6-da19-4286-b54a-29cb79131269",
+      "title": "記憶ファンタジック",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02104176",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "https://open.spotify.com/track/5GfNTW0tqhViFnZg9WTLb6",
+      "isFallback": true
+    },
+    {
+      "id": "b68b17a7-5156-4079-ba0a-5d362b9c857a",
+      "title": "突風スパークル",
+      "artist": "諏訪ななか",
+      "isrc": "JPPO02100493",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/7m9wkg1ZIf9AtYE04qIbHj",
+      "isFallback": true
     }
   ]
 }

@@ -91,6 +91,15 @@
       "releaseDate": "2025-10-04",
       "spotifyUrl": "https://open.spotify.com/track/18eNW9ma7w76XwpvIclcGM",
       "isFallback": false
+    },
+    {
+      "id": "6c65c997-2d7a-42e5-863d-dbedea9ef72c",
+      "title": "見て",
+      "artist": "初星学園",
+      "isrc": "JPX832500510",
+      "releaseDate": "2025-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/4x32ny8bBGnLZwmKYvkXHX",
+      "isFallback": true
     }
   ]
 }

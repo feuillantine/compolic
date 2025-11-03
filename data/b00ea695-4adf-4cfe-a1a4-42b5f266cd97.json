@@ -1309,6 +1309,51 @@
       "releaseDate": "2025-10-03",
       "spotifyUrl": "https://open.spotify.com/track/1dgsJyEnUltr4pfGe09UOv",
       "isFallback": false
+    },
+    {
+      "id": "98415bd3-0cbe-4897-9bd0-7b5b9a0ad192",
+      "title": "コミュ着火Fire!",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562400322",
+      "releaseDate": "2024-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/3WI7ZS1SRnaZiGCCZBrtmq",
+      "isFallback": true
+    },
+    {
+      "id": "1fc5c656-d4c4-4f47-a222-0e01665eb474",
+      "title": "グラディエント",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500193",
+      "releaseDate": "2025-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/4pkSTx6ZTBXkF63An08L3f",
+      "isFallback": true
+    },
+    {
+      "id": "af5ce29f-c148-4b1a-ab73-f51d3be16fb7",
+      "title": "チューニング",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500272",
+      "releaseDate": "2025-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/5uuts9CPF8nsqxm8ftypqM",
+      "isFallback": true
+    },
+    {
+      "id": "5a236c8d-9038-497c-a759-077d2bd2661e",
+      "title": "コハク",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562400255",
+      "releaseDate": "2024-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/6yf7BZOGzt23SjAcnSOSvZ",
+      "isFallback": true
+    },
+    {
+      "id": "d63d9bce-a570-47d9-93c1-1c14778c807c",
+      "title": "命という病",
+      "artist": "ReoNa",
+      "isrc": "JPU902503189",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/2aevhxdToV6pGdFCpwRc81",
+      "isFallback": true
     }
   ]
 }

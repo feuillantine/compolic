@@ -595,6 +595,15 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "https://open.spotify.com/track/2AN0tKthtgFEhmgyUe9rBU",
       "isFallback": false
+    },
+    {
+      "id": "d064f126-7560-405e-bca3-55c9642d0385",
+      "title": "Fragment of Love",
+      "artist": "nayuta",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

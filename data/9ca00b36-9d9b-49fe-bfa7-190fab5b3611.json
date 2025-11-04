@@ -604,6 +604,24 @@
       "releaseDate": "2020-12-16",
       "spotifyUrl": "https://open.spotify.com/track/3ctAJocla2lHhLOAFt9erC",
       "isFallback": true
+    },
+    {
+      "id": "3a806a99-0464-40ff-9d74-96371191445b",
+      "title": "Ideal/Idol",
+      "artist": "KiRaRe",
+      "isrc": "TCJPS2286466",
+      "releaseDate": "2022-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/2QLFyvTFfK7X7GsnnjUccF",
+      "isFallback": true
+    },
+    {
+      "id": "c02db011-5834-44aa-8521-a335c2023cc6",
+      "title": "私たち、四季を遊ぶんです！！",
+      "artist": "Re:STAGE! ALL IDOL",
+      "isrc": "JPPC02100385",
+      "releaseDate": "2021-03-17",
+      "spotifyUrl": "https://open.spotify.com/track/06sSBFr2noli7rG5lJgiuw",
+      "isFallback": true
     }
   ]
 }

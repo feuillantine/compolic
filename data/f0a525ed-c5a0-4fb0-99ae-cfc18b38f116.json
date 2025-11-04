@@ -1795,6 +1795,15 @@
       "releaseDate": "2013-11-06",
       "spotifyUrl": "https://open.spotify.com/track/2Hvedz2AA3YjULUhiLPHJu",
       "isFallback": true
+    },
+    {
+      "id": "cdda7ee1-973d-459a-8bfe-4f32ade78234",
+      "title": "じょいふるしあんてっ!",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02512350",
+      "releaseDate": "2025-09-17",
+      "spotifyUrl": "https://open.spotify.com/track/6ZMQHoZDvoXJ6G65m2MAXO",
+      "isFallback": true
     }
   ]
 }

@@ -937,6 +937,24 @@
       "releaseDate": "2020-11-11",
       "spotifyUrl": "https://open.spotify.com/track/5Ga4rm6XqGgSs5mrTRhkQb",
       "isFallback": true
+    },
+    {
+      "id": "25c996bd-c369-4f04-ae20-bc6522bfcc60",
+      "title": "夢現妄想世界",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562300525",
+      "releaseDate": "2023-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/2bAYEWUa8D2aMYjSgSZcb0",
+      "isFallback": true
+    },
+    {
+      "id": "2d79a723-3827-4239-8d06-24873c2f5a45",
+      "title": "メリーラァヴ",
+      "artist": "クラリス",
+      "isrc": "JPZ921712836",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

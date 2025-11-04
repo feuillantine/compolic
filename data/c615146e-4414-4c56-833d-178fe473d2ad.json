@@ -1594,6 +1594,15 @@
       "releaseDate": "2025-04-16",
       "spotifyUrl": "https://open.spotify.com/track/1pKN3GzGX9uMHA3NhpqMlG",
       "isFallback": true
+    },
+    {
+      "id": "fa8850fe-9353-4ae8-8db7-989caf1bd43f",
+      "title": "Clematis-クレマチス-",
+      "artist": "ステラマリス",
+      "isrc": "TCJPS2286464",
+      "releaseDate": "2022-06-15",
+      "spotifyUrl": "https://open.spotify.com/track/0OqZ2aHUlwsFy9WMw826M2",
+      "isFallback": true
     }
   ]
 }

@@ -55,6 +55,15 @@
       "releaseDate": "2018-12-21",
       "spotifyUrl": "https://open.spotify.com/track/4AvQ5wRT3wncpC52YiCzTx",
       "isFallback": false
+    },
+    {
+      "id": "50e52212-c78a-416d-89a8-68e3b709df39",
+      "title": "Starting Bell",
+      "artist": "なにわ男子",
+      "isrc": "JPQ402101730",
+      "releaseDate": "2021-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/4QgXZRrGFEc6F6ZiarSNS4",
+      "isFallback": true
     }
   ]
 }

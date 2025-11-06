@@ -136,6 +136,15 @@
       "releaseDate": "2022-07-23",
       "spotifyUrl": "https://open.spotify.com/track/6FU3XP6WzSdk3Ye0B1cjv3",
       "isFallback": false
+    },
+    {
+      "id": "79d85eab-a752-4e3f-8642-0f5c6c5c4f10",
+      "title": "うたかたの声",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902503530",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/0tFpdxQBhqUWt0j3k1yKdn",
+      "isFallback": true
     }
   ]
 }

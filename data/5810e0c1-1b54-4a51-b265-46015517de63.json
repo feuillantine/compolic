@@ -118,6 +118,69 @@
       "releaseDate": "2023-07-20",
       "spotifyUrl": "https://open.spotify.com/track/6CpUjL4pi9ejhcagTPgEh1",
       "isFallback": false
+    },
+    {
+      "id": "25d7351d-4387-445c-b21c-fee8a3e9d0a9",
+      "title": "デンパホリック",
+      "artist": "ckwa",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "674c09e9-904b-48b0-bcda-30c65c6d23c3",
+      "title": "もきゅもきゅドリームナイト",
+      "artist": "ckwa",
+      "isrc": "TCJPO2167002",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2XNWbv2q4WVWtKKPQxqCy0",
+      "isFallback": true
+    },
+    {
+      "id": "58725346-47fb-413e-9f5d-1d0abb846f60",
+      "title": "sweet flavor",
+      "artist": "ckwa",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9b6ae0d5-57cf-4f9c-8f65-e3cb18149868",
+      "title": "Lullaby",
+      "artist": "ckwa",
+      "isrc": "JP92Q2200301",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0M1bpNmK14L8nYEWmkwiQp",
+      "isFallback": true
+    },
+    {
+      "id": "efec3e30-3dcb-4d54-bffa-02208db86ad9",
+      "title": "ねむくはないけどおねむみたい",
+      "artist": "ckwa",
+      "isrc": "CAHQJ2138014",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/12Dxw3GIaUWbnES275Paak",
+      "isFallback": true
+    },
+    {
+      "id": "d5e996af-6950-4398-86a6-965d0974d15d",
+      "title": "Sweet Magical",
+      "artist": "ckwa",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a23ffb8-618b-4486-90b0-8926978aec04",
+      "title": "キュン死の定理",
+      "artist": "ckwa",
+      "isrc": "",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

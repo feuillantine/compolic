@@ -562,6 +562,15 @@
       "releaseDate": "2024-06-15",
       "spotifyUrl": "https://open.spotify.com/track/14CYExmTf5sxjr84q11o37",
       "isFallback": true
+    },
+    {
+      "id": "6ef31f17-a6e8-4533-9493-319cec3c2927",
+      "title": "あまのじゃくヒーロー",
+      "artist": "三月のパンタシア",
+      "isrc": "JPU902503331",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/7AFG8jESXpvCPo8BM8N9cT",
+      "isFallback": true
     }
   ]
 }

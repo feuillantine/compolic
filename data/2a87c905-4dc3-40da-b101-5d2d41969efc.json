@@ -707,6 +707,15 @@
       "releaseDate": "2023-03-08",
       "spotifyUrl": "https://open.spotify.com/track/011DVses8HNi3QU6JYc0co",
       "isFallback": false
+    },
+    {
+      "id": "0d8906a8-c7a4-4e31-ae8f-7975001d3c14",
+      "title": "とおりゃんせ",
+      "artist": "東山奈央",
+      "isrc": "JPVI02502564",
+      "releaseDate": "2025-11-05",
+      "spotifyUrl": "https://open.spotify.com/track/1wAyLHIWTPbx6k9SPsxec1",
+      "isFallback": true
     }
   ]
 }

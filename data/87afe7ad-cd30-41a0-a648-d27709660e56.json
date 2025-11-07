@@ -2974,6 +2974,15 @@
       "releaseDate": "2009-01-21",
       "spotifyUrl": "https://open.spotify.com/track/0KIOl4RUtkNgtLZESyaXwg",
       "isFallback": true
+    },
+    {
+      "id": "936f6ca5-6fb7-43e2-a162-5d2716457128",
+      "title": "風の色",
+      "artist": "KinKi Kids",
+      "isrc": "JPJE00700950",
+      "releaseDate": "2007-11-14",
+      "spotifyUrl": "https://open.spotify.com/track/5w0puClt96tW5iotx0IGJi",
+      "isFallback": true
     }
   ]
 }

@@ -235,6 +235,15 @@
       "releaseDate": "2025-10-03",
       "spotifyUrl": "https://open.spotify.com/track/19WWbxXnOvmCKB6NiR5Fpa",
       "isFallback": true
+    },
+    {
+      "id": "fc580695-b938-4ed1-902d-740782f579ac",
+      "title": "パステル・ドレスアップ",
+      "artist": "irucaice",
+      "isrc": "JP92Q2301783",
+      "releaseDate": "2023-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/3fJd6TNe1qRoYSxBb3Aq0z",
+      "isFallback": true
     }
   ]
 }

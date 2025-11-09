@@ -181,6 +181,42 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d7e1d1a5-e158-493d-bbda-910441ed40dd",
+      "title": "デンパホリック",
+      "artist": "咲良ゆの",
+      "isrc": "TCJPT2290464",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/26fwNUPbrc6DiTJbu4b8ki",
+      "isFallback": true
+    },
+    {
+      "id": "2558ad5f-a617-4761-8700-d4a32a8cbcb4",
+      "title": "Cream Soda",
+      "artist": "ckwa",
+      "isrc": "JP92Q2502328",
+      "releaseDate": "2023-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/3Sdol1OpzL1fkUnnsHL6LE",
+      "isFallback": true
+    },
+    {
+      "id": "20cb0e1d-a853-4639-b78b-f94d26e71145",
+      "title": "Stray Cat",
+      "artist": "KO3",
+      "isrc": "JP92Q2301785",
+      "releaseDate": "2023-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/1wrg1vrn2xOWnSEOYNth46",
+      "isFallback": true
+    },
+    {
+      "id": "40a870bd-0921-40fa-a6a0-fe6a86b46a3c",
+      "title": "あめふりテレフォン",
+      "artist": "ckwa",
+      "isrc": "TCJPN2174130",
+      "releaseDate": "2021-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/79BR8b0fgNysifE8VmXEha",
+      "isFallback": true
     }
   ]
 }

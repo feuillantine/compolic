@@ -604,6 +604,15 @@
       "releaseDate": "2011-09-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "188a8c60-6f8f-4741-83b9-4d842e362455",
+      "title": "ボンボンボヤージュ",
+      "artist": "なにわ男子",
+      "isrc": "",
+      "releaseDate": "2025-07-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

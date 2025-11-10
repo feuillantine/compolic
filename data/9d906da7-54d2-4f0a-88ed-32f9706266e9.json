@@ -487,6 +487,15 @@
       "releaseDate": "2023-09-13",
       "spotifyUrl": "https://open.spotify.com/track/4qkldQIRSpTQQrEHgXoxcg",
       "isFallback": true
+    },
+    {
+      "id": "8004e12f-57a6-41b6-8797-61260c2f998c",
+      "title": "I know",
+      "artist": "なにわ男子",
+      "isrc": "JPQ402300950",
+      "releaseDate": "2023-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/5Uz39o65l7EKDqItlWhcNB",
+      "isFallback": true
     }
   ]
 }

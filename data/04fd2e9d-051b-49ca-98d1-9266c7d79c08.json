@@ -1054,6 +1054,15 @@
       "releaseDate": "2020-04-15",
       "spotifyUrl": "https://open.spotify.com/track/2nzlQudBxzUwlMwF7TwNx4",
       "isFallback": true
+    },
+    {
+      "id": "feaa0ee0-5a93-4102-bfde-ca6a82746f03",
+      "title": "恋するストール",
+      "artist": "ゆいかおり",
+      "isrc": "JPKI01412079",
+      "releaseDate": "2014-04-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

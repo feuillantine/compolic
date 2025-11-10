@@ -1603,6 +1603,24 @@
       "releaseDate": "2022-06-15",
       "spotifyUrl": "https://open.spotify.com/track/0OqZ2aHUlwsFy9WMw826M2",
       "isFallback": true
+    },
+    {
+      "id": "a6c2b8a7-4cb4-4fbb-ac88-c3e1e202ba42",
+      "title": "Intro Situation",
+      "artist": "ゆいかおり",
+      "isrc": "JPKI01413820",
+      "releaseDate": "2014-07-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "10db231b-3c09-4666-867f-541118c5b51d",
+      "title": "翼になるよ",
+      "artist": "ゆいかおり",
+      "isrc": "JPKI01315579",
+      "releaseDate": "2013-10-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

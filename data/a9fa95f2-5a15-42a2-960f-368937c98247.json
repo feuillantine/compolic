@@ -1567,6 +1567,15 @@
       "releaseDate": "2025-10-03",
       "spotifyUrl": "https://open.spotify.com/track/3FQXWL7N3YNmbHhPEPJ9wO",
       "isFallback": true
+    },
+    {
+      "id": "908090f5-0615-485c-9c98-7babf51c39ab",
+      "title": "See you! 〜それぞれの明日へ〜",
+      "artist": "日菜",
+      "isrc": "JPR562300124",
+      "releaseDate": "2023-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/1z2Qzznzf3ol8sIYOm4oSM",
+      "isFallback": true
     }
   ]
 }

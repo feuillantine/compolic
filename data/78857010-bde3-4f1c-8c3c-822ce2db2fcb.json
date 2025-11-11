@@ -4240,6 +4240,15 @@
       "releaseDate": "2007-03-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "eccff668-c095-49fe-b161-ef17ae6a508c",
+      "title": "明日への放物線",
+      "artist": "吉野千秋",
+      "isrc": "JPI101101000",
+      "releaseDate": "2014-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/7eqh0wPva7hmLREXDkP77h",
+      "isFallback": true
     }
   ]
 }

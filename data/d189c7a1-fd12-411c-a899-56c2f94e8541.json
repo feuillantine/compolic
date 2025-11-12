@@ -643,6 +643,15 @@
       "releaseDate": "2016-03-09",
       "spotifyUrl": "https://open.spotify.com/track/7aUvzi0Kc6mSQthLCnl3ot",
       "isFallback": true
+    },
+    {
+      "id": "a78f742c-cc4c-421f-9bae-62a91d778e5b",
+      "title": "botばっか",
+      "artist": "ファントムシータ",
+      "isrc": "JPPO02504080",
+      "releaseDate": "2025-11-11",
+      "spotifyUrl": "https://open.spotify.com/track/24FrCLaRsEvTCA6ChTOzUg",
+      "isFallback": false
     }
   ]
 }

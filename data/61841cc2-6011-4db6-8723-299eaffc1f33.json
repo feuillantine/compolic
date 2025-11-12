@@ -292,6 +292,15 @@
       "releaseDate": "2012-08-13",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "783ef862-20ce-49a6-99d0-f25e5bdc779c",
+      "title": "オールユーニードイズオーディナリーズ",
+      "artist": "夢乃ゆき",
+      "isrc": "",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

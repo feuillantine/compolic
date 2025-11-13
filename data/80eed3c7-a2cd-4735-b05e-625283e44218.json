@@ -1036,6 +1036,15 @@
       "releaseDate": "2015-11-25",
       "spotifyUrl": "https://open.spotify.com/track/0NvyMdn4MThNO2cDK3xZor",
       "isFallback": true
+    },
+    {
+      "id": "776b99ec-799d-4ce4-b02d-e44256380234",
+      "title": "オトメゴコロ更新中 (M@STER VERSION)",
+      "artist": "辻野あかり",
+      "isrc": "JPCO02509030",
+      "releaseDate": "2025-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/1iSMUrRCCVey4hpQ3fuH2p",
+      "isFallback": true
     }
   ]
 }

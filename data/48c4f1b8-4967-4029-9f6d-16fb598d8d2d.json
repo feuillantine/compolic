@@ -541,6 +541,15 @@
       "releaseDate": "2020-09-16",
       "spotifyUrl": "https://open.spotify.com/track/27QCkLwDDHQKC11Y9NBK8Q",
       "isFallback": true
+    },
+    {
+      "id": "d707676d-7b1e-44b5-a701-e8a591a6562d",
+      "title": "Jumping! All right?",
+      "artist": "LizNoir",
+      "isrc": "JPX402500178",
+      "releaseDate": "2025-11-12",
+      "spotifyUrl": "https://open.spotify.com/track/1jJrB92sJuVTC9Sw4d11Df",
+      "isFallback": true
     }
   ]
 }

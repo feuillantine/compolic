@@ -5815,6 +5815,15 @@
       "releaseDate": "2025-07-05",
       "spotifyUrl": "https://open.spotify.com/track/0PYzfWWjbBmvKxW89Lf1Vg",
       "isFallback": false
+    },
+    {
+      "id": "5707a3ee-1e8d-440e-aaa5-dd39c2c5cea9",
+      "title": "Katamari Damacy",
+      "artist": "Clémentine",
+      "isrc": "JPX832500759",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/3z7qGdYkfTvS5HBIEMhKOP",
+      "isFallback": true
     }
   ]
 }

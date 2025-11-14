@@ -703,6 +703,15 @@
       "releaseDate": "2017-11-15",
       "spotifyUrl": "https://open.spotify.com/track/6QgtMPo5pQcMzfrgmAZcXz",
       "isFallback": true
+    },
+    {
+      "id": "dc3a16e1-cace-427c-bdbd-54264352f228",
+      "title": "skyscraper(s)",
+      "artist": "ウ山あまね",
+      "isrc": "JPX832500758",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/7nfIJQbZ5aw6IIfO5NuYmv",
+      "isFallback": true
     }
   ]
 }

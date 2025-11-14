@@ -82,6 +82,15 @@
       "releaseDate": "2021-06-30",
       "spotifyUrl": "https://open.spotify.com/track/2ZaMcGvuyFq3zh90W8TmHS",
       "isFallback": true
+    },
+    {
+      "id": "409dc670-08d9-410f-96dc-c4a979103df8",
+      "title": "やんやん",
+      "artist": "Daoko",
+      "isrc": "JPX832500755",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/67wAlaUc7trs2LlzCw3U2Q",
+      "isFallback": true
     }
   ]
 }

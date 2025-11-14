@@ -571,6 +571,15 @@
       "releaseDate": "2025-10-03",
       "spotifyUrl": "https://open.spotify.com/track/7AFG8jESXpvCPo8BM8N9cT",
       "isFallback": true
+    },
+    {
+      "id": "d224c817-bbcf-42c6-8a8f-8eacbbd39b78",
+      "title": "古今東西塊道中",
+      "artist": "瀬尾祥太郎",
+      "isrc": "",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

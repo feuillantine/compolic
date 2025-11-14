@@ -1174,6 +1174,15 @@
       "releaseDate": "2017-12-13",
       "spotifyUrl": "https://open.spotify.com/track/4extA1cw54wjCH4oZOJbVb",
       "isFallback": true
+    },
+    {
+      "id": "8a0c6d65-405b-4fee-8562-55d4d6084877",
+      "title": "DIVER",
+      "artist": "やくしまるえつこ",
+      "isrc": "JPX832500768",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/2oV9ZUXwNvLZl9IDZwiiZW",
+      "isFallback": true
     }
   ]
 }

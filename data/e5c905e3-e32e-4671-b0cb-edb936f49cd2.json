@@ -586,6 +586,15 @@
       "releaseDate": "2010-11-24",
       "spotifyUrl": "https://open.spotify.com/track/2rGq3Hi7nfU2hNptHinPA1",
       "isFallback": true
+    },
+    {
+      "id": "8bca24ec-8f74-47b5-b11a-2d7544691665",
+      "title": "メルクリア",
+      "artist": "霜月はるか",
+      "isrc": "JPKI01014998",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -217,6 +217,24 @@
       "releaseDate": "2021-01-29",
       "spotifyUrl": "https://open.spotify.com/track/79BR8b0fgNysifE8VmXEha",
       "isFallback": true
+    },
+    {
+      "id": "23743d29-a22e-4b7b-b104-52abac1c1ac2",
+      "title": "Lullaby",
+      "artist": "ckwa",
+      "isrc": "JP92Q2200301",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/0M1bpNmK14L8nYEWmkwiQp",
+      "isFallback": true
+    },
+    {
+      "id": "7a80d0bd-a3ae-44ea-839a-0a90a1b85f8a",
+      "title": "ねむくはないけどおねむみたい",
+      "artist": "ckwa",
+      "isrc": "CAHQJ2138014",
+      "releaseDate": "2020-12-18",
+      "spotifyUrl": "https://open.spotify.com/track/12Dxw3GIaUWbnES275Paak",
+      "isFallback": true
     }
   ]
 }

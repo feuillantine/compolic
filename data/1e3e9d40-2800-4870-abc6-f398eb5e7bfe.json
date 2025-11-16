@@ -235,6 +235,15 @@
       "releaseDate": "2014-06-11",
       "spotifyUrl": "https://open.spotify.com/track/5q2A2XLFgTDhIDAbgyl9rx",
       "isFallback": true
+    },
+    {
+      "id": "e61165b2-6960-49cd-9724-968ebb375017",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力彩芽",
+      "isrc": "JPU901401421",
+      "releaseDate": "2014-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/5ByjxA3wmndeZdlTP63WoX",
+      "isFallback": true
     }
   ]
 }

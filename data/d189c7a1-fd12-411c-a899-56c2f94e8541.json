@@ -652,6 +652,15 @@
       "releaseDate": "2025-11-11",
       "spotifyUrl": "https://open.spotify.com/track/24FrCLaRsEvTCA6ChTOzUg",
       "isFallback": false
+    },
+    {
+      "id": "b0773753-f2a0-49c7-bf59-a898cd9a5a4b",
+      "title": "Wanna Be Honeybee",
+      "artist": "Phoebe",
+      "isrc": "USL4R2581315",
+      "releaseDate": "2025-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/38hbnIehHdoZ89Mubo3Hfi",
+      "isFallback": false
     }
   ]
 }

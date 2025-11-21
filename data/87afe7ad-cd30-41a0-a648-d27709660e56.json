@@ -2983,6 +2983,24 @@
       "releaseDate": "2007-11-14",
       "spotifyUrl": "https://open.spotify.com/track/5w0puClt96tW5iotx0IGJi",
       "isFallback": true
+    },
+    {
+      "id": "c0f516c7-9990-4276-b6fe-e7e75aac9c17",
+      "title": "ONLY YOUR WITCH",
+      "artist": "U",
+      "isrc": "",
+      "releaseDate": "2002-11-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f58e841d-e3e4-4c43-aee2-9e42122bd9cb",
+      "title": "プカプカ",
+      "artist": "U",
+      "isrc": "QZWFJ2544471",
+      "releaseDate": "2002-12-27",
+      "spotifyUrl": "https://open.spotify.com/track/1KYIqAdzrXKncgoMkXHNEh",
+      "isFallback": true
     }
   ]
 }

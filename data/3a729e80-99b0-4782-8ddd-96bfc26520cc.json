@@ -280,6 +280,24 @@
       "releaseDate": "2003-08-17",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "216871c7-ba7c-4c44-ab81-79135a72673c",
+      "title": "巫女みこナース・愛しき人に捧ぐカノン (ロングバージョン)",
+      "artist": "Chu☆",
+      "isrc": "",
+      "releaseDate": "2003-12-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7ec7fbc2-b8b7-4f9d-9d35-2535b97c569c",
+      "title": "夢見桜",
+      "artist": "KIRIKO",
+      "isrc": "",
+      "releaseDate": "2005-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

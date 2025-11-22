@@ -523,6 +523,15 @@
       "releaseDate": "2013-08-21",
       "spotifyUrl": "https://open.spotify.com/track/0y0txjnF3B7bwDCl7lB3U2",
       "isFallback": true
+    },
+    {
+      "id": "8f980c6d-35aa-4bf6-9e77-3044cb6701eb",
+      "title": "ONCE UPON A TIME～Fairy story～",
+      "artist": "桃井はるこ",
+      "isrc": "JPCO00530510",
+      "releaseDate": "2005-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

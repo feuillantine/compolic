@@ -319,6 +319,15 @@
       "releaseDate": "2022-11-11",
       "spotifyUrl": "https://open.spotify.com/track/0Ly87u3F0Bzt8MvTnxdxiu",
       "isFallback": false
+    },
+    {
+      "id": "81fc96c6-11e6-4d4f-aa30-10e7b5d75b46",
+      "title": "ディア・マイ・スペシャル・プレシャス・マーベラス・スウィート・ダーリンズ",
+      "artist": "クインテット",
+      "isrc": "JPV752511275",
+      "releaseDate": "2025-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/0kI4ORMXXfuygAvAknA5RR",
+      "isFallback": true
     }
   ]
 }

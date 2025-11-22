@@ -361,6 +361,15 @@
       "releaseDate": "2024-03-06",
       "spotifyUrl": "https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I",
       "isFallback": true
+    },
+    {
+      "id": "dbd3e8be-9dec-4bdc-b370-c6db2b2c1164",
+      "title": "スキデカ！~スキはデカく回顧録？~",
+      "artist": "秘密結社holoX",
+      "isrc": "JPV752511328",
+      "releaseDate": "2025-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/1Wc7aKSNZ6K8NJ3c7GWtSD",
+      "isFallback": true
     }
   ]
 }

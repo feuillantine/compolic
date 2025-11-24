@@ -622,6 +622,15 @@
       "releaseDate": "2017-10-25",
       "spotifyUrl": "https://open.spotify.com/track/0O7NBpyRJKen0teqG4N8Kg",
       "isFallback": true
+    },
+    {
+      "id": "c8f1f17e-1c9c-4f58-ab5d-c672a28c914d",
+      "title": "ハローミューズ",
+      "artist": "星見純那",
+      "isrc": "JPPC02513047",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/1NDfpOvD7nntE3lNYolCI8",
+      "isFallback": true
     }
   ]
 }

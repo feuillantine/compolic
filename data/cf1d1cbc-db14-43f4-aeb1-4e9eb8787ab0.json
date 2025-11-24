@@ -715,6 +715,15 @@
       "releaseDate": "2017-02-08",
       "spotifyUrl": "https://open.spotify.com/track/171rhugIvEnb1jeMNmbyN9",
       "isFallback": true
+    },
+    {
+      "id": "28d28412-dc16-4c7c-bf38-27170d359098",
+      "title": "ハッピーin our room",
+      "artist": "愛城華恋",
+      "isrc": "JPPC02513045",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/2CoqvKDv1I1tVa7vfRY17I",
+      "isFallback": true
     }
   ]
 }

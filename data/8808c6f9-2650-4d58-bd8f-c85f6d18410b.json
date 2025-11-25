@@ -955,6 +955,15 @@
       "releaseDate": "2017-12-20",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "5877f10c-0c96-449d-8d46-cb39621d160f",
+      "title": "あなたもわたしもまめいちご",
+      "artist": "まめいちご",
+      "isrc": "JP92N2452774",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/51o4PV1bPFcmnUqBXjsR9S",
+      "isFallback": true
     }
   ]
 }

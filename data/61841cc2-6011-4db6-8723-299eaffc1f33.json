@@ -301,6 +301,15 @@
       "releaseDate": "2024-10-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "91157de9-4861-48ad-969a-9cd34b71252f",
+      "title": "オオカミと少女",
+      "artist": "鎖那",
+      "isrc": "",
+      "releaseDate": "2017-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/69IDn5HbFEazBLeoJSHhej",
+      "isFallback": false
     }
   ]
 }

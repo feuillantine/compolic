@@ -46,6 +46,15 @@
       "releaseDate": "2024-04-28",
       "spotifyUrl": "https://open.spotify.com/track/7BAhdXymhBMyj7MDlyB5Ip",
       "isFallback": true
+    },
+    {
+      "id": "8eca693f-8e19-47c5-944e-09cf7ca68a00",
+      "title": "ワンダーアドベンチャー！",
+      "artist": "まめ乃",
+      "isrc": "",
+      "releaseDate": "2016-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

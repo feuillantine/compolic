@@ -118,6 +118,15 @@
       "releaseDate": "2024-04-28",
       "spotifyUrl": "https://open.spotify.com/track/7IzXqVDcyRNgh4z5taa0wZ",
       "isFallback": true
+    },
+    {
+      "id": "19b99920-aa46-4cb9-a981-1ec0b93a3546",
+      "title": "ド七五サンバ",
+      "artist": "ころねぽち",
+      "isrc": "QT66L2519607",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0eOkzUTRzWxtkplXwznhQe",
+      "isFallback": true
     }
   ]
 }

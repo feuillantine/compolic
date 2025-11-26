@@ -406,6 +406,15 @@
       "releaseDate": "2022-12-07",
       "spotifyUrl": "https://open.spotify.com/track/1s0cTyGvxrVlxYY1PHziaA",
       "isFallback": true
+    },
+    {
+      "id": "036eb380-9bed-42d3-90c1-d88270690e4a",
+      "title": "Swing of Love",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01900037",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/2kczyQL0zl7LyVJ16DGA3H",
+      "isFallback": true
     }
   ]
 }

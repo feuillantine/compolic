@@ -1696,6 +1696,15 @@
       "releaseDate": "2025-10-20",
       "spotifyUrl": "https://open.spotify.com/track/03z6ZZyBOo8crNdUS6eSKJ",
       "isFallback": false
+    },
+    {
+      "id": "fa089633-0013-4e03-8daf-c3127cb49638",
+      "title": "星屑のカーテン",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01900038",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7iJ2gHPhuS2klP1p11zsTU",
+      "isFallback": true
     }
   ]
 }

@@ -1054,6 +1054,15 @@
       "releaseDate": "2021-03-24",
       "spotifyUrl": "https://open.spotify.com/track/3SnWY8oNyAoU8aEOZrUoU4",
       "isFallback": true
+    },
+    {
+      "id": "d6b79b55-24c5-4146-96a6-c0790f90561d",
+      "title": "回転！SUSHI☆SUSHI テーマパーク",
+      "artist": "VEE",
+      "isrc": "QMDA72565709",
+      "releaseDate": "2025-08-20",
+      "spotifyUrl": "https://open.spotify.com/track/21YZoXteWLZ6F6TNfLbGpI",
+      "isFallback": true
     }
   ]
 }

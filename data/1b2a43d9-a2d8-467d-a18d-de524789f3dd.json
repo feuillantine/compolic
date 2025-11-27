@@ -163,6 +163,15 @@
       "releaseDate": "2024-04-10",
       "spotifyUrl": "https://open.spotify.com/track/7hrf8iPl9lnIUut6sAOWyN",
       "isFallback": true
+    },
+    {
+      "id": "574b3f47-850a-45a7-b2c7-96264fae2a3b",
+      "title": "恋のキモチは5%",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01400342",
+      "releaseDate": "2014-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/6FWeSQxir2VHDzATuRSPG9",
+      "isFallback": true
     }
   ]
 }

@@ -586,6 +586,15 @@
       "releaseDate": "2025-11-25",
       "spotifyUrl": "https://open.spotify.com/track/1ozWFjZvf0zWxWCG3iLvRK",
       "isFallback": false
+    },
+    {
+      "id": "008c46ed-2071-4688-b242-8f734a5f10b2",
+      "title": "SLIP",
+      "artist": "いよわ",
+      "isrc": "QT66L2546239",
+      "releaseDate": "2025-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/3nwj6YqEdMZRF5qs7uUo5t",
+      "isFallback": false
     }
   ]
 }

@@ -127,6 +127,33 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "https://open.spotify.com/track/0eOkzUTRzWxtkplXwznhQe",
       "isFallback": true
+    },
+    {
+      "id": "d0b89b01-709a-44c1-99dc-905e22790194",
+      "title": "ずんだシェイキング",
+      "artist": "なみぐる",
+      "isrc": "JPA652306715",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/5okZIAXDtFVYhN8Z5OL9U8",
+      "isFallback": true
+    },
+    {
+      "id": "7bdd9b16-0a73-4a34-8642-6c626d329fdf",
+      "title": "あなたは世界の終わりにずんだを食べるのだ",
+      "artist": "なみぐる",
+      "isrc": "TCJPB2497104",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4OTFkhgSwtGpCmdGiQ9CKe",
+      "isFallback": true
+    },
+    {
+      "id": "b9666577-bac0-4f56-b0d6-b741bea8c46c",
+      "title": "ずんだダンシング",
+      "artist": "なみぐる",
+      "isrc": "JP92N2244864",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/643DH1a3J9PlSbWgZDYVEo",
+      "isFallback": true
     }
   ]
 }

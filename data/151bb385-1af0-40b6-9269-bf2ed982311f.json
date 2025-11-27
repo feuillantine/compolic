@@ -1462,6 +1462,114 @@
       "releaseDate": "2021-09-19",
       "spotifyUrl": "https://open.spotify.com/track/0518dysM27SLsdUuP4kNrJ",
       "isFallback": true
+    },
+    {
+      "id": "10bd6c0f-d452-4528-937d-a3c495efbe82",
+      "title": "MEGA TSKR",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552939",
+      "releaseDate": "2025-07-19",
+      "spotifyUrl": "https://open.spotify.com/track/687mfHaeytoCKVzyssV0nI",
+      "isFallback": true
+    },
+    {
+      "id": "eed816f0-dde1-4552-91ed-7290599c7c1b",
+      "title": "comet-chaser (lemmon*remake)",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552922",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/48HsQHDLaGd2g9BihX8HD3",
+      "isFallback": true
+    },
+    {
+      "id": "250c0e8d-ead5-4804-827c-cd00d98bfce6",
+      "title": "FULLFLAVOR音頭",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552915",
+      "releaseDate": "2022-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/7uhBPIY6y1WtQsInCnHhct",
+      "isFallback": true
+    },
+    {
+      "id": "7f2cda91-6eb3-409f-96eb-a077b402985f",
+      "title": "DAIPAN MARCH",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552980",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/4KN9gGeJ1p0c5SQOBnGmGR",
+      "isFallback": true
+    },
+    {
+      "id": "7be8e24a-8985-40e2-a929-5c32f78e3823",
+      "title": "わたしトリエチルシトレートレート",
+      "artist": "Camellia",
+      "isrc": "QT66K2552933",
+      "releaseDate": "2025-09-01",
+      "spotifyUrl": "https://open.spotify.com/track/5xOimc8Vw1nyIiJ3IdXXEG",
+      "isFallback": true
+    },
+    {
+      "id": "5fb151fd-2473-427f-b6b9-c5c98f60e401",
+      "title": "おねがい！ナニトゾタノムちゃん 〜関係各所を破壊せよ〜",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552975",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5Lp0xhlkYTcUIxBUCaRhyW",
+      "isFallback": true
+    },
+    {
+      "id": "9231c102-8871-4143-ac3b-3534a1ea7072",
+      "title": "フォビどぅん・ピザ!",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552879",
+      "releaseDate": "2022-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/729SYzzwDdiDofHpX81OpW",
+      "isFallback": true
+    },
+    {
+      "id": "5b394d43-79bb-4724-aba1-241ffa4f81c1",
+      "title": "むーびんぐ！",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552985",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/4Z6W7GKTRbopw4vwSoOGUU",
+      "isFallback": true
+    },
+    {
+      "id": "b29c4fb5-b7ff-4e2b-8573-19250a3cd8cb",
+      "title": "えくすとら♥らぶ!! @BPM2,077",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552969",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/5hxN55yjFfXjbo3j1tql0Z",
+      "isFallback": true
+    },
+    {
+      "id": "2a2a4edd-2977-4d71-a41c-6ab4c220a28c",
+      "title": "萌豚♥かんふー♥大乱舞",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552889",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/1tSwyWgzoQYIzn9bz8GT7C",
+      "isFallback": true
+    },
+    {
+      "id": "325420e1-7dad-4249-8231-a3377019b0e6",
+      "title": "異世異形たちの廃オカルト博物館へようこそ",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552978",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/3X3ieZ99T7LB5tk1tqxCxo",
+      "isFallback": true
+    },
+    {
+      "id": "24e82bf3-a968-4f1d-b3cc-0a9ed1751009",
+      "title": "紅簪",
+      "artist": "かめりあ",
+      "isrc": "QT66K2552982",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/3XM4gTCVMEKFpuvT6ns1YL",
+      "isFallback": true
     }
   ]
 }

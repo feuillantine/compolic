@@ -802,6 +802,24 @@
       "releaseDate": "2024-12-25",
       "spotifyUrl": "https://open.spotify.com/track/7dEvS07D6SYLpE09iNetfK",
       "isFallback": true
+    },
+    {
+      "id": "a97c054e-0f3d-4cc0-b4b9-d5391eba1f7a",
+      "title": "タクティクス",
+      "artist": "alma",
+      "isrc": "JPB602147213",
+      "releaseDate": "2021-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/34y9W1tdQWt5iYrgbrhgYM",
+      "isFallback": true
+    },
+    {
+      "id": "617c1e5d-5a2e-4ecf-af6b-9357fb96b4ab",
+      "title": "CHA CHA CHA MATCHA",
+      "artist": "VEE",
+      "isrc": "QMFMG2558617",
+      "releaseDate": "2025-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/4G6tFwVAZEskpFWUEWSXPH",
+      "isFallback": true
     }
   ]
 }

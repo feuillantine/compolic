@@ -724,6 +724,69 @@
       "releaseDate": "2025-11-19",
       "spotifyUrl": "https://open.spotify.com/track/2CoqvKDv1I1tVa7vfRY17I",
       "isFallback": true
+    },
+    {
+      "id": "a7fe89d0-79d2-4848-af1e-2f6b4bc53652",
+      "title": "風になって",
+      "artist": "fhána",
+      "isrc": "JPCO02435190",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1u0B7rpUCYidJYFaryIXkh",
+      "isFallback": true
+    },
+    {
+      "id": "bb418bf5-e9ae-40b7-8442-c3376fc9728a",
+      "title": "waltz for lily",
+      "artist": "fhána",
+      "isrc": "JPCO02435160",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/1qtCxhiEvbv4cqP8QHMytQ",
+      "isFallback": true
+    },
+    {
+      "id": "76d4cec3-2c8c-4355-bd35-ce7d3fe26192",
+      "title": "Last Pages",
+      "artist": "fhána",
+      "isrc": "JPCO02336000",
+      "releaseDate": "2023-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Q23fVLVoujl6oih2uODID",
+      "isFallback": true
+    },
+    {
+      "id": "65b8b50a-f5a7-40d4-afa0-fcc542e46e5c",
+      "title": "Look of Life",
+      "artist": "fhána",
+      "isrc": "JPCO02435150",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/3EcC0diyXf9zWhPhphV3PN",
+      "isFallback": true
+    },
+    {
+      "id": "5c685a34-24e4-42d5-a21e-b1bad3d312a8",
+      "title": "city dream city",
+      "artist": "fhána",
+      "isrc": "JPCO02435170",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/5bjeLMspZbJe70XVMNML4P",
+      "isFallback": true
+    },
+    {
+      "id": "f46abf76-fd6f-4028-8d16-6aa4567eb1f6",
+      "title": "永遠という光",
+      "artist": "fhána",
+      "isrc": "JPCO02335980",
+      "releaseDate": "2023-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/7KpgKgraxufxwA5MqZreti",
+      "isFallback": true
+    },
+    {
+      "id": "defa13df-d4d5-4bd6-bca2-74d781a6f396",
+      "title": "Introduction (life is coming back)",
+      "artist": "kevin mitsunaga",
+      "isrc": "JPCO02435200",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/3jZx86sl6ReTw6cq1OqVhR",
+      "isFallback": true
     }
   ]
 }

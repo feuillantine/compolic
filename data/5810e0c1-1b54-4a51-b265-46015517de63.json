@@ -235,6 +235,24 @@
       "releaseDate": "2020-12-18",
       "spotifyUrl": "https://open.spotify.com/track/12Dxw3GIaUWbnES275Paak",
       "isFallback": true
+    },
+    {
+      "id": "3540e996-fd6e-4080-9dcd-7ea42949f650",
+      "title": "Snow Drops",
+      "artist": "hana",
+      "isrc": "",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e624a0b-2a5e-4c31-b912-3d64bc906828",
+      "title": "わがままトリビュート",
+      "artist": "hana",
+      "isrc": "",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

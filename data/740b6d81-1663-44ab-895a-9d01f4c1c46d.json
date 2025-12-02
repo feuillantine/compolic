@@ -910,6 +910,15 @@
       "releaseDate": "2025-08-27",
       "spotifyUrl": "https://open.spotify.com/track/2RnxE0163Nxokw9q9cYBFO",
       "isFallback": true
+    },
+    {
+      "id": "05c4f5eb-5e37-4562-9000-a839f92a8e80",
+      "title": "Bestest!!",
+      "artist": "馬場このみ",
+      "isrc": "JPI102500158",
+      "releaseDate": "2025-05-28",
+      "spotifyUrl": "https://open.spotify.com/track/6yQVT6w0Idr79BRtXsMWLo",
+      "isFallback": true
     }
   ]
 }

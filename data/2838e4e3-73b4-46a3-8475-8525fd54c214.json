@@ -631,6 +631,15 @@
       "releaseDate": "2025-11-19",
       "spotifyUrl": "https://open.spotify.com/track/1NDfpOvD7nntE3lNYolCI8",
       "isFallback": true
+    },
+    {
+      "id": "e99e86cb-1452-43e4-91e3-202fa6d57ba8",
+      "title": "REWRITING",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102501904",
+      "releaseDate": "2025-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/5yhMi94mSbl5dPaZiyo7uC",
+      "isFallback": true
     }
   ]
 }

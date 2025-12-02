@@ -1387,6 +1387,24 @@
       "releaseDate": "2022-04-06",
       "spotifyUrl": "https://open.spotify.com/track/5PiYJlMDuEOIaeHx3tO3u8",
       "isFallback": true
+    },
+    {
+      "id": "0eeab123-a881-4bd0-9cd8-88fe5c34ad03",
+      "title": "Future Transit",
+      "artist": "ストレイライト",
+      "isrc": "JPI102500079",
+      "releaseDate": "2025-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/4Yu6pQ1AdvR8cSguMDGySX",
+      "isFallback": true
+    },
+    {
+      "id": "c7871167-7a3f-4bc0-af5f-24920bde61de",
+      "title": "Fading Stars",
+      "artist": "シーズ",
+      "isrc": "JPI102500078",
+      "releaseDate": "2025-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/0C8sRyhq1RXAY8EEgThPDD",
+      "isFallback": true
     }
   ]
 }

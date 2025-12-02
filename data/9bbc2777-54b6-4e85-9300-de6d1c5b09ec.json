@@ -505,6 +505,15 @@
       "releaseDate": "2025-05-28",
       "spotifyUrl": "https://open.spotify.com/track/0ZRjTsJQMUSPsZHXCumeNb",
       "isFallback": true
+    },
+    {
+      "id": "6f1a3fab-a624-47d0-ac5b-48c8e82aefe0",
+      "title": "KoiKyun！",
+      "artist": "イルミネーションスターズ",
+      "isrc": "JPI102500080",
+      "releaseDate": "2025-09-03",
+      "spotifyUrl": "https://open.spotify.com/track/3wIZnwKvEbFjaRKry2T0Nf",
+      "isFallback": true
     }
   ]
 }

@@ -964,6 +964,15 @@
       "releaseDate": "2017-08-11",
       "spotifyUrl": "https://open.spotify.com/track/51o4PV1bPFcmnUqBXjsR9S",
       "isFallback": true
+    },
+    {
+      "id": "36838ec8-d84d-4630-b45d-c5469988f114",
+      "title": "俺と付き合ってください。",
+      "artist": "遊助",
+      "isrc": "JPU901803145",
+      "releaseDate": "2018-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/2cdwKEnhaYqCml8vArr9rv",
+      "isFallback": true
     }
   ]
 }

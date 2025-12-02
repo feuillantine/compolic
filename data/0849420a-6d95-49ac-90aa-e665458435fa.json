@@ -1153,6 +1153,15 @@
       "releaseDate": "2017-08-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2ef70426-141d-4087-86aa-cd69eec33760",
+      "title": "Hug a nice day!",
+      "artist": "高坂海美",
+      "isrc": "JPI102501678",
+      "releaseDate": "2025-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/59d80f92VA4ds8942XO5Cm",
+      "isFallback": true
     }
   ]
 }

@@ -442,6 +442,15 @@
       "releaseDate": "2025-04-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "eb28e29a-bd1f-43de-86a0-353bb5397b09",
+      "title": "みちばかりわんだーらんど！",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

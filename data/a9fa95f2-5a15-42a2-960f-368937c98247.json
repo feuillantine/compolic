@@ -1585,6 +1585,15 @@
       "releaseDate": "2009-05-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "10dccb48-c8fb-4bc7-a228-058a0b20dca6",
+      "title": "さくらフィロソフィー",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2009-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -595,6 +595,15 @@
       "releaseDate": "2025-11-26",
       "spotifyUrl": "https://open.spotify.com/track/3nwj6YqEdMZRF5qs7uUo5t",
       "isFallback": false
+    },
+    {
+      "id": "5a2148ab-348a-4f9a-84e5-ae1570c9ef02",
+      "title": "散歩の邪魔",
+      "artist": "いよわ",
+      "isrc": "QT66L2546315",
+      "releaseDate": "2025-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf",
+      "isFallback": false
     }
   ]
 }

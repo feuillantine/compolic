@@ -1282,6 +1282,15 @@
       "releaseDate": "2011-10-12",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e7c513fd-1387-4f3e-9f01-8d0c031a6097",
+      "title": "ときめきファンファーレ！",
+      "artist": "谷川瑠璃",
+      "isrc": "",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

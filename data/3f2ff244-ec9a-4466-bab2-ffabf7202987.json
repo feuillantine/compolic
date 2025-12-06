@@ -604,6 +604,150 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "0c7c7870-1479-4ac2-9fb2-9efc21463706",
+      "title": "natsu-iro",
+      "artist": "ハム",
+      "isrc": "QT66K2567570",
+      "releaseDate": "2014-08-22",
+      "spotifyUrl": "https://open.spotify.com/track/71XwzoRJOpyLUxRg1b88uw",
+      "isFallback": true
+    },
+    {
+      "id": "8725f7e1-0fa0-4dab-b8e5-9c7f3f61ab8d",
+      "title": "お楽しみは放課後に",
+      "artist": "ハム",
+      "isrc": "QT66K2567592",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/6cBTZbdVhEMl2Ibgz1lCav",
+      "isFallback": true
+    },
+    {
+      "id": "43fab937-93c8-4ed1-8056-1af7827e7a05",
+      "title": "まどろみのなかで",
+      "artist": "ハム",
+      "isrc": "QT66K2567668",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/16jyO3qYeEitg98hrudbIK",
+      "isFallback": true
+    },
+    {
+      "id": "0fc58bbc-bf8d-4a2f-b870-27a3e7d0d501",
+      "title": "A*LDK",
+      "artist": "ハム",
+      "isrc": "QT66K2567658",
+      "releaseDate": "2013-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/7q9EN1VMFWPh96nmDdwHJ6",
+      "isFallback": true
+    },
+    {
+      "id": "a402dbc5-be29-46f4-a536-cea7ce85817e",
+      "title": "ココイロレコード",
+      "artist": "ハム",
+      "isrc": "QT66K2567647",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/2xXD82mapH6d7DO1MbzjOc",
+      "isFallback": true
+    },
+    {
+      "id": "01114e4b-dcde-462d-9a1f-df9966cd6e22",
+      "title": "さかな屋さんの内緒ごはん",
+      "artist": "ハム",
+      "isrc": "QT66K2567636",
+      "releaseDate": "2017-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/2p4TiQDY6X0qk5RfUdfk2S",
+      "isFallback": true
+    },
+    {
+      "id": "7bf62ec7-4a6a-4e5a-a1a5-64fdba64b6bd",
+      "title": "午後ならやっぱり？",
+      "artist": "ハム",
+      "isrc": "QT66K2567622",
+      "releaseDate": "2016-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/3ghlMaqMhr0FARaR8HC3qG",
+      "isFallback": true
+    },
+    {
+      "id": "efbc3205-4b59-4840-a738-a1af40cb604e",
+      "title": "flowership",
+      "artist": "ハム",
+      "isrc": "QT66K2567549",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2W8Bl8Y78fr3BTYefUnhyN",
+      "isFallback": true
+    },
+    {
+      "id": "ee76a23c-862d-4a96-bb5c-4b54f5468fc4",
+      "title": "つみきのカフェテリア",
+      "artist": "ハム",
+      "isrc": "QT66K2567662",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3AE23gg5EImV0x8J0rvhXa",
+      "isFallback": true
+    },
+    {
+      "id": "4af78916-b8ba-4b65-acba-0765717a94fa",
+      "title": "claudia",
+      "artist": "ハム",
+      "isrc": "QT66K2567672",
+      "releaseDate": "2012-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/1Dody8kJqDGoISb8MmSsFO",
+      "isFallback": true
+    },
+    {
+      "id": "32ded94b-34ab-46ab-b7d2-fec40d4a2611",
+      "title": "ふたり歩く夏",
+      "artist": "ハム",
+      "isrc": "QT66K2567606",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "https://open.spotify.com/track/5pp3NI6LPI07bibz2zhekG",
+      "isFallback": true
+    },
+    {
+      "id": "f90527d0-2bc0-4a30-91ae-d05ec1305b20",
+      "title": "はなことば",
+      "artist": "ハム",
+      "isrc": "QT66K2567677",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/6GhUNlySA9XI6LjfOoSmWj",
+      "isFallback": true
+    },
+    {
+      "id": "cc6bb01c-8670-4741-858c-940176371861",
+      "title": "香りのやる気スイッチ！",
+      "artist": "ハム",
+      "isrc": "QT66K2567561",
+      "releaseDate": "2016-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/1RVu435VtDFcTV91OVs8xw",
+      "isFallback": true
+    },
+    {
+      "id": "27e7d7ef-5276-41bc-af5b-7936d81950cb",
+      "title": "時の轍",
+      "artist": "ハム",
+      "isrc": "QT66K2567538",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5Adjek1sYCki3AvumnpWGl",
+      "isFallback": true
+    },
+    {
+      "id": "b2fc1208-eaf9-407d-afdd-adcb59ad796e",
+      "title": "靴下をはいた猫",
+      "artist": "ハム",
+      "isrc": "QT66K2567585",
+      "releaseDate": "2013-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/6Vl5V4a6FkZ1wMj6n1bpg5",
+      "isFallback": true
+    },
+    {
+      "id": "1fbbfb66-54b1-4544-9372-64f681fc0580",
+      "title": "心透く",
+      "artist": "ハム",
+      "isrc": "TCJPX2385234",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/66t7dPFiMCD38YFvsfNLL5",
+      "isFallback": true
     }
   ]
 }

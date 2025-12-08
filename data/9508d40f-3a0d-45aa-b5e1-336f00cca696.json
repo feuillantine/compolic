@@ -190,6 +190,15 @@
       "releaseDate": "2023-01-25",
       "spotifyUrl": "https://open.spotify.com/track/7rp6iIVFFsMPpXEzSKxJ8C",
       "isFallback": true
+    },
+    {
+      "id": "2cc79d56-5a30-47fa-99e6-ac5ebbcb709b",
+      "title": "LOVE♡YOU♡Save the EARTH!!",
+      "artist": "山田真緑",
+      "isrc": "JPI102502818",
+      "releaseDate": "2025-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/1FwzaKwLBZCfCamPM5GV4K",
+      "isFallback": false
     }
   ]
 }

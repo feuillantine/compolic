@@ -208,6 +208,15 @@
       "releaseDate": "2022-09-28",
       "spotifyUrl": "https://open.spotify.com/track/3Cwi59PEn5WuWDcdF30Xqz",
       "isFallback": false
+    },
+    {
+      "id": "3be708d0-dec2-4bbc-a9e1-bc9fecb6f62d",
+      "title": "‘S/’ The Way",
+      "artist": "Ave Mujica",
+      "isrc": "JPR562500294",
+      "releaseDate": "2025-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/2wCjOphMFpBofNDIfV9VFp",
+      "isFallback": true
     }
   ]
 }

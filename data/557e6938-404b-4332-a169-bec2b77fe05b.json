@@ -5824,6 +5824,15 @@
       "releaseDate": "2025-11-13",
       "spotifyUrl": "https://open.spotify.com/track/3z7qGdYkfTvS5HBIEMhKOP",
       "isFallback": true
+    },
+    {
+      "id": "a893cd50-e5b1-4a8e-aeb1-2216f2f824f3",
+      "title": "A好（ガール）",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ920604114",
+      "releaseDate": "2006-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/5xZsOnxBSrP6tOHB4vm9fv",
+      "isFallback": true
     }
   ]
 }

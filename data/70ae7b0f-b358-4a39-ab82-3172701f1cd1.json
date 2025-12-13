@@ -319,6 +319,15 @@
       "releaseDate": "2006-01-20",
       "spotifyUrl": "https://open.spotify.com/track/2M2AuUCwUifpsZC2A2H14U",
       "isFallback": true
+    },
+    {
+      "id": "5d223045-3a11-4a38-b92d-3653024ff4eb",
+      "title": "キュン・キュン・パニック",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPI100601545",
+      "releaseDate": "2006-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -328,6 +328,42 @@
       "releaseDate": "2006-08-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2f4b7bc2-ef8f-4a87-8113-4d53622298a2",
+      "title": "アキバ in ワンダーランド",
+      "artist": "MOSAIC.WAV",
+      "isrc": "",
+      "releaseDate": "2007-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "97361a72-9eb6-4c2e-9a93-153a17e3a1e4",
+      "title": "ラストパワー",
+      "artist": "MOSAIC.WAV",
+      "isrc": "",
+      "releaseDate": "2007-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "931d8fed-f9e1-4fa3-b0b6-fec4e2fb1490",
+      "title": "切情！佰火繚乱",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPI100602767",
+      "releaseDate": "2007-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b81bd26-c43a-4eee-b578-a3ce2f6a5a70",
+      "title": "ふたりのKiss",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ920906500",
+      "releaseDate": "2006-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0XLJ9frZ3jtiLprjkUwdQH",
+      "isFallback": true
     }
   ]
 }

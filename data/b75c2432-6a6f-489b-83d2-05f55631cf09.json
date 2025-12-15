@@ -235,6 +235,15 @@
       "releaseDate": "2006-12-29",
       "spotifyUrl": "https://open.spotify.com/track/0oPB4pFdffg8xwIbY25hYb",
       "isFallback": true
+    },
+    {
+      "id": "7bd9fdd5-74ba-45f0-aeba-1f784b313182",
+      "title": "100グラムの恋心 (DJ Shimamura's Horny Hardcore Remix)",
+      "artist": "MOSAIC.WAV",
+      "isrc": "",
+      "releaseDate": "2008-11-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

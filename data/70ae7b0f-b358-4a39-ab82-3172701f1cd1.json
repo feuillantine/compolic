@@ -364,6 +364,15 @@
       "releaseDate": "2006-12-29",
       "spotifyUrl": "https://open.spotify.com/track/0XLJ9frZ3jtiLprjkUwdQH",
       "isFallback": true
+    },
+    {
+      "id": "3e3db588-e6e1-451a-bc3a-4d983d0bb02d",
+      "title": "迷惑メーリングGIRL",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ920808737",
+      "releaseDate": "2008-08-15",
+      "spotifyUrl": "https://open.spotify.com/track/2TQwEPvRBkVbbIn1rAtgeo",
+      "isFallback": true
     }
   ]
 }

@@ -370,6 +370,15 @@
       "releaseDate": "2020-04-15",
       "spotifyUrl": "https://open.spotify.com/track/6Q9IdNI1nLcUFDUmwqG8ri",
       "isFallback": true
+    },
+    {
+      "id": "8f885106-b786-422a-a54e-25dfb5df0a64",
+      "title": "静降想",
+      "artist": "MyGO!!!!!",
+      "isrc": "JPR562500332",
+      "releaseDate": "2025-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/6i0btjAXy9h6XeHIyi8l1l",
+      "isFallback": true
     }
   ]
 }

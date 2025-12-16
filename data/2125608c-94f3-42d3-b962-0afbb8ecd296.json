@@ -301,6 +301,15 @@
       "releaseDate": "2017-05-17",
       "spotifyUrl": "https://open.spotify.com/track/7sCvKBtGe9s0Koly3jUAZV",
       "isFallback": false
+    },
+    {
+      "id": "a354baef-ea17-4f48-9c6c-589476b3ac9e",
+      "title": "MUSIC",
+      "artist": "二宮和也",
+      "isrc": "JPQ401501310",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3zwdTmP7Y56WyrsyeehRCP",
+      "isFallback": true
     }
   ]
 }

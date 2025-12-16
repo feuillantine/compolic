@@ -397,6 +397,15 @@
       "releaseDate": "2015-01-15",
       "spotifyUrl": "https://open.spotify.com/track/5AGTR3NZcFEfiZn9rmJtCs",
       "isFallback": true
+    },
+    {
+      "id": "8837a31f-7818-403b-92bf-7fb2693d1159",
+      "title": "ハピマリ",
+      "artist": "Silent Siren",
+      "isrc": "JPN901501250",
+      "releaseDate": "2015-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/0Lmik8PXL8Ww7vncRZMeMn",
+      "isFallback": true
     }
   ]
 }

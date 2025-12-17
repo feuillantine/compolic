@@ -253,6 +253,33 @@
       "releaseDate": "2011-05-14",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e765d042-95d9-4693-a9ce-9c2df037be69",
+      "title": "100ネンゴノキミヘ",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JPZ921209248",
+      "releaseDate": "2012-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/4gkqgBvEPyPqEptBI7Prjc",
+      "isFallback": true
+    },
+    {
+      "id": "a05333d2-4f46-49b4-b5b2-b1d67d7d4048",
+      "title": "ストレス Free Style",
+      "artist": "MOSAIC.WAV",
+      "isrc": "JP92N2337202",
+      "releaseDate": "2012-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/3pzup779Rjc6ZU9UL8GURK",
+      "isFallback": true
+    },
+    {
+      "id": "1a0dabd4-3eb4-4b3d-ad24-4af8c8197490",
+      "title": "七三値ぱすかはダイスを振らない！1",
+      "artist": "MOSAIC.WAV",
+      "isrc": "",
+      "releaseDate": "2012-08-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

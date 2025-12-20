@@ -1063,6 +1063,15 @@
       "releaseDate": "2025-08-20",
       "spotifyUrl": "https://open.spotify.com/track/21YZoXteWLZ6F6TNfLbGpI",
       "isFallback": true
+    },
+    {
+      "id": "f6749bfb-8ad4-485a-ab1c-1e43c5bd7838",
+      "title": "Go! O-Sushi!",
+      "artist": "中村さんそ",
+      "isrc": "JPQ892300804",
+      "releaseDate": "2023-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/5DE4J6HxbOKjuKTMzn8hlt",
+      "isFallback": false
     }
   ]
 }

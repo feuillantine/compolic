@@ -172,6 +172,15 @@
       "releaseDate": "2025-07-16",
       "spotifyUrl": "https://open.spotify.com/track/3H2wqq42JyplHOjgfotgax",
       "isFallback": false
+    },
+    {
+      "id": "f22a590c-a834-4a8e-ac93-b2006d2ce33e",
+      "title": "My Way HighWay",
+      "artist": "中村さんそ",
+      "isrc": "JPQ892300801",
+      "releaseDate": "2023-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/19O5pN01sdK0y4XBMMJZ8h",
+      "isFallback": false
     }
   ]
 }

@@ -172,6 +172,15 @@
       "releaseDate": "2024-09-18",
       "spotifyUrl": "https://open.spotify.com/track/1GnnEFNlMC2HiuCEyAhJE1",
       "isFallback": true
+    },
+    {
+      "id": "fedb9b68-9abc-42d6-8c7d-325a092d011d",
+      "title": "365",
+      "artist": "そらこ",
+      "isrc": "",
+      "releaseDate": "2025-10-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

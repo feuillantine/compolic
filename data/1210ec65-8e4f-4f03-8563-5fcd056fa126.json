@@ -406,6 +406,15 @@
       "releaseDate": "2015-06-10",
       "spotifyUrl": "https://open.spotify.com/track/0Lmik8PXL8Ww7vncRZMeMn",
       "isFallback": true
+    },
+    {
+      "id": "ec4afcd4-6932-462f-9195-0275ac611c47",
+      "title": "100000000万%愛♡",
+      "artist": "菅田愛貴(超ときめき♡宣伝部)",
+      "isrc": "JPB602504086",
+      "releaseDate": "2025-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/1HlOJ7SsfLx9gmQhWUAir6",
+      "isFallback": true
     }
   ]
 }

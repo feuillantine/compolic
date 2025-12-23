@@ -19,6 +19,24 @@
       "releaseDate": "2024-03-25",
       "spotifyUrl": "https://open.spotify.com/track/2GQbCnETYWveso9Yln5akp",
       "isFallback": true
+    },
+    {
+      "id": "5f2c5dea-c9db-4b19-b73a-6ba6e44874e3",
+      "title": "全ての理由",
+      "artist": "Veronica",
+      "isrc": "JP92N2551912",
+      "releaseDate": "2025-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/5US5dMITtT2RMfvBcCJ5g2",
+      "isFallback": false
+    },
+    {
+      "id": "0ea173a4-5829-404c-babf-c3e7a6efdce8",
+      "title": "Altar",
+      "artist": "Veronica",
+      "isrc": "JP92N2551900",
+      "releaseDate": "2025-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/77ClpY7FcMwfGXL4tqE2Zk",
+      "isFallback": false
     }
   ]
 }

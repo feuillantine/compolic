@@ -739,6 +739,15 @@
       "releaseDate": "2011-05-25",
       "spotifyUrl": "https://open.spotify.com/track/475iQ2fFEIhvJFTMksgQ4A",
       "isFallback": true
+    },
+    {
+      "id": "4a378506-a428-408b-add4-cce6f506c33b",
+      "title": "きみはわたしの",
+      "artist": "我部りえる",
+      "isrc": "JPR502513235",
+      "releaseDate": "2025-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/4Y6a9ap1e3TsvcKHT3780L",
+      "isFallback": false
     }
   ]
 }

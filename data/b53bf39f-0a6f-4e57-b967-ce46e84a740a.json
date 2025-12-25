@@ -451,6 +451,15 @@
       "releaseDate": "2024-10-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3eb9b666-c31c-4757-aaa9-c22c8c5fc22e",
+      "title": "ただいまはここがいい",
+      "artist": "音霊魂子",
+      "isrc": "JP92E2501791",
+      "releaseDate": "2025-12-09",
+      "spotifyUrl": "https://open.spotify.com/track/12sT2Tv59gq6JomhnoExmC",
+      "isFallback": false
     }
   ]
 }

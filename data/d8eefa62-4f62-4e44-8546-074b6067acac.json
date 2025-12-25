@@ -370,6 +370,15 @@
       "releaseDate": "2025-11-21",
       "spotifyUrl": "https://open.spotify.com/track/1Wc7aKSNZ6K8NJ3c7GWtSD",
       "isFallback": true
+    },
+    {
+      "id": "63544baf-51a8-4be7-8f0f-d663d23359a7",
+      "title": "crazy styler",
+      "artist": "春雨麗女",
+      "isrc": "JP92E2500566",
+      "releaseDate": "2025-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/1qf0mPNHvlCdXC8snxtSt7",
+      "isFallback": false
     }
   ]
 }

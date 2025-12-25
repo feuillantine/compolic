@@ -343,6 +343,15 @@
       "releaseDate": "2022-02-16",
       "spotifyUrl": "https://open.spotify.com/track/7dDG2osmHpfoNed8Fxeo5X",
       "isFallback": true
+    },
+    {
+      "id": "c09dafe7-c347-4a83-88f9-0fd5f5bb96c7",
+      "title": "チャーミングな花束を!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102502951",
+      "releaseDate": "2025-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/6UTdS7y0wqnx6u36mDptLb",
+      "isFallback": true
     }
   ]
 }

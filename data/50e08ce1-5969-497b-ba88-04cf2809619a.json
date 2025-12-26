@@ -436,6 +436,15 @@
       "releaseDate": "2020-10-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "26c3b32e-30a3-462e-9e55-f9f802e63d1c",
+      "title": "ぺこぺこ!! チキンフィーバー☆",
+      "artist": "兎田ぺこら",
+      "isrc": "JPV752511590",
+      "releaseDate": "2025-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0B1JBezCngm9Z6ylvgnMPv",
+      "isFallback": false
     }
   ]
 }

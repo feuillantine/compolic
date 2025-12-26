@@ -73,6 +73,15 @@
       "releaseDate": "2017-09-13",
       "spotifyUrl": "https://open.spotify.com/track/3uakOr2RCLMNWdEtnyTHRb",
       "isFallback": true
+    },
+    {
+      "id": "cdf4fd38-1561-48c4-bdf3-ce9f618704f8",
+      "title": "Bright Tonight",
+      "artist": "IRyS",
+      "isrc": "JPV752511578",
+      "releaseDate": "2025-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6ok7Bx40KppPOrYbsHUMQb",
+      "isFallback": false
     }
   ]
 }

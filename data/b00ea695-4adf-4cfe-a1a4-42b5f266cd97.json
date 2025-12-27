@@ -1354,6 +1354,15 @@
       "releaseDate": "2025-10-08",
       "spotifyUrl": "https://open.spotify.com/track/2aevhxdToV6pGdFCpwRc81",
       "isFallback": true
+    },
+    {
+      "id": "abf835ed-f343-49ae-8812-f5d79ba9a456",
+      "title": "スポットライト",
+      "artist": "PENGUIN RESEARCH",
+      "isrc": "JPU901601152",
+      "releaseDate": "2016-04-16",
+      "spotifyUrl": "https://open.spotify.com/track/3YkKNQftcZR1fXTUsABjTR",
+      "isFallback": true
     }
   ]
 }

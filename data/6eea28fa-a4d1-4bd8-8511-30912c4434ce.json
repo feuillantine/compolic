@@ -307,6 +307,15 @@
       "releaseDate": "2021-08-04",
       "spotifyUrl": "https://open.spotify.com/track/43BtlPVIA338yEHHnV3jKP",
       "isFallback": true
+    },
+    {
+      "id": "0bbe0316-8997-4674-ae06-115ad1e8e06e",
+      "title": "パッサボーラ!(Jubilo ver.)",
+      "artist": "UNIONE",
+      "isrc": "JPU901700350",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/1IQOfvc7rkBcSZoFQqEu5g",
+      "isFallback": true
     }
   ]
 }

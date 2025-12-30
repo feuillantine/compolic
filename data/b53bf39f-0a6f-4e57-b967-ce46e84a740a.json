@@ -460,6 +460,15 @@
       "releaseDate": "2025-12-09",
       "spotifyUrl": "https://open.spotify.com/track/12sT2Tv59gq6JomhnoExmC",
       "isFallback": false
+    },
+    {
+      "id": "8b326b81-0deb-4db9-ad35-33d13a7803f8",
+      "title": "涌遊スマイルパワー",
+      "artist": "Ambassador",
+      "isrc": "JPZ922210710",
+      "releaseDate": "2022-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/6USJmPI0mEihDwSSQESIs6",
+      "isFallback": false
     }
   ]
 }

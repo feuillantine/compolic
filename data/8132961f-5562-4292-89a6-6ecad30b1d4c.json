@@ -1219,6 +1219,15 @@
       "releaseDate": "2018-11-14",
       "spotifyUrl": "https://open.spotify.com/track/19AvHNVo7IZo1Xax2gEGkh",
       "isFallback": true
+    },
+    {
+      "id": "ec3d0d26-d52f-46c9-8c8d-371d395e8221",
+      "title": "夢見る！信じる！未来叶えて！",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01400343",
+      "releaseDate": "2014-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/0GzD5NvISW6KfGv6zBtc4Y",
+      "isFallback": true
     }
   ]
 }

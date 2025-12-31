@@ -1705,6 +1705,15 @@
       "releaseDate": "2019-02-20",
       "spotifyUrl": "https://open.spotify.com/track/7iJ2gHPhuS2klP1p11zsTU",
       "isFallback": true
+    },
+    {
+      "id": "df9d7025-6e80-4203-97b2-d2c28a194019",
+      "title": "全部受けとって、強く抱きしめて。",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01400347",
+      "releaseDate": "2014-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/5rZ1lzpJubKEc4M1aEUGYN",
+      "isFallback": true
     }
   ]
 }

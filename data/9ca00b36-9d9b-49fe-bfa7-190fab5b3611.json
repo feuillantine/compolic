@@ -622,6 +622,15 @@
       "releaseDate": "2021-03-17",
       "spotifyUrl": "https://open.spotify.com/track/06sSBFr2noli7rG5lJgiuw",
       "isFallback": true
+    },
+    {
+      "id": "363f4e20-5003-48cd-b36c-b924e0fc8094",
+      "title": "遡行的インサイド",
+      "artist": "アルシュトーン",
+      "isrc": "",
+      "releaseDate": "2025-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

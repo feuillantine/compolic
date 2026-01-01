@@ -352,6 +352,15 @@
       "releaseDate": "2016-04-13",
       "spotifyUrl": "https://open.spotify.com/track/5FO0pzhQN1UhqvZ0frEk0T",
       "isFallback": false
+    },
+    {
+      "id": "566562af-2b90-498c-b128-7d948e49bf21",
+      "title": "トーキョー",
+      "artist": "カノエラナ",
+      "isrc": "JPWP01671651",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/4fYeKl0z2V0rCRayJd8L4a",
+      "isFallback": true
     }
   ]
 }

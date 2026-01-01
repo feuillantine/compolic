@@ -550,6 +550,15 @@
       "releaseDate": "2025-11-12",
       "spotifyUrl": "https://open.spotify.com/track/1jJrB92sJuVTC9Sw4d11Df",
       "isFallback": true
+    },
+    {
+      "id": "17ee973b-c372-4d32-a7f5-067773d91cf5",
+      "title": "Swing heart direction",
+      "artist": "小松未可子",
+      "isrc": "JPTF01715801",
+      "releaseDate": "2017-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/7hXn3CSyMEwhomJva4VfGR",
+      "isFallback": true
     }
   ]
 }

@@ -1183,6 +1183,15 @@
       "releaseDate": "2025-11-13",
       "spotifyUrl": "https://open.spotify.com/track/2oV9ZUXwNvLZl9IDZwiiZW",
       "isFallback": true
+    },
+    {
+      "id": "b1ae0311-fa97-41ad-903b-69c8789807c9",
+      "title": "Brighter Starlight",
+      "artist": "電音部",
+      "isrc": "JPR502510588",
+      "releaseDate": "2025-06-05",
+      "spotifyUrl": "https://open.spotify.com/track/0HRafHRp1iHrTKctPb2d1X",
+      "isFallback": true
     }
   ]
 }

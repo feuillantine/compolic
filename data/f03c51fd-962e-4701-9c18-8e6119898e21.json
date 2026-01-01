@@ -190,6 +190,15 @@
       "releaseDate": "2018-08-08",
       "spotifyUrl": "https://open.spotify.com/track/5ZYxWzOQc6AyslSwY7UERf",
       "isFallback": true
+    },
+    {
+      "id": "e11fa574-b10d-42d6-8a1e-fa36405a24b2",
+      "title": "DryDryDry",
+      "artist": "電音部",
+      "isrc": "JPR502510040",
+      "releaseDate": "2025-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/0kHTY7CdfDxxDxm7SuivcL",
+      "isFallback": true
     }
   ]
 }

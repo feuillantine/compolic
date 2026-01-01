@@ -428,6 +428,15 @@
       "releaseDate": "2017-05-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "dba77be9-61c1-49a5-91be-2f6264d4099c",
+      "title": "優しさの記憶",
+      "artist": "鹿乃",
+      "isrc": "JPR502303305",
+      "releaseDate": "2023-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/6XBr1du7QyCCyCPoo5DDtn",
+      "isFallback": true
     }
   ]
 }

@@ -190,6 +190,15 @@
       "releaseDate": "2020-11-04",
       "spotifyUrl": "https://open.spotify.com/track/3qyPnleQbHZJ2Z6udVHSak",
       "isFallback": true
+    },
+    {
+      "id": "b6d3c36c-fe9b-4e15-b42e-46651e888f02",
+      "title": "賭世遊戯",
+      "artist": "萬容",
+      "isrc": "JPI102400336",
+      "releaseDate": "2025-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/3UGONGaamFEEhQvlajPMCO",
+      "isFallback": false
     }
   ]
 }

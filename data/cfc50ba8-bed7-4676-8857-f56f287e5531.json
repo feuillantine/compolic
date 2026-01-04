@@ -847,6 +847,24 @@
       "releaseDate": "2025-08-27",
       "spotifyUrl": "https://open.spotify.com/track/0B7sS35BCxBerRMoTKLqZ8",
       "isFallback": true
+    },
+    {
+      "id": "095501ed-52d4-480e-80a2-0d6cb278fe52",
+      "title": "水際PARTY、水着でFUNNY",
+      "artist": "筆島しぐれ",
+      "isrc": "JPI102402058",
+      "releaseDate": "2025-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/5YYg8TMUsRBGu6gjvFtzWS",
+      "isFallback": false
+    },
+    {
+      "id": "5ad56875-18f7-457c-b92b-ee32cf97d2fb",
+      "title": "RAREFIED HEIGHTS",
+      "artist": "千住暦",
+      "isrc": "JPI102500741",
+      "releaseDate": "2025-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/7L1YESSWubkGT0edDww34y",
+      "isFallback": false
     }
   ]
 }

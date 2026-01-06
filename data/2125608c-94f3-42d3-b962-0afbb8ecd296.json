@@ -310,6 +310,15 @@
       "releaseDate": "2015-10-21",
       "spotifyUrl": "https://open.spotify.com/track/3zwdTmP7Y56WyrsyeehRCP",
       "isFallback": true
+    },
+    {
+      "id": "936877f0-9f11-4dc2-9d62-f4409dccdd9c",
+      "title": "当たりくじ",
+      "artist": "雲の上はいつも晴れ",
+      "isrc": "JPPO02104519",
+      "releaseDate": "2021-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/2dru3MLvxB1PsbeQ13TXhl",
+      "isFallback": true
     }
   ]
 }

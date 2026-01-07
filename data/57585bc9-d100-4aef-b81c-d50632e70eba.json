@@ -1495,6 +1495,15 @@
       "releaseDate": "2011-04-13",
       "spotifyUrl": "https://open.spotify.com/track/5l83xC6mt3pgukg0Db9aAI",
       "isFallback": true
+    },
+    {
+      "id": "ab54c3c3-7731-4442-988f-e0ee401c301f",
+      "title": "あんたは誰だ?",
+      "artist": "LaLuce",
+      "isrc": "JPPO01806178",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/3AkMebTgmIpgIO4YH4EkFi",
+      "isFallback": true
     }
   ]
 }

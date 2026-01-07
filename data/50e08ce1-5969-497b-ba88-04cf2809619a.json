@@ -445,6 +445,15 @@
       "releaseDate": "2025-12-25",
       "spotifyUrl": "https://open.spotify.com/track/0B1JBezCngm9Z6ylvgnMPv",
       "isFallback": false
+    },
+    {
+      "id": "357e546b-9734-4206-8a94-4cdcb2c84877",
+      "title": "ウィマーマ・サーガ",
+      "artist": "しぐれうい",
+      "isrc": "QT66M2571000",
+      "releaseDate": "2026-01-05",
+      "spotifyUrl": "https://open.spotify.com/track/60aRleIy0TDzLve95KBgPN",
+      "isFallback": true
     }
   ]
 }

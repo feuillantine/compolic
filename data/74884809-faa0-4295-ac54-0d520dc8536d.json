@@ -226,6 +226,15 @@
       "releaseDate": "2020-04-15",
       "spotifyUrl": "https://open.spotify.com/track/0m5t7viNz3MUObk5758gOO",
       "isFallback": true
+    },
+    {
+      "id": "e31429a4-6973-45ac-816d-b90559f7f9b7",
+      "title": "大切な色彩",
+      "artist": "chay",
+      "isrc": "JPWP01970184",
+      "releaseDate": "2019-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/5v5z1Waq3A4KaDXabohcGV",
+      "isFallback": true
     }
   ]
 }

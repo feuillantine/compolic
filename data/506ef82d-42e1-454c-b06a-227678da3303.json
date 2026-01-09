@@ -64,6 +64,15 @@
       "releaseDate": "2024-04-28",
       "spotifyUrl": "https://open.spotify.com/track/4zYnEkDBU3Szd1MR62Q5K9",
       "isFallback": true
+    },
+    {
+      "id": "5d54d87b-1015-4611-9c4e-a424ac274efb",
+      "title": "ライアローグ",
+      "artist": "葉月ゆら",
+      "isrc": "",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

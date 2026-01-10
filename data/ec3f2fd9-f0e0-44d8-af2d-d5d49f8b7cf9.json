@@ -338,6 +338,15 @@
       "releaseDate": "2005-03-24",
       "spotifyUrl": "https://open.spotify.com/track/1552QOL2WYJ9UXueeLa2VR",
       "isFallback": true
+    },
+    {
+      "id": "a8e79108-2b37-409c-8171-9dfc849a8bbd",
+      "title": "Mademoiselle Aimée",
+      "artist": "Clémentine",
+      "isrc": "JPSR09209050",
+      "releaseDate": "1992-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/3Qwqt5LCLqpWaMarrTj9zY",
+      "isFallback": true
     }
   ]
 }

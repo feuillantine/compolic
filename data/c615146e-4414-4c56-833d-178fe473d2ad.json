@@ -1621,6 +1621,15 @@
       "releaseDate": "2013-10-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "74354708-dee0-401d-ab25-d1344b28df00",
+      "title": "今日がまだ蒼くても",
+      "artist": "マジカル・パンチライン",
+      "isrc": "JPN901901010",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/3CDEnwLAp0595zi86MA3Ar",
+      "isFallback": true
     }
   ]
 }

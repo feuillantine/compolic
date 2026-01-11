@@ -82,6 +82,15 @@
       "releaseDate": "2025-12-05",
       "spotifyUrl": "https://open.spotify.com/track/2NGEm5dVGBkmiIlHrSckf0",
       "isFallback": true
+    },
+    {
+      "id": "5de14cae-8d86-49b0-96e6-f4c704fcaf7e",
+      "title": "Night Parade",
+      "artist": "Victoria Roman",
+      "isrc": "QT6F92566480",
+      "releaseDate": "2025-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/6NfI15BSts3jTmiWCCnWAg",
+      "isFallback": true
     }
   ]
 }

@@ -2494,6 +2494,15 @@
       "releaseDate": "2006-05-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "16a5b545-f803-4e3c-8725-5386f9aa68e1",
+      "title": "白黒つけない恋もある",
+      "artist": "Dream5",
+      "isrc": "JPB601502271",
+      "releaseDate": "2015-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

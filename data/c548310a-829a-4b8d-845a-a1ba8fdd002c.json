@@ -127,6 +127,42 @@
       "releaseDate": "2025-09-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d65bfd6b-2579-4e9c-a2f1-a19b182d502c",
+      "title": "PARADE!!",
+      "artist": "GENIC",
+      "isrc": "JPB602500066",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/6KE8orW6bH25Y388qXlv0p",
+      "isFallback": true
+    },
+    {
+      "id": "146b2881-9762-4bcf-9b70-64dfae111754",
+      "title": "Flavor",
+      "artist": "GENIC",
+      "isrc": "JPB602300424",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/2NONu64swXwq9icQeLTUdK",
+      "isFallback": true
+    },
+    {
+      "id": "e0a0056e-da4a-464a-b6e9-f63701b030a5",
+      "title": "TALK",
+      "artist": "GENIC",
+      "isrc": "JPB602203472",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/0XXgR9gCabaGwfMVxcJYpc",
+      "isFallback": true
+    },
+    {
+      "id": "e067051b-ce71-4ca1-b38c-611ac515fcd1",
+      "title": "ラストシーン",
+      "artist": "GENIC",
+      "isrc": "JPB602400743",
+      "releaseDate": "2024-03-06",
+      "spotifyUrl": "https://open.spotify.com/track/40iQ2ZwDB8dgJCVBZGPIYR",
+      "isFallback": true
     }
   ]
 }

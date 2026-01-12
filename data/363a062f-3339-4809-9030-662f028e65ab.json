@@ -595,6 +595,15 @@
       "releaseDate": "2023-10-16",
       "spotifyUrl": "https://open.spotify.com/track/0aCtWsyjzuSKjHZR4qKer3",
       "isFallback": false
+    },
+    {
+      "id": "8815f63d-001a-4cf3-86da-9dea26624de0",
+      "title": "テレパシー",
+      "artist": "リトルブルーボックス",
+      "isrc": "",
+      "releaseDate": "2013-01-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1,0 +1,348 @@
+{
+  "name": "中村瑛彦",
+  "sortName": "ナカムラアキヒコ",
+  "tracks": [
+    {
+      "id": "d3c24ea1-85ae-4a09-ab45-f07a2bf006f7",
+      "title": "colorless",
+      "artist": "月夜に唄え",
+      "isrc": "JPPC02311187",
+      "releaseDate": "2023-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/42DAvAqVCVJvMUWlBvbtxQ",
+      "isFallback": false
+    },
+    {
+      "id": "b260fbbf-bc7d-4096-96ac-3bd177a45a4c",
+      "title": "ディア☆マジョ!Sweet♡",
+      "artist": "モブ山モブ代",
+      "isrc": "JPB601600066",
+      "releaseDate": "2016-02-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7b9188c5-8978-4302-b8bb-2b68b5c7bab0",
+      "title": "ずっと君のことが好きなんです。",
+      "artist": "麻倉もも",
+      "isrc": "JPX401800103",
+      "releaseDate": "2018-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/3DGhnY0RPbaQQpxO3Miamv",
+      "isFallback": true
+    },
+    {
+      "id": "0e423bb4-e432-406b-949e-4fbe1cc40720",
+      "title": "恋歌",
+      "artist": "井上苑子",
+      "isrc": "JPPO01706315",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/1MWoBFiRC0UOF2jL3vdjCg",
+      "isFallback": true
+    },
+    {
+      "id": "602fbb7b-235b-4028-bf0a-6e9135d0cbc8",
+      "title": "きっと、きっとね。",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01605104",
+      "releaseDate": "2016-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/1KFe9YbcusYcfadyLacRTi",
+      "isFallback": true
+    },
+    {
+      "id": "d4b48f0a-2c0b-41eb-a3f5-877e5bb2baee",
+      "title": "この世界は捨てたもんじゃない",
+      "artist": "Juice=Juice",
+      "isrc": "JPA601800133",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3876691-8fb2-4cd2-8f96-abde11511064",
+      "title": "Never Romantic",
+      "artist": "なにわ男子",
+      "isrc": "JPQ402506130",
+      "releaseDate": "2025-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/2SsS7SKEfsJbc8Jkrol5dM",
+      "isFallback": true
+    },
+    {
+      "id": "da1d3489-87fc-46ab-8abb-edfb6005eb47",
+      "title": "Ever Sunny",
+      "artist": "菊地真",
+      "isrc": "JPCO02023070",
+      "releaseDate": "2020-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2b450b23-94c9-4bb1-bb4d-0a0dc4b5ae90",
+      "title": "Feel!感じるよ",
+      "artist": "Juice=Juice",
+      "isrc": "JPA601700073",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc734593-3579-4bc1-bd5d-6dfe4b7965a7",
+      "title": "おんなのこ",
+      "artist": "井上苑子",
+      "isrc": "JPPO01614171",
+      "releaseDate": "2016-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/1pItNWova3Th388mFofWR4",
+      "isFallback": false
+    },
+    {
+      "id": "5576cb40-08e0-4c8f-a78d-eeb9c855c97b",
+      "title": "SUKI! English ver.",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602300416",
+      "releaseDate": "2023-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/702DHstxj5NltFi01ApZQp",
+      "isFallback": true
+    },
+    {
+      "id": "a10b1c07-9fc4-4a69-ba8e-1ca8cfe9ab9c",
+      "title": "ナツコイ",
+      "artist": "井上苑子",
+      "isrc": "JPPO01616229",
+      "releaseDate": "2016-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/0GSlPRuY9tuxjvJrcpAgUn",
+      "isFallback": false
+    },
+    {
+      "id": "00be4ecf-deb5-4643-b2b2-6fc9c1ee6200",
+      "title": "笑顔のレシピ",
+      "artist": "=LOVE",
+      "isrc": "JPU902201378",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/1eJ8xprO5ZvX4A6YC2gcyF",
+      "isFallback": true
+    },
+    {
+      "id": "b8e1593d-9da8-4050-a4b0-d090b7724f29",
+      "title": "SUKI! Korean ver.",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602300419",
+      "releaseDate": "2023-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/7pG5IvdTzcwfDMRkpbUjHI",
+      "isFallback": true
+    },
+    {
+      "id": "32914877-a527-40e9-9eb8-2e43446c74cd",
+      "title": "なにわの男子やねん!",
+      "artist": "なにわ男子",
+      "isrc": "JPQ402200530",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4TVgX3nApDXzYDtgc50b4F",
+      "isFallback": true
+    },
+    {
+      "id": "d15622c7-2c4e-461f-b4cf-b92ed64310aa",
+      "title": "せきがえのうた",
+      "artist": "ときめき♡宣伝部",
+      "isrc": "JPPO01620514",
+      "releaseDate": "2016-11-02",
+      "spotifyUrl": "https://open.spotify.com/track/0mTxcY3fEkYMVKs2pyH6Cw",
+      "isFallback": true
+    },
+    {
+      "id": "a4ba824d-e0e3-4632-969e-34d69449732e",
+      "title": "君がいればOK！〜サマサマキュンキュン大作戦〜",
+      "artist": "井上苑子",
+      "isrc": "JPPO01621766",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/7Fw1K0y7q1qaL4G3dQOydF",
+      "isFallback": false
+    },
+    {
+      "id": "2f57ef4f-cb7f-4743-a08d-134575608aa9",
+      "title": "恋人以上、好き未満",
+      "artist": "=LOVE",
+      "isrc": "JPU902500010",
+      "releaseDate": "2025-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/2VZg2pEya7gPj7BOKhleVo",
+      "isFallback": true
+    },
+    {
+      "id": "3366d2fe-447e-4674-8d97-65887d01fd3d",
+      "title": "色とりどり伸びよ!!",
+      "artist": "ハロプロ研修生",
+      "isrc": "JPA602100121",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87708123-59d5-474d-8a06-ce957d0a389c",
+      "title": "大切な君へ",
+      "artist": "井上苑子",
+      "isrc": "JPPO01505913",
+      "releaseDate": "2015-06-10",
+      "spotifyUrl": "https://open.spotify.com/track/2RIu0sRBVBYWZDaipVl84s",
+      "isFallback": false
+    },
+    {
+      "id": "cf976881-aeca-4760-8117-e2e74f5efc9a",
+      "title": "SHAKE",
+      "artist": "井上苑子",
+      "isrc": "JPPO01706318",
+      "releaseDate": "2017-12-06",
+      "spotifyUrl": "https://open.spotify.com/track/4dNosW6xD3vHuhrdo0cs5b",
+      "isFallback": true
+    },
+    {
+      "id": "79d74142-bf4f-47e9-9f65-319d4d49d7f8",
+      "title": "会いに行っていいですか",
+      "artist": "浪江女子発組合",
+      "isrc": "JPKI02415024",
+      "releaseDate": "2024-11-20",
+      "spotifyUrl": "https://open.spotify.com/track/5h2VKMsXtVNnNCRnwptV0t",
+      "isFallback": true
+    },
+    {
+      "id": "b7001f92-aab5-43c0-9e05-f3c96c0a3184",
+      "title": "好感Daybook",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02130301",
+      "releaseDate": "2021-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/2lOvZUBh65gkNMRGvX6W9z",
+      "isFallback": true
+    },
+    {
+      "id": "24ba2eb7-9e0b-44f1-b966-d58d85324630",
+      "title": "おはよう",
+      "artist": "井上苑子",
+      "isrc": "JPPO01701140",
+      "releaseDate": "2017-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/1qqMwDfvaFQOmi0Vx5E5Eh",
+      "isFallback": true
+    },
+    {
+      "id": "eeb6f72a-0906-4ea2-8711-7bea59aa73c7",
+      "title": "TwinkleStart",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602502686",
+      "releaseDate": "2025-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/11fj0lbQ1rMcQycbtlinlO",
+      "isFallback": true
+    },
+    {
+      "id": "a7280029-2422-4c5f-8f81-60c17cbc2ae3",
+      "title": "アクシデント中",
+      "artist": "U‐19選抜",
+      "isrc": "JPKI01710994",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/6IJURYdjKctgPHWlYLeZR2",
+      "isFallback": true
+    },
+    {
+      "id": "959a6e15-10e1-4480-8863-385d3b6ac047",
+      "title": "すきっ!",
+      "artist": "ときめき♡宣伝部",
+      "isrc": "JPPO01801317",
+      "releaseDate": "2018-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/70IVQO4Pfr0oMszh7KLfjK",
+      "isFallback": true
+    },
+    {
+      "id": "2f619efa-ad94-44b7-b88f-4582b0e49843",
+      "title": "だいすき。",
+      "artist": "井上苑子",
+      "isrc": "JPPO01509422",
+      "releaseDate": "2015-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/1oNJrIuOF9pfFgoN28dUWx",
+      "isFallback": false
+    },
+    {
+      "id": "cb5a9ec1-146f-4b4e-949e-7bb7f2d357fa",
+      "title": "スタート！",
+      "artist": "井上苑子",
+      "isrc": "JPPO01703661",
+      "releaseDate": "2017-06-28",
+      "spotifyUrl": "https://open.spotify.com/track/4oO3mwLUa0hQwDlGJRw4FS",
+      "isFallback": true
+    },
+    {
+      "id": "000c2f6d-73e4-4dc2-b2bc-ea89cf8c9f37",
+      "title": "流星タンバリン",
+      "artist": "大橋彩香",
+      "isrc": "JPI101600889",
+      "releaseDate": "2016-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/1n3XbkZXRyfAwuATmMOFyZ",
+      "isFallback": true
+    },
+    {
+      "id": "b05a74ba-125f-4d23-af5a-9acfe8e9683e",
+      "title": "妄想マシーン3号機",
+      "artist": "Team BII",
+      "isrc": "JPN001600163",
+      "releaseDate": "2016-08-03",
+      "spotifyUrl": "https://open.spotify.com/track/3iWUt1Wpq4jzPB1utpKeqA",
+      "isFallback": true
+    },
+    {
+      "id": "4da5175d-4f9a-49fc-b17e-e8050a2d31d1",
+      "title": "雪",
+      "artist": "井上苑子",
+      "isrc": "JPPO01614174",
+      "releaseDate": "2016-03-16",
+      "spotifyUrl": "https://open.spotify.com/track/7vdYiPtRvvRZb9iIWnBwPA",
+      "isFallback": true
+    },
+    {
+      "id": "0f4b1a94-e770-450c-bb6f-b637402e69ae",
+      "title": "メッセージ",
+      "artist": "井上苑子",
+      "isrc": "JPPO01701087",
+      "releaseDate": "2017-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/6aIR0umX1Vzpbl0hZUWDUU",
+      "isFallback": false
+    },
+    {
+      "id": "86f782b0-e0f7-402b-aeff-cf68cfad0465",
+      "title": "すきっ! 〜超ver〜",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602101714",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/0SxNslJ4zylzWBQTX4rBIe",
+      "isFallback": true
+    },
+    {
+      "id": "36ec1dfe-0c25-464d-b1e9-e59732036dee",
+      "title": "ゼッタイトナリ･･･！",
+      "artist": "メイショウドトウ",
+      "isrc": "JPZ922303110",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "https://open.spotify.com/track/2QDuCkXctzMIXcN8AYiGk8",
+      "isFallback": false
+    },
+    {
+      "id": "ce82cfdf-780b-4d16-9aa0-a8b46ab88d96",
+      "title": "Come with me",
+      "artist": "こぶしファクトリー",
+      "isrc": "JPA601900329",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/5DY7ZNnqM8FEf3WpOopZDd",
+      "isFallback": true
+    },
+    {
+      "id": "d2621bbc-3ce5-4470-91df-a3ec9ec1840b",
+      "title": "泣いていいよ",
+      "artist": "Juice=Juice",
+      "isrc": "JPA601800035",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "22bd4866-4835-4956-9239-7b51f1a478f4",
+      "title": "イレイザー☆ビーム",
+      "artist": "えのぐ",
+      "isrc": "JPX262100092",
+      "releaseDate": "2022-02-01",
+      "spotifyUrl": "https://open.spotify.com/track/0RczwuHSu8znPo0R3xDiKw",
+      "isFallback": false
+    }
+  ]
+}

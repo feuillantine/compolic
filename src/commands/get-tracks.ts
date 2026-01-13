@@ -19,6 +19,7 @@ export const getTracksCommand = new Command('get-tracks')
   .description('指定したアーティストの楽曲リストを取得します')
   .option('-a, --artist <artist>', 'アーティスト名')
   .option('--arid <arid>', 'アーティストID')
+  .option('--update-missing', 'spotifyUrlが空の既存トラックを更新します')
   .action(async (options) => {
     const DATA_DIR = 'data';
     const FETCH_INTERVAL_MS = 1_200;
@@ -143,9 +144,17 @@ export const getTracksCommand = new Command('get-tracks')
       }
 
       const recordingId = recording.id;
-      // 保存済であればスキップ
+      // 保存済の楽曲であればオプション指定で分岐
       if (savedTrackIds.has(recordingId)) {
-        continue;
+        // --update-missingオプションありの場合、spotifyUrlが空の場合のみ処理継続
+        if (options.updateMissing) {
+          const savedTrack = savedTracks.find((t) => t.id === recordingId);
+          if (savedTrack?.spotifyUrl) {
+            continue;
+          }
+        } else {
+          continue;
+        }
       }
 
       // ------------------------------------------------------------
@@ -205,19 +214,29 @@ export const getTracksCommand = new Command('get-tracks')
       }
 
       // ------------------------------------------------------------
-      // 取得した情報を保存リストに追加
+      // 取得した情報を保存リストに追加または更新
       // ------------------------------------------------------------
-      savedTracks.push({
-        id: recordingId,
-        title,
-        artist,
-        isrc: isrc ?? '',
-        releaseDate,
-        spotifyUrl: spotifyUrl ?? '',
-        isFallback,
-      });
-      savedTrackIds.add(recordingId);
-      console.log(`追加： ${recording.title}`);
+      const savedTrack = savedTracks.find((t) => t.id === recordingId);
+      if (savedTrack) {
+        if (spotifyUrl) {
+          savedTrack.isrc = isrc ?? savedTrack.isrc;
+          savedTrack.spotifyUrl = spotifyUrl;
+          savedTrack.isFallback = isFallback;
+          console.log(`更新： ${recording.title} (ISRC: ${isrc ?? '未取得'}, Spotify: '新規取得')`);
+        }
+      } else {
+        savedTracks.push({
+          id: recordingId,
+          title,
+          artist,
+          isrc: isrc ?? '',
+          releaseDate,
+          spotifyUrl: spotifyUrl ?? '',
+          isFallback,
+        });
+        savedTrackIds.add(recordingId);
+        console.log(`追加： ${recording.title}`);
+      }
 
       await sleep(FETCH_INTERVAL_MS);
     }

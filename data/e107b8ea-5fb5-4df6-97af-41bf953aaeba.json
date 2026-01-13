@@ -474,10 +474,10 @@
       "id": "192c942e-43c1-4444-93d2-073bb0e3c72e",
       "title": "ガールズ ウォーク",
       "artist": "道重さゆみ",
-      "isrc": "",
+      "isrc": "JPA601800047",
       "releaseDate": "2018-04-13",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0MqO53E4HyLBcg7T2pXvFW",
+      "isFallback": true
     },
     {
       "id": "27eeb9f0-eba4-4137-9b9f-a1645162a816",

@@ -865,6 +865,24 @@
       "releaseDate": "2025-11-26",
       "spotifyUrl": "https://open.spotify.com/track/7L1YESSWubkGT0edDww34y",
       "isFallback": false
+    },
+    {
+      "id": "baa7d5c9-016c-4253-a587-df67a98dd657",
+      "title": "Raspberry night",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600315",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/1QZqjUHF4vpjRcFuYP6qc9",
+      "isFallback": true
+    },
+    {
+      "id": "5c140b4b-cc62-4df1-8ac7-a832d6df44cc",
+      "title": "Ready Smile!!",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600416",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/2tnBPx2rDX1fmRt9i5wYMn",
+      "isFallback": true
     }
   ]
 }

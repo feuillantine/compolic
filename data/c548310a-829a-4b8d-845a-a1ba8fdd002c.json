@@ -163,6 +163,15 @@
       "releaseDate": "2024-03-06",
       "spotifyUrl": "https://open.spotify.com/track/40iQ2ZwDB8dgJCVBZGPIYR",
       "isFallback": true
+    },
+    {
+      "id": "88f24ad0-706c-4f47-9255-b3327a197ccd",
+      "title": "ビバ☆アイドル!",
+      "artist": "i☆Ris",
+      "isrc": "JPT552500327",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/528rbXlQPvoVffQ3i6B0G4",
+      "isFallback": true
     }
   ]
 }

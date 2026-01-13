@@ -716,6 +716,15 @@
       "releaseDate": "2025-11-05",
       "spotifyUrl": "https://open.spotify.com/track/1wAyLHIWTPbx6k9SPsxec1",
       "isFallback": true
+    },
+    {
+      "id": "c4527695-9ae5-41ce-a1e6-830821a1da2d",
+      "title": "愛 for you!",
+      "artist": "i☆Ris",
+      "isrc": "JPT552400243",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6rQyAQaTUSq3OxchmqX3id",
+      "isFallback": true
     }
   ]
 }

@@ -397,6 +397,15 @@
       "releaseDate": "2015-04-01",
       "spotifyUrl": "https://open.spotify.com/track/6Ep39x80Nw6en3kchFUgGs",
       "isFallback": true
+    },
+    {
+      "id": "aa44f7f7-b49f-4dbc-a568-3d4ba6c037b8",
+      "title": "Girl is fun",
+      "artist": "内田真礼",
+      "isrc": "JPPC01901496",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/3Bm86aXIehfgWltYkgtUtE",
+      "isFallback": true
     }
   ]
 }

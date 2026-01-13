@@ -787,6 +787,24 @@
       "releaseDate": "2024-11-20",
       "spotifyUrl": "https://open.spotify.com/track/3jZx86sl6ReTw6cq1OqVhR",
       "isFallback": true
+    },
+    {
+      "id": "c3073e01-b26f-4a24-accb-dac177c20c4a",
+      "title": "あなたの好きなメロディ",
+      "artist": "上田麗奈",
+      "isrc": "JPI101602546",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7qp0ymRja2eikzh5SZlgOE",
+      "isFallback": true
+    },
+    {
+      "id": "d34141de-aad6-41ff-9d46-9c57ac3e24b3",
+      "title": "マニエールに夢を",
+      "artist": "上田麗奈",
+      "isrc": "JPI101602541",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/7zWvAVEcdqrGVnWAA7D2u3",
+      "isFallback": true
     }
   ]
 }

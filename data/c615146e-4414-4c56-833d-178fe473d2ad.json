@@ -240,10 +240,10 @@
       "id": "01dde0c8-b8cd-45e4-98f3-82ce6babb60e",
       "title": "Thankful",
       "artist": "Sizuk",
-      "isrc": "",
+      "isrc": "JPPC02512559",
       "releaseDate": "2025-10-07",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/4HfpAOO06Fo92bMJ7P6hqG",
+      "isFallback": true
     },
     {
       "id": "a2ac58c8-f140-4fb5-96e3-d7d87347448b",
@@ -519,7 +519,7 @@
       "id": "3484c7d1-233d-4b2e-92d8-25e7bf86b88a",
       "title": "いのちなんだよ",
       "artist": "ネネ",
-      "isrc": "",
+      "isrc": "JPI100902078",
       "releaseDate": "2009-10-07",
       "spotifyUrl": "",
       "isFallback": false
@@ -618,10 +618,10 @@
       "id": "3cfafe81-15c5-4f10-a356-500a6b0271d4",
       "title": "Daybreak",
       "artist": "Sizuk",
-      "isrc": "",
+      "isrc": "JPPC02512563",
       "releaseDate": "2025-10-05",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0vMBtZx7Q6nX1iPem8fZuJ",
+      "isFallback": true
     },
     {
       "id": "ad546da3-7952-490c-b3c7-17d95490553b",
@@ -1338,7 +1338,7 @@
       "id": "4ba0f217-e2f8-4d1f-b267-46b7aaf3d2e7",
       "title": "チャイナ気分でハイテンション!",
       "artist": "ネネ",
-      "isrc": "",
+      "isrc": "JPI100902077",
       "releaseDate": "2009-10-07",
       "spotifyUrl": "",
       "isFallback": false

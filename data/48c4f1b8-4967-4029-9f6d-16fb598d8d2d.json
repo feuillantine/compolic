@@ -568,6 +568,33 @@
       "releaseDate": "2022-08-24",
       "spotifyUrl": "https://open.spotify.com/track/2KGbQPgU6AE7aJ77bXQCcO",
       "isFallback": true
+    },
+    {
+      "id": "ea42cbc1-4421-4848-874b-790a9fcd6b5b",
+      "title": "YA‐YA‐YAN Happy Climax!",
+      "artist": "内田真礼",
+      "isrc": "JPPC02111051",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/46VFCTvs2Da1k96cXxWxXF",
+      "isFallback": true
+    },
+    {
+      "id": "c4c16ab3-a894-4135-874e-adde237cd8f3",
+      "title": "Excite the world!",
+      "artist": "内田真礼",
+      "isrc": "JPPC02111052",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/7jhhDDzltkEhM2Uq4YXyGg",
+      "isFallback": true
+    },
+    {
+      "id": "302e0589-7421-47dc-abad-e7cd1cd0f8a0",
+      "title": "Change the world",
+      "artist": "内田真礼",
+      "isrc": "JPPC02111046",
+      "releaseDate": "2021-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0uW03A6rYpDkmZ0Y02BptG",
+      "isFallback": true
     }
   ]
 }

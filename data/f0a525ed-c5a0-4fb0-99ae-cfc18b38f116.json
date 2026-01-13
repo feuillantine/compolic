@@ -1593,10 +1593,10 @@
       "id": "2889112b-c49c-4518-9f0a-e8dd1357e4fe",
       "title": "超力buddy!!",
       "artist": "やしきん",
-      "isrc": "",
+      "isrc": "JPTF01317003",
       "releaseDate": "2013-11-27",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/2VT69JJa2Ln1SOEJyUqNZA",
+      "isFallback": true
     },
     {
       "id": "15417efc-82d5-4169-87c4-c1236f93170f",
@@ -1620,10 +1620,10 @@
       "id": "a3218f98-cf5f-49c6-b76a-193c9b4e65fe",
       "title": "鳴り響け！桜新町賛歌",
       "artist": "槍桜ヒメ",
-      "isrc": "",
+      "isrc": "JPTF01317015",
       "releaseDate": "2013-11-27",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0SJsTqHpt0gY69PmApMcJN",
+      "isFallback": true
     },
     {
       "id": "ebc3d774-64f8-4506-bc8e-45d2c3cd0429",

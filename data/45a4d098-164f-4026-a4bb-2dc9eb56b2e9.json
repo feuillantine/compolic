@@ -204,10 +204,10 @@
       "id": "3f7f9a42-05ae-44e3-a8db-9292d7655ab1",
       "title": "箱庭ワンダーランド",
       "artist": "irucaice",
-      "isrc": "",
+      "isrc": "JP92Q2503147",
       "releaseDate": "2025-10-03",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/7nKg5cjjxBI49qZKwNt9rM",
+      "isFallback": true
     },
     {
       "id": "ed8903d2-b65b-41f0-abf5-8f72d7f18ece",

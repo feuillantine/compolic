@@ -172,6 +172,15 @@
       "releaseDate": "2022-11-23",
       "spotifyUrl": "https://open.spotify.com/track/0HVEhAc60BATuoRxpj3ztz",
       "isFallback": true
+    },
+    {
+      "id": "ae926fbd-405a-4e44-a62c-48b271fc09d7",
+      "title": "5STAR☆(仮)",
+      "artist": "i☆Ris",
+      "isrc": "JPT552100748",
+      "releaseDate": "2021-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/4is2skuttrWjtOkIengi3P",
+      "isFallback": true
     }
   ]
 }

@@ -848,8 +848,8 @@
       "artist": "Annabel",
       "isrc": "JPI101400323",
       "releaseDate": "2014-03-26",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/78mOBfJGbuHJQKA1hWeh9j",
+      "isFallback": true
     },
     {
       "id": "8cc17fb2-84e6-47b0-9e2c-b3b9ec8a2d27",

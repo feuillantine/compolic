@@ -243,10 +243,10 @@
       "id": "a2b0a378-00f2-42a2-8785-806534ef9968",
       "title": "ドンド レット ミー ダウン",
       "artist": "Swinging Popsicle",
-      "isrc": "",
+      "isrc": "JPY600300012",
       "releaseDate": "2004-03-07",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/7CkA8FpGcsSWOXbUJqwhdg",
+      "isFallback": true
     },
     {
       "id": "5ce356be-3d27-4f5d-b003-74fb3fba41e5",

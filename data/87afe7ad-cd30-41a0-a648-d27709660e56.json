@@ -1881,10 +1881,10 @@
       "id": "ea5328b2-e5c4-4de3-a5df-001293186a88",
       "title": "スカーレット",
       "artist": "NAO",
-      "isrc": "",
+      "isrc": "JPF502506157",
       "releaseDate": "2006-10-15",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0cHOb3dvxZOtvVEZfBmcZk",
+      "isFallback": true
     },
     {
       "id": "3c08e998-40eb-4acd-8f5b-75e0d4548a0b",

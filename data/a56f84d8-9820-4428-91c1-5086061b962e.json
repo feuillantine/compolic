@@ -776,8 +776,8 @@
       "artist": "ヨルハ",
       "isrc": "JPA841300735",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0HNxGhLpcrm6XBBiM6jDi8",
+      "isFallback": true
     },
     {
       "id": "9fc9f92b-e272-42bd-b781-3dd6ae6576b1",
@@ -830,8 +830,8 @@
       "artist": "エミ・エバンス",
       "isrc": "JPA841300738",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/1YNMluAaRsxK2Il4vp4K2J",
+      "isFallback": true
     },
     {
       "id": "6f0b02f8-d4e8-4572-94ac-a8b0ed9af0af",
@@ -839,8 +839,8 @@
       "artist": "中川奈美",
       "isrc": "JPA841300721",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/32TMEIAf4JKL7BCeBwQhmD",
+      "isFallback": true
     },
     {
       "id": "e704908d-41c8-4ad9-a28d-3c1d949e469f",
@@ -848,8 +848,8 @@
       "artist": "ヨルハ",
       "isrc": "JPA841300732",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/59TOgxPlnHJ6Jm3W9jL1C3",
+      "isFallback": true
     },
     {
       "id": "0536935c-fa3f-4d46-b132-27e5e69a59e2",
@@ -992,8 +992,8 @@
       "artist": "中川奈美",
       "isrc": "JPA841300720",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/0KMSWWtWPqPaae7W4QNa5f",
+      "isFallback": true
     },
     {
       "id": "011c4e26-644f-488a-aa83-c474e67759b7",
@@ -1082,8 +1082,8 @@
       "artist": "ヨルハ",
       "isrc": "JPA841300727",
       "releaseDate": "2014-01-22",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/042Rh6x0yexKh89QbZwukJ",
+      "isFallback": true
     },
     {
       "id": "9b8e11a7-43d2-4a16-beb5-5eb58f8dfa96",

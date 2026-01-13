@@ -767,8 +767,8 @@
       "artist": "かめりあ",
       "isrc": "JPM201700633",
       "releaseDate": "2017-04-12",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/7jn7Cbuap5HUHO10BtG1JW",
+      "isFallback": true
     },
     {
       "id": "9c97bdc9-291d-453f-bb75-7e6da06fed84",

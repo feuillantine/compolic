@@ -379,6 +379,24 @@
       "releaseDate": "2025-12-03",
       "spotifyUrl": "https://open.spotify.com/track/6i0btjAXy9h6XeHIyi8l1l",
       "isFallback": true
+    },
+    {
+      "id": "de795e55-3b88-4950-a8fd-3d6665810763",
+      "title": "Vampire Lady",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600313",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/4dOCOQEpCLHuRA6IKRGRBC",
+      "isFallback": true
+    },
+    {
+      "id": "e80747bf-d7bf-4d8f-a36d-67c25441cfc7",
+      "title": "My Bright...",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600311",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/52JKnuscteiBO6ZuXl9umX",
+      "isFallback": true
     }
   ]
 }

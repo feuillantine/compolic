@@ -1714,6 +1714,15 @@
       "releaseDate": "2014-04-02",
       "spotifyUrl": "https://open.spotify.com/track/5rZ1lzpJubKEc4M1aEUGYN",
       "isFallback": true
+    },
+    {
+      "id": "35394730-f130-47cc-bd5d-aa799f5f0087",
+      "title": "ノーシナリオ",
+      "artist": "内田真礼",
+      "isrc": "JPPC02000382",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3dTIrXYsvpqo4f3eVt9SCc",
+      "isFallback": true
     }
   ]
 }

@@ -161,8 +161,8 @@
       "artist": "堀江由衣",
       "isrc": "JPKI00152550",
       "releaseDate": "2001-10-03",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/5gFEsLWfDCFt5HOcqaTXgd",
+      "isFallback": true
     },
     {
       "id": "1f49ea8f-1306-4eee-b9c7-9b0606504da4",

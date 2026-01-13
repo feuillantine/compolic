@@ -1315,6 +1315,15 @@
       "releaseDate": "2017-12-13",
       "spotifyUrl": "https://open.spotify.com/track/0P1cE7eNIpgYveUmB6jzwX",
       "isFallback": true
+    },
+    {
+      "id": "4a8689c0-eaca-4b9f-adbe-ce2b45339292",
+      "title": "ワタシ*ドリ",
+      "artist": "上田麗奈",
+      "isrc": "JPI101602542",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/72vslOKuNgzTVFqHeX8FJ4",
+      "isFallback": true
     }
   ]
 }

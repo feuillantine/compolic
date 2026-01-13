@@ -99,10 +99,10 @@
       "id": "1cb69f1f-d0ad-4a58-a9d9-9a98216e5a33",
       "title": "クリスタルミサイル",
       "artist": "フーリンキャットマーク",
-      "isrc": "",
+      "isrc": "QT66J2583414",
       "releaseDate": "2016-10-30",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/1rHtIBALdIMDaZhud0qrcf",
+      "isFallback": true
     },
     {
       "id": "1b34af40-1ff0-4987-902a-17f16dd3b665",
@@ -162,10 +162,10 @@
       "id": "9fb3f91f-abae-4417-8ca3-df78e2add752",
       "title": "カロナコード",
       "artist": "フーリンキャットマーク",
-      "isrc": "",
+      "isrc": "QT66J2583432",
       "releaseDate": "2018-10-28",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/4PiwtXLPFjqqBSP9vHV5R0",
+      "isFallback": true
     },
     {
       "id": "6d6de3f6-f68a-4758-aa99-e5cd05754beb",
@@ -270,10 +270,10 @@
       "id": "3f596907-41a7-47f7-b256-c91a0df4fb35",
       "title": "乙女はドッペルゲンガー",
       "artist": "フーリンキャットマーク",
-      "isrc": "",
+      "isrc": "QT66J2583338",
       "releaseDate": "2017-10-29",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/3RtNm7ow9vUjdUZKF6mqqY",
+      "isFallback": true
     }
   ]
 }

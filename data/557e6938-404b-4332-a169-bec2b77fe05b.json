@@ -636,7 +636,7 @@
       "id": "df6dc2a3-ddbb-4065-8dc5-275f0ece96b6",
       "title": "M@STERPIECE",
       "artist": "765PRO ALLSTARS",
-      "isrc": "",
+      "isrc": "JPCO01330670",
       "releaseDate": "2014-01-29",
       "spotifyUrl": "",
       "isFallback": false
@@ -654,10 +654,10 @@
       "id": "d716c9de-8879-4432-958a-c9f262852cba",
       "title": "Piacevole!",
       "artist": "神前暁",
-      "isrc": "",
+      "isrc": "JPX832501007",
       "releaseDate": "2003-06-21",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/23sas1LQgWY1X7aX3E8iKX",
+      "isFallback": true
     },
     {
       "id": "25b5a7e0-2327-4c34-b842-39e98b8e78a8",
@@ -1185,7 +1185,7 @@
       "id": "feca0629-77b7-448d-bb53-143a7f3ebe3f",
       "title": "ただいま。",
       "artist": "高坂桐乃",
-      "isrc": "",
+      "isrc": "JPE301103552",
       "releaseDate": "2011-05-25",
       "spotifyUrl": "",
       "isFallback": false
@@ -1599,7 +1599,7 @@
       "id": "f07443d4-cde7-488e-a3cd-932b60a09fc7",
       "title": "おっぱい",
       "artist": "神前暁",
-      "isrc": "",
+      "isrc": "JPE301700612",
       "releaseDate": "2017-07-12",
       "spotifyUrl": "",
       "isFallback": false
@@ -1698,7 +1698,7 @@
       "id": "8a8612ad-2b5a-4140-b221-07f3b47739d5",
       "title": "りある_りあるが_あんりある",
       "artist": "蝶伝寺さすけ",
-      "isrc": "",
+      "isrc": "JPTK01004520",
       "releaseDate": "2010-07-21",
       "spotifyUrl": "",
       "isFallback": false
@@ -2040,7 +2040,7 @@
       "id": "e893afab-1739-4421-882f-03c0dddedcee",
       "title": "ハミングガール",
       "artist": "るん",
-      "isrc": "",
+      "isrc": "JPE301101141",
       "releaseDate": "2011-05-25",
       "spotifyUrl": "",
       "isFallback": false
@@ -2454,10 +2454,10 @@
       "id": "7e8667dc-c5c0-4522-8fe0-7dd53e186313",
       "title": "わーずわーずの魔法",
       "artist": "神前暁",
-      "isrc": "",
+      "isrc": "JPX832501006",
       "releaseDate": "2003-06-21",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/7nRdUsOO9AUG7E6bILEYrj",
+      "isFallback": true
     },
     {
       "id": "8ba6c064-665e-4678-b38f-e1bee3ab94dd",
@@ -5514,7 +5514,7 @@
       "id": "853ccbc5-d4f8-4699-8261-443af9c8faa1",
       "title": "鉄血篇 エンドロール",
       "artist": "神前暁",
-      "isrc": "",
+      "isrc": "JPE301600350",
       "releaseDate": "2016-07-27",
       "spotifyUrl": "",
       "isFallback": false

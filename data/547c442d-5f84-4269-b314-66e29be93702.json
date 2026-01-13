@@ -24,10 +24,10 @@
       "id": "e3b84b79-6296-434f-9903-a8eb7ec6ca9f",
       "title": "Deep in Abyss",
       "artist": "リコ",
-      "isrc": "JPD731700276",
+      "isrc": "GBKQU1931254",
       "releaseDate": "2017-08-23",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/01HcvUGKvU9Czl4z3A4sQI",
+      "isFallback": true
     },
     {
       "id": "9c43df3d-97fb-44d5-9ccf-1e4317f93e63",
@@ -123,7 +123,7 @@
       "id": "85a33d83-4b6b-479f-91dd-44a4f87cf575",
       "title": "3丁目のテーマ",
       "artist": "斉藤壮馬",
-      "isrc": "",
+      "isrc": "JPE302000294",
       "releaseDate": "2020-03-25",
       "spotifyUrl": "",
       "isFallback": false

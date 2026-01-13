@@ -62,8 +62,8 @@
       "artist": "X21",
       "isrc": "JPB601501635",
       "releaseDate": "2015-04-29",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/2IAsAFiFWujDCqgnOAosIZ",
+      "isFallback": true
     },
     {
       "id": "11eaecf4-5f18-49a6-bbb2-2033ef0d47f6",

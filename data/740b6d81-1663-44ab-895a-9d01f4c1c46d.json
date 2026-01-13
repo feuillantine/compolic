@@ -919,6 +919,24 @@
       "releaseDate": "2025-05-28",
       "spotifyUrl": "https://open.spotify.com/track/6yQVT6w0Idr79BRtXsMWLo",
       "isFallback": true
+    },
+    {
+      "id": "d9778a8a-e12b-4ae0-9bec-93a37a58480a",
+      "title": "trust",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600417",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/5fdf1hiW5X5b9VGhVhf9It",
+      "isFallback": true
+    },
+    {
+      "id": "8da7ac7d-7c0e-4aea-b34d-8d8d47fd3480",
+      "title": "Fanfare",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600314",
+      "releaseDate": "2016-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/6zt6SduC3OdXhYYGdetNeR",
+      "isFallback": true
     }
   ]
 }

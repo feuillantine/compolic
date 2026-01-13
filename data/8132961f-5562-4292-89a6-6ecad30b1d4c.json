@@ -1246,6 +1246,114 @@
       "releaseDate": "2013-04-03",
       "spotifyUrl": "https://open.spotify.com/track/2rLCrRGa3KglGeb7jO9K0M",
       "isFallback": true
+    },
+    {
+      "id": "2f2553c3-b03e-49eb-aa29-f88bf4a95dbb",
+      "title": "Imaginary",
+      "artist": "芹澤優",
+      "isrc": "JPT551700304",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3wKOfBd21CmSZNqMT9JnU6",
+      "isFallback": true
+    },
+    {
+      "id": "76ca29f0-0758-45de-bc60-ccd24de0c9f9",
+      "title": "Kiss! Kiss! Kiss!",
+      "artist": "芹澤優",
+      "isrc": "JPT551700306",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2ulu3CiA5WdpwhHIvYcpil",
+      "isFallback": true
+    },
+    {
+      "id": "be48a4f5-3d61-496b-92a0-40917d135de0",
+      "title": "WAGA-MA-MA-MAGIC",
+      "artist": "芹澤優",
+      "isrc": "JPT551700307",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0m7qMt3ctbtRsIv1omqbnk",
+      "isFallback": true
+    },
+    {
+      "id": "5d0c2ee7-818f-4080-bc9f-037f849bf1a6",
+      "title": "パラレルスターズ",
+      "artist": "芹澤優",
+      "isrc": "JPT551701012",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/1tsVtbztFRM1nUADiTSQXr",
+      "isFallback": true
+    },
+    {
+      "id": "f5e3f66d-d8a0-4a50-b68e-93631dc18e92",
+      "title": "PRINCESS POLICY",
+      "artist": "芹澤 優",
+      "isrc": "JPT551701007",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/01PGbIH4EvkVt7xit5YZ8T",
+      "isFallback": true
+    },
+    {
+      "id": "919c945c-914c-4210-af61-74c342700c1c",
+      "title": "ハウ?トゥ!パーティー☆",
+      "artist": "芹澤優",
+      "isrc": "JPT551701009",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/37YLU70oow0Il2ks7PdBoJ",
+      "isFallback": true
+    },
+    {
+      "id": "f51d196b-0160-477a-9d3c-d9e7cdeb463e",
+      "title": "ドラマチックレイディオ",
+      "artist": "芹澤優",
+      "isrc": "JPT551700309",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/5UmelN9NfiGD9p41ia9zQ6",
+      "isFallback": true
+    },
+    {
+      "id": "a9cc7c6e-47c9-4b56-a539-edfea5faaead",
+      "title": "Voice for YOU!",
+      "artist": "芹澤優",
+      "isrc": "JPT551700302",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/0CP9aUJf8EqM9SUYizvR88",
+      "isFallback": true
+    },
+    {
+      "id": "cd99e0a3-a927-4a36-9291-022fcfea1d41",
+      "title": "お願いWeekend",
+      "artist": "芹澤優",
+      "isrc": "JPT551701008",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/1eMNTjQMwdwUSItn9AE69n",
+      "isFallback": true
+    },
+    {
+      "id": "f756d543-9b1d-455a-b3c5-0fa5ce61d5b5",
+      "title": "No Regulation",
+      "artist": "芹澤優",
+      "isrc": "JPT551701011",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/5QaJxz4wREblagXwsYQwYo",
+      "isFallback": true
+    },
+    {
+      "id": "2e7bc281-a4d1-4d5c-a244-ab8ad3414b4d",
+      "title": "片思いExpansion",
+      "artist": "芹澤優",
+      "isrc": "JPT551700308",
+      "releaseDate": "2017-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/2WQfKVoHdX2rzaL1iC80va",
+      "isFallback": true
+    },
+    {
+      "id": "29eea916-20bb-4f57-8fd2-184a3f36e5ae",
+      "title": "今夜も月がきれい",
+      "artist": "芹澤優",
+      "isrc": "JPT551701010",
+      "releaseDate": "2017-11-29",
+      "spotifyUrl": "https://open.spotify.com/track/3HlOVyTCYaX6bbh7tnj9CJ",
+      "isFallback": true
     }
   ]
 }

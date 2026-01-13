@@ -429,19 +429,19 @@
       "id": "08e5e4c3-cbc5-4e2b-8506-923ad8e1d7cc",
       "title": "ヒミツノホンダナ",
       "artist": "Akki",
-      "isrc": "",
+      "isrc": "TCJPI2521185",
       "releaseDate": "2025-04-27",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/1ugt7AX3XkZPmjithKuRbu",
+      "isFallback": true
     },
     {
       "id": "e4e503d4-bda5-416d-9bff-1ba29dd8f890",
       "title": "あとがき",
       "artist": "Akki",
-      "isrc": "",
+      "isrc": "TCJPI2521220",
       "releaseDate": "2025-04-27",
-      "spotifyUrl": "",
-      "isFallback": false
+      "spotifyUrl": "https://open.spotify.com/track/24KKDvnEgD7TDdLslps3IK",
+      "isFallback": true
     },
     {
       "id": "eb28e29a-bd1f-43de-86a0-353bb5397b09",

@@ -820,6 +820,33 @@
       "releaseDate": "2025-11-26",
       "spotifyUrl": "https://open.spotify.com/track/4G6tFwVAZEskpFWUEWSXPH",
       "isFallback": true
+    },
+    {
+      "id": "42168347-2b99-48d7-b48b-35420a8d80e7",
+      "title": "Speechless",
+      "artist": "内田雄馬",
+      "isrc": "JPKI01911711",
+      "releaseDate": "2019-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/7HBErBXvFJYnf1atFVAHNs",
+      "isFallback": true
+    },
+    {
+      "id": "d8db04bf-22d4-4634-a8f4-35b370e1d97e",
+      "title": "Stardust",
+      "artist": "内田雄馬",
+      "isrc": "JPKI01817298",
+      "releaseDate": "2018-09-19",
+      "spotifyUrl": "https://open.spotify.com/track/7JL04bnCG93JKsa8VvmZpX",
+      "isFallback": true
+    },
+    {
+      "id": "1386a422-8516-402f-bf7c-83cc4504b5d4",
+      "title": "SOS",
+      "artist": "内田雄馬",
+      "isrc": "JPKI01911712",
+      "releaseDate": "2019-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/4P0PPV1sSVqEyi6xVGJHqX",
+      "isFallback": true
     }
   ]
 }

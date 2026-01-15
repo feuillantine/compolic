@@ -991,6 +991,15 @@
       "releaseDate": "2018-09-19",
       "spotifyUrl": "https://open.spotify.com/track/3YcqL9gyjNGKrMUExFlTj7",
       "isFallback": true
+    },
+    {
+      "id": "6ee30931-2b73-486a-a31c-3527e2c91e49",
+      "title": "Back to Back",
+      "artist": "森崎ウィン",
+      "isrc": "JPCO02520070",
+      "releaseDate": "2026-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/7l2kQPBtOykALPSxFUKBR1",
+      "isFallback": true
     }
   ]
 }

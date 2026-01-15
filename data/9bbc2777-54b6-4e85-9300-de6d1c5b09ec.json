@@ -514,6 +514,24 @@
       "releaseDate": "2025-09-03",
       "spotifyUrl": "https://open.spotify.com/track/3wIZnwKvEbFjaRKry2T0Nf",
       "isFallback": true
+    },
+    {
+      "id": "12fb25d9-1f46-4f41-9bb4-ef6885a58cf3",
+      "title": "Checkmate",
+      "artist": "VOLTACTION",
+      "isrc": "JPR502420202",
+      "releaseDate": "2025-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/1U0za7nWYJ3tQvqBFHAkjp",
+      "isFallback": true
+    },
+    {
+      "id": "44bd1d31-68a9-4316-8b44-33691080c272",
+      "title": "サマラヴァ！",
+      "artist": "VOLTACTION",
+      "isrc": "JPY252500086",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/5Ngv9Mnk1VntYMa5rHIMFn",
+      "isFallback": false
     }
   ]
 }

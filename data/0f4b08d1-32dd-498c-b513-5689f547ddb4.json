@@ -451,6 +451,15 @@
       "releaseDate": "2024-01-17",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "995afb58-19eb-4d02-aea8-c2e727ea6073",
+      "title": "RELOAD!!!!",
+      "artist": "VOLTACTION",
+      "isrc": "JPY252300096",
+      "releaseDate": "2023-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/3M38ZEZ48oQL0WdGYWyvdl",
+      "isFallback": true
     }
   ]
 }

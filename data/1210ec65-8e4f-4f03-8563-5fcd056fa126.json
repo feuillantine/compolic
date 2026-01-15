@@ -415,6 +415,15 @@
       "releaseDate": "2025-12-21",
       "spotifyUrl": "https://open.spotify.com/track/1HlOJ7SsfLx9gmQhWUAir6",
       "isFallback": true
+    },
+    {
+      "id": "8da4d070-ab91-4621-a9d5-c929ecd57491",
+      "title": "キミノコト",
+      "artist": "palet",
+      "isrc": "JPCO01500410",
+      "releaseDate": "2015-03-04",
+      "spotifyUrl": "https://open.spotify.com/track/70PUMjbhEqxjR8ugHsCbal",
+      "isFallback": true
     }
   ]
 }

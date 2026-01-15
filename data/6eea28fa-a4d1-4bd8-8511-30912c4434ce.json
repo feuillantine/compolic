@@ -316,6 +316,15 @@
       "releaseDate": "2017-03-15",
       "spotifyUrl": "https://open.spotify.com/track/1IQOfvc7rkBcSZoFQqEu5g",
       "isFallback": true
+    },
+    {
+      "id": "ab6108f9-68f2-45a7-8685-65562e6e1ee7",
+      "title": "Seasons",
+      "artist": "VOLTACTION",
+      "isrc": "JPY252500115",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/2uHcBppHTNJSogN1eeQXBk",
+      "isFallback": false
     }
   ]
 }

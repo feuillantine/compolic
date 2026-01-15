@@ -1,0 +1,793 @@
+{
+  "name": "Taku Inoue",
+  "sortName": "イノウエタク",
+  "otherNames": [
+    "井上拓",
+    "Midnight Grand Orchestra"
+  ],
+  "tracks": [
+    {
+      "id": "156bdd5f-3804-4859-81d7-94f7aeae41a8",
+      "title": "Maihime",
+      "artist": "Lyrical Lily",
+      "isrc": "JPR562200476",
+      "releaseDate": "2023-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/0OVdMUksHRlDj3SHjQ3til",
+      "isFallback": false
+    },
+    {
+      "id": "9a8703f5-984d-4138-8cbf-6754d1337b8c",
+      "title": "Mani Mani",
+      "artist": "外神田文芸高校",
+      "isrc": "JPR502200041",
+      "releaseDate": "2020-08-21",
+      "spotifyUrl": "https://open.spotify.com/track/0DMWkx5Bbr7PBG5Y3aLOEV",
+      "isFallback": true
+    },
+    {
+      "id": "837f4b35-3eb5-4488-a031-9253521c054e",
+      "title": "AIDA",
+      "artist": "ano",
+      "isrc": "JPTF02209201",
+      "releaseDate": "2022-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/6Ls87syrdcKepWDRGYhv2j",
+      "isFallback": false
+    },
+    {
+      "id": "acd05f5e-a983-4f0d-bde1-1d3fd5924ee7",
+      "title": "ソリロキー",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02325605",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/5xOH1FQywQLXibV4c8VQOi",
+      "isFallback": true
+    },
+    {
+      "id": "e2a70639-bee6-414c-a868-18058519ff8e",
+      "title": "クレイジークレイジー (kors k bootleg)",
+      "artist": "一ノ瀬志希",
+      "isrc": "",
+      "releaseDate": "2019-12-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1dc7af6-ff9e-4da6-a454-41611535282b",
+      "title": "The Long Goodbye",
+      "artist": "井上拓",
+      "isrc": "JPG641602025",
+      "releaseDate": "2016-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ea804d3-a8a7-461a-9a7c-ea01fd2ad170",
+      "title": "そしてぼくらは旅にでる (M@STER VERSION)",
+      "artist": "天海春香",
+      "isrc": "JPCO01809350",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ce458a9e-1114-4fa6-aa6d-ffb7e5912ef4",
+      "title": "Peek a boo",
+      "artist": "ano",
+      "isrc": "JPTF02022501",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/5RdsUihXt7XiHuSeIBo8Lf",
+      "isFallback": false
+    },
+    {
+      "id": "c26c26ab-d3c1-4d21-9945-e97c58b1364a",
+      "title": "F Wonderful World",
+      "artist": "ano",
+      "isrc": "JPTF02117101",
+      "releaseDate": "2021-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/4P7FrPgQqjM6OVCbr0QMEn",
+      "isFallback": false
+    },
+    {
+      "id": "c0bfdff0-1075-4bd7-83ce-10494a67d0e5",
+      "title": "Fight Night",
+      "artist": "井上拓",
+      "isrc": "JPG641602002",
+      "releaseDate": "2016-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "282d1bbc-9177-4be3-8621-5c4ac174f321",
+      "title": "イート・スリープ・エスケープ",
+      "artist": "ano",
+      "isrc": "JPTF02324101",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/4lyQPShOCd69eyLh56S6HW",
+      "isFallback": false
+    },
+    {
+      "id": "89eee98f-68e6-49d2-839a-bb7a4d9eab45",
+      "title": "Moonlightspeed",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02221201",
+      "releaseDate": "2022-09-14",
+      "spotifyUrl": "https://open.spotify.com/track/4Gox9VmEn1tc2j4AAu8LHp",
+      "isFallback": false
+    },
+    {
+      "id": "f34d5a5e-e466-47fa-9591-d33a03e4d160",
+      "title": "Good-Byes (M@STER VERSION)",
+      "artist": "双海亜美",
+      "isrc": "JPCO01535503",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e01b78a7-a1a5-418e-8d62-96e03b3d470c",
+      "title": "Radio Happy",
+      "artist": "大槻唯",
+      "isrc": "JPCO01603760",
+      "releaseDate": "2016-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/0Wh4a90tCUaBkv3a4RUGYA",
+      "isFallback": true
+    },
+    {
+      "id": "a022614a-a213-4eaa-b8e7-1407456e04cc",
+      "title": "Light The Light",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02325601",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/4t11fcAE8jAdmf1RvTD9dF",
+      "isFallback": true
+    },
+    {
+      "id": "ff7f2353-2f86-4bc0-a551-eaa6b9e77f74",
+      "title": "Never Ending Midnights",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215301",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0k0s4tJvuiR3Ob8yWxzaRy",
+      "isFallback": false
+    },
+    {
+      "id": "562ac75c-2d14-4818-b93b-bb96203f7080",
+      "title": "Romantic Now",
+      "artist": "赤城みりあ",
+      "isrc": "JPCO01310030",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/1cQ5i3rVqOTgzyFnk8QeKv",
+      "isFallback": true
+    },
+    {
+      "id": "de5d4ddc-d0b8-4656-ab45-81aa2b8f18a5",
+      "title": "サファイア・タウン・トワイライト",
+      "artist": "東山奈央",
+      "isrc": "JPVI02202584",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/19DUuPdwHdhPoHmK4EQJiv",
+      "isFallback": true
+    },
+    {
+      "id": "05159d35-4fe9-4747-84d1-a8b4c0c95c18",
+      "title": "FUTARI",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02516302",
+      "releaseDate": "2025-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5jR6nmQd0k4nwXliPF0Q1A",
+      "isFallback": true
+    },
+    {
+      "id": "a0261317-2d46-4115-a4d9-b3861ad6d581",
+      "title": "ジュビリー (M@STER VERSION)",
+      "artist": "星街すいせい",
+      "isrc": "JPCO02405260",
+      "releaseDate": "2024-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/17EJmQH9FyZSt4eHNpCMYk",
+      "isFallback": true
+    },
+    {
+      "id": "5c923f7f-3fc1-4d20-b1f2-2ff7ed030df6",
+      "title": "Again",
+      "artist": "Kizuna AI",
+      "isrc": "JPB602056565",
+      "releaseDate": "2020-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/6dh4KQyUP8YoJMnYk1Er5Y",
+      "isFallback": true
+    },
+    {
+      "id": "605703fb-fedb-43d2-bd27-49f204fd9153",
+      "title": "Starpeggio",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02325604",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/6s6z0VK620xvH1jMYlLVAg",
+      "isFallback": true
+    },
+    {
+      "id": "157efdac-34ff-4b47-b69e-68dd985bcbaa",
+      "title": "アンチグラビティ・ガール",
+      "artist": "月ノ美兎",
+      "isrc": "JPZ922004937",
+      "releaseDate": "2020-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/633AUhcCb4WP785bD70KBy",
+      "isFallback": true
+    },
+    {
+      "id": "7b3aafc7-c6c4-4b05-97a3-6425d0cd2675",
+      "title": "いとしき夢よ いざないて",
+      "artist": "三船栞子",
+      "isrc": "JPI102502473",
+      "releaseDate": "2025-11-08",
+      "spotifyUrl": "https://open.spotify.com/track/6Rn1vWSacmAjULjQUhqY1V",
+      "isFallback": false
+    },
+    {
+      "id": "50312b95-499c-4eb9-8978-c55fdf8e8584",
+      "title": "Club Aquila",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02129103",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5e4CeyFyOz0AL3JVWPU0aB",
+      "isFallback": true
+    },
+    {
+      "id": "b0a7e6c1-a6ad-4498-aaa1-5b91020295c3",
+      "title": "トアルトワ",
+      "artist": "外神田文芸高校",
+      "isrc": "JPR502151191",
+      "releaseDate": "2021-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/2wkYSNLFQWWfjak4sgupnJ",
+      "isFallback": true
+    },
+    {
+      "id": "2a32a36e-f67e-44cf-875f-0942a2b98529",
+      "title": "We Are The Music",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI02212845",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/2D7SJSQKlqBxj1qmGEB0K6",
+      "isFallback": true
+    },
+    {
+      "id": "324437d9-0eda-4273-845b-8b925723eb82",
+      "title": "Light Year Song",
+      "artist": "高槻やよい",
+      "isrc": "JPCO01723800",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87287440-221e-4293-915d-3b4ab9db068c",
+      "title": "EKO EKO",
+      "artist": "m-flo",
+      "isrc": "JPB602501768",
+      "releaseDate": "2025-06-18",
+      "spotifyUrl": "https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX",
+      "isFallback": false
+    },
+    {
+      "id": "20d67308-8d26-4af6-a7c3-2fca6d66cb09",
+      "title": "Igniter",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02325602",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/2ft4oa972vArdrTKYdU6sd",
+      "isFallback": true
+    },
+    {
+      "id": "d0c5ed9f-7867-4aa5-9cb3-0a1e427d6d4d",
+      "title": "ショコラカタブラ",
+      "artist": "Ado",
+      "isrc": "JPPO02304564",
+      "releaseDate": "2024-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/1L4uQbOZn1EwIeNhYSCEyZ",
+      "isFallback": false
+    },
+    {
+      "id": "a46dc69e-77e4-42cb-a46b-8cee31d3cbd4",
+      "title": "We Are Golden",
+      "artist": "マホ",
+      "isrc": "JPCO01928520",
+      "releaseDate": "2019-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/3GRsiW4zRQrxzxJxZn18R9",
+      "isFallback": false
+    },
+    {
+      "id": "23e84512-076b-44d1-8aa0-4a6073511dbb",
+      "title": "PLAY/PAUSE",
+      "artist": "電音部",
+      "isrc": "JPR502409239",
+      "releaseDate": "2024-06-29",
+      "spotifyUrl": "https://open.spotify.com/track/0MtLdA6NmVWRrCfADyZ43W",
+      "isFallback": true
+    },
+    {
+      "id": "614faaac-3774-48ea-a036-527d07a513f9",
+      "title": "Taillights (Outro)",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02129104",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/7oV7m2Owyrk8ZASoSlzalq",
+      "isFallback": true
+    },
+    {
+      "id": "d237d333-e701-4a0d-bf35-cad4ca761176",
+      "title": "swim in 睡眠Tokyo",
+      "artist": "ano",
+      "isrc": "JPTF02507104",
+      "releaseDate": "2025-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/5N5EEAqYZ7NVGIoQZjw9Da",
+      "isFallback": false
+    },
+    {
+      "id": "d7435b5b-fb28-4c8f-88f4-6f1466097253",
+      "title": "99 Nights (M@STER VERSION)",
+      "artist": "星井美希",
+      "isrc": "JPCO01518510",
+      "releaseDate": "2015-06-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64b01dbe-13b5-4ee4-92a3-8d465d4e1330",
+      "title": "Singing In The Rain",
+      "artist": "セイレーン",
+      "isrc": "JPZ921907464",
+      "releaseDate": "2019-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/0V0jte9k49LOR4F96RBndk",
+      "isFallback": true
+    },
+    {
+      "id": "9d40b74c-bdca-41e2-9ff4-12b7f7862f8b",
+      "title": "トラフ",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02516301",
+      "releaseDate": "2025-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/7peogVr1rUk4ONieJUMIm8",
+      "isFallback": true
+    },
+    {
+      "id": "9a6547e8-b045-43f4-8a2c-637d2bf09e79",
+      "title": "Continue?",
+      "artist": "井上拓",
+      "isrc": "JPG641602023",
+      "releaseDate": "2016-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3ae28b29-b0bc-41f9-be26-d0293e14958d",
+      "title": "ハートビートボックス",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02417601",
+      "releaseDate": "2024-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/3PRdBUCq8ThAl6GVosALUm",
+      "isFallback": true
+    },
+    {
+      "id": "fc339c17-81b6-48f8-a7ac-57a8c5ccab27",
+      "title": "Highway",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215306",
+      "releaseDate": "2022-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/5H6J1hUf0pVCyayGHBUHmF",
+      "isFallback": false
+    },
+    {
+      "id": "45f2be23-b468-4b88-83d5-6decd01bf0b8",
+      "title": "Yona Yona Journey",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02129102",
+      "releaseDate": "2021-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/6rqguDchNGQilZIdZuU6za",
+      "isFallback": true
+    },
+    {
+      "id": "8f7ca3f1-43ba-4254-81e5-a431c0096ce2",
+      "title": "Tell Me Why",
+      "artist": "ano",
+      "isrc": "JPTF02324004",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/701NeS6hPzeO70CqSxxKlr",
+      "isFallback": false
+    },
+    {
+      "id": "d2dc8f72-990b-4980-93bc-8e8470d000b8",
+      "title": "ソウソウ",
+      "artist": "ナターリア",
+      "isrc": "JPCO02208090",
+      "releaseDate": "2022-04-20",
+      "spotifyUrl": "https://open.spotify.com/track/0EUGZKDhRyNIyduGzBVlYU",
+      "isFallback": true
+    },
+    {
+      "id": "2ade526a-7fd6-4e9f-bc08-330af0b81c11",
+      "title": "Hotel Moonside",
+      "artist": "速水奏",
+      "isrc": "JPCO01500200",
+      "releaseDate": "2015-02-04",
+      "spotifyUrl": "https://open.spotify.com/track/4WGc4QiR2MVeqomqsH1ITB",
+      "isFallback": true
+    },
+    {
+      "id": "16bd2ba2-a6b4-4fed-90cc-e5a68d09df1e",
+      "title": "Tuning (Interlude)",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215304",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/1jPQUcumX0JloYh9AVgFig",
+      "isFallback": false
+    },
+    {
+      "id": "e5ede152-a116-4b3b-a2d4-bda4344f5893",
+      "title": "Polaris",
+      "artist": "セイレーン",
+      "isrc": "JPZ921907463",
+      "releaseDate": "2019-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/6pSF3XUuI5yWtMtnqS7cL0",
+      "isFallback": true
+    },
+    {
+      "id": "32d6ffe7-6285-46a5-b9f6-7dae09824568",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "isrc": "JPV752104954",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/6OC9BOO9qGXQARZGWb8rqy",
+      "isFallback": true
+    },
+    {
+      "id": "45afd8a8-9789-4fe2-9d5b-b0dce4829257",
+      "title": "ハートビートシティ",
+      "artist": "内田真礼",
+      "isrc": "JPPC02001393",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/7toIWpGBk4oEFvNXcpoOon",
+      "isFallback": true
+    },
+    {
+      "id": "834c08de-717c-4c1b-af43-2157ab062803",
+      "title": "デリート",
+      "artist": "ano",
+      "isrc": "JPTF02015401",
+      "releaseDate": "2020-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/3tofAOplLXwKpcrdvj33rd",
+      "isFallback": false
+    },
+    {
+      "id": "3a04f263-e378-4e67-b916-ec654b983340",
+      "title": "Ruin 65 1st",
+      "artist": "井上拓",
+      "isrc": "JPG641602005",
+      "releaseDate": "2016-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d9c05f26-7e7b-4e64-bfe6-7570d49678bf",
+      "title": "サテライト・ラブ",
+      "artist": "ココナッツ・ベガ",
+      "isrc": "JPA841700965",
+      "releaseDate": "2018-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5a584712-4234-48e2-8ac7-ae2f77b4ddb7",
+      "title": "3時12分",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02116301",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/3sH9Xf502Ro5J5z82LXmI9",
+      "isFallback": true
+    },
+    {
+      "id": "77bf5c50-e8c8-4638-80b9-9c3b01b488f8",
+      "title": "Midnight Mission",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02323001",
+      "releaseDate": "2023-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/7CvPGnVTiEJEgz5551gIih",
+      "isFallback": false
+    },
+    {
+      "id": "2c240013-b4a5-4bd4-a797-341b0cd8b47b",
+      "title": "スタンダロン",
+      "artist": "Dios",
+      "isrc": "JPC102300182",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/5Ov32KPVfPDfXWcuKICEXR",
+      "isFallback": false
+    },
+    {
+      "id": "46b73adf-590f-46ab-a1fe-2d528ec5394a",
+      "title": "カタマリイズム",
+      "artist": "TAKU INOUE",
+      "isrc": "JPX832500756",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/2lg5JMo4qeAk6y03V9V3uN",
+      "isFallback": true
+    },
+    {
+      "id": "b1f0ab5e-df92-4fb5-acd6-df8fc0f9eae9",
+      "title": "ダンス・ダンス・ダンス",
+      "artist": "如月千早",
+      "isrc": "JPCO02207150",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "05a10a25-cbe1-4158-af11-2da46c32687c",
+      "title": "Magic Words",
+      "artist": "Liyuu",
+      "isrc": "JPI101901879",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/2biqYdJRIdQyiA6Spgldho",
+      "isFallback": true
+    },
+    {
+      "id": "40b9bed3-08ab-476f-929a-20b774eea6cb",
+      "title": "Nightwear",
+      "artist": "LiPPS",
+      "isrc": "JPCO02307450",
+      "releaseDate": "2023-05-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5310ba48-05a0-4927-b5d0-75d18bf5d2d2",
+      "title": "Rat A Tat",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215303",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/6z9k7jLzYTrbvHds2tBtOI",
+      "isFallback": false
+    },
+    {
+      "id": "89fa2f23-e6e6-4557-899e-f5c6e7c920dd",
+      "title": "Allegro",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215302",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/5iJk5357aYYOZgCgB5ll3P",
+      "isFallback": false
+    },
+    {
+      "id": "9d55326a-0d62-436a-b25d-9340c4aff854",
+      "title": "SOS",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02209301",
+      "releaseDate": "2022-04-13",
+      "spotifyUrl": "https://open.spotify.com/track/1U0EPzFKu3RDUgJRnxWVfJ",
+      "isFallback": false
+    },
+    {
+      "id": "8c4bd1c1-b6ce-4372-b1bf-330ac24c1e85",
+      "title": "Pon De Beach (M@STER VERSION)",
+      "artist": "我那覇響",
+      "isrc": "JPCO01515620",
+      "releaseDate": "2015-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59828b2e-e7e6-4aa2-9319-97dd5cfdfd94",
+      "title": "シュガーラッシュ",
+      "artist": "miComet",
+      "isrc": "JPV752307834",
+      "releaseDate": "2023-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/4YkPA1WxdXsP1HNjANxvu3",
+      "isFallback": false
+    },
+    {
+      "id": "3a3e2dd6-9688-49a5-a947-91f36092344b",
+      "title": "Beautiful World",
+      "artist": "Ray",
+      "isrc": "JPVI02002185",
+      "releaseDate": "2020-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/7wkqJprWcxxWcZ4xVNuoBe",
+      "isFallback": false
+    },
+    {
+      "id": "3c6f10b2-2069-40eb-a1d5-98e80efa522a",
+      "title": "This Kiss",
+      "artist": "沼倉愛美",
+      "isrc": "JPVI01900015",
+      "releaseDate": "2019-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/5EvxVBML2Ba07TTybaqnlW",
+      "isFallback": true
+    },
+    {
+      "id": "9be7fcbf-4848-4225-95be-788386ed89d8",
+      "title": "Ruin 65 2nd",
+      "artist": "井上拓",
+      "isrc": "JPG641602006",
+      "releaseDate": "2016-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ec53bfb2-b032-41e4-9766-7b826f80f620",
+      "title": "The Aliens EP",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02129101",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/6E5UvmiGirpr3PZByALgwA",
+      "isFallback": true
+    },
+    {
+      "id": "639ef032-b0b9-4bc6-a719-174ddc296f83",
+      "title": "さよならアンドロメダ",
+      "artist": "渋谷凛",
+      "isrc": "JPCO01723750",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/1iqrLiXMBCrb3jg99YLD37",
+      "isFallback": true
+    },
+    {
+      "id": "d32f06f7-d28a-4aea-b741-33c66290cbea",
+      "title": "Blackhole Dancehall",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02325603",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/1ZG4K6fq8r0Zwpk9h8EUp0",
+      "isFallback": true
+    },
+    {
+      "id": "333390ed-d4dd-42e1-93d4-8833727fc3b4",
+      "title": "Bubble Me Face",
+      "artist": "ano",
+      "isrc": "JPTF02507102",
+      "releaseDate": "2025-06-04",
+      "spotifyUrl": "https://open.spotify.com/track/7HfZQXgBbZy3sg2lgIgFb1",
+      "isFallback": false
+    },
+    {
+      "id": "ab073631-529a-4385-a363-c7ba6d49afa8",
+      "title": "Miracle Night (M@STER VERSION)",
+      "artist": "天海春香",
+      "isrc": "JPCO01629930",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "08b6b536-9e73-4af4-b3e7-45275230e227",
+      "title": "Catch Me If You Can",
+      "artist": "早乙女彩華",
+      "isrc": "JPD732200109",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/1URAc0KwJJkmJuzD3tb0aV",
+      "isFallback": true
+    },
+    {
+      "id": "6ccc82c2-548f-4f03-bbcf-0eb57bf3c7d4",
+      "title": "雷火",
+      "artist": "ナナヲアカリ",
+      "isrc": "JPU902100957",
+      "releaseDate": "2021-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/4PzldYhybzv9PIE6cz8OMs",
+      "isFallback": false
+    },
+    {
+      "id": "3621cb1a-3fcf-4f05-b3be-3ba9aed05ef5",
+      "title": "猫吐極楽音頭",
+      "artist": "ano",
+      "isrc": "JPTF02324002",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/4ZRO75GFwFiOiDAHDz20Sq",
+      "isFallback": false
+    },
+    {
+      "id": "844be601-a2a2-459c-8ed6-eee324a3c579",
+      "title": "猫吐序曲",
+      "artist": "ano",
+      "isrc": "JPTF02324001",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/60LB6PEjlnBIKV2oDm7pGh",
+      "isFallback": false
+    },
+    {
+      "id": "f7cf1ec6-24c4-4028-afba-bd9492fc3b7c",
+      "title": "ピクセル",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02516303",
+      "releaseDate": "2025-06-25",
+      "spotifyUrl": "https://open.spotify.com/track/5vWAqYIcsalXEdlBK7D524",
+      "isFallback": true
+    },
+    {
+      "id": "79197ca8-84a5-4d21-a280-4ad958dfb38f",
+      "title": "夜を待つよ",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02317101",
+      "releaseDate": "2023-09-08",
+      "spotifyUrl": "https://open.spotify.com/track/0aGfVz4aPTH7Zej4J25KuE",
+      "isFallback": false
+    },
+    {
+      "id": "ca17581b-8bc1-4847-a770-364b32ff86c4",
+      "title": "ミラーボール・ラブ (M@STER VERSION)",
+      "artist": "宮本フレデリカ",
+      "isrc": "JPCO02001880",
+      "releaseDate": "2020-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/2AtGGoUMknikSMuZqGIKKt",
+      "isFallback": true
+    },
+    {
+      "id": "c37428d9-8bf5-4490-aee5-35cff2b10e74",
+      "title": "ライツオフ",
+      "artist": "TAKU INOUE",
+      "isrc": "JPTF02434101",
+      "releaseDate": "2024-12-04",
+      "spotifyUrl": "https://open.spotify.com/track/5LrCRQKSwpTXgcNEClb8UU",
+      "isFallback": true
+    },
+    {
+      "id": "d065cdfb-762c-4e74-a073-879b18389f2c",
+      "title": "拝啓グッバイさようなら",
+      "artist": "DAOKO",
+      "isrc": "JPTF01703701",
+      "releaseDate": "2017-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/7eIthkKvLLeGc9FfxRdOjt",
+      "isFallback": true
+    },
+    {
+      "id": "06982a58-8c21-464a-9748-462324272607",
+      "title": "ベータソング",
+      "artist": "ARuFa",
+      "isrc": "TCJPX2318162",
+      "releaseDate": "2023-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/4ey5TT68i4GzU9rQzo91dR",
+      "isFallback": false
+    },
+    {
+      "id": "6c6b4d9b-8bbb-4294-85e8-ebd8b42efa43",
+      "title": "千客万来",
+      "artist": "DAOKO",
+      "isrc": "JPPO01902081",
+      "releaseDate": "2019-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/0EyyzlPIokXwoxUJDIU7og",
+      "isFallback": true
+    },
+    {
+      "id": "1951e009-2718-42f9-92c0-a04e80444a0b",
+      "title": "ライトレス",
+      "artist": "アグネスタキオン",
+      "isrc": "JPZ922114310",
+      "releaseDate": "2022-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/2xpYCyhKWJ794Z6n3Qqw6q",
+      "isFallback": false
+    },
+    {
+      "id": "0f46f787-5520-434e-8916-4e87f492b701",
+      "title": "やれんの?エンドレス",
+      "artist": "花澤香菜",
+      "isrc": "JPPC02510834",
+      "releaseDate": "2025-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/3bc9xkQiUtAUcOVFYKsCYZ",
+      "isFallback": true
+    },
+    {
+      "id": "89230742-0f86-4bea-ab21-6ddf315a8068",
+      "title": "流星群",
+      "artist": "Midnight Grand Orchestra",
+      "isrc": "JPTF02215305",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0IHFCYQd5qGD07ZfXJpIZx",
+      "isFallback": false
+    },
+    {
+      "id": "734d99e5-105b-482b-a713-ad173af3d407",
+      "title": "リトル・シークレット",
+      "artist": "雁矢よしの",
+      "isrc": "JPPO02105258",
+      "releaseDate": "2022-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/5ARUzMMa17g5vtvGgup8Rw",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,1234 @@
+{
+  "name": "Tom-H@ck",
+  "sortName": "トムハック",
+  "otherNames": [
+    "OxT",
+    "MYTH & ROID"
+  ],
+  "tracks": [
+    {
+      "id": "db4f174c-4cd9-4942-b9bf-b7eaf1d3bbd8",
+      "title": "HOME GROUND",
+      "artist": "OxT",
+      "isrc": "JPPC02001144",
+      "releaseDate": "2020-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/4Hm4ovT1PbizjOjcHIYZFU",
+      "isFallback": true
+    },
+    {
+      "id": "e2f34a6b-49fd-47c0-a187-dfd4cd0b0cce",
+      "title": "KIMERO!!",
+      "artist": "OxT",
+      "isrc": "JPPC01500875",
+      "releaseDate": "2015-05-20",
+      "spotifyUrl": "https://open.spotify.com/track/1XzPqGEBJP6qFFa8HwtYdm",
+      "isFallback": true
+    },
+    {
+      "id": "8e01af76-8a9a-4acb-8f62-2039e1e4c21d",
+      "title": "サブタイトルバック＃１６",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cdbe027a-6460-49f1-a460-a017dd9c0d05",
+      "title": "Reweave",
+      "artist": "鈴木このみ",
+      "isrc": "JPD732400811",
+      "releaseDate": "2024-10-03",
+      "spotifyUrl": "https://open.spotify.com/track/6TXUYbzV1sz2wxW6m55qoy",
+      "isFallback": true
+    },
+    {
+      "id": "131f7ef1-c4d2-4170-94f3-1cc227361852",
+      "title": "サブタイトルバック＃５",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e29da95-8074-4588-ad95-487e16e95aba",
+      "title": "サブタイトルバック＃８",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "68a45bb7-fa83-451e-a94d-ed4d887178fb",
+      "title": "Exceed the limit!",
+      "artist": "Frying-Pan",
+      "isrc": "JPPC01500584",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/7xMHLe6DLAN76YAUHM8rJ6",
+      "isFallback": true
+    },
+    {
+      "id": "9873a68f-6efb-4ee3-9c33-89c744ee837d",
+      "title": "Oh My ギー太!!",
+      "artist": "平沢唯",
+      "isrc": "JPPC01002076",
+      "releaseDate": "2010-09-21",
+      "spotifyUrl": "https://open.spotify.com/track/0CU6ylH5DHk2ivECM4wt30",
+      "isFallback": true
+    },
+    {
+      "id": "6e8744fe-d75b-4251-9d6a-cca8d89db0fe",
+      "title": "8 -eight-",
+      "artist": "Tom-H@ck",
+      "isrc": "JPM201300679",
+      "releaseDate": "2013-11-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e98c6bf0-46fd-43ec-851b-3ea7e10a3ca8",
+      "title": "サブタイトルバック＃７",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53c82d04-792c-45c4-bd57-84de2f4c0184",
+      "title": "Go EXCEED!!",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01302204",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2Cf6fG3UlzMjLTzyXByFTj",
+      "isFallback": true
+    },
+    {
+      "id": "16bb5813-5eac-4fff-99dc-2f2c20d1e3d3",
+      "title": "Pureness Shyness",
+      "artist": "三日月夜空",
+      "isrc": "JPD731101690",
+      "releaseDate": "2012-01-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12e1e2fc-d790-4ff0-a321-af2cfa484b82",
+      "title": "アノニマス・エゴイズム",
+      "artist": "宮下遊",
+      "isrc": "JPPC02001932",
+      "releaseDate": "2020-01-20",
+      "spotifyUrl": "https://open.spotify.com/track/4aaumgxrVq6XTfEnLN15rQ",
+      "isFallback": true
+    },
+    {
+      "id": "2d8a3a73-9f5c-4257-8256-efe9b47e6791",
+      "title": "RERE",
+      "artist": "鹿乃",
+      "isrc": "JPQ461600378",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/1AxVds5PITsAzI6fGF9s1V",
+      "isFallback": true
+    },
+    {
+      "id": "a4cb99f0-0a0e-4e30-a750-459343956e48",
+      "title": "Drumming Shining My Life",
+      "artist": "田井中律",
+      "isrc": "JPPC01002529",
+      "releaseDate": "2010-11-17",
+      "spotifyUrl": "https://open.spotify.com/track/7jfVFhJPILIT88YOi6BdqS",
+      "isFallback": true
+    },
+    {
+      "id": "a7a7fe7b-740a-4889-b716-653ef3fc5d66",
+      "title": "P!P!P!P!がおー!!",
+      "artist": "結城莉玖",
+      "isrc": "JPD731800646",
+      "releaseDate": "2018-12-19",
+      "spotifyUrl": "https://open.spotify.com/track/7IrDT5dteiIbcxSNi3UDk2",
+      "isFallback": true
+    },
+    {
+      "id": "3b4bea89-14a8-44eb-afec-5f00dc9e240a",
+      "title": "DOUBLE PUNCH LOVE",
+      "artist": "八舞耶倶矢",
+      "isrc": "JPCO01416040",
+      "releaseDate": "2014-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/2ksfwWEj7Fi6XR2oDTXT5Z",
+      "isFallback": true
+    },
+    {
+      "id": "5711db05-a7f2-40ca-8065-f67b22dd3929",
+      "title": "S.P.I.N.A.",
+      "artist": "Mia REGINA",
+      "isrc": "JPI102001145",
+      "releaseDate": "2020-09-16",
+      "spotifyUrl": "https://open.spotify.com/track/30JoR6eBRTXxgHZokQyOOe",
+      "isFallback": true
+    },
+    {
+      "id": "2ab1052f-769d-4b18-a1c4-1af1334d3bdc",
+      "title": "TINT",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631901602",
+      "releaseDate": "2019-02-02",
+      "spotifyUrl": "https://open.spotify.com/track/7eIFtHtNh75nHHWHf8kjG1",
+      "isFallback": true
+    },
+    {
+      "id": "2aaa4a80-718e-4e53-9313-2eae6a0e2154",
+      "title": "Signs of a storm",
+      "artist": "Frying-Pan",
+      "isrc": "JPPC01500558",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/2SuVcyYp8vshVxKr0zu3h0",
+      "isFallback": true
+    },
+    {
+      "id": "ecddc68a-ccb0-421e-a55a-7d7c74e7c983",
+      "title": "Perfect HERO",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01400660",
+      "releaseDate": "2014-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/21B2FVTHzScbltxS8X5WcP",
+      "isFallback": true
+    },
+    {
+      "id": "96c04a3d-c006-4c4b-8c13-634da418de1f",
+      "title": "Wake up! Sloth",
+      "artist": "LiSA",
+      "isrc": "JPE301500355",
+      "releaseDate": "2015-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/5pajyhB0NrIMFGJ259oUFW",
+      "isFallback": true
+    },
+    {
+      "id": "fec2579e-9f37-48d6-be60-9c1d725c0533",
+      "title": "サブタイトルバック＃１２",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "83e12cab-9181-4343-822e-8213fd1e43f8",
+      "title": "あたしのキ・モ・チ",
+      "artist": "柏崎星奈",
+      "isrc": "JPD731101434",
+      "releaseDate": "2011-11-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cb075e3f-afe6-400a-86c9-d50d0ec593bb",
+      "title": "CHAOS PHANTASM",
+      "artist": "OxT",
+      "isrc": "JPD732200124",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/4rI2YQZrnoEzf7detVlPTK",
+      "isFallback": true
+    },
+    {
+      "id": "9d48dcb6-b08a-4ce6-adfd-d047706a2fdf",
+      "title": "Glamorous days",
+      "artist": "日笠陽子",
+      "isrc": "JPPC01301176",
+      "releaseDate": "2013-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/2Ae1b2MDJez4ITDCOHbTBP",
+      "isFallback": true
+    },
+    {
+      "id": "06329211-bbbf-4f86-a178-4c608b8a728c",
+      "title": "You’re Not Special",
+      "artist": "Mori Calliope",
+      "isrc": "JPPO02302385",
+      "releaseDate": "2023-08-17",
+      "spotifyUrl": "https://open.spotify.com/track/2assykTcw0YvTyZD7XSGMd",
+      "isFallback": true
+    },
+    {
+      "id": "99a68fb6-aeaf-4fa4-8df1-8f0006219816",
+      "title": "Ψです I LIKE YOU",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01613301",
+      "releaseDate": "2016-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/5zwhs3vsW6LMsD0JIDUujL",
+      "isFallback": true
+    },
+    {
+      "id": "8781e549-37e6-4d5d-906f-0c3de0efbd39",
+      "title": "Memento",
+      "artist": "nonoc",
+      "isrc": "JPD732000061",
+      "releaseDate": "2020-09-02",
+      "spotifyUrl": "https://open.spotify.com/track/5OJ0kXGbl2ZMmjbVZVhmrI",
+      "isFallback": true
+    },
+    {
+      "id": "f2483f59-112f-4459-a3af-d1ce9d20e251",
+      "title": "Be My Friend",
+      "artist": "隣人部",
+      "isrc": "JPD731201403",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "99214235-a46a-4efc-9d6d-f5582d79387e",
+      "title": "Sky The Graffiti",
+      "artist": "リーファ",
+      "isrc": "JPE301301362",
+      "releaseDate": "2013-05-22",
+      "spotifyUrl": "https://open.spotify.com/track/2eRu4Ftg899xJNW0i60BIN",
+      "isFallback": true
+    },
+    {
+      "id": "b32d1e44-b0a7-4800-8579-a63016bb3b8e",
+      "title": "A little happiness －小さなしあわせ－",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01502312",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0bc9dffc-21b1-4ad8-a563-5d5a8f2f2b2e",
+      "title": "PASTEL B☆X",
+      "artist": "羽瀬川小鳩",
+      "isrc": "",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c903fcb6-c0fd-47a6-8e5d-a4e31c69028f",
+      "title": "Broken Voices",
+      "artist": "ナノ",
+      "isrc": "JPE502200106",
+      "releaseDate": "2023-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/4W9SDWjU2Z561zNPPeaJzC",
+      "isFallback": true
+    },
+    {
+      "id": "59f9499a-3728-4f02-b3d6-6b5a66229133",
+      "title": "Do or die",
+      "artist": "Frying-Pan",
+      "isrc": "JPPC01500556",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/6MZMIDtdOaYl5mJs43dFxH",
+      "isFallback": true
+    },
+    {
+      "id": "3cc56e00-fcb4-4292-bd9d-80cb8560e240",
+      "title": "GO! GO! MANIAC",
+      "artist": "天狼群",
+      "isrc": "JPKI02514131",
+      "releaseDate": "2025-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/4Xw9M900OsmlW23YrGiWk7",
+      "isFallback": true
+    },
+    {
+      "id": "646d5783-61a0-4b39-bcfc-39a06d04e353",
+      "title": "サブタイトルバック＃９",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80cafb0e-babb-4ab1-901f-7065c27a1035",
+      "title": "Girly Storm 疾走 Stick",
+      "artist": "田井中律",
+      "isrc": "JPPC00902296",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/3MZ2k4yeWtp7U8V1b9SkEe",
+      "isFallback": true
+    },
+    {
+      "id": "ec35b157-e003-4a21-af77-baff968dc7dc",
+      "title": "Hello, Happy Sunday!!",
+      "artist": "高山マリア",
+      "isrc": "JPD731200534",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "465b2256-bf0b-408a-bdbb-012c39e31b3f",
+      "title": "PSYCHO",
+      "artist": "Hakos Baelz",
+      "isrc": "JPV752307232",
+      "releaseDate": "2023-05-06",
+      "spotifyUrl": "https://open.spotify.com/track/5QXpY51wFeGQ51WdPNMyru",
+      "isFallback": true
+    },
+    {
+      "id": "852cfaae-d986-4ea3-8c2d-5c29f8d4de34",
+      "title": "Cheer! Tear? Cheer!!",
+      "artist": "リズベット",
+      "isrc": "JPE301203323",
+      "releaseDate": "2012-12-26",
+      "spotifyUrl": "https://open.spotify.com/track/5Ss3HYbUCEKF186x9GNmYB",
+      "isFallback": true
+    },
+    {
+      "id": "a7783059-947c-466a-a92d-4a98cc480a37",
+      "title": "THE SAILER",
+      "artist": "OxT",
+      "isrc": "JPD731700615",
+      "releaseDate": "2018-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/392XnqMoTBwdAwxQWP0xRm",
+      "isFallback": true
+    },
+    {
+      "id": "d7de325f-48fb-417e-a7eb-891762c7509b",
+      "title": "FLOWER",
+      "artist": "羽瀬川小鷹",
+      "isrc": "JPD731200193",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da70b9e9-cbbc-48b6-a0d6-2aee692dcf23",
+      "title": "HERE COMES HOPE",
+      "artist": "IRyS",
+      "isrc": "JPV752104750",
+      "releaseDate": "2021-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/413waXVdYeWc1iqx68Dmpm",
+      "isFallback": false
+    },
+    {
+      "id": "df7ff517-96dd-473a-bf08-3ce97008d404",
+      "title": "Only in Hope",
+      "artist": "IRyS",
+      "isrc": "JPV752205429",
+      "releaseDate": "2022-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/1I6lxUUfN12tHReGTvQTsP",
+      "isFallback": true
+    },
+    {
+      "id": "102fa133-0e57-44f2-a526-ddf028ebd122",
+      "title": "REUNION",
+      "artist": "OxT",
+      "isrc": "JPPC02001141",
+      "releaseDate": "2020-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/31GbdLaLhbNne9A2F8fnbn",
+      "isFallback": true
+    },
+    {
+      "id": "771c4663-169a-4530-8d75-be2697a9aad1",
+      "title": "Distance Love",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631800902",
+      "releaseDate": "2018-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/0qCJINxNQJMRoP0n2A0bAf",
+      "isFallback": true
+    },
+    {
+      "id": "159845b8-574c-46b9-8d66-1c554a7d94e4",
+      "title": "サブタイトルバック＃１５",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9375c705-cdc1-4ebe-8a2d-e989ee8a4721",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "isrc": "JPD732200123",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/3RNSTLShlhmMXtixgofPlX",
+      "isFallback": true
+    },
+    {
+      "id": "33074d94-e8df-4a42-9258-bf0242eec867",
+      "title": "サブタイトルバック＃６",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d1f8daf6-b6e5-4fb4-98e7-ef66df10428d",
+      "title": "WWDBEST",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01619801",
+      "releaseDate": "2016-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4ytKvlaGYQT4yo6tIb1iEa",
+      "isFallback": true
+    },
+    {
+      "id": "5e9cdea5-0725-4a47-8fb1-38754eca0162",
+      "title": "サブタイトルバック＃３",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1849d55d-339f-46d9-9d0c-f5249d04a51c",
+      "title": "サブタイトルバック＃４",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5bf664d-180a-4f96-a124-630bed5e97cd",
+      "title": "Never stop love",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631907601",
+      "releaseDate": "2019-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/0ycJl22hyLM7rvQR4eBeKF",
+      "isFallback": true
+    },
+    {
+      "id": "c3d12d68-45fe-4088-81bb-47fee78dc8e5",
+      "title": "Over the Starlight",
+      "artist": "中野梓",
+      "isrc": "JPPC01002534",
+      "releaseDate": "2010-11-17",
+      "spotifyUrl": "https://open.spotify.com/track/2DM8E74sS7fot2ZMZ9iDOj",
+      "isFallback": true
+    },
+    {
+      "id": "f164fd2d-b3c5-486b-b4af-c6c5989ecbee",
+      "title": "Over the horizon",
+      "artist": "Frying-Pan",
+      "isrc": "JPPC01500551",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/4ZO7X96KFPYRwzuXQPVnef",
+      "isFallback": true
+    },
+    {
+      "id": "e1f81c0d-7e09-44fc-af7b-d1619b8c45ac",
+      "title": "Haruzion",
+      "artist": "鹿乃",
+      "isrc": "JPQ461700456",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4A7h9LW5zMaumZPmBOy6to",
+      "isFallback": true
+    },
+    {
+      "id": "74d8d890-07dd-4694-b34c-a423975dea8b",
+      "title": "Unmei♪wa♪Endless!",
+      "artist": "放課後ティータイム",
+      "isrc": "JPPC01103100",
+      "releaseDate": "2011-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/0LoGJrS5kTRw9w1lQUiVPz",
+      "isFallback": true
+    },
+    {
+      "id": "47e022e5-ae6f-4d1b-9103-238bc0af19c6",
+      "title": "ギー太に首ったけ",
+      "artist": "平沢唯",
+      "isrc": "JPPC00901551",
+      "releaseDate": "2009-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/4ed1RJpQXnjNFYtZUXss8s",
+      "isFallback": true
+    },
+    {
+      "id": "b70ee793-49f0-4c92-876e-1a7e63042c85",
+      "title": "Cagayake!GIRLS",
+      "artist": "桜高軽音部",
+      "isrc": "JPPC00900842",
+      "releaseDate": "2009-04-22",
+      "spotifyUrl": "https://open.spotify.com/track/6dCeYPmR97wXMKgfZxU4wU",
+      "isFallback": false
+    },
+    {
+      "id": "c542a985-1317-486e-9c48-c365135255d7",
+      "title": "Sing All Overtures",
+      "artist": "キリト",
+      "isrc": "JPE301301822",
+      "releaseDate": "2013-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/17GZ37fOhA73A7hXllt2e0",
+      "isFallback": true
+    },
+    {
+      "id": "4ac9e322-b333-444c-88c4-608be7df665f",
+      "title": "サブタイトルバック＃１３",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ef95e8e-2fe8-4ed2-8c43-745578fe904a",
+      "title": "Jump",
+      "artist": "真鍋和",
+      "isrc": "JPPC01002947",
+      "releaseDate": "2011-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/407PXrjjwWjtYYqXCXxtH0",
+      "isFallback": true
+    },
+    {
+      "id": "596f63f0-d42a-4280-afbb-4cae49e2811b",
+      "title": "Everlasting Soul",
+      "artist": "角巻わため",
+      "isrc": "JPV752105374",
+      "releaseDate": "2021-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/3oqeKhZonkNdPmELy521om",
+      "isFallback": true
+    },
+    {
+      "id": "da82af5b-3798-4a54-8f78-3684ed8fa412",
+      "title": "Happy‐go‐Journey",
+      "artist": "内田雄馬",
+      "isrc": "JPKI02215895",
+      "releaseDate": "2023-01-18",
+      "spotifyUrl": "https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2",
+      "isFallback": true
+    },
+    {
+      "id": "cb292af3-090a-4635-a95e-50322945e87f",
+      "title": "サブタイトルバック＃１８",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0cb6540f-e1bf-4dc9-ada3-878e3d9cd5f0",
+      "title": "『ﾚｯﾂｺﾞｰ』(律Ver.)",
+      "artist": "田井中律",
+      "isrc": "JPPC00902298",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/2khltK7hSuy8yHFYzOG1RN",
+      "isFallback": true
+    },
+    {
+      "id": "12d748c4-3220-4eef-8857-bb32c907a4b7",
+      "title": "Everlasting Dream",
+      "artist": "OxT",
+      "isrc": "JPPC01902345",
+      "releaseDate": "2020-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/471Z7XDFGSGEgq4Kz8yVIf",
+      "isFallback": true
+    },
+    {
+      "id": "58ea6a26-c436-4622-9df4-fe2faea7c1d1",
+      "title": "イケイケ BIG HEARTS♡",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631706102",
+      "releaseDate": "2017-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/5Y9kIUJlCfTipBQ7GReVbA",
+      "isFallback": true
+    },
+    {
+      "id": "d2d37676-ab7a-40c0-aca9-5739afd3587a",
+      "title": "Can‐do Dreamer",
+      "artist": "Smewthie",
+      "isrc": "JPPC02310604",
+      "releaseDate": "2023-04-05",
+      "spotifyUrl": "https://open.spotify.com/track/6TyXgYKVR5v2EZNhUgrIU5",
+      "isFallback": true
+    },
+    {
+      "id": "0939f163-6e44-4bf9-86c5-8725b57b16f2",
+      "title": "Tomorrow's Rosario",
+      "artist": "アスナ",
+      "isrc": "JPE301500535",
+      "releaseDate": "2015-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/6Qxddzl5onLJBFE79UGii0",
+      "isFallback": true
+    },
+    {
+      "id": "10703d02-fce5-4b3c-b730-23b7a553136c",
+      "title": "Fever Dreamer",
+      "artist": "Mia REGINA",
+      "isrc": "JPI102102698",
+      "releaseDate": "2021-11-03",
+      "spotifyUrl": "https://open.spotify.com/track/6TBxW0YR9jTQtieh7bgwP3",
+      "isFallback": true
+    },
+    {
+      "id": "d8049f77-4b73-41d6-b1a8-e0438fb43b59",
+      "title": "Midnight スーパースター☆☆☆",
+      "artist": "鈴木純",
+      "isrc": "JPPC01002953",
+      "releaseDate": "2011-01-19",
+      "spotifyUrl": "https://open.spotify.com/track/4Pj0ozWuNVsYrIQ0fQf8DR",
+      "isFallback": true
+    },
+    {
+      "id": "bf0c1eb1-7a4e-489a-ac3e-c689367f6d49",
+      "title": "nameless",
+      "artist": "鹿乃",
+      "isrc": "JPQ461600377",
+      "releaseDate": "2016-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/39kPB5wDm9E8l4DfHlkfdQ",
+      "isFallback": true
+    },
+    {
+      "id": "f15aecf5-4921-43e0-a758-d8ee8d01a72a",
+      "title": "サブタイトルバック＃１１",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "653fc4c3-4fd5-401c-b5ed-2fc90934e012",
+      "title": "Be the Best! Be the Blue! (Album ver.)",
+      "artist": "OxT",
+      "isrc": "JPPC02001140",
+      "releaseDate": "2020-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/6Ta3Uj9wWG3As89B6eHjVi",
+      "isFallback": true
+    },
+    {
+      "id": "f1a74356-5b3a-4f2e-b1ab-be2ee1d9fd10",
+      "title": "Magiかよ!? BiliBili☆パンチライン",
+      "artist": "マジカル・パンチライン",
+      "isrc": "JPPC01601182",
+      "releaseDate": "2016-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/7A8qX4cA5HPt3Zh5hkOAtf",
+      "isFallback": true
+    },
+    {
+      "id": "f342f14d-19f7-4083-b52e-51c595000055",
+      "title": "Happy Cuty My Snow Man",
+      "artist": "久保ユリカ",
+      "isrc": "JPPC01602486",
+      "releaseDate": "2016-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/3zsTM5ybK8UnZvPEhlzjds",
+      "isFallback": true
+    },
+    {
+      "id": "6d0a27a3-d62d-4ee8-8354-35a789542ef6",
+      "title": "B.L.T.",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01302205",
+      "releaseDate": "2013-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/0WqB9IpFGyk4N0bQu6u3iU",
+      "isFallback": true
+    },
+    {
+      "id": "8bd305a5-e0db-4e1f-a7af-7c46adf5ae53",
+      "title": "Rare bird －珍しい鳥－",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01502313",
+      "releaseDate": "2015-11-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "891e46ff-5e4e-44c4-b18d-8aba8bd0932c",
+      "title": "いちばんいっぱい",
+      "artist": "放課後ティータイム",
+      "isrc": "JPPC01103101",
+      "releaseDate": "2011-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/6Ffx9tsy2pT4RsCmKhrKYN",
+      "isFallback": true
+    },
+    {
+      "id": "9c6b8b11-b311-45d2-9f23-cdc03ff66bdd",
+      "title": "GO! GO! MANIAC",
+      "artist": "放課後ティータイム",
+      "isrc": "JPPC01000348",
+      "releaseDate": "2010-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk",
+      "isFallback": true
+    },
+    {
+      "id": "bdb7651f-db27-400d-b847-450739199400",
+      "title": "サブタイトルバック＃１０",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "216eab3b-a15c-4147-a989-c4383a8625fc",
+      "title": "Utauyo!!MIRACLE",
+      "artist": "放課後ティータイム",
+      "isrc": "JPPC01001322",
+      "releaseDate": "2010-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/2JmZ0T4edkqdthYVlDuGxg",
+      "isFallback": true
+    },
+    {
+      "id": "39d644e4-bef3-473c-9828-26140951a41c",
+      "title": "サブタイトルバック＃１９",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19e4c9dc-779a-4e61-8c79-34a3a7593b1b",
+      "title": "サブタイトルバック＃１",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36aa4b87-7063-431f-8244-319d69b19ceb",
+      "title": "おもいでクリエイターズ",
+      "artist": "あおい",
+      "isrc": "",
+      "releaseDate": "2017-10-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ec12244b-fb68-4a2d-8fb7-f0954b15bd80",
+      "title": "VOXX",
+      "artist": "平野綾",
+      "isrc": "JPI100902667",
+      "releaseDate": "2009-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/3zNucxdUi58s4TRar2v0P2",
+      "isFallback": true
+    },
+    {
+      "id": "b3fe16c1-2668-4cd9-bcf1-bbfa41f52aa2",
+      "title": "fallen",
+      "artist": "安野希世乃",
+      "isrc": "JPD732200358",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/70M8GwIyGjZXtW34xtAO7K",
+      "isFallback": true
+    },
+    {
+      "id": "2f678cd1-e193-4cca-b187-aa6d71377786",
+      "title": "Walk the wire",
+      "artist": "Frying-Pan",
+      "isrc": "JPPC01500548",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/5aQVxGNh30mv0Eq6RKbiy9",
+      "isFallback": true
+    },
+    {
+      "id": "971d4df4-c2c4-4d88-96e5-548c4ed5d7aa",
+      "title": "サブタイトルバック＃２",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ad69577-58e2-48ef-bd1f-e57a33ff5ffa",
+      "title": "HEARTS OF JOURNEY",
+      "artist": "イケてるハーツ",
+      "isrc": "JPK631804702",
+      "releaseDate": "2018-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/5xyhYcRXz62UIHGjWgGTYd",
+      "isFallback": true
+    },
+    {
+      "id": "8138095d-8607-4c16-a21d-5fa72305d645",
+      "title": "Passionate squall",
+      "artist": "織部まふゆ",
+      "isrc": "JPI101000031",
+      "releaseDate": "2010-02-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8ab76abf-e310-4fe8-878c-d351775892db",
+      "title": "サブタイトルバック＃１７",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b395dccb-1c55-4549-b037-81805100e857",
+      "title": "fortitude",
+      "artist": "飛蘭",
+      "isrc": "JPI100900520",
+      "releaseDate": "2009-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1TgveyAZnaVYFe79I2j0kv",
+      "isFallback": true
+    },
+    {
+      "id": "4f673017-8415-4c8b-ad40-1789cb04b725",
+      "title": "BRILLIANT BRIGHT",
+      "artist": "MYTH & ROID",
+      "isrc": "TCJPO2136565",
+      "releaseDate": "2021-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/6HrdlHeTR1XVCWR8YrdwwJ",
+      "isFallback": true
+    },
+    {
+      "id": "ad0d0fc6-7a70-45be-8b35-c566d42452cb",
+      "title": "X-Plan",
+      "artist": "Tom-H@ck",
+      "isrc": "JPM201100189",
+      "releaseDate": "2011-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cb42ecf0-0a2f-432d-94f5-8919020fa570",
+      "title": "サブタイトルバック＃１４",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f601a26-180e-4c00-9c58-a5d995ce5555",
+      "title": "Joyful Todays",
+      "artist": "中野梓",
+      "isrc": "JPPC01002535",
+      "releaseDate": "2010-11-17",
+      "spotifyUrl": "https://open.spotify.com/track/5ac5DW1OlZt314bV7NAyOJ",
+      "isFallback": true
+    },
+    {
+      "id": "65d76226-816e-4eae-98b1-34e418d2a9a3",
+      "title": "HAJIけてシナプス☆シナモンロール",
+      "artist": "にゅーろん★くりぃむそふと",
+      "isrc": "JPPC01700055",
+      "releaseDate": "2017-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/2uVmAnLCDtMB3PA0dK93tp",
+      "isFallback": false
+    },
+    {
+      "id": "d2dd9e50-8afd-4419-a042-b69ba21fd610",
+      "title": "送信履歴",
+      "artist": "三日月夜空",
+      "isrc": "",
+      "releaseDate": "2013-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f7080fc1-0052-497b-a9a8-c80920d62245",
+      "title": "冬の日",
+      "artist": "放課後ティータイム",
+      "isrc": "JPPC01002344",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0DEsv4sA6BWqAOwH5XWSYh",
+      "isFallback": true
+    },
+    {
+      "id": "95ae05a2-564b-40ba-9bb2-998513f4ddf6",
+      "title": "私は私の道を行く",
+      "artist": "中野梓",
+      "isrc": "JPPC00902307",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/6ZN0r3cJqgTUA0NVRliMI6",
+      "isFallback": true
+    },
+    {
+      "id": "74d0ddc2-99fe-4f40-9816-75165b6ddaca",
+      "title": "スタッカート・デイズ",
+      "artist": "あおい",
+      "isrc": "JPZ921301995",
+      "releaseDate": "2013-03-13",
+      "spotifyUrl": "https://open.spotify.com/track/1CSKwk3qNy5bVfzIlPLoFK",
+      "isFallback": true
+    },
+    {
+      "id": "ddc4ba91-c478-423f-a692-0afa2ca88e1e",
+      "title": "君と僕",
+      "artist": "志熊理科",
+      "isrc": "",
+      "releaseDate": "2013-12-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "452e5b1b-afd0-4a3f-a312-0c3634a67aec",
+      "title": "思い出シュノーケル",
+      "artist": "羽瀬川小鷹",
+      "isrc": "JPD731201406",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a54e5b59-04ca-45d4-8b70-ee547ae75f37",
+      "title": "夏色プレゼント",
+      "artist": "あおい",
+      "isrc": "JPZ921409637",
+      "releaseDate": "2014-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/3QDwL985aF1xCcIpiJdI5g",
+      "isFallback": true
+    },
+    {
+      "id": "5f25be69-ba9e-43cf-bb36-f6f6b608a6b6",
+      "title": "鼓動エスカレーション",
+      "artist": "内田真礼",
+      "isrc": "JPPC01901100",
+      "releaseDate": "2019-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/69p7Wr7wPNCEAcKQQkWBO5",
+      "isFallback": true
+    },
+    {
+      "id": "567e2af7-1ab5-43aa-98f8-09739fa3c46f",
+      "title": "サブタイトルバック＃２３",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "13b4ae7c-8eb3-4e9d-ace1-bb9d64fba74e",
+      "title": "戦けよ、冥闇の王は降りた",
+      "artist": "羽瀬川小鳩",
+      "isrc": "",
+      "releaseDate": "2012-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7c621aa2-f40f-4d6f-b8a4-9d333b2f86b1",
+      "title": "私でキマリ☆",
+      "artist": "イヤホンズ",
+      "isrc": "JPKI01518914",
+      "releaseDate": "2015-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/7DU1Z6qXZENMDNwiyi252Y",
+      "isFallback": false
+    },
+    {
+      "id": "8db2e808-447c-4909-83f8-e4ba75a3ceae",
+      "title": "サブタイトルバック＃２５",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9076fac2-9e6e-4e67-bfb8-e66acfa6e4d6",
+      "title": "地平線ストライド",
+      "artist": "あおい",
+      "isrc": "JPZ921807650",
+      "releaseDate": "2018-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/0vTVUZu0sSFBEml5BYE91K",
+      "isFallback": true
+    },
+    {
+      "id": "0232bd1d-3e99-4802-80a2-670dfdb4d506",
+      "title": "砂の世界",
+      "artist": "富田美憂",
+      "isrc": "JPCO02009440",
+      "releaseDate": "2020-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/2KyQOD1Q7qRAXpyNMYHSCc",
+      "isFallback": true
+    },
+    {
+      "id": "c63ee06b-5e36-4602-850e-6e7258f0fc2b",
+      "title": "降伏論",
+      "artist": "宮下遊",
+      "isrc": "JPPC02111002",
+      "releaseDate": "2021-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/31Plz4DOklCxq2Cr2Mm2hC",
+      "isFallback": true
+    },
+    {
+      "id": "3187c38b-981d-4d87-a87a-de8711d92695",
+      "title": "サブタイトルバック＃２０",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6791af84-f595-4f89-9da8-bbda17f2b1c1",
+      "title": "サブタイトルバック＃２４",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4dfe2724-8bf4-4156-b5f6-a38fc473efb9",
+      "title": "つらぬいて憂鬱",
+      "artist": "ニノミヤユイ",
+      "isrc": "JPI102000920",
+      "releaseDate": "2020-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/0iaXrVoiTMagsrnEg6JouC",
+      "isFallback": true
+    },
+    {
+      "id": "7977a630-d65e-41e6-a7e6-9aa12cd8877e",
+      "title": "ぶいえす!!らいばる!!",
+      "artist": "羽瀬川小鳩",
+      "isrc": "JPD731201404",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bbe2c575-89cc-4e34-89ef-45e3570d0e9d",
+      "title": "私のキ・モ・チ",
+      "artist": "三日月夜空",
+      "isrc": "JPD731101433",
+      "releaseDate": "2011-11-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fc6c566a-15df-4e95-b0f7-a0401a101d28",
+      "title": "浪漫事変",
+      "artist": "ぜんぶ君のせいだ。",
+      "isrc": "TCJPR2221869",
+      "releaseDate": "2022-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/4TY5DSLj6VQwLwxDzeZGXU",
+      "isFallback": true
+    },
+    {
+      "id": "0cd7e20a-e12c-43ed-a871-68d6e0e4a623",
+      "title": "サブタイトルバック＃２２",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1f0daba7-dc43-47ec-94b7-42fdc4f20414",
+      "title": "サブタイトルバック＃２１",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f909312c-a9bf-4880-8882-76b48007cfac",
+      "title": "サブタイトルバック＃２６",
+      "artist": "放課後ティータイム",
+      "isrc": "",
+      "releaseDate": "2010-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4978e58a-31ff-463b-b5f1-7e665a9161d0",
+      "title": "君にルムウム",
+      "artist": "燦鳥ノム",
+      "isrc": "JPA651904764",
+      "releaseDate": "2019-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/2MstFZHU6vlFT1XXepJK1g",
+      "isFallback": true
+    },
+    {
+      "id": "6af3d7c2-0090-4ded-9a3b-306c6f60dc72",
+      "title": "欲張り My Soul",
+      "artist": "柏崎星奈",
+      "isrc": "",
+      "releaseDate": "2012-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ce8bfca8-6a03-4be2-ad98-1308ce846ff5",
+      "title": "じゃじゃ馬Way To Go",
+      "artist": "中野梓",
+      "isrc": "JPPC00902306",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/5C85DjTjjfw0vvN3qB3Krb",
+      "isFallback": true
+    },
+    {
+      "id": "9cd213d8-55ef-47aa-ba6b-63248b58e0b1",
+      "title": "静かなる一秒",
+      "artist": "Tom-H@ck",
+      "isrc": "JPPC01400661",
+      "releaseDate": "2014-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/39b6h7dWDVZhf77FhLmcuV",
+      "isFallback": true
+    },
+    {
+      "id": "b6c4d9cb-b737-4c80-b146-30e4fc3a2511",
+      "title": "天才妄想科学論",
+      "artist": "志熊理科",
+      "isrc": "JPD731200196",
+      "releaseDate": "2012-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a5de033-6801-498e-ac7d-9fa7c6cac301",
+      "title": "強き心に花よ咲け",
+      "artist": "楠幸村",
+      "isrc": "JPD731200103",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "12a97b25-df41-4a48-963f-a38714056f89",
+      "title": "君は友達",
+      "artist": "羽瀬川小鷹",
+      "isrc": "JPD731201013",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9cf6b460-43ff-4ec7-bf5b-42ef3ff3b100",
+      "title": "残念系隣人部★★☆（星ふたつ半）",
+      "artist": "友達つくり隊",
+      "isrc": "JPD731101380",
+      "releaseDate": "2011-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e340a060-8ae8-41f2-8850-37f670375cff",
+      "title": "毎日コハルビヨリ",
+      "artist": "あおい",
+      "isrc": "JPR501411271",
+      "releaseDate": "2014-12-17",
+      "spotifyUrl": "https://open.spotify.com/track/5ARUjXSfoNLlf5LEiVXwG8",
+      "isFallback": true
+    },
+    {
+      "id": "2c0028de-72c5-4f6c-bd70-6b7c81b0b494",
+      "title": "不機嫌＊吸血鬼",
+      "artist": "羽瀬川小鳩",
+      "isrc": "JPD731200406",
+      "releaseDate": "2012-05-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5115bbad-0150-43e8-af9a-b2eaaebd689c",
+      "title": "ボン・デ・フェスタ",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01910501",
+      "releaseDate": "2019-08-02",
+      "spotifyUrl": "https://open.spotify.com/track/607BbBbL8e5ILwHaDOWsEO",
+      "isFallback": true
+    },
+    {
+      "id": "25399bfc-6a3f-48ed-af97-2f89dd087275",
+      "title": "破! to the Future",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01521301",
+      "releaseDate": "2016-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/7MsCmckCpUFJTQUoAmNQVW",
+      "isFallback": true
+    }
+  ]
+}

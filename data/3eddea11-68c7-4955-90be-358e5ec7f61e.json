@@ -1,0 +1,105 @@
+{
+  "name": "みすみゆり",
+  "sortName": "ミスミユリ",
+  "tracks": [
+    {
+      "id": "72565eb1-e43b-4944-bf59-18848ab841d8",
+      "title": "Overture Ⅳ",
+      "artist": "Yuu Miyake",
+      "isrc": "JPX832500752",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/1cwXj3RfuXHtb2nhF7HatG",
+      "isFallback": true
+    },
+    {
+      "id": "b9502356-cf60-4e40-bee5-0cac66866286",
+      "title": "灼熱のサバンナ",
+      "artist": "イヌのジョン",
+      "isrc": "JPCO00521940",
+      "releaseDate": "2005-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/2Q5mQTz1N9tAraOQ5t4cFs",
+      "isFallback": false
+    },
+    {
+      "id": "ec411346-a549-408d-8509-f24ba70a596c",
+      "title": "今日のご飯は太鼓盛り!",
+      "artist": "ならはしみき",
+      "isrc": "JPCO00522910",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c38c6b0d-3a2a-4aba-bd62-c838dc9b152b",
+      "title": "Midnight Special",
+      "artist": "Misumi Yuri",
+      "isrc": "",
+      "releaseDate": "1995-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d615a3fd-e02c-4953-a8e1-3ab3c33d8c02",
+      "title": "ドレミカタマリド",
+      "artist": "三角由里",
+      "isrc": "JPCO00536730",
+      "releaseDate": "2005-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/4PT2nd9KTI3HC1kWjiASlE",
+      "isFallback": true
+    },
+    {
+      "id": "6df0724e-751f-405b-b3e8-29c2adf5febe",
+      "title": "塊ホリディ",
+      "artist": "ゆうさま",
+      "isrc": "JPCO00521910",
+      "releaseDate": "2005-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/2J3evzIq9YZja8AfjdQsSW",
+      "isFallback": false
+    },
+    {
+      "id": "1092e698-c67e-4cc9-8b4d-c995e2ef8ee2",
+      "title": "katamari mambo～塊シンドロームmix",
+      "artist": "松原のぶえ",
+      "isrc": "JPCO00407650",
+      "releaseDate": "2004-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3vLVhZKU2dy5GzhPEPoKso",
+      "isFallback": false
+    },
+    {
+      "id": "bc07a626-e90f-445f-8df8-87484b544b82",
+      "title": "おはよう!太鼓サマー",
+      "artist": "谷本貴義",
+      "isrc": "JPCO00522890",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6bef42eb-9d5c-4fce-8cd7-f6ebedf49f3b",
+      "title": "カタマリティー",
+      "artist": "杏子",
+      "isrc": "JPCO00725880",
+      "releaseDate": "2007-11-21",
+      "spotifyUrl": "https://open.spotify.com/track/6eURPTdvK1GHhSewX8Hm08",
+      "isFallback": true
+    },
+    {
+      "id": "1d08a3e1-bf55-41fa-b4c4-9760b4036b73",
+      "title": "ステキ星のさんぽはステキ",
+      "artist": "三角由里",
+      "isrc": "JPCO00407640",
+      "releaseDate": "2004-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/0atnFDf4fctCWXRppOKhuB",
+      "isFallback": false
+    },
+    {
+      "id": "09c4eaa4-68c2-4803-9731-91754d3e910d",
+      "title": "和太鼓戦隊ドンレンジャー",
+      "artist": "谷本貴義",
+      "isrc": "JPCO00522860",
+      "releaseDate": "2005-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    }
+  ]
+}

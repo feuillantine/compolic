@@ -1,0 +1,285 @@
+{
+  "name": "桑原聖",
+  "sortName": "クワバラサトル",
+  "tracks": [
+    {
+      "id": "938be8a7-c837-4d3f-b063-0e27570a6b38",
+      "title": "成長Chu→LOVER!!",
+      "artist": "望月杏奈",
+      "isrc": "JPI101501921",
+      "releaseDate": "2015-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/3wVceOWP5ulfVrMGsiDVYR",
+      "isFallback": false
+    },
+    {
+      "id": "98c889cf-7b40-4678-9f88-861a5bb2981d",
+      "title": "VIVID イマジネーション",
+      "artist": "望月杏奈",
+      "isrc": "JPI101401464",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/2aiEGZJDS0ocnkdiR339AW",
+      "isFallback": false
+    },
+    {
+      "id": "025652b6-3a2d-45c4-a37d-929475f0a9f0",
+      "title": "Get Over Dress-code (Blacklolita Bit Future Remix)",
+      "artist": "DressingPafé",
+      "isrc": "JPT551800793",
+      "releaseDate": "2018-11-28",
+      "spotifyUrl": "https://open.spotify.com/track/5TAo9HY8GapF02D83cgyo8",
+      "isFallback": true
+    },
+    {
+      "id": "4fdf30e1-560b-4a88-b5b4-1da5248bab7e",
+      "title": "フローズン・ワード",
+      "artist": "所恵美",
+      "isrc": "JPI101402326",
+      "releaseDate": "2014-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/4FSt6ZqYgU6wR19kk5ONut",
+      "isFallback": false
+    },
+    {
+      "id": "5e57015d-9af1-432b-b894-9ec9b00eab55",
+      "title": "Eternal Weaving",
+      "artist": "Valkyrie",
+      "isrc": "JPD642000293",
+      "releaseDate": "2020-11-25",
+      "spotifyUrl": "https://open.spotify.com/track/5mZoJGvs1LxalaCdbjMZZB",
+      "isFallback": true
+    },
+    {
+      "id": "cdfa3b6c-4fcd-4390-9790-2e14d8bc25a2",
+      "title": "Learning Message",
+      "artist": "硲道夫",
+      "isrc": "JPI101702156",
+      "releaseDate": "2017-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s",
+      "isFallback": false
+    },
+    {
+      "id": "b881b008-9e23-456f-a240-587cd1d9f9a0",
+      "title": "OUT OF FRAME",
+      "artist": "星街すいせい",
+      "isrc": "JPV752105136",
+      "releaseDate": "2021-10-22",
+      "spotifyUrl": "https://open.spotify.com/track/2zWwBJBfxNr9bzaVBYerLZ",
+      "isFallback": true
+    },
+    {
+      "id": "140243ca-6b8d-48c4-a540-7a341f57b05c",
+      "title": "メグルモノ",
+      "artist": "寺島拓篤",
+      "isrc": "JPI101900042",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "https://open.spotify.com/track/3uRbhqoFjm6BHRlZInENGz",
+      "isFallback": true
+    },
+    {
+      "id": "353ff355-d663-427d-b44e-d305a7b0214b",
+      "title": "アウト・オブ・トライアングル",
+      "artist": "ナイスネイチャ",
+      "isrc": "JPI101801588",
+      "releaseDate": "2018-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/2Rbt0f2cmQWCxel8jw4zKI",
+      "isFallback": true
+    },
+    {
+      "id": "89ec2080-f5aa-4ff8-a07e-bc18ad2b4ce4",
+      "title": "Joy Heart",
+      "artist": "TRUE",
+      "isrc": "JPI101502243",
+      "releaseDate": "2015-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/0Ri3TMcgC7ZIqXm8EuYBnZ",
+      "isFallback": true
+    },
+    {
+      "id": "0e986165-ea11-4bd6-95a1-a672915ff7e1",
+      "title": "グロウアップ・シャイン!",
+      "artist": "スピカ",
+      "isrc": "JPI102101966",
+      "releaseDate": "2018-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/2jDGXbxL3U7MotCDNMK7a7",
+      "isFallback": true
+    },
+    {
+      "id": "a1785977-d8d6-4898-b231-63085a8db7f1",
+      "title": "夜空を煌めく星のように",
+      "artist": "DRAMATIC STARS",
+      "isrc": "JPI101601337",
+      "releaseDate": "2016-07-13",
+      "spotifyUrl": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD",
+      "isFallback": false
+    },
+    {
+      "id": "da90b347-86f8-4f43-b9b6-1650469d7ecf",
+      "title": "GALACTIC WORLD",
+      "artist": "栗林みな実",
+      "isrc": "",
+      "releaseDate": "2016-06-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b01e5fae-651f-42aa-a4ea-b4632e12a8a0",
+      "title": "ポケットメモリー (sweet ver)",
+      "artist": "大塚結依",
+      "isrc": "",
+      "releaseDate": "2019",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7aef3d6-c5c3-48f9-8deb-0005cc4de945",
+      "title": "プリマ☆ドンナ?メモリアル!",
+      "artist": "Run Girls, Run!",
+      "isrc": "JPT551800329",
+      "releaseDate": "2018-05-02",
+      "spotifyUrl": "https://open.spotify.com/track/23d8RB5hZPdOnjVIcYWKU2",
+      "isFallback": true
+    },
+    {
+      "id": "378d6c03-50b5-412a-b4ff-34011944150f",
+      "title": "finder",
+      "artist": "Sir Vanity",
+      "isrc": "TCJPR2257279",
+      "releaseDate": "2022-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/4rQSZsR2dTZFGAnAgBORXb",
+      "isFallback": true
+    },
+    {
+      "id": "81f1cfac-de24-4f84-8e91-35a049091ff8",
+      "title": "フォーチュン・カラット",
+      "artist": "アンジュ",
+      "isrc": "JPT551800816",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/1b9ICObXPRjqWORXYTca6j",
+      "isFallback": true
+    },
+    {
+      "id": "f4a99498-955d-455c-80e6-aa0d4b6e33e3",
+      "title": "Understand? Understand!",
+      "artist": "高坂海美",
+      "isrc": "JPI101600274",
+      "releaseDate": "2016-03-23",
+      "spotifyUrl": "https://open.spotify.com/track/5Njh2fLFh7MuHzdd9lxODP",
+      "isFallback": false
+    },
+    {
+      "id": "6f929266-ff62-40bd-9ce3-c2421fd18861",
+      "title": "CHANGE! MY WORLD",
+      "artist": "シオン",
+      "isrc": "JPB601500516",
+      "releaseDate": "2015-02-11",
+      "spotifyUrl": "https://open.spotify.com/track/1YmZBm5i8FveYB1f6zAy9k",
+      "isFallback": true
+    },
+    {
+      "id": "116ee508-b26a-48ed-819a-76dc0d40841b",
+      "title": "BRAND NEW STARS!! (Crazy:B ver.)",
+      "artist": "Crazy:B",
+      "isrc": "JPD642000417",
+      "releaseDate": "2020-12-23",
+      "spotifyUrl": "https://open.spotify.com/track/1PdndzLTbBiCpUqFohhXwL",
+      "isFallback": true
+    },
+    {
+      "id": "57aea20b-ef35-4b66-b463-b6ffcbc59bc8",
+      "title": "蝶結びアミュレット",
+      "artist": "Mia REGINA",
+      "isrc": "JPI101602132",
+      "releaseDate": "2016-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2xGvcB1ECBajYMRcfPED7K",
+      "isFallback": true
+    },
+    {
+      "id": "5b981646-1f84-4184-b258-125be03a7293",
+      "title": "one and only",
+      "artist": "ChouCho",
+      "isrc": "JPI101702891",
+      "releaseDate": "2018-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/4yATy4SIkM10qyRLWyFyz5",
+      "isFallback": false
+    },
+    {
+      "id": "07c8c080-a46f-4f84-967a-b90ceadb187d",
+      "title": "透明なわたし",
+      "artist": "Sir Vanity",
+      "isrc": "TCJPU2389278",
+      "releaseDate": "2023-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/3W6dr5RuoAXKjjxuDIyz5E",
+      "isFallback": true
+    },
+    {
+      "id": "2aba732b-1e2b-4c2f-a4f0-3f36f4a55af8",
+      "title": "ファンタジスタ・カーニバル",
+      "artist": "島原エレナ",
+      "isrc": "JPI101500284",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/37kuS5Dk5exYANhgbJAj67",
+      "isFallback": false
+    },
+    {
+      "id": "7f04206b-3656-4c2d-b129-e04da13a262f",
+      "title": "Fancy You",
+      "artist": "愛城華恋",
+      "isrc": "",
+      "releaseDate": "2017-09-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "11678996-b0a0-4a4c-8cf7-81319c9f01f1",
+      "title": "デビルの証明",
+      "artist": "名取さな",
+      "isrc": "JPX562400777",
+      "releaseDate": "2024-03-08",
+      "spotifyUrl": "https://open.spotify.com/track/5mBK4llfrUDCWfc4UMYHsn",
+      "isFallback": false
+    },
+    {
+      "id": "2c582ef6-d56a-4b6a-8aa5-8004c41b5ae2",
+      "title": "アコガレChallenge Dash!!",
+      "artist": "キタサンブラック",
+      "isrc": "JPI102302110",
+      "releaseDate": "2023-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/6BBebdvYB8bVWmUyQicf8y",
+      "isFallback": false
+    },
+    {
+      "id": "5a75a975-6fa0-442a-b597-d7b7b255606b",
+      "title": "moving soul",
+      "artist": "栗林みな実",
+      "isrc": "JPI101401447",
+      "releaseDate": "2014-07-30",
+      "spotifyUrl": "https://open.spotify.com/track/3aBmKcnm5UCGaggK6uRSxa",
+      "isFallback": true
+    },
+    {
+      "id": "956c7eb7-ab23-438a-83d2-5ea155934452",
+      "title": "Deep Resonance",
+      "artist": "Aqours",
+      "isrc": "JPI101901396",
+      "releaseDate": "2019-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/73Dktd4JIt6Aw6bIhDbSgn",
+      "isFallback": true
+    },
+    {
+      "id": "318da60e-19fb-4051-aaf8-6e0caacac818",
+      "title": "CHANGE! MY WORLD [Blacklolita Future Bass Remix]",
+      "artist": "DressingPafé",
+      "isrc": "JPT551700487",
+      "releaseDate": "2017-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/53dFxHoMJtwpt5cFKwVv6p",
+      "isFallback": true
+    },
+    {
+      "id": "9b0f534f-ec99-4f0a-9665-980812a8a357",
+      "title": "ハミングフレンド",
+      "artist": "Aqours",
+      "isrc": "JPI101601394",
+      "releaseDate": "2016-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/1U4UY7KKXW7F85jMHyFqBB",
+      "isFallback": true
+    }
+  ]
+}

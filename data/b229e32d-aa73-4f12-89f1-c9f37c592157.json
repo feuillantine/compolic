@@ -1,0 +1,303 @@
+{
+  "name": "オリバー・グッド",
+  "sortName": "オリバーグッド",
+  "tracks": [
+    {
+      "id": "d0d3bc84-8949-4595-b36e-0ba5b76ef6b0",
+      "title": "Power of 塊魂",
+      "artist": "松崎しげる",
+      "isrc": "JPX832500764",
+      "releaseDate": "2025-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/1e4tiywTbdv2jsAouolwAB",
+      "isFallback": true
+    },
+    {
+      "id": "50af49e8-c3f3-401b-9e60-79b934f8bc51",
+      "title": "養護施設こまどり",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201018",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2HUOJLn9HzQckQRbZCYDcd",
+      "isFallback": false
+    },
+    {
+      "id": "d697ead4-347c-45c8-a0d3-ccb762fed8de",
+      "title": "コスモスライブ",
+      "artist": "MONACA",
+      "isrc": "JPI102203184",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/1Hp1oRkjdD68UrDLCvOhrb",
+      "isFallback": false
+    },
+    {
+      "id": "2476188a-1982-4ea2-ab12-1fe2b606377d",
+      "title": "Wipedown",
+      "artist": "オリバー・グッド",
+      "isrc": "JPA842400017",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/7mbMsQqFMchxehJbwJ0jB3",
+      "isFallback": true
+    },
+    {
+      "id": "5a94f823-dcc1-4c39-afec-542facc5f10a",
+      "title": "RealityDrop",
+      "artist": "MATULIP",
+      "isrc": "JPB602303803",
+      "releaseDate": "2023-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/5RsoxIL11vOMgNwUrqj8yK",
+      "isFallback": false
+    },
+    {
+      "id": "a84a18a6-513f-4de3-8198-100a198f7aa9",
+      "title": "Great Desert",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401868",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/5YWgpACyWR7Hu7Pk7CgzwJ",
+      "isFallback": true
+    },
+    {
+      "id": "593f5976-103e-437c-850a-c41960cfef35",
+      "title": "ぽわプリ時間♪",
+      "artist": "れみ",
+      "isrc": "JPI102203052",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/5RMAwVHKdzhJatHqZEzmd0",
+      "isFallback": false
+    },
+    {
+      "id": "d06462a1-3d57-42bb-8d32-dbf1ca724424",
+      "title": "Off My Feet",
+      "artist": "オリバー・グッド",
+      "isrc": "JPA842400027",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/31BZSFFDxzaLvgDFrv8T12",
+      "isFallback": true
+    },
+    {
+      "id": "917528f4-4c7b-4255-97f0-bd8724d79a2f",
+      "title": "ひな鳥たち",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201017",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6HcYNgiYSyMhZ7666aFFG7",
+      "isFallback": false
+    },
+    {
+      "id": "f5fabd56-4726-418a-a29b-56ab827bcbe4",
+      "title": "Shelter",
+      "artist": "Oliver Good",
+      "isrc": "KRB472400687",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/5ndBrhNRpoLuN7rpV9MUtW",
+      "isFallback": true
+    },
+    {
+      "id": "f42cdee0-7d9c-411c-93eb-6edeca8b6e5e",
+      "title": "Shelter (Title)",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401781",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/6SVIcd5eHm9JNAVtFfsAZP",
+      "isFallback": true
+    },
+    {
+      "id": "3299389c-be8d-483f-a5d1-dc4305b2cbac",
+      "title": "Flooded Commercial Sector",
+      "artist": "Oliver Good",
+      "isrc": "KRB472400685",
+      "releaseDate": "2024-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/04h9VE9m0fy1gsFGbCRzoG",
+      "isFallback": true
+    },
+    {
+      "id": "e9f1d3a1-54cc-4c35-8efc-def37c9598f4",
+      "title": "凶報",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201025",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/24OyldBc2Lj6uKm60Jjgud",
+      "isFallback": false
+    },
+    {
+      "id": "5d192643-3713-4183-bd60-204e0a2357dd",
+      "title": "小さなミステリー",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652200909",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/2hU85fPejg3yL87oiHUZg4",
+      "isFallback": false
+    },
+    {
+      "id": "6db48065-b831-451a-b92d-e5c3b873e33e",
+      "title": "Myself",
+      "artist": "Mayowa Sensei",
+      "isrc": "JPA842400019",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/3YWj8eokcPDVeGkEKeeTg3",
+      "isFallback": true
+    },
+    {
+      "id": "fb433c8e-468d-4ab4-8451-5d3629385d79",
+      "title": "A Little Bit of Hope",
+      "artist": "オリバー・グッド",
+      "isrc": "JPA842400012",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/43QxU7lpH53PU4Ro67lVwi",
+      "isFallback": true
+    },
+    {
+      "id": "f5a590f7-2708-47b3-b908-9a277ccbb709",
+      "title": "Raven",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401920",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/4z9DJzuI38uhemsY0YUd07",
+      "isFallback": true
+    },
+    {
+      "id": "474ba45e-6e97-41e4-be34-7f0ce2a76741",
+      "title": "みんなへ",
+      "artist": "MONACA",
+      "isrc": "JPI102203182",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/2rKUB2Oz0abzPxxOqKq7BY",
+      "isFallback": false
+    },
+    {
+      "id": "70f79379-1a91-405d-82e9-9d3b8e91a021",
+      "title": "Zafiro",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652200919",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6BIlnqZM7PoktHxCexT52m",
+      "isFallback": false
+    },
+    {
+      "id": "a1ee0164-c81d-467e-b3cd-13aff5077ee6",
+      "title": "A Little Bit of Happiness",
+      "artist": "blackcatpopo",
+      "isrc": "JPA842400022",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/11UpUbKJyCfcdR9xCg6yeH",
+      "isFallback": true
+    },
+    {
+      "id": "784b40f7-b4bf-4ffb-8a9b-0368543dd899",
+      "title": "Miracle Groovin’",
+      "artist": "J’Nique Nicole",
+      "isrc": "JPA842400009",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/22dT7ggxXgDWjXt00qz4FF",
+      "isFallback": true
+    },
+    {
+      "id": "dbf2f23f-95a9-458b-8f68-c7b9b175a9a3",
+      "title": "あたたかな場所",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201016",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/16Fk336qJUGDLn4dTkZgZi",
+      "isFallback": false
+    },
+    {
+      "id": "8e84895a-6589-4a38-818f-be2dc6c3172c",
+      "title": "思いやる時間",
+      "artist": "MONACA",
+      "isrc": "JPI102203174",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/59AIDXzwIZmdAC91NzyV7Q",
+      "isFallback": false
+    },
+    {
+      "id": "91f46161-5b22-4a25-a30f-7ea1237661c0",
+      "title": "Star Descent",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401783",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/1hLKWQMCGtBCaJfkUiYpyk",
+      "isFallback": true
+    },
+    {
+      "id": "b31e9006-d2e9-4083-a50b-6abb80087050",
+      "title": "Mmm",
+      "artist": "オリバー・グッド",
+      "isrc": "JPA842400013",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/2GckBGnMiCifF04Ei620o6",
+      "isFallback": true
+    },
+    {
+      "id": "ca56dc06-859f-414e-9112-e77f854301ea",
+      "title": "卒業ライブ開幕！",
+      "artist": "MONACA",
+      "isrc": "JPI102203177",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/1kDBeejTq3zg9vQ5cxsGMi",
+      "isFallback": false
+    },
+    {
+      "id": "57a98a68-cc30-4d2b-be0c-c47769e4b10c",
+      "title": "Return to the Colony",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401927",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/1s5Bdq2ZZZX9ewxftWlYV2",
+      "isFallback": true
+    },
+    {
+      "id": "b83a9bac-f117-4bbc-bcf1-05a395e8cd49",
+      "title": "Elder Naytiba",
+      "artist": "Oliver Good",
+      "isrc": "KRB472401926",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/7gAj9mL1jG7CaoIPgP93Wx",
+      "isFallback": true
+    },
+    {
+      "id": "7b8ed42f-22c8-4596-a790-384aef1556b0",
+      "title": "Sweet",
+      "artist": "オリバー・グッド",
+      "isrc": "JPA842400014",
+      "releaseDate": "2024-02-16",
+      "spotifyUrl": "https://open.spotify.com/track/37X4zenlCq95FDVA2rQxyz",
+      "isFallback": true
+    },
+    {
+      "id": "eeefd6e7-8a87-4948-97f8-4fffc033d869",
+      "title": "次に会う時のために",
+      "artist": "MONACA",
+      "isrc": "JPI102203073",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/5bkE8Owt6sjQazNFoWdziF",
+      "isFallback": false
+    },
+    {
+      "id": "19daee2f-d143-4697-977a-c494b930cfb7",
+      "title": "それぞれの道",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201115",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/0Ck0Hb9Yt2nWh41GfCgeXY",
+      "isFallback": false
+    },
+    {
+      "id": "6f42c1c1-a92b-4e47-ada0-8504af7bd66c",
+      "title": "猫も杓子も",
+      "artist": "Oliver Good (MONACA)",
+      "isrc": "JPK652201003",
+      "releaseDate": "2022-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/6rt7FqLbiWDwGPpxFKSLly",
+      "isFallback": false
+    },
+    {
+      "id": "78850c7f-f5a3-4908-a4ce-18c1cee4e839",
+      "title": "スターライト",
+      "artist": "MONACA",
+      "isrc": "JPI102203178",
+      "releaseDate": "2023-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/4pX6yPWobX7qSYxlHHyq8E",
+      "isFallback": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "name": "Dr.Usui",
+  "sortName": "ドクターウスイ",
+  "tracks": [
+    {
+      "id": "aa6d1a93-dd14-475c-b9de-f36157bb95f1",
+      "title": "アイネクライネ幼き恋だね",
+      "artist": "天晴れ！原宿",
+      "isrc": "JPP321600379",
+      "releaseDate": "2016-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/43y8W3vOajtI5NuZF54soX",
+      "isFallback": true
+    },
+    {
+      "id": "eb7b06e8-6458-4975-a312-a29b14a662d5",
+      "title": "もっともっとJUMP!",
+      "artist": "春宮つぐみ",
+      "isrc": "JPPC01600952",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/5s65fEOPNF6x0iHeVtQA6H",
+      "isFallback": false
+    },
+    {
+      "id": "22c1de6e-a8bf-4600-bec0-09534a2ac92f",
+      "title": "妄想 Introduction",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921514936",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/293CyarskvSWiNtUXyWrdO",
+      "isFallback": true
+    },
+    {
+      "id": "6dce8232-9b58-4892-8050-402a90b58ef6",
+      "title": "心遊ばせ、目配せあそばせ",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921514937",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/0DrD7KmwNTM321itWhBuuk",
+      "isFallback": true
+    },
+    {
+      "id": "836a21f5-855e-4f1a-9c3f-7d16edb6f4d8",
+      "title": "幻想恋花火",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921508134",
+      "releaseDate": "2015-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/5G5bgSOIfEHsH3mBJN0QVX",
+      "isFallback": true
+    },
+    {
+      "id": "764b17f9-713d-47d0-a422-7a8a840451ab",
+      "title": "Honeys!!!",
+      "artist": "ハニースパイスRe.",
+      "isrc": "TCJPL2081256",
+      "releaseDate": "2020-06-08",
+      "spotifyUrl": "https://open.spotify.com/track/2vSF5OzuxLnR8FNCDvME0h",
+      "isFallback": true
+    },
+    {
+      "id": "ddbd7481-97ff-4932-a7c3-dcdba767afde",
+      "title": "天使と悪魔",
+      "artist": "赤崎こころ",
+      "isrc": "JPX402400098",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/7267XfqrF1Za1CV55DjJlq",
+      "isFallback": true
+    },
+    {
+      "id": "54e6d695-2760-44d2-adab-62dc3ff9a893",
+      "title": "今輝く日々",
+      "artist": "ランチタイムデザート",
+      "isrc": "JPPC01700335",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/1hhb5axLN24jPC26MSFogJ",
+      "isFallback": false
+    },
+    {
+      "id": "b3b2bd2d-ab48-4e49-94f2-920ccfb40450",
+      "title": "空に吠える",
+      "artist": "夢咲あいり",
+      "isrc": "",
+      "releaseDate": "2023-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "26e584ed-18bb-43f3-b8c6-163e0fe12782",
+      "title": "夢みる乙女は無敵でしょ!?",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921508135",
+      "releaseDate": "2015-08-04",
+      "spotifyUrl": "https://open.spotify.com/track/1TUZztkEobhBLMvgPFsNkz",
+      "isFallback": true
+    },
+    {
+      "id": "0d984ccb-782f-4f28-96a9-aa66a6c343db",
+      "title": "魔法のジュース",
+      "artist": "妄想キャリブレーション",
+      "isrc": "JPZ921502659",
+      "releaseDate": "2016-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2bn4ApQ72gkv62w3qwSCy4",
+      "isFallback": true
+    },
+    {
+      "id": "7b95be65-6016-4ec5-bed9-0509577c7a4b",
+      "title": "ティーンスピリット",
+      "artist": "ukka",
+      "isrc": "JPTE02307950",
+      "releaseDate": "2023-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/3FZYSqjF7qTy5HLnd5hlXr",
+      "isFallback": false
+    },
+    {
+      "id": "3fabcd64-3f04-4f1b-90ab-8f8e9e2df016",
+      "title": "ラブリンク",
+      "artist": "吉田仁美",
+      "isrc": "JPD601300259",
+      "releaseDate": "2013-09-04",
+      "spotifyUrl": "https://open.spotify.com/track/24dqEvFUwiO4Fpnv6wtzKh",
+      "isFallback": true
+    },
+    {
+      "id": "01abc823-ad13-4d7b-91e6-bf4ade07a30f",
+      "title": "あにちゅにちゅ",
+      "artist": "kimikara（きみから）",
+      "isrc": "JPZ922401151",
+      "releaseDate": "2024-02-18",
+      "spotifyUrl": "https://open.spotify.com/track/0i8goDkwjqTMHnUhl3ROWK",
+      "isFallback": true
+    },
+    {
+      "id": "337d1ae8-7d30-4f6f-823e-46558bbfd778",
+      "title": "少女アンドロイドA",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF01303002",
+      "releaseDate": "2013-05-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "52b0b83c-5d27-44b8-a658-1344d72616e9",
+      "title": "太陽と太陽",
+      "artist": "夢咲あいり",
+      "isrc": "",
+      "releaseDate": "2023-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82c126c0-5428-434d-9fcc-a261c73fa2d6",
+      "title": "KawaiiってYeah!",
+      "artist": "I’mew (あいみゅう)",
+      "isrc": "JPZ922401597",
+      "releaseDate": "2024-02-28",
+      "spotifyUrl": "https://open.spotify.com/track/7GestCYqtcUpLWl5SUqnDk",
+      "isFallback": false
+    },
+    {
+      "id": "2d8ac0db-1010-4f3d-b6bf-6a190e4420bc",
+      "title": "ココロ自由宣言",
+      "artist": "戸村美知留",
+      "isrc": "JPVP01423202",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/6dD0awqfX2Vi7NT6pOuNUY",
+      "isFallback": false
+    },
+    {
+      "id": "1dda9df7-6839-4c0b-a0b7-6815179a7e29",
+      "title": "Border Line",
+      "artist": "加賀美茉莉",
+      "isrc": "JPPC01602704",
+      "releaseDate": "2017-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/2xyBPHHXSZQjHdieG5XCoT",
+      "isFallback": false
+    },
+    {
+      "id": "190c8a26-9186-4261-9259-62aa7b5f78af",
+      "title": "君の手",
+      "artist": "鳳",
+      "isrc": "JPPC01700328",
+      "releaseDate": "2017-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/4F1i8ukoxXRD2Nxju5eszM",
+      "isFallback": false
+    },
+    {
+      "id": "38a44e64-0d76-447b-a09f-d583c4b4b393",
+      "title": "サンダービバップ",
+      "artist": "Appare!",
+      "isrc": "JPS752100165",
+      "releaseDate": "2021-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/66ocSvyVK10o32piafEhyQ",
+      "isFallback": true
+    }
+  ]
+}

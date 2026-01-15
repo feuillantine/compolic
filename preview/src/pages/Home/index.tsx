@@ -134,6 +134,7 @@ export default function Home() {
           rows={displayedRows}
           sort={sort}
           onToggleSort={toggleSort}
+          currentFilter={currentFilter}
         />
         <Footer
           total={displayedRows.length}

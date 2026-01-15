@@ -1,0 +1,762 @@
+{
+  "name": "Neko Hacker",
+  "sortName": "ネコハcケr",
+  "tracks": [
+    {
+      "id": "bc9ba58a-2d5c-46c0-b17e-ab3dc1b95545",
+      "title": "デタバレネコ",
+      "artist": "猫又おかゆ",
+      "isrc": "JPV752205566",
+      "releaseDate": "2022-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/7vRPkxn7wkulFnnxg6dlKQ",
+      "isFallback": true
+    },
+    {
+      "id": "2b41469b-a9b7-4e9d-97a4-acad6daca470",
+      "title": "Erased",
+      "artist": "Neko Hacker",
+      "isrc": "JPR841900190",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2Xkzd0tTWgrEaiCPv2cumn",
+      "isFallback": true
+    },
+    {
+      "id": "ace455b3-010a-44c6-80f8-6a07a9429ef5",
+      "title": "ピポピポ -People People-",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104676",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/7bl3zzrbaVtFneoB1Xal8K",
+      "isFallback": false
+    },
+    {
+      "id": "3d3e8527-113a-4cba-a2ff-411bd5fd38ad",
+      "title": "After The Rain",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPQ2131306",
+      "releaseDate": "2021-11-13",
+      "spotifyUrl": "https://open.spotify.com/track/6kNiKBBZUEwfdzHUboVPkp",
+      "isFallback": true
+    },
+    {
+      "id": "76a21947-c08d-47ba-95a1-e889111e1a3e",
+      "title": "Pictures",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPK2062142",
+      "releaseDate": "2020-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/6H8CuiEZstzPtvQRdfeUJI",
+      "isFallback": true
+    },
+    {
+      "id": "8370a236-205a-495d-a414-0a942aa83675",
+      "title": "I Don't Care",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104680",
+      "releaseDate": "2020-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/56DnMELl5MEdbtcbm2HDi3",
+      "isFallback": false
+    },
+    {
+      "id": "5055d477-1276-4c05-87c8-1f318a6ee565",
+      "title": "クリエイティブになろう",
+      "artist": "をとは",
+      "isrc": "JPPO02304210",
+      "releaseDate": "2023-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/5yIycUO3ZbwU5YMcSasH40",
+      "isFallback": false
+    },
+    {
+      "id": "752dbc85-2ee0-4753-a689-1c5083788ae4",
+      "title": "Moonlight",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPK2062146",
+      "releaseDate": "2020-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/5W8ernMEpRKj7BNKbxvQaK",
+      "isFallback": true
+    },
+    {
+      "id": "66a68e03-e424-4add-83c7-f4557cec59c3",
+      "title": "コズミック都市ハイウェイ",
+      "artist": "をとは",
+      "isrc": "TCJPA2484233",
+      "releaseDate": "2023-03-15",
+      "spotifyUrl": "https://open.spotify.com/track/4QcSXALkdC5nYPzfY9sS5u",
+      "isFallback": true
+    },
+    {
+      "id": "94acd766-d29e-486b-8487-163db20d9fe2",
+      "title": "Reaper vs. Sheep -Kenko Ver.-",
+      "artist": "角巻わため",
+      "isrc": "JPV752206456",
+      "releaseDate": "2022-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/0oJcE4xU4tQYc5BAeagg5E",
+      "isFallback": true
+    },
+    {
+      "id": "5356ba4a-6e79-4c7d-9e40-2e29ecec8ddb",
+      "title": "DATE PARADE!",
+      "artist": "星井美希",
+      "isrc": "JPI102103984",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "https://open.spotify.com/track/07R8DTRpibEE9Z0w3X89OS",
+      "isFallback": false
+    },
+    {
+      "id": "7b26eaa6-ef7d-4acc-b525-89e2475464c6",
+      "title": "Glory Days",
+      "artist": "KMNZ",
+      "isrc": "TCJPP2160003",
+      "releaseDate": "2021-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/3Jyjf3yWUklCoEsEXu8sxZ",
+      "isFallback": true
+    },
+    {
+      "id": "ee6b2338-09d2-4c3f-af3f-f4b116431f40",
+      "title": "Reaper vs. Sheep -Ouen Ver.-",
+      "artist": "角巻わため",
+      "isrc": "JPV752206454",
+      "releaseDate": "2022-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/71ybgqrTU6tNHqwk0TqKpl",
+      "isFallback": true
+    },
+    {
+      "id": "ebe80cfb-b254-41a9-a405-7bdf9a5e83f1",
+      "title": "ばいばい",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPX2393820",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4GMPfodN4QJqmKFfe3xJ5U",
+      "isFallback": false
+    },
+    {
+      "id": "de0194b9-6565-4244-90e1-80d80c4030cc",
+      "title": "ヤダヤダ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510362",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/7JL5IljUytHXnPymEjkn91",
+      "isFallback": true
+    },
+    {
+      "id": "eb14b29b-fc47-4cf4-aa5d-c97c108d83a9",
+      "title": "From Zero",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901661",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/34ySCuEXVqnslpyGm9cpRQ",
+      "isFallback": true
+    },
+    {
+      "id": "bc5db3dc-54e5-40a8-a4d3-0c90bf9a3a48",
+      "title": "Doki Doki Virus",
+      "artist": "NekoHacker",
+      "isrc": "",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0d4c67f5-ea58-485b-b397-d6938fd2abe9",
+      "title": "刹那の誓い",
+      "artist": "Neko Hacker",
+      "isrc": "JPQ462300009",
+      "releaseDate": "2023-04-07",
+      "spotifyUrl": "https://open.spotify.com/track/4krsvetU6Z0yL0RfFeuvHA",
+      "isFallback": false
+    },
+    {
+      "id": "b32b8e6b-6a8f-4254-aca6-9107e3e24f31",
+      "title": "夢追う者よ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510367",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/4fjCrx8pHePOD7wGvu7atE",
+      "isFallback": true
+    },
+    {
+      "id": "5f1998fd-b11e-4679-9450-d8883753e8b1",
+      "title": "ガチで恋するお前らへ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901669",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/0QMTbMcYLG4wgSsnkFgFwu",
+      "isFallback": true
+    },
+    {
+      "id": "d74a7199-5232-426e-b573-5be0cfe3ea13",
+      "title": "びっぐちーず！",
+      "artist": "ころねぽち",
+      "isrc": "TCJPQ2116681",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/6HN0iidQq1sMTfQfymPPac",
+      "isFallback": true
+    },
+    {
+      "id": "1367694f-38e6-4c8b-afbf-0f297147c6cf",
+      "title": "ケセラセラ",
+      "artist": "Re:A projecT",
+      "isrc": "TCJPJ1905899",
+      "releaseDate": "2019-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/1vCzOeVpvnvWi4Bd07GtU9",
+      "isFallback": true
+    },
+    {
+      "id": "0105c673-ba69-4074-b3a5-f53e2f9bbcd6",
+      "title": "ReUnion",
+      "artist": "Mori Calliope",
+      "isrc": "JPV752408142",
+      "releaseDate": "2024-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/27qXNIcEjccxSIaRVhxinM",
+      "isFallback": true
+    },
+    {
+      "id": "79017f23-f024-407e-9247-abfecda72288",
+      "title": "Shuwa*Shuwa Parfait",
+      "artist": "ななひら",
+      "isrc": "TCJPC2474005",
+      "releaseDate": "2019-08-26",
+      "spotifyUrl": "https://open.spotify.com/track/7EpEwfUVCCluN95q2Rh8HJ",
+      "isFallback": true
+    },
+    {
+      "id": "e51478f2-310e-4aac-8d21-568aa82cd94e",
+      "title": "dialogue+kawaii",
+      "artist": "DIALOGUE+",
+      "isrc": "JPPC02412126",
+      "releaseDate": "2024-09-18",
+      "spotifyUrl": "https://open.spotify.com/track/1TjVNb1zb0vMecu6CiEz9r",
+      "isFallback": true
+    },
+    {
+      "id": "cc725917-b727-4098-9f41-5ce8575fb634",
+      "title": "自由に歌えるトラック",
+      "artist": "Neko Hacker",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d3456d55-9ea2-44dc-98ff-7fa8be8c9258",
+      "title": "実験開始!",
+      "artist": "をとは",
+      "isrc": "TCJPA2484220",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/0vt6RR1BtAueNvRUyGznVW",
+      "isFallback": true
+    },
+    {
+      "id": "be4d9926-b199-4a49-a937-2eea5b5a31a8",
+      "title": "Home Sweet Home",
+      "artist": "Neko Hacker",
+      "isrc": "JPR841900056",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/1NQivSFUHRA4rFmgQpyyz2",
+      "isFallback": true
+    },
+    {
+      "id": "b3e856d7-b0a5-45ea-ad21-1dde1f7ff13d",
+      "title": "TBC Hacker",
+      "artist": "Neko Hacker",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f63bfb3-5c02-441c-b78e-16362923b058",
+      "title": "だーいすきだよ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104678",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/4i1nj2Yrmrnqg0iTVLIbBM",
+      "isFallback": false
+    },
+    {
+      "id": "51459c3c-4358-4984-a79e-d62f72215f36",
+      "title": "seventeen",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510365",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/7Aft5hdRGPFRXNyhNThMOZ",
+      "isFallback": true
+    },
+    {
+      "id": "1ea0c5dc-6323-489f-a1d9-08a3764f2d00",
+      "title": "夢幻泡影",
+      "artist": "をとは",
+      "isrc": "TCJPA2484244",
+      "releaseDate": "2022-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/2kMB8yYYub46nB1OwbiLGX",
+      "isFallback": true
+    },
+    {
+      "id": "e26e607c-12f5-422f-8081-afd159e6a5a8",
+      "title": "けーきりろん",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104690",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/5N0JX054bREyVuZCDFj54V",
+      "isFallback": false
+    },
+    {
+      "id": "da3750a2-f9a9-4891-b0ad-ad0b5cc1eca9",
+      "title": "ドライブ",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPX2393817",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/4cpsOfEevx23jwJSjUKINm",
+      "isFallback": false
+    },
+    {
+      "id": "3c26c9df-2e27-449d-94d1-dfa660c064ac",
+      "title": "Simulated",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510368",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4YGAlt4yActt3nkRxfFV38",
+      "isFallback": true
+    },
+    {
+      "id": "8a85ce3c-1af1-4ac4-ba20-00a3445eba47",
+      "title": "I Remember You",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104682",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/6CyximgF74PCbGhylJGcQx",
+      "isFallback": false
+    },
+    {
+      "id": "fa2cbdcd-3b79-47d4-9b07-2a256520f8e9",
+      "title": "キミイロカラー",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752307374",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/02PUBFfGEAEaSii7PIldo3",
+      "isFallback": false
+    },
+    {
+      "id": "f7b5d951-fbe7-410f-9075-26c33d7ac04d",
+      "title": "ルララルララ",
+      "artist": "電音部",
+      "isrc": "JPR502410444",
+      "releaseDate": "2024-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/4oTx1UtJZuqtL2gncqfLbt",
+      "isFallback": true
+    },
+    {
+      "id": "60dc6109-7bc0-4758-958c-57b8ac1b3544",
+      "title": "閻魔王の言う通り",
+      "artist": "をとは",
+      "isrc": "TCJPA2484249",
+      "releaseDate": "2022-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/1ah9Jx09EPek0FLvUXIJyP",
+      "isFallback": true
+    },
+    {
+      "id": "a39c03eb-6234-48f7-b066-ce0a066b5e54",
+      "title": "Pulse",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510366",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/5RMaUEnla3WHDrfrzX4lRB",
+      "isFallback": true
+    },
+    {
+      "id": "28c551b2-fc42-4fdf-9abc-cce5e2721f5f",
+      "title": "ぐっない",
+      "artist": "六科なじむ",
+      "isrc": "JPV752104273",
+      "releaseDate": "2021-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/14lc0HWCA2KscniZMCFfPR",
+      "isFallback": false
+    },
+    {
+      "id": "b30f70fd-1f20-400f-85c3-395ee7bf2a46",
+      "title": "オ・ヒ・メ・サ・マ！",
+      "artist": "六科なじむ",
+      "isrc": "JPV752307406",
+      "releaseDate": "2023-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/3Vmh99etRhC0fR5K0UysGP",
+      "isFallback": false
+    },
+    {
+      "id": "bcd53a87-dfb8-486f-8d80-66fdbb35d5ad",
+      "title": "Do You Even DJ?",
+      "artist": "電音部",
+      "isrc": "JPR502148260",
+      "releaseDate": "2021-05-29",
+      "spotifyUrl": "https://open.spotify.com/track/7KJHgIh9GTc5rK4q3o9u4N",
+      "isFallback": true
+    },
+    {
+      "id": "8472ca59-c911-457c-bde8-2e468f7d31a3",
+      "title": "Mirai Post",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510359",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4zjuAosZstEeRHIQ0RKCYA",
+      "isFallback": true
+    },
+    {
+      "id": "9901d04a-91e4-49e1-905a-f6490d434bf1",
+      "title": "シラズシラズ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104677",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/7qfLZ4qcMpw94U2VSZGin5",
+      "isFallback": false
+    },
+    {
+      "id": "01b931a7-fd1c-4de8-8619-3adaead2c51c",
+      "title": "生きんの大変！",
+      "artist": "ななひら",
+      "isrc": "TCJPC2474039",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/7calwilZz6dS7MBxYKvz5a",
+      "isFallback": false
+    },
+    {
+      "id": "766af453-7ffb-4aef-b516-ea0b4001d588",
+      "title": "Daydream",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901665",
+      "releaseDate": "2018-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/6W1RvkFm06gVDrptRAYFN7",
+      "isFallback": true
+    },
+    {
+      "id": "101111a5-bfb2-473e-9943-6ab8b1709911",
+      "title": "HOMEY",
+      "artist": "KMNZ",
+      "isrc": "TCJPS2270854",
+      "releaseDate": "2022-08-12",
+      "spotifyUrl": "https://open.spotify.com/track/3QVJnjByWUrDoRMonexEA0",
+      "isFallback": true
+    },
+    {
+      "id": "54486492-f4f8-4889-8744-1a70f7f4839f",
+      "title": "Magical Girl",
+      "artist": "NekoHacker",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f73f599c-3fef-4788-b08e-afd60d16dedc",
+      "title": "Crystal World",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPT2255479",
+      "releaseDate": "2022-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/0BH0xkP27NMRpBXeWaCH6E",
+      "isFallback": true
+    },
+    {
+      "id": "8d916c54-7254-414f-b42b-22b660b332f6",
+      "title": "Sigh",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPK2062143",
+      "releaseDate": "2020-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/2NNoZ7GoB4qeCUZBxXMv66",
+      "isFallback": true
+    },
+    {
+      "id": "64e7964e-fb40-4b29-974f-19b5336a7454",
+      "title": "好きになっちゃえ！",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510361",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4ORRDKEiJLOwh6ABoC9f7q",
+      "isFallback": true
+    },
+    {
+      "id": "1ba8e106-0b43-47a1-83a9-15ac355c0cf6",
+      "title": "BPM285EX",
+      "artist": "でんぱ組.inc",
+      "isrc": "JPTF02422904",
+      "releaseDate": "2024-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/7IexhqfaCseZJCw6UsXdz7",
+      "isFallback": true
+    },
+    {
+      "id": "bea3f365-0094-458d-8a5c-312f306d8502",
+      "title": "Sweet Dreams",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901666",
+      "releaseDate": "2018-03-14",
+      "spotifyUrl": "https://open.spotify.com/track/1PM5i1m2oEFX4WrWxMRcld",
+      "isFallback": true
+    },
+    {
+      "id": "fae6cd1d-41c0-4bfb-b8b1-797212c69dad",
+      "title": "曖昧サイボーグ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104687",
+      "releaseDate": "2020-06-30",
+      "spotifyUrl": "https://open.spotify.com/track/6l4vRCnrnrYjvBHmuPHTcP",
+      "isFallback": false
+    },
+    {
+      "id": "32ead54b-f581-4d4f-a604-905fa422043a",
+      "title": "O108ROCKET",
+      "artist": "をとは",
+      "isrc": "TCJPA2484256",
+      "releaseDate": "2021-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/7a9DXVsbQim9Hs7FFCHSSS",
+      "isFallback": true
+    },
+    {
+      "id": "4f1515d3-dcfa-4d5d-9358-e30f8a7ae469",
+      "title": "Night Sky",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901670",
+      "releaseDate": "2018-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/7DjtVoji6AImyDERzs9Vmw",
+      "isFallback": true
+    },
+    {
+      "id": "5fce1c25-bd6d-451c-b471-42b47976b657",
+      "title": "Ramen I Love You",
+      "artist": "Neko Hacker",
+      "isrc": "",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bd61ce21-0f52-4ac0-9b4c-2b5aace20b19",
+      "title": "Dive",
+      "artist": "電音部",
+      "isrc": "JPR502301553",
+      "releaseDate": "2022-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/5L31YAXwvGgbhJsHsx57KE",
+      "isFallback": true
+    },
+    {
+      "id": "4e28eb8f-c97c-47aa-a38d-116a4e36b2e8",
+      "title": "Rainbow In The Dark",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901672",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/0ZJtu5g4S4LLwhHLANJubt",
+      "isFallback": true
+    },
+    {
+      "id": "60c5d565-072f-4326-98e1-d4a842fa0f7c",
+      "title": "Chocolate Adventure",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901671",
+      "releaseDate": "2019-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/4MKNHfyykPvs5FMgxPKep6",
+      "isFallback": true
+    },
+    {
+      "id": "4ba661b6-e4b3-482b-afc1-749c266b441f",
+      "title": "Home*made Parade",
+      "artist": "ななひら",
+      "isrc": "TCJPC2474044",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0eUA0WbuWJ2yq95nhhHRPJ",
+      "isFallback": true
+    },
+    {
+      "id": "e7f32d1d-4d79-4a9a-822b-0d50bd5b440b",
+      "title": "R U GAME?",
+      "artist": "KMNZ",
+      "isrc": "TCJPJ1990536",
+      "releaseDate": "2019-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/7mC8aAWS1M0ITMM4qztk9T",
+      "isFallback": true
+    },
+    {
+      "id": "441d9031-7661-4aa0-aa70-6e0a616e19da",
+      "title": "むじな de なじむ",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752003756",
+      "releaseDate": "2021-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/4oe0Rer9MgC14JvI1893M2",
+      "isFallback": false
+    },
+    {
+      "id": "c06dc56a-f965-42a3-866b-75a58dd21cc6",
+      "title": "Circulation",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901667",
+      "releaseDate": "2020-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1QqBS3OKykmNh4H3ayKt4M",
+      "isFallback": true
+    },
+    {
+      "id": "21d11837-608f-4898-b6e2-b13ce16eebef",
+      "title": "Stars",
+      "artist": "Neko Hacker",
+      "isrc": "TCJPX2393818",
+      "releaseDate": "2023-10-29",
+      "spotifyUrl": "https://open.spotify.com/track/3c53AUALukZT92l2Rc0Du4",
+      "isFallback": false
+    },
+    {
+      "id": "2b35ca2c-2e28-4b2d-89ca-5a1672f61a2b",
+      "title": "ジャックポットチャンス",
+      "artist": "をとは",
+      "isrc": "TCJPT2207386",
+      "releaseDate": "2022-10-09",
+      "spotifyUrl": "https://open.spotify.com/track/04l3avgEnp0ZfuYbbA6FRD",
+      "isFallback": true
+    },
+    {
+      "id": "2e708e54-eead-4e9a-aec1-d120c10825f9",
+      "title": "Sidewalks",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104679",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/6PQZImgev5j0HGh0Iv0DWF",
+      "isFallback": false
+    },
+    {
+      "id": "709f36a4-34de-49c0-b770-4673fd5619bf",
+      "title": "右左君君右下上目きゅるんめちょかわ！",
+      "artist": "沙花叉クロヱ",
+      "isrc": "JPV752307947",
+      "releaseDate": "2023-11-30",
+      "spotifyUrl": "https://open.spotify.com/track/4zx3jvmc4vE57Ispy2OTUC",
+      "isFallback": true
+    },
+    {
+      "id": "9708ac11-62cb-4ae3-a3cd-f66d22b0b6c5",
+      "title": "ご安全に!",
+      "artist": "をとは",
+      "isrc": "TCJPK2548068",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4q8kMUZXpoYe2H1ZWNYYaE",
+      "isFallback": false
+    },
+    {
+      "id": "2b1bc2be-3ff0-445e-b24d-1653bbe3a490",
+      "title": "Sleep Tight",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104688",
+      "releaseDate": "2021-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/4KOv6QBUzUOcHfeMpmhaC0",
+      "isFallback": false
+    },
+    {
+      "id": "1c080c81-2bfc-4286-a80e-b9ede9bb78d2",
+      "title": "For The Win (2022 ver.)",
+      "artist": "湊あくあ",
+      "isrc": "JPV752205480",
+      "releaseDate": "2022-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/5he0MPlstxvaaCULID5Dpm",
+      "isFallback": true
+    },
+    {
+      "id": "fe25a71a-2162-48f1-ac8b-776b1b054875",
+      "title": "常々感謝",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510363",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4PoYrIVxybIUi8LQTzG4f6",
+      "isFallback": true
+    },
+    {
+      "id": "63c03fe8-5723-40a2-90b3-3835d32b9b5d",
+      "title": "Across The Boundary",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104684",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/5jHBzNibGrz8ZEu5huBSF3",
+      "isFallback": false
+    },
+    {
+      "id": "a63ae3d8-b48e-4a04-8532-d44fa45096e0",
+      "title": "エキゾチックテレパシー",
+      "artist": "夜光性アミューズ",
+      "isrc": "JPW462105775",
+      "releaseDate": "2021-07-21",
+      "spotifyUrl": "https://open.spotify.com/track/69L9x4cz52Rft4WzFx0wCn",
+      "isFallback": true
+    },
+    {
+      "id": "5ccfda78-608a-42a3-8aff-4e96510f79df",
+      "title": "Shadows",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104683",
+      "releaseDate": "2020-03-02",
+      "spotifyUrl": "https://open.spotify.com/track/7kRUZtyaRUCfyu8KWCImGF",
+      "isFallback": false
+    },
+    {
+      "id": "5354564c-2055-42a3-82e0-3882c9193b98",
+      "title": "Take A Nap",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104681",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/0ZFfrWkcL7mIi91WcrSwt9",
+      "isFallback": false
+    },
+    {
+      "id": "16f5c37c-05ec-41ac-9a8d-6237ffd77910",
+      "title": "くいしんぼハッカー",
+      "artist": "Neko Hacker",
+      "isrc": "JPV751901662",
+      "releaseDate": "2019-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/5LjOUCLoxD5n0fZ2Vy9ie7",
+      "isFallback": true
+    },
+    {
+      "id": "066db054-1982-4b3d-b055-54a5ddeae019",
+      "title": "進め！むじなカンパニー",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104689",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/5hmL76MRXyKFQjRcDwrPrI",
+      "isFallback": false
+    },
+    {
+      "id": "bd2c113d-1714-48c9-9ae3-c56f3711725a",
+      "title": "命 (仮歌)",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752104685",
+      "releaseDate": "2021-07-14",
+      "spotifyUrl": "https://open.spotify.com/track/4lLNcLUHgjG8wJL2TZywSM",
+      "isFallback": false
+    },
+    {
+      "id": "ca1fb73e-7f93-46e1-9dd9-bf5088cd1550",
+      "title": "Hack You",
+      "artist": "Neko Hacker",
+      "isrc": "JPR841900064",
+      "releaseDate": "2019-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/3EqdVbm9gFwhUFFIq4GIl1",
+      "isFallback": true
+    },
+    {
+      "id": "35854a18-931a-4497-b372-f079d3bb21ea",
+      "title": "フラグライフ",
+      "artist": "笹木咲",
+      "isrc": "JPY252300119",
+      "releaseDate": "2023-07-10",
+      "spotifyUrl": "https://open.spotify.com/track/1CVL3m22XwNiT83XdC4GgU",
+      "isFallback": false
+    },
+    {
+      "id": "294e252d-ca86-4de2-98cd-1e8e5ab21de2",
+      "title": "Digital Life Hacker",
+      "artist": "をとは",
+      "isrc": "TCJPK2066078",
+      "releaseDate": "2020-03-01",
+      "spotifyUrl": "https://open.spotify.com/track/0U0cRH9gXXAZSvbb0PDAsx",
+      "isFallback": true
+    },
+    {
+      "id": "9aeaca11-65b7-4f4a-b979-3a216d5231a8",
+      "title": "Do You Even DJ? 2nd",
+      "artist": "電音部",
+      "isrc": "JPR502201185",
+      "releaseDate": "2022-03-20",
+      "spotifyUrl": "https://open.spotify.com/track/24aSSrZAiwrJXAbg9tzGGI",
+      "isFallback": true
+    }
+  ]
+}

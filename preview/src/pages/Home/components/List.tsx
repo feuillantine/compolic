@@ -19,9 +19,18 @@ export type ListProps = {
   sort: SortState;
   /** ヘッダクリック時にソートを切り替える */
   onToggleSort: (col: SortState['column']) => void;
+  /** 選択中のフィルター */
+  currentFilter: string | null;
 };
 
-export const List: React.FC<ListProps> = ({ loading, error, rows, sort, onToggleSort }) => {
+export const List: React.FC<ListProps> = ({
+  loading,
+  error,
+  rows,
+  sort,
+  onToggleSort,
+  currentFilter,
+}) => {
   return (
     <UICard>
       <CardContent className="p-0 overflow-x-auto">
@@ -36,7 +45,7 @@ export const List: React.FC<ListProps> = ({ loading, error, rows, sort, onToggle
                 className="md:w-[40%]"
               />
               <Th
-                label="Artist"
+                label={currentFilter === null ? 'Artist (Composer)' : 'Artist'}
                 active={sort.column === 'artist'}
                 asc={sort.asc}
                 onClick={() => onToggleSort('artist')}
@@ -48,10 +57,7 @@ export const List: React.FC<ListProps> = ({ loading, error, rows, sort, onToggle
                 onClick={() => onToggleSort('releaseDate')}
                 className="w-[9em]"
               />
-              <th className="w-[10.5em] p-2 md:px-3 md:py-2 text-left hidden md:table-cell">
-                ISRC
-              </th>
-              <th className="p-2 md:px-3 text-left w-[6.5em] md:w-[7em]">Link</th>
+              <th className="p-2 md:px-3 text-left w-[32px] md:w-[45px]">🔗</th>
             </tr>
           </thead>
           <tbody>
@@ -66,7 +72,13 @@ export const List: React.FC<ListProps> = ({ loading, error, rows, sort, onToggle
             {!loading && !error && rows.length === 0 && <Empty />}
             {!loading &&
               !error &&
-              rows.map((r, i) => <HomeCard key={`${r.id ?? 'row'}-${i}`} row={r} />)}
+              rows.map((r, i) => (
+                <HomeCard
+                  key={`${r.id ?? 'row'}-${i}`}
+                  row={r}
+                  showComposer={currentFilter === null}
+                />
+              ))}
           </tbody>
         </table>
       </CardContent>

@@ -919,6 +919,15 @@
       "releaseDate": "2024-03-06",
       "spotifyUrl": "https://open.spotify.com/track/63XBOzKw9nTvveN3U8tvqX",
       "isFallback": true
+    },
+    {
+      "id": "cb6aff1a-668a-4be7-8375-63b71b7a1fe6",
+      "title": "Monster",
+      "artist": "Da-iCE",
+      "isrc": "JPB602502249",
+      "releaseDate": "2026-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/1Xw1BDs2IYRf8k5J5fhKty",
+      "isFallback": false
     }
   ]
 }

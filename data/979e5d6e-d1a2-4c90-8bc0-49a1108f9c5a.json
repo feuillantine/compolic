@@ -28,6 +28,15 @@
       "releaseDate": "2024-01-24",
       "spotifyUrl": "https://open.spotify.com/track/6OCo3sfiKD9ObhBjyZqe9G",
       "isFallback": false
+    },
+    {
+      "id": "54863169-1345-445b-95c3-040b4bdae0ed",
+      "title": "虹",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JPPO02403562",
+      "releaseDate": "2024-08-05",
+      "spotifyUrl": "https://open.spotify.com/track/3KgfhOARlzdxby3JWJzqmi",
+      "isFallback": true
     }
   ]
 }

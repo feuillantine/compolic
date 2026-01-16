@@ -325,6 +325,24 @@
       "releaseDate": "2025-11-19",
       "spotifyUrl": "https://open.spotify.com/track/2uHcBppHTNJSogN1eeQXBk",
       "isFallback": false
+    },
+    {
+      "id": "b3a7cd27-8316-405f-ba1d-244f05990ad5",
+      "title": "FUNKEYS",
+      "artist": "Da-iCE",
+      "isrc": "JPB602500029",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/3WIHL4hEuqRCMtKOadF8TS",
+      "isFallback": false
+    },
+    {
+      "id": "cc8bf533-ea5b-475d-9904-b86a456840ec",
+      "title": "青色ユニゾン",
+      "artist": "UNIONE",
+      "isrc": "JPU901902722",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "https://open.spotify.com/track/7f7VECjZ1ySJwowJDQ5ecC",
+      "isFallback": true
     }
   ]
 }

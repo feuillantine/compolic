@@ -532,6 +532,15 @@
       "releaseDate": "2025-11-19",
       "spotifyUrl": "https://open.spotify.com/track/5Ngv9Mnk1VntYMa5rHIMFn",
       "isFallback": false
+    },
+    {
+      "id": "1c11d940-2ea8-47ac-9f1f-cfbca59e1772",
+      "title": "Nεw Black",
+      "artist": "PRINCEε>ε>",
+      "isrc": "JPI102502810",
+      "releaseDate": "2025-12-03",
+      "spotifyUrl": "https://open.spotify.com/track/6aIFwBYaE2c0QTMp5Mb5Jx",
+      "isFallback": true
     }
   ]
 }

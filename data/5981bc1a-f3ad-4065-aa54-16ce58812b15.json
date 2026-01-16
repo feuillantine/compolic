@@ -1,0 +1,375 @@
+{
+  "name": "佐高陵平",
+  "sortName": "サタカリョウヘイ",
+  "tracks": [
+    {
+      "id": "1fc094a3-250b-46e0-9073-8ac5ba3e2806",
+      "title": "追想のラグナロク",
+      "artist": "藍月なくる",
+      "isrc": "JP92E2300616",
+      "releaseDate": "2023-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/5GoqMDAJ6NNfHzJAInvTMr",
+      "isFallback": false
+    },
+    {
+      "id": "44aa484a-c179-4325-afa7-2f5e46bb55b1",
+      "title": "マーブル冴える",
+      "artist": "不知火フレア",
+      "isrc": "JPV752408989",
+      "releaseDate": "2024-08-08",
+      "spotifyUrl": "https://open.spotify.com/track/4NKx8jLLiHnTS5OTWWFpWA",
+      "isFallback": true
+    },
+    {
+      "id": "34d54eed-d057-41a3-9cc8-af0aa4cacd01",
+      "title": "Begin Again",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562400438",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/7mhDFhOqLcxmIJjUws54Xh",
+      "isFallback": true
+    },
+    {
+      "id": "b165977b-6dd4-4a59-b6bc-9968d0dc0dd9",
+      "title": "HI‐15 (Japanese ver.)",
+      "artist": "Ayunda Risu",
+      "isrc": "JPV752205883",
+      "releaseDate": "2022-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/6JJy9WOBm6nGbgFF2skbl4",
+      "isFallback": true
+    },
+    {
+      "id": "4cc84d56-6987-4d45-8c2c-0595e13d4a27",
+      "title": "Love is a potion",
+      "artist": "harmoe",
+      "isrc": "JPPC02311348",
+      "releaseDate": "2023-08-13",
+      "spotifyUrl": "https://open.spotify.com/track/1X0BgypG4YQXWXqd573Zk5",
+      "isFallback": false
+    },
+    {
+      "id": "5423b53f-7d47-4e90-a53f-9f2238689879",
+      "title": "HI‐15",
+      "artist": "Ayunda Risu",
+      "isrc": "JPV752205882",
+      "releaseDate": "2022-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/6C1pW1RELtNg878XuXY8X1",
+      "isFallback": true
+    },
+    {
+      "id": "adc67a0a-1db7-4357-927e-c7da0ebbda2c",
+      "title": "Photon Melodies",
+      "artist": "Photon Maiden",
+      "isrc": "JPR561900128",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/2PWQiZagctpttg8FbmjzDI",
+      "isFallback": true
+    },
+    {
+      "id": "ced6eca9-04be-498e-8587-bcf75e792614",
+      "title": "おいでBrand-new World!",
+      "artist": "山崎はるか",
+      "isrc": "JPPI01901010",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/0Z57nY1rwNwAsz775CditF",
+      "isFallback": true
+    },
+    {
+      "id": "c2c502db-3c53-4754-bce8-bcaae3108a3e",
+      "title": "Collector",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562300336",
+      "releaseDate": "2023-08-16",
+      "spotifyUrl": "https://open.spotify.com/track/0d4bFtfn4Gz0gYWNg7KyER",
+      "isFallback": true
+    },
+    {
+      "id": "8467ea6a-c19d-4605-9d24-8237c4eab4f2",
+      "title": "セブンカウント",
+      "artist": "MILLIONSTARS",
+      "isrc": "JPI102301787",
+      "releaseDate": "2023-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/19piUWz1Gy6isXAyhxdGUQ",
+      "isFallback": false
+    },
+    {
+      "id": "256cec37-a082-424f-87be-11c892e2493f",
+      "title": "Doux poison -セシボンキブン-",
+      "artist": "山崎はるか",
+      "isrc": "JPPI02100170",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/5rIgdW7v28jvL91Vjo7Sql",
+      "isFallback": true
+    },
+    {
+      "id": "e6f559a0-3a19-4803-830d-06a5e4b7bf29",
+      "title": "Here’s the light",
+      "artist": "Photon Maiden",
+      "isrc": "JPR561900213",
+      "releaseDate": "2020-03-28",
+      "spotifyUrl": "https://open.spotify.com/track/6vbqH2W6RbUBIiC7q7RZdX",
+      "isFallback": true
+    },
+    {
+      "id": "288de8e7-515b-446f-b48a-2b81f26b7342",
+      "title": "どきどきアイデアをよろしく！",
+      "artist": "潟女DIY部!!",
+      "isrc": "JPT552201160",
+      "releaseDate": "2022-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/2ODRqiAdE1Ig3y5KqUtnq4",
+      "isFallback": false
+    },
+    {
+      "id": "5b00009b-2c27-4898-ab56-539e51b76453",
+      "title": "産声とクラブ",
+      "artist": "箱崎星梨花",
+      "isrc": "JPI102103170",
+      "releaseDate": "2021-11-26",
+      "spotifyUrl": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa",
+      "isFallback": false
+    },
+    {
+      "id": "b7ce0fe0-014a-49e6-87f6-fad6e192a716",
+      "title": "キセキ的☆スマイリュージョン",
+      "artist": "山崎はるか",
+      "isrc": "JPPI01900940",
+      "releaseDate": "2019-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/37MxhTFUTaoyLJ1yHOr3FK",
+      "isFallback": true
+    },
+    {
+      "id": "09458c51-83c6-49e5-97b2-b5c5d8be21db",
+      "title": "sweet night, sweet time…",
+      "artist": "角巻わため",
+      "isrc": "JPV752105372",
+      "releaseDate": "2021-12-29",
+      "spotifyUrl": "https://open.spotify.com/track/0gwrycZF40lOqwF9cwLwGj",
+      "isFallback": true
+    },
+    {
+      "id": "f0a916a2-7ef3-407a-a2c4-faf9168bfda6",
+      "title": "G.A.M.E.",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200321",
+      "releaseDate": "2022-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/0aqrKzyWbBSXVL5ZqLcB6f",
+      "isFallback": true
+    },
+    {
+      "id": "04ac5fa1-3403-432a-be56-d85046c5bb07",
+      "title": "Be with the world",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562100068",
+      "releaseDate": "2021-05-19",
+      "spotifyUrl": "https://open.spotify.com/track/2j52x9tQUd0lpdNDMtVp7o",
+      "isFallback": true
+    },
+    {
+      "id": "b4b4ee76-1c03-46b3-a391-f10922d2f40e",
+      "title": "ReTale",
+      "artist": "≡君彩≡",
+      "isrc": "JPI102100065",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei",
+      "isFallback": false
+    },
+    {
+      "id": "6ff2736e-b0bc-49de-a324-313315de7c6e",
+      "title": "続く話",
+      "artist": "せるふ",
+      "isrc": "JPT552201162",
+      "releaseDate": "2022-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/18htCB0HVA4jSYhUKqqQcK",
+      "isFallback": false
+    },
+    {
+      "id": "d4f3ec79-4fd2-42b8-b5e4-9d9b24e9fe36",
+      "title": "Brand new day! Brand new way!",
+      "artist": "五十嵐一雪",
+      "isrc": "",
+      "releaseDate": "2023-03-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f6d270a2-1d9e-414a-ade3-9b973230c468",
+      "title": "Into the storm",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200323",
+      "releaseDate": "2022-08-10",
+      "spotifyUrl": "https://open.spotify.com/track/1ovzpnHiVkYW1a13bbdNeK",
+      "isFallback": true
+    },
+    {
+      "id": "c0d487f0-56a3-4dc9-a40c-0061871a98e2",
+      "title": "愛の残滓",
+      "artist": "藍月なくる",
+      "isrc": "JPR502512016",
+      "releaseDate": "2025-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/42eg2taabSbfo9WXZEVFyp",
+      "isFallback": false
+    },
+    {
+      "id": "75dcff61-20dc-4902-bf98-e2c124fa4a77",
+      "title": "紙・心・ペン・心 - SHISHINPENSHIN -",
+      "artist": "福田のり子",
+      "isrc": "JPI102200337",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya",
+      "isFallback": false
+    },
+    {
+      "id": "c754064b-1ae3-4670-ad0a-4c94c2cc1cbe",
+      "title": "ウラオモテアクアリウム",
+      "artist": "otonari",
+      "isrc": "JPPC02312014",
+      "releaseDate": "2024-01-13",
+      "spotifyUrl": "https://open.spotify.com/track/4shWPRB9BGUknOLqpKwfJ3",
+      "isFallback": false
+    },
+    {
+      "id": "35e2c316-8e22-431f-9be2-98b25b920328",
+      "title": "人芝居",
+      "artist": "渕上舞",
+      "isrc": "JPI102201282",
+      "releaseDate": "2022-07-04",
+      "spotifyUrl": "https://open.spotify.com/track/6TmZcTsGO0t6xgg2OjeLqd",
+      "isFallback": true
+    },
+    {
+      "id": "ab93690a-11ed-491d-afbb-b20e4ba44316",
+      "title": "Limits",
+      "artist": "舞ヶ原シンセ研究会",
+      "isrc": "JPX302247970",
+      "releaseDate": "2022-12-07",
+      "spotifyUrl": "https://open.spotify.com/track/3PrsWewXRJW2WSrLbuwU5o",
+      "isFallback": true
+    },
+    {
+      "id": "3799b08b-9937-4fc4-9bb1-f38a127448a3",
+      "title": "キミの世界にまざりたい",
+      "artist": "ナミ",
+      "isrc": "JPPC01802336",
+      "releaseDate": "2019-01-09",
+      "spotifyUrl": "https://open.spotify.com/track/18fZEXbRPT1kosMxNGbBAt",
+      "isFallback": true
+    },
+    {
+      "id": "d38efdf9-ccf0-4187-8445-a0440393c019",
+      "title": "Limits (Nothing But Requiem Remix)",
+      "artist": "Nothing But Requiem",
+      "isrc": "",
+      "releaseDate": "2024-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "96f25526-62df-4b42-bcd7-1a1689d88c33",
+      "title": "Killer neuron",
+      "artist": "藍月なくる",
+      "isrc": "JPR502203446",
+      "releaseDate": "2022-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/3au8OxJ5lrGCFejqCJe8KA",
+      "isFallback": true
+    },
+    {
+      "id": "70466e86-806d-4549-aa6d-f07d67efd488",
+      "title": "24",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562200443",
+      "releaseDate": "2022-12-21",
+      "spotifyUrl": "https://open.spotify.com/track/6pXtuVmBRna61HWdLvBxwK",
+      "isFallback": true
+    },
+    {
+      "id": "973f882f-9a23-4476-aabf-37df230540af",
+      "title": "4 Challenges",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562100256",
+      "releaseDate": "2021-10-13",
+      "spotifyUrl": "https://open.spotify.com/track/063SbBrUcOX0wXRbJ2AjxD",
+      "isFallback": true
+    },
+    {
+      "id": "b7246f63-8830-4930-bb29-4bb9eeda926e",
+      "title": "いつか世界が変わるまで",
+      "artist": "飯田里穂",
+      "isrc": "JPPI01803070",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/4VKndRYkNm6BdP5WTe2Qw8",
+      "isFallback": true
+    },
+    {
+      "id": "a3bac933-4653-4a69-87f0-7f489ab6238c",
+      "title": "Meteor",
+      "artist": "Photon Maiden",
+      "isrc": "JPZ732500344",
+      "releaseDate": "2025-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7e7aJbNdA9dseWcYiUV14B",
+      "isFallback": true
+    },
+    {
+      "id": "f1558a63-9619-4ea9-95de-cf6a2738c2d6",
+      "title": "心はきっと",
+      "artist": "半蔵門雪",
+      "isrc": "JPPC01801769",
+      "releaseDate": "2018-11-07",
+      "spotifyUrl": "https://open.spotify.com/track/6ZrS6EwS8w4iXSYYzvZBCY",
+      "isFallback": false
+    },
+    {
+      "id": "4c7a3541-d635-4e7b-951e-0ad2c87ced17",
+      "title": "FriendShip",
+      "artist": "Photon Maiden",
+      "isrc": "JPR562300343",
+      "releaseDate": "2023-08-19",
+      "spotifyUrl": "https://open.spotify.com/track/2gM39qtsCFRdBlSFehIw08",
+      "isFallback": true
+    },
+    {
+      "id": "2b33d6ae-24e6-4e55-9406-c49d285b3fd9",
+      "title": "ユーフォリア",
+      "artist": "佐高陵平",
+      "isrc": "JPR562300248",
+      "releaseDate": "2023-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/2j8yyTPzhP25Y2SDwDzuUH",
+      "isFallback": false
+    },
+    {
+      "id": "cf89a47a-1e31-4a0d-8ac6-ce9d5d86f985",
+      "title": "ゆえに…なんです",
+      "artist": "真壁瑞希",
+      "isrc": "JPI102103474",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/21Vh5CofcrnxMyW8WqCBaP",
+      "isFallback": false
+    },
+    {
+      "id": "8b962426-1722-486a-bcdf-64a06661205d",
+      "title": "Sugar & Spice",
+      "artist": "石川五恵",
+      "isrc": "JPPC01802047",
+      "releaseDate": "2018-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/5nmhjxN5twK2HqCRWI1wFJ",
+      "isFallback": false
+    },
+    {
+      "id": "03800762-2cdc-4e34-af90-d0392b7e2643",
+      "title": "Mirror",
+      "artist": "Photon Maiden",
+      "isrc": "JPZ732500346",
+      "releaseDate": "2025-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/2wsjjtpU35qXKK8Kpaqgby",
+      "isFallback": true
+    },
+    {
+      "id": "e8ce8fda-41f2-4b83-82df-b4a76787a88a",
+      "title": "Beginning☆Journey",
+      "artist": "黒崎真音",
+      "isrc": "JPPI01900420",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/46qy6WyBMYXvV22djNwKeK",
+      "isFallback": true
+    }
+  ]
+}

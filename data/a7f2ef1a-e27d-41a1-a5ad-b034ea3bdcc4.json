@@ -1,0 +1,42 @@
+{
+  "name": "winddrums",
+  "sortName": "ウィンドドラムス",
+  "tracks": [
+    {
+      "id": "0eb815b5-de49-4f78-849f-7656fc140f0b",
+      "title": "ハッピーアフタヌーンティータイム♪",
+      "artist": "うぐ",
+      "isrc": "TCAHG2395252",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1lZMT5p8MbAum7n8HplyTR",
+      "isFallback": false
+    },
+    {
+      "id": "7ab3461c-be53-4816-90e5-12941007bb78",
+      "title": "オオカミ姫は夢を見る",
+      "artist": "ななひら",
+      "isrc": "TCJPI1806877",
+      "releaseDate": "2018-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/04iW7usEI6YDNxaG9eaS11",
+      "isFallback": true
+    },
+    {
+      "id": "e6e656c2-52d0-43d6-b885-3fc6609b474d",
+      "title": "海風エキュモーション",
+      "artist": "ななひら",
+      "isrc": "TCJPO2168585",
+      "releaseDate": "2016",
+      "spotifyUrl": "https://open.spotify.com/track/0v2n2K7HMAOisKTyEEW61W",
+      "isFallback": true
+    },
+    {
+      "id": "3fc582df-cc5e-4c0a-9fde-3f70abe9fdb6",
+      "title": "ひみつのジュテーム♪",
+      "artist": "ななひら",
+      "isrc": "TCJPI1995935",
+      "releaseDate": "2019-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/6ywAA6OpCsqrEcencXSop4",
+      "isFallback": true
+    }
+  ]
+}

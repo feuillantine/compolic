@@ -1,0 +1,231 @@
+{
+  "name": "新田目駿",
+  "sortName": "アラタメシュn",
+  "tracks": [
+    {
+      "id": "10cf594d-573f-46e5-91aa-f0307774a630",
+      "title": "ごぶんのいち",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC01802347",
+      "releaseDate": "2019-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/0Zj8Yt8bzFajzsOTYLFcZh",
+      "isFallback": true
+    },
+    {
+      "id": "09d9e267-832f-40be-865f-8527e2aacb1d",
+      "title": "White Angel’s Christmas!",
+      "artist": "Hop Step Sing!",
+      "isrc": "JPW672200038",
+      "releaseDate": "2022-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/33bvSQwW0h5NGcpeTYeOAT",
+      "isFallback": false
+    },
+    {
+      "id": "a37af518-bc5a-4242-acea-87280e38bd1b",
+      "title": "リトルソルジャー",
+      "artist": "田所あずさ",
+      "isrc": "JPI101803045",
+      "releaseDate": "2019-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/4ESR8uG70TFcWKqtePEJpo",
+      "isFallback": true
+    },
+    {
+      "id": "42f9c764-1084-45b2-b3ea-c47ef214ccc1",
+      "title": "Purely&Kindly",
+      "artist": "ピエール",
+      "isrc": "JPI101900535",
+      "releaseDate": "2019-04-03",
+      "spotifyUrl": "https://open.spotify.com/track/1uqjoXAlcMjuV1sCVPHvK6",
+      "isFallback": false
+    },
+    {
+      "id": "859b784d-9b8a-483f-b3a2-b3e46918e675",
+      "title": "Make debut!",
+      "artist": "スピカ",
+      "isrc": "JPI101801343",
+      "releaseDate": "2018-04-25",
+      "spotifyUrl": "https://open.spotify.com/track/4ZlsTNzDRZk7s5IAvaVRS1",
+      "isFallback": true
+    },
+    {
+      "id": "63b3b221-c1b2-47fd-a017-1cf2f421c71e",
+      "title": "快眠!安眠!スヤリスト生活",
+      "artist": "スヤリス姫",
+      "isrc": "JPI102001511",
+      "releaseDate": "2020-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/0hZJIn2A29bMjRM8ug9Pzg",
+      "isFallback": true
+    },
+    {
+      "id": "fea81b0d-98bc-47a1-b661-e0671bc7113e",
+      "title": "無法地点",
+      "artist": "La prière",
+      "isrc": "TCJPQ2286821",
+      "releaseDate": "2022-01-16",
+      "spotifyUrl": "https://open.spotify.com/track/7DgfVwEN32nR25ANhw2vyY",
+      "isFallback": false
+    },
+    {
+      "id": "94b8433b-8fb7-4225-a4bc-c53b259f3c69",
+      "title": "みなみかぜ",
+      "artist": "中野家の五つ子",
+      "isrc": "JPPC02002081",
+      "releaseDate": "2021-03-24",
+      "spotifyUrl": "https://open.spotify.com/track/5cjCzI3kvdnrWNcYHmUWmu",
+      "isFallback": true
+    },
+    {
+      "id": "a754d1dc-f640-4840-8c8d-d7631f8789fb",
+      "title": "Enjoy and Join（TVアニメ『ウマ娘 プリティーダービー』OVA「BNWの誓い」エンディングテーマ）",
+      "artist": "ミホノブルボン",
+      "isrc": "JPI102100645",
+      "releaseDate": "2021-03-03",
+      "spotifyUrl": "https://open.spotify.com/track/6ZfjudXq7xy21B6TBR1253",
+      "isFallback": true
+    },
+    {
+      "id": "67e8eb99-ab56-4cfa-a7c0-54100da328b2",
+      "title": "Exercise the Right",
+      "artist": "キングヘイロー",
+      "isrc": "JPZ922113997",
+      "releaseDate": "2022-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/3T8u1Vk2gt9Sz6aSUXwfUh",
+      "isFallback": false
+    },
+    {
+      "id": "03f457e1-7e29-48f6-98cc-7ab9d9f5463c",
+      "title": "星と共に",
+      "artist": "ルミナスウィッチーズ",
+      "isrc": "JPD732200239",
+      "releaseDate": "2022-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1xwIAgu7aZUBgEz7CpruS3",
+      "isFallback": false
+    },
+    {
+      "id": "33ea9aaa-d20d-4b66-a7ce-4b76b1da7d8d",
+      "title": "Little Soldier (English Version)",
+      "artist": "MindaRyn",
+      "isrc": "JPI102101394",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "https://open.spotify.com/track/3b6VqSJNutnUJL6luYT0Om",
+      "isFallback": true
+    },
+    {
+      "id": "493fd012-897a-4cad-a0da-4cc62674afb9",
+      "title": "夢が僕らの太陽さ",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "isrc": "JPI102200775",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK",
+      "isFallback": false
+    },
+    {
+      "id": "23408055-171c-48cd-b1d6-2d882ff9be55",
+      "title": "Glasses Hopper!!",
+      "artist": "遊木真",
+      "isrc": "JPD642300709",
+      "releaseDate": "2024-02-20",
+      "spotifyUrl": "https://open.spotify.com/track/5qbr4YM9wiLlwxazM5DxQa",
+      "isFallback": true
+    },
+    {
+      "id": "9aae2be7-5bd2-4ebb-a2d2-0e16055aeadd",
+      "title": "Special Record!",
+      "artist": "スペシャルウィーク",
+      "isrc": "JPI101801891",
+      "releaseDate": "2018-07-25",
+      "spotifyUrl": "https://open.spotify.com/track/27I0VXDExFhJVcXUcQmOBp",
+      "isFallback": true
+    },
+    {
+      "id": "1c0689a1-c75a-4415-9740-1e65af28e71a",
+      "title": "セカイfeat. LOVE",
+      "artist": "Hop Step Sing!",
+      "isrc": "JPW672300003",
+      "releaseDate": "2023-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/3p7QHWbUWYdkeeBjYd05zV",
+      "isFallback": false
+    },
+    {
+      "id": "dfc9dd66-85a8-40c1-9eef-7f2c5d19d612",
+      "title": "キミの♡(らぶ)",
+      "artist": "きゅーとぴあ♡",
+      "isrc": "JPR562200355",
+      "releaseDate": "2022-09-11",
+      "spotifyUrl": "https://open.spotify.com/track/02TlSaN2weivnarF8uqUKW",
+      "isFallback": true
+    },
+    {
+      "id": "6669e55a-dea7-4a88-8a61-04761b0e12dc",
+      "title": "デアエ・エクス・マキナ!",
+      "artist": "千寿いろは",
+      "isrc": "JPI102302337",
+      "releaseDate": "2024-04-24",
+      "spotifyUrl": "https://open.spotify.com/track/62Ogo7OsfVBKVPJ6NdfsuL",
+      "isFallback": true
+    },
+    {
+      "id": "2f7f2f37-543f-4c6c-a0f9-5d0c260eb576",
+      "title": "Hydrangea",
+      "artist": "Snow Wolf",
+      "isrc": "JPKI02213810",
+      "releaseDate": "2022-09-25",
+      "spotifyUrl": "https://open.spotify.com/track/6860cYLMIY9LpT1VbzofjT",
+      "isFallback": false
+    },
+    {
+      "id": "c5d7248b-710a-49cf-8c55-31fdccb78875",
+      "title": "ココロはMerry-Go-Round",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI01911321",
+      "releaseDate": "2019-04-10",
+      "spotifyUrl": "https://open.spotify.com/track/0DGsU6BbIY3z8Klet1xZ9p",
+      "isFallback": true
+    },
+    {
+      "id": "72c7d5e5-dc4c-4e6d-929f-ff09275b12cc",
+      "title": "風色Letter",
+      "artist": "水瀬いのり",
+      "isrc": "JPKI02212846",
+      "releaseDate": "2022-07-20",
+      "spotifyUrl": "https://open.spotify.com/track/5cFN13kJPzaUu5HQH5RQ75",
+      "isFallback": true
+    },
+    {
+      "id": "d515acf8-33cc-4b99-b0b5-add92eaaddf2",
+      "title": "My Entertainer",
+      "artist": "棗いつき",
+      "isrc": "JPR502301639",
+      "releaseDate": "2023-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0IZe0tNAuYxVJg7c3FwvtH",
+      "isFallback": false
+    },
+    {
+      "id": "c51f00ba-c33c-4052-8770-5fae4420a0f0",
+      "title": "だってあなたはプリンセス",
+      "artist": "Charlotte・Charlotte",
+      "isrc": "JPI101900010",
+      "releaseDate": "2019-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/2ppyxqg2XHEAgPycTF43QX",
+      "isFallback": false
+    },
+    {
+      "id": "e2f330e5-1270-42af-a9ef-99862e3e42c0",
+      "title": "優しい雨",
+      "artist": "駒形友梨",
+      "isrc": "JPTE01904810",
+      "releaseDate": "2019-07-17",
+      "spotifyUrl": "https://open.spotify.com/track/6PwYgpeuiEQ6hHXSmhS4sU",
+      "isFallback": true
+    },
+    {
+      "id": "94d81ccd-ac95-4f15-a64c-838f46b2aa0f",
+      "title": "ありったけの愛しさで",
+      "artist": "南條愛乃",
+      "isrc": "JPPI02102210",
+      "releaseDate": "2021-12-22",
+      "spotifyUrl": "https://open.spotify.com/track/5cqt7pevefli6IoftyclzP",
+      "isFallback": true
+    }
+  ]
+}

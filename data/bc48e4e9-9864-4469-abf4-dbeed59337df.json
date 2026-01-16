@@ -1,0 +1,33 @@
+{
+  "name": "高村風太",
+  "sortName": "タカムラfūタ",
+  "tracks": [
+    {
+      "id": "a4dc2d33-efa6-43e8-89ab-a65e00027f46",
+      "title": "水の記憶",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252400120",
+      "releaseDate": "2024-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/7AztHMjESfoPqRvzDK5yj6",
+      "isFallback": true
+    },
+    {
+      "id": "c4c2b332-812f-4eaf-919a-4a5023ee0294",
+      "title": "光になれたら",
+      "artist": "棗いつき",
+      "isrc": "JPR502509844",
+      "releaseDate": "2025-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/4RwxOYBM0Bc5eAlaLkqlSU",
+      "isFallback": false
+    },
+    {
+      "id": "2225362c-7114-4dfc-8e44-33e57b2f71ea",
+      "title": "ぼくらのなぞなぞ",
+      "artist": "角巻わため",
+      "isrc": "JPV752511592",
+      "releaseDate": "2025-12-30",
+      "spotifyUrl": "https://open.spotify.com/track/2bur5zdPz2xyAltiGeFYtj",
+      "isFallback": false
+    }
+  ]
+}

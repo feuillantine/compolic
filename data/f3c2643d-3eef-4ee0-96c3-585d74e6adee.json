@@ -1,0 +1,60 @@
+{
+  "name": "mochilon",
+  "sortName": "モチォn",
+  "tracks": [
+    {
+      "id": "155d0eb2-068c-45ec-9d3f-5cd961a7e252",
+      "title": "5:00AM",
+      "artist": "内田真礼",
+      "isrc": "JPPC01602709",
+      "releaseDate": "2017-01-11",
+      "spotifyUrl": "https://open.spotify.com/track/31dfrPURJcZrpFfX8RBrF5",
+      "isFallback": true
+    },
+    {
+      "id": "5352f4a9-2422-4c67-b736-9fc9da678a44",
+      "title": "ポルカドット",
+      "artist": "天王洲なずな",
+      "isrc": "JPP301800481",
+      "releaseDate": "2018-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "654a176e-d011-42f6-9c6c-e1dbab181476",
+      "title": "Galactic mermaid",
+      "artist": "マーメイド・シスターズ",
+      "isrc": "JPVI01901914",
+      "releaseDate": "2019-07-31",
+      "spotifyUrl": "https://open.spotify.com/track/1yHXUDFaAtxty9N3eklIHY",
+      "isFallback": true
+    },
+    {
+      "id": "c6e8476b-9094-4e99-96c1-93e566512651",
+      "title": "ユメ、まっすぐ。",
+      "artist": "島田真夢",
+      "isrc": "JPT551701054",
+      "releaseDate": "2017-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/0jHo38mC0v8its2zdlxtm2",
+      "isFallback": true
+    },
+    {
+      "id": "275f7d4a-2380-45e4-9cad-b5803eb52423",
+      "title": "ワイドルセブン",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400021",
+      "releaseDate": "2014-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/6RMUyrFdo7rp61HP3dV84m",
+      "isFallback": true
+    },
+    {
+      "id": "de8301b9-c2a6-41a1-a7d4-f431861d2929",
+      "title": "カッコつけていいでしょ!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601400024",
+      "releaseDate": "2012-10-28",
+      "spotifyUrl": "https://open.spotify.com/track/7CKkzNSYA4kuYYrdf4CgEr",
+      "isFallback": true
+    }
+  ]
+}

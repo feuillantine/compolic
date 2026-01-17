@@ -343,6 +343,42 @@
       "releaseDate": "2020-12-16",
       "spotifyUrl": "https://open.spotify.com/track/7f7VECjZ1ySJwowJDQ5ecC",
       "isFallback": true
+    },
+    {
+      "id": "d572f440-13a3-4917-98b0-eae79af25f68",
+      "title": "さぁ！彩レインボー",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JP92E2501184",
+      "releaseDate": "2025-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/3YpQpXVlUwzGEfHJhBbZL6",
+      "isFallback": true
+    },
+    {
+      "id": "1bc981ad-954b-4def-8b12-13e5da581e1b",
+      "title": "ぶんぶぶんぶぶん",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JPPO02303197",
+      "releaseDate": "2023-10-01",
+      "spotifyUrl": "https://open.spotify.com/track/0IF9cBA61tD7IgvwUv02oR",
+      "isFallback": true
+    },
+    {
+      "id": "59b3b02b-3c5b-4978-bce0-ecba036fbb6f",
+      "title": "うわーーー！！！！！！",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JPPO02404841",
+      "releaseDate": "2024-10-06",
+      "spotifyUrl": "https://open.spotify.com/track/7rgAnQCEliPPFMNmEj4rjX",
+      "isFallback": true
+    },
+    {
+      "id": "52809af3-b4d0-4cea-bcc1-317be968dc0b",
+      "title": "わんぱクエスト~平和×征服×お宝~",
+      "artist": "あっきぃ",
+      "isrc": "JPPO02400587",
+      "releaseDate": "2024-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/2q3dbmu5XYz6zRpY6IIEm7",
+      "isFallback": true
     }
   ]
 }

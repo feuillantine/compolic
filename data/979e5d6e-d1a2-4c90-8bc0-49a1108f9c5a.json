@@ -37,6 +37,24 @@
       "releaseDate": "2024-08-05",
       "spotifyUrl": "https://open.spotify.com/track/3KgfhOARlzdxby3JWJzqmi",
       "isFallback": true
+    },
+    {
+      "id": "8841a8d0-6995-4d4c-9aff-df9e53949c82",
+      "title": "何億人いる世界で君を",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JP92E2500171",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/6mc1K5iDRvpckj9qUf8zcw",
+      "isFallback": true
+    },
+    {
+      "id": "802fe26a-0ff2-4bba-80c4-9ba63305b404",
+      "title": "ABCDEかんじ",
+      "artist": "AMPTAKxCOLORS",
+      "isrc": "JPPO02400586",
+      "releaseDate": "2024-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/1UW9jStKoDpcKqD7BBXKBc",
+      "isFallback": true
     }
   ]
 }

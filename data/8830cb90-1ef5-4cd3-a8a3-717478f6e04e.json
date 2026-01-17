@@ -262,6 +262,15 @@
       "releaseDate": "2021-10-27",
       "spotifyUrl": "https://open.spotify.com/track/5gm3ROia1dHKL3yoE1rpYe",
       "isFallback": true
+    },
+    {
+      "id": "b52cbc59-3bbe-4ea1-8107-5f9696fc6b99",
+      "title": "Anthem time",
+      "artist": "櫻坂46",
+      "isrc": "JPU902302248",
+      "releaseDate": "2023-06-28",
+      "spotifyUrl": "https://open.spotify.com/track/5NAhakYBfDrnPwclaAqKQT",
+      "isFallback": true
     }
   ]
 }

@@ -64,6 +64,15 @@
       "releaseDate": "2016-03-09",
       "spotifyUrl": "https://open.spotify.com/track/2WcNQKf0Q0hlgAbW0qKPsK",
       "isFallback": true
+    },
+    {
+      "id": "174012a7-6e6a-4df5-990e-2e443a10d668",
+      "title": "それが愛なのね",
+      "artist": "櫻坂46",
+      "isrc": "JPU902100642",
+      "releaseDate": "2021-04-14",
+      "spotifyUrl": "https://open.spotify.com/track/0sb3pBIh5uLEWCleeeSuzn",
+      "isFallback": true
     }
   ]
 }

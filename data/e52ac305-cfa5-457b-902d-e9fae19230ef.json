@@ -244,6 +244,15 @@
       "releaseDate": "2025-10-25",
       "spotifyUrl": "https://open.spotify.com/track/4PaSYxvuWBnvomuQRoAT6H",
       "isFallback": false
+    },
+    {
+      "id": "0f5ba374-5029-43ad-94f4-e04c32e12c2c",
+      "title": "ぜったいてきしんじゃ！",
+      "artist": "いれいす",
+      "isrc": "JPPO02502100",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/0tcoIShLAzbseVgiPVxWdr",
+      "isFallback": true
     }
   ]
 }

@@ -1180,6 +1180,15 @@
       "releaseDate": "2019-07-01",
       "spotifyUrl": "https://open.spotify.com/track/6n82QNGxWNZvIHvWdDH8HT",
       "isFallback": true
+    },
+    {
+      "id": "831f11a8-7465-4ff4-84c2-fba9ef9133e2",
+      "title": "星降るフェアリーテイル",
+      "artist": "いれいす",
+      "isrc": "JPVI02304889",
+      "releaseDate": "2024-01-10",
+      "spotifyUrl": "https://open.spotify.com/track/7eg11Fb5NXA2MxEdBw9HXg",
+      "isFallback": true
     }
   ]
 }

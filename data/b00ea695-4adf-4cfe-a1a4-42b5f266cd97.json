@@ -1363,6 +1363,15 @@
       "releaseDate": "2016-04-16",
       "spotifyUrl": "https://open.spotify.com/track/3YkKNQftcZR1fXTUsABjTR",
       "isFallback": true
+    },
+    {
+      "id": "d5f740a8-4682-4fe2-8dfe-6749cad0c3e9",
+      "title": "Never & Roll",
+      "artist": "いれいす",
+      "isrc": "JP92N2344353",
+      "releaseDate": "2024-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/28FCWwLI4WRBXjmLzGkobz",
+      "isFallback": true
     }
   ]
 }

@@ -370,6 +370,15 @@
       "releaseDate": "2019-06-19",
       "spotifyUrl": "https://open.spotify.com/track/46qy6WyBMYXvV22djNwKeK",
       "isFallback": true
+    },
+    {
+      "id": "3654a99b-2baf-4e9e-9a49-ccedf69d4bdb",
+      "title": "Show Stopper",
+      "artist": "夜空メル",
+      "isrc": "JPV752206594",
+      "releaseDate": "2022-10-31",
+      "spotifyUrl": "https://open.spotify.com/track/2GRPSsONRoDIhzVdzd2P2b",
+      "isFallback": true
     }
   ]
 }

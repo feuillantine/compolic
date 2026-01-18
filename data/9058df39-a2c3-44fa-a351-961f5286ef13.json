@@ -724,6 +724,24 @@
       "releaseDate": "2017-12-13",
       "spotifyUrl": "https://open.spotify.com/track/5ljSibnOFDbxF10CSucnGl",
       "isFallback": true
+    },
+    {
+      "id": "93eae0f2-d767-4bae-9ff1-ce081daf965b",
+      "title": "Twinkle Starlight",
+      "artist": "いれいす",
+      "isrc": "JP92N2425472",
+      "releaseDate": "2024-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/04lqb0dkXngeC5UwkgNZ74",
+      "isFallback": true
+    },
+    {
+      "id": "f2a03e2f-6261-4922-819a-fc1f3bd6e175",
+      "title": "パステルステップデイズ",
+      "artist": "ひまり",
+      "isrc": "JPT552500563",
+      "releaseDate": "2025-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/78JEqCXn83FDvWeV0xK9L4",
+      "isFallback": true
     }
   ]
 }

@@ -928,6 +928,15 @@
       "releaseDate": "2026-01-14",
       "spotifyUrl": "https://open.spotify.com/track/1Xw1BDs2IYRf8k5J5fhKty",
       "isFallback": false
+    },
+    {
+      "id": "39674edb-3a0c-45b0-b4a7-b1b121d65614",
+      "title": "キミとルララ",
+      "artist": "キュアアイドル",
+      "isrc": "JPD602500248",
+      "releaseDate": "2025-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/22ATNviQs5vT7bf5sQLzZ4",
+      "isFallback": true
     }
   ]
 }

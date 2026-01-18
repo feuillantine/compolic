@@ -1405,6 +1405,42 @@
       "releaseDate": "2025-09-03",
       "spotifyUrl": "https://open.spotify.com/track/0C8sRyhq1RXAY8EEgThPDD",
       "isFallback": true
+    },
+    {
+      "id": "d9625eed-c60e-41f5-997f-906c00b9766a",
+      "title": "Rap-unzel",
+      "artist": "いれいす",
+      "isrc": "JP92N2401462",
+      "releaseDate": "2024-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/31d9x2B1tUawzojS8mHvLn",
+      "isFallback": true
+    },
+    {
+      "id": "9a87fcb1-3dfe-4407-a803-61829868f53e",
+      "title": "CiRCUS",
+      "artist": "いれいす",
+      "isrc": "JP92N2508164",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/2ikLZTGEDM7G5VfMrQkBZK",
+      "isFallback": true
+    },
+    {
+      "id": "ac5ab631-62eb-4735-a315-1e67437ba376",
+      "title": "世界はそれでも進んでいく",
+      "artist": "いれいす",
+      "isrc": "JP92N2425479",
+      "releaseDate": "2024-06-12",
+      "spotifyUrl": "https://open.spotify.com/track/73TvrKOE8fLfEHl3sTf45R",
+      "isFallback": true
+    },
+    {
+      "id": "0c7d5c17-3e35-4af6-bc86-6f156794708b",
+      "title": "無敵スマイル宣言！",
+      "artist": "いれいす",
+      "isrc": "JP92N2401466",
+      "releaseDate": "2024-01-12",
+      "spotifyUrl": "https://open.spotify.com/track/14P1kYQfyJTI5HuDujYc0Q",
+      "isFallback": true
     }
   ]
 }

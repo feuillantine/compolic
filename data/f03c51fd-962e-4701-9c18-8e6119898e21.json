@@ -199,6 +199,15 @@
       "releaseDate": "2025-05-22",
       "spotifyUrl": "https://open.spotify.com/track/0kHTY7CdfDxxDxm7SuivcL",
       "isFallback": true
+    },
+    {
+      "id": "7004d3ab-af46-4df7-8284-a4b262869451",
+      "title": "bestie",
+      "artist": "すたぽら",
+      "isrc": "JPPO02500521",
+      "releaseDate": "2025-03-19",
+      "spotifyUrl": "https://open.spotify.com/track/1S6EbdQNC7UJVFBxiwsIxC",
+      "isFallback": true
     }
   ]
 }

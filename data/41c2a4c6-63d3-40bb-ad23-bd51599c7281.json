@@ -433,6 +433,15 @@
       "releaseDate": "2025-02-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "291f9112-70fb-42d3-b8a8-feaa5e39f9e9",
+      "title": "ピコピコ音頭",
+      "artist": "UniChØrd",
+      "isrc": "JPR562300339",
+      "releaseDate": "2023-10-11",
+      "spotifyUrl": "https://open.spotify.com/track/6BoIv0xVmN7fRRs3MtzOsg",
+      "isFallback": true
     }
   ]
 }

@@ -235,6 +235,24 @@
       "releaseDate": "2019-04-24",
       "spotifyUrl": "https://open.spotify.com/track/5v5z1Waq3A4KaDXabohcGV",
       "isFallback": true
+    },
+    {
+      "id": "b935248b-748d-4e98-bb0f-80a9bae0c3b9",
+      "title": "標識",
+      "artist": "櫻坂46",
+      "isrc": "JPU902401865",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/06GWafyNCTLg1m1raapIBK",
+      "isFallback": true
+    },
+    {
+      "id": "91b93d82-ce4f-4b5c-a921-0277ac8f6249",
+      "title": "恋は向いてない",
+      "artist": "櫻坂46",
+      "isrc": "JPU902400277",
+      "releaseDate": "2024-02-21",
+      "spotifyUrl": "https://open.spotify.com/track/44sj7vChwZRYQ0Oz9AFyP2",
+      "isFallback": true
     }
   ]
 }

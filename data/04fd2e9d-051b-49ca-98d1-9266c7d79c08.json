@@ -1063,6 +1063,15 @@
       "releaseDate": "2014-04-09",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f63a7831-40c9-48c0-8060-ea0da2537377",
+      "title": "出航",
+      "artist": "STU48",
+      "isrc": "JPKI01910331",
+      "releaseDate": "2019-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/6toHbX8ivQMvCWuivjlGvX",
+      "isFallback": true
     }
   ]
 }

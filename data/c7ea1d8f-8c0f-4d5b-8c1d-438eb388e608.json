@@ -847,6 +847,15 @@
       "releaseDate": "2019-05-08",
       "spotifyUrl": "https://open.spotify.com/track/4P0PPV1sSVqEyi6xVGJHqX",
       "isFallback": true
+    },
+    {
+      "id": "00dfb612-625b-4241-a27a-20f02a0d9773",
+      "title": "僕たちはシンドバッドだ",
+      "artist": "STU48",
+      "isrc": "JPKI01810048",
+      "releaseDate": "2018-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/7zRs2zwy156w7L4C8XdUrj",
+      "isFallback": true
     }
   ]
 }

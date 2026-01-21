@@ -253,6 +253,15 @@
       "releaseDate": "2024-02-21",
       "spotifyUrl": "https://open.spotify.com/track/44sj7vChwZRYQ0Oz9AFyP2",
       "isFallback": true
+    },
+    {
+      "id": "a33646ba-8573-40e0-a28f-8767df88cd6e",
+      "title": "Be honest",
+      "artist": "STU48",
+      "isrc": "JPKI02415631",
+      "releaseDate": "2025-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/2eu8dQzusUINAYe8Tnt5L5",
+      "isFallback": true
     }
   ]
 }

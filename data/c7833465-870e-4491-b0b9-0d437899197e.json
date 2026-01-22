@@ -1418,6 +1418,15 @@
       "releaseDate": "2025-09-17",
       "spotifyUrl": "https://open.spotify.com/track/7ocvLBnvfC49G36jQYI1IJ",
       "isFallback": true
+    },
+    {
+      "id": "3932178b-b6b2-4bdf-b0cd-0a97a83e5b32",
+      "title": "えっえっえっ♡",
+      "artist": "あおぎり高校",
+      "isrc": "JPKI02519140",
+      "releaseDate": "2026-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/5SgE2aoKSdUe23kw64WFCK",
+      "isFallback": false
     }
   ]
 }

@@ -460,6 +460,15 @@
       "releaseDate": "2015-11-04",
       "spotifyUrl": "https://open.spotify.com/track/3sYIhSyik3xryBaccjd4r0",
       "isFallback": true
+    },
+    {
+      "id": "6d10f1b6-44f7-4c88-b377-bdfe7b214e96",
+      "title": "カオスですがなにか？",
+      "artist": "あおぎり高校",
+      "isrc": "JPKI02519161",
+      "releaseDate": "2026-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/2IYJeP4Jtvct14AuP8ryR1",
+      "isFallback": false
     }
   ]
 }

@@ -163,6 +163,15 @@
       "releaseDate": "2025-03-27",
       "spotifyUrl": "https://open.spotify.com/track/1xQ7a29eh00biRauJDdCuh",
       "isFallback": true
+    },
+    {
+      "id": "ef856069-b663-415b-be79-6ef7ea5766d0",
+      "title": "コピペパペット",
+      "artist": "あおぎり高校",
+      "isrc": "JPKI02519160",
+      "releaseDate": "2026-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/4E8xMFYEceWpDmj3ztTHGd",
+      "isFallback": false
     }
   ]
 }

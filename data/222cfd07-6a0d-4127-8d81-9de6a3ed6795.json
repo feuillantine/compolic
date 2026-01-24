@@ -451,6 +451,33 @@
       "releaseDate": "2009-08-26",
       "spotifyUrl": "https://open.spotify.com/track/40hs25fy23i58EUs83U5rN",
       "isFallback": true
+    },
+    {
+      "id": "3a1a3657-432a-4111-b60e-8d0b58c87aac",
+      "title": "It’s Summer!!",
+      "artist": "飯塚雅弓",
+      "isrc": "JPI101201252",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/72wkGXRwt6fa8Z3gStCbw1",
+      "isFallback": true
+    },
+    {
+      "id": "20f6c7e5-7a5e-4aa4-816f-1acacbe56da5",
+      "title": "君の笑顔は僕の宝物",
+      "artist": "飯塚雅弓",
+      "isrc": "JPI101201250",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/5WlUdNZHyTssETF33lHYSw",
+      "isFallback": true
+    },
+    {
+      "id": "285141fc-9b82-41fa-adb9-564c93a503c8",
+      "title": "みんなで",
+      "artist": "飯塚雅弓",
+      "isrc": "JPI101201253",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/6PQrLGivAmB0XnS06BhSPZ",
+      "isFallback": true
     }
   ]
 }

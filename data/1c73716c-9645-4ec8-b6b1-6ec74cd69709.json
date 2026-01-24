@@ -37,6 +37,15 @@
       "releaseDate": "2024-01-31",
       "spotifyUrl": "https://open.spotify.com/track/65NJxK0BnrzcxHVOBEkyZN",
       "isFallback": false
+    },
+    {
+      "id": "a81024ea-9897-46c2-92b9-c37b99b463ac",
+      "title": "melt bitter",
+      "artist": "さとうもか",
+      "isrc": "QZHZ51917755",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi",
+      "isFallback": true
     }
   ]
 }

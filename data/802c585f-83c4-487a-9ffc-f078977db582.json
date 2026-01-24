@@ -307,6 +307,294 @@
       "releaseDate": "2008-12-17",
       "spotifyUrl": "https://open.spotify.com/track/2Z84omWivRxGobpu9G9q6A",
       "isFallback": true
+    },
+    {
+      "id": "25c3f922-259e-4433-a84a-87e78c5a9117",
+      "title": "赤い靴のカウボーイ",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00611290",
+      "releaseDate": "2006-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/7kIOnQmkOX2pIWBYvlidT9",
+      "isFallback": true
+    },
+    {
+      "id": "dac990ad-f22b-483e-8e61-52c985558542",
+      "title": "バレンタイン大作戦",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8a78600b-9f31-4d8c-beb1-080894a70456",
+      "title": "約束の午後",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00200830",
+      "releaseDate": "2002-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "939295d0-b50a-4063-b744-5e73ea0dd26c",
+      "title": "おはようとシャンプー",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2005-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba9daed0-0fc7-46ff-8e82-8ca7fcbfea8b",
+      "title": "Power To Power",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00406450",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9bf28656-82eb-4ed5-b0f9-5417e5a754ef",
+      "title": "Love Knot",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "88264476-68ae-471f-b3a7-99951386404c",
+      "title": "Polaris",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a9a68fe3-ccba-4ef9-b18a-3bdd8d71b69e",
+      "title": "TRUST‐君と歩く未来‐",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK01104410",
+      "releaseDate": "2012-07-18",
+      "spotifyUrl": "https://open.spotify.com/track/6plKk7OZnNl4lk0t1lkz3W",
+      "isFallback": true
+    },
+    {
+      "id": "1e2c033c-3c06-4079-9d41-2ddb8aa3a9ea",
+      "title": "Always...Forever...",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e429e714-266d-4938-93cf-d7a73500ae15",
+      "title": "Starry Night",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b6d58a2b-99a5-43ec-b4fb-1a78539a8927",
+      "title": "Twinkle Wink",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2005-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3486ef8d-18ee-432b-855f-368957315a96",
+      "title": "ドライブしようよ!",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00301960",
+      "releaseDate": "2003-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dd25de23-90c9-434d-bf29-9604c0adeef0",
+      "title": "チョコレートコスモス",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4c60cd99-26a7-46ca-bdec-9d02d8df647a",
+      "title": "明日晴れたなら",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "566e60b0-a1d3-4e24-9fbc-cb95d736d3b6",
+      "title": "Baby, dance with me♪",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00709370",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "40f2464d-7707-447d-92c4-8798cb3d6515",
+      "title": "I'm in the Pink",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00406400",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "851b6c09-4182-4f9f-9613-afa79063f0d7",
+      "title": "デュエットでラララ",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00204080",
+      "releaseDate": "2002-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "67558c70-51be-4a8f-b9d6-fbaafe26a3d1",
+      "title": "そよ風とカフェオレ",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00104310",
+      "releaseDate": "2001-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59b78f4e-fa15-410f-9b7c-07c5528ccd3b",
+      "title": "君だけを･･",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0076c0f5-2c37-430d-bd45-e798ec7b2ef6",
+      "title": "23 degrees",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "551d23a6-fe66-49b7-a0c2-65e1c2329aa9",
+      "title": "いつもの帰り道",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09950420",
+      "releaseDate": "1999-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b7f42b57-38e4-46d1-aec1-65ac3a472d69",
+      "title": "23℃ Story",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6e0e47a4-7beb-448a-8c3f-20df9a77c913",
+      "title": "くもりのちはれ",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00104270",
+      "releaseDate": "2001-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a51a403b-64b4-4df3-afcf-9df6639cae3f",
+      "title": "チャンス!!",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2005-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6c4dbf50-ed54-46b8-a545-d2dd27f69752",
+      "title": "ミルフィーユ",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00709430",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8d1dbc5-ca06-4943-92c9-b7a58ee660b2",
+      "title": "メープルの空",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2005-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2f87fcd0-0c0f-4d06-b939-84ef5a7d457b",
+      "title": "「またね。」",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00306540",
+      "releaseDate": "2004-02-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0a90cf07-fa29-4531-a1d6-87328c126ce5",
+      "title": "あなたがいれば",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00104290",
+      "releaseDate": "2001-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "851e687e-f088-4563-a661-d61322fbe3a2",
+      "title": "カレー日和",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00406460",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1268a00f-d667-40b9-aad0-e598cfabec04",
+      "title": "小さな私から",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00104340",
+      "releaseDate": "2005-07-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5be037ea-2d1a-4cab-aee2-efa431837649",
+      "title": "初めての1ページ",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "284f0aa6-bcb3-4d95-a2c2-0f7d4230ccca",
+      "title": "風のKiss",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805770",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -775,6 +775,339 @@
       "releaseDate": "1995-08-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3c89a82c-d088-4f6a-8dce-eb6c553ae37b",
+      "title": "Strawberry Fantasy",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00406430",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "277fcc7b-3e0a-4f81-b6f7-01a91cbac993",
+      "title": "Babyblue",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "77b98b95-63b1-494a-9dc2-4ae4a5753367",
+      "title": "Shining Shining",
+      "artist": "飯塚雅弓",
+      "isrc": "JPI101301735",
+      "releaseDate": "2013-08-28",
+      "spotifyUrl": "https://open.spotify.com/track/4D5ppLUexOMfQWmzsC15e2",
+      "isFallback": true
+    },
+    {
+      "id": "8f465e26-8393-4838-a90d-c70588dede09",
+      "title": "あいのはな",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2005-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9d759cae-96b5-48c6-b81b-c6dd22d14279",
+      "title": "For you",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI00052980",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/13l773YyrJViaDCIktVilw",
+      "isFallback": true
+    },
+    {
+      "id": "605575fa-d1a3-448d-89bc-7b740c73cdc6",
+      "title": "Capri blue☆friend",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00709420",
+      "releaseDate": "2007-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6b5d5529-138f-4854-974a-c080429c5b73",
+      "title": "Strawberry Candle",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d04d7890-b11d-4412-8a2c-616c81e22def",
+      "title": "グッピー",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805790",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eec441f3-75d0-466f-b40d-a484bc6d649e",
+      "title": "Ladybird",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805780",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fb0ea4b-afd6-4db3-81ff-dcc030bcd9fa",
+      "title": "Introduction for you(インストゥルメンタル)",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI00052890",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/6jgK3yTdCv84kcf0wv2xd2",
+      "isFallback": true
+    },
+    {
+      "id": "2f0c32b9-ba70-414e-bcf3-9576b8381040",
+      "title": "センチメンタル",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d777eda5-3d99-4c65-aad3-2bb4914da917",
+      "title": "レモンパイ",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82617ddb-7f3e-4f77-8a04-8a578efb320b",
+      "title": "君へ続くストーリー",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "2008-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9256354c-ebd8-43d0-a94a-d5732a0b1dc0",
+      "title": "DESTINY",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09803810",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/4RKx4xO63lOAjtKZzHrazt",
+      "isFallback": true
+    },
+    {
+      "id": "5adb2966-470d-40d6-8b0b-768a40c9b9ff",
+      "title": "DESTINY",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09803810",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "https://open.spotify.com/track/4RKx4xO63lOAjtKZzHrazt",
+      "isFallback": true
+    },
+    {
+      "id": "c4bfe73a-0572-41a1-89ee-d5270f842de8",
+      "title": "一緒に歌おうよ",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "01cce3d8-056b-420c-9393-f111a4fd6545",
+      "title": "ブルーのストーリー",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09704350",
+      "releaseDate": "1997-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/5bYwmOeagUMQ3saqM20ZUa",
+      "isFallback": true
+    },
+    {
+      "id": "7daa0910-b5e1-48fb-8457-70a077c0bfc1",
+      "title": "Your Song",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00611320",
+      "releaseDate": "2006-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/5G9lW8vSm8LUlEdxhHEnuH",
+      "isFallback": true
+    },
+    {
+      "id": "d48bb723-298a-446c-977d-4d0d0347393f",
+      "title": "ストロベリーキャンドル",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09803730",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "https://open.spotify.com/track/5j2pcjLt6O93rSnOh6lO6T",
+      "isFallback": true
+    },
+    {
+      "id": "274f2ad1-ab2f-435a-8ee4-3371510c1b16",
+      "title": "LET’S!!",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI00052960",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/0FTT97iLisZ8LWhZQXVTnJ",
+      "isFallback": true
+    },
+    {
+      "id": "c30d971e-76b1-4a3f-a381-cdd14c82a760",
+      "title": "Strawberry Candle~Prologue~",
+      "artist": "飯塚雅弓",
+      "isrc": "",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b851509-4bc4-45fe-8d68-5f1751117f27",
+      "title": "am←→pm",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09950440",
+      "releaseDate": "1999-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "17192b2d-3cd9-40f4-80b1-382ea7d6c9bb",
+      "title": "優しい約束〜TO MY FRIEND〜",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI00052910",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/6g334uxtN4REjx9QUx189T",
+      "isFallback": true
+    },
+    {
+      "id": "c24cc823-f2c3-4572-a327-e2b95a577ecb",
+      "title": "ロマンチックだね",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09704300",
+      "releaseDate": "1997-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/4OQgWcQacAVgpiJfJzOrBk",
+      "isFallback": true
+    },
+    {
+      "id": "92fcdbe1-c336-40bc-89a7-9d9ef13ae9c5",
+      "title": "ミントと口笛",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09803720",
+      "releaseDate": "1998-09-23",
+      "spotifyUrl": "https://open.spotify.com/track/5weVgIdIRMjEmh7sXRl6XA",
+      "isFallback": true
+    },
+    {
+      "id": "bebe1486-42af-41b6-b97e-4fa962009997",
+      "title": "2004年のdiary",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00406490",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d613adec-a3db-49ef-9725-2898651f112e",
+      "title": "Shooting Star",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00200840",
+      "releaseDate": "2002-04-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d78d2ecf-fe57-4639-9edf-d730458d2f49",
+      "title": "It's a beautiful day〜永遠に続く日々〜",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09950470",
+      "releaseDate": "2004-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/0aLkCJLHc6yBH71fRHfeFP",
+      "isFallback": true
+    },
+    {
+      "id": "bb6c6572-01dc-498f-9dfd-608f54ed5abf",
+      "title": "My happy day",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI00052900",
+      "releaseDate": "2000-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/7uNw9ZseB7ZjGAOFkyZjMi",
+      "isFallback": true
+    },
+    {
+      "id": "be5ea376-f6fb-4480-bc69-5bb46cc18ec1",
+      "title": "Welcome to the Strawberry Candle",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805750",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09233ebb-3a9d-44f7-b846-d805ad397f74",
+      "title": "Dream",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00302010",
+      "releaseDate": "2003-07-24",
+      "spotifyUrl": "https://open.spotify.com/track/22rwjS0nXfAbNjP38l1DRi",
+      "isFallback": true
+    },
+    {
+      "id": "4bf84ee7-972a-4786-9631-f4da79ed78c1",
+      "title": "もしも……",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805760",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d99894ed-7de1-41ad-bb74-c10f4357be68",
+      "title": "X’mas time Hold me tight",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09805800",
+      "releaseDate": "1998-12-11",
+      "spotifyUrl": "https://open.spotify.com/track/0lFGeuohL1UEfNHCMET46h",
+      "isFallback": true
+    },
+    {
+      "id": "bb3df360-a65d-4f59-bed7-d2c1ba7fdd70",
+      "title": "SOMEDAY",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09950400",
+      "releaseDate": "1999-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f86101eb-9c92-4242-bb74-f93d682c6091",
+      "title": "A Place in the Sun～陽のあたる場所～",
+      "artist": "飯塚雅弓",
+      "isrc": "JPTK00104330",
+      "releaseDate": "2001-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e8884789-419c-4180-ab87-cea4faa256b7",
+      "title": "がんばって！",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09950450",
+      "releaseDate": "1999-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "84bf25f7-5f9e-44e9-9bfe-e771e3352ee7",
+      "title": "完ペキなスマイル",
+      "artist": "飯塚雅弓",
+      "isrc": "JPPI09704260",
+      "releaseDate": "1997-08-27",
+      "spotifyUrl": "https://open.spotify.com/track/2XGCnOfeUIyjY7xLd7tEtK",
+      "isFallback": true
     }
   ]
 }

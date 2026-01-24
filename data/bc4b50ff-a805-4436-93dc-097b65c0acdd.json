@@ -1723,6 +1723,60 @@
       "releaseDate": "2020-03-18",
       "spotifyUrl": "https://open.spotify.com/track/3dTIrXYsvpqo4f3eVt9SCc",
       "isFallback": true
+    },
+    {
+      "id": "5fb6bebd-2881-418c-9edc-53b0a01a3e8a",
+      "title": "Tokyo stuck",
+      "artist": "CYNHN",
+      "isrc": "JPTE02405800",
+      "releaseDate": "2024-11-27",
+      "spotifyUrl": "https://open.spotify.com/track/1gJs2JkFnhgfsgxBSWNao3",
+      "isFallback": true
+    },
+    {
+      "id": "c6fa9760-35d6-4918-adba-a01eec480ea8",
+      "title": "Push the Trunk",
+      "artist": "岬なこ",
+      "isrc": "JPI102503118",
+      "releaseDate": "2026-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/0n0ffxiHn53KJMmzMNu9l2",
+      "isFallback": true
+    },
+    {
+      "id": "8774af3b-72b8-4cd2-b5d0-e38777158131",
+      "title": "いいおくり",
+      "artist": "CYNHN",
+      "isrc": "JPTE02401150",
+      "releaseDate": "2024-04-17",
+      "spotifyUrl": "https://open.spotify.com/track/6YUVnPoVD1MCzEkYVnc3pF",
+      "isFallback": true
+    },
+    {
+      "id": "28e4de59-5ec8-4445-b780-fa65be19e794",
+      "title": "もうだいじょうぶ",
+      "artist": "CYNHN",
+      "isrc": "JPTE02504220",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/3lChJSlJaj35hXoVn7Kbp9",
+      "isFallback": true
+    },
+    {
+      "id": "ce9cca97-91cc-4069-9b10-a5660e4e2a98",
+      "title": "息のしかた",
+      "artist": "CYNHN",
+      "isrc": "JPTE02406090",
+      "releaseDate": "2025-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/4DuPXl2nf3gKPSRTz1TAgU",
+      "isFallback": false
+    },
+    {
+      "id": "19f416df-059b-4c9a-aba1-f8247b96b1a3",
+      "title": "ノミニー",
+      "artist": "CYNHN",
+      "isrc": "JPTE02405990",
+      "releaseDate": "2025-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/6rM1d8kYhxovzw4IRYnmoo",
+      "isFallback": true
     }
   ]
 }

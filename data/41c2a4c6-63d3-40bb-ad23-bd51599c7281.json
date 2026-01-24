@@ -442,6 +442,15 @@
       "releaseDate": "2023-10-11",
       "spotifyUrl": "https://open.spotify.com/track/6BoIv0xVmN7fRRs3MtzOsg",
       "isFallback": true
+    },
+    {
+      "id": "02c97ebc-15af-4ed1-9871-b614f97d9ed2",
+      "title": "Pink Twinkle Wink",
+      "artist": "立花日菜",
+      "isrc": "JPPC02512298",
+      "releaseDate": "2025-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/5sXrnJnCVzs5LNae69Y5vh",
+      "isFallback": true
     }
   ]
 }

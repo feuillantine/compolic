@@ -1747,6 +1747,15 @@
       "releaseDate": "2011-06-01",
       "spotifyUrl": "https://open.spotify.com/track/0YLbs281zySf5AKmLaJzfK",
       "isFallback": true
+    },
+    {
+      "id": "b877443c-907a-4670-b853-7c8fb071a2aa",
+      "title": "Cross over",
+      "artist": "岬なこ",
+      "isrc": "JPI102503548",
+      "releaseDate": "2026-01-14",
+      "spotifyUrl": "https://open.spotify.com/track/1Fb8Nm3EOreoA1s8S3lW7W",
+      "isFallback": true
     }
   ]
 }

@@ -289,6 +289,33 @@
       "releaseDate": "2023-03-14",
       "spotifyUrl": "https://open.spotify.com/track/7E0dZHzOZ166XR1vQbTR7X",
       "isFallback": false
+    },
+    {
+      "id": "9c9ae7d9-4264-4634-992d-14ba44922163",
+      "title": "バカになって好きって言うだけ",
+      "artist": "#ババババンビ",
+      "isrc": "JPB602197963",
+      "releaseDate": "2021-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/72BfE2wWprokg57RXvloUR",
+      "isFallback": false
+    },
+    {
+      "id": "d6cc5c2d-0043-4db0-88b1-668707dbbd87",
+      "title": "やりなおしデート",
+      "artist": "#ババババンビ",
+      "isrc": "JPKI02414220",
+      "releaseDate": "2024-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/4GKHmHfPCelReHvmFY4lX9",
+      "isFallback": false
+    },
+    {
+      "id": "7e88a571-9a52-4885-af0d-e763a6688372",
+      "title": "パーティ!",
+      "artist": "#ババババンビ",
+      "isrc": "JP92N2265806",
+      "releaseDate": "2022-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/3bQ3ejhmHPVFIakXSJc7yt",
+      "isFallback": false
     }
   ]
 }

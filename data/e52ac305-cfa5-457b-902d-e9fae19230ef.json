@@ -253,6 +253,60 @@
       "releaseDate": "2025-07-23",
       "spotifyUrl": "https://open.spotify.com/track/0tcoIShLAzbseVgiPVxWdr",
       "isFallback": true
+    },
+    {
+      "id": "afb519cb-7217-464c-9491-b1d89ef502e4",
+      "title": "フォーチュンラッシュ",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02402550",
+      "releaseDate": "2024-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/7avLkH8jL9vyGDsTOdRlAI",
+      "isFallback": true
+    },
+    {
+      "id": "696ede5d-e6c7-4530-b313-05061d342c90",
+      "title": "沼落ちスパーリング",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02505050",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/0lzVgtMHtVRf5o3ba9NtK7",
+      "isFallback": false
+    },
+    {
+      "id": "440feb9f-737e-4a62-b0ab-9874b8af7b8b",
+      "title": "フィルタリングバニー",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02306280",
+      "releaseDate": "2024-01-05",
+      "spotifyUrl": "https://open.spotify.com/track/0Czkb5JJTQTIdf661MGEhY",
+      "isFallback": true
+    },
+    {
+      "id": "63d44681-6a6c-4977-9ca6-49cda4215698",
+      "title": "がーりっちゅ",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02402700",
+      "releaseDate": "2024-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/0WKayfG3r1CZwDBy719fcr",
+      "isFallback": true
+    },
+    {
+      "id": "758acf72-2d6d-42d1-bcab-1f5f601b76c1",
+      "title": "コズミック祭大革命",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02306240",
+      "releaseDate": "2024-01-05",
+      "spotifyUrl": "https://open.spotify.com/track/0nd6XzUo5y07BfoZ98G3Oy",
+      "isFallback": true
+    },
+    {
+      "id": "c2ce5554-b4e3-4b3a-9876-b10efeba9097",
+      "title": "千客万来！フロアモンスター",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02505070",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/6vfBb5WYoO7ib2yBRpQR6B",
+      "isFallback": false
     }
   ]
 }

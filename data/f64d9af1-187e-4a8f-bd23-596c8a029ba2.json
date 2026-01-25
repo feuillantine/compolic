@@ -127,6 +127,15 @@
       "releaseDate": "2022-08-17",
       "spotifyUrl": "https://open.spotify.com/track/2fQwlEVwX3yJtcOICHQPm2",
       "isFallback": true
+    },
+    {
+      "id": "5c1930cd-4171-4bc7-9586-c8635eace149",
+      "title": "Oli Oli サマー！",
+      "artist": "#ババババンビ",
+      "isrc": "JPV752510909",
+      "releaseDate": "2025-09-24",
+      "spotifyUrl": "https://open.spotify.com/track/7jfrVeQk7Cl6uYyW49EXjl",
+      "isFallback": true
     }
   ]
 }

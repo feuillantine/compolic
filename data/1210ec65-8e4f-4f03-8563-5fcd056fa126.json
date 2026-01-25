@@ -424,6 +424,15 @@
       "releaseDate": "2015-03-04",
       "spotifyUrl": "https://open.spotify.com/track/70PUMjbhEqxjR8ugHsCbal",
       "isFallback": true
+    },
+    {
+      "id": "a7ea2109-07c8-4284-9813-0ca6b8548950",
+      "title": "フルーツパラソル",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02505080",
+      "releaseDate": "2025-11-19",
+      "spotifyUrl": "https://open.spotify.com/track/0hhKmNQQMoSXdhzvwlGEWv",
+      "isFallback": false
     }
   ]
 }

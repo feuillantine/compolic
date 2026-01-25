@@ -181,6 +181,24 @@
       "releaseDate": "2023-08-13",
       "spotifyUrl": "https://open.spotify.com/track/19O5pN01sdK0y4XBMMJZ8h",
       "isFallback": false
+    },
+    {
+      "id": "cd812b2a-ca5b-411f-8e0b-336e537c037c",
+      "title": "最先端フォーミュラー",
+      "artist": "Jams Collection",
+      "isrc": "JPTK02102760",
+      "releaseDate": "2021-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/0yrFseycBXcKlwfiWbFSoV",
+      "isFallback": true
+    },
+    {
+      "id": "805553b9-9b24-4caf-a752-c2ea05365e36",
+      "title": "NEW ERA PUNCH!!",
+      "artist": "Jams Collection",
+      "isrc": "JPTK02102829",
+      "releaseDate": "2021-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/5HYB5I6DdIt33FIAlQ7nTb",
+      "isFallback": true
     }
   ]
 }

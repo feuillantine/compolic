@@ -1012,6 +1012,24 @@
       "releaseDate": "2021-04-07",
       "spotifyUrl": "https://open.spotify.com/track/2VvG1i6YBrNt6UoG60ZUfr",
       "isFallback": true
+    },
+    {
+      "id": "6a631848-7130-4447-b379-46abb2c87e4c",
+      "title": "お嫁♡HOLIC",
+      "artist": "Nerissa Ravencroft",
+      "isrc": "JPA3C2500023",
+      "releaseDate": "2026-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/2Oiyc0mE8Bs3mSjCod5A58",
+      "isFallback": false
+    },
+    {
+      "id": "27b41cc9-09a1-45e0-bd19-f0ba92e794cb",
+      "title": "OYOME♡HOLIC",
+      "artist": "Nerissa Ravencroft",
+      "isrc": "JPA3C2500024",
+      "releaseDate": "2026-01-24",
+      "spotifyUrl": "https://open.spotify.com/track/3MBjqAdEuje2RHa1cpoX0T",
+      "isFallback": false
     }
   ]
 }

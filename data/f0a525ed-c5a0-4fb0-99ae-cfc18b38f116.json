@@ -1804,6 +1804,15 @@
       "releaseDate": "2025-09-17",
       "spotifyUrl": "https://open.spotify.com/track/6ZMQHoZDvoXJ6G65m2MAXO",
       "isFallback": true
+    },
+    {
+      "id": "4aad0a4d-d9f0-48bd-a3c8-75e02c8779ad",
+      "title": "新世紀ヒットパレード",
+      "artist": "Appare!",
+      "isrc": "TCJPE2592931",
+      "releaseDate": "2025-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3gDAzvLJjL4LxpJpap69Ek",
+      "isFallback": false
     }
   ]
 }

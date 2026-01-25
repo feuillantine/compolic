@@ -1372,6 +1372,15 @@
       "releaseDate": "2024-01-12",
       "spotifyUrl": "https://open.spotify.com/track/28FCWwLI4WRBXjmLzGkobz",
       "isFallback": true
+    },
+    {
+      "id": "fe58a328-a184-4f13-a7d9-eaaa7b1fdf71",
+      "title": "青いフレア",
+      "artist": "Appare!",
+      "isrc": "TCJPT2204521",
+      "releaseDate": "2022-09-20",
+      "spotifyUrl": "https://open.spotify.com/track/1Yowm8zF2EtrDKQTjeq9yl",
+      "isFallback": false
     }
   ]
 }

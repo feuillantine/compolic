@@ -1072,6 +1072,15 @@
       "releaseDate": "2023-08-13",
       "spotifyUrl": "https://open.spotify.com/track/5DE4J6HxbOKjuKTMzn8hlt",
       "isFallback": false
+    },
+    {
+      "id": "499b4c9f-a929-474e-9339-7cb3d0f2d599",
+      "title": "サマサマサマーはアゲアゲで!",
+      "artist": "Jams Collection",
+      "isrc": "JPTK02102800",
+      "releaseDate": "2021-07-26",
+      "spotifyUrl": "https://open.spotify.com/track/2lcFPAk6WcqehenoyEOHMS",
+      "isFallback": true
     }
   ]
 }

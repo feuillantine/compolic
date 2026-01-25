@@ -319,6 +319,15 @@
       "releaseDate": "2021-12-08",
       "spotifyUrl": "https://open.spotify.com/track/2dru3MLvxB1PsbeQ13TXhl",
       "isFallback": true
+    },
+    {
+      "id": "9b579165-030f-4ecf-aa1a-acab70c4f67c",
+      "title": "大人への近道",
+      "artist": "乃木坂46",
+      "isrc": "JPU901502979",
+      "releaseDate": "2015-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/3VMZAipjYqCQBuLUAB0DbR",
+      "isFallback": true
     }
   ]
 }

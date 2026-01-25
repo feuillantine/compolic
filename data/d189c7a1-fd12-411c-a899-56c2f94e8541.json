@@ -661,6 +661,15 @@
       "releaseDate": "2025-10-31",
       "spotifyUrl": "https://open.spotify.com/track/38hbnIehHdoZ89Mubo3Hfi",
       "isFallback": false
+    },
+    {
+      "id": "329170fb-2eab-45ce-8cd9-1a2bf03dc011",
+      "title": "キョカキャッカー",
+      "artist": "FES☆TIVE",
+      "isrc": "JPTK02402570",
+      "releaseDate": "2024-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/0jlHJ02SezwuJyztKv4XBW",
+      "isFallback": true
     }
   ]
 }

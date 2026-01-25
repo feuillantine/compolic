@@ -361,6 +361,24 @@
       "releaseDate": "2017-02-15",
       "spotifyUrl": "https://open.spotify.com/track/4fYeKl0z2V0rCRayJd8L4a",
       "isFallback": true
+    },
+    {
+      "id": "9a5cdf98-07af-49a7-ba81-528ebb4b4eba",
+      "title": "シンフォニア",
+      "artist": "Appare!",
+      "isrc": "TCJPE2592927",
+      "releaseDate": "2025-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3ERwtK0VXUxjTIyo0cZBmr",
+      "isFallback": false
+    },
+    {
+      "id": "fe6355ee-8176-4742-a231-14fa00818ef3",
+      "title": "アガレ！",
+      "artist": "Appare!",
+      "isrc": "TCJPT2204505",
+      "releaseDate": "2022-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/0zY1qqefwh16GS5sFKQWFa",
+      "isFallback": false
     }
   ]
 }

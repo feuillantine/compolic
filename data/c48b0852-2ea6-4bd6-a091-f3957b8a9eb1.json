@@ -1108,6 +1108,15 @@
       "releaseDate": "1997-08-27",
       "spotifyUrl": "https://open.spotify.com/track/2XGCnOfeUIyjY7xLd7tEtK",
       "isFallback": true
+    },
+    {
+      "id": "aa2b7674-200b-49f9-a2a5-b818b5a539b2",
+      "title": "「三國志VII」戦略・春宵",
+      "artist": "神奈川フィルハーモニー管弦楽団",
+      "isrc": "",
+      "releaseDate": "2017-02-16",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -55,6 +55,15 @@
       "releaseDate": "2024-03-19",
       "spotifyUrl": "https://open.spotify.com/track/1UW9jStKoDpcKqD7BBXKBc",
       "isFallback": true
+    },
+    {
+      "id": "2438212e-3e6d-4e68-9ce3-9a2a846d506a",
+      "title": "ボクスケッチ",
+      "artist": "紫之 創",
+      "isrc": "JPD642300292",
+      "releaseDate": "2023-08-23",
+      "spotifyUrl": "https://open.spotify.com/track/3z6NGw5ClVhHsaqZmIRhMW",
+      "isFallback": true
     }
   ]
 }

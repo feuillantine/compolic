@@ -145,6 +145,15 @@
       "releaseDate": "2018-08-17",
       "spotifyUrl": "https://open.spotify.com/track/1qa59iSx7wpBh97mZ1juU5",
       "isFallback": true
+    },
+    {
+      "id": "dc61a56e-10bc-47c8-a278-355b4fb5a774",
+      "title": "Inside Out",
+      "artist": "ⅢX",
+      "isrc": "JPX402500218",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/1Bcyn9BHkKwELMNNiBnvla",
+      "isFallback": true
     }
   ]
 }

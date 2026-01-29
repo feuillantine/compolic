@@ -604,6 +604,15 @@
       "releaseDate": "2025-11-28",
       "spotifyUrl": "https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf",
       "isFallback": false
+    },
+    {
+      "id": "3e31cac3-a17d-4079-9543-6e7185f6fcaa",
+      "title": "みちなるひろがる",
+      "artist": "初星学園",
+      "isrc": "JPX832501065",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/31sJqtDRiWtZboNN7aStba",
+      "isFallback": true
     }
   ]
 }

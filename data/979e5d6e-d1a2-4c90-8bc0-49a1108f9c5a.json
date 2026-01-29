@@ -64,6 +64,24 @@
       "releaseDate": "2023-08-23",
       "spotifyUrl": "https://open.spotify.com/track/3z6NGw5ClVhHsaqZmIRhMW",
       "isFallback": true
+    },
+    {
+      "id": "ba215985-d197-4e52-a3d1-f5b412a309c1",
+      "title": "私がチョコです♡",
+      "artist": "超ときめき♡宣伝部",
+      "isrc": "JPB602600367",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/6cxsOhLVL52lJtHVTmtVWy",
+      "isFallback": true
+    },
+    {
+      "id": "1cccb021-46a7-4d51-990c-6ddc27b712df",
+      "title": "きみがいいな、あなたがいいな",
+      "artist": "ONE LOVE ONE HEART",
+      "isrc": "JPB602600273",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/2ToEVRZbwxvBVK6WbREwtx",
+      "isFallback": true
     }
   ]
 }

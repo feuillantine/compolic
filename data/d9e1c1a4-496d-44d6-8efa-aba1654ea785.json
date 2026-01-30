@@ -517,6 +517,15 @@
       "releaseDate": "2023-08-13",
       "spotifyUrl": "https://open.spotify.com/track/1FMrVsJMPHUvBcUpSwQdCi",
       "isFallback": false
+    },
+    {
+      "id": "1ddb3fa3-6111-484e-8e0f-e99b0dacf83e",
+      "title": "たびだちのうた",
+      "artist": "烏屋茶房",
+      "isrc": "JP92Q2600143",
+      "releaseDate": "2026-01-29",
+      "spotifyUrl": "https://open.spotify.com/track/7szhYsCx1lqZ7p3mCqqGYq",
+      "isFallback": false
     }
   ]
 }

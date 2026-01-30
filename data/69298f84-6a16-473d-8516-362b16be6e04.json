@@ -1441,6 +1441,15 @@
       "releaseDate": "2024-01-12",
       "spotifyUrl": "https://open.spotify.com/track/14P1kYQfyJTI5HuDujYc0Q",
       "isFallback": true
+    },
+    {
+      "id": "87ef76ee-8967-4a5f-acec-00321a69fd8f",
+      "title": "Delight Excursion",
+      "artist": "DRAMATIC STARS",
+      "isrc": "JPI102402589",
+      "releaseDate": "2024-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/5cxeeBpvWEHxFohMhuh6Jf",
+      "isFallback": true
     }
   ]
 }

@@ -811,6 +811,15 @@
       "releaseDate": "2022-04-27",
       "spotifyUrl": "https://open.spotify.com/track/3NAQWRKumw2NRvl5cTK8sD",
       "isFallback": true
+    },
+    {
+      "id": "6d351e59-3939-4819-93a9-a80a076d92b5",
+      "title": "継炎",
+      "artist": "MEMESIA",
+      "isrc": "TCJPL2567967",
+      "releaseDate": "2025-09-06",
+      "spotifyUrl": "https://open.spotify.com/track/0jxEMB45Bz7SCosZeIn3xP",
+      "isFallback": true
     }
   ]
 }

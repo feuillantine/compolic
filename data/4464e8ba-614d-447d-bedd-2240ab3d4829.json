@@ -352,6 +352,15 @@
       "releaseDate": "2025-12-24",
       "spotifyUrl": "https://open.spotify.com/track/6UTdS7y0wqnx6u36mDptLb",
       "isFallback": true
+    },
+    {
+      "id": "90a80752-51b0-4b9e-8eeb-546d17db0ce7",
+      "title": "きっと、いまが青春。",
+      "artist": "RE-GE",
+      "isrc": "JPI102503676",
+      "releaseDate": "2026-01-31",
+      "spotifyUrl": "https://open.spotify.com/track/4Dd98O6Mtg6KE53ACwLwQk",
+      "isFallback": true
     }
   ]
 }

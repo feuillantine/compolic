@@ -820,6 +820,15 @@
       "releaseDate": "2025-09-06",
       "spotifyUrl": "https://open.spotify.com/track/0jxEMB45Bz7SCosZeIn3xP",
       "isFallback": true
+    },
+    {
+      "id": "62dfe033-0a1b-48bf-8d11-eb96c6c7f492",
+      "title": "サイコサイコーサイコ",
+      "artist": "空",
+      "isrc": "JPD732401801",
+      "releaseDate": "2014",
+      "spotifyUrl": "https://open.spotify.com/track/3OZGzS9PFpjmz7a0vgJAT0",
+      "isFallback": true
     }
   ]
 }

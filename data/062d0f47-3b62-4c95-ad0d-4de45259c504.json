@@ -397,6 +397,15 @@
       "releaseDate": "2016-04-20",
       "spotifyUrl": "https://open.spotify.com/track/52JKnuscteiBO6ZuXl9umX",
       "isFallback": true
+    },
+    {
+      "id": "ddef4e7f-b4e3-46ba-882f-e74f1816432b",
+      "title": "ラブ・ミー・モア",
+      "artist": "フィロソフィーのダンス",
+      "isrc": "JPU902500576",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l",
+      "isFallback": true
     }
   ]
 }

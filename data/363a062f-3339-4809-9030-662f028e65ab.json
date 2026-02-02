@@ -604,6 +604,15 @@
       "releaseDate": "2013-01-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3e1c7691-9c14-42b8-b505-e321cf64907d",
+      "title": "GARANDO",
+      "artist": "鈴木このみ",
+      "isrc": "JPD732401803",
+      "releaseDate": "2026-01-30",
+      "spotifyUrl": "https://open.spotify.com/track/0mNRjCbp9w7hZ8HJdPTM18",
+      "isFallback": true
     }
   ]
 }

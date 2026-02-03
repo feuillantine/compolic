@@ -856,6 +856,15 @@
       "releaseDate": "2018-01-31",
       "spotifyUrl": "https://open.spotify.com/track/7zRs2zwy156w7L4C8XdUrj",
       "isFallback": true
+    },
+    {
+      "id": "271e4091-ad7a-42eb-986f-758143ec25c7",
+      "title": "ほんとちね！",
+      "artist": "RAViDAVi",
+      "isrc": "QT66K2552352",
+      "releaseDate": "2025-10-20",
+      "spotifyUrl": "https://open.spotify.com/track/3XjIFrlrqFeEbB9GTUiFhP",
+      "isFallback": false
     }
   ]
 }

@@ -725,6 +725,15 @@
       "releaseDate": "2025-03-26",
       "spotifyUrl": "https://open.spotify.com/track/6rQyAQaTUSq3OxchmqX3id",
       "isFallback": true
+    },
+    {
+      "id": "542a640c-9b4d-4b50-a8dc-5c277eae2deb",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町",
+      "isrc": "JPD732300592",
+      "releaseDate": "2023-07-05",
+      "spotifyUrl": "https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0",
+      "isFallback": false
     }
   ]
 }

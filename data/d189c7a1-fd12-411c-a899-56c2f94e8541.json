@@ -670,6 +670,15 @@
       "releaseDate": "2024-07-09",
       "spotifyUrl": "https://open.spotify.com/track/0jlHJ02SezwuJyztKv4XBW",
       "isFallback": true
+    },
+    {
+      "id": "903c62f3-f15d-45d6-a935-59f6e13baeb4",
+      "title": "金属BAD",
+      "artist": "RAViDAVi",
+      "isrc": "TCJPJ2510538",
+      "releaseDate": "2025-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/2x16l0abcYFtOFhP4SlRSS",
+      "isFallback": false
     }
   ]
 }

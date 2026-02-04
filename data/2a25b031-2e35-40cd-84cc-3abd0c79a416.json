@@ -19,6 +19,15 @@
       "releaseDate": "2023-08-02",
       "spotifyUrl": "https://open.spotify.com/track/4PhisoynSqh9QMBMwFICTA",
       "isFallback": false
+    },
+    {
+      "id": "4bdac6c9-aa71-4b2c-8b1a-6d1260e7353c",
+      "title": "Inner Peace",
+      "artist": "Chara",
+      "isrc": "JPZ922011612",
+      "releaseDate": "2020-12-15",
+      "spotifyUrl": "https://open.spotify.com/track/6EnvErKbMzyL8liEPKHQI2",
+      "isFallback": true
     }
   ]
 }

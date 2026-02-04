@@ -307,6 +307,33 @@
       "releaseDate": "2025-11-19",
       "spotifyUrl": "https://open.spotify.com/track/6vfBb5WYoO7ib2yBRpQR6B",
       "isFallback": false
+    },
+    {
+      "id": "94c18b5d-f4d5-4229-abaa-1f0d84f9dc08",
+      "title": "シェアラブ",
+      "artist": "君に、胸キュン。",
+      "isrc": "TCJPA2465324",
+      "releaseDate": "2024-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/3Cx6kqnPRfzDLxVp77HCJQ",
+      "isFallback": true
+    },
+    {
+      "id": "ba727cf4-391b-4528-bbab-57dff1910dce",
+      "title": "はなまるアニマル",
+      "artist": "君に、胸キュン。",
+      "isrc": "TCJPC2414859",
+      "releaseDate": "2024-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/39BK4HdqIsuNOeTbaCM7K4",
+      "isFallback": true
+    },
+    {
+      "id": "96178a3b-01c0-46d4-941c-881339b01805",
+      "title": "ちゅちゅ♡なちゅ",
+      "artist": "君に、胸キュン。",
+      "isrc": "TCJPL2564148",
+      "releaseDate": "2025-08-29",
+      "spotifyUrl": "https://open.spotify.com/track/1jbteMCKQcsxaEwYTfrAtU",
+      "isFallback": true
     }
   ]
 }

@@ -199,6 +199,24 @@
       "releaseDate": "2025-10-29",
       "spotifyUrl": "https://open.spotify.com/track/1FwzaKwLBZCfCamPM5GV4K",
       "isFallback": false
+    },
+    {
+      "id": "eec7bf2e-fd0a-492d-be57-09715b6e1360",
+      "title": "私を照らす一等星",
+      "artist": "君に、胸キュン。",
+      "isrc": "TCJPC2414808",
+      "releaseDate": "2024-11-10",
+      "spotifyUrl": "https://open.spotify.com/track/1QcjTeCoUWbUppFrA61vjC",
+      "isFallback": true
+    },
+    {
+      "id": "d70b3caa-fd2a-4160-b963-247d9ac695d0",
+      "title": "サマバガール",
+      "artist": "君に、胸キュン。",
+      "isrc": "TCJPY2314550",
+      "releaseDate": "2023-11-18",
+      "spotifyUrl": "https://open.spotify.com/track/3VmcX8BFNVe2M8amKiQ8Y6",
+      "isFallback": true
     }
   ]
 }

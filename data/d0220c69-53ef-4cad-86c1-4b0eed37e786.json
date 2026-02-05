@@ -712,6 +712,15 @@
       "releaseDate": "2025-11-13",
       "spotifyUrl": "https://open.spotify.com/track/7nfIJQbZ5aw6IIfO5NuYmv",
       "isFallback": true
+    },
+    {
+      "id": "ca42abac-7b82-4ca8-94b8-6094fd267450",
+      "title": "ライブはきねんび",
+      "artist": "石井あみ",
+      "isrc": "JPD602500507",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

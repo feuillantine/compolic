@@ -82,6 +82,24 @@
       "releaseDate": "2021-02-17",
       "spotifyUrl": "https://open.spotify.com/track/3T0USrEysa8HBK409EeeF6",
       "isFallback": true
+    },
+    {
+      "id": "61a63ed4-24ac-4c41-861e-f7b13d4d0d2a",
+      "title": "バカバカバカバカバカ",
+      "artist": "ブルーなままで",
+      "isrc": "TCJPV2385268",
+      "releaseDate": "2023-05-01",
+      "spotifyUrl": "https://open.spotify.com/track/2G09jyDfHuShCtRKz3dykz",
+      "isFallback": true
+    },
+    {
+      "id": "26d1b582-128c-48da-bee3-a13d33a60b23",
+      "title": "愛しき世界",
+      "artist": "ブルーなままで",
+      "isrc": "TCJPD2419607",
+      "releaseDate": "2024-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/3oBhSDUzbf54e3yDgvck11",
+      "isFallback": true
     }
   ]
 }

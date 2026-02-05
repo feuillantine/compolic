@@ -1081,6 +1081,15 @@
       "releaseDate": "2021-07-26",
       "spotifyUrl": "https://open.spotify.com/track/2lcFPAk6WcqehenoyEOHMS",
       "isFallback": true
+    },
+    {
+      "id": "6adf59cd-105b-4a29-9a8e-29644b4540c3",
+      "title": "トロピカル陽キャSummer!!!",
+      "artist": "ミラクルファンファーレ！",
+      "isrc": "TCJPX2337167",
+      "releaseDate": "2023-09-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

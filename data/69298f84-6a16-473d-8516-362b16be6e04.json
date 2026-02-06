@@ -1450,6 +1450,15 @@
       "releaseDate": "2024-10-30",
       "spotifyUrl": "https://open.spotify.com/track/5cxeeBpvWEHxFohMhuh6Jf",
       "isFallback": true
+    },
+    {
+      "id": "4529c226-10b5-4374-83a8-ac460eb3aeb2",
+      "title": "出囃子ジャポニズム",
+      "artist": "儒烏風亭らでん",
+      "isrc": "JPA3C2600021",
+      "releaseDate": "2026-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/6Hx4925pDj3T2C3ksqXNFP",
+      "isFallback": false
     }
   ]
 }

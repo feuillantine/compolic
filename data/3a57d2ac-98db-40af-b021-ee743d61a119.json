@@ -937,6 +937,15 @@
       "releaseDate": "2025-08-27",
       "spotifyUrl": "https://open.spotify.com/track/22ATNviQs5vT7bf5sQLzZ4",
       "isFallback": true
+    },
+    {
+      "id": "a63aaeb5-46b3-4371-b5b4-cb4b2eab8b5b",
+      "title": "キミとシンガリボン",
+      "artist": "キュアアイドル",
+      "isrc": "JPD602500603",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/1bji5TAaqvz3Q0fgCIH9bq",
+      "isFallback": true
     }
   ]
 }

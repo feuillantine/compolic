@@ -865,6 +865,15 @@
       "releaseDate": "2025-10-20",
       "spotifyUrl": "https://open.spotify.com/track/3XjIFrlrqFeEbB9GTUiFhP",
       "isFallback": false
+    },
+    {
+      "id": "a9418d2b-7325-4f10-b182-60439947eebf",
+      "title": "全部、",
+      "artist": "手羽先センセーション",
+      "isrc": "QT66J2649662",
+      "releaseDate": "2026-01-21",
+      "spotifyUrl": "https://open.spotify.com/track/1sMlt7x9zT1pqjSfzOYr80",
+      "isFallback": true
     }
   ]
 }

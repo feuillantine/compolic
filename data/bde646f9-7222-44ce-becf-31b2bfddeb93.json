@@ -100,6 +100,15 @@
       "releaseDate": "2008-08-20",
       "spotifyUrl": "https://open.spotify.com/track/17J2aQFZuepjjhDDc5mAUs",
       "isFallback": true
+    },
+    {
+      "id": "453f3982-949e-4d86-ad06-ec79b9a637e2",
+      "title": "星空ハヤトチリ",
+      "artist": "うちやえゆか",
+      "isrc": "JPPC00800927",
+      "releaseDate": "2008-07-16",
+      "spotifyUrl": "https://open.spotify.com/track/4mZFvkaEBxO7ED2FBc3bm8",
+      "isFallback": true
     }
   ]
 }

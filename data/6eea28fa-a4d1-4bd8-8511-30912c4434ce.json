@@ -379,6 +379,42 @@
       "releaseDate": "2024-03-19",
       "spotifyUrl": "https://open.spotify.com/track/2q3dbmu5XYz6zRpY6IIEm7",
       "isFallback": true
+    },
+    {
+      "id": "d78b10a5-1c43-4c7c-9ddf-bdd04024b1f8",
+      "title": "ゴーハ第7小学校校歌",
+      "artist": "遊我",
+      "isrc": "JPD602000240",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/1FHNdUDcdNJ4XOdMPIy6lA",
+      "isFallback": true
+    },
+    {
+      "id": "843cd9a0-e056-4dc3-aa85-cb91906f455d",
+      "title": "自習",
+      "artist": "佐伯ユウスケ",
+      "isrc": "JPD602000236",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/1BVmxeHPtvHUbGQ9Yk4Wwp",
+      "isFallback": true
+    },
+    {
+      "id": "4bef8fea-5343-4c3a-9459-3ed4a32d0b7a",
+      "title": "ナナナナナナナ",
+      "artist": "佐伯ユウスケ",
+      "isrc": "JPD602000235",
+      "releaseDate": "2020-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/1nGpsjyx5QQNPaeqv32nV2",
+      "isFallback": true
+    },
+    {
+      "id": "9bd1fa6f-928e-4878-9cfd-aa0a265dbdb5",
+      "title": "One Way",
+      "artist": "佐伯ユウスケ",
+      "isrc": "JPD602200327",
+      "releaseDate": "2022-09-07",
+      "spotifyUrl": "https://open.spotify.com/track/2uUaCjS3m0puXRCelkM0tz",
+      "isFallback": true
     }
   ]
 }

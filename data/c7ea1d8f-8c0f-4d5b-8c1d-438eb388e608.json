@@ -874,6 +874,15 @@
       "releaseDate": "2026-01-21",
       "spotifyUrl": "https://open.spotify.com/track/1sMlt7x9zT1pqjSfzOYr80",
       "isFallback": true
+    },
+    {
+      "id": "b2082733-c4dd-48b9-b5ee-2cabd363b9e9",
+      "title": "かわいいだけじゃだめですか？",
+      "artist": "CUTIE STREET",
+      "isrc": "JPR842400133",
+      "releaseDate": "2024-09-09",
+      "spotifyUrl": "https://open.spotify.com/track/6njCYAgcQgHAmbN7VChcrI",
+      "isFallback": true
     }
   ]
 }

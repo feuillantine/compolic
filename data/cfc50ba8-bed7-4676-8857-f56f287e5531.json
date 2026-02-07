@@ -883,6 +883,15 @@
       "releaseDate": "2016-06-01",
       "spotifyUrl": "https://open.spotify.com/track/2tnBPx2rDX1fmRt9i5wYMn",
       "isFallback": true
+    },
+    {
+      "id": "6f6f6bae-7bdd-40ce-a23b-120471e14bdc",
+      "title": "Heart Collection",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01500364",
+      "releaseDate": "2015-02-25",
+      "spotifyUrl": "https://open.spotify.com/track/7JxMsD11kmDuLSevkFWjpp",
+      "isFallback": true
     }
   ]
 }

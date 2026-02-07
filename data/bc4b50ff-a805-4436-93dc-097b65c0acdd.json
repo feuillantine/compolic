@@ -1777,6 +1777,15 @@
       "releaseDate": "2025-01-01",
       "spotifyUrl": "https://open.spotify.com/track/6rM1d8kYhxovzw4IRYnmoo",
       "isFallback": true
+    },
+    {
+      "id": "4a9b4948-44ea-4d54-8da9-a3b564c76e50",
+      "title": "Traveling Kit",
+      "artist": "三森すずこ",
+      "isrc": "JPPC01500755",
+      "releaseDate": "2015-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/5fOImyZURJQtWWSb8wL88e",
+      "isFallback": true
     }
   ]
 }

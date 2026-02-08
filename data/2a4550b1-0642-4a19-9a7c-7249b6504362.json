@@ -379,6 +379,15 @@
       "releaseDate": "2022-09-22",
       "spotifyUrl": "https://open.spotify.com/track/0zY1qqefwh16GS5sFKQWFa",
       "isFallback": false
+    },
+    {
+      "id": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
+      "title": "好きすぎて滅！",
+      "artist": "M!LK",
+      "isrc": "JPVI02502804",
+      "releaseDate": "2025-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli",
+      "isFallback": true
     }
   ]
 }

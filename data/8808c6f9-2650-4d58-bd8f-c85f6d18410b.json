@@ -1000,6 +1000,15 @@
       "releaseDate": "2026-01-07",
       "spotifyUrl": "https://open.spotify.com/track/7l2kQPBtOykALPSxFUKBR1",
       "isFallback": true
+    },
+    {
+      "id": "90b61de0-0102-40d7-a65a-dfa69b3aa90b",
+      "title": "輝夜",
+      "artist": "如月千早",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -388,6 +388,15 @@
       "releaseDate": "2025-10-27",
       "spotifyUrl": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli",
       "isFallback": true
+    },
+    {
+      "id": "d3965b15-6346-4723-8dde-30fe9592a0f3",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "isrc": "JPVI02503652",
+      "releaseDate": "2026-02-09",
+      "spotifyUrl": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh",
+      "isFallback": true
     }
   ]
 }

@@ -1324,6 +1324,15 @@
       "releaseDate": "2016-12-21",
       "spotifyUrl": "https://open.spotify.com/track/72vslOKuNgzTVFqHeX8FJ4",
       "isFallback": true
+    },
+    {
+      "id": "7506c066-e501-4836-a206-5d42fac82486",
+      "title": "Sparkle",
+      "artist": "愛美",
+      "isrc": "JPA652205811",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/2hzSpqc7veBkviMRhziipF",
+      "isFallback": true
     }
   ]
 }

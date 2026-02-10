@@ -1594,6 +1594,15 @@
       "releaseDate": "2009-06-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d2269732-6383-42a9-8263-07b6f7d3495b",
+      "title": "Stargazer",
+      "artist": "ASCA",
+      "isrc": "JPA652400001",
+      "releaseDate": "2024-06-14",
+      "spotifyUrl": "https://open.spotify.com/track/6iZMf3lFdCq5rE2zFxOIYP",
+      "isFallback": true
     }
   ]
 }

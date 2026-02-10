@@ -640,6 +640,15 @@
       "releaseDate": "2018-09-19",
       "spotifyUrl": "https://open.spotify.com/track/3YcqL9gyjNGKrMUExFlTj7",
       "isFallback": true
+    },
+    {
+      "id": "13463182-136d-403e-a638-42b50d66a7e0",
+      "title": "ポッピンパチェンス",
+      "artist": "アルシュトーン",
+      "isrc": "JPZ922508948",
+      "releaseDate": "2025-12-31",
+      "spotifyUrl": "https://open.spotify.com/track/7IOnToV8dCuSIH0FaOEObM",
+      "isFallback": true
     }
   ]
 }

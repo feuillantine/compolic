@@ -734,6 +734,15 @@
       "releaseDate": "2023-07-05",
       "spotifyUrl": "https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0",
       "isFallback": false
+    },
+    {
+      "id": "ba6e0a99-10e8-4509-b937-d4b5b63f973f",
+      "title": "Bのリベンジ",
+      "artist": "B小町",
+      "isrc": "JPD732501839",
+      "releaseDate": "2026-01-15",
+      "spotifyUrl": "https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho",
+      "isFallback": true
     }
   ]
 }

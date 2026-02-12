@@ -100,6 +100,15 @@
       "releaseDate": "2024-12-24",
       "spotifyUrl": "https://open.spotify.com/track/3oBhSDUzbf54e3yDgvck11",
       "isFallback": true
+    },
+    {
+      "id": "2d68eaf4-fd7c-4903-9b6f-61445f40088c",
+      "title": "日差しのアヴァンチュール",
+      "artist": "ブルーなままで",
+      "isrc": "TCJPD2418710",
+      "releaseDate": "2024-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/2aq9MwNMXjwXsoESJ2D3At",
+      "isFallback": true
     }
   ]
 }

@@ -154,6 +154,15 @@
       "releaseDate": "2018-08-11",
       "spotifyUrl": "https://open.spotify.com/track/0HmVniAce13uvXhIIZVpD0",
       "isFallback": true
+    },
+    {
+      "id": "c8261fa5-ba4d-463c-a25a-75b3c3588c7d",
+      "title": "ツキアカリ",
+      "artist": "大原櫻子",
+      "isrc": "JPVI01853020",
+      "releaseDate": "2018-06-27",
+      "spotifyUrl": "https://open.spotify.com/track/3WYfOFUjN5Ib8btitmrc9D",
+      "isFallback": true
     }
   ]
 }

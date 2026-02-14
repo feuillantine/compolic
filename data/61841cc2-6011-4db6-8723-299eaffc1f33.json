@@ -310,6 +310,15 @@
       "releaseDate": "2017-09-27",
       "spotifyUrl": "https://open.spotify.com/track/69IDn5HbFEazBLeoJSHhej",
       "isFallback": false
+    },
+    {
+      "id": "690a3012-0073-41b1-98ec-da395d8e15be",
+      "title": "エンドロールで待ってる",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252500067",
+      "releaseDate": "2025-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/5U1VXKbUwSrXXgzvLQHbBV",
+      "isFallback": true
     }
   ]
 }

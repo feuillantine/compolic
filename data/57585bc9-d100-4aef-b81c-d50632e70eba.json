@@ -1504,6 +1504,15 @@
       "releaseDate": "2018-12-05",
       "spotifyUrl": "https://open.spotify.com/track/3AkMebTgmIpgIO4YH4EkFi",
       "isFallback": true
+    },
+    {
+      "id": "dd9243e8-dc16-4325-9b88-a24e43bbd7a5",
+      "title": "さがしもの",
+      "artist": "reche",
+      "isrc": "JPVI02502634",
+      "releaseDate": "2025-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/1TRWdatN9xk04Wyu2edY9q",
+      "isFallback": true
     }
   ]
 }

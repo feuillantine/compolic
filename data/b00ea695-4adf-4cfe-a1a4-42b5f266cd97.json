@@ -1381,6 +1381,33 @@
       "releaseDate": "2022-09-20",
       "spotifyUrl": "https://open.spotify.com/track/1Yowm8zF2EtrDKQTjeq9yl",
       "isFallback": false
+    },
+    {
+      "id": "b00c8980-a10c-41c4-ab62-b7bbaa165a12",
+      "title": "オブリビオン",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252500074",
+      "releaseDate": "2025-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/1pYQLxKIp0ZFpCPbc7ok6E",
+      "isFallback": true
+    },
+    {
+      "id": "ab3a768a-3d3b-4919-86fe-8225ab5102f5",
+      "title": "魔法について",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252500066",
+      "releaseDate": "2025-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/2HfXlHvLF8LwoO2DTWMn7I",
+      "isFallback": true
+    },
+    {
+      "id": "39b559db-84ec-4dd9-b8fa-ee6d108c8db0",
+      "title": "声の旅",
+      "artist": "甲斐田晴",
+      "isrc": "JPY252500076",
+      "releaseDate": "2025-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/1rmO3HyNbMJP5QpNtTzVtC",
+      "isFallback": true
     }
   ]
 }

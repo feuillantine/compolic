@@ -145,6 +145,24 @@
       "releaseDate": "2021-06-30",
       "spotifyUrl": "https://open.spotify.com/track/3KbKgzb5ST5E8j6uJkMNEc",
       "isFallback": true
+    },
+    {
+      "id": "cbbb0ee5-4765-40ea-8b14-bc5442811a19",
+      "title": "It's a Show Time!",
+      "artist": "さきどり発進局",
+      "isrc": "JPP321700110",
+      "releaseDate": "2017-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/7HxIZfTZ30jMluhWfvoBRM",
+      "isFallback": true
+    },
+    {
+      "id": "3b59e2eb-d7dc-4f77-a930-688ea130bb53",
+      "title": "GIMME!! GIMME!!",
+      "artist": "Baby’z Breath",
+      "isrc": "JPZ742500203",
+      "releaseDate": "2025-07-08",
+      "spotifyUrl": "https://open.spotify.com/track/01YE8oM9YaJE78QaVSpn5o",
+      "isFallback": true
     }
   ]
 }

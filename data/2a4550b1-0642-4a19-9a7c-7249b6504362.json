@@ -397,6 +397,15 @@
       "releaseDate": "2026-02-09",
       "spotifyUrl": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh",
       "isFallback": true
+    },
+    {
+      "id": "b7640ef9-cb96-4df6-9f26-94cd3079f092",
+      "title": "仮免デスティニー",
+      "artist": "さきどり発進局",
+      "isrc": "JPR841800001",
+      "releaseDate": "2018-02-13",
+      "spotifyUrl": "https://open.spotify.com/track/0mdJSeTM2ueZcXoe0nmeuO",
+      "isFallback": true
     }
   ]
 }

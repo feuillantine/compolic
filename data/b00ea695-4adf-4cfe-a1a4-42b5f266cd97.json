@@ -1408,6 +1408,15 @@
       "releaseDate": "2025-06-13",
       "spotifyUrl": "https://open.spotify.com/track/1rmO3HyNbMJP5QpNtTzVtC",
       "isFallback": true
+    },
+    {
+      "id": "20d2a4b3-3f18-4ebc-9a93-2bd19beae8b8",
+      "title": "命運",
+      "artist": "reche",
+      "isrc": "JPZ922402861",
+      "releaseDate": "2024-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/64sIAflf5NGz0PmHlZz1M7",
+      "isFallback": true
     }
   ]
 }

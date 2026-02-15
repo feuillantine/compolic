@@ -163,6 +163,15 @@
       "releaseDate": "2014-03-12",
       "spotifyUrl": "https://open.spotify.com/track/1jCV3fr27prQi2kn0LekeA",
       "isFallback": true
+    },
+    {
+      "id": "bdfcb5bf-7967-4482-8632-97b8f0d4fa61",
+      "title": "ラブポットパイ",
+      "artist": "テンシメシ໒꒱",
+      "isrc": "QT66L2507731",
+      "releaseDate": "2025-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/0A5bJBLkww6ztZ4UESs6i0",
+      "isFallback": false
     }
   ]
 }

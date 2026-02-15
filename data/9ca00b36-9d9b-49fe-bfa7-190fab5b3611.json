@@ -649,6 +649,15 @@
       "releaseDate": "2025-12-31",
       "spotifyUrl": "https://open.spotify.com/track/7IOnToV8dCuSIH0FaOEObM",
       "isFallback": true
+    },
+    {
+      "id": "5f6b6120-8d85-408f-be95-9c2f2c834b08",
+      "title": "赤と青",
+      "artist": "四宮かぐや",
+      "isrc": "JPE302501982",
+      "releaseDate": "2026-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9",
+      "isFallback": true
     }
   ]
 }

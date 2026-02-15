@@ -460,6 +460,15 @@
       "releaseDate": "2023-07-16",
       "spotifyUrl": "https://open.spotify.com/track/3M38ZEZ48oQL0WdGYWyvdl",
       "isFallback": true
+    },
+    {
+      "id": "bdf76a07-28b4-4de5-bd2c-5bdae13b87a2",
+      "title": "martini",
+      "artist": "綺沙良",
+      "isrc": "JPY252600017",
+      "releaseDate": "2026-02-14",
+      "spotifyUrl": "https://open.spotify.com/track/4x5ql3RoaWnHZh5PSPCZos",
+      "isFallback": true
     }
   ]
 }

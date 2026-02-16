@@ -217,6 +217,33 @@
       "releaseDate": "2023-11-18",
       "spotifyUrl": "https://open.spotify.com/track/3VmcX8BFNVe2M8amKiQ8Y6",
       "isFallback": true
+    },
+    {
+      "id": "becde886-fb07-42d8-8617-282fc1a1cb77",
+      "title": "雨恋",
+      "artist": "il pleut",
+      "isrc": "TCJPB2488130",
+      "releaseDate": "2024-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/2sCdcD14ZlpKFszdNmjUjW",
+      "isFallback": true
+    },
+    {
+      "id": "64bcc99c-8814-4207-9995-36c09ba3d984",
+      "title": "アンサンブル",
+      "artist": "il pleut",
+      "isrc": "TCJPB2488109",
+      "releaseDate": "2024-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/3BbDicuyrZ4JiBXxlnMyGj",
+      "isFallback": true
+    },
+    {
+      "id": "8af10b07-4954-48ef-a914-b547dd15f6f3",
+      "title": "magic number",
+      "artist": "il pleut",
+      "isrc": "TCJPB2488111",
+      "releaseDate": "2024-09-26",
+      "spotifyUrl": "https://open.spotify.com/track/0M5pTwbUZ7rvqCFlKPS78C",
+      "isFallback": true
     }
   ]
 }

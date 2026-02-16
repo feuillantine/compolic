@@ -1459,6 +1459,15 @@
       "releaseDate": "2026-02-05",
       "spotifyUrl": "https://open.spotify.com/track/6Hx4925pDj3T2C3ksqXNFP",
       "isFallback": false
+    },
+    {
+      "id": "0e7d4616-5bd2-410f-a5c1-0f14762abd05",
+      "title": "P・R・I・M・A",
+      "artist": "Mixstgirls",
+      "isrc": "JP92E2500849",
+      "releaseDate": "2025-06-23",
+      "spotifyUrl": "https://open.spotify.com/track/6gAH30EwQ4UgzZE9ktX5qC",
+      "isFallback": true
     }
   ]
 }

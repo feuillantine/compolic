@@ -334,6 +334,15 @@
       "releaseDate": "2025-08-29",
       "spotifyUrl": "https://open.spotify.com/track/1jbteMCKQcsxaEwYTfrAtU",
       "isFallback": true
+    },
+    {
+      "id": "f492a148-d8f7-4a16-b793-bce0c94c2926",
+      "title": "初恋大戦争",
+      "artist": "癒月ちょこ",
+      "isrc": "JPA3C2600025",
+      "releaseDate": "2026-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/0ZITcLvx2Ex4K4nlgE6xBh",
+      "isFallback": false
     }
   ]
 }

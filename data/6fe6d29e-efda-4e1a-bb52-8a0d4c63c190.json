@@ -406,6 +406,15 @@
       "releaseDate": "2019-10-02",
       "spotifyUrl": "https://open.spotify.com/track/3Bm86aXIehfgWltYkgtUtE",
       "isFallback": true
+    },
+    {
+      "id": "5e62a122-8b80-4869-b157-d764ce4bfe4a",
+      "title": "クマトナデシコ",
+      "artist": "くりかまき",
+      "isrc": "JPZ921313760",
+      "releaseDate": "2014-03-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

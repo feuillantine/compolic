@@ -172,6 +172,15 @@
       "releaseDate": "2025-04-30",
       "spotifyUrl": "https://open.spotify.com/track/528rbXlQPvoVffQ3i6B0G4",
       "isFallback": true
+    },
+    {
+      "id": "dac8286e-c1ea-4b6b-8fad-d310a5691399",
+      "title": "Ridin' on Dreams",
+      "artist": "hololive IDOL PROJECT",
+      "isrc": "JPA3C2600044",
+      "releaseDate": "2026-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/1IMmcJlv9tq9e59HklkzCh",
+      "isFallback": false
     }
   ]
 }

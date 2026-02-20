@@ -1417,6 +1417,15 @@
       "releaseDate": "2024-04-12",
       "spotifyUrl": "https://open.spotify.com/track/64sIAflf5NGz0PmHlZz1M7",
       "isFallback": true
+    },
+    {
+      "id": "a479b7d0-b297-4525-949a-83fcca429d9f",
+      "title": "愛 make CRAZY world",
+      "artist": "月夜に唄え",
+      "isrc": "JPPC02411415",
+      "releaseDate": "2024-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/5ZWjkHnE4ZX0he8AMl61Yp",
+      "isFallback": true
     }
   ]
 }

@@ -1603,6 +1603,15 @@
       "releaseDate": "2024-06-14",
       "spotifyUrl": "https://open.spotify.com/track/6iZMf3lFdCq5rE2zFxOIYP",
       "isFallback": true
+    },
+    {
+      "id": "9a094b85-ec2a-4843-9f9e-453571ba2e2e",
+      "title": "ピコたるもの、ふぃーばー!",
+      "artist": "香澄",
+      "isrc": "JPR562100284",
+      "releaseDate": "2021-10-08",
+      "spotifyUrl": "https://open.spotify.com/track/2UYJEpYzvQcAQyYwqqYgzK",
+      "isFallback": true
     }
   ]
 }

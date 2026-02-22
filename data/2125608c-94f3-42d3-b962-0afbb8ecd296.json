@@ -328,6 +328,24 @@
       "releaseDate": "2015-10-21",
       "spotifyUrl": "https://open.spotify.com/track/3VMZAipjYqCQBuLUAB0DbR",
       "isFallback": true
+    },
+    {
+      "id": "4d018017-a12d-4f0f-88cb-a9c49ec0bfbd",
+      "title": "Threefold choice",
+      "artist": "乃木坂46",
+      "isrc": "JPU901601303",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/4I8qxjt4tGgx8sOWVpP0RE",
+      "isFallback": true
+    },
+    {
+      "id": "770d4b53-3cf8-48d5-821f-18e637189af8",
+      "title": "制服を脱いでサヨナラを…",
+      "artist": "乃木坂46",
+      "isrc": "JPU901501945",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "https://open.spotify.com/track/7azGsAmxfXt1EoYIrdAtFH",
+      "isFallback": true
     }
   ]
 }

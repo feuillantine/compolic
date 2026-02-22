@@ -1786,6 +1786,42 @@
       "releaseDate": "2015-04-08",
       "spotifyUrl": "https://open.spotify.com/track/5fOImyZURJQtWWSb8wL88e",
       "isFallback": true
+    },
+    {
+      "id": "4134eeca-6e1b-4a4b-80af-f62679c9d663",
+      "title": "あたりまえのような奇跡",
+      "artist": "喜多修平",
+      "isrc": "JPI101100741",
+      "releaseDate": "2011-05-11",
+      "spotifyUrl": "https://open.spotify.com/track/4EEcWAc2iK6xPMC9fPj5fF",
+      "isFallback": true
+    },
+    {
+      "id": "a611c877-c490-473d-9cb3-5e825606f52c",
+      "title": "うらはら兎のねがいごと",
+      "artist": "田村ゆかり",
+      "isrc": "JPTE02302590",
+      "releaseDate": "2022-04-19",
+      "spotifyUrl": "https://open.spotify.com/track/7tc3SHIcYZvbk8sYNvL0Td",
+      "isFallback": true
+    },
+    {
+      "id": "78770830-0c21-4f2b-aade-03f0c8eaf99c",
+      "title": "Future+",
+      "artist": "SparQlew",
+      "isrc": "JPI102201727",
+      "releaseDate": "2022-07-27",
+      "spotifyUrl": "https://open.spotify.com/track/5v4bldaJIhgSmZLYFXwqCw",
+      "isFallback": true
+    },
+    {
+      "id": "76a39a91-dd9a-41df-9167-89c0de9d4774",
+      "title": "Chillっ子同盟",
+      "artist": "ロッカジャポニカ",
+      "isrc": "JPKI01716823",
+      "releaseDate": "2017-11-15",
+      "spotifyUrl": "https://open.spotify.com/track/3uZTj5COHz7HBW6GZxZvQc",
+      "isFallback": true
     }
   ]
 }

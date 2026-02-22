@@ -253,6 +253,15 @@
       "releaseDate": "2021-10-27",
       "spotifyUrl": "https://open.spotify.com/track/4OCjbSLOlF0pNn6bCRWkAj",
       "isFallback": true
+    },
+    {
+      "id": "d2afcb7c-a47e-469e-b447-b3a048c332a4",
+      "title": "SNS WORLD",
+      "artist": "HKT48",
+      "isrc": "JPPO02104361",
+      "releaseDate": "2021-12-01",
+      "spotifyUrl": "https://open.spotify.com/track/1E9KqSUYe1f9aZcJ4M9a7P",
+      "isFallback": true
     }
   ]
 }

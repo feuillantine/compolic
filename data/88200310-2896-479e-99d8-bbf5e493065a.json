@@ -271,6 +271,60 @@
       "releaseDate": "2013-08-13",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "71321c1c-7884-456a-9de9-a4666c861829",
+      "title": "ギュッとSTAR!!",
+      "artist": "Doll☆Elements",
+      "isrc": "",
+      "releaseDate": "2013-03-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5fc8d12f-b2ef-4853-844f-10a8917d8894",
+      "title": "憧憬のカノープス",
+      "artist": "Snow☆Feliz",
+      "isrc": "",
+      "releaseDate": "2022-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "541129a3-3d03-4b90-ac9b-6c57f1b21af1",
+      "title": "Grow Up!!",
+      "artist": "Ange☆Reve",
+      "isrc": "",
+      "releaseDate": "2015-02-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5f216c79-cae1-49de-acac-6a3663ae0fc1",
+      "title": "爆裂!疾走!恋セヨ乙女",
+      "artist": "Chu☆Oh!Dolly",
+      "isrc": "TCJPJ1994040",
+      "releaseDate": "2016-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4Sl64AYXfLJlLhJhG3rZSv",
+      "isFallback": true
+    },
+    {
+      "id": "6e6128ac-b8a4-4105-8881-f6b8898ec47c",
+      "title": "刹那ハレーション",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "JPPI01701800",
+      "releaseDate": "2014-09-30",
+      "spotifyUrl": "https://open.spotify.com/track/6T3ayIoZass1A3Dlcx1mLi",
+      "isFallback": true
+    },
+    {
+      "id": "1b9c2930-e33d-432e-ae51-fb15897b4233",
+      "title": "告白体操",
+      "artist": "Doll☆Elements",
+      "isrc": "",
+      "releaseDate": "2013-03-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

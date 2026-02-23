@@ -469,6 +469,15 @@
       "releaseDate": "2026-02-14",
       "spotifyUrl": "https://open.spotify.com/track/4x5ql3RoaWnHZh5PSPCZos",
       "isFallback": true
+    },
+    {
+      "id": "bdc1089e-15f1-4a19-80d2-8a5393a8f0b9",
+      "title": "恋色病棟",
+      "artist": "OSTER project",
+      "isrc": "JPA651000950",
+      "releaseDate": "2010-09-22",
+      "spotifyUrl": "https://open.spotify.com/track/2EuO8Jy2YcAGT1Q3LnJiQv",
+      "isFallback": true
     }
   ]
 }

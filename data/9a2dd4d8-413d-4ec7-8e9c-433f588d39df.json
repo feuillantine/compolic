@@ -310,6 +310,24 @@
       "releaseDate": "2022-11-16",
       "spotifyUrl": "https://open.spotify.com/track/1c75Ahm2Lbm78GW5bP0m4e",
       "isFallback": true
+    },
+    {
+      "id": "aa32faaf-262a-48f6-b5d3-a51bf63cbf3f",
+      "title": "素顔",
+      "artist": "Gran☆Ciel",
+      "isrc": "TCJPO2166863",
+      "releaseDate": "2021-05-25",
+      "spotifyUrl": "https://open.spotify.com/track/7hg2tiMkLgv9EL4wodv13w",
+      "isFallback": true
+    },
+    {
+      "id": "ea0c4024-137d-4b16-94e0-42884ed5b9c2",
+      "title": "感動ナミダ",
+      "artist": "Jewel☆Ciel",
+      "isrc": "TCJPL2004851",
+      "releaseDate": "2019-05-14",
+      "spotifyUrl": "https://open.spotify.com/track/1P7MDKyA0bQh0UAK9eYfqH",
+      "isFallback": true
     }
   ]
 }

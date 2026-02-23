@@ -1612,6 +1612,24 @@
       "releaseDate": "2021-10-08",
       "spotifyUrl": "https://open.spotify.com/track/2UYJEpYzvQcAQyYwqqYgzK",
       "isFallback": true
+    },
+    {
+      "id": "0fdf0932-410a-41de-8e7a-cfb46558513b",
+      "title": "One-Chance!!",
+      "artist": "藤田淳平",
+      "isrc": "",
+      "releaseDate": "2018-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2242cac1-60f4-4436-925c-021c2f79ade4",
+      "title": "It's show time",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2009-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

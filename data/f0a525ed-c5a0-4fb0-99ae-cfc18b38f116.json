@@ -1813,6 +1813,24 @@
       "releaseDate": "2025-03-18",
       "spotifyUrl": "https://open.spotify.com/track/3gDAzvLJjL4LxpJpap69Ek",
       "isFallback": false
+    },
+    {
+      "id": "9859a638-48c0-4ae9-a59d-84b0fe70c8f4",
+      "title": "Shape the Future (English ver.)",
+      "artist": "Nerissa Ravencroft",
+      "isrc": "QMFMG2566988",
+      "releaseDate": "2026-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/12AqHUFGOEyCAZSu6FNtUR",
+      "isFallback": false
+    },
+    {
+      "id": "35569fe8-aa91-46b6-8a37-f11a7304b966",
+      "title": "Shape the Future",
+      "artist": "町田ちま",
+      "isrc": "QMFMG2559219",
+      "releaseDate": "2025-12-13",
+      "spotifyUrl": "https://open.spotify.com/track/2J9YdxW1m1yDtxF6srjB1F",
+      "isFallback": true
     }
   ]
 }

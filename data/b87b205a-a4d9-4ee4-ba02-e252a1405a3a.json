@@ -496,6 +496,15 @@
       "releaseDate": "2025-10-08",
       "spotifyUrl": "https://open.spotify.com/track/7wdqWd21p8qxIsR0Qtu4Yy",
       "isFallback": true
+    },
+    {
+      "id": "75574cba-c681-496b-9505-917c341dc666",
+      "title": "Chu☆Oh!Police 24時",
+      "artist": "Chu☆Oh!Dolly",
+      "isrc": "TCJPJ1994045",
+      "releaseDate": "2016-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/4iUhui2KetByfuEmN9vIK0",
+      "isFallback": true
     }
   ]
 }

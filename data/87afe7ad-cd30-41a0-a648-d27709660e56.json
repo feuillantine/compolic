@@ -3001,6 +3001,15 @@
       "releaseDate": "2002-12-27",
       "spotifyUrl": "https://open.spotify.com/track/1KYIqAdzrXKncgoMkXHNEh",
       "isFallback": true
+    },
+    {
+      "id": "98827609-a2e6-4c69-9f20-ddbb3cf8005c",
+      "title": "カナリア",
+      "artist": "佐藤裕美",
+      "isrc": "JPKI00157190",
+      "releaseDate": "2001-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1315,6 +1315,15 @@
       "releaseDate": "2020-01-16",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e7b22c3a-2919-4c89-a2db-c2f2285bb713",
+      "title": "青春!パラレル街道",
+      "artist": "Chu☆Oh!Dolly",
+      "isrc": "TCJPJ1994035",
+      "releaseDate": "2016-12-20",
+      "spotifyUrl": "https://open.spotify.com/track/6F9upxQDHFmCTW9cIoq7q5",
+      "isFallback": true
     }
   ]
 }

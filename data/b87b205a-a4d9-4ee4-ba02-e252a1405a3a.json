@@ -505,6 +505,15 @@
       "releaseDate": "2016-12-20",
       "spotifyUrl": "https://open.spotify.com/track/4iUhui2KetByfuEmN9vIK0",
       "isFallback": true
+    },
+    {
+      "id": "d9e88271-3ec4-4740-ac61-d5a352db43fc",
+      "title": "願いYou & I",
+      "artist": "Gran☆Ciel",
+      "isrc": "TCJPR2271460",
+      "releaseDate": "2022-04-27",
+      "spotifyUrl": "https://open.spotify.com/track/312pknKMLhk7qbz8RUf5eA",
+      "isFallback": true
     }
   ]
 }

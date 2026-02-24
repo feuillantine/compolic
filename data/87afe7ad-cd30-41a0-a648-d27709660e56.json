@@ -3010,6 +3010,60 @@
       "releaseDate": "2001-10-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "783bad49-036a-4e8f-b1e1-c185ad604719",
+      "title": "いろはにほへとdeヴァンパイア",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8cb4cbc-3aae-4751-93b3-bbba368ca420",
+      "title": "なんにもいらない",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ad457fea-ef89-4285-9e20-7abd84cbe275",
+      "title": "大問題チクタク",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da1bce91-8d4d-4877-914b-0d1774cdc816",
+      "title": "恋してケチャして",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75550956-c8cf-4a83-b825-15af84451b0d",
+      "title": "私が私であるために",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "267c44d5-4834-40dc-9950-e8ed45e03490",
+      "title": "透明な銃",
+      "artist": "drop",
+      "isrc": "",
+      "releaseDate": "2015-07-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

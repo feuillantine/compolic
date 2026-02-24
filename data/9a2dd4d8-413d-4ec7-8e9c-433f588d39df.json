@@ -328,6 +328,24 @@
       "releaseDate": "2019-05-14",
       "spotifyUrl": "https://open.spotify.com/track/1P7MDKyA0bQh0UAK9eYfqH",
       "isFallback": true
+    },
+    {
+      "id": "ca62034d-125e-41ba-a7c4-379794b9a51a",
+      "title": "Do you love me? (“Future”mix)",
+      "artist": "Gran☆Ciel",
+      "isrc": "TCJPT2257616",
+      "releaseDate": "2022-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/4b8FST4vWLkmWbdERMUq8H",
+      "isFallback": true
+    },
+    {
+      "id": "6ccf6087-e509-4575-bd41-b3cf0057af3e",
+      "title": "Tomorrow (“Future”mix)",
+      "artist": "Gran☆Ciel",
+      "isrc": "TCJPT2257621",
+      "releaseDate": "2022-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/2EId3YGVDAbROdf7ewoq8l",
+      "isFallback": true
     }
   ]
 }

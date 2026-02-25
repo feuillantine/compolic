@@ -82,6 +82,24 @@
       "releaseDate": "2025-12-21",
       "spotifyUrl": "https://open.spotify.com/track/6ok7Bx40KppPOrYbsHUMQb",
       "isFallback": false
+    },
+    {
+      "id": "18462674-5b85-43df-8c11-d1870788b1e7",
+      "title": "ちいさな夢 - 2025 ver.",
+      "artist": "Gran☆Ciel",
+      "isrc": "QT66K2549342",
+      "releaseDate": "2025-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/4fr0gdFgAIBlzpI8OErkPE",
+      "isFallback": false
+    },
+    {
+      "id": "0daae7e2-9cea-4021-87e1-866ca6f673d6",
+      "title": "きゅんする？きゅ〜くる",
+      "artist": "きゅ～くる",
+      "isrc": "QT66L2520204",
+      "releaseDate": "2025-11-16",
+      "spotifyUrl": "https://open.spotify.com/track/2KJrCtKfScNAB8kXenSWcC",
+      "isFallback": false
     }
   ]
 }

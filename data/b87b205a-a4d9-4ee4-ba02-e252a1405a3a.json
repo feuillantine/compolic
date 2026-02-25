@@ -514,6 +514,24 @@
       "releaseDate": "2022-04-27",
       "spotifyUrl": "https://open.spotify.com/track/312pknKMLhk7qbz8RUf5eA",
       "isFallback": true
+    },
+    {
+      "id": "aacd1745-8de1-4e0f-aaa3-9c28e6871e62",
+      "title": "キミスキ",
+      "artist": "Gran☆Ciel",
+      "isrc": "TCJPV2395673",
+      "releaseDate": "2023-05-23",
+      "spotifyUrl": "https://open.spotify.com/track/2mWn6pfpE8cDQ1cXHkBCQn",
+      "isFallback": true
+    },
+    {
+      "id": "43917c7e-38a5-4f66-8c77-1f62fd50275a",
+      "title": "Answer - 2025 ver.",
+      "artist": "Gran☆Ciel",
+      "isrc": "QT66K2549314",
+      "releaseDate": "2025-10-21",
+      "spotifyUrl": "https://open.spotify.com/track/1hA242VrDbn5UilOhL793m",
+      "isFallback": false
     }
   ]
 }

@@ -1756,6 +1756,15 @@
       "releaseDate": "2026-01-14",
       "spotifyUrl": "https://open.spotify.com/track/1Fb8Nm3EOreoA1s8S3lW7W",
       "isFallback": true
+    },
+    {
+      "id": "d9815103-6a80-4911-beaa-a06caef3ae17",
+      "title": "現実-リアル-",
+      "artist": "Luce Twinkle Wink☆",
+      "isrc": "TCJPI2511448",
+      "releaseDate": "2025-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/5AbsbWSDPAdLEfBYEC1DOY",
+      "isFallback": true
     }
   ]
 }

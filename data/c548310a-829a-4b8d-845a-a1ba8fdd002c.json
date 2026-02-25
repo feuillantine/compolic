@@ -181,6 +181,15 @@
       "releaseDate": "2026-02-19",
       "spotifyUrl": "https://open.spotify.com/track/1IMmcJlv9tq9e59HklkzCh",
       "isFallback": false
+    },
+    {
+      "id": "d78032a4-b216-48fd-b86c-53c0963aec66",
+      "title": "ボーダーレス・ノンストレス",
+      "artist": "Sonic Heart (and Signal)",
+      "isrc": "",
+      "releaseDate": "2026-01-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

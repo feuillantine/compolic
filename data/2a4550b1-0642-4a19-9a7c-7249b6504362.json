@@ -406,6 +406,15 @@
       "releaseDate": "2018-02-13",
       "spotifyUrl": "https://open.spotify.com/track/0mdJSeTM2ueZcXoe0nmeuO",
       "isFallback": true
+    },
+    {
+      "id": "4772ab43-0d66-49e7-beb6-a1e5cd0924e7",
+      "title": "恋人はスナイパー",
+      "artist": "チームしゃちほこ",
+      "isrc": "JPZ921209329",
+      "releaseDate": "2012-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/6tSJNNCNDo5gB7ypyHazsp",
+      "isFallback": true
     }
   ]
 }

@@ -937,6 +937,15 @@
       "releaseDate": "2016-04-20",
       "spotifyUrl": "https://open.spotify.com/track/6zt6SduC3OdXhYYGdetNeR",
       "isFallback": true
+    },
+    {
+      "id": "dc31f74d-47ad-4f4f-9d48-8119bf72d635",
+      "title": "Echoes Beyond",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102503677",
+      "releaseDate": "2026-01-28",
+      "spotifyUrl": "https://open.spotify.com/track/57rfwPP4kgknjlCalMR9zn",
+      "isFallback": true
     }
   ]
 }

@@ -883,6 +883,15 @@
       "releaseDate": "2024-09-09",
       "spotifyUrl": "https://open.spotify.com/track/6njCYAgcQgHAmbN7VChcrI",
       "isFallback": true
+    },
+    {
+      "id": "aa18d469-830e-49ac-9707-cac354804d7a",
+      "title": "忘却と美学",
+      "artist": "乃木坂46",
+      "isrc": "JPU901701314",
+      "releaseDate": "2017-05-24",
+      "spotifyUrl": "https://open.spotify.com/track/0cmyH8Z46P96325dQF0Pde",
+      "isFallback": true
     }
   ]
 }

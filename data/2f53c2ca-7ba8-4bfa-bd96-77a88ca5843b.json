@@ -28,6 +28,15 @@
       "releaseDate": "2023-11-21",
       "spotifyUrl": "https://open.spotify.com/track/7E6nRfZsCofHPvOabqbFmg",
       "isFallback": true
+    },
+    {
+      "id": "e119598b-f634-4dc5-b805-27264a995dd1",
+      "title": "恋空ウェザーニュース",
+      "artist": "i‐COL",
+      "isrc": "JPW462124031",
+      "releaseDate": "2022-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/61HKtl1P68RMIsyvQXvT6Y",
+      "isFallback": false
     }
   ]
 }

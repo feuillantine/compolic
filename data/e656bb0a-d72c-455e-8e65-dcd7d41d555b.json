@@ -181,6 +181,15 @@
       "releaseDate": "2021-08-18",
       "spotifyUrl": "https://open.spotify.com/track/4is2skuttrWjtOkIengi3P",
       "isFallback": true
+    },
+    {
+      "id": "60ae1bfc-ae74-4488-867d-1b3851a0fabd",
+      "title": "As I Am",
+      "artist": "石原夏織",
+      "isrc": "JPPC02511487",
+      "releaseDate": "2025-07-02",
+      "spotifyUrl": "https://open.spotify.com/track/01FUXBmfMerqlXGVpldfBQ",
+      "isFallback": true
     }
   ]
 }

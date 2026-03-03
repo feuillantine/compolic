@@ -805,6 +805,15 @@
       "releaseDate": "2016-12-21",
       "spotifyUrl": "https://open.spotify.com/track/7zWvAVEcdqrGVnWAA7D2u3",
       "isFallback": true
+    },
+    {
+      "id": "49102d8f-d464-4da5-952a-ba412dd0b214",
+      "title": "星眼鏡",
+      "artist": "石原夏織",
+      "isrc": "JPPC02513650",
+      "releaseDate": "2026-01-08",
+      "spotifyUrl": "https://open.spotify.com/track/3m0IhG5H6FIHJsNEmm5sEy",
+      "isFallback": false
     }
   ]
 }

@@ -37,6 +37,24 @@
       "releaseDate": "2025-12-03",
       "spotifyUrl": "https://open.spotify.com/track/77ClpY7FcMwfGXL4tqE2Zk",
       "isFallback": false
+    },
+    {
+      "id": "7eaa3c03-47d3-456d-ab98-7be4d465d049",
+      "title": "とーくあばうとみー",
+      "artist": "君のメインヒロイン",
+      "isrc": "QT66M2570805",
+      "releaseDate": "2026-01-01",
+      "spotifyUrl": "https://open.spotify.com/track/2LRh2cUyceKBoe6asuuZRi",
+      "isFallback": false
+    },
+    {
+      "id": "2822e827-c493-43cc-abe7-9174666f5ee9",
+      "title": "蒼穹ラブレター",
+      "artist": "あおぞらをキミに",
+      "isrc": "TCJPC2420385",
+      "releaseDate": "2024-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/7kA5qzbEt9o58ILZnSPDBK",
+      "isFallback": true
     }
   ]
 }

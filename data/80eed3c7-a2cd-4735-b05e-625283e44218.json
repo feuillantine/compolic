@@ -1324,6 +1324,15 @@
       "releaseDate": "2016-12-20",
       "spotifyUrl": "https://open.spotify.com/track/6F9upxQDHFmCTW9cIoq7q5",
       "isFallback": true
+    },
+    {
+      "id": "12b14000-7d47-4bd8-a1f8-c9dd0a1c6a1d",
+      "title": "叩ケ 叩ケ 手ェ叩ケ",
+      "artist": "SIRO",
+      "isrc": "CAGOO1995739",
+      "releaseDate": "2019-08-31",
+      "spotifyUrl": "https://open.spotify.com/track/5EWTZ72FaWql9q6tsKSfQm",
+      "isFallback": true
     }
   ]
 }

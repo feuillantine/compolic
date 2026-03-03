@@ -343,6 +343,15 @@
       "releaseDate": "2017-07-08",
       "spotifyUrl": "https://open.spotify.com/track/036SejGEtjfcgYUWimmJ6t",
       "isFallback": true
+    },
+    {
+      "id": "0e349ce9-81a5-477a-8075-c28b1b6ae879",
+      "title": "ヒットチャートで好きにして!",
+      "artist": "Chu☆Oh!Dolly",
+      "isrc": "TCJPJ1996818",
+      "releaseDate": "2017-12-05",
+      "spotifyUrl": "https://open.spotify.com/track/6tyak0TVc75DSsDd8ZKzNU",
+      "isFallback": true
     }
   ]
 }

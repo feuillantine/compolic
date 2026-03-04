@@ -892,6 +892,15 @@
       "releaseDate": "2017-05-24",
       "spotifyUrl": "https://open.spotify.com/track/0cmyH8Z46P96325dQF0Pde",
       "isFallback": true
+    },
+    {
+      "id": "d17319c9-2717-4e72-968b-6dc484b6c529",
+      "title": "最 to the 高の HAPPY☆END?!",
+      "artist": "バクステ外神田一丁目",
+      "isrc": "JPK632104002",
+      "releaseDate": "2021-09-14",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

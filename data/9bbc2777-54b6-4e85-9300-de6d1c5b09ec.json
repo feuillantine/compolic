@@ -541,6 +541,15 @@
       "releaseDate": "2025-12-03",
       "spotifyUrl": "https://open.spotify.com/track/6aIFwBYaE2c0QTMp5Mb5Jx",
       "isFallback": true
+    },
+    {
+      "id": "92dc4f31-4990-4555-982f-84381ad991f2",
+      "title": "差し出された手をあの時握ってたら運命変わってたかな？",
+      "artist": "アメフラっシ",
+      "isrc": "JPX952400029",
+      "releaseDate": "2019-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/4QHT7MYjucLLamjSvpkk7e",
+      "isFallback": true
     }
   ]
 }

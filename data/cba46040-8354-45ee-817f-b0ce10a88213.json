@@ -46,6 +46,15 @@
       "releaseDate": "2019-07-15",
       "spotifyUrl": "https://open.spotify.com/track/5k9uVH3IY5XvoeKViE42n7",
       "isFallback": true
+    },
+    {
+      "id": "0dfaf70f-ae2d-4d99-a8b5-9104b44798f7",
+      "title": "バカップルになりたい！",
+      "artist": "アメフラっシ",
+      "isrc": "JPR652000138",
+      "releaseDate": "2020-05-17",
+      "spotifyUrl": "https://open.spotify.com/track/5q2ccFXo1Zo6YDc5HL4DwW",
+      "isFallback": true
     }
   ]
 }

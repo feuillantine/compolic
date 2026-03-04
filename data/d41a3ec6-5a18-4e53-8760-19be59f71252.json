@@ -1189,6 +1189,15 @@
       "releaseDate": "2010-10-06",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "cc0fe949-586f-47d4-97ae-ada8c1b9188d",
+      "title": "Chu☆おねがいマイメロディ",
+      "artist": "ナナカナ",
+      "isrc": "JPE200712201",
+      "releaseDate": "2007-11-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -640,6 +640,15 @@
       "releaseDate": "2025-09-10",
       "spotifyUrl": "https://open.spotify.com/track/5yhMi94mSbl5dPaZiyo7uC",
       "isFallback": true
+    },
+    {
+      "id": "2311e68a-42ee-4ae0-844e-244e85e11cba",
+      "title": "おしえてMoonlight",
+      "artist": "バクステ外神田一丁目",
+      "isrc": "JPK632201701",
+      "releaseDate": "2022-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

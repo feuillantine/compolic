@@ -316,6 +316,15 @@
       "releaseDate": "2022-11-04",
       "spotifyUrl": "https://open.spotify.com/track/3bQ3ejhmHPVFIakXSJc7yt",
       "isFallback": false
+    },
+    {
+      "id": "be7d4b25-7868-4cf5-a2ae-d82383b97384",
+      "title": "AI SEE CHAT",
+      "artist": "最終未来少女",
+      "isrc": "JPPC02413923",
+      "releaseDate": "2025-02-05",
+      "spotifyUrl": "https://open.spotify.com/track/03c8Ng5kd59dxm0vAePbjz",
+      "isFallback": true
     }
   ]
 }

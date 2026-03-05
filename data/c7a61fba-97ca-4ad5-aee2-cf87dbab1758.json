@@ -2057,6 +2057,15 @@
       "releaseDate": "2013-04-17",
       "spotifyUrl": "https://open.spotify.com/track/3kRjP3zOqTg5EHjFGYUMN8",
       "isFallback": true
+    },
+    {
+      "id": "19a7a4c1-400b-4716-9e81-7f465ca5155e",
+      "title": "Goodbye Day",
+      "artist": "大渕野々花",
+      "isrc": "JPVI02500110",
+      "releaseDate": "2025-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/1OiVdbj3qcdNgB0CvvoVRq",
+      "isFallback": true
     }
   ]
 }

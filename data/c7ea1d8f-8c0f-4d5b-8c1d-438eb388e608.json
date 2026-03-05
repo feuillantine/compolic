@@ -901,6 +901,15 @@
       "releaseDate": "2021-09-14",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6aa98310-cfca-427d-aafd-880086564cf4",
+      "title": "憂鬱な空が好きなんだ",
+      "artist": "ザ・コインロッカーズ",
+      "isrc": "JPWP01970466",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/2zO1fieNXaEVci0li3LjoX",
+      "isFallback": true
     }
   ]
 }

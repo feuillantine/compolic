@@ -190,6 +190,15 @@
       "releaseDate": "2025-07-02",
       "spotifyUrl": "https://open.spotify.com/track/01FUXBmfMerqlXGVpldfBQ",
       "isFallback": true
+    },
+    {
+      "id": "1ebcad66-06f4-4dbc-953e-3590aad69ec4",
+      "title": "僕のゆーとぴあ最終論♡",
+      "artist": "ディア☆",
+      "isrc": "TCJPJ1939243",
+      "releaseDate": "2018-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/7z3jyXzmhJrrrjcer3leJ4",
+      "isFallback": true
     }
   ]
 }

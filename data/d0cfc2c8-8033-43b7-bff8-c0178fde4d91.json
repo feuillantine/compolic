@@ -469,6 +469,114 @@
       "releaseDate": "2021-12-01",
       "spotifyUrl": "https://open.spotify.com/track/1E9KqSUYe1f9aZcJ4M9a7P",
       "isFallback": true
+    },
+    {
+      "id": "810c6640-4bed-4b20-8304-d0b0a338d937",
+      "title": "魔法をかけて",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200135",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/4hPs6jWAwKZiGI3JBK43wL",
+      "isFallback": true
+    },
+    {
+      "id": "1a724bb9-cbb7-4b03-bce3-5f5b657dcdb9",
+      "title": "チョコループ",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200081",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/7yaKRcRcza6AoHim0FuceB",
+      "isFallback": true
+    },
+    {
+      "id": "d03b7ee1-7c24-4c61-9546-676e5c762532",
+      "title": "無限シニシズム",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200134",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3RTL8wlZcFh1qpzFYtQ6MX",
+      "isFallback": true
+    },
+    {
+      "id": "ba750d13-fd1d-4f9c-b38e-41e322570feb",
+      "title": "ダサくなきゃ信じない",
+      "artist": "ロッカジャポニカ",
+      "isrc": "JPKI01816735",
+      "releaseDate": "2018-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/75jBCzto8XRAVNdEMW0BVg",
+      "isFallback": true
+    },
+    {
+      "id": "943cd69c-bce8-45d5-bb3b-2042a12c0634",
+      "title": "青、その他",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200006",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/27uYtluOPiQSRXZdBSY6hO",
+      "isFallback": true
+    },
+    {
+      "id": "8644de26-adac-4da2-93d5-32f431c9457f",
+      "title": "Lion",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200137",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/2Q6XcF8o5eUvEIA1vR8YB1",
+      "isFallback": true
+    },
+    {
+      "id": "7e5c8051-8450-49f8-b37c-c7f2ea4d55c1",
+      "title": "Run away",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200136",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/1MdUS4vrLKIJ81YwThp8WP",
+      "isFallback": true
+    },
+    {
+      "id": "78b678f0-1a61-421f-a848-7035667c2f03",
+      "title": "545",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200023",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/5oDvcoDrcYDtiAxjRfcdos",
+      "isFallback": true
+    },
+    {
+      "id": "27017da1-6c3d-4e18-a243-a06fa6b5083e",
+      "title": "結末は次のトラフィックライト",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200008",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/3ksAGkLc8fExfXgUbPzqLz",
+      "isFallback": true
+    },
+    {
+      "id": "05e1faee-bd38-48af-a87e-1bb2e1a45ef2",
+      "title": "Q",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200110",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/4OzgBpnlznWd72HNLZHOp4",
+      "isFallback": true
+    },
+    {
+      "id": "f701abe8-12bd-46df-9495-e7a425d9814d",
+      "title": "原因は君にもある。",
+      "artist": "原因は自分にある。",
+      "isrc": "JPR652200040",
+      "releaseDate": "2023-01-25",
+      "spotifyUrl": "https://open.spotify.com/track/32Om0Dz3ilDsHfn0m2cPro",
+      "isFallback": true
+    },
+    {
+      "id": "1668541a-0410-4ae0-8952-9df695e50e45",
+      "title": "桜なんか嫌いだ",
+      "artist": "ザ・コインロッカーズ",
+      "isrc": "JPWP01970477",
+      "releaseDate": "2019-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/7jKzkwPFU9cNvbQV7MrcVe",
+      "isFallback": true
     }
   ]
 }

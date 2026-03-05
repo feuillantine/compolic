@@ -262,6 +262,15 @@
       "releaseDate": "2018-05-30",
       "spotifyUrl": "https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B",
       "isFallback": true
+    },
+    {
+      "id": "695371af-ad74-460d-9dc9-703fd1231df7",
+      "title": "キンモクセイ",
+      "artist": "遠藤舞",
+      "isrc": "JPB601703701",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "https://open.spotify.com/track/2XKSBZsefjiNnzZ40B9UT4",
+      "isFallback": true
     }
   ]
 }

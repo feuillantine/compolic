@@ -1192,6 +1192,15 @@
       "releaseDate": "2025-06-05",
       "spotifyUrl": "https://open.spotify.com/track/0HRafHRp1iHrTKctPb2d1X",
       "isFallback": true
+    },
+    {
+      "id": "62394090-1c10-4352-9cb8-90f8c9a3b5d7",
+      "title": "ドリ☆アピ",
+      "artist": "AiRBLUE Bird",
+      "isrc": "JPPC01901329",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/7MuQ5YhHOUfE5hsXgsljhX",
+      "isFallback": true
     }
   ]
 }

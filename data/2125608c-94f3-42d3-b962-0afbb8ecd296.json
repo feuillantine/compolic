@@ -355,6 +355,15 @@
       "releaseDate": "2013-11-27",
       "spotifyUrl": "https://open.spotify.com/track/0Nfc6VaSM29s3NlqAFYNs8",
       "isFallback": true
+    },
+    {
+      "id": "6d4f7ea6-0567-4ec7-8c2e-7ea2c2c0f09e",
+      "title": "最大風速",
+      "artist": "SANDAL TELEPHONE",
+      "isrc": "JPY662490001",
+      "releaseDate": "2024-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/4TeHMKY7KwTTf0NjISf0FA",
+      "isFallback": true
     }
   ]
 }

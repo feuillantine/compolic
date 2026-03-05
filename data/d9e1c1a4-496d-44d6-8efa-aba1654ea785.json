@@ -571,6 +571,15 @@
       "releaseDate": "2020-01-16",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2cf9450b-f604-488b-b29d-84153a5a7f8a",
+      "title": "最終ゼンヤ",
+      "artist": "アルテミスの翼",
+      "isrc": "TCJPN2027622",
+      "releaseDate": "2020-12-08",
+      "spotifyUrl": "https://open.spotify.com/track/4DTK378G5DqNz3mm4MVIZg",
+      "isFallback": true
     }
   ]
 }

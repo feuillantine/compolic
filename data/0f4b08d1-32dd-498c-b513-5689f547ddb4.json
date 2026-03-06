@@ -478,6 +478,15 @@
       "releaseDate": "2010-09-22",
       "spotifyUrl": "https://open.spotify.com/track/2EuO8Jy2YcAGT1Q3LnJiQv",
       "isFallback": true
+    },
+    {
+      "id": "022b10d1-2906-4ff7-a0a6-c1b3126b99ca",
+      "title": "エイプリルスター",
+      "artist": "OSTER project",
+      "isrc": "JP92U2400033",
+      "releaseDate": "2025-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/0sLLrv9FkNKK9zRgXarO82",
+      "isFallback": true
     }
   ]
 }

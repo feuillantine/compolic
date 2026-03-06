@@ -334,6 +334,15 @@
       "releaseDate": "2023-08-09",
       "spotifyUrl": "https://open.spotify.com/track/09U82Zbj1qSJKVUvSitAoo",
       "isFallback": true
+    },
+    {
+      "id": "61e6eae6-c50a-47ec-99c3-a7a86c5f8d3a",
+      "title": "いちごミントの夏",
+      "artist": "るなっち☆ほし",
+      "isrc": "JPS801964044",
+      "releaseDate": "2023-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/24JYIVM6meR8AD3FwNbNvs",
+      "isFallback": true
     }
   ]
 }

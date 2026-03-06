@@ -679,6 +679,15 @@
       "releaseDate": "2025-06-24",
       "spotifyUrl": "https://open.spotify.com/track/2x16l0abcYFtOFhP4SlRSS",
       "isFallback": false
+    },
+    {
+      "id": "7a5cf8ef-900a-4992-8d6e-f78b3ac72c54",
+      "title": "おうになろう！",
+      "artist": "るなっち☆ほし",
+      "isrc": "JPS801964037",
+      "releaseDate": "2023-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/7zxCE4vDy6pum8Xr2DbgEQ",
+      "isFallback": true
     }
   ]
 }

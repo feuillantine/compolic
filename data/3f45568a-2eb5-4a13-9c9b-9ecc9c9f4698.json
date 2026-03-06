@@ -1570,6 +1570,15 @@
       "releaseDate": "2001-08-22",
       "spotifyUrl": "https://open.spotify.com/track/73FL2X7KBFV2D6Jdhh0oau",
       "isFallback": true
+    },
+    {
+      "id": "a670e696-2444-44e2-b007-c3204d2ba283",
+      "title": "Awakening ~ Village of Deeply Blessed People",
+      "artist": "Hirofumi Kurita",
+      "isrc": "JPF222400058",
+      "releaseDate": "2024-08-14",
+      "spotifyUrl": "https://open.spotify.com/track/4C2cA5R5oHWLm8ZrsSoe4r",
+      "isFallback": true
     }
   ]
 }

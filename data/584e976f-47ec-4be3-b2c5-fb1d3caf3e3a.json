@@ -343,6 +343,15 @@
       "releaseDate": "2021-11-18",
       "spotifyUrl": "https://open.spotify.com/track/7nFePkG4p8ppfiUZroagvd",
       "isFallback": true
+    },
+    {
+      "id": "ce5b63d9-c663-4ed2-ae79-73da1256b318",
+      "title": "終恋シンデレラ",
+      "artist": "SAD originals.",
+      "isrc": "TCJPD2597497",
+      "releaseDate": "2025-02-19",
+      "spotifyUrl": "https://open.spotify.com/track/5JGjG4JWJBAhWUFarRSiSO",
+      "isFallback": true
     }
   ]
 }

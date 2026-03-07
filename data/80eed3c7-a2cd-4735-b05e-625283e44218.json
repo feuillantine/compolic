@@ -1333,6 +1333,24 @@
       "releaseDate": "2019-08-31",
       "spotifyUrl": "https://open.spotify.com/track/5EWTZ72FaWql9q6tsKSfQm",
       "isFallback": true
+    },
+    {
+      "id": "f56e81ea-ff89-453a-a318-3bcd9c8e9de2",
+      "title": "最強純情DNA",
+      "artist": "マボロシ可憐GeNE",
+      "isrc": "",
+      "releaseDate": "2016-06-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c02cdb96-9ce6-41ff-976a-03f7b0f539c1",
+      "title": "キミは何色?",
+      "artist": "マボロシ可憐GeNE",
+      "isrc": "",
+      "releaseDate": "2016-06-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

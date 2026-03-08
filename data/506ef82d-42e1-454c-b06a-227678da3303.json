@@ -73,6 +73,24 @@
       "releaseDate": "2022-04-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d600e616-847d-4c88-aab7-36d723181460",
+      "title": "燦爛たる約束",
+      "artist": "葉月ゆら",
+      "isrc": "",
+      "releaseDate": "2025-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef0d41d6-ee07-426f-b540-9774b55c0545",
+      "title": "無垢なる聖約",
+      "artist": "葉月ゆら",
+      "isrc": "",
+      "releaseDate": "2025-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

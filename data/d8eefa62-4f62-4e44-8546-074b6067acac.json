@@ -379,6 +379,15 @@
       "releaseDate": "2025-07-14",
       "spotifyUrl": "https://open.spotify.com/track/1qf0mPNHvlCdXC8snxtSt7",
       "isFallback": false
+    },
+    {
+      "id": "9ef6ff90-4268-438e-8caa-8f9959d71696",
+      "title": "Submerge",
+      "artist": "春雨麗女",
+      "isrc": "JP92E2600211",
+      "releaseDate": "2026-03-09",
+      "spotifyUrl": "https://open.spotify.com/track/439wmMr80WEQxTxj73uvYO",
+      "isFallback": false
     }
   ]
 }

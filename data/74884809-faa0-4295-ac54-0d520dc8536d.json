@@ -307,6 +307,15 @@
       "releaseDate": "2018-08-01",
       "spotifyUrl": "https://open.spotify.com/track/6rODQgGjrYFLqf1DclfntJ",
       "isFallback": true
+    },
+    {
+      "id": "d2b1c03f-4773-4166-a603-91fc2a65aa42",
+      "title": "My rule",
+      "artist": "乃木坂46",
+      "isrc": "JPU901702824",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

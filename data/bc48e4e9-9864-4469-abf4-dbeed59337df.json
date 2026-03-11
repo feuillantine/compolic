@@ -28,6 +28,15 @@
       "releaseDate": "2025-12-30",
       "spotifyUrl": "https://open.spotify.com/track/2bur5zdPz2xyAltiGeFYtj",
       "isFallback": false
+    },
+    {
+      "id": "fa9d7ea0-9492-451b-ba66-9e6fba4ae918",
+      "title": "夢のあとさき",
+      "artist": "HAPPY CREATORS",
+      "isrc": "",
+      "releaseDate": "2025-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

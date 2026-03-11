@@ -364,6 +364,15 @@
       "releaseDate": "2024-07-01",
       "spotifyUrl": "https://open.spotify.com/track/4TeHMKY7KwTTf0NjISf0FA",
       "isFallback": true
+    },
+    {
+      "id": "cfe4719d-d93c-410c-b2ca-9f50db565fd5",
+      "title": "新しい世界",
+      "artist": "乃木坂46",
+      "isrc": "JPU901801028",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "https://open.spotify.com/track/4iAg9UTrGgugJImC7p9IrK",
+      "isFallback": true
     }
   ]
 }

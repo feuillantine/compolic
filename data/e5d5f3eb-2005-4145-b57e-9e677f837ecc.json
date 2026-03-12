@@ -280,6 +280,15 @@
       "releaseDate": "2019-06-19",
       "spotifyUrl": "https://open.spotify.com/track/7jKzkwPFU9cNvbQV7MrcVe",
       "isFallback": true
+    },
+    {
+      "id": "c67d4edf-5f7d-4f07-8b0d-7c358becd835",
+      "title": "ミックスジュース",
+      "artist": "たこやきレインボー",
+      "isrc": "JPB601701534",
+      "releaseDate": "2017-05-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

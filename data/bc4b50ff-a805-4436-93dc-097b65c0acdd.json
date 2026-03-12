@@ -1840,6 +1840,15 @@
       "releaseDate": "2021-01-06",
       "spotifyUrl": "https://open.spotify.com/track/24kPhgWsZG6w9f5sRs2UJ6",
       "isFallback": true
+    },
+    {
+      "id": "274a131a-2282-4c4b-879b-9532ce352beb",
+      "title": "戯ぼうぜ",
+      "artist": "上運天美羅",
+      "isrc": "JPPC02610333",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

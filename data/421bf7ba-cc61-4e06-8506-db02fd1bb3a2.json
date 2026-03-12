@@ -73,6 +73,15 @@
       "releaseDate": "2023-05-10",
       "spotifyUrl": "https://open.spotify.com/track/1Cm0yxBjgdRiufxi4fKG1j",
       "isFallback": true
+    },
+    {
+      "id": "f8c8f4c2-c80d-4b0b-b367-4fe21c6adc66",
+      "title": "玉響されど授愛の日々",
+      "artist": "東風舞希",
+      "isrc": "JPPC02610332",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

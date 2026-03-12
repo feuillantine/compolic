@@ -721,6 +721,15 @@
       "releaseDate": "2026-01-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "504cce72-1841-489c-aafe-a898a4c0184d",
+      "title": "明日でいいから",
+      "artist": "Happy Clover",
+      "isrc": "",
+      "releaseDate": "2016-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

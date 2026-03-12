@@ -532,6 +532,15 @@
       "releaseDate": "2025-10-21",
       "spotifyUrl": "https://open.spotify.com/track/1hA242VrDbn5UilOhL793m",
       "isFallback": false
+    },
+    {
+      "id": "599b347c-bae6-46a1-81fa-5e4746c91a6a",
+      "title": "Toki Meki Chocolate",
+      "artist": "月のテンペスト",
+      "isrc": "",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

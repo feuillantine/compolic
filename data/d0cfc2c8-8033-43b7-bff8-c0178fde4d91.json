@@ -577,6 +577,24 @@
       "releaseDate": "2019-06-19",
       "spotifyUrl": "https://open.spotify.com/track/7jKzkwPFU9cNvbQV7MrcVe",
       "isFallback": true
+    },
+    {
+      "id": "6eff2435-f589-4a8f-be9c-e15405f231d9",
+      "title": "Happy Monster",
+      "artist": "蜜乃木ジル",
+      "isrc": "JPX632500034",
+      "releaseDate": "2025-10-26",
+      "spotifyUrl": "https://open.spotify.com/track/1qhgphcTiQmOVnlaGyuAZQ",
+      "isFallback": false
+    },
+    {
+      "id": "a166f423-e44d-48fc-a38f-921e4a9a2049",
+      "title": "ハルフレーク",
+      "artist": "CUTIE STREET",
+      "isrc": "QM6MZ2580538",
+      "releaseDate": "2025-03-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

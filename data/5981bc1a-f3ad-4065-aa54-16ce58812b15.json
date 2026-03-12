@@ -388,6 +388,15 @@
       "releaseDate": "2026-01-30",
       "spotifyUrl": "https://open.spotify.com/track/7eJaBRrYMU4TsOcFwuAKTy",
       "isFallback": false
+    },
+    {
+      "id": "cf23f4f3-d4d6-4842-bd17-c47e4fe033cd",
+      "title": "This is me",
+      "artist": "山城恋",
+      "isrc": "JPPC02514061",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

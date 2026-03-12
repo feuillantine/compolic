@@ -181,6 +181,15 @@
       "releaseDate": "2025-10-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "396854d2-0f56-43d9-b309-e81283efe917",
+      "title": "あまやかに、あざやかに",
+      "artist": "天動瑠依",
+      "isrc": "JPX402600004",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "https://open.spotify.com/track/3mMTkg1mWOprsVIHgg8oCg",
+      "isFallback": true
     }
   ]
 }

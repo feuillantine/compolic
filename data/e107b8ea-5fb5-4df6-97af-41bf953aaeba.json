@@ -1144,6 +1144,15 @@
       "releaseDate": "2008-07-23",
       "spotifyUrl": "https://open.spotify.com/track/2i5XG6USSn7UNfKbGw2GgX",
       "isFallback": true
+    },
+    {
+      "id": "57f62f0c-1fae-4555-84f9-6abfdf747a99",
+      "title": "ディアノイア",
+      "artist": "Starving Trancer",
+      "isrc": "JPC230800913",
+      "releaseDate": "2009-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -487,6 +487,15 @@
       "releaseDate": "2025-09-15",
       "spotifyUrl": "https://open.spotify.com/track/0sLLrv9FkNKK9zRgXarO82",
       "isFallback": true
+    },
+    {
+      "id": "2b264203-8d73-4ab8-bf28-127a843dc74e",
+      "title": "アルコールソング",
+      "artist": "OSTER project",
+      "isrc": "TCJPQ2132917",
+      "releaseDate": "2021-10-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

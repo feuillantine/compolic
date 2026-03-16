@@ -355,6 +355,15 @@
       "releaseDate": "2021-02-17",
       "spotifyUrl": "https://open.spotify.com/track/2xKRwEYFAafeUGDaCfD4Cx",
       "isFallback": true
+    },
+    {
+      "id": "d9944764-1696-4fad-a08f-3154664f987a",
+      "title": "What’s Your Poison? –庭園都市は夏のまま–",
+      "artist": "水槽とクレマチス",
+      "isrc": "QT66J2656361",
+      "releaseDate": "2025-12-28",
+      "spotifyUrl": "https://open.spotify.com/track/6RB71PgxTQDihgLVXYZjLi",
+      "isFallback": false
     }
   ]
 }

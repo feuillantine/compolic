@@ -1198,6 +1198,24 @@
       "releaseDate": "2007-11-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "28695bbb-56c8-48dc-882b-d19294795e04",
+      "title": "ミルモのワルツ (エンディング・テーマ)",
+      "artist": "Kaede",
+      "isrc": "",
+      "releaseDate": "2002-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bf5424f1-5c2a-4270-9ad5-312d22c8d545",
+      "title": "プリティ・ケーキ・マジック (オープニング・テーマ)",
+      "artist": "Kaede",
+      "isrc": "",
+      "releaseDate": "2002-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

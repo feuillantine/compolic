@@ -1201,6 +1201,24 @@
       "releaseDate": "2020-01-22",
       "spotifyUrl": "https://open.spotify.com/track/7MuQ5YhHOUfE5hsXgsljhX",
       "isFallback": true
+    },
+    {
+      "id": "6b4453c9-c2af-4b63-80bc-b569ab1c4bbb",
+      "title": "AIKATSU GENERATION",
+      "artist": "STAR☆ANIS",
+      "isrc": "",
+      "releaseDate": "2018-02-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c980c48-15ef-492d-b622-5bbcdbe5a272",
+      "title": "8月のマリーナ",
+      "artist": "かな",
+      "isrc": "",
+      "releaseDate": "2016-07-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

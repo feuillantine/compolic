@@ -1831,6 +1831,114 @@
       "releaseDate": "2025-12-13",
       "spotifyUrl": "https://open.spotify.com/track/2J9YdxW1m1yDtxF6srjB1F",
       "isFallback": true
+    },
+    {
+      "id": "6f6b35b7-2a6b-4992-9c59-df140c071c15",
+      "title": "Nihil Pip Viper",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF02126501",
+      "releaseDate": "2021-10-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa554e07-0436-4b4f-ba83-c5bdfe0ee63d",
+      "title": "シューゲイザースピーカー (STUDIO LIVE)",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01906902",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "67e46590-cffb-486f-b030-6f808cb55c96",
+      "title": "アンドロメダ",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01510901",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "370f4830-ab72-42a2-bab2-f1fc5e898ce4",
+      "title": "プログラムcontinued",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01510913",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "50888e6d-6ee8-4a0d-a033-b5564d8e816e",
+      "title": "さわれない歌",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01212902",
+      "releaseDate": "2012-09-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e38f8976-c380-45d3-b917-9f5d9e5984bb",
+      "title": "シャンデリア・ワルツ",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01219511",
+      "releaseDate": "2013-02-06",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "34aaf0dd-4771-4ddf-a518-87084f7fc32b",
+      "title": "リニアブルーを聴きながら",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01212901",
+      "releaseDate": "2012-09-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "72132713-a496-4f7e-909b-b70ffe8529d3",
+      "title": "さよなら第九惑星 (STUDIO LIVE)",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01906910",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ed4b4ca1-0c40-4a96-aff8-403c3d92a060",
+      "title": "誰かが忘れているかもしれない僕らに大事な001のこと (D.A mix)",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01510908",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cd334766-42de-4f09-9e7f-d2063c1125a8",
+      "title": "蒙昧termination (STUDIO LIVE)",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01906905",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9651a79d-5b3b-4437-8dec-ab3f2476a8b6",
+      "title": "夕凪、アンサンブル",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF01510906",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c4098174-1a4c-4659-a581-8c2c021aa09b",
+      "title": "流星のスコール (S.B mix)",
+      "artist": "UNISON SQUARE GARDEN",
+      "isrc": "JPTF02415407",
+      "releaseDate": "2024-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

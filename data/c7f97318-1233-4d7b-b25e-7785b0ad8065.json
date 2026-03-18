@@ -580,6 +580,69 @@
       "releaseDate": "2025-11-13",
       "spotifyUrl": "https://open.spotify.com/track/2y6AEsvEqJlPJHKnm22NVU",
       "isFallback": true
+    },
+    {
+      "id": "8273e789-bd1b-49b6-8ff9-fdad0fe28be0",
+      "title": "Yugamu kotowari - 歪ム理",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "336ffdaf-a62e-4bec-888e-7d78b75617ba",
+      "title": "Shusho - 周章",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7e61aa0-5cc5-473a-9b1a-57fa5b9bb2b6",
+      "title": "Odayakana nemuri／Kanjaku - 穏ヤカナ眠リ／閑寂",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4eef9a38-9f39-41b0-9e16-ba50862c025e",
+      "title": "Chigiri - 契リ",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4115e660-0a42-4387-a4ce-d0ccb748007a",
+      "title": "Hengai - 辺涯",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "226cf700-2e46-4380-8321-9ce295f2fec7",
+      "title": "Nayokaze - 柔風",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bbaf2eb2-ac80-4349-8d65-4ba781031f82",
+      "title": "Tsuikai no toki - 追懐ノ時",
+      "artist": "Shotaro Seo",
+      "isrc": "",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

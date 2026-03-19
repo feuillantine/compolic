@@ -469,6 +469,15 @@
       "releaseDate": "2022-04-27",
       "spotifyUrl": "https://open.spotify.com/track/4WOJDa3Psrxb2xpVGwLJCE",
       "isFallback": false
+    },
+    {
+      "id": "67bbd2b4-9811-463f-8323-5a8bd69ba8f9",
+      "title": "Dreamy Anniversary",
+      "artist": "久川凪",
+      "isrc": "JPCO02231100",
+      "releaseDate": "2023-01-04",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

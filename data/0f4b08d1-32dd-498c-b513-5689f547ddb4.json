@@ -496,6 +496,15 @@
       "releaseDate": "2021-10-31",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "641ce6dd-1860-4d33-b9af-4fb61cf81f37",
+      "title": "レシピのリドル",
+      "artist": "音戯探偵ひなビタ♫",
+      "isrc": "JPM202600007",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/3VUnuoKmPeESbXpIA4OE8v",
+      "isFallback": true
     }
   ]
 }

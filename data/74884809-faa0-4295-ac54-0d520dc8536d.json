@@ -316,6 +316,15 @@
       "releaseDate": "2017-10-04",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f8703bdc-5fd9-42db-9e87-73ac1d652cb5",
+      "title": "放課後のおねがい！",
+      "artist": "いぎなり東北産",
+      "isrc": "JPB602600721",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

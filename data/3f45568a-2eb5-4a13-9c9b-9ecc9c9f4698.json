@@ -1579,6 +1579,15 @@
       "releaseDate": "2024-08-14",
       "spotifyUrl": "https://open.spotify.com/track/4C2cA5R5oHWLm8ZrsSoe4r",
       "isFallback": true
+    },
+    {
+      "id": "e73b683c-3619-4872-b594-6239a0b21154",
+      "title": "目覚め",
+      "artist": "栗田博文",
+      "isrc": "JPF222400058",
+      "releaseDate": "2014-10-15",
+      "spotifyUrl": "https://open.spotify.com/track/4C2cA5R5oHWLm8ZrsSoe4r",
+      "isFallback": true
     }
   ]
 }

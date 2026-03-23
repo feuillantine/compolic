@@ -118,6 +118,15 @@
       "releaseDate": "2015-11-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3e8bdbb6-8286-4026-9d98-44cab24e7975",
+      "title": "気になるアイツ",
+      "artist": "李小狼",
+      "isrc": "JPVI09811480",
+      "releaseDate": "1999-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

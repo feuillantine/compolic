@@ -892,6 +892,15 @@
       "releaseDate": "2015-02-25",
       "spotifyUrl": "https://open.spotify.com/track/7JxMsD11kmDuLSevkFWjpp",
       "isFallback": true
+    },
+    {
+      "id": "6c0c72b6-a4a5-4278-9a74-b225f7f4d1be",
+      "title": "STARRY STORY！",
+      "artist": "鳳 ここな",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

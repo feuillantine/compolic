@@ -946,6 +946,24 @@
       "releaseDate": "2026-01-28",
       "spotifyUrl": "https://open.spotify.com/track/57rfwPP4kgknjlCalMR9zn",
       "isFallback": true
+    },
+    {
+      "id": "c8b378fe-81f3-4a88-9aba-c596625b2b23",
+      "title": "パブリック・ビューイング！",
+      "artist": "静香",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ac8159bd-247e-4de9-8e33-fd35510291d3",
+      "title": "ティンクル・ティンクル・ティンク！",
+      "artist": "カトリナ・グリーベル",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

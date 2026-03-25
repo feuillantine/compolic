@@ -190,6 +190,15 @@
       "releaseDate": "2026-03-11",
       "spotifyUrl": "https://open.spotify.com/track/3mMTkg1mWOprsVIHgg8oCg",
       "isFallback": true
+    },
+    {
+      "id": "d80a8765-7336-4025-80b6-062b6ed3713f",
+      "title": "鉄の羽のエクソダス",
+      "artist": "箱崎星梨花",
+      "isrc": "JPI102502120",
+      "releaseDate": "2026-01-07",
+      "spotifyUrl": "https://open.spotify.com/track/6gi3VxIRqeEQ5LOo2dDN3H",
+      "isFallback": true
     }
   ]
 }

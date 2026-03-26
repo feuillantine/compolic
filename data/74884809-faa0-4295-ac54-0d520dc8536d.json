@@ -325,6 +325,15 @@
       "releaseDate": "2026-03-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "5a0228e0-c310-4471-8fad-2ae223343849",
+      "title": "かわいいスイッチ",
+      "artist": "ラフ×ラフ",
+      "isrc": "JPH492400088",
+      "releaseDate": "2024-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

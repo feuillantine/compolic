@@ -1009,6 +1009,15 @@
       "releaseDate": "",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2f634d5f-1c4e-4a5b-8fb3-f22adc2c0743",
+      "title": "Glory Star",
+      "artist": "岬珊瑚",
+      "isrc": "JPPC01802427",
+      "releaseDate": "2019-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

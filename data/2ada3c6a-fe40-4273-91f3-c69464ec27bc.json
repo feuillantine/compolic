@@ -199,6 +199,15 @@
       "releaseDate": "2021-07-26",
       "spotifyUrl": "https://open.spotify.com/track/5HYB5I6DdIt33FIAlQ7nTb",
       "isFallback": true
+    },
+    {
+      "id": "efe65604-c17f-421a-9a58-cf2a2254eb09",
+      "title": "キミインプレッション",
+      "artist": "B小町",
+      "isrc": "JPD732501842",
+      "releaseDate": "2026-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/706jJOJ949tfD5eqLRjhTT",
+      "isFallback": false
     }
   ]
 }

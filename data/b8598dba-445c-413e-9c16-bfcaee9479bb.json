@@ -226,6 +226,51 @@
       "releaseDate": "2020-02-19",
       "spotifyUrl": "https://open.spotify.com/track/4VJqx6RHKaXIGNIseeMFUx",
       "isFallback": true
+    },
+    {
+      "id": "a2368410-47ec-41dd-9473-3505ee9c70c0",
+      "title": "Groovity",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7da65402-95f5-4af4-9d6a-90018f59be7e",
+      "title": "Coastal Vibes",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9ec594aa-f5a5-4ceb-9ba1-38757c085584",
+      "title": "When the Light Returns",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80aab077-1ea3-4a36-be06-e30ac1045b21",
+      "title": "Pixel ∞ Mind",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d62915e7-2acd-47ec-9491-f2d2d9672908",
+      "title": "Velvet Mirage",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -901,6 +901,33 @@
       "releaseDate": "2026-02-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f562a6fb-1133-40ce-93be-f80582314515",
+      "title": "愛に生きる喜びを",
+      "artist": "流石知冴",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "02aa5415-d79b-4eea-ba37-382c29bdb7ea",
+      "title": "VIVID BIT AT HOME！",
+      "artist": "柳場ぱんだ",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "502f8c9f-16cb-4b2c-b3dd-f3743c524a75",
+      "title": "開運御札初詣!",
+      "artist": "鳳 ここな",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

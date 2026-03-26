@@ -658,6 +658,51 @@
       "releaseDate": "2026-01-01",
       "spotifyUrl": "https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9",
       "isFallback": true
+    },
+    {
+      "id": "7a84fc81-19e4-4a17-b04b-2fb1bdd12c95",
+      "title": "月影のトロイメライ",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01701972",
+      "releaseDate": "2017-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/1quJNqbJFgd3c7Qxj5A3Rm",
+      "isFallback": false
+    },
+    {
+      "id": "8eafc033-87e4-4f0f-a61a-82b22bb7b630",
+      "title": "STORIA",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01702806",
+      "releaseDate": "2018-03",
+      "spotifyUrl": "https://open.spotify.com/track/1DRWMvQa4hrLQNQGqWrl9T",
+      "isFallback": false
+    },
+    {
+      "id": "c8e6dffe-bbc2-492c-923e-de2cb0ade186",
+      "title": "Cresc. Heart",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01701971",
+      "releaseDate": "2017-09-10",
+      "spotifyUrl": "https://open.spotify.com/track/0UC06TrRCc7YMoNhML2iVH",
+      "isFallback": false
+    },
+    {
+      "id": "76e0d351-f95a-428d-99a5-8964224a0c98",
+      "title": "エンゼルランプ",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01702807",
+      "releaseDate": "2018-03",
+      "spotifyUrl": "https://open.spotify.com/track/1R2nkjTyx0RIFvwyAjQ050",
+      "isFallback": false
+    },
+    {
+      "id": "7ef4926f-4cde-43b6-a225-0adc9d4b1b0e",
+      "title": "Sinfonia",
+      "artist": "トロワアンジュ",
+      "isrc": "JPPC01702808",
+      "releaseDate": "2018-03",
+      "spotifyUrl": "https://open.spotify.com/track/4GFNf9mTwipSQeUfHmLrL1",
+      "isFallback": false
     }
   ]
 }

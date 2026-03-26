@@ -271,6 +271,24 @@
       "releaseDate": "2023-06-28",
       "spotifyUrl": "https://open.spotify.com/track/5NAhakYBfDrnPwclaAqKQT",
       "isFallback": true
+    },
+    {
+      "id": "4901f881-6085-49f1-8edd-c4c792450ccf",
+      "title": "チェキチェキ LOVE ME",
+      "artist": "B小町",
+      "isrc": "JPD732501840",
+      "releaseDate": "2026-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/0lYeswFmbcw82euZFv1wFR",
+      "isFallback": false
+    },
+    {
+      "id": "ef67727e-b0e4-4819-97ff-e91d4decc4f9",
+      "title": "夏の覚悟を今決めろ！",
+      "artist": "ラフ×ラフ",
+      "isrc": "JPH492500066",
+      "releaseDate": "2025-07-12",
+      "spotifyUrl": "https://open.spotify.com/track/1wzhEZZvJ20ozog9qAUaQZ",
+      "isFallback": false
     }
   ]
 }

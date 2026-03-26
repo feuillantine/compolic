@@ -325,6 +325,15 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "https://open.spotify.com/track/26TOs2vNAdObq2R0aUgwqJ",
       "isFallback": true
+    },
+    {
+      "id": "51953700-0567-4003-9800-b537b733d006",
+      "title": "MY WILL",
+      "artist": "B小町",
+      "isrc": "JPD732501841",
+      "releaseDate": "2026-03-25",
+      "spotifyUrl": "https://open.spotify.com/track/1iu043Mc08rP0vIOFeFwb0",
+      "isFallback": false
     }
   ]
 }

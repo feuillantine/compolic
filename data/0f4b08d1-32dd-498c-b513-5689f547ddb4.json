@@ -505,6 +505,357 @@
       "releaseDate": "2026-03-18",
       "spotifyUrl": "https://open.spotify.com/track/3VUnuoKmPeESbXpIA4OE8v",
       "isFallback": true
+    },
+    {
+      "id": "06a55c4f-3059-434c-bac2-1ae2e83a2f85",
+      "title": "デジネコポップヌコミックス",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2a58721-cb95-405c-aeaf-800c42ab2a64",
+      "title": "ユメクイ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f879c6d6-881b-4baf-b03a-36735345a286",
+      "title": "プリンセス・カウガール・ショー",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-09-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d149427-f59e-44c0-baa8-9f290121199f",
+      "title": "flower of sorrow",
+      "artist": "OSTER project",
+      "isrc": "JPT361400009",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6ace9c37-be0d-45f7-8d2c-ca96dd148561",
+      "title": "Around the World",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "78fe3089-d3ae-45f9-80ba-0608d7892a89",
+      "title": "ゆきうさぎ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d3287d3f-8764-4fb5-ad2f-1b8b2bd9052f",
+      "title": "tete-a-tete",
+      "artist": "OSTER project",
+      "isrc": "JPT361400007",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c6bee5c-4b6a-4491-8d22-f33bee93b4e1",
+      "title": "Ladies First",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f172f8b2-b687-49a1-aae7-ccc1d9447d0c",
+      "title": "あなたの彼女になったなら",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2011-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c9b27116-b661-4ca2-97cf-b713e7f59a18",
+      "title": "片想イ VOC@LOID",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "432fb47d-f81f-403b-bb13-a3e6831385f6",
+      "title": "魔法使いのショコラティエ",
+      "artist": "OSTER project",
+      "isrc": "JPT361400006",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "084556ce-547c-4354-85a3-65cc760d6afb",
+      "title": "RAINBOW PANDA",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2011-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "59266195-9916-4771-bd30-7ea36ecd2521",
+      "title": "月夜と黒猫",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2011-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3629110a-5268-4cbd-a587-ae9418b17497",
+      "title": "8月の花嫁",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "10c238bb-c136-4354-9783-4ae418c185b3",
+      "title": "RING×RING×RING",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bdb6b1e8-ef0f-46f5-a568-a195b5867374",
+      "title": "おやすみのうた",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e976b973-1609-4ef4-8051-458f2f808edd",
+      "title": "ドロッセルの剣",
+      "artist": "OSTER project",
+      "isrc": "JPT361400004",
+      "releaseDate": "2012-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "57266c56-e1df-4ff1-a4f5-373f7cda902f",
+      "title": "つきうさぎ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fc8e34e1-90c9-4eca-9d8b-af201603407f",
+      "title": "on the rocks",
+      "artist": "OSTER project",
+      "isrc": "JPT361400011",
+      "releaseDate": "2013-01-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a2b1b2e1-a452-48af-9f18-3f6d90729ee5",
+      "title": "マスマティガール",
+      "artist": "OSTER project",
+      "isrc": "JPT361400012",
+      "releaseDate": "2011-08-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ff1f1efc-c35a-4158-9e6c-7b63b716051e",
+      "title": "POMPADOUR",
+      "artist": "OSTER project",
+      "isrc": "JPT361400002",
+      "releaseDate": "2012-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3bd346f-3ef1-4a08-a921-8751b639ee49",
+      "title": "狐ノ嫁入リ",
+      "artist": "OSTER project",
+      "isrc": "JPT361400010",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d334469b-cb08-4484-9fc2-e60519784868",
+      "title": "ガンガンがんばリンク!!",
+      "artist": "OSTER project",
+      "isrc": "JPT361400008",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f880b66-fe56-41e7-b741-4b62983d29be",
+      "title": "@",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2009-08-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9df8eb8f-1a42-4235-8c63-2421173edd0d",
+      "title": "HAPPY FLOWER SHOOOOOP!!",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6093f309-562c-4926-9db3-e531f5c3387c",
+      "title": "MARSHMALLOW HOLIC",
+      "artist": "OSTER project",
+      "isrc": "JPT361400001",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c3098cd7-1abe-42e1-ab89-f1e282ee60cf",
+      "title": "おおかみなんかこわくないッ!",
+      "artist": "OSTER project",
+      "isrc": "JPT361400013",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "08204fe2-0e9a-4f60-8864-02ca3b7e712a",
+      "title": "ピアノ×フォルテ×スキャンダル",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "df9ffdf2-bd27-4f70-b55d-31f52fd6dafc",
+      "title": "one more kiss",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e7e0e0ad-9bfa-4931-802d-b7ca33e19ae5",
+      "title": "恋スル大合唱",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "45ac7e24-a99a-4753-91f8-8b1681e3fe12",
+      "title": "Music Wizard of OZ",
+      "artist": "OSTER project",
+      "isrc": "JPT361400014",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb39e2a5-3e5b-4a9f-809c-3f58d8f1cfd0",
+      "title": "レツェルの騎士",
+      "artist": "OSTER project",
+      "isrc": "JPT361400005",
+      "releaseDate": "2012-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6bb0bdfe-f355-4437-86ec-e49f6feae17d",
+      "title": "モーニングコール",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "16d31fbe-2acc-4498-a45b-676a8b0c7ad3",
+      "title": "サマーアイドル",
+      "artist": "OSTER project",
+      "isrc": "JPT361400003",
+      "releaseDate": "2014-04-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64694b57-7beb-4750-85c0-44875185d909",
+      "title": "trick and treat",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bedce56c-f4c8-4c02-b161-ac8614538bb8",
+      "title": "ゴシップ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2011-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c7d066eb-07c2-4973-b2c4-2541dc36ce98",
+      "title": "Dreaming Leaf-ユメミルコトノハ-",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "37f30b20-1f99-4051-a5e6-b787973bcf8d",
+      "title": "シングルベッド",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2011-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f170c262-b218-4266-9b77-747f3be0b4e7",
+      "title": "ちょこまじ☆ろんぐ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2008-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1639,6 +1639,15 @@
       "releaseDate": "2015-04-08",
       "spotifyUrl": "https://open.spotify.com/track/3FFhR22tldioKhHPgxPiGU",
       "isFallback": true
+    },
+    {
+      "id": "16a88d30-971a-414f-a20e-0227ab8c6778",
+      "title": "Like the Sun, Like the Moon",
+      "artist": "ステラマリス",
+      "isrc": "JPPC01901449",
+      "releaseDate": "2019-10-02",
+      "spotifyUrl": "https://open.spotify.com/track/2Eo4AObyEzIH4jstKtlFRK",
+      "isFallback": false
     }
   ]
 }

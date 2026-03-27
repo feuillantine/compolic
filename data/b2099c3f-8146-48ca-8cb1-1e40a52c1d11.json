@@ -19,6 +19,15 @@
       "releaseDate": "2025-04-27",
       "spotifyUrl": "https://open.spotify.com/track/3c9Reds9SZqc6zoLqBbycD",
       "isFallback": true
+    },
+    {
+      "id": "a2360dcd-ece9-449b-8187-06fa6d05d47e",
+      "title": "rainbow",
+      "artist": "ああああ",
+      "isrc": "",
+      "releaseDate": "2018-11-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

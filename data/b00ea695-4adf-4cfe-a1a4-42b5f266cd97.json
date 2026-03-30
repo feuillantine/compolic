@@ -1426,6 +1426,15 @@
       "releaseDate": "2024-07-03",
       "spotifyUrl": "https://open.spotify.com/track/5ZWjkHnE4ZX0he8AMl61Yp",
       "isFallback": true
+    },
+    {
+      "id": "2c6d08b2-3ccb-4207-b6b9-17b58c0491d6",
+      "title": "管制塔より",
+      "artist": "博衣こより",
+      "isrc": "JPA3C2600068",
+      "releaseDate": "2026-03-29",
+      "spotifyUrl": "https://open.spotify.com/track/2P3pm0EDsZjoQfNWXsDxLg",
+      "isFallback": false
     }
   ]
 }

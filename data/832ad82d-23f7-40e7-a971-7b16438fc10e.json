@@ -874,6 +874,15 @@
       "releaseDate": "2020-01-16",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a9d8d4df-58b0-4271-9153-af1088feeacd",
+      "title": "信頼マッスル",
+      "artist": "紗倉ひびき",
+      "isrc": "JPD732501012",
+      "releaseDate": "2026-03-18",
+      "spotifyUrl": "https://open.spotify.com/track/6jExMxIxwBHS6BcQL2dY2g",
+      "isFallback": false
     }
   ]
 }

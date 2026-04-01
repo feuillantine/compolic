@@ -73,6 +73,15 @@
       "releaseDate": "2019-11-17",
       "spotifyUrl": "https://open.spotify.com/track/4UgtqvgkLe2jWy7iFHwusD",
       "isFallback": true
+    },
+    {
+      "id": "d6d1550c-9990-4e36-a49c-1133ac9b8992",
+      "title": "Lifetime Showtime (Japanese ver.)",
+      "artist": "FUWAMOCO",
+      "isrc": "JPV752510654",
+      "releaseDate": "2025-08-01",
+      "spotifyUrl": "https://open.spotify.com/track/3UfsB0AgsSVnKCR7ORODBP",
+      "isFallback": true
     }
   ]
 }

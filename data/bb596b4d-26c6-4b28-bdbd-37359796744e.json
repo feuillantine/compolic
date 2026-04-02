@@ -634,6 +634,15 @@
       "releaseDate": "2015-08-28",
       "spotifyUrl": "https://open.spotify.com/track/1Ag2i46OmrlLWw7k3DFqs0",
       "isFallback": true
+    },
+    {
+      "id": "42ab7300-ba03-4094-9d2b-ef23475677eb",
+      "title": "願いの乙女",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2025-07-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

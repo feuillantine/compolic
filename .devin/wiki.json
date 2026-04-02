@@ -1,0 +1,222 @@
+{
+  "repo_notes": [
+    {
+      "content": "全てを日本語で作成"
+    }
+  ],
+  "pages": [
+    {
+      "title": "Compolic Overview",
+      "purpose": "High-level introduction to Compolic: what it does, its architecture, key components (CLI, data store, preview UI, GitHub Actions), and how they fit together. Links to child pages for details.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Getting Started",
+      "purpose": "Step-by-step setup guide for both local development and GitHub Actions automation. Covers prerequisites (Node.js 22+, Spotify credentials), .env configuration, required GitHub Secrets (PAT_TOKEN, SPOTIFY_*), and running the first command.",
+      "parent": "Compolic Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Project Structure",
+      "purpose": "Explains the top-level directory layout: src/ (CLI commands and utilities), data/ (JSON artist files), preview/ (React web UI), .github/ (workflows and actions). Describes the role of each area and how they interact.",
+      "parent": "Compolic Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "CLI Commands",
+      "purpose": "Overview of the Compolic CLI (src/index.ts entry point, commander-based dispatch). Introduces all subcommands and links to child pages for each major command group.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Track Ingestion Commands",
+      "purpose": "Detailed documentation of get-tracks, get-multiple-tracks, and update-tracks commands. Covers the full ingestion pipeline: MusicBrainz Work lookup → Recording selection heuristic → ISRC/Spotify URL resolution → JSON file write. Explains --artist, --arid, --update-missing options.",
+      "parent": "CLI Commands",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Playlist Sync and Index Commands",
+      "purpose": "Documents sync-tracks-to-playlist (main vs. sub playlist classification logic, differential update), generate-index (produces data/files.json for the preview UI), and get-spotify-refresh-token (local OAuth helper). Covers config.ts environment loading.",
+      "parent": "CLI Commands",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Core Utilities",
+      "purpose": "Overview of the utility modules in src/utils/ and how they support the CLI commands. Links to child pages for MusicBrainz and Spotify integrations.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "MusicBrainz Integration",
+      "purpose": "Deep dive into src/utils/music-brainz.ts. Covers the MusicBrainz Web API calls: getArtistIdByName, getArtistById, fetchWorksPage/getAllWorks (paginated), getRecording. Explains the Work→Recording resolution heuristic (attribute count, title length, duration presence). Documents rate-limiting via sleep utility.",
+      "parent": "Core Utilities",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Spotify Integration",
+      "purpose": "Deep dive into src/utils/spotify.ts. Covers getAccessToken (refresh token flow), searchTrack (ISRC-first then title+artist fallback), getAllPlaylistTrackUris (paginated), addTracksToPlaylist (batched). Explains the isFallback flag semantics and the createSpotifyApi factory.",
+      "parent": "Core Utilities",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "String and Katakana Utilities",
+      "purpose": "Documents src/utils/string.ts (convertRomajiToKatakana using wanakana) and src/utils/katakana-converter.ts. Explains why sortName normalization is needed for Japanese collation and how it is applied during artist ingestion.",
+      "parent": "Core Utilities",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Data Store",
+      "purpose": "Overview of the data/ directory: flat-file JSON store keyed by MusicBrainz Artist UUID. Describes the ComposerData/ComposerTrack schema, the files.json index, and the overall data lifecycle. Links to child pages for schema details and catalog coverage.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "JSON Schema Reference",
+      "purpose": "Formal reference for the ComposerData and ComposerTrack TypeScript interfaces (src/types/composer-data.ts). Documents every field: name, sortName, otherNames, tracks[].id, tracks[].title, tracks[].artist, tracks[].isrc, tracks[].releaseDate, tracks[].spotifyUrl, tracks[].isFallback. Includes annotated example JSON.",
+      "parent": "Data Store",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Catalog Coverage and Content Patterns",
+      "purpose": "Describes the types of music cataloged: idol pop (Nogizaka46, Sakurazaka46, =LOVE, Love Live!), anime/game soundtracks (Idolmaster, Uma Musume, Revue Starlight), VTuber originals (hololive, NIJISANJI), and BGM/functional audio. Explains composer-centric vs. performer-centric views, cross-artist collaboration patterns, and future-dated entries.",
+      "parent": "Data Store",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Preview Web Application",
+      "purpose": "Overview of the preview/ React SPA: its purpose (browsing collected composer discographies), tech stack (React 19, Vite, Tailwind CSS v4, shadcn/ui, React Router v7), build process, and deployment to GitHub Pages. Links to child pages for UI components and data flow.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Data Loading and State Management",
+      "purpose": "Documents the preview data layer: useData hook (fetches data/files.json then all composer JSONs in parallel, builds DataMap), useRows (filtering, excludeOwn logic, deduplication, sorting), useHomeQuery (URL-synced filter/sort/search state). Covers the ComposerFile/DataRow/SortState types in preview/src/types.ts.",
+      "parent": "Preview Web Application",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "UI Components",
+      "purpose": "Documents the Home page component tree: Nav (sidebar artist list), Toolbar (search input, artist select, excludeOwn toggle), List (sortable table), Card/HomeCard (row renderer with Spotify/YouTube links), StatusBar, Footer, AboutModal, Empty, Error. Also covers shadcn/ui primitives in preview/src/components/ui/ and icon components.",
+      "parent": "Preview Web Application",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Build and Deployment",
+      "purpose": "Explains the preview build pipeline: Vite build + ssg.ts post-processing, VITE_BASE_PATH env var for GitHub Pages sub-path, base-path.ts withBasePath utility. Documents the deploy.yml workflow trigger (push to main on data/** or preview/**), generate-index step, artifact upload, and GitHub Pages deployment.",
+      "parent": "Preview Web Application",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "GitHub Actions Workflows",
+      "purpose": "Overview of all automation workflows in .github/workflows/. Introduces the three main workflows and links to child pages. Also covers the shared setup action and linting workflows.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Add Request Workflow",
+      "purpose": "Detailed walkthrough of add-request.yml: trigger (issue labeled 'add-request', owner-only guard), issue body parsing with sed/awk to extract composer names, get-multiple-tracks invocation, change detection, branch creation (add-request-{N}), commit, PR creation with Closes #{N}, reviewer assignment, and PAT_TOKEN requirement.",
+      "parent": "GitHub Actions Workflows",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Update Tracks and Deploy Workflows",
+      "purpose": "Documents update-tracks.yml (daily cron at 18:00 UTC, iterates all data/*.json and re-fetches) and deploy.yml (triggered on data/** or preview/** push: generate-index → preview build → GitHub Pages deploy). Explains why PAT_TOKEN is needed to trigger downstream workflows.",
+      "parent": "GitHub Actions Workflows",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Linting and CI Workflows",
+      "purpose": "Documents gh-actions-lint.yml (actionlint with custom matcher), ts-lint.yml (tsc --noEmit + Biome check), and the shared .github/actions/setup/action.yml composite action. Covers biome.json configuration and the AGENTS.md coding conventions for contributors and AI agents.",
+      "parent": "GitHub Actions Workflows",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Glossary",
+      "purpose": "Definitions of all codebase-specific terms, Japanese music industry jargon, abbreviations, and domain concepts that an onboarding engineer needs to know. Each entry includes code pointers.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1540,6 +1540,15 @@
       "releaseDate": "2011-03-16",
       "spotifyUrl": "https://open.spotify.com/track/1igzBPFAPzjYU0Tnqu9vhV",
       "isFallback": true
+    },
+    {
+      "id": "bc6f6789-f8d8-4a64-b82a-517f452b5bb2",
+      "title": "緋に燃える瞳",
+      "artist": "沢城みゆき",
+      "isrc": "JPVP01201301",
+      "releaseDate": "2012-03-21",
+      "spotifyUrl": "https://open.spotify.com/track/0EBK5I8z2QgqchxCQWJ6of",
+      "isFallback": true
     }
   ]
 }

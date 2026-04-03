@@ -109,6 +109,15 @@
       "releaseDate": "2025-10-08",
       "spotifyUrl": "https://open.spotify.com/track/6uQbTRMEc0cS5dd9xuHkNC",
       "isFallback": true
+    },
+    {
+      "id": "1850ec3b-0019-4062-8660-5e26c30808f3",
+      "title": "めくるめくランデヴー",
+      "artist": "FUWAMOCO",
+      "isrc": "JPA3C2600073",
+      "releaseDate": "2026-04-02",
+      "spotifyUrl": "https://open.spotify.com/track/026VbVyatYFa1u0pKcN4FP",
+      "isFallback": false
     }
   ]
 }

@@ -280,6 +280,15 @@
       "releaseDate": "2012-08-10",
       "spotifyUrl": "https://open.spotify.com/track/5W71VXBo3n99dzVzP8Lqnv",
       "isFallback": true
+    },
+    {
+      "id": "5a305bc4-8f33-4569-8c80-c4b874df5fb5",
+      "title": "ぽわぽわぷてぃこんてんしさま",
+      "artist": "桃寝ちのい",
+      "isrc": "",
+      "releaseDate": "2026-04-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

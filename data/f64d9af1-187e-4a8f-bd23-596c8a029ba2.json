@@ -136,6 +136,15 @@
       "releaseDate": "2025-09-24",
       "spotifyUrl": "https://open.spotify.com/track/7jfrVeQk7Cl6uYyW49EXjl",
       "isFallback": true
+    },
+    {
+      "id": "8be521a6-46d9-4443-9083-40d1018a7f09",
+      "title": "my glow",
+      "artist": "城戸ヒカリ",
+      "isrc": "JPB602402140",
+      "releaseDate": "2024-06-26",
+      "spotifyUrl": "https://open.spotify.com/track/3xl6KqEE56ffmrtuymaDEW",
+      "isFallback": false
     }
   ]
 }

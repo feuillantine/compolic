@@ -1225,6 +1225,24 @@
       "releaseDate": "2007-11-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "022773ec-003b-4f37-99fb-3a87201ada60",
+      "title": "EXEC_CUTYPUMP/.",
+      "artist": "あう",
+      "isrc": "",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6336f06c-d651-4033-a7e9-279c9b1ddd93",
+      "title": "EXEC_Z/.",
+      "artist": "東川遥",
+      "isrc": "",
+      "releaseDate": "2010-01-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

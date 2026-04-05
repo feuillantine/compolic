@@ -742,6 +742,15 @@
       "releaseDate": "2025-08-27",
       "spotifyUrl": "https://open.spotify.com/track/78JEqCXn83FDvWeV0xK9L4",
       "isFallback": true
+    },
+    {
+      "id": "ccb8f718-9abb-4cc0-82d7-1ce746476060",
+      "title": "ハミングDays",
+      "artist": "petit corolla",
+      "isrc": "JPCO01722760",
+      "releaseDate": "2017-11-01",
+      "spotifyUrl": "https://open.spotify.com/track/1csks78TOw5EVbfK53pZDC",
+      "isFallback": false
     }
   ]
 }

@@ -1072,6 +1072,15 @@
       "releaseDate": "2019-02-13",
       "spotifyUrl": "https://open.spotify.com/track/6toHbX8ivQMvCWuivjlGvX",
       "isFallback": true
+    },
+    {
+      "id": "fb65e4ec-3cb8-4701-9703-43cd5c51aa96",
+      "title": "LUSH STAR☆",
+      "artist": "LUSH STAR☆",
+      "isrc": "JPCO01720780",
+      "releaseDate": "2017-10-04",
+      "spotifyUrl": "https://open.spotify.com/track/1MScOgv70rJmIGelwLivGC",
+      "isFallback": false
     }
   ]
 }

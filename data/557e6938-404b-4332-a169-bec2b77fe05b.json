@@ -5842,6 +5842,33 @@
       "releaseDate": "2026-02-24",
       "spotifyUrl": "https://open.spotify.com/track/69xLdwqt4S8AysPavPS3K1",
       "isFallback": true
+    },
+    {
+      "id": "20d1caac-c4e2-41a4-948b-10ef8d35b4b7",
+      "title": "Present for You",
+      "artist": "ヴィヴィ",
+      "isrc": "",
+      "releaseDate": "2021-06-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "40a14af5-a669-47f8-8ad0-a9f84147afd8",
+      "title": "Song for Singer",
+      "artist": "ディーヴァ",
+      "isrc": "",
+      "releaseDate": "2021-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "94e27129-caa3-42c3-8059-82f5fe7f6d35",
+      "title": "Think of You",
+      "artist": "オフィーリア",
+      "isrc": "",
+      "releaseDate": "2021-09-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

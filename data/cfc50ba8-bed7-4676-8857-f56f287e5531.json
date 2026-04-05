@@ -928,6 +928,24 @@
       "releaseDate": "2026-02-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6a2cd198-7b0c-41bd-8e2e-723032065c7d",
+      "title": "情熱のパラディソ",
+      "artist": "AKATSUKI",
+      "isrc": "JPZ921812823",
+      "releaseDate": "2018-12-25",
+      "spotifyUrl": "https://open.spotify.com/track/0mjuKycO5eWetNOz2UwfP1",
+      "isFallback": false
+    },
+    {
+      "id": "1efe8ec2-27c0-4e22-8b85-34b9f68c5a7e",
+      "title": "暁のDiva",
+      "artist": "AKATSUKI",
+      "isrc": "JPZ921909419",
+      "releaseDate": "2019-10-16",
+      "spotifyUrl": "https://open.spotify.com/track/2YEuRxZhQ9Hyw2RHIAUikV",
+      "isFallback": false
     }
   ]
 }

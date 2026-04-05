@@ -1018,6 +1018,15 @@
       "releaseDate": "2019-01-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b768b457-1c33-4dac-bd05-62bf49f58ca9",
+      "title": "輝夜",
+      "artist": "如月千早",
+      "isrc": "JPCO02523260",
+      "releaseDate": "2026-01-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

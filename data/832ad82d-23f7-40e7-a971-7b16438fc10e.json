@@ -883,6 +883,15 @@
       "releaseDate": "2026-03-18",
       "spotifyUrl": "https://open.spotify.com/track/6jExMxIxwBHS6BcQL2dY2g",
       "isFallback": false
+    },
+    {
+      "id": "7e2d9806-0bbf-4869-9e01-a34bbccceaf7",
+      "title": "うぃるびー・ざ・めいたんてい!",
+      "artist": "アイカツアカデミー!配信部",
+      "isrc": "JPI102502165",
+      "releaseDate": "2025-09-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

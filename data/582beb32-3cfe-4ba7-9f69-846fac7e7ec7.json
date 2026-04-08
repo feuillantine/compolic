@@ -622,6 +622,96 @@
       "releaseDate": "2017-08-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2083782d-2179-48dd-8829-38f1276bb7e8",
+      "title": "デッドボーイ、デッドガール",
+      "artist": "CY8ER",
+      "isrc": "JPR841900010",
+      "releaseDate": "2019-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/2ZuAplU4xtyaWzvXO53HJb",
+      "isFallback": false
+    },
+    {
+      "id": "dfb79afa-4b52-4c82-b674-b68559950a16",
+      "title": "Everything's Gonna Be Alright",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002454",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55caf4cb-54b0-40c1-bf4f-e9d46eaf0cc3",
+      "title": "Overture",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002353",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa410b01-66da-4954-b72b-e7eed8cb1c0f",
+      "title": "マイライフ",
+      "artist": "CY8ER",
+      "isrc": "JPR841900011",
+      "releaseDate": "2019-02-26",
+      "spotifyUrl": "https://open.spotify.com/track/0ZnPGFm3Djx9vJijm5ATed",
+      "isFallback": false
+    },
+    {
+      "id": "b0389169-b972-41ca-8862-5d2ddaf017de",
+      "title": "かくしぇーむ (Batsu Remix)",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002366",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4410235f-82a7-4cc8-a2b2-d13ede8d6de1",
+      "title": "東京ラットシティ",
+      "artist": "CY8ER",
+      "isrc": "JPVI01903808",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "https://open.spotify.com/track/0Cn9Em6o1NTYBNd0RqiAO1",
+      "isFallback": false
+    },
+    {
+      "id": "8f7656b8-13ae-4dff-a69f-8c6274bba94a",
+      "title": "ドキドキパリラルラ (2017MIX)",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002357",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d7153518-304e-48de-8141-c53e8d23f44c",
+      "title": "時をとめて",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002455",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2fab416f-f9d7-47c0-ad03-6aa17540bd0a",
+      "title": "サマー (Batsu Remix)",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002378",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5d835208-355f-49fa-b34c-83eda5aa33f1",
+      "title": "幽霊屋敷",
+      "artist": "CY8ER",
+      "isrc": "JPVI02002379",
+      "releaseDate": "2020-12-16",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

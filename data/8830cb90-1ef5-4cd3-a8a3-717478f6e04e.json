@@ -289,6 +289,15 @@
       "releaseDate": "2025-07-12",
       "spotifyUrl": "https://open.spotify.com/track/1wzhEZZvJ20ozog9qAUaQZ",
       "isFallback": false
+    },
+    {
+      "id": "c89ed95d-125a-4cd1-8b35-b61a53c2d76a",
+      "title": "銭湯ラプソディー",
+      "artist": "乃木坂46",
+      "isrc": "JPU902204613",
+      "releaseDate": "2022-12-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

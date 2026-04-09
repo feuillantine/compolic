@@ -1027,6 +1027,15 @@
       "releaseDate": "2026-01-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d9b1417f-8518-4795-94d2-9fba59d39d8f",
+      "title": "アンブレラ",
+      "artist": "DOLLCHESTRA",
+      "isrc": "JPI102600608",
+      "releaseDate": "2026-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/6AaAWVexF1BzR0mUrr655w",
+      "isFallback": true
     }
   ]
 }

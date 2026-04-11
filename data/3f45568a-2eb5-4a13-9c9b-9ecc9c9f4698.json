@@ -1588,6 +1588,33 @@
       "releaseDate": "2014-10-15",
       "spotifyUrl": "https://open.spotify.com/track/4C2cA5R5oHWLm8ZrsSoe4r",
       "isFallback": true
+    },
+    {
+      "id": "cda12004-3c5b-4e24-a76a-2cef2d79c0ae",
+      "title": "死闘の円形闘技場(コロセウム)",
+      "artist": "Capcom Sound Team",
+      "isrc": "JPE101100400",
+      "releaseDate": "2011-02-23",
+      "spotifyUrl": "https://open.spotify.com/track/6dL0h4N6njXA3EoP4knlqa",
+      "isFallback": true
+    },
+    {
+      "id": "afe95d17-ecc4-4bf7-aaf7-d2efa3d74efa",
+      "title": "我が威信を賭して",
+      "artist": "百石元",
+      "isrc": "",
+      "releaseDate": "2006-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "022daa37-790f-4054-8771-11a830f97050",
+      "title": "熱砂に送られし刺客",
+      "artist": "百石元",
+      "isrc": "",
+      "releaseDate": "2006-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

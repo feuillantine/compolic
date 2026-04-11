@@ -361,6 +361,15 @@
       "releaseDate": "2026-01-31",
       "spotifyUrl": "https://open.spotify.com/track/4Dd98O6Mtg6KE53ACwLwQk",
       "isFallback": true
+    },
+    {
+      "id": "6da0064c-a764-4937-9109-ac1dbc6ff7c5",
+      "title": "不思議と君とライブラリー",
+      "artist": "スリーズブーケ",
+      "isrc": "",
+      "releaseDate": "2026-04-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

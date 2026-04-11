@@ -91,6 +91,15 @@
       "releaseDate": "2024-01-31",
       "spotifyUrl": "https://open.spotify.com/track/2W9gQRyeCHsCpbuFvd8kVy",
       "isFallback": false
+    },
+    {
+      "id": "9db8f826-37eb-473a-a8ba-04284ef99fb5",
+      "title": "センパイ",
+      "artist": "みらくらぱーく!",
+      "isrc": "",
+      "releaseDate": "2026-04-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

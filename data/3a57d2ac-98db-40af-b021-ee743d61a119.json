@@ -946,6 +946,15 @@
       "releaseDate": "2026-01-28",
       "spotifyUrl": "https://open.spotify.com/track/1bji5TAaqvz3Q0fgCIH9bq",
       "isFallback": true
+    },
+    {
+      "id": "9767af12-16e4-4b35-9363-588dcd82efa9",
+      "title": "Romantic Memories",
+      "artist": "放課後パレット",
+      "isrc": "JPV432600312",
+      "releaseDate": "2026-04-11",
+      "spotifyUrl": "https://open.spotify.com/track/1rK7ElTj5p3lGkjlXAw8Cc",
+      "isFallback": false
     }
   ]
 }

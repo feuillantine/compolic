@@ -352,6 +352,24 @@
       "releaseDate": "2025-02-19",
       "spotifyUrl": "https://open.spotify.com/track/5JGjG4JWJBAhWUFarRSiSO",
       "isFallback": true
+    },
+    {
+      "id": "3b64a3f5-6733-45bd-85b1-b6a5690e7a4a",
+      "title": "赫焉ノ果テヘ",
+      "artist": "天国地獄",
+      "isrc": "",
+      "releaseDate": "2026-01-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6e65fc8d-6907-4eb6-9039-94c23f8c27c1",
+      "title": "Overture (Paradise Hell)",
+      "artist": "天国地獄",
+      "isrc": "",
+      "releaseDate": "2026-01-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

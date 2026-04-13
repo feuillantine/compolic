@@ -1351,6 +1351,15 @@
       "releaseDate": "2016-06-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b0d9db5d-505f-4236-9bf9-78f02f47a8ed",
+      "title": "爆鳴DIVER!!!!",
+      "artist": "秘密結社holoX",
+      "isrc": "JPV752511331",
+      "releaseDate": "2026-04-08",
+      "spotifyUrl": "https://open.spotify.com/track/2eFHSDVfoazbKRLApMVQB2",
+      "isFallback": false
     }
   ]
 }

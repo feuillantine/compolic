@@ -1360,6 +1360,24 @@
       "releaseDate": "2025-09-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "9fb19540-71dd-4cd2-82bd-27bde9acda25",
+      "title": "flower of sorrow",
+      "artist": "ユリカ/花たん",
+      "isrc": "",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b146ef40-4ab9-4799-8411-12bec027564b",
+      "title": "狐ノ嫁入リ",
+      "artist": "ユリカ/花たん",
+      "isrc": "",
+      "releaseDate": "2013-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -298,6 +298,15 @@
       "releaseDate": "2022-12-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2b62b51a-6d51-46f8-9f9e-0efebdf06856",
+      "title": "サルビアの花を覚えているかい?",
+      "artist": "乃木坂46",
+      "isrc": "JPU902401005",
+      "releaseDate": "2024-04-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

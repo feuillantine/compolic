@@ -55,6 +55,42 @@
       "releaseDate": "2024-10-17",
       "spotifyUrl": "https://open.spotify.com/track/7kA5qzbEt9o58ILZnSPDBK",
       "isFallback": true
+    },
+    {
+      "id": "b9abe23a-3e98-44e2-a2f2-9faa34c68db6",
+      "title": "黎明determination",
+      "artist": "メリーミューズ",
+      "isrc": "TCJPA2493445",
+      "releaseDate": "2024-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f47877ad-3900-488c-9882-171f2b6bb25a",
+      "title": "始まりの時計(2024 Remastered Version)",
+      "artist": "お願い!!フルハウス",
+      "isrc": "JPZ922407711",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0f0c2bc3-8da2-4213-808b-8dba0111d8f9",
+      "title": "オリジナルコンパス",
+      "artist": "お願い!!フルハウス",
+      "isrc": "JPZ922407717",
+      "releaseDate": "2024-10-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "202e8655-8270-4c90-b853-d3881bc9c466",
+      "title": "PANDORA LOVE",
+      "artist": "LUNETTA",
+      "isrc": "TCJPA2480441",
+      "releaseDate": "2024-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

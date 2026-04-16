@@ -499,6 +499,24 @@
       "releaseDate": "2009-01-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "daae2603-8a58-4006-809b-2c6c7440193f",
+      "title": "胸のイタミ",
+      "artist": "野神奈々",
+      "isrc": "",
+      "releaseDate": "2012-06-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "564e1da8-8fcd-4445-88ff-60f91b5c4f50",
+      "title": "夢の続き",
+      "artist": "水橋かおり",
+      "isrc": "",
+      "releaseDate": "2012-06-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

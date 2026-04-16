@@ -643,6 +643,15 @@
       "releaseDate": "2025-07-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "8b6b74be-d17e-4dd2-918b-63f806583d87",
+      "title": "スピードパワー",
+      "artist": "理沙",
+      "isrc": "",
+      "releaseDate": "2012-06-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

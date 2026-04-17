@@ -1486,6 +1486,15 @@
       "releaseDate": "2017-11-01",
       "spotifyUrl": "https://open.spotify.com/track/1X0QSJM7o56eyjxeQw4yLO",
       "isFallback": false
+    },
+    {
+      "id": "ca0a47fc-87b3-4ecd-aa41-35f9ac83f5c2",
+      "title": "One Live One Love",
+      "artist": "ストレイライト",
+      "isrc": "JPI102600635",
+      "releaseDate": "2026-04-12",
+      "spotifyUrl": "https://open.spotify.com/track/0Hrf05A1YxWPqXxbNW2WrL",
+      "isFallback": false
     }
   ]
 }

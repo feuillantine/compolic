@@ -271,6 +271,33 @@
       "releaseDate": "2026-03-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "339adbce-d46a-4c17-93c9-6f26e0d86cb0",
+      "title": "Forest Life",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2017-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e5839fcc-2963-4bf0-aca6-e39364c06746",
+      "title": "Distance to the Light",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2017-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1e5f7b99-a8c6-4892-8584-b0a88992a3e2",
+      "title": "Orbital Revolution",
+      "artist": "DEZOLVE",
+      "isrc": "",
+      "releaseDate": "2017-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

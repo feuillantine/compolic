@@ -1570,6 +1570,15 @@
       "releaseDate": "2025-10-26",
       "spotifyUrl": "https://open.spotify.com/track/3XM4gTCVMEKFpuvT6ns1YL",
       "isFallback": true
+    },
+    {
+      "id": "e2ce76be-4f11-41ac-93de-25c87dd956c8",
+      "title": "ÞULE (Thule)",
+      "artist": "かめりあ",
+      "isrc": "",
+      "releaseDate": "2026-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1648,6 +1648,24 @@
       "releaseDate": "2019-10-02",
       "spotifyUrl": "https://open.spotify.com/track/2Eo4AObyEzIH4jstKtlFRK",
       "isFallback": false
+    },
+    {
+      "id": "50292acb-41ae-4f31-990b-01298c6db916",
+      "title": "Gliding Claw",
+      "artist": "Sizuk",
+      "isrc": "",
+      "releaseDate": "2026-01-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8babde7-3692-4938-ae0c-a0465febabfc",
+      "title": "零",
+      "artist": "Sizuk",
+      "isrc": "JPPC02610698",
+      "releaseDate": "2026-04-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -703,6 +703,15 @@
       "releaseDate": "2018-03",
       "spotifyUrl": "https://open.spotify.com/track/4GFNf9mTwipSQeUfHmLrL1",
       "isFallback": false
+    },
+    {
+      "id": "047aefca-9188-4263-88b5-0d0138407f40",
+      "title": "Re:Collection",
+      "artist": "式宮舞菜",
+      "isrc": "",
+      "releaseDate": "2026-04-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

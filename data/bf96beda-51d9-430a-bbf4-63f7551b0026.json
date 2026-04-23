@@ -1765,6 +1765,15 @@
       "releaseDate": "2025-06-01",
       "spotifyUrl": "https://open.spotify.com/track/5AbsbWSDPAdLEfBYEC1DOY",
       "isFallback": true
+    },
+    {
+      "id": "c3462fa5-3a98-4e89-a6c5-a4cb7e517657",
+      "title": "Radiant",
+      "artist": "ClariS",
+      "isrc": "JPU902403139",
+      "releaseDate": "2026-03-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -2066,6 +2066,15 @@
       "releaseDate": "2025-02-26",
       "spotifyUrl": "https://open.spotify.com/track/1OiVdbj3qcdNgB0CvvoVRq",
       "isFallback": true
+    },
+    {
+      "id": "741e38c1-fa3e-4f3a-9948-ad9f4061e255",
+      "title": "Let Me Be With You 〜ちぃVer.〜",
+      "artist": "ROUND TABLE",
+      "isrc": "JPVI00231450",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -347,6 +347,168 @@
       "releaseDate": "1992-07-01",
       "spotifyUrl": "https://open.spotify.com/track/3Qwqt5LCLqpWaMarrTj9zY",
       "isFallback": true
+    },
+    {
+      "id": "12ead0f2-91cc-433b-9ed9-029f1ae8d831",
+      "title": "a piece of cake",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00231570",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "296a7d07-ef49-48a7-8f7f-c99b0276e900",
+      "title": "they come and go",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00231500",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "903e752e-7dfc-4ec4-b7f6-d5d02204775d",
+      "title": "昼下がりの戯れ 〜多香子Ver.〜",
+      "artist": "柚木涼香",
+      "isrc": "JPVI00231530",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7fc2a384-bb1a-4c57-bb2f-0cf0b107adf8",
+      "title": "You Never Know",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ca0bacfc-3658-4cd9-9956-8de02f5c2a25",
+      "title": "That Was Then",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f047f58-d632-440b-9328-ca5a1f26cb92",
+      "title": "something funny",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00231470",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b8c264a6-8b90-4e92-b972-df4201d07081",
+      "title": "Happy-go-lucky",
+      "artist": "高浪敬太郎",
+      "isrc": "JPVI00231460",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "88391f65-b3ee-4d9f-99c3-7944de6f07e1",
+      "title": "On the Double",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4649e4f-930b-403d-824c-293d6cca6de7",
+      "title": "better",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00231440",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09c1671e-5091-41f2-9ff9-41254945dc44",
+      "title": "Touchy Subject",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bd1e0a50-65a8-49d7-8a21-f631cdb374a0",
+      "title": "Ingakankei",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "56c11eb8-8912-437d-bca3-f1f094945609",
+      "title": "Fast Forward",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eaa80f2b-8cda-4f0d-90a4-b9f2729a3226",
+      "title": "Katakoto no Koi ~Preview~",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e8373357-db84-4636-9891-4de047d9b27b",
+      "title": "In a Brown Study",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb3448fb-e185-41e7-b723-a04eddf88bc7",
+      "title": "a fly on the wall",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00231540",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6090f15a-0478-44fe-a9c0-236d1f85ad9b",
+      "title": "Company",
+      "artist": "高浪慶太郎",
+      "isrc": "",
+      "releaseDate": "2003-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f84d6d9d-a4e2-4cd1-a3cf-72c3a5bfaf25",
+      "title": "spilling salt",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00231600",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d6765297-4faa-49c8-92c0-8beb7427f83f",
+      "title": "midnight voyage",
+      "artist": "高浪慶太郎",
+      "isrc": "JPVI00231610",
+      "releaseDate": "2002-10-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

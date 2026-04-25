@@ -352,6 +352,15 @@
       "releaseDate": "2017-12-05",
       "spotifyUrl": "https://open.spotify.com/track/6tyak0TVc75DSsDd8ZKzNU",
       "isFallback": true
+    },
+    {
+      "id": "a2de0cf4-151c-462b-909b-214c60e82eaa",
+      "title": "ツインテール☆恋してる!?",
+      "artist": "鹿野優以",
+      "isrc": "",
+      "releaseDate": "2010-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

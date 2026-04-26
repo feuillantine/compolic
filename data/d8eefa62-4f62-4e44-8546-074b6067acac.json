@@ -388,6 +388,15 @@
       "releaseDate": "2026-03-09",
       "spotifyUrl": "https://open.spotify.com/track/439wmMr80WEQxTxj73uvYO",
       "isFallback": false
+    },
+    {
+      "id": "7d02e92f-a7fd-4f56-9434-4c1d1d3883cc",
+      "title": "遠心力",
+      "artist": "ロクデナシ",
+      "isrc": "JPVI02501816",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

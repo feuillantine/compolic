@@ -1378,6 +1378,60 @@
       "releaseDate": "2013-01-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ef5b3601-9011-4177-8ed7-0ddca25e2775",
+      "title": "PIANO*GIRL",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2010-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64d4f63a-3904-4eea-8e19-dad99128bc2c",
+      "title": "CandyPop★Showcase",
+      "artist": "OSTER Project",
+      "isrc": "",
+      "releaseDate": "2015-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "823511c5-6431-45ac-9b94-019435400233",
+      "title": "Violet Rose",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2016-10-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "80456744-de8f-4e70-b18f-4f1e88dda757",
+      "title": "MARSHMALLOW HOLIC",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2012-12-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "828f9f49-5bde-445d-9edf-60082646100c",
+      "title": "サマーアイドル",
+      "artist": "OSTER project",
+      "isrc": "JPL991300031",
+      "releaseDate": "2014-09-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7f980795-2a42-4bfa-989e-86ee980ba5b8",
+      "title": "世界を照らすテトラッド",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1774,6 +1774,15 @@
       "releaseDate": "2026-03-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1224fe75-47cc-40dd-a66d-01723c43fa93",
+      "title": "いつか咲く光の花",
+      "artist": "栗林みな実",
+      "isrc": "",
+      "releaseDate": "2011-05-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

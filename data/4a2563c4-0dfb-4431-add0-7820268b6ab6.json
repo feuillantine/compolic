@@ -334,6 +334,15 @@
       "releaseDate": "2026-03-25",
       "spotifyUrl": "https://open.spotify.com/track/1iu043Mc08rP0vIOFeFwb0",
       "isFallback": false
+    },
+    {
+      "id": "9f66947e-7605-41da-ab47-a9ddcd1fb49e",
+      "title": "ちょこざうるす、なぜ泣いてるの？",
+      "artist": "ちょこ",
+      "isrc": "",
+      "releaseDate": "2026-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

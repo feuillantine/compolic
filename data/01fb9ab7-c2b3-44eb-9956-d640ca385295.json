@@ -154,6 +154,15 @@
       "releaseDate": "2023-09-06",
       "spotifyUrl": "https://open.spotify.com/track/4crmKSRKsPcLaA6ouRRbox",
       "isFallback": true
+    },
+    {
+      "id": "67325838-01d9-437a-ac50-e06f30684089",
+      "title": "メルヘンティックショータイム",
+      "artist": "ななひら",
+      "isrc": "",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -397,6 +397,24 @@
       "releaseDate": "2025-07-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1f7b4014-383d-4634-b2d0-645aa274ff1f",
+      "title": "Sound・有機・Traxx -Intro-",
+      "artist": "テクノポップ・有機・シンセサイザーちゃん",
+      "isrc": "",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fbb5f644-66a0-4108-8c9f-8d6b91227a11",
+      "title": "Explorer -Intro-",
+      "artist": "テクノポップ・有機・シンセサイザーちゃん",
+      "isrc": "",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

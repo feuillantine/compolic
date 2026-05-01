@@ -190,6 +190,15 @@
       "releaseDate": "2013-12-04",
       "spotifyUrl": "https://open.spotify.com/track/4ikc30h0UO9kMN7J71Wg93",
       "isFallback": true
+    },
+    {
+      "id": "964320ff-93f6-4ccf-867e-fa49a5c5f434",
+      "title": "Atmosphere",
+      "artist": "初星学園",
+      "isrc": "JPX832500899",
+      "releaseDate": "2025-12-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -118,6 +118,15 @@
       "releaseDate": "2023-02-08",
       "spotifyUrl": "https://open.spotify.com/track/7vgoinWiiw3J9uKKwKC6Bk",
       "isFallback": false
+    },
+    {
+      "id": "85865cad-a8ed-4d46-b8bd-b8c3627217a8",
+      "title": "Especially Angel♡",
+      "artist": "豊川風花",
+      "isrc": "",
+      "releaseDate": "2026-04-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

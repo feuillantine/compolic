@@ -1333,6 +1333,69 @@
       "releaseDate": "2022-04-27",
       "spotifyUrl": "https://open.spotify.com/track/2hzSpqc7veBkviMRhziipF",
       "isFallback": true
+    },
+    {
+      "id": "fdc3d1b8-d507-4d3e-90b0-33ce2967cf0d",
+      "title": "エンディングノート",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000560",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e77d8380-ad4c-40d1-92d5-9a0da1c74fb6",
+      "title": "yours",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000500",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4c6960d2-b69b-470b-9cb5-bc9349fbd20b",
+      "title": "KILIG",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000510",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "81a68126-97e6-422e-b3d4-bdb14f88a22f",
+      "title": "おかえり",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000540",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "125332a6-4528-40f5-a92c-62dd135c34fc",
+      "title": "漫ろ雨",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000530",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e546ce3d-93b5-4d65-b775-de08433d38ad",
+      "title": "聴いて",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000520",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8d416621-000f-4c58-9941-1fb57ebba3b6",
+      "title": "光れ",
+      "artist": "鹿乃",
+      "isrc": "JPTE02000490",
+      "releaseDate": "2020-03-04",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

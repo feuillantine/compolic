@@ -743,6 +743,15 @@
       "releaseDate": "2026-01-15",
       "spotifyUrl": "https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho",
       "isFallback": true
+    },
+    {
+      "id": "d936e2cd-9dbd-461f-bc9a-7f2fbe62b142",
+      "title": "ニンゲン",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02610122",
+      "releaseDate": "2026-01-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

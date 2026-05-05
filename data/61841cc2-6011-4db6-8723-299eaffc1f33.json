@@ -319,6 +319,15 @@
       "releaseDate": "2025-06-13",
       "spotifyUrl": "https://open.spotify.com/track/5U1VXKbUwSrXXgzvLQHbBV",
       "isFallback": true
+    },
+    {
+      "id": "d16a4270-7e4b-48cf-ace8-28b2b4f46953",
+      "title": "世界中が僕に恋しても",
+      "artist": "ちょまいよ",
+      "isrc": "",
+      "releaseDate": "2017-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

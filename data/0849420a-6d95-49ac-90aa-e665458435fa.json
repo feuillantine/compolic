@@ -1162,6 +1162,15 @@
       "releaseDate": "2025-10-29",
       "spotifyUrl": "https://open.spotify.com/track/59d80f92VA4ds8942XO5Cm",
       "isFallback": true
+    },
+    {
+      "id": "0fd20e4a-8b23-4e1c-beb4-7b604a65d608",
+      "title": "自分らしさに会いに行こう",
+      "artist": "名取さな",
+      "isrc": "JP92Y2507650",
+      "releaseDate": "2025-10-18",
+      "spotifyUrl": "https://open.spotify.com/track/20qqma8tjOKfqPNjMbP8tf",
+      "isFallback": false
     }
   ]
 }

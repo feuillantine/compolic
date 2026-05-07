@@ -352,6 +352,15 @@
       "releaseDate": "2022-12-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "884a4b9e-fd14-4e0d-8275-17ab561dca1f",
+      "title": "シアター生き様",
+      "artist": "Edel Note",
+      "isrc": "JPI102502955",
+      "releaseDate": "2025-12-10",
+      "spotifyUrl": "https://open.spotify.com/track/5CfYWKBfDGaU9yRt9EDOSm",
+      "isFallback": false
     }
   ]
 }

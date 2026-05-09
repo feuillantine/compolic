@@ -5869,6 +5869,87 @@
       "releaseDate": "2021-09-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ab54c7b4-e57d-4884-8207-3ea95aa964e2",
+      "title": "勝手な憶測",
+      "artist": "神前暁",
+      "isrc": "JPV432500074",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "403695e9-da41-4f02-8712-2110ed5e1f80",
+      "title": "王母の血族",
+      "artist": "神前暁",
+      "isrc": "JPV432500084",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4511e1eb-53ed-4af1-ac6f-d9f9710bdbe4",
+      "title": "繋がる情報",
+      "artist": "神前暁",
+      "isrc": "JPV432500075",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64e361b3-3f59-4a73-b4ac-db6f836a92ed",
+      "title": "盗賊改",
+      "artist": "神前暁",
+      "isrc": "JPV432500069",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5d4d711-329c-4099-a143-bd2eb65993c6",
+      "title": "鳳仙花 -承継-",
+      "artist": "神前暁",
+      "isrc": "JPV432500064",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2b72ca82-aff6-48fb-a0ff-a2c9ad60067f",
+      "title": "飛発",
+      "artist": "神前暁",
+      "isrc": "JPV432500093",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e783bd4c-31c1-4668-b3df-1fbffd60c5f2",
+      "title": "華瑞月",
+      "artist": "神前暁",
+      "isrc": "JPV432500092",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e00e4373-18e3-4c61-b2eb-49e5daab6268",
+      "title": "薬屋の娘",
+      "artist": "神前暁",
+      "isrc": "JPV432500062",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "95bc915b-e846-416c-8e6c-1857193c1ac0",
+      "title": "面白そうだ",
+      "artist": "神前暁",
+      "isrc": "JPV432500070",
+      "releaseDate": "2025-04-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

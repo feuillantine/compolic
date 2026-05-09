@@ -3082,6 +3082,24 @@
       "releaseDate": "2004-11-26",
       "spotifyUrl": "https://open.spotify.com/track/7BKdl4C5LMyuRFuIMqYSd8",
       "isFallback": true
+    },
+    {
+      "id": "e3e7cde5-6473-45db-9635-554ca9bb9a59",
+      "title": "リトル・フォーティーンズ・スイング",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2012-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8fa46ac9-9de7-49b1-ad93-d59d58703c13",
+      "title": "シールド",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2012-04-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

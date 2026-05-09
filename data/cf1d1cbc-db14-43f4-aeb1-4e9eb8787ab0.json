@@ -814,6 +814,15 @@
       "releaseDate": "2026-01-08",
       "spotifyUrl": "https://open.spotify.com/track/3m0IhG5H6FIHJsNEmm5sEy",
       "isFallback": false
+    },
+    {
+      "id": "0c6ae3b8-2cd3-41c2-86c9-975ae3db7ee0",
+      "title": "Gilded Dreams",
+      "artist": "星見純那",
+      "isrc": "JPR562600059",
+      "releaseDate": "2026-05-08",
+      "spotifyUrl": "https://open.spotify.com/track/3CsakGk3WDMckp9hWnqn8h",
+      "isFallback": false
     }
   ]
 }

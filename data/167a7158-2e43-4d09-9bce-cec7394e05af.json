@@ -199,6 +199,15 @@
       "releaseDate": "2025-11-26",
       "spotifyUrl": "https://open.spotify.com/track/3UGONGaamFEEhQvlajPMCO",
       "isFallback": false
+    },
+    {
+      "id": "a6a2bed2-d490-4b4a-95c8-b71022053382",
+      "title": "ToCoda",
+      "artist": "TRUE",
+      "isrc": "JPI102503603",
+      "releaseDate": "2026-01-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -415,6 +415,15 @@
       "releaseDate": "2026-04-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "57e1a6dc-14c1-42e4-b7f1-0bde37ff2d1e",
+      "title": "罪と罰",
+      "artist": "パープル・ロリポップ",
+      "isrc": "",
+      "releaseDate": "2026-05-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

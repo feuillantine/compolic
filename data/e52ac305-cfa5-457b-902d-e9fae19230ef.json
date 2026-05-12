@@ -343,6 +343,15 @@
       "releaseDate": "2026-02-15",
       "spotifyUrl": "https://open.spotify.com/track/0ZITcLvx2Ex4K4nlgE6xBh",
       "isFallback": false
+    },
+    {
+      "id": "d7f80784-eacf-4d63-8426-7debb50462fa",
+      "title": "ちあっぷ！",
+      "artist": "千代浦蝶美",
+      "isrc": "JP92E2600321",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/06DMAbstWdExktksvmHk5O",
+      "isFallback": false
     }
   ]
 }

@@ -550,6 +550,24 @@
       "releaseDate": "2019-05-18",
       "spotifyUrl": "https://open.spotify.com/track/4QHT7MYjucLLamjSvpkk7e",
       "isFallback": true
+    },
+    {
+      "id": "c1579beb-2ee4-4899-8bdd-4fd094b415ca",
+      "title": "BEAST MODE",
+      "artist": "Σ Desire",
+      "isrc": "",
+      "releaseDate": "2026-04-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "76a56f1e-b71b-42cf-954b-b937c52bf9bc",
+      "title": "SUPER DUPER DREAMER",
+      "artist": "Σ Desire",
+      "isrc": "",
+      "releaseDate": "2026-02-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

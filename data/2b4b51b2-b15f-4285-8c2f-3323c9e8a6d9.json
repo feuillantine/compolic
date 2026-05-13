@@ -199,6 +199,15 @@
       "releaseDate": "2026-01-07",
       "spotifyUrl": "https://open.spotify.com/track/6gi3VxIRqeEQ5LOo2dDN3H",
       "isFallback": true
+    },
+    {
+      "id": "73bdcacb-8019-4143-9561-cee3b61d134c",
+      "title": "Tokyo自由系*ガール",
+      "artist": "No 1 feel alone",
+      "isrc": "",
+      "releaseDate": "2026-05-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

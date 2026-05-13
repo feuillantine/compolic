@@ -208,6 +208,15 @@
       "releaseDate": "2026-01-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "43b4a488-490e-4ff8-bb49-020bc6c9ee7f",
+      "title": "春に舞う",
+      "artist": "Ado",
+      "isrc": "JPPO02601179",
+      "releaseDate": "2026-05-12",
+      "spotifyUrl": "https://open.spotify.com/track/5DeORdOeIVBMq9hfry3op1",
+      "isFallback": false
     }
   ]
 }

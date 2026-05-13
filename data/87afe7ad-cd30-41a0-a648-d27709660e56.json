@@ -3100,6 +3100,15 @@
       "releaseDate": "2012-04-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "777ea091-a625-4418-8c34-e65bb3638479",
+      "title": "Asahi no Mukou",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2005-01-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

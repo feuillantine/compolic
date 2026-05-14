@@ -1104,6 +1104,33 @@
       "releaseDate": "2001-05-23",
       "spotifyUrl": "https://open.spotify.com/track/77kkTTdy8dsCZCXYgiBH3X",
       "isFallback": true
+    },
+    {
+      "id": "6b015b54-f0c7-4611-9b09-e17a395884e4",
+      "title": "Napoleon & Bishop",
+      "artist": "ミト",
+      "isrc": "JPVI01426780",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53ad5b1b-d31e-4501-8414-73efbca0db43",
+      "title": "I should be …",
+      "artist": "ミト",
+      "isrc": "JPVI01427020",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6f2cacc7-e700-4fb6-a1ef-7cf47fad26b7",
+      "title": "The RAW",
+      "artist": "ミト",
+      "isrc": "JPVI01404960",
+      "releaseDate": "2014-03-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

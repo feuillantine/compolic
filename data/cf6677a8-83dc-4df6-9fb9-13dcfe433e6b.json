@@ -154,6 +154,15 @@
       "releaseDate": "2026-01-28",
       "spotifyUrl": "https://open.spotify.com/track/1Bcyn9BHkKwELMNNiBnvla",
       "isFallback": true
+    },
+    {
+      "id": "67927e32-12f0-4a78-91ff-19b595ce6e54",
+      "title": "ダンディに口づけ",
+      "artist": "梅林太郎",
+      "isrc": "JPVI01426900",
+      "releaseDate": "2014-10-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

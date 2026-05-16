@@ -2596,6 +2596,15 @@
       "releaseDate": "2014-08-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d0a609d0-5d2b-4427-9db6-4ced879e57b5",
+      "title": "OPENiNG -LACE UP-",
+      "artist": "LiSA",
+      "isrc": "JPU902601054",
+      "releaseDate": "2026-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/4RfdLITlj9odVBThmW00yd",
+      "isFallback": false
     }
   ]
 }

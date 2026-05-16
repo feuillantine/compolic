@@ -1435,6 +1435,24 @@
       "releaseDate": "2026-03-29",
       "spotifyUrl": "https://open.spotify.com/track/2P3pm0EDsZjoQfNWXsDxLg",
       "isFallback": false
+    },
+    {
+      "id": "a0fa0d50-bf02-4dab-8e8c-4f36fb29710f",
+      "title": "Patch Walk",
+      "artist": "LiSA",
+      "isrc": "JPU902601060",
+      "releaseDate": "2026-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/2rS3D1zNqJAE4bCrbJOQ9j",
+      "isFallback": false
+    },
+    {
+      "id": "d0a609d0-5d2b-4427-9db6-4ced879e57b5",
+      "title": "OPENiNG -LACE UP-",
+      "artist": "LiSA",
+      "isrc": "JPU902601054",
+      "releaseDate": "2026-04-15",
+      "spotifyUrl": "https://open.spotify.com/track/4RfdLITlj9odVBThmW00yd",
+      "isFallback": false
     }
   ]
 }

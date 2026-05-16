@@ -91,6 +91,15 @@
       "releaseDate": "2025-12-31",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2b5853ef-9fdf-4d80-ac42-ea041b4e2b83",
+      "title": "死の舞踏 La Danse Macabre",
+      "artist": "葉月ゆら",
+      "isrc": "",
+      "releaseDate": "2011-08-13",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

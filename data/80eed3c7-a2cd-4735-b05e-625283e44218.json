@@ -1360,6 +1360,33 @@
       "releaseDate": "2026-04-08",
       "spotifyUrl": "https://open.spotify.com/track/2eFHSDVfoazbKRLApMVQB2",
       "isFallback": false
+    },
+    {
+      "id": "93dffd46-5ebe-4388-aea3-9a7729a07113",
+      "title": "Ultimate Bomb",
+      "artist": "遠藤ゆりか",
+      "isrc": "",
+      "releaseDate": "2021-01-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9497a787-55bd-40e0-88ac-44ed312c41a5",
+      "title": "I wish",
+      "artist": "遠藤ゆりか",
+      "isrc": "",
+      "releaseDate": "2021-01-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0e29a148-0894-4301-8ffc-8ae5c6dffa99",
+      "title": "Ceremony",
+      "artist": "ヒゲドライVAN",
+      "isrc": "",
+      "releaseDate": "2021-01-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

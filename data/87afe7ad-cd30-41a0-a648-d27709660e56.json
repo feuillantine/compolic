@@ -3109,6 +3109,24 @@
       "releaseDate": "2005-01-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "df2f3d2b-0332-46bb-8413-aef1918c6d10",
+      "title": "XV",
+      "artist": "Roselia",
+      "isrc": "JPR562600052",
+      "releaseDate": "2026-05-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "61dc487d-aed4-458a-91ee-fa4abdeb744d",
+      "title": "リトルフォーティーンズスイング",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2003-12-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

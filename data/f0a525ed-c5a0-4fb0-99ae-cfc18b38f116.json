@@ -2605,6 +2605,15 @@
       "releaseDate": "2026-04-15",
       "spotifyUrl": "https://open.spotify.com/track/4RfdLITlj9odVBThmW00yd",
       "isFallback": false
+    },
+    {
+      "id": "c5367d16-4a88-4237-86db-10a7eed1dd11",
+      "title": "恋のいうとおり",
+      "artist": "日曜日のメゾンデ",
+      "isrc": "JPP302600116",
+      "releaseDate": "2026-02-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

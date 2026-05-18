@@ -752,6 +752,15 @@
       "releaseDate": "2026-01-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ca99633d-6479-4e79-b88e-ab381657a0ec",
+      "title": "君は恋人",
+      "artist": "オーイシマサヨシ",
+      "isrc": "JPPC02610372",
+      "releaseDate": "2026-04-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

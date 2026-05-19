@@ -3127,6 +3127,15 @@
       "releaseDate": "2003-12-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "da0cbeb8-f023-4039-a90b-5334c70bf446",
+      "title": "ゼンセカイ歌姫宣言ッ!",
+      "artist": "オルケリア",
+      "isrc": "JPKI02611556",
+      "releaseDate": "2026-04-01",
+      "spotifyUrl": "https://open.spotify.com/track/5L6i2OuHVlfo2JF42niCUG",
+      "isFallback": false
     }
   ]
 }

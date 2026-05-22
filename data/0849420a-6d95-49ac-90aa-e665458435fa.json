@@ -1171,6 +1171,15 @@
       "releaseDate": "2025-10-18",
       "spotifyUrl": "https://open.spotify.com/track/20qqma8tjOKfqPNjMbP8tf",
       "isFallback": false
+    },
+    {
+      "id": "0ca07f3e-2f3b-47b7-a86f-7008db9abd5a",
+      "title": "No thank Cute!",
+      "artist": "しぐれうい",
+      "isrc": "QT66M2646668",
+      "releaseDate": "2026-05-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

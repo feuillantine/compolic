@@ -442,6 +442,105 @@
       "releaseDate": "2020-09-02",
       "spotifyUrl": "https://open.spotify.com/track/2eLx7MywzPn1ti1V8j7C1O",
       "isFallback": true
+    },
+    {
+      "id": "d870e13d-56a3-498f-90bc-a613d10b6713",
+      "title": "世界で一番不器用なラブソング",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001209",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "048235d4-57ae-434b-832e-1a29492cae43",
+      "title": "てのひら",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001207",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "413ed585-8f32-4ee9-bdd0-83b165416b9c",
+      "title": "cheer up!",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001211",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4b8d72f8-4419-4685-8fff-fa8df90feeeb",
+      "title": "CONNECT",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001210",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ea8fb2d-00d0-4197-a699-3d464f159b3a",
+      "title": "HERO",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO01904542",
+      "releaseDate": "2019-12-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "64c53d0f-c842-4fc8-b338-59413f4f220f",
+      "title": "she",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001208",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "29ce0741-81d9-4e23-9dca-c4a234e1c419",
+      "title": "sun moon",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001204",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a6b653fa-b127-4eb1-b9a6-38b35cc93030",
+      "title": "mate",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001206",
+      "releaseDate": "2020-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3ffbc2c-acfb-4b32-8b0f-7048a329a4d0",
+      "title": "Up To You",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO02001205",
+      "releaseDate": "2020-06-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1d62fa16-3381-41cb-9157-6a22a367da5c",
+      "title": "四月の風",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO01901480",
+      "releaseDate": "2019-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ba765e66-cda9-46c2-80d6-ddd29f4199cb",
+      "title": "OVER DRIVE",
+      "artist": "SILENT SIREN",
+      "isrc": "JPPO01904543",
+      "releaseDate": "2019-12-20",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

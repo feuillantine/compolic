@@ -82,6 +82,33 @@
       "releaseDate": "2015-02-11",
       "spotifyUrl": "https://open.spotify.com/track/3ipvSFI7cP3cImlD61QnOP",
       "isFallback": true
+    },
+    {
+      "id": "c1d928f2-f6fa-4750-9944-46cb05755d0b",
+      "title": "My Wwwishlist",
+      "artist": "Path to Nowhere",
+      "isrc": "",
+      "releaseDate": "2024-11-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e1dcd212-fcdf-435e-8118-ee78b634fa36",
+      "title": "Le dernier jardin de l’été",
+      "artist": "Path to Nowhere",
+      "isrc": "",
+      "releaseDate": "2024-01-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d90da53e-3949-4e8a-ba18-92030454d6c9",
+      "title": "BOrn FrOm ZerO",
+      "artist": "Path to Nowhere",
+      "isrc": "",
+      "releaseDate": "2024-11-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

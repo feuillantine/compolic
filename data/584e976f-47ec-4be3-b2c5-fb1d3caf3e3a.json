@@ -370,6 +370,15 @@
       "releaseDate": "2026-01-03",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "bb4c2171-e16e-4e71-a304-c2bfd1b06577",
+      "title": "無稽の啼泣",
+      "artist": "マーキュロ",
+      "isrc": "",
+      "releaseDate": "2022-10-14",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

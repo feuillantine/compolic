@@ -2084,6 +2084,24 @@
       "releaseDate": "2002-10-02",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7d599003-b194-4d43-9b1a-c23f698f5f7b",
+      "title": "僕等の未来",
+      "artist": "清浦夏実",
+      "isrc": "JPVI02600237",
+      "releaseDate": "2026-03-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "27f37b52-184d-4d93-b4e6-3509e33cb1ae",
+      "title": "若葉のころ",
+      "artist": "清浦夏実",
+      "isrc": "JPVI02503381",
+      "releaseDate": "2026-01-06",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

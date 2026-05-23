@@ -3136,6 +3136,24 @@
       "releaseDate": "2026-04-01",
       "spotifyUrl": "https://open.spotify.com/track/5L6i2OuHVlfo2JF42niCUG",
       "isFallback": false
+    },
+    {
+      "id": "4da87bee-be50-4298-a142-271bb56f3704",
+      "title": "高速マンボ",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2003-02-23",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0a1e75ef-e7ac-4c7d-81a3-34b898ea4821",
+      "title": "君と・・・",
+      "artist": "Sprite Wing",
+      "isrc": "",
+      "releaseDate": "2003-02-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

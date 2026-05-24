@@ -1849,6 +1849,33 @@
       "releaseDate": "2026-03-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a3cdd6b3-e3ac-47c8-8cc5-ab343045cd6e",
+      "title": "Rain forecast",
+      "artist": "仲村宗悟",
+      "isrc": "",
+      "releaseDate": "2019-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4a367972-42d4-46e2-a257-fe3848042f7f",
+      "title": "列偶像",
+      "artist": "山下大輝",
+      "isrc": "JPJ222101631",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75e13284-700a-4e2b-9957-c9a503ddadad",
+      "title": "青の一コマ",
+      "artist": "鬼頭明里",
+      "isrc": "JPPC02411567",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

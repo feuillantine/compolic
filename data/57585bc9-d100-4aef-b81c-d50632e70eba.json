@@ -1522,6 +1522,15 @@
       "releaseDate": "2024-06-26",
       "spotifyUrl": "https://open.spotify.com/track/3yecntxRHWoGfd27NeRFsS",
       "isFallback": false
+    },
+    {
+      "id": "190fd23f-c2fa-48c0-b83b-cd38ba2c9a34",
+      "title": "any if",
+      "artist": "鬼頭明里",
+      "isrc": "JPPC02511681",
+      "releaseDate": "2025-10-05",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -370,6 +370,15 @@
       "releaseDate": "2026-04-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d05e900f-5e45-4ea6-847b-293d8517b2e8",
+      "title": "いつか振り返るその時に",
+      "artist": "鈴木愛奈",
+      "isrc": "JPI102300917",
+      "releaseDate": "2023-05-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

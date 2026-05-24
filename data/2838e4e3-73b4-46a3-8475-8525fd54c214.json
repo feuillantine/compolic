@@ -649,6 +649,24 @@
       "releaseDate": "2022-06-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "46e9b3e8-d25d-416a-a7d8-5bd5207c5a25",
+      "title": "あの日の約束",
+      "artist": "畠中祐",
+      "isrc": "JPI101900533",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "beeaa3dc-f6a3-4c1a-95ae-36f14022de0c",
+      "title": "look back, look forward (Instrumental)",
+      "artist": "畠中祐",
+      "isrc": "JPI101900534",
+      "releaseDate": "2019-03-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

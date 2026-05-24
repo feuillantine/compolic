@@ -181,6 +181,15 @@
       "releaseDate": "2011-08-03",
       "spotifyUrl": "https://open.spotify.com/track/4WK1fSwqjQcCgKBQUtayt0",
       "isFallback": true
+    },
+    {
+      "id": "72513d02-8b9c-4c54-a272-461a6413addb",
+      "title": "Cherry on top",
+      "artist": "さんみゅ〜",
+      "isrc": "JPPC01500481",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

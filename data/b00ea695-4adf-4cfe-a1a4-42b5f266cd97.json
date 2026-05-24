@@ -1453,6 +1453,15 @@
       "releaseDate": "2026-04-15",
       "spotifyUrl": "https://open.spotify.com/track/4RfdLITlj9odVBThmW00yd",
       "isFallback": false
+    },
+    {
+      "id": "02fc863e-3752-4633-a3c0-eb60fedbcfa7",
+      "title": "キャンバス",
+      "artist": "鬼頭明里",
+      "isrc": "JPPC02411571",
+      "releaseDate": "2024-08-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

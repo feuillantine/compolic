@@ -163,6 +163,15 @@
       "releaseDate": "2025-07-08",
       "spotifyUrl": "https://open.spotify.com/track/01YE8oM9YaJE78QaVSpn5o",
       "isFallback": true
+    },
+    {
+      "id": "539e6f66-3340-46e8-9d94-0d60f3f1f1cc",
+      "title": "Love Me☆Liar!",
+      "artist": "SQ",
+      "isrc": "",
+      "releaseDate": "2026-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -823,6 +823,24 @@
       "releaseDate": "2026-05-08",
       "spotifyUrl": "https://open.spotify.com/track/3CsakGk3WDMckp9hWnqn8h",
       "isFallback": false
+    },
+    {
+      "id": "4296dd88-6ef2-4f6e-97e1-42f46d6bf957",
+      "title": "not GAME",
+      "artist": "畠中祐",
+      "isrc": "JPI101901107",
+      "releaseDate": "2019-07-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bee58beb-a773-4af6-84c9-113ed947d782",
+      "title": "真夏BEAT",
+      "artist": "畠中祐",
+      "isrc": "JPI101802112",
+      "releaseDate": "2018-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

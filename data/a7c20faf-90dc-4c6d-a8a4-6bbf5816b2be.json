@@ -397,6 +397,15 @@
       "releaseDate": "2025-10-29",
       "spotifyUrl": "https://open.spotify.com/track/4nJF6ntvSUXR2fGiXBSkye",
       "isFallback": true
+    },
+    {
+      "id": "ce5809fd-0228-4d55-8095-3545154c0bdd",
+      "title": "僕らのVoyage",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPE872204287",
+      "releaseDate": "2022-01-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

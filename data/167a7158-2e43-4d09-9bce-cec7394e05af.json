@@ -217,6 +217,15 @@
       "releaseDate": "2026-05-12",
       "spotifyUrl": "https://open.spotify.com/track/5DeORdOeIVBMq9hfry3op1",
       "isFallback": false
+    },
+    {
+      "id": "b1eb3007-bd8b-479c-b444-0a924b8e28b3",
+      "title": "シトラス",
+      "artist": "和氣あず未",
+      "isrc": "JPCO01928210",
+      "releaseDate": "2020-01-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

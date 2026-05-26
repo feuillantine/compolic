@@ -406,6 +406,24 @@
       "releaseDate": "2022-01-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e8b9b666-f270-4703-b8f0-881ff5951fc6",
+      "title": "Light it up",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA602000220",
+      "releaseDate": "2020-11-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2f487f30-de7e-4c61-a9c8-a56f0a8aeed5",
+      "title": "Da Dan Dance!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601900255",
+      "releaseDate": "2019-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

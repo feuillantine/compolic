@@ -946,6 +946,15 @@
       "releaseDate": "2019-10-16",
       "spotifyUrl": "https://open.spotify.com/track/2YEuRxZhQ9Hyw2RHIAUikV",
       "isFallback": false
+    },
+    {
+      "id": "347c610f-cb01-4e99-9c4f-8b6bc732f368",
+      "title": "Garnet",
+      "artist": "i☆Ris",
+      "isrc": "JPT551600418",
+      "releaseDate": "2016-06-01",
+      "spotifyUrl": "https://open.spotify.com/track/6yzom3KRsTiSXn2cZ55auB",
+      "isFallback": false
     }
   ]
 }

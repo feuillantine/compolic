@@ -568,6 +568,33 @@
       "releaseDate": "2023-05-10",
       "spotifyUrl": "https://open.spotify.com/track/6KfBMSa9HBWe1kXGj2Yjrp",
       "isFallback": true
+    },
+    {
+      "id": "c2f869e1-dfcb-41fd-9420-2a725f1a1770",
+      "title": "Daisy Days",
+      "artist": "相良茉優",
+      "isrc": "",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82eed322-b888-4463-8937-ea27d3e21732",
+      "title": "あなたへのアイリス",
+      "artist": "相良茉優",
+      "isrc": "",
+      "releaseDate": "2024-11-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7d26514e-55d3-402e-bf8e-22501d9da845",
+      "title": "What's Cawaii!?",
+      "artist": "相良茉優",
+      "isrc": "",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

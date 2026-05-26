@@ -28,6 +28,15 @@
       "releaseDate": "2023-03-15",
       "spotifyUrl": "https://open.spotify.com/track/3101Q18LJGc43GZFqICrlb",
       "isFallback": true
+    },
+    {
+      "id": "ead38643-ae2e-4e19-a480-284abea21772",
+      "title": "WONDER DRIVE –ONLINE–",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPA2449683",
+      "releaseDate": "2024-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

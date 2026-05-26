@@ -208,6 +208,15 @@
       "releaseDate": "2025-04-16",
       "spotifyUrl": "https://open.spotify.com/track/3pmQM0iXpMndXiy6enFmhn",
       "isFallback": true
+    },
+    {
+      "id": "630f518c-863f-450c-92cd-14b21d54c5d9",
+      "title": "ノンフィクション",
+      "artist": "PiXMiX",
+      "isrc": "JPKI02213368",
+      "releaseDate": "2022-08-05",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

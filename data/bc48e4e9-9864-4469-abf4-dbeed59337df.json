@@ -37,6 +37,15 @@
       "releaseDate": "2025-12-12",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "17904a7d-e7b7-406d-952e-49e6762fe94b",
+      "title": "どんがらがっしゃん",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500344",
+      "releaseDate": "2025-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/39AxmTMwXJldD5se2EJWnH",
+      "isFallback": false
     }
   ]
 }

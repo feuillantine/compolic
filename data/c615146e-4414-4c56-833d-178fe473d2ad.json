@@ -1666,6 +1666,15 @@
       "releaseDate": "2026-04-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1f436cc6-eb90-4b86-a7b4-b9a890923aa9",
+      "title": "Hurry Love",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02010200",
+      "releaseDate": "2020-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

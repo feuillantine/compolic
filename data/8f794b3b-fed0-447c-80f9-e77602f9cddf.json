@@ -361,6 +361,78 @@
       "releaseDate": "2010-04-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "aca553fd-f900-4dbc-94f3-abcfb4bf6dbb",
+      "title": "Luv♡Unbalance",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02016615",
+      "releaseDate": "2021-01-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0b1920de-c70a-45d4-874f-2d96bc10f97d",
+      "title": "キミは無邪気な夏の女王 〜This Summer Girl Is an Innocent Mistress〜",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01714307",
+      "releaseDate": "2017-09-05",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3d5f8fd4-88f4-4e15-9b2f-5a650e6c0d07",
+      "title": "あなたと見る青空に明日も虹が架かりますように",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01913953",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b438dc92-ef47-4a0f-a2ed-b5e288639fa3",
+      "title": "響け！ファンファーレ",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01916886",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e952bdd-c9cf-43e5-927e-073b30e127b2",
+      "title": "心臓にメロディー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01812191",
+      "releaseDate": "2018-04-18",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "74219a1c-9dfb-4713-bb51-18dad3799a9e",
+      "title": "BE MYSELF",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02117907",
+      "releaseDate": "2022-01-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6fb586bf-fb4a-462d-b306-38af4f1f8e2d",
+      "title": "世界の中心で虹を叫んだサマー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02111673",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bd8f17c5-6c85-4701-8abf-10e74dfa581d",
+      "title": "ジャスナウ!",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02112343",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

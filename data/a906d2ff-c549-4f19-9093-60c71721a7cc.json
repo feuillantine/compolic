@@ -172,6 +172,15 @@
       "releaseDate": "2026-02-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "85cb07a5-0b1a-4c5a-9237-77d37486193f",
+      "title": "真夜中のテレフォン",
+      "artist": "青組",
+      "isrc": "JPKI01719369",
+      "releaseDate": "2018-01-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

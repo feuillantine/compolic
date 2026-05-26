@@ -244,6 +244,69 @@
       "releaseDate": "2023-09-06",
       "spotifyUrl": "https://open.spotify.com/track/3fJd6TNe1qRoYSxBb3Aq0z",
       "isFallback": true
+    },
+    {
+      "id": "de8b3b0c-a3e0-4e18-8a14-dec1460aad3b",
+      "title": "Over Sweetness",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ffc108f2-4a16-4481-b098-66b1cf312874",
+      "title": "Twinkle Lights",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1662ce87-c0be-4573-ba30-2718399118df",
+      "title": "Blue Canvas",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7414da6e-322b-4ca5-91d1-edd52f270877",
+      "title": "Polar Girls",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bebbcb74-c247-43ec-8467-fd724f05f4ae",
+      "title": "POP ENTRANCE",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d31b9597-0603-4b66-9d90-645829b84d01",
+      "title": "ヒミツのテレパス",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "93a2cee4-bd78-4d6e-b84e-13b564f2523d",
+      "title": "Moon Lights",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2026-05-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

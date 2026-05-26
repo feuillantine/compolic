@@ -343,6 +343,15 @@
       "releaseDate": "2022-02-01",
       "spotifyUrl": "https://open.spotify.com/track/0RczwuHSu8znPo0R3xDiKw",
       "isFallback": false
+    },
+    {
+      "id": "2ac6dff2-59af-4060-a87b-18ff2f8a2750",
+      "title": "Go for it!",
+      "artist": "相良茉優",
+      "isrc": "",
+      "releaseDate": "2023-11-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

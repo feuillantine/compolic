@@ -154,6 +154,15 @@
       "releaseDate": "2018-01-24",
       "spotifyUrl": "https://open.spotify.com/track/5f8CN5Nz9IPnlc1DOblUy1",
       "isFallback": true
+    },
+    {
+      "id": "ecd56338-866e-4708-9107-2875c3a55e95",
+      "title": "天文学的ノンフィクション",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01913954",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

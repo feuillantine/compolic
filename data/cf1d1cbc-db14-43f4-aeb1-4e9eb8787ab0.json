@@ -841,6 +841,15 @@
       "releaseDate": "2018-08-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1e3a50b3-b095-4bdf-b6bc-c99fd2f84336",
+      "title": "Dream Voyage",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500235",
+      "releaseDate": "2025-07-23",
+      "spotifyUrl": "https://open.spotify.com/track/1iTjZAS0pM7jV6VFjlFsRc",
+      "isFallback": false
     }
   ]
 }

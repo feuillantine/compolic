@@ -208,6 +208,33 @@
       "releaseDate": "2025-03-19",
       "spotifyUrl": "https://open.spotify.com/track/1S6EbdQNC7UJVFBxiwsIxC",
       "isFallback": true
+    },
+    {
+      "id": "f98365e7-bff7-4f3c-a473-e09afce093f9",
+      "title": "ぷいぷい。",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPA2449687",
+      "releaseDate": "2024-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ead38643-ae2e-4e19-a480-284abea21772",
+      "title": "WONDER DRIVE –ONLINE–",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPA2449683",
+      "releaseDate": "2024-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8876847-f309-474e-a93b-273e20c16610",
+      "title": "HACK",
+      "artist": "末吉秀太",
+      "isrc": "",
+      "releaseDate": "2019-01-16",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

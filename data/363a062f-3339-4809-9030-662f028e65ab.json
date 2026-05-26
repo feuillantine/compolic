@@ -640,6 +640,15 @@
       "releaseDate": "2025-12-17",
       "spotifyUrl": "https://open.spotify.com/track/3YSClj53u3aMXEIdQpusrj",
       "isFallback": true
+    },
+    {
+      "id": "fbba2cc3-f965-49cc-a30d-f2edf121cd45",
+      "title": "サーチライトと月灯り",
+      "artist": "天月真白",
+      "isrc": "",
+      "releaseDate": "2018-09-14",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

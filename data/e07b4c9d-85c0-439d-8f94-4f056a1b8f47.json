@@ -1549,6 +1549,15 @@
       "releaseDate": "2012-03-21",
       "spotifyUrl": "https://open.spotify.com/track/0EBK5I8z2QgqchxCQWJ6of",
       "isFallback": true
+    },
+    {
+      "id": "893b65f1-1e22-4639-a492-69064cfcbd00",
+      "title": "恋する日常",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02029410",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

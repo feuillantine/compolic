@@ -415,6 +415,105 @@
       "releaseDate": "2012-04-26",
       "spotifyUrl": "https://open.spotify.com/track/6tSJNNCNDo5gB7ypyHazsp",
       "isFallback": true
+    },
+    {
+      "id": "ce0968ab-a4bf-4e6f-8758-6a17e703a9d9",
+      "title": "ふたりのシュプール",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01719383",
+      "releaseDate": "2018-01-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "815686f1-9f19-4a67-a478-957f42eda15f",
+      "title": "恋・ホワイトアウト",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02016614",
+      "releaseDate": "2021-01-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bc8da2af-a04c-4330-a459-1a892d8376b6",
+      "title": "ぼくらのターン",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01916888",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "eb56caed-dd2e-442b-b69f-96d18976e23b",
+      "title": "パウダースノーランデブー",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01820367",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4fd1779d-d135-4182-9770-bbd3a3113683",
+      "title": "Genie!Genius!",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02013096",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "33f7cca2-3dbd-48b5-9690-ee19950b3f42",
+      "title": "ココロPRISM",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02112342",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c4c7d28-6123-43ee-9706-d60be44c687e",
+      "title": "やるっきゃない！2018",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01820183",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7677bdfa-656c-4d5c-84a4-6a09d4b32f72",
+      "title": "Snowing Love",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01916884",
+      "releaseDate": "2020-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc651b39-2897-45a1-aa0a-535854faf5bc",
+      "title": "夢の輪郭",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02112346",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5dc985db-d852-4f94-a5c3-0edd98428fea",
+      "title": "本命ショコラティエ",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI01910761",
+      "releaseDate": "2019-01-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "95db4ced-afd0-41d0-9269-7b473d3b01c0",
+      "title": "ナミダ、あわ雪",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02116953",
+      "releaseDate": "2021-11-05",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1462,6 +1462,24 @@
       "releaseDate": "2024-08-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "dedac503-3ada-45e8-a29a-c579a5aeda4c",
+      "title": "Calling",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500346",
+      "releaseDate": "2025-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/2Ammvg8GD0lN5Rd3xNXB3S",
+      "isFallback": false
+    },
+    {
+      "id": "451d3875-2a41-495d-af99-bc6042042a97",
+      "title": "アイの夢限",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500343",
+      "releaseDate": "2025-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/4agtWVS9lzynKNxUVJeo4c",
+      "isFallback": false
     }
   ]
 }

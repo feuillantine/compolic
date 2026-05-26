@@ -1090,6 +1090,15 @@
       "releaseDate": "2016-02-24",
       "spotifyUrl": "https://open.spotify.com/track/1CvNoscOALqXaeu2sXNl6v",
       "isFallback": false
+    },
+    {
+      "id": "e7a4e4ab-e25f-41cb-b000-56c5a96292f7",
+      "title": "Twinkle*Twinkle",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02010230",
+      "releaseDate": "2020-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

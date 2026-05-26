@@ -406,6 +406,24 @@
       "releaseDate": "2025-03-26",
       "spotifyUrl": "https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l",
       "isFallback": true
+    },
+    {
+      "id": "7340a97d-e226-4446-8382-aa1d3fa0d83b",
+      "title": "キュピデビ",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02029380",
+      "releaseDate": "2021-01-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5b3cb4b6-2c60-4db3-8e89-69d6ac5adf99",
+      "title": "恋と呼ぶには",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02010210",
+      "releaseDate": "2020-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

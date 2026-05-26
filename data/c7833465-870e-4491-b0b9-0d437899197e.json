@@ -1427,6 +1427,15 @@
       "releaseDate": "2026-01-21",
       "spotifyUrl": "https://open.spotify.com/track/5SgE2aoKSdUe23kw64WFCK",
       "isFallback": false
+    },
+    {
+      "id": "ac36f823-2bec-4a3b-b2db-e34e4838188a",
+      "title": "誰かを",
+      "artist": "山下大輝",
+      "isrc": "JPJ222101634",
+      "releaseDate": "2021-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -424,6 +424,15 @@
       "releaseDate": "2026-05-03",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "4215d1c0-e43d-47a3-bc4b-ef561d0937cf",
+      "title": "みゅーたんとミュータント",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562500345",
+      "releaseDate": "2025-12-24",
+      "spotifyUrl": "https://open.spotify.com/track/6CT0VzUjcq0hz64CeppUdO",
+      "isFallback": false
     }
   ]
 }

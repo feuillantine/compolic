@@ -451,6 +451,24 @@
       "releaseDate": "2025-09-24",
       "spotifyUrl": "https://open.spotify.com/track/5sXrnJnCVzs5LNae69Y5vh",
       "isFallback": true
+    },
+    {
+      "id": "774045c7-1c00-49c2-a6ab-011387332f66",
+      "title": "阿破乱舞",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601900041",
+      "releaseDate": "2019-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1764842f-e334-4ed6-8259-c02535295aaf",
+      "title": "I LIVE YOU",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA602000219",
+      "releaseDate": "2020-11-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

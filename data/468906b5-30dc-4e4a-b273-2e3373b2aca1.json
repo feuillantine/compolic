@@ -325,6 +325,33 @@
       "releaseDate": "2025-02-05",
       "spotifyUrl": "https://open.spotify.com/track/03c8Ng5kd59dxm0vAePbjz",
       "isFallback": true
+    },
+    {
+      "id": "e635a904-3b91-4167-8161-9408fe9bab29",
+      "title": "やわいむじゅん",
+      "artist": "Merry BAD TUNE.",
+      "isrc": "TCJPA2449689",
+      "releaseDate": "2024-05-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4f619c7f-ce39-4be6-b8f3-8e8969255373",
+      "title": "雨上がり、虹はかかる",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02112345",
+      "releaseDate": "2021-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4fcb5784-811b-4947-8a3a-177b2f4a443e",
+      "title": "ワンルームマジック",
+      "artist": "虹のコンキスタドール",
+      "isrc": "JPKI02013097",
+      "releaseDate": "2020-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

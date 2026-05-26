@@ -289,6 +289,78 @@
       "releaseDate": "2017-05-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "07430c18-0517-4253-9fff-0c30a15a5cfd",
+      "title": "僕があじゅじゅと恋をする",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02224070",
+      "releaseDate": "2022-11-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fddca1e8-6734-4b93-8795-cf093b4b1432",
+      "title": "茉莉花",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02134440",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ece35121-1f5c-460e-a71d-d9fc45cb9e7d",
+      "title": "夢よりも早くこの恋が覚めても",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02134450",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f5a5b900-45dc-4dcd-bc64-ef7ad007b17b",
+      "title": "あなたのいない夢",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02029370",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cb15ce57-28ea-450f-94d7-386971f88286",
+      "title": "キャラメラテ",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02134460",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53e24011-8c75-47cc-97cc-95f349c147fa",
+      "title": "アイリスの夜",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02134480",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e0d7340d-9514-4c16-a9f3-cbef6efc6eaf",
+      "title": "眠れなくていい",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02134470",
+      "releaseDate": "2022-01-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c35cad41-b0ac-4f7f-9901-bbd0c1aec297",
+      "title": "Darling",
+      "artist": "和氣あず未",
+      "isrc": "JPCO02029420",
+      "releaseDate": "2021-02-17",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

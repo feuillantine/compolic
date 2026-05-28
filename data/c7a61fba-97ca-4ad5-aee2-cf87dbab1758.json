@@ -2102,6 +2102,33 @@
       "releaseDate": "2026-01-06",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b4226746-a933-432c-8609-4d86202904a4",
+      "title": "Break On Through",
+      "artist": "千菅春香",
+      "isrc": "JPVI01611120",
+      "releaseDate": "2016-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "71ee53fc-8c6a-43a7-85a8-a312b64a809c",
+      "title": "TRY! TRY! TRY!",
+      "artist": "千菅春香",
+      "isrc": "JPVI01611160",
+      "releaseDate": "2016-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b47552c-996b-4cd8-bd4b-6dd6119b5dbd",
+      "title": "リフレイン",
+      "artist": "千菅春香",
+      "isrc": "JPVI01611150",
+      "releaseDate": "2016-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

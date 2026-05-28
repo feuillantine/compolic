@@ -850,6 +850,15 @@
       "releaseDate": "2025-07-23",
       "spotifyUrl": "https://open.spotify.com/track/1iTjZAS0pM7jV6VFjlFsRc",
       "isFallback": false
+    },
+    {
+      "id": "7572b8b6-ac23-4e57-946a-59de6df0e719",
+      "title": "ソラニ×メロディ",
+      "artist": "寺島拓篤",
+      "isrc": "",
+      "releaseDate": "2016-05-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

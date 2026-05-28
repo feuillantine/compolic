@@ -1639,6 +1639,33 @@
       "releaseDate": "2005-10-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "9d9478d9-6f71-4d98-97c7-ed09cf114d30",
+      "title": "KING＆QUEEN",
+      "artist": "羽多野渉",
+      "isrc": "",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f89a2638-18c2-4ae1-995e-3d72d4df15f5",
+      "title": "運命のCoda",
+      "artist": "羽多野渉",
+      "isrc": "JPT551800838",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/0omHv5ddDz59B016tUNGcs",
+      "isFallback": false
+    },
+    {
+      "id": "9a39cc98-fc15-4be7-af4e-9c07be24b772",
+      "title": "路地裏のラプソディ",
+      "artist": "羽多野渉",
+      "isrc": "",
+      "releaseDate": "2017-11-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

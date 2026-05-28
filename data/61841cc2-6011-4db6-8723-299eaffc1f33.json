@@ -328,6 +328,15 @@
       "releaseDate": "2017-04-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e7697147-ed94-497e-8aec-d9718d8bc974",
+      "title": "Booo!",
+      "artist": "TOKOTOKO",
+      "isrc": "",
+      "releaseDate": "2019-08-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -469,6 +469,15 @@
       "releaseDate": "2020-11-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a5d16b33-0af8-4699-8576-bc7eb312f43e",
+      "title": "アッパーディスコ",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601700103",
+      "releaseDate": "2017-05-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

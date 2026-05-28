@@ -280,6 +280,15 @@
       "releaseDate": "2016-07-20",
       "spotifyUrl": "https://open.spotify.com/track/1U4UY7KKXW7F85jMHyFqBB",
       "isFallback": true
+    },
+    {
+      "id": "f3f00a49-7f2b-4fe8-894e-7ad992096ff7",
+      "title": "ファントムライツ",
+      "artist": "寺島拓篤",
+      "isrc": "JPI102101872",
+      "releaseDate": "2021-08-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

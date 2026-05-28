@@ -424,6 +424,33 @@
       "releaseDate": "2019-06-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2540c6e0-2c9a-47f3-9ff9-b409ea1e10d8",
+      "title": "Stairways",
+      "artist": "吉川友",
+      "isrc": "JPA601500328",
+      "releaseDate": "2015-10-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "36813a97-1792-4987-8968-8f2e17391569",
+      "title": "Way of Our Life",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601700223",
+      "releaseDate": "2017-08-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e4a965d8-ca1d-4bf2-afac-8b234c9d5d30",
+      "title": "Truth For",
+      "artist": "羽多野渉",
+      "isrc": "JPT551800830",
+      "releaseDate": "2018-12-12",
+      "spotifyUrl": "https://open.spotify.com/track/63ZhrZO72syyVXRIp1VfAU",
+      "isFallback": false
     }
   ]
 }

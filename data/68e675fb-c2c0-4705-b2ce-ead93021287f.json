@@ -823,6 +823,15 @@
       "releaseDate": "2003-10-29",
       "spotifyUrl": "https://open.spotify.com/track/4az7RBbsBzDV1ydvuAqbTL",
       "isFallback": true
+    },
+    {
+      "id": "cd55fae7-d427-4cd9-919f-be6fe8258670",
+      "title": "あしおとマーチング",
+      "artist": "寺島拓篤",
+      "isrc": "JPI101900043",
+      "releaseDate": "2019-02-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

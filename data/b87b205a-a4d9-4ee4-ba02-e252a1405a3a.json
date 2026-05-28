@@ -541,6 +541,24 @@
       "releaseDate": "2026-03-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1693ce57-7441-4902-aa6e-221adb8855dd",
+      "title": "Hi! Summer Dreamer",
+      "artist": "夢みるアドレセンス",
+      "isrc": "JPU901501861",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fab89f94-f2ef-4225-9e5a-7b99e0647cc4",
+      "title": "トーキョー・デリシャス・ランデブー",
+      "artist": "荻野可鈴",
+      "isrc": "",
+      "releaseDate": "2016-01-20",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

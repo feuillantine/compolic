@@ -595,6 +595,15 @@
       "releaseDate": "2010-09-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "146339f6-5561-4015-b416-3bd01d02932a",
+      "title": "magic words",
+      "artist": "寺島拓篤",
+      "isrc": "JPI101202487",
+      "releaseDate": "2012-11-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

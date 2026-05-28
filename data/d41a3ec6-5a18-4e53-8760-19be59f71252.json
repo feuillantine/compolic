@@ -1216,6 +1216,24 @@
       "releaseDate": "2002-08-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "c9497f2a-5dca-4e18-92c2-f30012d10f20",
+      "title": "いつもの場所で",
+      "artist": "寺島拓篤",
+      "isrc": "JPI101601473",
+      "releaseDate": "2016-08-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "62669d3d-659e-4f85-b8e1-1960de0a6161",
+      "title": "魔法使いですけど。",
+      "artist": "カーヤ",
+      "isrc": "",
+      "releaseDate": "2009-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

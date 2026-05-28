@@ -100,6 +100,15 @@
       "releaseDate": "2026-04-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f0fb7120-7a3f-4245-be65-a84304406247",
+      "title": "ざっくばらんなサヴァイヴ",
+      "artist": "吉川友",
+      "isrc": "JPPO02200857",
+      "releaseDate": "2022-03-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

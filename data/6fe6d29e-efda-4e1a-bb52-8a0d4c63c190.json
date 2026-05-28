@@ -424,6 +424,15 @@
       "releaseDate": "2016-06-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "62dcf21f-4760-45d3-8005-f816cea1514a",
+      "title": "FLASH",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601700107",
+      "releaseDate": "2017-05-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

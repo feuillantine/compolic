@@ -190,6 +190,15 @@
       "releaseDate": "2021-07-02",
       "spotifyUrl": "https://open.spotify.com/track/66ocSvyVK10o32piafEhyQ",
       "isFallback": true
+    },
+    {
+      "id": "450a6ea7-4bb1-4f2a-8fa1-623b9e734b3b",
+      "title": "Lady→GO!",
+      "artist": "アップアップガールズ（仮）",
+      "isrc": "JPA601800094",
+      "releaseDate": "2018-06-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1229,6 +1229,15 @@
       "releaseDate": "2016-01-08",
       "spotifyUrl": "https://open.spotify.com/track/7MsCmckCpUFJTQUoAmNQVW",
       "isFallback": true
+    },
+    {
+      "id": "2d827970-2f62-4963-abbf-b193c5e1699a",
+      "title": "後の祭り 〜After Party〜",
+      "artist": "Lezel",
+      "isrc": "JPT552300238",
+      "releaseDate": "2023-08-16",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

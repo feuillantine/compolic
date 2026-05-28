@@ -172,6 +172,24 @@
       "releaseDate": "2014-04-02",
       "spotifyUrl": "https://open.spotify.com/track/6FWeSQxir2VHDzATuRSPG9",
       "isFallback": true
+    },
+    {
+      "id": "90a90e09-98bf-4eb1-bfe6-ee0512666e2d",
+      "title": "Viva!シャングリラ",
+      "artist": "夢みるアドレセンス",
+      "isrc": "JPU901700123",
+      "releaseDate": "2017-03-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "82bddb3c-53a6-4925-adc6-ff2448509acf",
+      "title": "くらっちゅサマー",
+      "artist": "夢みるアドレセンス",
+      "isrc": "JPU901501859",
+      "releaseDate": "2015-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

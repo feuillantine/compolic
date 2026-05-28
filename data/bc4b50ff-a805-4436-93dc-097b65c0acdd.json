@@ -1876,6 +1876,15 @@
       "releaseDate": "2024-08-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "bfb3fb9d-d8e6-4e17-b060-734489874b04",
+      "title": "フォトシンテシス",
+      "artist": "夢みるアドレセンス",
+      "isrc": "JPU901500551",
+      "releaseDate": "2015-03-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

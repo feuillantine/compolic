@@ -1387,6 +1387,15 @@
       "releaseDate": "2021-01-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "defab24d-701e-4936-b9ec-66c35a8db339",
+      "title": "シンデレラNo.1",
+      "artist": "安部菜々",
+      "isrc": "JPCO02606040",
+      "releaseDate": "2026-05-27",
+      "spotifyUrl": "https://open.spotify.com/track/3ShWy0gkbnWKXoVbZgkKx6",
+      "isFallback": false
     }
   ]
 }

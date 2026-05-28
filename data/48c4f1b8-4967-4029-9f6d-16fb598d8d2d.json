@@ -595,6 +595,15 @@
       "releaseDate": "2021-10-27",
       "spotifyUrl": "https://open.spotify.com/track/0uW03A6rYpDkmZ0Y02BptG",
       "isFallback": true
+    },
+    {
+      "id": "aeac4669-572b-45df-b671-753f4176b077",
+      "title": "永遠はいらない",
+      "artist": "ChouChou",
+      "isrc": "JPE302000896",
+      "releaseDate": "2020-11-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

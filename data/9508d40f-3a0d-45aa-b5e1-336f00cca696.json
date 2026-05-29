@@ -253,6 +253,15 @@
       "releaseDate": "2024-04-01",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6cec813c-3ae8-489d-9700-2bfbdd29b0a0",
+      "title": "Rainy Adolescence",
+      "artist": "夢みるアドレセンス",
+      "isrc": "",
+      "releaseDate": "2026-02-20",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

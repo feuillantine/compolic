@@ -919,6 +919,15 @@
       "releaseDate": "2024-05-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3f40d24a-e0b1-4600-b714-44e6e449fb94",
+      "title": "初恋",
+      "artist": "内田雄馬",
+      "isrc": "JPKI02110852",
+      "releaseDate": "2021-04-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

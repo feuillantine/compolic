@@ -604,6 +604,24 @@
       "releaseDate": "2014-08-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "4e5bba1c-8d14-4b53-935b-bcf1fdbb9dc3",
+      "title": "新しいキミ",
+      "artist": "Pyxis",
+      "isrc": "JPTE01605200",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53c928d1-b8b5-4285-b7e6-2f1f46b6abbf",
+      "title": "Welcome! My best friend",
+      "artist": "Pyxis",
+      "isrc": "JPTE01605240",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

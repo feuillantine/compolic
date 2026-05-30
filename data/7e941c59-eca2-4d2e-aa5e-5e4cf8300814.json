@@ -352,6 +352,15 @@
       "releaseDate": "2023-11-15",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d6ff3132-5a74-4dd5-8b8a-00d5aa42c16f",
+      "title": "恋でした",
+      "artist": "Pyxis",
+      "isrc": "JPTE01605220",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

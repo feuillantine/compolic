@@ -1675,6 +1675,24 @@
       "releaseDate": "2020-06-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "91f726de-5a74-40ff-9104-2afe7d5e7aeb",
+      "title": "First Love 注意報！",
+      "artist": "Pyxis",
+      "isrc": "JPTE01605180",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5e527df8-9d50-405f-b815-c5d44b6e6c1a",
+      "title": "初恋の棘",
+      "artist": "Pyxis",
+      "isrc": "JPTE01605270",
+      "releaseDate": "2016-08-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

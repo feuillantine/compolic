@@ -163,6 +163,15 @@
       "releaseDate": "2014-10-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6846afdc-26a6-400c-b198-aba3e83d3f63",
+      "title": "LAST-1",
+      "artist": "MOTTO MUSIC",
+      "isrc": "QT66N2667225",
+      "releaseDate": "2026-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/3312VTqWcyKClpQmbPYe6i",
+      "isFallback": false
     }
   ]
 }

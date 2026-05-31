@@ -127,6 +127,15 @@
       "releaseDate": "2026-04-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "4c7cffab-25bf-4926-aa3d-1f8bb2346930",
+      "title": "FLOWER SUPER POWER",
+      "artist": "前橋ウィッチーズ",
+      "isrc": "",
+      "releaseDate": "2026-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

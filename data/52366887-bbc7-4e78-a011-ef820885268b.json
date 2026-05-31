@@ -190,6 +190,15 @@
       "releaseDate": "2015-03-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "01ae7447-f6ce-4548-9f9f-fc0070feb3a7",
+      "title": "One in a million",
+      "artist": "横山ルリカ",
+      "isrc": "JPVI01409930",
+      "releaseDate": "2014-06-18",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -190,6 +190,15 @@
       "releaseDate": "2026-01-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "76bc631b-5419-45d1-a037-7e3b98aac8bb",
+      "title": "フワフワの約束",
+      "artist": "三俣チョコ",
+      "isrc": "",
+      "releaseDate": "2026-03-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

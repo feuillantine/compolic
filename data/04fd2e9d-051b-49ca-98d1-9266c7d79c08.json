@@ -1099,6 +1099,15 @@
       "releaseDate": "2020-06-10",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7ccaec00-1cd3-43a3-8f13-f67ed2cab5b8",
+      "title": "光の蝶",
+      "artist": "吉岡亜衣加",
+      "isrc": "JPV201000595",
+      "releaseDate": "2010-09-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1666,6 +1666,15 @@
       "releaseDate": "2017-11-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "54bf30d6-2547-48f0-b9cf-b6b86f185927",
+      "title": "BERSER‐KEY",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR562300428",
+      "releaseDate": "2023-11-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

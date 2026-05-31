@@ -172,6 +172,15 @@
       "releaseDate": "2025-11-16",
       "spotifyUrl": "https://open.spotify.com/track/0A5bJBLkww6ztZ4UESs6i0",
       "isFallback": false
+    },
+    {
+      "id": "e305b5b7-0d54-49f4-accc-2495a507e112",
+      "title": "ドジ",
+      "artist": "渡り廊下走り隊",
+      "isrc": "JPPC01002177",
+      "releaseDate": "2010-10-13",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

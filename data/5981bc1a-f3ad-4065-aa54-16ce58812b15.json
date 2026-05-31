@@ -397,6 +397,15 @@
       "releaseDate": "2026-03-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ea2f50bf-a3aa-4989-8718-00f2903bc3d1",
+      "title": "ぐしゃぐしゃ",
+      "artist": "ロス",
+      "isrc": "JPR502602430",
+      "releaseDate": "2026-05-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

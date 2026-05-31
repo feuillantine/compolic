@@ -1363,6 +1363,24 @@
       "releaseDate": "2016-06-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "419ff30e-1083-4b48-8293-7b29fa6529c9",
+      "title": "ときめきフォーリンラブ",
+      "artist": "神楽坂ゆか",
+      "isrc": "",
+      "releaseDate": "2013-09-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e9f15fa1-dc8b-4c01-8a61-b7ff22c1c000",
+      "title": "初恋",
+      "artist": "神楽坂ゆか",
+      "isrc": "",
+      "releaseDate": "2013-09-16",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

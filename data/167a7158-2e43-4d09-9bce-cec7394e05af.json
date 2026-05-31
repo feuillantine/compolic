@@ -226,6 +226,15 @@
       "releaseDate": "2020-01-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "afa205b3-5efe-4a75-8076-a6496280bc55",
+      "title": "星の日",
+      "artist": "大原櫻子",
+      "isrc": "JPVI02302768",
+      "releaseDate": "2023-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

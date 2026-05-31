@@ -3154,6 +3154,69 @@
       "releaseDate": "2003-02-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "42f5694e-43a4-4011-82e0-282540a7eca4",
+      "title": "Sugar kiss",
+      "artist": "佐藤裕美",
+      "isrc": "",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c2ee9b07-be4f-4020-9cea-a7b3d4be69cc",
+      "title": "POLARIS",
+      "artist": "RAISE A SUILEN",
+      "isrc": "JPR562300429",
+      "releaseDate": "2023-11-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "25b0942c-ef0d-4bce-909c-f74ce28fa206",
+      "title": "初恋",
+      "artist": "佐藤裕美",
+      "isrc": "",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cdeb98a9-38fa-481d-8dfe-210b0a59b1e4",
+      "title": "ふにふに",
+      "artist": "佐藤裕美",
+      "isrc": "",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d0d4ddba-73c3-4f5f-bd14-cf7de7c06ea6",
+      "title": "げっちゅきっちゅSummer",
+      "artist": "佐藤裕美",
+      "isrc": "",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "87e91332-b5a5-4c1a-985e-4ff5c519d3e5",
+      "title": "ぽっぴん’どりーむ!",
+      "artist": "Poppin'Party",
+      "isrc": "JPR562400250",
+      "releaseDate": "2024-09-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "982ff848-a798-4363-b510-a87686534a90",
+      "title": "無影深遠",
+      "artist": "佐藤裕美",
+      "isrc": "",
+      "releaseDate": "2003-01-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

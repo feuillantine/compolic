@@ -352,6 +352,69 @@
       "releaseDate": "2026-04-26",
       "spotifyUrl": "https://open.spotify.com/track/06DMAbstWdExktksvmHk5O",
       "isFallback": false
+    },
+    {
+      "id": "0c80741e-f811-4c6e-98bc-62f2f25cd97f",
+      "title": "キスハグ侵略者！",
+      "artist": "iLiFE!",
+      "isrc": "JPW462574238",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/0KursyUXFqYkxGTOLDkU9e",
+      "isFallback": false
+    },
+    {
+      "id": "761bbc67-f3cc-4e95-9b5b-97fd29ed5b63",
+      "title": "ライフステージ",
+      "artist": "iLiFE!",
+      "isrc": "JPW462574227",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/3qPXTPiZV0xa4ar5sDkvwg",
+      "isFallback": false
+    },
+    {
+      "id": "858a46d7-5bc2-4a9a-b7ad-9c6c942c546f",
+      "title": "会いにKiTE!",
+      "artist": "iLiFE!",
+      "isrc": "JPW462248138",
+      "releaseDate": "2023-01-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "53a5d202-50ac-491c-a45a-2d56054799cf",
+      "title": "アイドルライフエクストラパック",
+      "artist": "iLiFE!",
+      "isrc": "JPW462574224",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/4LnbiUYrugHRiDsEbHoX1R",
+      "isFallback": false
+    },
+    {
+      "id": "089d124b-8b68-4751-b3a6-34e99818e665",
+      "title": "アイドルライフブースターパック",
+      "artist": "iLiFE!",
+      "isrc": "JPW462574230",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/7G3yty05ABkP7gt2N0Yxq3",
+      "isFallback": false
+    },
+    {
+      "id": "fc4ce2a6-3b09-46df-9bb2-c649ed221742",
+      "title": "アイドルライフスターターパック",
+      "artist": "iLiFE!",
+      "isrc": "JPW462248141",
+      "releaseDate": "2023-01-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "465e47d0-55b1-4020-8dbb-a4e7591984d8",
+      "title": "サイクロンライフ！",
+      "artist": "iLiFE!",
+      "isrc": "JPW462574231",
+      "releaseDate": "2025-04-30",
+      "spotifyUrl": "https://open.spotify.com/track/6y0nMI22kAb2IcyDvYMOpa",
+      "isFallback": false
     }
   ]
 }

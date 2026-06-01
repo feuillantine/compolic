@@ -127,6 +127,24 @@
       "releaseDate": "1999-01-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "da4e785e-ff00-4db4-9b71-305d70bb2f4c",
+      "title": "言葉にならない",
+      "artist": "日高のり子",
+      "isrc": "",
+      "releaseDate": "1990-08-21",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "58841ac5-5ff0-47b1-a7a8-db28cceb2b85",
+      "title": "あなたと私のEpilogue",
+      "artist": "日高のり子",
+      "isrc": "",
+      "releaseDate": "1990-08-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

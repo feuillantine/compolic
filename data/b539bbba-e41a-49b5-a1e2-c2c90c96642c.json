@@ -352,6 +352,15 @@
       "releaseDate": "2017-04-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "abdc60e2-f5f8-46ee-bf6b-ac39b73ffa6a",
+      "title": "espresso",
+      "artist": "野中藍",
+      "isrc": "",
+      "releaseDate": "2010-01-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

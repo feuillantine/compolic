@@ -19,6 +19,15 @@
       "releaseDate": "2021-08-15",
       "spotifyUrl": "https://open.spotify.com/track/38d2Xrw21Otmj071vRl4uI",
       "isFallback": true
+    },
+    {
+      "id": "1ed7521c-ee19-4a2a-a97b-e6ef596f36d5",
+      "title": "ヌューミュージック",
+      "artist": "nuance",
+      "isrc": "TCJPM2040113",
+      "releaseDate": "2020-08-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

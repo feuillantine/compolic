@@ -1039,6 +1039,87 @@
       "releaseDate": "2014-02-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ae82dbe7-9209-458b-bca8-38aabbeab1f1",
+      "title": "Find a Day",
+      "artist": "Aikapin",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b0ad132-fe33-4be1-955c-27f26059cf77",
+      "title": "GO MY ウェイウェイ",
+      "artist": "山本椛",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "081c2240-a090-4f8e-a932-813280a09d6e",
+      "title": "Witchcraft",
+      "artist": "ARM",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae4addb4-10d6-4988-8983-19913c2578b6",
+      "title": "jk崩壊曲線",
+      "artist": "イオシスjkガールズ",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "60ba02ab-94fa-4153-ace3-88d283dea8f4",
+      "title": "Broken Love",
+      "artist": "あさな",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49cd6cfe-a814-4b6d-be15-0a08e0c915fe",
+      "title": "ターンテーブル・ポルカ",
+      "artist": "ARM",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bec9f2f6-d8e2-48db-8bed-22747fdac46e",
+      "title": "れっみっだんす(>_<)",
+      "artist": "ココ",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e3b837a5-b337-44b0-bf0f-2a3dc041fdcb",
+      "title": "メロメロリンリンごろごろにゃんにゃんバープーバープーベベベベボーン",
+      "artist": "miko",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "742bc624-d69a-49aa-87ae-f916e8c894a6",
+      "title": "進捗WARS",
+      "artist": "ビートまりお",
+      "isrc": "",
+      "releaseDate": "2015-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

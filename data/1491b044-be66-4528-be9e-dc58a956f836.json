@@ -2827,6 +2827,15 @@
       "releaseDate": "2026-05-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7eadd287-5639-40a8-ad74-ea3ae5a32a45",
+      "title": "ファイト!!",
+      "artist": "野中藍",
+      "isrc": "",
+      "releaseDate": "2010-01-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -595,6 +595,15 @@
       "releaseDate": "2025-03-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "46273300-9fe7-403d-8a50-d127f821c829",
+      "title": "桜のつぼみ",
+      "artist": "miao",
+      "isrc": "JPS752100237",
+      "releaseDate": "2022-05-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

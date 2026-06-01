@@ -928,6 +928,24 @@
       "releaseDate": "2021-04-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "098e300e-714f-4814-87d3-541b5f925deb",
+      "title": "初恋キャンディ",
+      "artist": "さくらシンデレラ",
+      "isrc": "JPZ922014497",
+      "releaseDate": "2021-01-13",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d4778996-4b1a-4c06-a9ff-b39502157df0",
+      "title": "赤いマフラー",
+      "artist": "さくらシンデレラ",
+      "isrc": "TCJPN2054131",
+      "releaseDate": "2020-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -1495,6 +1495,15 @@
       "releaseDate": "2026-04-12",
       "spotifyUrl": "https://open.spotify.com/track/0Hrf05A1YxWPqXxbNW2WrL",
       "isFallback": false
+    },
+    {
+      "id": "a1f3c4b4-1387-4dc9-a84c-a9107983bb1d",
+      "title": "別れの戦記",
+      "artist": "天堂真矢",
+      "isrc": "JPR562400333",
+      "releaseDate": "2024-11-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

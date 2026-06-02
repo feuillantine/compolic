@@ -226,6 +226,24 @@
       "releaseDate": "2012-06-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "5ce22e1f-7487-4bc3-8947-9d66ad5bd0b1",
+      "title": "淡雪 first lover",
+      "artist": "気まぐれ！ふぁっしねいと",
+      "isrc": "QT66K2607734",
+      "releaseDate": "2026-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/3AsQgKD8wQRT7mkYtGyalL",
+      "isFallback": false
+    },
+    {
+      "id": "d820b2b6-e3e9-46a5-aeb4-0efbd4d0242a",
+      "title": "僕だってアルタイル",
+      "artist": "気まぐれ！ふぁっしねいと",
+      "isrc": "QT66K2607710",
+      "releaseDate": "2026-02-08",
+      "spotifyUrl": "https://open.spotify.com/track/39kyJu3grZCJFQLwE05aJs",
+      "isFallback": false
     }
   ]
 }

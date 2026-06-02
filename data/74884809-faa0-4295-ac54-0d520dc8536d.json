@@ -361,6 +361,15 @@
       "releaseDate": "2025-12-10",
       "spotifyUrl": "https://open.spotify.com/track/5CfYWKBfDGaU9yRt9EDOSm",
       "isFallback": false
+    },
+    {
+      "id": "94970604-663e-4588-92b1-6eda7b70b68e",
+      "title": "Keep it up!!",
+      "artist": "4U",
+      "isrc": "JPZ732500307",
+      "releaseDate": "2025-08-18",
+      "spotifyUrl": "https://open.spotify.com/track/34o1ZNqjfLowH8ePGHfm9c",
+      "isFallback": false
     }
   ]
 }

@@ -1940,6 +1940,15 @@
       "releaseDate": "2004-01-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "686e2222-69cd-442f-9fc5-fa0db6fb797a",
+      "title": "こむぎ気分でロックンロール",
+      "artist": "中原小麦",
+      "isrc": "",
+      "releaseDate": "2002-08-23",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

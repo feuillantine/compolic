@@ -433,6 +433,24 @@
       "releaseDate": "2021-07-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "51d237c0-d048-4c9a-8a31-3c76ec2e4d36",
+      "title": "ずっと好きだったのにいなくなっちゃうのかよ、バカヤロー！でもいい思い出をありがとう、、、夏",
+      "artist": "HelloYouth",
+      "isrc": "JPS752500443",
+      "releaseDate": "2025-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/6Hb00IiKFPn6XN0a34QOdV",
+      "isFallback": false
+    },
+    {
+      "id": "2a35862c-1760-4646-ab11-f64e54951139",
+      "title": "You & Me",
+      "artist": "HelloYouth",
+      "isrc": "TCJPW2383493",
+      "releaseDate": "2023-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/6E38MltsVl2kRfSTcFRRaR",
+      "isFallback": false
     }
   ]
 }

@@ -172,6 +172,15 @@
       "releaseDate": "2026-01-21",
       "spotifyUrl": "https://open.spotify.com/track/4E8xMFYEceWpDmj3ztTHGd",
       "isFallback": false
+    },
+    {
+      "id": "948f209d-acc3-4203-9548-ec9235bb66e6",
+      "title": "NIGHT HIKE",
+      "artist": "なみぐる",
+      "isrc": "JP92Y2606257",
+      "releaseDate": "2026-05-18",
+      "spotifyUrl": "https://open.spotify.com/track/60tIfUwlveC97dbHIJkIdg",
+      "isFallback": false
     }
   ]
 }

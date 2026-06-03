@@ -100,6 +100,51 @@
       "releaseDate": "2025-11-16",
       "spotifyUrl": "https://open.spotify.com/track/2KJrCtKfScNAB8kXenSWcC",
       "isFallback": false
+    },
+    {
+      "id": "cddb536e-ff71-4a9f-b1ce-ff60ce1a3f7e",
+      "title": "オテントサマー",
+      "artist": "HelloYouth",
+      "isrc": "TCJPW2383490",
+      "releaseDate": "2023-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/6rqC8q3iSUZ8s9WER7A8DA",
+      "isFallback": false
+    },
+    {
+      "id": "591aa644-426b-4357-933d-f98b8b17d2e1",
+      "title": "君完全体",
+      "artist": "HelloYouth",
+      "isrc": "JPS752500440",
+      "releaseDate": "2025-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/5AHsuFRuwgcrHYCtXzua7B",
+      "isFallback": false
+    },
+    {
+      "id": "9681ac75-4ca1-4466-9843-3429383b3de6",
+      "title": "with us",
+      "artist": "HelloYouth",
+      "isrc": "TCJPW2383480",
+      "releaseDate": "2023-07-29",
+      "spotifyUrl": "https://open.spotify.com/track/3q8MfxauU3eaRcUdBa5xhz",
+      "isFallback": false
+    },
+    {
+      "id": "c107abc0-2b37-4351-8765-360db618ce42",
+      "title": "ばいばい",
+      "artist": "HelloYouth",
+      "isrc": "JPS752500441",
+      "releaseDate": "2025-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/1eTsxJWPXy8cUEPQTQzfmE",
+      "isFallback": false
+    },
+    {
+      "id": "292f9d0b-35b2-41d3-a9e2-7856bc680e4e",
+      "title": "青春前線上昇中",
+      "artist": "HelloYouth",
+      "isrc": "JPS752500442",
+      "releaseDate": "2025-05-21",
+      "spotifyUrl": "https://open.spotify.com/track/13Ui5lZ6g1rneoKn34nslU",
+      "isFallback": false
     }
   ]
 }

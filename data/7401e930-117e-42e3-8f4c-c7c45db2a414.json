@@ -91,6 +91,15 @@
       "releaseDate": "2024-06-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ecf73b02-d74e-41d7-9872-5f63601a0d49",
+      "title": "はなまるプリンセス",
+      "artist": "白石うらん",
+      "isrc": "",
+      "releaseDate": "2023-04-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

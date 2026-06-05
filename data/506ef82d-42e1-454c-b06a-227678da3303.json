@@ -100,6 +100,15 @@
       "releaseDate": "2011-08-13",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a8ef8d63-2f47-4d58-a8a9-9fd0411f3e03",
+      "title": "Fake Stage",
+      "artist": "後藤ハルキ",
+      "isrc": "",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

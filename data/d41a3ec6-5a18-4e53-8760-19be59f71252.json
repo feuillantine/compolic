@@ -1234,6 +1234,15 @@
       "releaseDate": "2009-01-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "c65c8eee-75f1-43fc-be6e-6b77c9b0f1db",
+      "title": "塔頂者たち",
+      "artist": "KENN",
+      "isrc": "",
+      "releaseDate": "2008-05-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

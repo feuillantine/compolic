@@ -343,6 +343,15 @@
       "releaseDate": "2026-04-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "cc0ac0d8-1b5b-4d44-9ccf-a2bfa5194b73",
+      "title": "レンダスイッチ",
+      "artist": "ことの",
+      "isrc": "",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

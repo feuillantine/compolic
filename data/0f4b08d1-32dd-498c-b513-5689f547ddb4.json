@@ -1441,6 +1441,348 @@
       "releaseDate": "2025-04-26",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "795dda60-8533-4ff9-81af-2ddb8177221b",
+      "title": "ウナ重",
+      "artist": "OSTER project",
+      "isrc": "JP92U2500442",
+      "releaseDate": "2025-09-15",
+      "spotifyUrl": "https://open.spotify.com/track/7fBv2DTWDWgV1krVyoubuU",
+      "isFallback": false
+    },
+    {
+      "id": "edd3de0d-d8b2-42d6-80d2-2efa1bb6d49b",
+      "title": "SUPER NOVA",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f8bba53b-031f-4f4d-98e4-9e35f85e2b50",
+      "title": "カワイイ！",
+      "artist": "OSTER project",
+      "isrc": "JP92U2500107",
+      "releaseDate": "2025-02-14",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bdbf6676-bde7-438a-9ccd-c37eaccea0be",
+      "title": "KAGAMINE Style",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c0460968-2599-4734-a03b-ed964c95c68b",
+      "title": "Buddy",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c651b6a9-9290-4846-a6f1-4f2ff2e12f68",
+      "title": "おねがい shining☆star",
+      "artist": "OSTER project",
+      "isrc": "JPJ820900082",
+      "releaseDate": "2009-04-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5fba55b0-c2a1-41f2-9efc-9ec36a25ef56",
+      "title": "キミになっていく！",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c397103e-f443-4e2f-97a0-ea4302442117",
+      "title": "kissing fish",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0bd05724-b782-4b98-b34a-aaf2df416312",
+      "title": "TWILIGHT BLOOD",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "abc87f1d-720a-415d-bb4d-7096f3e97832",
+      "title": "ストレートネック",
+      "artist": "OSTER project",
+      "isrc": "JP92U2500256",
+      "releaseDate": "2025-05-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1788f449-1079-4ffc-aa24-6a54798f89d6",
+      "title": "ROSET",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3e2ff5ad-ce24-4851-a96d-87a65d33f681",
+      "title": "アイマイ・モカ",
+      "artist": "OSTER project",
+      "isrc": "JP92U2600047",
+      "releaseDate": "2026-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "df0ff84c-b602-4b12-9718-e147460cba26",
+      "title": "この関係に名前をつけて",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2154d83a-86c1-4519-9035-93ace9ab3ced",
+      "title": "子供部屋のエチュード",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b77160a6-19e0-46ad-adc3-b71d831797c9",
+      "title": "超！高速！除夜の鐘",
+      "artist": "OSTER project",
+      "isrc": "JP92U2600048",
+      "releaseDate": "2026-02-19",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "92dfeb14-1a47-4dac-8a91-ad2636a5b7c1",
+      "title": "百足デイドリーム",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5948669e-950b-42e9-a46f-573fc5362bf9",
+      "title": "君色ウェザーリポート",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "37dc7dd9-be6a-4214-a1d7-e49233fddc79",
+      "title": "烏合",
+      "artist": "OSTER project",
+      "isrc": "TCJPW2360784",
+      "releaseDate": "2023-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b0f1fac0-7386-43ad-860d-d1312c788096",
+      "title": "前へ！",
+      "artist": "OSTER project",
+      "isrc": "JP92U2600118",
+      "releaseDate": "2026-03-24",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "51db0ca9-bce4-4c24-8294-16561514bd2d",
+      "title": "とめて。",
+      "artist": "OSTER project",
+      "isrc": "JP92U2400729",
+      "releaseDate": "2024-10-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "471887e5-7570-4f92-be9e-717f14e19a24",
+      "title": "雨降り猫とカプチーノ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ae6f7743-3241-4d08-b14f-e075dcccf1c7",
+      "title": "プラシイボ♥バトラー",
+      "artist": "OSTER project",
+      "isrc": "JP92U2500345",
+      "releaseDate": "2025-07-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fa2ffbe1-ac53-48e9-ac2c-285f2447e861",
+      "title": "不適切淑女",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d5f3c577-6d9d-4bb6-b53f-44aef0862fbe",
+      "title": "助手席ロードムービー",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "7b52c0d2-353f-4fcf-9a7a-3bfbe07304f5",
+      "title": "ログインボーナス",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0fb38414-a1ac-4d13-b55b-66cf775a0b14",
+      "title": "軋んだ夢と糸繰人形",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cc5c7112-6365-4ed8-ac21-5b02dc2683b9",
+      "title": "もんめためたもん",
+      "artist": "OSTER project",
+      "isrc": "JP92U2500109",
+      "releaseDate": "2025-02-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "895e4b42-b206-4f82-afca-ac66363afef3",
+      "title": "枝豆がもげるほど恋したい",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "aa0b9333-d758-4ba7-9a41-f0a37efdad58",
+      "title": "トンガリズム",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3a8d1ea4-6a4e-4364-905f-3c8620486e16",
+      "title": "タピオカ元年",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "42e6c591-4265-47d3-a0ce-a01830022136",
+      "title": "デカフェガール",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6282b6dc-7463-4db1-920d-9294e2db58d5",
+      "title": "やみやみガール",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "48e0eefc-980c-4f66-908d-2477cd18eb42",
+      "title": "女の子なのだ",
+      "artist": "OSTER project",
+      "isrc": "JP92U2400588",
+      "releaseDate": "2024-05-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "025d6ca1-dd70-4ded-a4df-78cc7792c7b0",
+      "title": "フランスかぶれ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-01-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8af88290-0bce-4fe9-800c-3c36aad46d4e",
+      "title": "恋色監獄",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2019-12-31",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c8608b5c-ebe5-4efc-8445-5f9da6d483f1",
+      "title": "ミラクルショウタイム",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "31a66fe9-32d3-4551-a2d2-270decf68ad5",
+      "title": "フレンドシップ",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1c2c775a-c39d-4700-aeb0-e5526700970b",
+      "title": "恋の才能",
+      "artist": "OSTER project",
+      "isrc": "",
+      "releaseDate": "2026-04-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

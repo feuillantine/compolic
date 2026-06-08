@@ -1396,6 +1396,15 @@
       "releaseDate": "2020-03-04",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7ce721bf-11e7-4e3d-bcea-be134e9d1df8",
+      "title": "ククタナ",
+      "artist": "harmoe",
+      "isrc": "JPPC02210985",
+      "releaseDate": "2022-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

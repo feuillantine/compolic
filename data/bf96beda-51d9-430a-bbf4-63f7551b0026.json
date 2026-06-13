@@ -1783,6 +1783,15 @@
       "releaseDate": "2011-05-11",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6ba036b5-12d5-4661-9aa5-66688e67dbd9",
+      "title": "光の中で花咲いて",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102600919",
+      "releaseDate": "2026-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/2pvz3bbE77115i2cvXTqD1",
+      "isFallback": false
     }
   ]
 }

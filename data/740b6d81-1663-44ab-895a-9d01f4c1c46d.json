@@ -964,6 +964,42 @@
       "releaseDate": "2026-02-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b1f6409e-661a-42ce-b02f-5e5a19fb2f29",
+      "title": "エクストラ・エキストラ！ -Extra Extra-",
+      "artist": "銀河座",
+      "isrc": "",
+      "releaseDate": "2026-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e111c0f9-29d3-4ed1-b270-892bc8547c88",
+      "title": "Gazing Dialogue Play",
+      "artist": "銀河座",
+      "isrc": "",
+      "releaseDate": "2026-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "32cfb336-4e45-4e2c-a928-a8abaf26d212",
+      "title": "ハオダー？ハオアー！-好的？好?！-",
+      "artist": "銀河座",
+      "isrc": "",
+      "releaseDate": "2026-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2782b32f-c214-4712-b7a7-ff88aaf3aa7e",
+      "title": "情熱と歓喜のCarnaval！",
+      "artist": "銀河座",
+      "isrc": "",
+      "releaseDate": "2026-05-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

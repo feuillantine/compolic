@@ -955,6 +955,15 @@
       "releaseDate": "2016-06-01",
       "spotifyUrl": "https://open.spotify.com/track/6yzom3KRsTiSXn2cZ55auB",
       "isFallback": false
+    },
+    {
+      "id": "31f063a8-a4cd-4c4b-9f81-4e5cbc05161b",
+      "title": "Dou-Da? DOING!",
+      "artist": "いきづらい部!",
+      "isrc": "JPI102503693",
+      "releaseDate": "2026-02-15",
+      "spotifyUrl": "https://open.spotify.com/track/1N4CeCZaDj8EH1fh1DPrDt",
+      "isFallback": false
     }
   ]
 }

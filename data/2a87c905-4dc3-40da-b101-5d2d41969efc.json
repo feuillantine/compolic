@@ -761,6 +761,15 @@
       "releaseDate": "2026-04-03",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "aaac01b3-1502-44cc-aeaa-eb7927e452ad",
+      "title": "積極的にギュッてして！",
+      "artist": "「放課後パレット」",
+      "isrc": "JPV432600361",
+      "releaseDate": "2026-06-13",
+      "spotifyUrl": "https://open.spotify.com/track/1oQWoAxwmQnNrc7RxXlUMG",
+      "isFallback": false
     }
   ]
 }

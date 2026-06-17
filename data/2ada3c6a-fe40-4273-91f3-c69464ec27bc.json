@@ -208,6 +208,15 @@
       "releaseDate": "2026-03-25",
       "spotifyUrl": "https://open.spotify.com/track/706jJOJ949tfD5eqLRjhTT",
       "isFallback": false
+    },
+    {
+      "id": "ae23e83b-d205-4f5b-9133-8a40220a492f",
+      "title": "レゾナンス・レゾナンス",
+      "artist": "イノー",
+      "isrc": "JPD732301597",
+      "releaseDate": "2023-10-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

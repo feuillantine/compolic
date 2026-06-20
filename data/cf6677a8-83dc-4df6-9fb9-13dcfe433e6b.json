@@ -172,6 +172,15 @@
       "releaseDate": "2026-05-21",
       "spotifyUrl": "https://open.spotify.com/track/3312VTqWcyKClpQmbPYe6i",
       "isFallback": false
+    },
+    {
+      "id": "ef78288d-1d00-4009-a3f1-02d19052fbfc",
+      "title": "LAST-1",
+      "artist": "ハヤシベトモノリ",
+      "isrc": "QT66N2667225",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/3312VTqWcyKClpQmbPYe6i",
+      "isFallback": false
     }
   ]
 }

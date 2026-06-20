@@ -388,6 +388,15 @@
       "releaseDate": "2026-06-03",
       "spotifyUrl": "https://open.spotify.com/track/3HdqmT7FBKQiLAlvFlVad6",
       "isFallback": false
+    },
+    {
+      "id": "e9fa7b80-342c-4bf3-9b0e-a210763edcd6",
+      "title": "ハナ咲けばユメ駆ける",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102600918",
+      "releaseDate": "2026-05-09",
+      "spotifyUrl": "https://open.spotify.com/track/3HdqmT7FBKQiLAlvFlVad6",
+      "isFallback": false
     }
   ]
 }

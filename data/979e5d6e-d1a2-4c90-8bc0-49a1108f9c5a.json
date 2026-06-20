@@ -82,6 +82,15 @@
       "releaseDate": "2026-01-28",
       "spotifyUrl": "https://open.spotify.com/track/2ToEVRZbwxvBVK6WbREwtx",
       "isFallback": true
+    },
+    {
+      "id": "707eb8f0-93dc-4146-a535-d94e5a6cfff4",
+      "title": "午前零時逃避行",
+      "artist": "水瀬 凪",
+      "isrc": "QT66P2694800",
+      "releaseDate": "2026-06-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

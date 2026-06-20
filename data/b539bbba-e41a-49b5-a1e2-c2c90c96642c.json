@@ -361,6 +361,42 @@
       "releaseDate": "2010-01-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3f51d47e-2c3c-43c1-8658-0567518b3408",
+      "title": "Rainy Pain",
+      "artist": "三咲里奈",
+      "isrc": "",
+      "releaseDate": "2008-07-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f589d484-6f52-42d4-b0c8-be8cd0771cbe",
+      "title": "Flower doll",
+      "artist": "青戸由羽",
+      "isrc": "",
+      "releaseDate": "2008-07-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1b3ad41f-47a4-43ab-8824-ee5498e369bf",
+      "title": "ごーいんぐまいうぇい",
+      "artist": "花野香",
+      "isrc": "",
+      "releaseDate": "2008-07-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f2747aff-595e-47f3-a315-37be84819225",
+      "title": "Marital vows",
+      "artist": "松田理沙",
+      "isrc": "",
+      "releaseDate": "2008-07-11",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

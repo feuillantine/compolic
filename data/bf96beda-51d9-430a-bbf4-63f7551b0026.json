@@ -1792,6 +1792,15 @@
       "releaseDate": "2026-06-03",
       "spotifyUrl": "https://open.spotify.com/track/2pvz3bbE77115i2cvXTqD1",
       "isFallback": false
+    },
+    {
+      "id": "d9a7c3b4-cc77-459b-84dd-10d07e546ce1",
+      "title": "光の中で花咲いて",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "isrc": "JPI102600919",
+      "releaseDate": "2026-06-03",
+      "spotifyUrl": "https://open.spotify.com/track/2pvz3bbE77115i2cvXTqD1",
+      "isFallback": false
     }
   ]
 }

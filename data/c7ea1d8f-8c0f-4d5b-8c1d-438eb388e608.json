@@ -946,6 +946,15 @@
       "releaseDate": "2020-12-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6c4832a1-e737-408f-a75c-0684e6e9189a",
+      "title": "Glass",
+      "artist": "レトラ",
+      "isrc": "JPR502513146",
+      "releaseDate": "2025-11-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

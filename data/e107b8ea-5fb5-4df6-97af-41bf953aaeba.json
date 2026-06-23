@@ -1153,6 +1153,15 @@
       "releaseDate": "2009-01-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "fe3321f9-f14b-4432-99f2-eb075bec095c",
+      "title": "明日の声",
+      "artist": "kozue",
+      "isrc": "JPI100500368",
+      "releaseDate": "2006-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

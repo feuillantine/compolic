@@ -226,6 +226,15 @@
       "releaseDate": "1999-12-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "ae6e9181-441b-4ef1-a495-5d00f13f1305",
+      "title": "花いろ日記",
+      "artist": "後藤沙緒里",
+      "isrc": "",
+      "releaseDate": "2005-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

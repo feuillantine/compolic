@@ -1381,6 +1381,24 @@
       "releaseDate": "2013-09-16",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "c5d7151a-5683-49ea-935d-c22b4028f3b8",
+      "title": "Lip-Trip",
+      "artist": "後藤沙緒里",
+      "isrc": "",
+      "releaseDate": "2005-01-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "3b857e11-4bbf-4661-aac7-902660a631f9",
+      "title": "ウシロスガタ",
+      "artist": "yozuca*",
+      "isrc": "JPI100401423",
+      "releaseDate": "2006-12-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

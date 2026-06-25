@@ -676,6 +676,15 @@
       "releaseDate": "2020-03-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "95bef5b6-bae2-4846-8cd3-cd2eb174df68",
+      "title": "Prima Princess!!",
+      "artist": "松田亜利沙",
+      "isrc": "",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

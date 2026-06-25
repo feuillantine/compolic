@@ -604,6 +604,15 @@
       "releaseDate": "2020-11-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "8ded65e8-052b-4fec-955c-4a853fb7ed3f",
+      "title": "Happy Stars Forever!",
+      "artist": "長瀬琴乃",
+      "isrc": "",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

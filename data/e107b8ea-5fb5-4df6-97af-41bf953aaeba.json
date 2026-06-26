@@ -1162,6 +1162,15 @@
       "releaseDate": "2006-12-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "30579a6c-0fdf-4ffe-bad6-100708b6bd33",
+      "title": "夢見るままに恋をして",
+      "artist": "橋本みゆき",
+      "isrc": "JPI101301042",
+      "releaseDate": "2011-06-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

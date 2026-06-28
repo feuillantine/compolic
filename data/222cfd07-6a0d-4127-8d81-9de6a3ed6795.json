@@ -478,6 +478,15 @@
       "releaseDate": "2012-07-18",
       "spotifyUrl": "https://open.spotify.com/track/6PQrLGivAmB0XnS06BhSPZ",
       "isFallback": true
+    },
+    {
+      "id": "9ee3cbaf-22c7-4344-9a79-a35c4be49fe4",
+      "title": "Promise",
+      "artist": "しっとり♮アイドリング!!!",
+      "isrc": "JPPC01302857",
+      "releaseDate": "2014-01-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

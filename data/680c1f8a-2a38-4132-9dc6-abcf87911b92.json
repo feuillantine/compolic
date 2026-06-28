@@ -235,6 +235,15 @@
       "releaseDate": "2012-07-08",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d022565f-714f-43d2-9a0c-644a66906ab5",
+      "title": "My Crazy Days",
+      "artist": "hiro",
+      "isrc": "JPB600584602",
+      "releaseDate": "2006-02-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

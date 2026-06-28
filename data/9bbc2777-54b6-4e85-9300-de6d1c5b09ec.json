@@ -577,6 +577,15 @@
       "releaseDate": "2021-02-17",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "e6bce183-6016-4186-987d-bcff635a12f1",
+      "title": "恋のチュートリアル",
+      "artist": "Liella!",
+      "isrc": "JPI102601461",
+      "releaseDate": "2026-06-17",
+      "spotifyUrl": "https://open.spotify.com/track/1A1XcyBIGcCNcOhJhnqdtH",
+      "isFallback": false
     }
   ]
 }

@@ -2614,6 +2614,15 @@
       "releaseDate": "2026-02-18",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7abed67a-a030-483f-aa4e-b995b172fa03",
+      "title": "これはぼくたちの生存のあらすじ",
+      "artist": "夢限大みゅーたいぷ",
+      "isrc": "JPR562600099",
+      "releaseDate": "2026-06-22",
+      "spotifyUrl": "https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi",
+      "isFallback": false
     }
   ]
 }

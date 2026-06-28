@@ -778,6 +778,15 @@
       "releaseDate": "2025-10-27",
       "spotifyUrl": "https://open.spotify.com/track/3gRfHnh7dyH2BcYc7I80T5",
       "isFallback": false
+    },
+    {
+      "id": "719c8a51-7b66-487d-8cc3-6774934909d6",
+      "title": "Horizon Dream",
+      "artist": "Endorfin.",
+      "isrc": "",
+      "releaseDate": "2025-11-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

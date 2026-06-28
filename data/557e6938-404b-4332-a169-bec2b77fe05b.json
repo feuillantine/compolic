@@ -5959,6 +5959,15 @@
       "releaseDate": "2010-06-23",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6b629206-b936-4410-a165-ab7308c55e54",
+      "title": "フローリア",
+      "artist": "岡咲美保",
+      "isrc": "JPKI02613014",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/2NXqNLeinF2qV8EuldkqQu",
+      "isFallback": false
     }
   ]
 }

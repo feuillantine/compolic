@@ -199,6 +199,15 @@
       "releaseDate": "2023-08-30",
       "spotifyUrl": "https://open.spotify.com/track/3yWAVhFgEjAeWCNZfDAvuG",
       "isFallback": true
+    },
+    {
+      "id": "22f6d593-8c22-4d49-be96-e171c0cca07b",
+      "title": "White ROSE",
+      "artist": "フルコース",
+      "isrc": "",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

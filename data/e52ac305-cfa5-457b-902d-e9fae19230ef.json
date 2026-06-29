@@ -415,6 +415,33 @@
       "releaseDate": "2025-04-30",
       "spotifyUrl": "https://open.spotify.com/track/6y0nMI22kAb2IcyDvYMOpa",
       "isFallback": false
+    },
+    {
+      "id": "841acc53-5b9b-477d-96be-3ec8d57acc3c",
+      "title": "電想∬インテグラル",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "",
+      "releaseDate": "2026-06-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "0ebf57ef-2944-4398-a0d6-0cd55ed5a3d7",
+      "title": "DuaLoveDimension",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "",
+      "releaseDate": "2026-06-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f0f81ead-d0d9-4839-867d-25327b8ae79b",
+      "title": "双愛⇔ハイディメンション",
+      "artist": "煌めき☆アンフォレント",
+      "isrc": "",
+      "releaseDate": "2026-06-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

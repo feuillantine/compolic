@@ -451,6 +451,15 @@
       "releaseDate": "2023-07-29",
       "spotifyUrl": "https://open.spotify.com/track/6E38MltsVl2kRfSTcFRRaR",
       "isFallback": false
+    },
+    {
+      "id": "c3e3f770-36c9-4882-b034-c414a8f502d2",
+      "title": "ウタゲサマーっ！！",
+      "artist": "UtaGe!",
+      "isrc": "",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

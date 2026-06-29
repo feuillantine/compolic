@@ -2623,6 +2623,15 @@
       "releaseDate": "2026-06-22",
       "spotifyUrl": "https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi",
       "isFallback": false
+    },
+    {
+      "id": "378fe199-d041-46e1-9666-2b39caeefd85",
+      "title": "命を選べるか",
+      "artist": "Nona*",
+      "isrc": "",
+      "releaseDate": "2026-06-20",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

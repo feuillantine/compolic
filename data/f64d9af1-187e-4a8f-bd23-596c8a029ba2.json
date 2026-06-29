@@ -145,6 +145,24 @@
       "releaseDate": "2024-06-26",
       "spotifyUrl": "https://open.spotify.com/track/3xl6KqEE56ffmrtuymaDEW",
       "isFallback": false
+    },
+    {
+      "id": "a22605a8-1e83-4f89-a2bf-03c3ac1e146d",
+      "title": "ヒトミボレ♡",
+      "artist": "CURE'T",
+      "isrc": "",
+      "releaseDate": "2026-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c314c722-54f1-4dad-9d6e-3a7fe70f5543",
+      "title": "はぷにんぐレシピ",
+      "artist": "CURE'T",
+      "isrc": "",
+      "releaseDate": "2026-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

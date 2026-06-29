@@ -604,6 +604,15 @@
       "releaseDate": "2022-05-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "4f57987f-12bb-4e4f-9322-51b1c3e2f09b",
+      "title": "Happy*Happy",
+      "artist": "Two for all",
+      "isrc": "JPW372500060",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/track/4dW8QNFfXZRtyWfCXkcjkN",
+      "isFallback": false
     }
   ]
 }

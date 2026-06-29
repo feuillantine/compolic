@@ -262,6 +262,42 @@
       "releaseDate": "2026-02-20",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d408c0d5-9bfb-4cd0-8240-5f7ec0b99f3c",
+      "title": "ここでファーストキッス",
+      "artist": "≠ME",
+      "isrc": "JPKI02612688",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "https://open.spotify.com/track/5br3uXq2RFD0gUoatqSN86",
+      "isFallback": false
+    },
+    {
+      "id": "7bd11cdb-8232-4995-9dfc-bcdfb98e1e18",
+      "title": "未来グラデーション",
+      "artist": "逆転ねこぱんちっ！",
+      "isrc": "",
+      "releaseDate": "2026-06-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "4c22df3c-89eb-47fb-ad67-4e12973e1390",
+      "title": "晴れのち青",
+      "artist": "限りなく白く",
+      "isrc": "",
+      "releaseDate": "2026-06-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1a74bf09-2932-48a9-876d-9cd3804d65d5",
+      "title": "Poppin' Shower",
+      "artist": "il pluet",
+      "isrc": "",
+      "releaseDate": "2026-06-21",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

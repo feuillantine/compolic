@@ -454,6 +454,15 @@
       "releaseDate": "2026-01-05",
       "spotifyUrl": "https://open.spotify.com/track/60aRleIy0TDzLve95KBgPN",
       "isFallback": true
+    },
+    {
+      "id": "5b1c8d52-d530-49f1-9f50-10b34ed82210",
+      "title": "ガチ炊きちゅーなの！？ ALL NIGHT LONG",
+      "artist": "猫汰つな",
+      "isrc": "",
+      "releaseDate": "2026-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

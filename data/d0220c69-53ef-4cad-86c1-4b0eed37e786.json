@@ -730,6 +730,15 @@
       "releaseDate": "2016-05-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6bd3f37d-640c-42b8-b869-4014447adb7c",
+      "title": "かしこみWeekend♪",
+      "artist": "えび天娘。",
+      "isrc": "",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

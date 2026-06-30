@@ -109,6 +109,24 @@
       "releaseDate": "2022-03-30",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "9635a170-948d-44ee-aa99-68ab1065b515",
+      "title": "starry night",
+      "artist": "Ringwanderung",
+      "isrc": "",
+      "releaseDate": "2026-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "051a07f0-80f4-4c9c-b87c-1c939e6d704c",
+      "title": "2010",
+      "artist": "Ringwanderung",
+      "isrc": "",
+      "releaseDate": "2026-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

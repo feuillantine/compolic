@@ -298,6 +298,15 @@
       "releaseDate": "2026-04-03",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f856ae9e-a973-4e47-b9bd-e5c302faf288",
+      "title": "vanilla",
+      "artist": "diig",
+      "isrc": "",
+      "releaseDate": "2026-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

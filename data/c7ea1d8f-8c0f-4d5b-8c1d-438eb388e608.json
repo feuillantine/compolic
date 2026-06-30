@@ -955,6 +955,15 @@
       "releaseDate": "2025-11-12",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d704de5a-e04b-4bb6-bbd2-259d424ed81b",
+      "title": "らぶこれ！",
+      "artist": "Sweet Alley",
+      "isrc": "",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

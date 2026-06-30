@@ -2632,6 +2632,15 @@
       "releaseDate": "2026-06-20",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "8c8418a3-e527-4b9f-b067-05bfd28837b4",
+      "title": "Raise Your Heart!!",
+      "artist": "亜咲花",
+      "isrc": "JPK631905801",
+      "releaseDate": "2019-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

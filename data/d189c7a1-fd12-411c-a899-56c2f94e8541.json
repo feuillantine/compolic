@@ -688,6 +688,15 @@
       "releaseDate": "2023-04-12",
       "spotifyUrl": "https://open.spotify.com/track/7zxCE4vDy6pum8Xr2DbgEQ",
       "isFallback": true
+    },
+    {
+      "id": "44a0fb23-4d23-4cb0-987e-b3fd0ae5f400",
+      "title": "パッキン",
+      "artist": "キュニコ",
+      "isrc": "",
+      "releaseDate": "2026-06-07",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

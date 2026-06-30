@@ -352,6 +352,24 @@
       "releaseDate": "2020-06-17",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "f9e532b4-d084-4ef2-839e-54070b3b1985",
+      "title": "do you jokyo?",
+      "artist": "ばってん少女隊",
+      "isrc": "",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9cf0a56c-0189-4907-b6d6-63a864b598fc",
+      "title": "びびび美少女 - りりり remix",
+      "artist": "ばってん少女隊",
+      "isrc": "",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

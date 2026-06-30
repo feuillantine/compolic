@@ -100,6 +100,24 @@
       "releaseDate": "2023-04-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a2e17baf-48e9-45cb-8ec8-8c2d113f351e",
+      "title": "花に嵐",
+      "artist": "逆転ねこぱんちっ！",
+      "isrc": "",
+      "releaseDate": "2026-06-10",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1eeeae64-e962-4890-9cf2-6fd53cb68f40",
+      "title": "信じろマイ・ハート！",
+      "artist": "逆転ねこぱんちっ！",
+      "isrc": "",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

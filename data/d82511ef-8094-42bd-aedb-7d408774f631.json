@@ -442,6 +442,15 @@
       "releaseDate": "2026-06-09",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "9649cdd5-f685-47ad-830e-0224290ae119",
+      "title": "dididi - re-recording ver",
+      "artist": "diig",
+      "isrc": "",
+      "releaseDate": "2026-06-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

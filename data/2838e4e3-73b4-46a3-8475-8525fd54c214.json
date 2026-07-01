@@ -685,6 +685,15 @@
       "releaseDate": "2026-06-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "c405d075-40a0-41cd-855a-da4008bae26f",
+      "title": "Facing My Shadow",
+      "artist": "蒼井翔太",
+      "isrc": "",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

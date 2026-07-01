@@ -1167,6 +1167,15 @@
       "releaseDate": "2014-10-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6ff2d643-a965-42ef-8d62-c8722031a3f3",
+      "title": "labradorite",
+      "artist": "綾野ましろ",
+      "isrc": "JPU901602671",
+      "releaseDate": "2016-10-04",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -787,6 +787,15 @@
       "releaseDate": "2025-11-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "c20cf2b9-2d23-43ec-a89d-1ff073ef6330",
+      "title": "スローアライズ",
+      "artist": "Endorfin.",
+      "isrc": "JPX302139060",
+      "releaseDate": "2021-12-03",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

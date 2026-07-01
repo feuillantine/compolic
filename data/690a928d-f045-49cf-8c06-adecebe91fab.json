@@ -55,6 +55,24 @@
       "releaseDate": "2023-05-20",
       "spotifyUrl": "https://open.spotify.com/track/5JuSrNjTzSRyknf4Xmcrdt",
       "isFallback": true
+    },
+    {
+      "id": "bb653a18-69e0-418b-893b-749894c76b55",
+      "title": "ドラマチックミライ (空詩かれん solo ver.)",
+      "artist": "空詩かれん",
+      "isrc": "",
+      "releaseDate": "2026-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "cbd03735-877c-4a21-a774-4ad6847ffa9d",
+      "title": "FAKE OUT",
+      "artist": "AdamLilith",
+      "isrc": "",
+      "releaseDate": "2026-06-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

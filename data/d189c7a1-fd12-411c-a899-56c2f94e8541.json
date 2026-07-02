@@ -697,6 +697,15 @@
       "releaseDate": "2026-06-07",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "3eb392b1-8298-44bf-ba19-ec5b68e12c94",
+      "title": "ベテラン新人ソロアイドル",
+      "artist": "平野友里",
+      "isrc": "",
+      "releaseDate": "2026-06-06",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

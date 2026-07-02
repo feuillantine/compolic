@@ -442,6 +442,24 @@
       "releaseDate": "2026-06-02",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "139664b2-cfbf-42fc-b7cd-1e691887a186",
+      "title": "むじゃキッズ",
+      "artist": "夢喰NEON",
+      "isrc": "",
+      "releaseDate": "2026-06-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bffef1fc-d253-4519-84b3-894a31cdde18",
+      "title": "ゴーストハンター",
+      "artist": "ホローホログラム",
+      "isrc": "",
+      "releaseDate": "2026-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

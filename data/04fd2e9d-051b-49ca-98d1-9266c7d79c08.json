@@ -1108,6 +1108,15 @@
       "releaseDate": "2010-09-01",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "7f64564f-8aa6-4841-936a-f4fca7c1aa9a",
+      "title": "未完成研磨",
+      "artist": "千葉翔也",
+      "isrc": "",
+      "releaseDate": "2026-06-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

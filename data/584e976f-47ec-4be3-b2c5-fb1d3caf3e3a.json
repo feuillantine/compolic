@@ -379,6 +379,60 @@
       "releaseDate": "2022-10-14",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "41720c55-08da-4082-a051-e70a32bc81f7",
+      "title": "TOKYO EMPiRE",
+      "artist": "SAD originals.",
+      "isrc": "TCJPW2364543",
+      "releaseDate": "2023-07-07",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fb28c30f-125b-4dac-9d68-1b86f3b5e021",
+      "title": "Dearest",
+      "artist": "SAD originals.",
+      "isrc": "",
+      "releaseDate": "2026-01-01",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8640953-3ad1-44d3-b4b2-8b8f08407c5e",
+      "title": "来世では出会いたくない",
+      "artist": "Magi♡9【マジきゅん！】",
+      "isrc": "",
+      "releaseDate": "2026-06-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d10b3e0a-db1c-461d-972d-17fc4740a7ad",
+      "title": "迷宮LoveMe",
+      "artist": "Magi♡9【マジきゅん！】",
+      "isrc": "",
+      "releaseDate": "2025-08-03",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "fcec891a-96eb-4757-b49d-e8314cb93bca",
+      "title": "悲鳴",
+      "artist": "SAD originals.",
+      "isrc": "TCJPB2499179",
+      "releaseDate": "2024-09-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "09d6f13b-4f39-4ca2-9724-a9e06802361d",
+      "title": "ラブみ本気ヤバみ！！！",
+      "artist": "Magi♡9【マジきゅん！】",
+      "isrc": "",
+      "releaseDate": "2025-08-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

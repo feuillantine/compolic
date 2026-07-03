@@ -964,6 +964,15 @@
       "releaseDate": "2026-06-19",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "709f819c-9137-489f-9ff0-cff2f7728c75",
+      "title": "思い出の花束、二度目の恋。",
+      "artist": "レトラ",
+      "isrc": "JPR502600664",
+      "releaseDate": "2026-02-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

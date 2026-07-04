@@ -451,6 +451,15 @@
       "releaseDate": "2018-12-12",
       "spotifyUrl": "https://open.spotify.com/track/63ZhrZO72syyVXRIp1VfAU",
       "isFallback": false
+    },
+    {
+      "id": "45b9b9ba-3da7-4f0e-92fb-dd6acd8d7df1",
+      "title": "Isolated Clash",
+      "artist": "fu_mou",
+      "isrc": "JPA841300402",
+      "releaseDate": "2013-11-02",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

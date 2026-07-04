@@ -145,6 +145,42 @@
       "releaseDate": "2020-04-21",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "02537ded-c06b-4db3-9432-ecf043dc9698",
+      "title": "イトシウタ",
+      "artist": "Rita",
+      "isrc": "",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "efa7911f-8e53-42fb-a336-297d820ccc3f",
+      "title": "ハジマリノトキ",
+      "artist": "Rita",
+      "isrc": "",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9294c429-217b-4861-a80b-abde5ea26401",
+      "title": "ココロノカタチ",
+      "artist": "Rita",
+      "isrc": "JPV201400467",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "610cc637-72ba-4c8e-ba53-5e59df0b2a3d",
+      "title": "紅の空",
+      "artist": "Rita",
+      "isrc": "JPV201400459",
+      "releaseDate": "2011-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

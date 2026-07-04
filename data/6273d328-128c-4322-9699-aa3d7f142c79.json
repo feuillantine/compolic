@@ -649,6 +649,15 @@
       "releaseDate": "2018-08-10",
       "spotifyUrl": "https://open.spotify.com/track/4INFnKJnwU2KrPISp9j37H",
       "isFallback": true
+    },
+    {
+      "id": "aa59c785-3d93-4a46-93ed-7c8b31e708b6",
+      "title": "マデュアル↔ハート",
+      "artist": "メロディ・ウェーブ",
+      "isrc": "",
+      "releaseDate": "2026-07-01",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

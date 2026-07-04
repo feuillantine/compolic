@@ -1504,6 +1504,15 @@
       "releaseDate": "2024-11-09",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "0c413467-064a-4c27-bf62-bff65539b11f",
+      "title": "Okie Dokie Dance",
+      "artist": "大空スバル",
+      "isrc": "JPA3C2600165",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/track/7CrucXhO0BP3vwsiDDuteK",
+      "isFallback": false
     }
   ]
 }

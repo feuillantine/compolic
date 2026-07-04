@@ -1396,6 +1396,24 @@
       "releaseDate": "2026-05-27",
       "spotifyUrl": "https://open.spotify.com/track/3ShWy0gkbnWKXoVbZgkKx6",
       "isFallback": false
+    },
+    {
+      "id": "4effbc50-ec34-42bf-b819-7fff78afe3a2",
+      "title": "Close",
+      "artist": "ヒゲドライバー",
+      "isrc": "JPA841200701",
+      "releaseDate": "2013-11-02",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9e95f515-9d1d-4717-8d43-a149e47987d5",
+      "title": "Close (GS2 Version)",
+      "artist": "ヒゲドライVAN",
+      "isrc": "JPA841500103",
+      "releaseDate": "2015-07-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

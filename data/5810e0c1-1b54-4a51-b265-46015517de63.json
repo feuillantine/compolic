@@ -262,6 +262,15 @@
       "releaseDate": "2023-04-30",
       "spotifyUrl": "https://open.spotify.com/track/6B89XtKp7YBxoUHPL8GknR",
       "isFallback": true
+    },
+    {
+      "id": "0aa23fbb-bbd5-4e46-b305-c318eb6a9bb1",
+      "title": "My cozy late night routine",
+      "artist": "繭糸",
+      "isrc": "QT66M2659590",
+      "releaseDate": "2026-04-26",
+      "spotifyUrl": "https://open.spotify.com/track/4AM5WpCtfRAxZxcBQlEseB",
+      "isFallback": false
     }
   ]
 }

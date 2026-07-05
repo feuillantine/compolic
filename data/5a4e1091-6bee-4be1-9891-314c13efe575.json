@@ -766,6 +766,15 @@
       "releaseDate": "2026-07-03",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "702aec11-db12-498a-8899-7526682f69b9",
+      "title": "TBC Hacker",
+      "artist": "Neko Hacker",
+      "isrc": "JPV752510360",
+      "releaseDate": "2024-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -181,6 +181,42 @@
       "releaseDate": "2011-12-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "fff4e76c-a5b5-4e38-a005-cdc64de2d988",
+      "title": "Reverence",
+      "artist": "伽音",
+      "isrc": "",
+      "releaseDate": "2011-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "da502b36-35e7-4893-b94b-5d42be1ddaa5",
+      "title": "My Style, My Elegance",
+      "artist": "nao",
+      "isrc": "",
+      "releaseDate": "2011-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "c09c52c4-367f-48da-8fa4-e3d619a5f525",
+      "title": "Noble Starlet",
+      "artist": "榊原ゆい",
+      "isrc": "",
+      "releaseDate": "2011-08-26",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2550e180-a81d-4171-aa51-bb9038760630",
+      "title": "がんばれ、乙女!! 〜フラグ折れても、心は折れず〜",
+      "artist": "NAO",
+      "isrc": "",
+      "releaseDate": "2013-03-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -446,6 +446,15 @@
       "releaseDate": "2025-01-06",
       "spotifyUrl": "https://open.spotify.com/track/4e8AQFUM6HRNT97pySfvHR",
       "isFallback": false
+    },
+    {
+      "id": "4a630a63-502e-4c2b-9a09-e310440901c6",
+      "title": "Yuujou Record",
+      "artist": "ミツキヨ",
+      "isrc": "QZMHP2403043",
+      "releaseDate": "2024-10-27",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

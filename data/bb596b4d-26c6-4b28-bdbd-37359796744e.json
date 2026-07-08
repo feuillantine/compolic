@@ -652,6 +652,51 @@
       "releaseDate": "2012-06-01",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d30a37ed-7598-4904-8c5b-d3c30e8251fb",
+      "title": "Sweet&Tender",
+      "artist": "iyuna",
+      "isrc": "TCJPH1877980",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b539d11e-1bfc-4328-ae37-a0cd04a4d8c5",
+      "title": "アクアプリズム",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2023-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "bb3cbe1b-ec5a-4278-b172-664a38342e93",
+      "title": "stand inside destiny",
+      "artist": "Ceui",
+      "isrc": "",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e16e8708-47cd-4832-92ee-15ee0e647b90",
+      "title": "lily",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "dc071d86-cde3-4bac-9458-8514352ea2ba",
+      "title": "Last Love",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2023-12-29",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

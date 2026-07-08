@@ -658,6 +658,15 @@
       "releaseDate": "2026-07-01",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b989c38c-af77-4fea-ba28-8c8f10416304",
+      "title": "等身大エモーション",
+      "artist": "nayuta",
+      "isrc": "TCJPK2052286",
+      "releaseDate": "2018-12-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

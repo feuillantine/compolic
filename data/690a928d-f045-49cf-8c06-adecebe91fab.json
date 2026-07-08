@@ -73,6 +73,15 @@
       "releaseDate": "2026-06-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "1d92a576-daef-45b9-bd45-b03c42e5d99c",
+      "title": "バグってラブ",
+      "artist": "Untitle",
+      "isrc": "",
+      "releaseDate": "2026-06-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

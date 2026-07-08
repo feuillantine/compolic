@@ -517,6 +517,42 @@
       "releaseDate": "2012-06-01",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "beee9b08-b74d-4f57-b0d6-2e23f63a4ea5",
+      "title": "a little hope in my hands",
+      "artist": "霜月はるか",
+      "isrc": "",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "084d9eab-4f20-4286-a73c-abe915ddef17",
+      "title": "shield nine new overdrive ver.",
+      "artist": "solfa",
+      "isrc": "",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "206e6e82-f84e-4d4b-9aaa-6e10301b61c0",
+      "title": "brand new way",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2016-12-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8becef81-7bab-4df9-90f8-4fe3b5945fea",
+      "title": "shooting star",
+      "artist": "solfa",
+      "isrc": "TCJPH1877585",
+      "releaseDate": "2017-04-28",
+      "spotifyUrl": "https://open.spotify.com/track/31g9JLTNQG4zMBHOC4OqKE",
+      "isFallback": false
     }
   ]
 }

@@ -298,6 +298,15 @@
       "releaseDate": "2017-02-25",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "5917f20e-de1a-4ffd-83f1-de823dfef465",
+      "title": "大好き♡ずっと永遠に♡",
+      "artist": "恋太郎ファミリー",
+      "isrc": "JPI102601686",
+      "releaseDate": "2026-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/7DBcVq8htpXQZQB1RScYtb",
+      "isFallback": false
     }
   ]
 }

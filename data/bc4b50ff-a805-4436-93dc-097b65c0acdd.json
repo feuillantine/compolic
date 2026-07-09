@@ -1894,6 +1894,15 @@
       "releaseDate": "2020-07-04",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "b7ab9df7-e7c0-41db-9e9e-1ce40619f63a",
+      "title": "ベランダの栞",
+      "artist": "DIALOGUE+",
+      "isrc": "",
+      "releaseDate": "2026-07-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

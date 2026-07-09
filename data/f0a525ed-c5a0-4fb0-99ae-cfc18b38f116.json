@@ -2650,6 +2650,33 @@
       "releaseDate": "2024-04-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "743210be-d754-4e8d-ac13-2b04cc1d5277",
+      "title": "来れ恋・至れ愛",
+      "artist": "恋太郎ファミリー",
+      "isrc": "JPI102601682",
+      "releaseDate": "2026-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/3BrdIKZbTuz1AZHTGzCCcL",
+      "isFallback": false
+    },
+    {
+      "id": "04918178-ee86-4ced-aec7-6da920de28b1",
+      "title": "夏に重ねて",
+      "artist": "DIALOGUE+",
+      "isrc": "",
+      "releaseDate": "2026-07-08",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5917f20e-de1a-4ffd-83f1-de823dfef465",
+      "title": "大好き♡ずっと永遠に♡",
+      "artist": "恋太郎ファミリー",
+      "isrc": "JPI102601686",
+      "releaseDate": "2026-07-06",
+      "spotifyUrl": "https://open.spotify.com/track/7DBcVq8htpXQZQB1RScYtb",
+      "isFallback": false
     }
   ]
 }

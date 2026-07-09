@@ -460,6 +460,15 @@
       "releaseDate": "2026-06-22",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "d1a127b8-e3fd-417c-8f26-c62a48b5ea51",
+      "title": "ごきげんドリンクバー",
+      "artist": "桃鈴ねね",
+      "isrc": "JPA3C2600102",
+      "releaseDate": "2026-07-08",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -580,6 +580,15 @@
       "releaseDate": "2020-12-08",
       "spotifyUrl": "https://open.spotify.com/track/4DTK378G5DqNz3mm4MVIZg",
       "isFallback": true
+    },
+    {
+      "id": "4ab75628-42d1-4f0a-bdcb-fce9f559c5ec",
+      "title": "Flat out",
+      "artist": "輪堂千速",
+      "isrc": "JPA3C2600167",
+      "releaseDate": "2026-07-09",
+      "spotifyUrl": "https://open.spotify.com/track/3hIh4LLYcOwxV83joXxnEW",
+      "isFallback": false
     }
   ]
 }

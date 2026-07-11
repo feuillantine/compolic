@@ -469,6 +469,15 @@
       "releaseDate": "2026-01-21",
       "spotifyUrl": "https://open.spotify.com/track/2IYJeP4Jtvct14AuP8ryR1",
       "isFallback": false
+    },
+    {
+      "id": "c76b278e-7e11-42ea-bf04-b666da414dc7",
+      "title": "ミラクル！ぽーたぶる☆ミッション",
+      "artist": "nao",
+      "isrc": "JPK631305501",
+      "releaseDate": "2014-12-24",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

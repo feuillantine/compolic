@@ -46,6 +46,15 @@
       "releaseDate": "2025-12-24",
       "spotifyUrl": "https://open.spotify.com/track/39AxmTMwXJldD5se2EJWnH",
       "isFallback": false
+    },
+    {
+      "id": "364756fb-d534-410b-bc6b-fe49612fa7c0",
+      "title": "憧憬",
+      "artist": "TrySail",
+      "isrc": "",
+      "releaseDate": "2026-07-09",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

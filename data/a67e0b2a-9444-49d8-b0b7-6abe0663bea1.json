@@ -91,6 +91,15 @@
       "releaseDate": "2025-11-13",
       "spotifyUrl": "https://open.spotify.com/track/67wAlaUc7trs2LlzCw3U2Q",
       "isFallback": true
+    },
+    {
+      "id": "94f65af6-e8ed-4343-8f2d-c586882e6516",
+      "title": "MUSE",
+      "artist": "IRyS",
+      "isrc": "JPA3C2600128",
+      "releaseDate": "2026-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

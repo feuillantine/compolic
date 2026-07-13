@@ -1513,6 +1513,15 @@
       "releaseDate": "2026-07-03",
       "spotifyUrl": "https://open.spotify.com/track/7CrucXhO0BP3vwsiDDuteK",
       "isFallback": false
+    },
+    {
+      "id": "1a312422-5343-47bd-934b-45db1d733e41",
+      "title": "大♡大♡大♡大好き",
+      "artist": "ぶいすぽっ！",
+      "isrc": "JPI102502016",
+      "releaseDate": "2025-09-27",
+      "spotifyUrl": "https://open.spotify.com/track/205o4qAin3jNgjJiOUAFr0",
+      "isFallback": false
     }
   ]
 }

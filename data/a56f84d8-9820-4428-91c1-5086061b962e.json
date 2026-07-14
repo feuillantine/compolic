@@ -1219,6 +1219,96 @@
       "releaseDate": "2016-07-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6b6ddbf5-aa1c-4cb1-b763-c66bb513244e",
+      "title": "コミカルB",
+      "artist": "石濱翔",
+      "isrc": "JPA991500031",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a1965144-62d5-4f1a-9a5c-830f5dce5bf2",
+      "title": "ヴィクリプスのテーマA",
+      "artist": "石濱翔",
+      "isrc": "JPA991500019",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8c6b59e2-ae6a-431b-975b-33c993e200b8",
+      "title": "コミカルC",
+      "artist": "石濱翔",
+      "isrc": "JPA991500050",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6a4ee112-1b1a-4256-8042-380d6d93c41a",
+      "title": "コミカルA",
+      "artist": "石濱翔",
+      "isrc": "JPA991500013",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "75adaac5-c65b-427f-aee7-8f242b187155",
+      "title": "穏やかな朝",
+      "artist": "石濱翔",
+      "isrc": "JPA991500004",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "e81a2491-00dc-48b8-b668-4c3cd07ce2fa",
+      "title": "テンカイフォートレス",
+      "artist": "石濱翔",
+      "isrc": "JPA991500063",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2c996b23-d614-4f58-abe9-fefbf5884560",
+      "title": "賑やかな街",
+      "artist": "石濱翔",
+      "isrc": "JPA991500014",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "8864f8c4-a311-4ef9-b509-4207c78ab593",
+      "title": "謎",
+      "artist": "石濱翔",
+      "isrc": "JPA991500028",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "49ce50dd-5ba6-4354-9470-eb80d29f8377",
+      "title": "緊迫",
+      "artist": "石濱翔",
+      "isrc": "JPA991500021",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "191557cd-2a86-41c3-993b-0e9cd53a4b97",
+      "title": "別れ",
+      "artist": "石濱翔",
+      "isrc": "JPA991500012",
+      "releaseDate": "2015-03-25",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

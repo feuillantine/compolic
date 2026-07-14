@@ -307,6 +307,15 @@
       "releaseDate": "2026-06-09",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "470005a0-c61e-4c26-a722-c11746b76c97",
+      "title": "けもっちゃお★わんだーらんど",
+      "artist": "BAYACHAO",
+      "isrc": "TCJPB2481746",
+      "releaseDate": "2024-09-14",
+      "spotifyUrl": "https://open.spotify.com/track/6fxhhNDYqzRiHr7kXhB5KN",
+      "isFallback": false
     }
   ]
 }

@@ -553,6 +553,15 @@
       "releaseDate": "2017-04-28",
       "spotifyUrl": "https://open.spotify.com/track/31g9JLTNQG4zMBHOC4OqKE",
       "isFallback": false
+    },
+    {
+      "id": "ead429b9-ef5b-4061-9245-86d9e45c522f",
+      "title": "恋のスピリッチュ",
+      "artist": "茶太",
+      "isrc": "TCJPS2264175",
+      "releaseDate": "2019-05-31",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -697,6 +697,51 @@
       "releaseDate": "2023-12-29",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "251d7755-b539-4782-a9e8-03c075834941",
+      "title": "両手いっぱいに I love you",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2020-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "f5f19948-4212-4123-b68a-84caabdc2c72",
+      "title": "lovely sister",
+      "artist": "結月そら",
+      "isrc": "",
+      "releaseDate": "2020-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "b60d5524-5d1b-45d0-8db3-1238cb10bc6e",
+      "title": "no music no solfa!!!",
+      "artist": "霜月はるか",
+      "isrc": "",
+      "releaseDate": "2013-11-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "86a48529-cb85-4867-aaea-cee98c903424",
+      "title": "甘く甘いまま",
+      "artist": "茶太",
+      "isrc": "",
+      "releaseDate": "2020-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "5c0a321d-830a-4a0d-90ae-36abed8957cc",
+      "title": "Love me do",
+      "artist": "Duca",
+      "isrc": "",
+      "releaseDate": "2020-08-22",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

@@ -397,6 +397,15 @@
       "releaseDate": "2026-05-09",
       "spotifyUrl": "https://open.spotify.com/track/3HdqmT7FBKQiLAlvFlVad6",
       "isFallback": false
+    },
+    {
+      "id": "bf8a5a71-7689-46fd-b43c-49be35d2def3",
+      "title": "プレイリスト/「あの日」",
+      "artist": "日野下花帆",
+      "isrc": "JPI102601615",
+      "releaseDate": "2026-07-01",
+      "spotifyUrl": "https://open.spotify.com/track/1zIJj1OEEyK5pmSKhYOhwG",
+      "isFallback": false
     }
   ]
 }

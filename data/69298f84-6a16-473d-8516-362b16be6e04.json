@@ -1522,6 +1522,15 @@
       "releaseDate": "2025-09-27",
       "spotifyUrl": "https://open.spotify.com/track/205o4qAin3jNgjJiOUAFr0",
       "isFallback": false
+    },
+    {
+      "id": "4404c482-b3c7-4ece-8093-38d6d40b2edd",
+      "title": "サマーラブ",
+      "artist": "癒月ちょこ",
+      "isrc": "JPA3C2600169",
+      "releaseDate": "2026-07-15",
+      "spotifyUrl": "https://open.spotify.com/track/6fY0co7lt1UJE0Ohn4eRmp",
+      "isFallback": false
     }
   ]
 }

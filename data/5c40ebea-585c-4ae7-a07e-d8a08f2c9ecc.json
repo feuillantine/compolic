@@ -37,6 +37,168 @@
       "releaseDate": "2024-10-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "86eba75e-f345-4370-a5d5-3444c6592913",
+      "title": "Am I delicious?",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "9f6b40e4-a65d-4490-bbb5-fc12e5b5e3a7",
+      "title": "たのしいことだけ",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ab01a0c1-6e04-41c8-8a0e-78033aa909f7",
+      "title": "Gardenia",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-06-15",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d8f70097-b111-458d-9ee3-7ed7ef8e3e8e",
+      "title": "Over The Horizon",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "6dd60729-3778-4f4a-8260-cfd0165bd094",
+      "title": "スイーツホリック",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2017-08-11",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "ef31517d-2ade-48f0-aafe-f6fe8da0c29b",
+      "title": "Cycling!",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "db489692-c8a9-4be4-9075-47180f30b981",
+      "title": "Sundrop",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "19a0fd86-7026-4c9e-a691-704cd502e78d",
+      "title": "モノクロの風",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "d4fdc398-7708-4cf5-a04d-7a3ceeff7a6c",
+      "title": "Jump To The Future",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "55bd778d-d994-4e1f-b4ab-6605642fcf8a",
+      "title": "Shining Girl, Shyness Love",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "edcbb6e0-da19-49db-8a4f-a07836003182",
+      "title": "Jump to the Future",
+      "artist": "Yamajet",
+      "isrc": "TCACO1699184",
+      "releaseDate": "2016-06-17",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "1369fa7a-7f4f-4b95-815b-19ed46a7945e",
+      "title": "Shining Girl, Shyness Love",
+      "artist": "Yamajet",
+      "isrc": "CAHQJ1803774",
+      "releaseDate": "2015-08-16",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "96e988c0-c323-4ee4-ac71-1f008d18212b",
+      "title": "SuperLuminalGirl Rebirth",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "deb5ea7f-be25-45c1-8888-27baf2650272",
+      "title": "サンバ・エレガンテ",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "23b46d57-a7ec-48a6-8253-fe73ae40c730",
+      "title": "Logical Steps",
+      "artist": "Yamajet",
+      "isrc": "TCABS1338314",
+      "releaseDate": "2014-12-20",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "2c76d373-7b3d-4c27-b0cf-4c404e63f0f1",
+      "title": "Sunglow",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "a5e32aa2-e83b-47ea-b3ad-78da57b3d471",
+      "title": "Buffet survivor",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
+    },
+    {
+      "id": "518c87d8-0581-4412-b397-89c5c1a1bb52",
+      "title": "FUNKYBABY EVOLUTION",
+      "artist": "Yamajet",
+      "isrc": "",
+      "releaseDate": "2016-10-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

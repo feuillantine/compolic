@@ -1480,6 +1480,15 @@
       "releaseDate": "2025-12-24",
       "spotifyUrl": "https://open.spotify.com/track/4agtWVS9lzynKNxUVJeo4c",
       "isFallback": false
+    },
+    {
+      "id": "ce19699f-d987-4115-8d04-9163b1e6e350",
+      "title": "十年越しのラストピース",
+      "artist": "marasy",
+      "isrc": "JPT362000030",
+      "releaseDate": "2020-09-30",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

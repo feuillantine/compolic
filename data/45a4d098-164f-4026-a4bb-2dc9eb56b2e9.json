@@ -307,6 +307,15 @@
       "releaseDate": "2026-05-24",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "2c9df3f4-dd80-4986-ba69-ba03e4930e3d",
+      "title": "Brand New Day",
+      "artist": "irucaice",
+      "isrc": "CAHQJ1991905",
+      "releaseDate": "2019-10-27",
+      "spotifyUrl": "https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ",
+      "isFallback": false
     }
   ]
 }

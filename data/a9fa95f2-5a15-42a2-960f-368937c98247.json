@@ -1693,6 +1693,15 @@
       "releaseDate": "2007-12-28",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "6f40051b-c9e3-4269-8898-68a9f1a6e3a4",
+      "title": "メロディタイム(short ver.)",
+      "artist": "Elements Garden",
+      "isrc": "",
+      "releaseDate": "2009-08-14",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

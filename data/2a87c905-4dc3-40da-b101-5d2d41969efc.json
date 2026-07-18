@@ -770,6 +770,15 @@
       "releaseDate": "2026-06-13",
       "spotifyUrl": "https://open.spotify.com/track/1oQWoAxwmQnNrc7RxXlUMG",
       "isFallback": false
+    },
+    {
+      "id": "2837fe43-9d5a-48b9-a0d5-810f7f20dc83",
+      "title": "ハイメンテナンスガール",
+      "artist": "オーイシマサヨシ",
+      "isrc": "",
+      "releaseDate": "2026-07-12",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

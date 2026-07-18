@@ -316,6 +316,15 @@
       "releaseDate": "2019-10-27",
       "spotifyUrl": "https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ",
       "isFallback": false
+    },
+    {
+      "id": "6e5fd970-6352-4212-baa1-d2b77c71c52f",
+      "title": "キラフルチェイン",
+      "artist": "irucaice",
+      "isrc": "",
+      "releaseDate": "2023-05-06",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

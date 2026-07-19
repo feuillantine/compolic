@@ -406,6 +406,15 @@
       "releaseDate": "2010-01-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "a8303ee8-80c9-41f4-bcb1-905a33111b8e",
+      "title": "真夏革命",
+      "artist": "片霧烈火",
+      "isrc": "",
+      "releaseDate": "2017-07-15",
+      "spotifyUrl": "",
+      "isFallback": false
     }
   ]
 }

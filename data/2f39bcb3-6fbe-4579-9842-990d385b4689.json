@@ -455,6 +455,15 @@
       "releaseDate": "2024-10-27",
       "spotifyUrl": "",
       "isFallback": false
+    },
+    {
+      "id": "38df98cb-46e8-404f-8267-589e4ca48b0c",
+      "title": "鏡の国のダブルキャスト",
+      "artist": "名取さな",
+      "isrc": "JP92Y2603495",
+      "releaseDate": "2026-03-07",
+      "spotifyUrl": "https://open.spotify.com/track/6NsjKEVo7ABLYDtcSpovV2",
+      "isFallback": false
     }
   ]
 }
